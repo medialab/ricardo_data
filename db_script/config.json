@@ -1,0 +1,11 @@
+{
+	"mdb_filename": "RICardo_v1_032015.mdb",
+	"access_toconversion_schema": "RICardo_access_schema.sql",
+	"sqlite_filename": "RICardo.sqlite",
+	"sqlite_schema": "RICardo_schema.sql",
+	"sqlite_viz": "RICardo_viz.sqlite",
+	"name_cleaning_csv": "entity_names_cleaning.csv",
+	"RICnames_csv": "entity_RICnames.csv",
+	"RICnames_aggregation_csv": "RICnames_aggregation.csv",
+	"RICardo_flow_sources": "ricardo_flow_sources.csv"
+}
