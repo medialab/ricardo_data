@@ -29,6 +29,8 @@ def test(cursor):
 	# output missing source in flows
 	#
 	missing_flow_source_list = set_flow - set_source
+	if len(missing_flow_source_list)>0:
+		print missing_flow_source_list 
 	print "flow sources missin in source table", len(missing_flow_source_list)
 	with codecs.open(os.path.join("../out_data/logs", "missing_flow_source_list" + ".csv"), "wb","UTF8") as f:
 		for s in missing_flow_source_list:
@@ -38,7 +40,8 @@ def test(cursor):
 	# output missing source in exchange_rates
 	#
 	missing_ex_source_list = set_ex - set_source
-	print missing_ex_source_list
+	if len(missing_ex_source_list)>0:
+		print missing_ex_source_list
 	print "Exchange rate missing in source table", len(missing_ex_source_list)
 	with codecs.open(os.path.join("../out_data/logs", "missing_ex_source_list" + ".csv"), "wb","utf8") as f:
 		for s in list(missing_ex_source_list):
