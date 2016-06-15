@@ -6522,8 +6522,8 @@ year,modified_currency,rate_to_pounds,source,notes
 1929,iraqi dinar,0.820058054035,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
 1930,iraqi dinar,0.815933799396,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
 1931,iraqi dinar,0.817051169773,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1932,iraqi dinar,1.0,,The dinar was introduced in 1932 at par with the pound sterling.
-1933,iraqi dinar,1.0,,The dinar was introduced in 1932 at par with the pound sterling.
+1932,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",The dinar was introduced in 1932 at par with the pound sterling.
+1933,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",The dinar was introduced in 1932 at par with the pound sterling.
 1934,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1935,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1936,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
