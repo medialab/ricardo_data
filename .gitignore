@@ -92,3 +92,5 @@ ENV/
 FedericoTena_data
 #libreoffice lock files
 .~lock.*
+#sqlite db
+*.sqlite
