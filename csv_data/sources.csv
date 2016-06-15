@@ -630,20 +630,16 @@ Estadística general del comercio exterior de España. 1914,EC-SP,Estadística g
 "Extraits d'Avis Divers, XXXV, Septembre 1838.",ACE-1,Extraits d'Avis Divers. 1e série Avis divers,sept. 1838,,,35,,,
 "Extraits d'Avis Divers, XXXVI, Décembre 1838.",ACE-1,Extraits d'Avis Divers. 1e série Avis divers,dec. 1838,,,36,,,
 Extraits d'Avis Divers. N° XXXIII. Mars 1838.,ACE-1,Extraits d'Avis Divers. 1e série Avis divers,mars 1838,,,33,,,
-FT-FIN_1856-1902,FT-FIN,"Official Statistics of Finland, Trade and Navigation",,,,,,1856-1902,
-FT-FIN_1903-1938,FT-FIN,"Official Statistics of Finland, Trade and Navigation",,,,,,1903-1938,
+FT-FIN,FT-FIN,"Official Statistics of Finland, Trade and Navigation",,,,,,,
 "G. Bondi, Deutschlands Aussenhandel 1815-1870 (1958)",AH-GER,Deutschlands Aussenhandel 1815-1870,1958,,,,,,
 "Henri Ulmer, (Avril 1938), Les échanges extérieurs de la France et de ses dépendances au cours de la période récente, Bulletin de la Statistique Générale de la France, INSEE archives",BSG-FR,Bulletin de la Statistique Générale de la France,Avril 1938,,,,,,Les échanges extérieurs de la France et de ses dépendances au cours de la période récente
 "Historical statistics of Sweden, Part 3. Foreign trade 1732-1970.",HS-SWE,Historical statistics of Sweden. Part 3. Foreign trade 1732-1970,1972,,,,,1732-1970,
 "Historical Statistics of the United States (Millenial Edition, 2006)",HS-USA,Historical Statistics of the United States,2006,,,,,,
 "HORLINGS E., NEHA-Jaarboek, 65, 2002.",NEHA,NEHA-Jaarboek,2002,,,65,,,"The International Trade of a Small and Open Economy. Revised Estimates of the Imports and Exports of Belgium, 1835-1990"
 "House of Commons Parliamentary Papers - Tables showing the Trade of the United Kingdom with different Foreign Countries and British Possessions, 1831-1840 (BNF : MICROFICHE M-15006 mf 46.264-268)",TT-UK,Tables showing the Trade of the United Kingdom with different Foreign Countries and British Possessions,,,,,BNF: MICROFICHE M-15006 mf 46.264-268,1831-1840,
-HS-FIN_1983_232-241,HS-FIN,Suomen Taloushistoria 3. Historiallinen Tilasto,1983,,232-241,,,,
-HT_62_1963_352-353,HT,Historiallisia Tutkimuksia,1963,,352-353,62,,,
+HT_62_1963_352-353,HT,"Joustela, Kauko : Suomen Venäjän kauppa autonomian ajan alkupuoliskolla vv. 1809-65 (Der Handel Finnlands mit Russland i.J. 1809-1865)",1963,,352-353,62,,,
 http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.28/table2.htm,AHSP,http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.28/table2.htm,,,,,,,
 http://www.stats.govt.nz/browse_for_stats/economic_indicators/NationalAccounts/long-term-data-series/overseas-trade-and-payments.aspx,SNZ,http://www.stats.govt.nz/browse_for_stats/economic_indicators/NationalAccounts/long-term-data-series/overseas-trade-and-payments.aspx,,,,,,,
-"Joustela, Kauko:  Suomen Venäjän kauppa autonomian ajan alkupuoliskolla vv. 1809-65 (Der Handel Finnlands mit Russland i.J. 1809-1865); Historiallisia tutkimuksia LXII, Helsinki 1963, pp. 352-353; Suomen taloushistoria 3. Historiallinen tilasto (Economic",FRT-FIN,Suomen Venäjän kauppa autonomian ajan alkupuoliskolla vv. 1809-65,1963,,,,,,
-"Joustela, Kauko:  Suomen Venäjän kauppa autonomian ajan alkupuoliskolla vv. 1809-65 (Der Handel Finnlands mit Russland i.J. 1809-1865); Historiallisia tutkimuksia LXII, Helsinki 1963, pp. 352-353;Suomen taloushistoria 3. Historiallinen tilasto (Economic History of Finland, 3. Historical Statistics), 1983, pp. 232-241 ; Official Statistics of Finland, Trade and Navigation 1856-1902 ; Official Statistics of Finland 1903-",OUPS,"Suomen Venäjän kauppa autonomian ajan alkupuoliskolla vv. 1809-65; Historiallisia tutkimuksia LXII, Helsinki 1963, pp. 352-353;Suomen taloushistoria 3. Historiallinen tilasto, 1983, pp. 232-241 ; Official Statistics of Finland, Trade and Navigation 1856-1902; Official Statistics of Finland 1903-",,,,,,,
 "KIM Nak Nyeon and PARK Ki-Joo, ""Long-term Trade Statistics and Indices in Korea, 1877-1963"", KYONG JE HAK YON GU, 2009, 57 (3).",KJHYG,Kyong Je Hak Yon Gu,2009,,,57(3),,,"Long-term Trade Statistics and Indices in Korea, 1877-1963"
 "Le commerce extérieur de l'Egypte pendant les années 1874, 1875, 1876, 1877 et 1878. BNF : 4-03B-486 (1874-1878)",CE-EGY,Le commerce extérieur de l'Egypte,,,,,BNF: 4-03B-486 (1874-1878),1874-1878,
 Le commerce extérieur national pour l'année 1832 dans ses aspects divers,CE-RUS,Le commerce extérieur national dans ses aspects divers. Russie,,,,,,1832,
@@ -919,3 +915,4 @@ Tableau général du commerce et de la navigation. France. 1913. vol 1.,TGC-FR,T
 "Trade of the United Kingdom: Revenue, Population and Commerce (Foreign Countries).1854-1855. Vol.LII (BNF: MICROFICHE M-15006 mf 59.424)",T-UK,"Trade of the United Kingdom. Revenue, Population and Commerce (Foreign Countries)",,,,LII,BNF: MICROFICHE M-15006 mf 59.424,,
 "Valério, ed., Portuguese Historical Statistics (2001)",HS-PGL,Portuguese Historical Statistics,2001,,,,,,
 ,OUPS,Portuguese Historical Statistics,,,,,,,The dinar was introduced in 1932 at par with the pound sterling.
+TULLI,TULLI,Imports and exports in 1881-2015 by countries 29.2.2016,2016,,,,,,
