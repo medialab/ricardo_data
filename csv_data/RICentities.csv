@@ -1,0 +1,1465 @@
+ID,RICname,type,central_state,continent,COW_code
+,***NA,,,,
+,A Coruna,City/Part of,Spain,Europe,
+,Aceh,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Aden,Country,Aden,Asia,681
+,Aden & Algeria & Egypt/United Arab Republic & Iran (Persia) & Asian Turkey,Group,,World,
+,Aden & British East Africa,Group,,World,
+,Aden & India,Group,,Asia,
+,Adriatic harbours,City/Part of,,Adriatic,
+,Afghanistan,Country,Afghanistan,Asia,700
+,Afghanistan & Baluchistan (Kalat),Group,,Asia,
+,Afghanistan & Iran (Persia) & Asian Turkey,Group,,Asia,
+,Africa,Geographical Area,,Africa,
+,Africa & Azores (Western Isles),Group,,World,
+,Africa & Cape Colony,Group,,Africa,
+,Africa (other),Geographical Area,,Africa,
+,Africa Coast,Geographical Area,,Africa,
+,Africa Coast & Algiers & Barbary Coast,Group,,Africa,
+,Africa Coast & Barbary Coast,Group,,Africa,
+,Africa harbours (other),City/Part of,,Africa,
+,Africa harbours (other) & Asia harbours (other),Group,,World,
+,African Turkey,City/Part of,Turkey,Africa,
+,Al Hoceima,City/Part of,Morocco,Africa,
+,Al Mukalla,City/Part of,Yemen,Asia,
+,Alaska,Country,Alaska,America,3
+,Albania,Country,Albania,Europe,339
+,Aleppo,Country,Aleppo,Asia,6525
+,Alexandria,City/Part of,Egypt/United Arab Republic,Africa,
+,Alexandria & Damietta & Jeddah & Rosetta,Group,,Africa,
+,Alexandria & Egypt/United Arab Republic,Group,,Africa,
+,Alexandria & Suez Canal Zone,Group,,Africa,
+,Algarve,City/Part of,Portugal,Europe,
+,Algeria,Country,Algeria,Africa,615
+,Algeria & France,Group,,World,
+,Algeria & France & French Colonies (other),Group,,World,
+,Algeria & France & Morocco & Tunisia,Group,,World,
+,Algeria & Morocco & Libya (Tripolitania Cyrenaica Fezzan) & Tunisia,Group,,Africa,
+,Algeria & Morocco & Tunisia & Zanzibar,Group,,Africa,
+,Algiers,City/Part of,Algeria,Africa,
+,Algiers & Annaba (Bône),Group,,Africa,
+,Algiers & Tunis,Group,,Africa,
+,Altona,City/Part of,Holstein,Europe,
+,Altona & Hamburg,Group,,Europe,
+,Altona & Schleswig,Group,,Europe,
+,Altona & Wandsbeck,Group,,Europe,
+,Ambon Island,City/Part of,Indonesia (Dutch East Indies),Asia,
+,America,Geographical Area,,America,
+,America (other),Geographical Area,,America,
+,America (other) & Europe (other),Group,,World,
+,American China,Colonial Area,United States of America,Asia,
+,American Colonies,Colonial Area,United States of America,World,
+,American Colonies & United States of America,Group,,World,
+,American Oceania,Colonial Area,United States of America,Oceania,
+,Amsterdam,City/Part of,Netherlands,Europe,
+,Amur River harbours,City/Part of,Russia/USSR,Asia,
+,Ancona,Country,Ancona,Europe,3271
+,Andaman and Nicobar Is.,Country,Andaman and Nicobar Is.,Asia,7501
+,Andorra,Country,Andorra,Europe,232
+,Angola,Country,Angola,Africa,540
+,Angra Pequena,City/Part of,South West Africa (German West Africa) (Namibia),Africa,
+,Annaba (Bône),City/Part of,Algeria,Africa,
+,Annam,Country,Annam,Asia,8152
+,Annam & Cochin China & Kampuchea (Cambodia) & French China & Tonkin,Group,,Asia,
+,Annam & Cochin China & Kampuchea (Cambodia) & Tonkin,Group,,Asia,
+,Antarctic,Geographical Area,,Antarctic,
+,Antigua & Barbuda,Country,Antigua & Barbuda,America,58
+,Antilles,Geographical Area,,America,
+,Antilles & Central America,Group,,America,
+,Antilles & Central America & Mexico,Group,,America,
+,Antilles & East Indies,Group,,World,
+,Antilles & Mauritius & Reunion,Group,,Africa,
+,Antilles & Mexico,Group,,America,
+,Antilles & Other countries,Group,,World,
+,Antilles & Southern America,Group,,America,
+,Antilles (other),Geographical Area,,America,
+,Antilles (other) & Cuba,Group,,America,
+,Antilles (other) & Pacific Islands,Group,,World,
+,Antilles (other) & Spanish America,Group,,America,
+,Antilles harbours (other),City/Part of,Antilles,America,
+,Antwerp,City/Part of,Belgium,Europe,
+,Arabia,Geographical Area,,Asia,
+,Arabia & Persian Gulf harbours,Group,,Asia,
+,Arabia & Persian Gulf harbours & Red Sea,Group,,Asia,
+,Arabia (land),Geographical Area,,Asia,
+,Arabia (other),Geographical Area,,Asia,
+,Arabia (sea),Geographical Area,,Asia,
+,Arabia (sea) & Persian Gulf harbours,Group,,Asia,
+,Aracan,City/Part of,Burma (Myanmar),Asia,
+,Aracan & Bago (Pegu) & Mawlamyine & Rangoon,Group,,Asia,
+,Aracan & Tanintharyi Region,Group,,Asia,
+,Archipel,City/Part of,,Europe,
+,Arctic,Geographical Area,,Arctic,
+,Arctic & Greenland & North Sea,Group,,World,
+,Argentina,Country,Argentina,America,160
+,Argentina & Brazil & Southern America,Group,,America,
+,Argentina & Southern America (other),Group,,America,
+,Argentina & Uruguay,Group,,America,
+,Argentina & Uruguay & Paraguay,Group,,America,
+,Argentina (other),City/Part of,Argentina,America,
+,Argentina harbours,City/Part of,Argentina,America,
+,Arica,City/Part of,Chile,America,
+,Arica & Tacna,Group,,America,
+,Arkhangelsk,City/Part of,Russia/USSR,Europe,
+,Aruba,Country,Aruba,America,1069
+,Aruba & Bonaire,Group,,America,
+,Ascension I.,Country,Ascension I.,Africa,4070
+,Ascension I. & St. Helena,Group,,Africa,
+,Asia,Geographical Area,,Asia,
+,Asia (other),Geographical Area,,Asia,
+,Asia (other) & China (People's Republic of China) & India & Indonesia (Dutch East Indies),Group,,Asia,
+,Asia (other) & East Indies,Group,,Asia,
+,Asia harbours (other),City/Part of,,Asia,
+,Asian Russia,City/Part of,Russia/USSR,Asia,
+,Asian Turkey,City/Part of,Turkey,Asia,
+,Assab,City/Part of,Eritrea,Africa,
+,Assab & Bailul & Massawah,Group,,Africa,
+,Assam,Country,Assam,Asia,7572
+,Assam & Bengal,Group,,Asia,
+,Assam & Bengal & Bihar & Odisha,Group,,Asia,
+,Atlantic Ocean,Geographical Area,,Atlantic Ocean,
+,Australia,Country,Australia,Oceania,900
+,Australia & Canada,Group,,World,
+,Australia & Cape Colony & Mauritius,Group,,World,
+,Australia & Hawaii,Group,,World,
+,Australia & New Caledonia & New Zealand,Group,,Oceania,
+,Australia & New Zealand,Group,,Oceania,
+,Australia & Oceania,Group,,Oceania,
+,Australia & Pacific Islands,Group,,Oceania,
+,Australia & Polynesia,Group,,Oceania,
+,Australia & Western Australia,Group,,Oceania,
+,Australia (other),City/Part of,Australia,Oceania,
+,Australia (other) & New Zealand & Tasmania,Group,,Oceania,
+,Australia (other) & Tasmania,Group,,Oceania,
+,Austria,Country,Austria,Europe,305
+,Austria-Hungary,Country,Austria-Hungary,Europe,300
+,Austria-Hungary & Cracow,Group,,Europe,
+,Austria-Hungary & Germany,Group,,Europe,
+,Austria-Hungary & Italy,Group,,Europe,
+,Austria-Hungary & Lombardy,Group,,Europe,
+,Austria-Hungary & Lombardy-Venetia,Group,,Europe,
+,Austria-Hungary (German States and Italian possessions),City/Part of,Austria-Hungary,Europe,
+,Austria-Hungary harbours,City/Part of,Austria-Hungary,Europe,
+,Austria-Hungary harbours & Trieste,Group,,Europe,
+,Austria-Hungary harbours in Adriatic,City/Part of,Austria-Hungary,Europe,
+,Azores (Western Isles),Country,Azores (Western Isles),Europe,400
+,Azores (Western Isles) & Cape Verde & Madeira Isles,Group,,World,
+,Azores (Western Isles) & Madeira Isles,Group,,World,
+,Azores (Western Isles) & Madeira Isles & Portugal,Group,,World,
+,Baden,Country,Baden,Europe,267
+,Baghdad,City/Part of,Iraq,Asia,
+,Bago (Pegu),City/Part of,Burma (Myanmar),Asia,
+,Bago (Pegu) & Bengal,Group,,Asia,
+,Bago (Pegu) & Rangoon,Group,,Asia,
+,Bago (Pegu) & Thailand (Siam),Group,,Asia,
+,Bahamas,Country,Bahamas,America,31
+,Bahamas & Turks and Caicos Is.,Group,,America,
+,Bahia,City/Part of,Brazil,America,
+,Bahrain,Country,Bahrain,Asia,692
+,Bailul,City/Part of,Eritrea,Africa,
+,Balaklava,City/Part of,Ukraine,Europe,
+,Balearic Islands,City/Part of,Spain,Europe,
+,Balearic Islands & Spain,Group,,Europe,
+,Bali,Country,Bali,Asia,8541
+,Bali & Lombok,Group,,World,
+,Bali & Lombok & Sumbawa,Group,,Asia,
+,Balkans,Geographical Area,,Europe,
+,Baltic harbours,City/Part of,,Baltic,
+,Baltic harbours & Belgium & Germany,Group,,Europe,
+,Baltimore,City/Part of,United States of America,America,
+,Baltiysk (Pillau),City/Part of,Prussia,Europe,
+,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Group,,Europe,
+,Baluchistan (Kalat),Country,Baluchistan (Kalat),Asia,7588
+,Bangka Island,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Bangka Island & Belitung,Group,,Asia,
+,Banjermassin (Dutch Borneo),Country,Banjermassin (Dutch Borneo),Asia,8543
+,Barbados,Country,Barbados,America,53
+,Barbary Coast,Geographical Area,,Africa,
+,Barbary Coast & Egypt/United Arab Republic,Group,,Africa,
+,Barbary Coast (other),Geographical Area,,Africa,
+,Barbary Coast (other) & Libya (Tripolitania Cyrenaica Fezzan),Group,,Africa,
+,Barcelona,City/Part of,Spain,Europe,
+,Basra,City/Part of,Iraq (Mesopotamia),Asia,
+,Bassein River,City/Part of,Burma (Myanmar),Asia,
+,Bathurst,City/Part of,Gambia,Africa,
+,Bavaria,Country,Bavaria,Europe,245
+,Bavaria & Frankfurt & Saxony,Group,,Europe,
+,Bavaria & Saxony,Group,,Europe,
+,Beira,City/Part of,Mozambique,Africa,
+,Beirut,City/Part of,Lebanon,Asia,
+,Beirut & Egypt/United Arab Republic,Group,,World,
+,Belgium,Country,Belgium,Europe,211
+,Belgium & Germany & Iran (Persia) & Morocco & Other countries & Sweden,Group,,World,
+,Belgium & Germany & Italy & Netherlands & Russia/USSR,Group,,Europe,
+,Belgium & Germany & Morocco & Other countries & Spain,Group,,World,
+,Belgium & Germany & Netherlands,Group,,Europe,
+,Belgium & Luxemburg,Group,,Europe,
+,Belgium & Netherlands,Group,,Europe,
+,Belgium & Zaire (Kinshasa) (Belgian Congo),Group,,World,
+,Belitung,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Belize (British Honduras),Country,Belize (British Honduras),America,80
+,Belize (British Honduras) & British Virgin Is.,Group,,America,
+,Belize (British Honduras) & British Virgin Is. & Guyana (Br. Guiana),Group,,America,
+,Benadir,City/Part of,Somalia,Africa,
+,Bender Kassim,City/Part of,Somalia,Africa,
+,Bengal,Geographical Area,,Asia,
+,Bengal & Burma (Myanmar),Group,,Asia,
+,Bengal & India & Persian Gulf,Group,,Asia,
+,Bengal & Sri Lanka (Ceylon),Group,,Asia,
+,Benghazi,City/Part of,Libya (Tripolitania Cyrenaica Fezzan),Africa,
+,Benin (Dahomey),Country,Benin (Dahomey),Africa,434
+,Berbera,City/Part of,Somalia,Africa,
+,Berbera & Bulhar,Group,,Africa,
+,Berbice,Country,Berbice,America,1114
+,Berbice & Demerara and Essequibo,Group,,America,
+,Bermuda,Country,Bermuda,America,30
+,Bermuda & British Virgin Is.,Group,,America,
+,Bihar,City/Part of,India,Asia,
+,Bilbao,City/Part of,Spain,Europe,
+,Bintang,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Bismarck Archipelago,City/Part of,New Guinea (German New Guinea) (Kaiser Wilhelmsland),Oceania,
+,Black Sea,City/Part of,,Europe,
+,Black Sea European harbours,City/Part of,,Europe,
+,Black Sea European harbours & Mediterranean European harbours,Group,,Europe,
+,Bokhara,Country,Bokhara,Asia,7020
+,Bolivia,Country,Bolivia,America,145
+,Bolivia & Peru,Group,,America,
+,Bonaire,Country,Bonaire,America,1066
+,Bordeaux,City/Part of,France,Europe,
+,Borneo,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Borneo & Java,Group,,Asia,
+,Borneo & Malaysia (Malaya),Group,,Asia,
+,Bosnia,Country,Bosnia,Europe,3461
+,Bosnia-Herzegovina,Country,Bosnia-Herzegovina,Europe,346
+,Bosnia-Herzegovina & Slovenia & Yugoslavia/Serbia,Group,,Europe,
+,Boston,City/Part of,United States of America,America,
+,Botswana (Bechuanaland),Country,Botswana (Bechuanaland),Africa,571
+,Braniewo (Braunsberg),City/Part of,Prussia,Europe,
+,Brazil,Country,Brazil,America,140
+,Brazil & Chile,Group,,America,
+,Brazil & Colombia (Gran Colombia),Group,,America,
+,Brazil & Viceroyalty of La Plata,Group,,America,
+,Brazil harbours,City/Part of,Brazil,America,
+,Bremen,Country,Bremen,Europe,246
+,Bremen & German harbours & Hamburg & Lubeck,Group,,Europe,
+,Bremen & Hamburg,Group,,Europe,
+,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Group,,Europe,
+,Bremen & Hamburg & Hanover & Lubeck,Group,,Europe,
+,Bremen & Hamburg & Lubeck,Group,,Europe,
+,Bremen & Hamburg & Lubeck & Netherlands,Group,,Europe,
+,Bremen & Hamburg & Lubeck & Prussia,Group,,Europe,
+,Bremen & Hanover,Group,,Europe,
+,Bremen & Lubeck,Group,,Europe,
+,Bremen & Prussia,Group,,Europe,
+,British Africa,Colonial Area,United Kingdom,Africa,
+,British Africa & Gibraltar,Group,,World,
+,British Africa (other),Colonial Area,United Kingdom,America,
+,British America,Colonial Area,United Kingdom,America,
+,British America (Atlantic),Colonial Area,United Kingdom,America,
+,British America (other),Colonial Area,United Kingdom,America,
+,British America (Pacific),Colonial Area,United Kingdom,America,
+,British Antilles,Colonial Area,United Kingdom,America,
+,British Antilles & United Kingdom,Group,,World,
+,British Asia,Colonial Area,United Kingdom,Asia,
+,British Asia & British Oceania,Group,,World,
+,British Asia (other),Colonial Area,United Kingdom,Asia,
+,British Cameroons,Country,British Cameroons,Africa,472
+,British China,Colonial Area,United Kingdom,Asia,
+,British Colonies,Colonial Area,United Kingdom,World,
+,British Colonies & United Kingdom,Group,,World,
+,British Colonies (other),Colonial Area,United Kingdom,World,
+,British Columbia,Country,British Columbia,America,1027
+,British Columbia & British East North America,Group,,America,
+,British Columbia & Rupert's Land,Group,,America,
+,British Columbia & Vancouver,Group,,America,
+,British East Africa,Colonial Area,United Kingdom,Africa,
+,British East Africa & Cape Colony & Egypt/United Arab Republic & Malagasy Republic (Madagascar),Group,,Africa,
+,British East Africa & Cape Colony & Malagasy Republic (Madagascar),Group,,Africa,
+,British East Africa (Other),Colonial Area,United Kingdom,Africa,
+,British East Indies,Colonial Area,United Kingdom,Asia,
+,British East Indies (other),Colonial Area,United Kingdom,Asia,
+,British East North America,Colonial Area,United Kingdom,America,
+,British Europe,Colonial Area,United Kingdom,Europe,
+,British India Protectorate,Colonial Area,United Kingdom,Asia,
+,British Kaffraria,Country,British Kaffraria,Africa,5614
+,British Mediterranean,Colonial Area,United Kingdom,Mediterranean,
+,British Mediterranean & United Kingdom,Group,,Europe,
+,British North America,Colonial Area,United Kingdom,America,
+,British North America & United States of America,Group,,America,
+,British North America (other),Colonial Area,United Kingdom,America,
+,British Oceania,Colonial Area,United Kingdom,Oceania,
+,British Oceania (other),Colonial Area,United Kingdom,Oceania,
+,British Somaliland (Somaliland Republic),Country,British Somaliland (Somaliland Republic),Africa,521
+,British Somaliland (Somaliland Republic) & Djibouti (Afar and Issas) (French Somaliland),Group,,Africa,
+,British Somaliland (Somaliland Republic) & Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Group,,Africa,
+,British South Africa,Colonial Area,United Kingdom,Africa,
+,British South Africa & Cape Colony,Group,,Africa,
+,British South America,Colonial Area,United Kingdom,America,
+,British South America & British Antilles & Guyana (Br. Guiana),Group,,America,
+,British South America (other),Colonial Area,United Kingdom,America,
+,British Virgin Is.,Country,British Virgin Is.,America,1061
+,British Virgin Is. & Guyana (Br. Guiana),Group,,America,
+,British Virgin Is. (other),City/Part of,British Virgin Is.,America,
+,British West Africa,Colonial Area,United Kingdom,Africa,
+,British World,Geographical Area,,World,
+,Brooketon,City/Part of,Brunei,Asia,
+,Brunei,Country,Brunei,Asia,835
+,Brunei & Sabah (North Borneo) & Sarawak,Group,,Asia,
+,Brunei & Sarawak,Group,,Asia,
+,Brunswick,Country,Brunswick,Europe,244
+,Buceo,City/Part of,Uruguay,America,
+,Buenos Aires,Country,Buenos Aires,America,1161
+,Buenos Aires & Montevideo,Group,,America,
+,Bulgaria,Country,Bulgaria,Europe,355
+,Bulgaria & Crete & European Turkey,Group,,Europe,
+,Bulgaria & European Turkey,Group,,Europe,
+,Bulgaria & Montenegro & European Turkey & Yugoslavia/Serbia,Group,,Europe,
+,Bulgaria & Montenegro & Romania & European Turkey & Yugoslavia/Serbia,Group,,Europe,
+,Bulgaria & Romania & Yugoslavia/Serbia,Group,,Europe,
+,Bulgaria & Yugoslavia/Serbia,Group,,Europe,
+,Bulhar,City/Part of,Somalia,Africa,
+,Burma (Myanmar),Country,Burma (Myanmar),Asia,775
+,Burma (Myanmar) & India,Group,,Asia,
+,Burma (Myanmar) & India & Straits Settlements,Group,,Asia,
+,Burma (Myanmar) & Malacca & Singapore,Group,,Asia,
+,Busia,City/Part of,Kenya (British East Africa Protectorate),Africa,
+,Bussarah,City/Part of,Iraq (Mesopotamia),Asia,
+,Cadix,City/Part of,Spain,Europe,
+,California (Great Bear Republic),Country,California (Great Bear Republic),America,1014
+,Callao,City/Part of,Peru,America,
+,Cameroun (French Cameroons),Country,Cameroun (French Cameroons),Africa,471
+,Canada,Country,Canada,America,20
+,Canada & Central America & United States of America,Group,,America,
+,Canada & Newfoundland,Group,,America,
+,Canada & Other countries & Southern America,Group,,World,
+,Canada & Southern America & United States of America,Group,,America,
+,Canada & United States of America,Group,,America,
+,Canada Atlantic coast,City/Part of,Canada,America,
+,Canada Pacific coast,City/Part of,Canada,America,
+,Canary Is.,Country,Canary Is.,Africa,410
+,Canary Is. & Azores (Western Isles),Group,,World,
+,Canary Is. & Cape Colony,Group,,Africa,
+,Canary Is. & Cape Colony & Malagasy Republic (Madagascar),Group,,Africa,
+,Canary Is. & Spain,Group,,World,
+,Canary Is. & Tenerife,Group,,Africa,
+,Cape Breton I.,Country,Cape Breton I.,America,1021
+,Cape Breton I. & Nova Scotia,Group,,America,
+,Cape Colony,Country,Cape Colony,Africa,561
+,Cape Colony & East Indies & Mauritius,Group,,World,
+,Cape Colony & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Group,,Africa,
+,Cape Colony & India,Group,,World,
+,Cape Colony & Mauritius,Group,,Africa,
+,Cape Colony & Mauritius & New South Wales,Group,,World,
+,Cape Colony & Natal,Group,,Africa,
+,Cape Town,City/Part of,Cape Colony,Africa,
+,Cape Verde,Country,Cape Verde,Africa,402
+,Cape Verde & Macao & Portuguese India (incl. Goa Diu Daman) & Portuguese Timor & Sao Tome-Principe,Group,,World,
+,Cap-Haïtien,City/Part of,Haiti,America,
+,Cap-Rouge,City/Part of,Quebec (Lower Canada),America,
+,Caroline Is.,Country,Caroline Is.,Oceania,9810
+,Cartagena (Colombia),City/Part of,Colombia (Gran Colombia),America,
+,Cartagena (Spain),City/Part of,Spain,Europe,
+,Casablanca,City/Part of,Morocco,Africa,
+,Casablanca & El Jadida (Mazaghan),Group,,Africa,
+,Cayman Is.,Country,Cayman Is.,America,1033
+,Central America,Geographical Area,,America,
+,Central America & Mexico,Group,,America,
+,Central America & Southern America,Group,,America,
+,Central America & Spanish America,Group,,America,
+,Cephalonia,City/Part of,Greece,Europe,
+,Ceuta,Country,Ceuta,Africa,6062
+,Chafarinas,Country,Chafarinas,Africa,6063
+,Chania,City/Part of,Crete,Europe,
+,Channel Is.,City/Part of,United Kingdom,Europe,
+,Channel Is. & Isle of Man,Group,,Europe,
+,Chennai (Madras),City/Part of,India,Asia,
+,Chennai (Madras) & Indian Coast,Group,,Asia,
+,Chennai (Madras) & Kolkata (Calcutta),Group,,Asia,
+,Chile,Country,Chile,America,155
+,Chile & Cuba & Other countries & Peru,Group,,World,
+,Chile & India,Group,,America,
+,Chile & Peru,Group,,America,
+,China (People's Republic of China),Country,China (People's Republic of China),Asia,710
+,China (People's Republic of China) & Cochin China,Group,,Asia,
+,China (People's Republic of China) & Cochin China & Macao,Group,,Asia,
+,China (People's Republic of China) & Cochin China & Oceania,Group,,World,
+,China (People's Republic of China) & Cochin China & Oceania & Philippines,Group,,World,
+,China (People's Republic of China) & East India Company & Sri Lanka (Ceylon),Group,,Asia,
+,China (People's Republic of China) & East Indies,Group,,Asia,
+,China (People's Republic of China) & East Indies & Guinea (French Guinea) (Rivieres du Sud),Group,,World,
+,China (People's Republic of China) & French Indochina,Group,,Asia,
+,China (People's Republic of China) & French Indochina & Japan,Group,,Asia,
+,China (People's Republic of China) & Hong Kong,Group,,Asia,
+,China (People's Republic of China) & Hong Kong & Singapore,Group,,Asia,
+,China (People's Republic of China) & India,Group,,Asia,
+,China (People's Republic of China) & India & Japan,Group,,Asia,
+,China (People's Republic of China) & India & Pacific Islands,Group,,World,
+,China (People's Republic of China) & India & Singapore,Group,,Asia,
+,China (People's Republic of China) & Japan,Group,,Asia,
+,China (People's Republic of China) & Macao,Group,,Asia,
+,China (People's Republic of China) & Manchuria,Group,,Asia,
+,China (People's Republic of China) & Manchuria & Mongolia,Group,,Asia,
+,China (People's Republic of China) & Mongolia,Group,,Asia,
+,China (People's Republic of China) & Philippines,Group,,Asia,
+,China (People's Republic of China) & Philippines & Thailand (Siam),Group,,Asia,
+,Chinese treaty ports,City/Part of,China (People's Republic of China),Asia,
+,Chittagong,City/Part of,Bangladesh,Asia,
+,Chittagong & Rakhine State & Tanintharyi Region,Group,,Asia,
+,Christmas I.,Country,Christmas I.,Asia,9001
+,Civitavecchia,City/Part of,Papal States,Europe,
+,Clipperton I.,Country,Clipperton I.,America,9610
+,Cochin China,Country,Cochin China,Asia,8151
+,Cochin China & Annam & Tonkin,Group,,Asia,
+,Cochin China & Indonesia (Dutch East Indies) & Philippines & Thailand (Siam),Group,,Asia,
+,Cochin China & Kampuchea (Cambodia),Group,,Asia,
+,Cochin China & Kampuchea (Cambodia) & Tonkin,Group,,Asia,
+,Cochin China & Thailand (Siam),Group,,Asia,
+,Colombia (Gran Colombia),Country,Colombia (Gran Colombia),America,100
+,Colombia (Gran Colombia) & Ecuador & Venezuela,Group,,America,
+,Colombia (Gran Colombia) & Guatemala,Group,,America,
+,Colombia (Gran Colombia) & Guatemala & Venezuela,Group,,America,
+,Colombia (Gran Colombia) & Panama,Group,,America,
+,Colombia (Gran Colombia) & Venezuela,Group,,America,
+,Colón,City/Part of,Panama,America,
+,Comoros,Country,Comoros,Africa,581
+,Comoros & Malagasy Republic (Madagascar),Group,,Africa,
+,Congo (Brazzaville) (French Congo) (Middle Congo),Country,Congo (Brazzaville) (French Congo) (Middle Congo),Africa,484
+,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Group,,Africa,
+,Continental Europe,Geographical Area,,Europe,
+,Corfu,Country,Corfu,Europe,3351
+,Corfu & Malta,Group,,Europe,
+,Cork,City/Part of,Ireland,Europe,
+,Coromandel Coast Posts,Country,Coromandel Coast Posts,Asia,7503
+,Coromandel Coast Posts & Malabar Coast,Group,,Asia,
+,Costa Rica,Country,Costa Rica,America,94
+,Costa Rica & El Salvador & Guatemala,Group,,America,
+,Costa Rica & El Salvador & Guatemala & Honduras,Group,,America,
+,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Group,,America,
+,Costa Rica & Guatemala & Honduras,Group,,America,
+,Cracow,Country,Cracow,Europe,2292
+,Crete,Country,Crete,Europe,351
+,Crete & Egypt/United Arab Republic,Group,,World,
+,Crete & Greece,Group,,Europe,
+,Crimea harbours,City/Part of,Russia/USSR,Europe,
+,Croatia,Country,Croatia,Europe,344
+,Croatia & Dalmatia & Illyria,Group,,Europe,
+,Croatia & Slovenia & Yugoslavia/Serbia,Group,,Europe,
+,Crozet Is.,Country,Crozet Is.,Oceania,9974
+,Cuba,Country,Cuba,America,40
+,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Thomas & St. Croix,Group,,America,
+,Cuba & Haiti & Other countries & Puerto Rico,Group,,World,
+,Cuba & La Guaira,Group,,America,
+,Cuba & Philippines & Puerto Rico,Group,,America,
+,Cuba & Puerto Rico,Group,,America,
+,Cuba & Spain,Group,,World,
+,Curacao,Country,Curacao,America,1065
+,Curacao & Dutch Windward Is. & Sint Eustatius,Group,,America,
+,Curacao & Jamaica & Trinidad and Tobago,Group,,America,
+,Cuxhaven,City/Part of,Hamburg,Europe,
+,Cuxhaven & Heligoland,Group,,Europe,
+,Cyprus,Country,Cyprus,Europe,352
+,Cyprus & Asian Turkey,Group,,World,
+,Cyprus & Gibraltar & Malta,Group,,Europe,
+,Cyprus & Gozo & Malta,Group,,Europe,
+,Cyprus & Malta & Yugoslavia/Serbia,Group,,Europe,
+,Cyrenaica,Country,Cyrenaica,Africa,6202
+,Cyrenaica & Tripolitania,Group,,Africa,
+,Czechoslovakia,Country,Czechoslovakia,Europe,315
+,Dalmatia,City/Part of,Austria,Europe,
+,Dalny,City/Part of,Russia/USSR,Europe,
+,Dalny & Korea (Chosen) & Vladivostok,Group,,World,
+,Damietta,City/Part of,Egypt/United Arab Republic,Africa,
+,Danish America,Colonial Area,Denmark,America,
+,Danish Colonies,Colonial Area,Denmark,World,
+,Danish Colonies & Denmark,Group,,World,
+,Danish Europe,Colonial Area,Denmark,Europe,
+,Danzig,Country,Danzig,Europe,291
+,Danzig & Memel,Group,,Europe,
+,Danzig & Poland,Group,,Europe,
+,Dardanelles-Istanbul,Country,Dardanelles-Istanbul,Asia,6405
+,Dardanelles-Istanbul & Greece & Levant,Group,,World,
+,Dardanelles-Istanbul & Izmir (Smyrna),Group,,World,
+,Dardanelles-Istanbul & Turkish harbours,Group,,World,
+,Davis Strait,Geographical Area,,America,
+,Davis Strait & Greenland,Group,,America,
+,Delhi,City/Part of,India,Asia,
+,Demerara and Essequibo,Country,Demerara and Essequibo,America,1113
+,Denmark,Country,Denmark,Europe,390
+,Denmark & Faeroe Is.,Group,,Europe,
+,Denmark & Faeroe Is. & Greenland & Iceland,Group,,World,
+,Denmark & Faeroe Is. & Iceland,Group,,Europe,
+,Denmark & Greenland,Group,,World,
+,Denmark & Greenland & Iceland,Group,,World,
+,Denmark & Holstein & Schleswig,Group,,Europe,
+,Denmark & Iceland,Group,,Europe,
+,Denmark & Madeira Isles & Spain,Group,,World,
+,Denmark & Norway,Group,,Europe,
+,Denmark & Norway & Russia/USSR & Sweden,Group,,Europe,
+,Denmark & Norway & Sweden,Group,,Europe,
+,Denmark & Russia/USSR,Group,,Europe,
+,Denmark & Russia/USSR & Sweden,Group,,Europe,
+,Denmark & St. Thomas,Group,,World,
+,Denmark & Sweden,Group,,Europe,
+,Denmark & Virgin Islands,Group,,World,
+,Denmark harbours,City/Part of,Denmark,Europe,
+,Diarbekir,City/Part of,Armenia,Asia,
+,Djibouti (Afar and Issas) (French Somaliland),Country,Djibouti (Afar and Issas) (French Somaliland),Africa,522
+,Djibouti (Afar and Issas) (French Somaliland) & Obock,Group,,Africa,
+,Dodecanese Is. (Aegean Is.),Country,Dodecanese Is. (Aegean Is.),Europe,3353
+,Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),Group,,World,
+,Dominica,Country,Dominica,America,54
+,Dominican Republic (Santo Domingo),Country,Dominican Republic (Santo Domingo),America,42
+,Dominican Republic (Santo Domingo) & Haiti,Group,,America,
+,Dunkirk,City/Part of,France,Europe,
+,Dutch America,Colonial Area,Netherlands,America,
+,Dutch Asia,Colonial Area,Netherlands,Asia,
+,Dutch Asia & Dutch Oceania,Group,,World,
+,Dutch Colonies,Colonial Area,Netherlands,World,
+,Dutch Colonies & Netherlands,Group,,World,
+,Dutch Colonies (other),Colonial Area,Netherlands,World,
+,Dutch government,City/Part of,Netherlands,Europe,
+,Dutch Oceania,Colonial Area,Netherlands,Oceania,
+,Dutch Oceania (other),Colonial Area,Netherlands,Oceania,
+,Dutch Posts (Gold Coast),Country,Dutch Posts (Gold Coast),Africa,4535
+,Dutch Windward Is.,Country,Dutch Windward Is.,America,1074
+,East Africa,Geographical Area,,Africa,
+,East Africa (other),Geographical Area,,Africa,
+,East Frisia,City/Part of,Germany,Europe,
+,East India Company,City/Part of,India,Asia,
+,East India Company & Sri Lanka (Ceylon),Group,,Asia,
+,East Indies,Geographical Area,,Asia,
+,East Indies & Thailand (Siam),Group,,Asia,
+,East Indies (other),Geographical Area,,Asia,
+,Eastern Rumelia,Country,Eastern Rumelia,Europe,3551
+,Ecuador,Country,Ecuador,America,130
+,Ecuador & Guatemala,Group,,America,
+,Ecuador & Peru,Group,,America,
+,Egypt/United Arab Republic,Country,Egypt/United Arab Republic,Africa,651
+,Egypt/United Arab Republic & Indian Transit,Group,,World,
+,Egypt/United Arab Republic & Libya (Tripolitania Cyrenaica Fezzan),Group,,Africa,
+,Egypt/United Arab Republic & Other countries,Group,,World,
+,Egypt/United Arab Republic & Sudan (Anglo-Egyptian),Group,,Africa,
+,Egypt/United Arab Republic & Syria,Group,,World,
+,Egypt/United Arab Republic & Syria & Beirut,Group,,World,
+,Egypt/United Arab Republic harbours (other),City/Part of,Egypt/United Arab Republic,Africa,
+,El Jadida (Mazaghan),City/Part of,Morocco,Africa,
+,El Salvador,Country,El Salvador,America,92
+,Elbe,City/Part of,Germany,Europe,
+,English Channel,Geographical Area,,Europe,
+,Eritrea,Country,Eritrea,Africa,531
+,Eritrea & Italian Somaliland,Group,,Africa,
+,Erzurum,City/Part of,Turkey,Asia,
+,Essaouira (Mogador),City/Part of,Morocco,Africa,
+,Essaouira (Mogador) & Safi,Group,,Africa,
+,Estonia,Country,Estonia,Europe,366
+,Ethiopia (Abyssinia),Country,Ethiopia (Abyssinia),Africa,530
+,Europe,Geographical Area,,Europe,
+,Europe & European Russia,Group,,Europe,
+,Europe (other),Geographical Area,,Europe,
+,Europe (other) & Levant,Group,,World,
+,European America,Colonial Area,Europe,America,
+,European harbours,City/Part of,,Europe,
+,European Russia,City/Part of,Russia/USSR,Europe,
+,European Turkey,City/Part of,Turkey,Europe,
+,European Turkey & Asian Turkey,Group,,World,
+,European Turkey & Asian Turkey & African Turkey,Group,,World,
+,European Turkey & Montenegro & Romania & Yugoslavia/Serbia,Group,,Europe,
+,European Turkey & Romania,Group,,Europe,
+,Faeroe Is.,Country,Faeroe Is.,Europe,11
+,Faeroe Is. & Greenland,Group,,World,
+,Faeroe Is. & Greenland & Iceland,Group,,World,
+,Faeroe Is. & Iceland,Group,,Europe,
+,Falkland Is.,Country,Falkland Is.,America,1163
+,Falkland Is. & Uruguay,Group,,America,
+,Federated Malay States,Country,Federated Malay States,Asia,821
+,Feodosia,City/Part of,Russia/USSR,Europe,
+,Fernando Po (Bioko),Country,Fernando Po (Bioko),Africa,413
+,Figueira,City/Part of,Portugal,Europe,
+,Fiji,Country,Fiji,Oceania,950
+,Finland,Country,Finland,Europe,375
+,Finland & Russia/USSR,Group,,Europe,
+,Fiume,Country,Fiume,Europe,3343
+,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Group,,Europe,
+,Fiume & Trieste,Group,,Europe,
+,Fort St. George,City/Part of,India,Asia,
+,France,Country,France,Europe,220
+,France & French Colonies,Group,,World,
+,France & French Mediterranean,Group,,Europe,
+,France & Netherlands,Group,,Europe,
+,France & Tahiti,Group,,World,
+,France (foreign produce),Country ,,Europe,220
+,France (French produce),Country ,France,Europe,220
+,France (French produce) & French colonies (French produce),Group,,World,
+,France (sea),City/Part of,France,Europe,
+,France Atlantic Coast,City/Part of,France,Europe,
+,France harbours,City/Part of,France,Europe,
+,France Mediterranean Coast,City/Part of,France,Europe,
+,Frankfurt,Country,Frankfurt,Europe,247
+,Free ports,,,,
+,French Africa,Colonial Area,France,Africa,
+,French Africa (other),Colonial Area,France,Africa,
+,French America,Colonial Area,France,America,
+,French Antilles,Colonial Area,France,America,
+,French Antilles & French Guyana,Group,,America,
+,French Asia,Colonial Area,France,Asia,
+,French Asia & French Oceania,Group,,World,
+,French China,Colonial Area,France,Asia,
+,French Colonies,Colonial Area,France,World,
+,French Colonies (foreign produce),Colonial Area,,World,
+,French Colonies (French produce),Colonial Area,,World,
+,French Colonies (other),Colonial Area,France,World,
+,French entrepôts,City/Part of,France,Europe,
+,French Equatorial Africa,Country,French Equatorial Africa,Africa,480
+,French Gulf of Guinea,Colonial Area,France,Africa,
+,French Gulf of Guinea & Senegal,Group,,Africa,
+,French Guyana,Country,French Guyana,America,120
+,French India,Country,French India,Asia,751
+,French India & India & Portuguese India (incl. Goa Diu Daman),Group,,Asia,
+,French Indochina,Country,French Indochina,Asia,810
+,French Mediterranean,City/Part of,France,Mediterranean,
+,French North America,Colonial Area,France,America,
+,French Oceania,Colonial Area,France,Oceania,
+,French West Africa,Country,French West Africa,Africa,430
+,French West Africa (other),City/Part of,French West Africa,Africa,
+,French West Indies,Colonial Area,France,America,
+,Gabon,Country,Gabon,Africa,481
+,Galicia,City/Part of,Austria-Hungary,Europe,
+,Galicia & Poland & Russian provinces,Group,,Europe,
+,Gambia,Country,Gambia,Africa,420
+,Gambia & Senegal,Group,,Africa,
+,Gambia & Sierra Leone,Group,,Africa,
+,Genoa,City/Part of,Kingdom of Sardinia,Europe,
+,Genoa & Livorno,Group,,Europe,
+,Genoa & Trieste,Group,,Europe,
+,German Africa,Colonial Area,Germany,Africa,
+,German China,Colonial Area,Germany,Asia,
+,German Colonies,Colonial Area,Germany,World,
+,German Confederation,City/Part of,Germany,Europe,
+,German East Africa,Colonial Area,Germany,Africa,
+,German East Africa & Germany,Group,,World,
+,German harbours,City/Part of,Germany,Europe,
+,German harbours (other),City/Part of,Germany,Europe,
+,German Oceania,Colonial Area,Germany,Oceania,
+,German Oceania & German China,Group,,World,
+,German West Africa,Colonial Area,Germany,Africa,
+,Germany,Country,Germany,Europe,255
+,Germany & German Colonies,Group,,World,
+,Germany & Rhineland,Group,,Europe,
+,Germany & Saar,Group,,Europe,
+,Germany (lower Elbe),City/Part of,Germany,Europe,
+,Germany (other),City/Part of,Germany,Europe,
+,Germany (other) & Prussia,Group,,Europe,
+,Germany (upper Elbe),City/Part of,Germany,Europe,
+,Germany (Zollverein),Country,,Europe,255Z
+,"Germany (Zollverein, other)",Geographical area,,Europe,
+,Ghana (Gold Coast),Country,Ghana (Gold Coast),Africa,452
+,Gibraltar,Country,Gibraltar,Europe,231
+,Gibraltar & Ionian Is. & Malta & United Kingdom,Group,,Europe,
+,Gibraltar & Malta,Group,,Europe,
+,Gibraltar & Newfoundland & United Kingdom,Group,,Europe,
+,Gibraltar & Portugal & Spain,Group,,Europe,
+,Gibraltar & Spain,Group,,Europe,
+,Gibraltar & Spain & Spanish Colonies,Group,,World,
+,Gibraltar & United Kingdom,Group,,Europe,
+,Gijón,City/Part of,Spain,Europe,
+,Gilbert and Ellice Is.,Country,Gilbert and Ellice Is.,Oceania,945
+,Gilbert and Ellice Is. & Kiribati,Group,,Oceania,
+,Gonaïves,City/Part of,Haiti,America,
+,Goree,Country,Goree,Africa,4338
+,Gozo,City/Part of,Malta,Europe,
+,Gozo & Malta,Group,,Europe,
+,Greece,Country,Greece,Europe,350
+,Greece & Ionian Is.,Group,,Europe,
+,Greece & Malta,Group,,Europe,
+,Greece & Malta & Turkey,Group,,Europe,
+,Greece & Russia/USSR & Turkey,Group,,World,
+,Greece & Turkey,Group,,World,
+,Greenland,Country,Greenland,America,10
+,Greenland & Iceland,Group,,World,
+,Greenland & Svalbard Is.,Group,,World,
+,Grenada,Country,Grenada,America,55
+,Guadeloupe,Country,Guadeloupe,America,65
+,Guadeloupe & Martinique,Group,,America,
+,Guadeloupe & Martinique & Reunion,Group,,World,
+,Guam,Country,Guam,Oceania,985
+,Guam & Philippines,Group,,World,
+,Guangzhou (Canton),City/Part of,China (People's Republic of China),Asia,
+,Guangzhou (Canton) & Manila,Group,,Asia,
+,Guatemala,Country,Guatemala,America,90
+,Guatemala & Mexico,Group,,America,
+,Guatemala & Mexico & Texas,Group,,America,
+,Guatemala & Nicaragua,Group,,America,
+,Guayaquil,City/Part of,Ecuador,America,
+,Guesloff,City/Part of,Russia/USSR,Europe,
+,Guinea (French Guinea) (Rivieres du Sud),Country,Guinea (French Guinea) (Rivieres du Sud),Africa,438
+,Guinea (French Guinea) (Rivieres du Sud) & Senegal & Gambia,Group,,Africa,
+,Guinea Coast,Geographical Area,,Africa,
+,Guinea-Bissau (Portuguese Guinea),Country,Guinea-Bissau (Portuguese Guinea),Africa,404
+,Guyana (Br. Guiana),Country,Guyana (Br. Guiana),America,110
+,Guyana (Br. Guiana) & French Guyana & Surinam,Group,,America,
+,Haiti,Country,Haiti,America,41
+,Haiti & Venezuela,Group,,America,
+,Halifax,City/Part of,Nova Scotia,America,
+,Hamburg,Country,Hamburg,Europe,248
+,Hamburg & Germany (Zollverein),Group,,Europe,
+,Hamburg & Lüneburg,Group,,Europe,
+,Hamburg & North Germany,Group,,Europe,
+,Hanover,Country,Hanover,Europe,240
+,Hanover & Mecklenburg Schwerin & Oldenburg,Group,,Europe,
+,Hanover & Mecklenburg Schwerin & Prussia,Group,,Europe,
+,Hanover & Oldenburg,Group,,Europe,
+,Harburg,City/Part of,Hamburg,Europe,
+,Harburg & Lüneburg,Group,,Europe,
+,Havana,City/Part of,Cuba,America,
+,Hawaii,Country,Hawaii,America,4
+,Hawaii & Puerto Rico & United States of America,Group,,America,
+,Hawaii & United States of America,Group,,America,
+,Hejaz Sultanate,Country,Hejaz Sultanate,Asia,671
+,Heligoland,Country,Heligoland,Europe,2249
+,Ho Chi Minh City,City/Part of,French Indochina,Asia,
+,Holstein,Country,Holstein,Europe,2248
+,Holstein & Lauenburg & Schleswig,Group,,Europe,
+,Holstein & Schleswig,Group,,Europe,
+,Holstein & Schleswig (via Altona),Geographical Area,,Europe,
+,Holstein (via Altona),Geographical Area,,Europe,
+,Honduras,Country,Honduras,America,91
+,Honduras & Mexican East Coast,Group,,America,
+,Hong Kong,Country,Hong Kong,Asia,720
+,Hong Kong & India,Group,,Asia,
+,Hungary,Country,Hungary,Europe,310
+,Iceland,Country,Iceland,Europe,395
+,Ichaboe Island,City/Part of,South West Africa (German West Africa) (Namibia),Africa,
+,Ichiboe,City/Part of,Cape Colony,Africa,
+,Illyria,City/Part of,Austria,Europe,
+,Imperia (Porto Maurizio),City/Part of,Italy,Europe,
+,Independant Indian Ocean Islands,Geographical Area,,Oceania,
+,Independant Indian Ocean Islands (other),Geographical Area,,Oceania,
+,India,Country,India,Asia,750
+,India & Mauritius,Group,,World,
+,India & New South Wales & United Kingdom,Group,,World,
+,India & Sri Lanka (Ceylon),Group,,Asia,
+,India & Straits Settlements,Group,,Asia,
+,India & Thailand (Siam),Group,,Asia,
+,India (domestic produce),Country ,India,Asia,750
+,India (foreign produce),Country ,India,Asia,750
+,India (other),City/Part of,India,Asia,
+,Indian Archipelago,Geographical Area,,Asia,
+,Indian Coast,City/Part of,India,Asia,
+,Indian Ocean Islands,Geographical Area,,Oceania,
+,Indian Ocean Islands (other),Geographical Area,,Oceania,
+,Indian Ocean Islands (other) & Java & Sumatra,Group,,Asia,
+,Indian Transit,City/Part of,India,Asia,
+,Indonesia (Dutch East Indies),Country,Indonesia (Dutch East Indies),Asia,850
+,Indonesia (Dutch East Indies) (other),City/Part of,Indonesia (Dutch East Indies),Asia,
+,Indonesia (Dutch East Indies) (other) & Java,Group,,Asia,
+,International waters,Geographical Area,,World,
+,Ionian Is.,Country,Ionian Is.,Europe,3349
+,Ionian Is. & Malta,Group,,Europe,
+,Ionian Is. & Malta & United Kingdom,Group,,Europe,
+,Ionian Is. & Morea,Group,,Europe,
+,Ionian Is. & United Kingdom,Group,,Europe,
+,Iquique,City/Part of,Chile,America,
+,Iran (Persia),Country,Iran (Persia),Asia,630
+,Iran (Persia) & Middle-East & Asian Turkey,Group,,Asia,
+,Iraq (Mesopotamia),Country,Iraq (Mesopotamia),Asia,645
+,Iraq (Mesopotamia) & Kuwait,Group,,Asia,
+,Ireland,Country,Ireland,Europe,205
+,Ireland & United Kingdom,Group,,Europe,
+,Isle of Man,City/Part of,United Kingdom,Europe,
+,Israel,Country,Israel,Asia,666
+,Italian Africa,Colonial Area,Italy,Africa,
+,Italian Austria,Colonial Area,Italy,Europe,
+,Italian Colonies,Colonial Area,Italy,World,
+,Italian Colonies & Italy,Group,,World,
+,Italian East Africa,Colonial Area,Italy,Africa,
+,Italian Somaliland,Country,Italian Somaliland,Africa,5200
+,Italy,Country,Italy,Europe,325
+,Italy & Sardinia,Group,,Europe,
+,Italy (other),City/Part of,Italy,Europe,
+,Ivory Coast,Country,Ivory Coast,Africa,437
+,Izmir (Smyrna),City/Part of,Turkey,Asia,
+,Jacmel,City/Part of,Haiti,America,
+,Jakarta (Batavia),City/Part of,Indonesia (Dutch East Indies),Asia,
+,Jakarta (Batavia) & Java & Sumatra,Group,,Asia,
+,Jakarta (Batavia) & Singapore,Group,,Asia,
+,Jamaica,Country,Jamaica,America,51
+,Japan,Country,Japan,Asia,740
+,Japan & Japan China & Republic of China (Taiwan) (Formosa),Group,,Asia,
+,Japan & Republic of China (Taiwan) (Formosa),Group,,Asia,
+,Japan & Southern Sakhalin I.,Group,,Asia,
+,Japan China,City/Part of,Japan,Asia,
+,Japan Islands,City/Part of,Japan,Asia,
+,Java,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Java & Bali & Riau,Group,,Asia,
+,Java & Banjermassin (Dutch Borneo),Group,,Asia,
+,Java & Madura Island,Group,,Asia,
+,Java & Madura Island & Indonesia (Dutch East Indies) (other),Group,,Asia,
+,Java & Maluku Islands (Mollucas),Group,,Asia,
+,Java & Neighbouring Islands,Group,,Asia,
+,Java & Sumatra,Group,,Asia,
+,Java (English flag),City/Part of,Indonesia,Asia,
+,Java (foreign flag),City/Part of,Indonesia,Asia,
+,Jeddah,City/Part of,Saudi Arabia (Nejd Wahabbid Empire),Africa,
+,Jérémie,City/Part of,Haiti,America,
+,Jerusalem,City/Part of,Israel,Asia,
+,Johanna,,,,
+,Johore,Country,Johore,Asia,8221
+,Johore & Kedah & Kelantan & Perlis & Trengganu,Group,,Asia,
+,Jolo,City/Part of,Philippines,Asia,
+,Jordan (Transjordan),Country,Jordan (Transjordan),Asia,663
+,Kaliningrad (Königsberg),City/Part of,Prussia,Europe,
+,Kamchatka,City/Part of,Russia/USSR,Asia,
+,Kamerun,Country,Kamerun,Africa,470
+,Kamerun & Togo (French Togoland),Group,,Africa,
+,Kampuchea (Cambodia),Country,Kampuchea (Cambodia),Asia,811
+,Kanagawa,City/Part of,Japan,Asia,
+,Karachi,City/Part of,Pakistan,Asia,
+,Karachi & Mumbai (Bombay),Group,,Asia,
+,Karachi & Mumbai (Bombay) & other harbours,Group,,Asia,
+,Karachi & Mumbai harbours (other),Group,,Asia,
+,Karaikal,City/Part of,French India,Asia,
+,Kedah,Country,Kedah,Asia,8222
+,Kelantan,Country,Kelantan,Asia,8223
+,Kenya (British East Africa Protectorate),Country,Kenya (British East Africa Protectorate),Africa,501
+,Kenya (British East Africa Protectorate) & Malawi (Nyasaland),Group,,Africa,
+,Kenya (British East Africa Protectorate) & Uganda,Group,,Africa,
+,Kenya (British East Africa Protectorate) & Zanzibar,Group,,Africa,
+,Khar,City/Part of,Iran (Persia),Asia,
+,Khiva,Country,Khiva,Asia,7030
+,Khorramshahr (Mohammerah),City/Part of,Iraq (Mesopotamia),Asia,
+,Kiauchau,Country,Kiauchau,Asia,7220
+,Kingdom of Sardinia,Country,Kingdom of Sardinia,Europe,325S
+,Kingdom of Sardinia & Genoa,Group,,Europe,
+,Kingdom of Sardinia & Monaco,Group,,Europe,
+,Kingdom of Sardinia & Papal States & Two Sicilies,Group,,Europe,
+,Kingdom of Sardinia & Tuscany,Group,,Europe,
+,Kingdom of Sardinia & Two Sicilies,Group,,Europe,
+,Kingdom of Sardinia (land),City/Part of,Kingdom of Sardinia,Europe,
+,Kiribati,Country,Kiribati,Oceania,946
+,Klaipėda (Memel),City/Part of,Prussia,Europe,
+,Kniphausen,City/Part of,Oldenburg,Europe,
+,Kniphausen & Oldenburg,Group,,Europe,
+,Kokand,Country,Kokand,Asia,7010
+,Kolkata (Calcutta),City/Part of,India,Asia,
+,Kolkata (Calcutta) & Sri Lanka (Ceylon),Group,,Asia,
+,Kongpot,City/Part of,,Asia,
+,Kooria Mooria Islands,Geographical Area,,Asia,
+,Korea (Chosen),Country,Korea (Chosen),Asia,730
+,Koszalin,City/Part of,Prussia,Europe,
+,Koszalin & Stralsund & Szczecin,Group,,Europe,
+,Kuddalore,City/Part of,India,Asia,
+,Kurdistan,Geographical Area,,Asia,
+,Kuwait,Country,Kuwait,Asia,690
+,Kwanchowan,Country,Kwanchowan,Asia,7110
+,Kwangtung Territory (Leased),Country,Kwangtung Territory (Leased),Asia,7104
+,Kyrgyzstan,Country,Kyrgyzstan,Asia,703
+,La Guaira,City/Part of,Venezuela,America,
+,Labuan I.,Country,Labuan I.,Asia,8231
+,Lagos,Country,Lagos,Africa,4781
+,Larnaca,City/Part of,Cyprus,Europe,
+,Latvia,Country,Latvia,Europe,367
+,Lauenburg,Country,Lauenburg,Europe,2246
+,Le Havre,City/Part of,France,Europe,
+,Lebanon,Country,Lebanon,Asia,660
+,Leeward Coast of Africa,Geographical Area,,Africa,
+,Leeward Is.,Country,Leeward Is.,America,1063
+,Les Cayes,City/Part of,Haiti,America,
+,Lesotho (Basutoland),Country,Lesotho (Basutoland),Africa,570
+,Levant,Geographical Area,,Asia,
+,Levant & Europe,Group,,World,
+,Liberia,Country,Liberia,Africa,450
+,Libya (Tripolitania Cyrenaica Fezzan),Country,Libya (Tripolitania Cyrenaica Fezzan),Africa,620
+,Libya (Tripolitania Cyrenaica Fezzan) & Tunisia,Group,,Africa,
+,Liepãja,City/Part of,Russia/USSR,Europe,
+,Lisbon,City/Part of,Portugal,Europe,
+,Lisbon & Porto,Group,,Europe,
+,Lithuania,Country,Lithuania,Europe,368
+,Lithuania & Memel,Group,,Europe,
+,Liverpool,City/Part of,United Kingdom,Europe,
+,Livorno,City/Part of,Tuscany,Europe,
+,Lombardy,City/Part of,Lombardy-Venetia,Europe,
+,Lombardy-Venetia,City/Part of,Italy,Europe,
+,Lombok,Country,Lombok,Oceania,8542
+,London,City/Part of,United Kingdom,Europe,
+,Lubeck,Country,Lubeck,Europe,276
+,Lubeck & Mecklenburg Schwerin & Other countries,Group,,World,
+,Lucca,Country,Lucca,Europe,336
+,Lucca & Modena & Papal States & Parma & Tuscany,Group,,Europe,
+,Lucca & Monaco & Papal States,Group,,Europe,
+,Lucca & Papal States,Group,,Europe,
+,Lucca & Tuscany,Group,,Europe,
+,Lüneburg,City/Part of,Germany,Europe,
+,Luxemburg,Country,Luxemburg,Europe,212
+,Macao,Country,Macao,Asia,721
+,Macao & Portuguese Timor,Group,,Asia,
+,Macedonia,City/Part of,Turkey,Asia,
+,Madagascar dependencies,Colonial Area,Malagasy Republic (Madagascar),Africa,
+,Madeira Isles,Country,Madeira Isles,Africa,401
+,Madeira Isles & Portugal,Group,,World,
+,Madeira Isles & Tenerife,Group,,Africa,
+,Madura Island,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Makran,City/Part of,Pakistan,Asia,
+,Makran & Sonmiani,Group,,Asia,
+,Makran and Sonmeany,City/Part of,Baluchistan (Kalat),Asia,
+,Malabar Coast,City/Part of,India,Asia,
+,Malacca,Country,Malacca,Asia,8271
+,Malacca & Penang,Group,,Asia,
+,Malacca & Penang & Singapore,Group,,Asia,
+,Málaga,City/Part of,Spain,Europe,
+,Malagasy Republic (Madagascar),Country,Malagasy Republic (Madagascar),Africa,580
+,Malagasy Republic (Madagascar) & Madagascar dependencies,Group,,Africa,
+,Malagasy Republic (Madagascar) & St. Marie de Madagascar & Mayotte & Nossi Be,Group,,Africa,
+,Malawi (Nyasaland),Country,Malawi (Nyasaland),Africa,553
+,Malawi (Nyasaland) & Straits Settlements,Group,,World,
+,Malaysia (Malaya),Country,Malaysia (Malaya),Asia,820
+,Malaysia (Malaya) & Straits Settlements,Group,,Asia,
+,Malaysia (Malaya) & Sumatra,Group,,Asia,
+,Malaysia (Malaya) (other),City/Part of,Malaysia (Malaya),Asia,
+,Malaysia East Coast,City/Part of,Malaysia (Malaya),Asia,
+,Malaysia West Coast,City/Part of,Malaysia (Malaya),Asia,
+,Malden I.,Country,Malden I.,Oceania,9462
+,Maldive Islands,Country,Maldive Islands,Asia,781
+,Mali (French Sudan) (Upper Senegal and Niger),Country,Mali (French Sudan) (Upper Senegal and Niger),Africa,432
+,Malta,Country,Malta,Europe,338
+,Malta & London,Group,,Europe,
+,Malta & United Kingdom,Group,,Europe,
+,Maluku Islands (Mollucas),City/Part of,Indonesia (Dutch East Indies),Asia,
+,Maluku Islands (Mollucas) & Sulawesi (Celebes),Group,,Asia,
+,Manchuria,Country,Manchuria,Asia,7111
+,Manila,City/Part of,Philippines,Asia,
+,Manitoba,City/Part of,Canada,America,
+,Maputo Bay (Delagoa Bay),City/Part of,Mozambique,Africa,
+,Maranhão,City/Part of,Brazil,America,
+,Mariana Is.,Country,Mariana Is.,Oceania,9820
+,Mariana Is. & Philippines,Group,,World,
+,Marie-Galante,City/Part of,Guadeloupe,America,
+,Marseille,City/Part of,France,Europe,
+,Martinique,Country,Martinique,America,66
+,Massa and Carrara,City/Part of,Tuscany,Europe,
+,Massawah,City/Part of,Eritrea,Africa,
+,Mauritius,Country,Mauritius,Africa,590
+,Mauritius & Reunion,Group,,Africa,
+,Mauritius & Seychelles,Group,,Africa,
+,Mauritius & South Africa,Group,,Africa,
+,Mawlamyine,City/Part of,Burma (Myanmar),Asia,
+,Mawlamyine & Rangoon,Group,,Asia,
+,Mayotte,Country,Mayotte,Africa,5812
+,Mazatlán,City/Part of,Mexico,America,
+,Mecca,City/Part of,Saudi Arabia (Nejd Wahabbid Empire),Asia,
+,Mecca & Persian Gulf,Group,,Asia,
+,Mecklenburg Schwerin,Country,Mecklenburg Schwerin,Europe,280
+,Mecklenburg Schwerin & Oldenburg,Group,,Europe,
+,Mediterranean European harbours,City/Part of,,Europe,
+,Mediterranean harbours,City/Part of,,Mediterranean,
+,Melilla,Country,Melilla,Africa,6064
+,Memel,Country,Memel,Europe,3363
+,Mercury Islands,City/Part of,New Zealand,Oceania,
+,Mexican East Coast,City/Part of,Mexico,America,
+,Mexico,Country,Mexico,America,70
+,Mexico & Texas,Group,,America,
+,Mexico & Venezuela,Group,,America,
+,Middle-East,Geographical Area,,Asia,
+,Milan,Country,Milan,Europe,3253
+,Milan & Papal States & Tuscany,Group,,Europe,
+,Mocha,City/Part of,Yemen,Asia,
+,Modena,Country,Modena,Europe,332
+,Modena & Parma & Tuscany,Group,,Europe,
+,Moldavia,Country,Moldavia,Europe,3361
+,Moldavia & European Turkey & Wallachia,Group,,Europe,
+,Moldavia & Wallachia,Group,,Europe,
+,Monaco,Country,Monaco,Europe,221
+,Mongolia,Country,Mongolia,Asia,712
+,Montenegro,Country,Montenegro,Europe,348
+,Montenegro & Yugoslavia/Serbia,Group,,Europe,
+,Montevideo,City/Part of,Uruguay,America,
+,Montserrat,Country,Montserrat,America,59
+,Morea,City/Part of,Greece,Europe,
+,Moresnet,Country,Moresnet,Europe,2111
+,Morocco,Country,Morocco,Africa,600
+,Morocco & Libya (Tripolitania Cyrenaica Fezzan),Group,,Africa,
+,Morocco & Libya (Tripolitania Cyrenaica Fezzan) & Tunisia,Group,,Africa,
+,Morocco & Tunisia,Group,,Africa,
+,Morocco (other),City/Part of,Morocco,Africa,
+,Mosul,City/Part of,Iraq (Mesopotamia),Asia,
+,Mozambique,Country,Mozambique,Africa,541
+,Mozambique & Zambia (Northern Rhodesia),Group,,Africa,
+,Mozambique & Zanzibar,Group,,Africa,
+,Mumbai (Bombay),City/Part of,India,Asia,
+,Mumbai (Bombay) & other harbours,Group,,Asia,
+,Mumbai (Bombay) & Sind,Group,,Asia,
+,Mumbai harbours (other),City/Part of,India,Asia,
+,Muscat,City/Part of,Oman,Asia,
+,Muscat & Oman,Group,,Asia,
+,Muscat & Zanzibar,Group,,World,
+,Nagapattinam,City/Part of,India,Asia,
+,Nagore,City/Part of,India,Asia,
+,Nantes,City/Part of,France,Europe,
+,Naples,City/Part of,Two Sicilies,Europe,
+,Nassau,City/Part of,Bahamas,America,
+,Natal,Country,Natal,Africa,562
+,Natuna Islands,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Nauru,Country,Nauru,Oceania,970
+,Negri Sembilan,Country,Negri Sembilan,Asia,8210
+,Neighbouring Islands,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Netherlands,Country,Netherlands,Europe,210
+,Netherlands Antilles,Country,Netherlands Antilles,America,68
+,Netherlands Antilles & West Irian (Dutch New Guinea),Group,,World,
+,Netherlands Antilles (other),City/Part of,Netherlands Antilles,America,
+,Netherlands harbours,City/Part of,Netherlands,Europe,
+,Nevis,Country,Nevis,America,1076
+,New Britain,City/Part of,New Guinea (German New Guinea) (Kaiser Wilhelmisland),Oceania,
+,New Brunswick,Country,New Brunswick,America,1023
+,New Brunswick & Nova Scotia,Group,,America,
+,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Group,,America,
+,New Brunswick & Nova Scotia & Prince Edward Is.,Group,,America,
+,New Caledonia,Country,New Caledonia,Oceania,930
+,New Caledonia and Dependencies,Country,New Caledonia and Dependencies,Oceania,930
+,New Guinea (German New Guinea) (Kaiser Wilhelmsland),Country,New Guinea (German New Guinea) (Kaiser Wilhelmsland),Oceania,912
+,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Papua New Guinea & West Irian (Dutch New Guinea),Group,,Oceania,
+,New Hebrides,Country,New Hebrides,Oceania,935
+,New Orleans,City/Part of,United States of America,America,
+,New South Wales,Country,New South Wales,Oceania,901
+,New South Wales & Queensland,Group,,Oceania,
+,New South Wales & South Australia & Tasmania & Victoria,Group,,Oceania,
+,New South Wales & Western Australia,Group,,Oceania,
+,New York,City/Part of,United States of America,America,
+,New Zealand,Country,New Zealand,Oceania,920
+,New Zealand & Pacific Islands,Group,,Oceania,
+,New Zealand (North Island),City/Part of,New Zealand,Oceania,
+,New Zealand (South Island),City/Part of,New Zealand,Oceania,
+,Newfoundland,Country,Newfoundland,America,21
+,Newfoundland & Prince Edward Is.,Group,,America,
+,Nicaragua,Country,Nicaragua,America,93
+,Nice,City/Part of,Kingdom of Sardinia,Europe,
+,Niger,Country,Niger,Africa,436
+,Nigeria,Country,Nigeria,Africa,475
+,Ningbo,City/Part of,China (People's Republic of China),Asia,
+,Niue I.,Country,Niue I.,Oceania,9253
+,North American Colonies,Colonial Area,,America,
+,North German Confederation,City/Part of,Germany,Europe,
+,North Germany,City/Part of,Germany,Europe,
+,North Germany & Prussia,Group,,Europe,
+,North Sea,Geographical Area,,Europe,
+,Northern America,Geographical Area,,America,
+,Northern Europe,Geographical Area,,Europe,
+,Northern Italy,City/Part of,Italy,Europe,
+,Northern Nigeria,Country,Northern Nigeria,Africa,4784
+,North-West Africa,Geographical Area,,Africa,
+,North-West America (other),Geographical Area,,Africa,
+,North-West Coast,Geographical Area,,,
+,Northwest Territories,City/Part of,Canada,America,
+,Norway,Country,Norway,Europe,385
+,Norway & Sweden,Group,,Europe,
+,Nossi Be,Country,Nossi Be,Africa,5801
+,Nova Scotia,Country,Nova Scotia,America,1022
+,Obock,Country,Obock,Africa,5222
+,Obock & Tadjoura,Group,,Africa,
+,Oceania,Geographical Area,,Oceania,
+,Oceania (other),Geographical Area,,Oceania,
+,Odisha,City/Part of,India,Asia,
+,Oldenburg,Country,Oldenburg,Europe,257
+,Oldenburg & Prussia,Group,,Europe,
+,Oman,Country,Oman,Asia,698
+,Ontario (Upper Canada),Country,Ontario (Upper Canada),America,1026
+,Ontario (Upper Canada) & Quebec (Lower Canada),Group,,America,
+,Orange Free State (Orange River Colony),Country,Orange Free State (Orange River Colony),Africa,564
+,Oregon Country,Country,Oregon Country,America,1016
+,Oslo (Christiana),City/Part of,Norway,Europe,
+,Other countries,Geographical Area,,World,
+,Other countries & Parma & Piacenza,Group,,World,
+,Other countries & Prussia,Group,,World,
+,Other countries & Sulawesi (Celebes),Group,,World,
+,Other countries & Tunisia,Group,,World,
+,Other countries & Zimbabwe (Rhodesia) (Southern Rhodesia),Group,,World,
+,Other countries (non British),Geographical Area,,World,
+,Pacific harbours,City/Part of,,Pacific,
+,Pacific Islands,Geographical Area,,Pacific,
+,Pacific Islands & Peru,Group,,World,
+,Pacific Islands & Vanuatu (New Hebrides),Group,,Oceania,
+,Pacific Islands (other),Geographical Area,,Pacific,
+,Padang,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Pahang,Country,Pahang,Asia,8203
+,Palembang,Country,Palembang,Asia,8537
+,Palermo,City/Part of,Sicily,Europe,
+,Palestine,Country,Palestine,Asia,665
+,Palestine & Syria,Group,,Asia,
+,Panama,Country,Panama,America,95
+,Panama Atlantic Coast,City/Part of,Panama,America,
+,Panama Canal Zone,Country,Panama Canal Zone,America,96
+,Panama Pacific Coast,City/Part of,Panama,America,
+,Papal States,Country,Papal States,Europe,327
+,Papal States & Tuscany,Group,,Europe,
+,Papal States Mediterranean harbours,City/Part of,Papal States,Europe,
+,Papua,Country,Papua,Oceania,911
+,Papua New Guinea,Country,Papua New Guinea,Oceania,910
+,Pará,City/Part of,Brazil,America,
+,Paraguay,Country,Paraguay,America,150
+,Parma,Country,Parma,Europe,335
+,Parma & Piacenza,Group,,Europe,
+,Patagonia,City/Part of,Argentina;Chile,America,
+,Patras,City/Part of,Greece,Europe,
+,Patras & Pylos,Group,,Europe,
+,Pays de Gex,City/Part of,France,Europe,
+,Pays de Gex & Savoy,Group,,Europe,
+,Pemba Island,City/Part of,Tanzania (Tanganyika) (German east Africa),Africa,
+,Pemba Island & Zanzibar,Group,,Africa,
+,Penang,Country,Penang,Asia,8272
+,Perak,Country,Perak,Asia,8201
+,Perim I.,Country,Perim I.,Asia,6802
+,Perlis,Country,Perlis,Asia,8224
+,Pernambuco,City/Part of,Brazil,America,
+,Persian Gulf,Geographical Area,,Asia,
+,Persian Gulf harbours,City/Part of,Persian Gulf,Asia,
+,Peru,Country,Peru,America,135
+,Philadelphia,City/Part of,United States of America,America,
+,Philippines,Country,Philippines,Asia,840
+,Philippines & Sulu Sultanate,Group,,Asia,
+,Piacenza,City/Part of,Italy,Europe,
+,Piedmont,City/Part of,Kingdom of Sardinia,Europe,
+,Piedmont & Sardinia,Group,,Europe,
+,Piedmont & Tuscany,Group,,Europe,
+,Piraeus,City/Part of,Greece,Europe,
+,Poland,Country,Poland,Europe,290
+,Polynesia,Geographical Area,,Oceania,
+,Pomerania,City/Part of,Prussia,Europe,
+,Pondicherry,City/Part of,French India,Asia,
+,Pontianak,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Port Elizabeth,City/Part of,Cape Colony,Africa,
+,Port Simon,City/Part of,Cape Colony,Africa,
+,Port-au-Prince,City/Part of,Haiti,America,
+,Porto,City/Part of,Portugal,Europe,
+,Porto Novo,Country,Porto Novo,Africa,4348
+,Portugal,Country,Portugal,Europe,235
+,Portugal & Portuguese Colonies,Group,,World,
+,Portugal & Portuguese East Africa,Group,,World,
+,Portugal & Spain,Group,,Europe,
+,Portuguese Africa,Colonial Area,Portugal,Africa,
+,Portuguese Africa & Portuguese Asia,Group,,World,
+,Portuguese Africa & Portuguese India (incl. Goa Diu Daman),Group,,World,
+,Portuguese Africa (other),Colonial Area,Portugal,Africa,
+,Portuguese America,Colonial Area,Portugal,America,
+,Portuguese Asia,Colonial Area,Portugal,Asia,
+,Portuguese Asia & Portuguese Oceania,Group,,World,
+,Portuguese Colonies,Colonial Area,Portugal,World,
+,Portuguese Colonies (other),Colonial Area,Portugal,World,
+,Portuguese East Africa,Colonial Area,Portugal,Africa,
+,Portuguese Europe,Colonial Area,Portugal,Europe,
+,Portuguese India (incl. Goa Diu Daman),Country,Portuguese India (incl. Goa Diu Daman),Asia,752
+,Portuguese Oceania,Colonial Area,Portugal,Oceania,
+,Portuguese Timor,Country,Portuguese Timor,Asia,860
+,Portuguese West Africa,Colonial Area,Portugal,Africa,
+,Primorsk (Fischhausen),City/Part of,Prussia,Europe,
+,Prince Edward Is.,Country,Prince Edward Is.,America,1024
+,Protectorates in East Africa,Colonial Area,,Africa,
+,Prussia,Country,Prussia,Europe,255P
+,Prussia (by sea and river),City/Part of,Prussia,Europe,
+,Prussian harbours,City/Part of,Prussia,Europe,
+,Puerto Rico,Country,Puerto Rico,America,6
+,Puerto Rico & Spanish Antilles (other),Group,,America,
+,Puerto Rico & St. Thomas,Group,,America,
+,Pungah,City/Part of,Thailand (Siam),Asia,
+,Punta Arenas,City/Part of,Chile,America,
+,Puntarenas,City/Part of,Costa Rica,America,
+,Pylos,City/Part of,Greece,Europe,
+,Quebec (Lower Canada),Country,Quebec (Lower Canada),America,1025
+,Quebec (Lower Canada) & Ontario (Upper Canada) & Manitoba & Rupert's Land & Northwest Territories,Group,,America,
+,Queensland,Country,Queensland,Oceania,905
+,Quelimane,City/Part of,Mozambique,Africa,
+,Rakhine State,City/Part of,Burma (Myanmar),Asia,
+,Rangoon,City/Part of,Burma (Myanmar),Asia,
+,Red Sea,Geographical Area,,Red Sea,
+,Red Sea harbours in Africa,City/Part of,,Africa,
+,Red Sea harbours in Arabia,City/Part of,,Asia,
+,Redoubt Kali,City/Part of,Russia/USSR,Europe,
+,Republic of China (Taiwan) (Formosa),Country,Republic of China (Taiwan) (Formosa),Asia,713
+,Republic of St. Mark,Country,Republic of St. Mark,Europe,3261
+,Republic of St. Mark & Trieste,Group,,Europe,
+,Reunion,Country,Reunion,Africa,585
+,Rhineland,Country,Rhineland,Europe,2556
+,Riau,Country,Riau,Asia,8544
+,Riga,City/Part of,Latvia,Europe,
+,Rio de Janeiro,City/Part of,Brazil,America,
+,Romagna,City/Part of,Italy,Europe,
+,Romania,Country,Romania,Europe,360
+,Rosetta,City/Part of,Netherlands,Europe,
+,Rotterdam,Country,Rotterdam,Europe,360
+,Rupert's Land,Country,Rupert's Land,America,1019
+,Russia (Baltic Sea),City/Part of,Russia/USSR,Europe,
+,"Russia (Baltic Sea, North Sea)",City/Part of,Russia/USSR,Europe,
+,"Russia (Baltic Sea, White Sea)",City/Part of,Russia/USSR,Europe,
+,Russia (Black Sea),City/Part of,Russia/USSR,Europe,
+,Russia (European harbours),City/Part of,Russia/USSR,Europe,
+,Russia (North and Pacific harbours),City/Part of,Russia/USSR,Asia,
+,Russia (North and South harbours),City/Part of,Russia/USSR,Europe,
+,Russia (North harbours),City/Part of,Russia/USSR,Asia,
+,Russia (Pacific harbours),City/Part of,Russia/USSR,Asia,
+,Russia (South harbours),City/Part of,Russia/USSR,Europe,
+,Russia (White Sea),City/Part of,Russia/USSR,Europe,
+,Russia/USSR,Country,Russia/USSR,Europe,365
+,Russia/USSR & Black Sea,Group,,Europe,
+,Russia/USSR & Poland,Group,,Europe,
+,Russia/USSR & Russian Colonies,Group,,World,
+,Russia/USSR & Siberia,Group,,Europe,
+,Russian America,Colonial Area,Russia/USSR,America,
+,Russian China,Colonial Area,Russia/USSR,Asia,
+,Russian Colonies,Colonial Area,Russia/USSR,World,
+,Russian North America,Colonial Area,Russia/USSR,America,
+,Russian North-East Asia,City/Part of,Russia/USSR,Asia,
+,Russian Poland,City/Part of,Poland,Europe,
+,Russian provinces,City/Part of,Russia/USSR,Europe,
+,Saar,Country,Saar,Europe,256
+,Sabah (North Borneo),Country,Sabah (North Borneo),Asia,823
+,Sabanilla,City/Part of,Colombia (Gran Colombia),America,
+,Safi,City/Part of,Morocco,Africa,
+,Saint John River,City/Part of,Canada,America,
+,Sambas,Country,Sambas,Asia,8525
+,Samoa,Country,Samoa,Oceania,9900
+,Samos,Country,Samos,Europe,3504
+,San Sebastián,City/Part of,Spain,Europe,
+,Sandwich Harbour,City/Part of,South West Africa (German West Africa) (Namibia),Africa,
+,Santander,City/Part of,Spain,Europe,
+,Santiago de Cuba,City/Part of,Cuba,America,
+,Sao Tome-Principe,Country,Sao Tome-Principe,Africa,403
+,Saona Island,City/Part of,Dominican Republic (Santo Domingo),America,
+,Sarawak,Country,Sarawak,Asia,824
+,Sardinia,City/Part of,Kingdom of Sardinia,Europe,
+,Savoy,City/Part of,France,Europe,
+,Saxe Altenburg,Country,Saxe Altenburg,Europe,262
+,Saxe Coburg,Country,Saxe Coburg,Europe,264
+,Saxe Meiningen,Country,Saxe Meiningen,Europe,266
+,Saxe Weimar,Country,Saxe Weimar,Europe,261
+,Saxe Weimar & Saxe Altenburg & Saxe Coburg & Saxe Meiningen,Group,,Europe,
+,Saxony,Country,Saxony,Europe,269
+,Scandinavia,Geographical Area,,Europe,
+,Schleswig,Country,Schleswig,Europe,2247
+,Schleswig (via Altona),Geographical Area,,Europe,
+,Scotland,City/Part of,United Kingdom,Europe,
+,Seal Island,City/Part of,South Africa,Africa,
+,Selangor,Country,Selangor,Asia,8202
+,Senegal,Country,Senegal,Africa,433
+,Senegal & Goree,Group,,Africa,
+,Senegal & West Africa,Group,,Africa,
+,Setúbal,City/Part of,Portugal,Europe,
+,Seychelles,Country,Seychelles,Africa,591
+,Shangai,City/Part of,China (People's Republic of China),Asia,
+,Shkodër,City/Part of,Albania,Europe,
+,Siberia,City/Part of,Russia/USSR,Asia,
+,Sicily,Country,Sicily,Europe,3291
+,Sierra Leone,Country,Sierra Leone,Africa,451
+,Sind,Country,Sind,Asia,7693
+,Singapore,Country,Singapore,Asia,830
+,Singapore & Straits Settlements,Group,,Asia,
+,Sint Eustatius,Country,Sint Eustatius,America,1068
+,Slovenia,Country,Slovenia,Europe,349
+,Society Is.,Country,Society Is.,Oceania,9601
+,Socotra I.,Country,Socotra I.,Asia,6800
+,Solomon Islands,Country,Solomon Islands,Oceania,940
+,Somalia,Country,Somalia,Africa,520
+,Sonmiani,City/Part of,Pakistan,Asia,
+,South Africa,Country,South Africa,Africa,560
+,South Africa & Botswana (Bechuanaland),Group,,Africa,
+,South Africa & South-West Africa,Group,,Africa,
+,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),Group,,Africa,
+,South Africa (domestic produce),Country ,South Africa,Africa,560
+,South Africa (foreign produce),Country ,South Africa,Africa,560
+,South Australia,Country,South Australia,Oceania,903
+,South East Africa,Geographical Area,,Africa,
+,South Sea Islands,Geographical area,,Pacific,
+,South Sea Islands & Pacific Islands,Group,,Pacific,
+,South West Africa (German West Africa) (Namibia),Country,South West Africa (German West Africa) (Namibia),Africa,565
+,South West Africa (German West Africa) (Namibia) & Kamerun & Togo (French Togoland),Group,,Africa,
+,South West Africa (German West Africa) (Namibia) & Togo (French Togoland),Group,,Africa,
+,Southern Africa,Geographical Area,,Africa,
+,Southern Africa harbours,Geographical Area,,Africa,
+,Southern America,Geographical Area,,America,
+,Southern America & Central America & Antilles (other),Group,,America,
+,Southern America & United States of America,Group,,America,
+,Southern America (other),Geographical Area,,America,
+,Southern Europe,Geographical Area,,Europe,
+,Southern Nigeria,Country,Southern Nigeria,Africa,4783
+,Southern Sakhalin I.,Country,Southern Sakhalin I.,Asia,7351
+,South-West Africa,Geographical Area,,Africa,
+,Spain,Country,Spain,Europe,230
+,Spain & Italy & Europe (other),Group,,Europe,
+,Spain & Spanish Antilles,Group,,World,
+,Spain & Spanish Colonies,Group,,World,
+,Spain (foreign flag),Country ,Spain,Europe,231
+,Spain (Spanish flag),Country ,Spain,Europe,230
+,Spain Atlantic Coast,City/Part of,Spain,Europe,
+,Spain harbours,City/Part of,Spain,Europe,
+,Spain Mediterranean Coast,City/Part of,Spain,Europe,
+,Spanish Africa,Colonial Area,Spain,Africa,
+,Spanish America,Colonial Area,Spain,America,
+,Spanish America & Danish America,Group,,America,
+,Spanish Antilles,Colonial Area,Spain,America,
+,Spanish Antilles (other),Colonial Area,Spain,America,
+,Spanish Colonies,Colonial Area,Spain,World,
+,Spanish Colonies (other),Colonial Area,Spain,World,
+,Spanish East Africa,Colonial Area,Spain,Africa,
+,Spanish North Africa harbours,Colonial Area,Spain,Africa,
+,Spanish West Africa,Country,Spanish West Africa,Africa,610
+,Species,,,,
+,Sri Lanka (Ceylon),Country,Sri Lanka (Ceylon),Asia,780
+,St. Barthelemy,Country,St. Barthelemy,America,1064
+,St. Barthelemy & Virgin Islands & Netherlands Antilles & French Antilles & Spanish Antilles,Group,,America,
+,St. Croix,City/Part of,Virgin Islands,America,
+,St. Croix & St. Jan & St. Thomas,Group,,America,
+,St. Croix & St. Thomas,Group,,America,
+,St. David,City/Part of,Indonesia (Dutch East Indies),Asia,
+,St. Helena,Country,St. Helena,Africa,4050
+,St. Jan,City/Part of,Virgin Islands,America,
+,St. Kitts,Country,St. Kitts,America,1075
+,St. Kitts-Nevis,Country,St. Kitts-Nevis,America,60
+,St. Lucia,Country,St. Lucia,America,56
+,St. Marie de Madagascar,Country,St. Marie de Madagascar,Africa,5803
+,St. Marie de Madagascar & Mayotte & Nossi Be,Group,,Africa,
+,St. Pierre and Miquelon,Country,St. Pierre and Miquelon,America,1029
+,St. Pierre and Miquelon & French Guyana,Group,,America,
+,St. Thomas,City/Part of,Virgin Islands,America,
+,St. Thomas & Prince Edward Is.,Group,,America,
+,St. Vincent and the Grenadines,Country,St. Vincent and the Grenadines,America,57
+,States of America (other),Geographical Area,,America,
+,Straits Settlements,Country,Straits Settlements,Asia,827
+,Stralsund,City/Part of,Prussia,Europe,
+,Sudan (Anglo-Egyptian),Country,Sudan (Anglo-Egyptian),Africa,625
+,Suez Canal Zone,Country,Suez Canal Zone,Africa,6514
+,Sulawesi (Celebes),City/Part of,Indonesia (Dutch East Indies),Asia,
+,Sulu Sultanate,Country,Sulu Sultanate,Asia,8401
+,Sumatra,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Sumbawa,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Sund,City/Part of,Denmark,Europe,
+,Sunda Islands,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Sungai Petani,City/Part of,Kedah,Asia,
+,Surinam,Country,Surinam,America,115
+,Svalbard Is.,Country,Svalbard Is.,Europe,3386
+,Swan River,City/Part of,Western Australia,Oceania,
+,Swaziland,Country,Swaziland,Africa,572
+,Sweden,Country,Sweden,Europe,380
+,Sweden & Swedish Colonies,Group,,World,
+,Swedish America,Colonial Area,Sweden,America,
+,Swedish Colonies,Colonial Area,Sweden,World,
+,Switzerland,Country,Switzerland,Europe,225
+,Switzerland (by France and Hamburg),City/Part of,Switzerland,Europe,
+,Switzerland (by France),City/Part of,Switzerland,Europe,
+,Sydney,City/Part of,New South Wales,Oceania,
+,Syria,Country,Syria,Asia,652
+,Syria & Egypt/United Arab Republic,Group,,World,
+,Syria & Lebanon,Group,,Asia,
+,Syria (other),City/Part of,Syria,Asia,
+,Syros,City/Part of,Greece,Europe,
+,Szczecin,City/Part of,Prussia,Europe,
+,Table Bay,City/Part of,Cape Colony,Africa,
+,Tabriz (Tauris),City/Part of,Iran (Persia),Asia,
+,Tacna,City/Part of,Peru,America,
+,Tadjoura,Country,Tadjoura,Africa,5221
+,Taganrog,City/Part of,Russia/USSR,Europe,
+,Tahiti,Country,Tahiti,Oceania,9606
+,Tanintharyi Region,City/Part of,Burma (Myanmar),Asia,
+,Tanzania (Tanganyika) (German East Africa),Country,Tanzania (Tanganyika) (German East Africa),Africa,510
+,Tarsus,City/Part of,Cilicia,Asia,
+,Tasmania,Country,Tasmania,Oceania,906
+,Tenerife,City/Part of,Canary Is.,Africa,
+,Ternate,City/Part of,Indonesia (Dutch East Indies),Asia,
+,Tetuan,Country,Tetuan,Africa,6030
+,Texas,Country,Texas,America,7
+,Thailand (Siam),Country,Thailand (Siam),Asia,800
+,Thailand (Siam) & Burma (Myanmar),Group,,Asia,
+,Thessaloniki,City/Part of,Greece,Europe,
+,Thoothukudi (Tuticorin),City/Part of,India,Asia,
+,Tobago,Country,Tobago,America,1049
+,Togo (French Togoland),Country,Togo (French Togoland),Africa,461
+,Tonga,Country,Tonga,Oceania,955
+,Tonkin,Country,Tonkin,Asia,8153
+,Trabzon,City/Part of,Turkey,Asia,
+,Transvaal,Country,Transvaal,Africa,563
+,Trapani,City/Part of,Sicily,Europe,
+,Trengganu,Country,Trengganu,Asia,8225
+,Trieste,Country,Trieste,Europe,326
+,Trieste & Republic of St. Mark & Fiume,Group,,Europe,
+,Trinidad and Tobago,Country,Trinidad and Tobago,America,52
+,Tripolitania,Country,Tripolitania,Africa,6203
+,Tripolitania & Tunisia,Group,,Africa,
+,Tunis,City/Part of,Tunisia,Africa,
+,Tunisia,Country,Tunisia,Africa,616
+,Turkey,Country,Turkey,Asia,640
+,Turkey & Barbary Coast,Group,,World,
+,Turkey & Dodecanese Is. (Aegean Is.),Group,,World,
+,Turkey & Dodecanese Is. (Aegean Is.) & Romania,Group,,World,
+,Turkey & Egypt/United Arab Republic,Group,,World,
+,Turkey & Egypt/United Arab Republic & Greece,Group,,World,
+,Turkey & Greece,Group,,World,
+,Turkey & Greece & Romania,Group,,World,
+,Turkey & Levant,Group,,Asia,
+,Turkey & Middle-East,Group,,World,
+,Turkey & Syria,Group,,World,
+,Turkey & Western Anatolia,Group,,World,
+,Turkey (other),City/Part of,Turkey,Asia,
+,Turkish harbours,City/Part of,Turkey,Asia,
+,Turkish harbours & Hejaz Sultanate,Group,,Asia,
+,Turks and Caicos Is.,Country,Turks and Caicos Is.,America,1032
+,Tuscany,Country,Tuscany,Europe,337
+,Two Sicilies,Country,Two Sicilies,Europe,329
+,Uganda,Country,Uganda,Africa,500
+,United Arab Emirates (Trucail Oman),Country,United Arab Emirates (Trucail Oman),Asia,696
+,United Kingdom,Country,United Kingdom,Europe,200
+,United Kingdom & British Colonies,Group,,World,
+,United Kingdom & British Europe,Group,,Europe,
+,United Kingdom & British Mediterranean,Group,,Europe,
+,United Kingdom (other),City/Part of,United Kingdom,Europe,
+,United States of America,Country,United States of America,America,2
+,United States of America (domestic produce),Country ,United States of America,America,2
+,United States of America (foreign produce),Country ,United States of America,America,2
+,United States of America (other),City/Part of,United States of America,America,
+,United States of America Atlantic Coast,City/Part of,United States of America,America,
+,United States of America Pacific Coast,City/Part of,United States of America,America,
+,Unknown,,,World,
+,Uruguay,Country,Uruguay,America,165
+,Uzbekistan,Country,Uzbekistan,Asia,704
+,Valparaíso,City/Part of,Chile,America,
+,Vancouver,Country,Vancouver,America,1028
+,Venezuela,Country,Venezuela,America,101
+,Vera Cruz,City/Part of,Mexico,America,
+,Viceroyalty of La Plata,Country,Viceroyalty of La Plata,America,1160
+,Viceroyalty of La Plata & Chile,Group,,America,
+,Viceroyalty of La Plata & Uruguay,Group,,America,
+,Viceroyalty of La Plata harbours,City/Part of,Viceroyalty of La Plata,America,
+,Victoria,Country,Victoria,Oceania,904
+,Vietnam,Country,Vietnam,Asia,815
+,Virgin Islands,Country,Virgin Islands,America,5
+,Vladivostok,City/Part of,Russia/USSR,Asia,
+,Wallachia,Country,Wallachia,Europe,3362
+,Wallis and Futuna Is.,Country,Wallis and Futuna Is.,Oceania,9321
+,Walvis Bay,Country,Walvis Bay,Africa,5651
+,Wandsbeck,City/Part of,Hamburg,Europe,
+,Weihaiwei,Country,Weihaiwei,Asia,7105
+,West Africa,Geographical Area,,Africa,
+,West Africa & Africa (other),Group,,Africa,
+,West Africa (other),Geographical Area,,Africa,
+,West African Colonies,Colonial Area,,Africa,
+,West America,Geographical Area,,America,
+,West Irian (Dutch New Guinea),Country,West Irian (Dutch New Guinea),Oceania,851
+,Western Anatolia,Country,Western Anatolia,Asia,6402
+,Western Australia,Country,Western Australia,Oceania,902
+,Western Samoa,Country,Western Samoa,Oceania,990
+,Windward Coast of Africa,Geographical Area,,Africa,
+,Windward Is.,Country,Windward Is.,America,1055
+,World,Geographical Area,,World,
+,World (land and river),Geographical Area,,World,
+,World (other than British),Geographical Area,,World,
+,World (other than Kingdom of Sardinia (land)),Geographical Area,,Europe,
+,World (other),Geographical Area,,World,
+,World (via Altona & Holstein & Schleswig),Geographical Area,,World,
+,World (via Bremen & Lubeck),Geographical Area,,World,
+,World (via Germany (lower Elbe)),Geographical Area,,World,
+,World (via Germany (upper Elbe)),Geographical Area,,World,
+,World (via Harburg & Lüneburg),Geographical Area,,World,
+,World (via Holstein & Schleswig),Geographical Area,,World,
+,World (via Lubeck),Geographical Area,,World,
+,Xiamen,City/Part of,China (People's Republic of China),Asia,
+,Yokohama,City/Part of,Japan,Asia,
+,Yugoslavia/Serbia,Country,Yugoslavia/Serbia,Europe,345
+,Zaire (Kinshasa) (Belgian Congo),Country,Zaire (Kinshasa) (Belgian Congo),Africa,490
+,Zambia (Northern Rhodesia),Country,Zambia (Northern Rhodesia),Africa,551
+,Zanzibar,Country,Zanzibar,Africa,511
+,Zeila,City/Part of,Somalia,Africa,
+,Zimbabwe (Rhodesia) (Southern Rhodesia),Country,Zimbabwe (Rhodesia) (Southern Rhodesia),Africa,552

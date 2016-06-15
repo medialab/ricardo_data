@@ -1,0 +1,94 @@
+ID_Exp_spe,Exp / Imp,Spe/Gen/Tot,Exp / Imp (standard),Spe/Gen/Tot (standard)
+1, Exp,0,Exp,
+2,Alemeene Invoer,Gen,Imp,Gen
+3,Alemeene Uitvoer,Gen,Exp,Gen
+5,Exp, Gen-Spe,Re-exp,Gen-Spe
+6,Exp, Spe,Exp,Spe
+7,Exp,0,Exp,
+8,Exp,Dom,Exp,Spe
+9,Exp,Gen,Exp,Gen
+10,Exp,Gén,Exp,Gen
+11,Exp,Gen (Home comsumption),Exp,Spe
+12,Exp,Gen ?,Exp,Gen
+13,Exp,Gen?,Imp,Gen
+14,Exp,Genµ,Exp,Gen
+15,Exp,Général,Exp,Gen
+16,Exp,Gen-Spe,Re-exp,Gen-Spe
+17,Exp,Marchandises étrangères,Re-exp,Gen-Spe
+18,Exp,Marchandises indigènes,Exp,Spe
+19,Exp,Pdts col. et etr.,Re-exp,Gen-Spe
+20,Exp,Pdts étr.,Re-exp,Gen-Spe
+21,Exp,Private Account (Merchandise),Exp,Private Account (Merchandise)
+22,Exp,Produits du royaume uni,Exp,Spe
+23,Exp,Produits étrangers,Re-exp,Gen-Spe
+24,Exp,Produits étrangers réexportés,Re-exp,Gen-Spe
+25,Exp,Spe,Exp,Spe
+26,Exp,Spe (Consumption Only),Exp,Spe
+27,Exp,Spe (Merchandise Only),Exp,Spe
+28,Exp,Spe (Uitvoer uit het vrije Verkeer)),Exp,Spe
+29,Exp,Spe ?,Exp,Spe
+30,Exp,Spec,Exp,Spe
+31,Exp,T,Exp,Gen
+32,Exp,Tot,Exp,Gen
+33,Exp,Tot + Gen,Exp,Gen
+34,Exp,Tot + Spe,Exp,Gen
+35,Exp,Tot*,Exp,Gen
+36,Exp,Total,Exp,Gen
+37,Exp (Algemeene uitvoer),Gen,Exp,Gen
+38,Exp (Invoer tot Verbruik),Gen,Imp,Spe
+39,Exp (uitover uit het vrije verkeer),Spe,Exp,Spe
+40,Exp (Uitvoer uit het vrije verkeer),Spe,Exp,Spe
+41,Exp*,Spe,Exp,Spe
+42,Immp,0,Imp,
+44,Imp,0,Imp,
+45,Imp,Consumption,Imp,Spe
+46,Imp,Foreign Produce (Merchandise),Imp,Foreign Produce (Merchandise)
+47,Imp,French Produce (Merchandise),Imp,French Produce (Merchandise)
+48,Imp,Gen,Imp,Gen
+49,Imp,Gén,Imp,Gen
+50,Imp,Gen (Home comsumption),Imp,Spe
+51,Imp,Gen ?,Imp,Gen
+52,Imp,Gen + Spe,Imp,Gen
+53,Imp,Gen?,Imp,Gen
+54,Imp,Général,Imp,Gen
+55,Imp,Gen-Spe,Re-imp,Gen-Spe
+56,Imp,Home consumption,Imp,Spe
+57,Imp,Private Account (Merchandise),Imp,Private Account (Merchandise)
+58,Imp,Produits naturels,Imp,Spe
+59,Imp,Spe,Imp,Spe
+60,Imp,Spe (Consumption only),Imp,Spe
+61,Imp,Spe (Consumption),Imp,Spe
+62,Imp,Spe (For consumption),Imp,Spe
+63,Imp,Spe (Invoer Tot Verbruik),Imp,Spe
+64,Imp,Spe (Merchandise and Animals),Imp,Spe
+65,Imp,Spe (Merchandise Only),Imp,Spe
+66,Imp,Spe ?,Imp,Spe
+67,Imp,Spe + Gen,Imp,Gen
+68,Imp,"Spe, Transit",Imp,Gen
+69,Imp,Spec,Imp,Spe
+70,Imp,T,Imp,Gen
+71,Imp,Tot,Imp,Gen
+72,Imp,Total,Imp,Gen
+73,Imp (Algemeene invoer),Gen,Imp,Gen
+74,Imp (Algemeene uitvoer),Spe,Exp,Gen
+75,Imp (Invoer tot verbruik),Spe,Imp,Spe
+76,Imp**,Spe,Imp,Spe
+77,Imp+Exp,0,Exp+Imp,
+78,Invoer Tot Verbruik,0,Imp,Spe
+79,Invoer tot Verbruik,Gen,Imp,Spe
+80,Re-exp,0,Re-exp,Gen-Spe
+81,Re-Imp,0,Re-imp,Gen-Spe
+82,Total,0,Exp+Imp,
+83,Total,Gen,Exp+Imp,Gen
+84,Total,Spe,Exp+Imp,Spe
+85,Transit,0,Re-exp,Gen-Spe
+86,Uitvoer huit het Vrije Verkeer,Gen,Exp,Spe
+87,Uitvoer uit her Vrije Verkeer,Gen,Exp,Spe
+88,Uitvoer Uit Het Vrije Verkeer,0,Exp,Spe
+89,Uitvoer uit het Vrije Verkeer,Gen,Exp,Spe
+92,Re-exp,Gen-Spe,Re-exp,Gen-Spe
+93,Exp,?,Exp,
+94,Imp,?,Imp,
+95,Uitvoer,Gen,Exp,Gen
+96,Re-exp,Gen,Re-exp,Gen
+97,Uitvoer uit het Vrije Verkeer,Spe,Exp,Spe
