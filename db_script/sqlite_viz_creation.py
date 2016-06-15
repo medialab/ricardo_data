@@ -5,8 +5,6 @@ import sqlite3
 import os
 import json
 import itertools
-from csv_unicode import UnicodeReader
-from csv_unicode import UnicodeWriter
 import utils
 import FedericoTena
 
