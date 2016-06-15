@@ -1,0 +1,1 @@
+UPDATE  flows SET source="KJHYG" WHERE source='KIM Nak Nyeon and PARK Ki-Joo, "Long-term Trade Statistics and Indices in Korea, 1877-1963", KYONG JE HAK YON GU, 2009, 57 (3).'

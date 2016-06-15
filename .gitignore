@@ -94,3 +94,4 @@ FedericoTena_data
 .~lock.*
 #sqlite db
 *.sqlite
+*.sqlite-journal

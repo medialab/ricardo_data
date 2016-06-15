@@ -6401,17 +6401,17 @@ year,modified_currency,rate_to_pounds,source,notes
 1849,venezuelan bolivar,26.65,"currency_Schneider et al. (1997), vol VII, p. 49-50.",Use exchange rate in 1842.
 1850,venezuelan bolivar,26.65,"currency_Schneider et al. (1997), vol VII, p. 49-50.",Use exchange rate in 1842.
 1851,venezuelan bolivar,27.65,"currency_Schneider et al. (1997), vol VII, p. 49-50.",Use exchange rate in 1842.
-1852,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1853,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1854,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1855,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1856,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1857,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1858,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1859,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1860,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1861,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
-1862,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares 
+1852,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1853,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1854,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1855,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1856,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1857,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1858,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1859,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1860,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1861,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
+1862,venezuelan bolivar,25.0,"currency_Schneider et al. (1997), vol II, p. 50.",Venezuela same as Colombia. 1 Peso = 5 Bolivares
 1863,venezuelan bolivar,25.0,currency_Statesman's Yearbook,Venezuela same as Colombia; 1 Peso = 5 Bolivares
 1864,venezuelan bolivar,25.0,currency_Statesman's Yearbook,Venezuela same as Colombia; 1 Peso = 5 Bolivares
 1865,venezuelan bolivar,25.0,currency_Statesman's Yearbook,Venezuela same as Colombia; 1 Peso = 5 Bolivares
@@ -6522,44 +6522,44 @@ year,modified_currency,rate_to_pounds,source,notes
 1929,iraqi dinar,0.820058054035,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
 1930,iraqi dinar,0.815933799396,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
 1931,iraqi dinar,0.817051169773,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1932,iraqi dinar,1.0,,The dinar was introduced in 1932 at par with the pound sterling.
-1933,iraqi dinar,1.0,,The dinar was introduced in 1932 at par with the pound sterling.
+1932,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",The dinar was introduced in 1932 at par with the pound sterling.
+1933,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",The dinar was introduced in 1932 at par with the pound sterling.
 1934,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1935,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1936,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1937,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1938,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1925,palestine pound,1.0,,Use exchange rate in 1928.
-1926,palestine pound,1.0,,Use exchange rate in 1928.
-1927,palestine pound,1.0,,Use exchange rate in 1928.
-1928,palestine pound,1.0,,The Palestine pound was introduced at par with the pound sterling.
-1929,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1930,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1931,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1932,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1933,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1934,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1935,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1936,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1937,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1938,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
+1925,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
+1926,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",Egyptian pound was in circulation.
+1927,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",Egyptian pound was in circulation.
+1928,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",The Palestine pound was introduced at par with the pound sterling.
+1929,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
+1930,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
+1931,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1932,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1933,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1934,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1935,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1936,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1937,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
+1938,palestine pound,1.0,Statistical Abstract for the British Empire for each of the ten years 1929 to 1938 (68),
 1924,albanian gold franc,25.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Use exchange rate in 1926.
 1925,albanian gold franc,25.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Use exchange rate in 1926.
 1924,egyptian pound,0.97,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Use exchange rate in 1926.
 1925,egyptian pound,0.97,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Use exchange rate in 1926.
-1915,angolan escudo,6.746,,Equivalent to Portuguese Escudo
-1916,angolan escudo,7.032,,Equivalent to Portuguese Escudo
-1917,angolan escudo,7.726,,Equivalent to Portuguese Escudo
-1918,angolan escudo,7.901,,Equivalent to Portuguese Escudo
-1919,angolan escudo,8.196,,Equivalent to Portuguese Escudo
-1920,angolan escudo,18.329,,Equivalent to Portuguese Escudo
-1921,angolan escudo,39.384,,Equivalent to Portuguese Escudo
-1922,angolan escudo,65.084,,Equivalent to Portuguese Escudo
-1923,angolan escudo,109.714,,Equivalent to Portuguese Escudo
-1924,angolan escudo,130.324483776,,Equivalent to Portuguese Escudo
-1925,angolan escudo,95.8134920635,,Equivalent to Portuguese Escudo
-1926,angolan escudo,94.6978557505,,Equivalent to Portuguese Escudo
-1927,angolan escudo,96.6401590457,,Equivalent to Portuguese Escudo
+1915,angolan escudo,6.746,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1916,angolan escudo,7.032,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1917,angolan escudo,7.726,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1918,angolan escudo,7.901,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1919,angolan escudo,8.196,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1920,angolan escudo,18.329,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1921,angolan escudo,39.384,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1922,angolan escudo,65.084,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1923,angolan escudo,109.714,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1924,angolan escudo,130.324483776,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1925,angolan escudo,95.8134920635,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1926,angolan escudo,94.6978557505,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
+1927,angolan escudo,96.6401590457,"currency_Valério (2001), p. 745.",Equivalent to Portuguese Escudo
 1928,angolan angolar,108.859060403,currency_At par with Portuguese Escudo,
 1929,angolan angolar,108.589128984,currency_At par with Portuguese Escudo,
 1930,angolan angolar,108.163004941,currency_At par with Portuguese Escudo,
@@ -6784,22 +6784,22 @@ year,modified_currency,rate_to_pounds,source,notes
 1896,guatemalan silver peso,9.732,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 2 silver peso = 1 gold peso = 1 US Dollar. Dollar parity in 1913.
 1897,guatemalan silver peso,9.732,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 2 silver peso = 1 gold peso = 1 US Dollar. Dollar parity in 1913.
 1898,guatemalan silver peso,9.732,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 2 silver peso = 1 gold peso = 1 US Dollar. Dollar parity in 1913.
-1891,taiwanese yen,6.1,,On a par with Japanese Yen.
-1892,taiwanese yen,6.94,,On a par with Japanese Yen.
-1893,taiwanese yen,8.0,,On a par with Japanese Yen.
-1894,taiwanese yen,12.35,,On a par with Japanese Yen.
-1895,taiwanese yen,9.62,,On a par with Japanese Yen.
-1896,taiwanese yen,9.71,,On a par with Japanese Yen.
-1897,taiwanese yen,10.1,,On a par with Japanese Yen.
-1898,taiwanese yen,10.0,,On a par with Japanese Yen.
-1899,taiwanese yen,9.9,,On a par with Japanese Yen.
-1900,taiwanese yen,9.9,,On a par with Japanese Yen.
-1901,taiwanese yen,9.9,,On a par with Japanese Yen.
-1902,taiwanese yen,9.9,,On a par with Japanese Yen.
-1903,taiwanese yen,9.9,,On a par with Japanese Yen.
-1904,taiwanese yen,10.0,,On a par with Japanese Yen.
-1905,taiwanese yen,9.9,,On a par with Japanese Yen.
-1906,taiwanese yen,9.9,,On a par with Japanese Yen.
+1891,taiwanese yen,6.1,"currency_Communicated by Van der Eng (database on Exchange Rates in Asia, 1830-2003)",On a par with Japanese Yen.
+1892,taiwanese yen,6.94,"currency_Communicated by Van der Eng (database on Exchange Rates in Asia, 1830-2003)",On a par with Japanese Yen.
+1893,taiwanese yen,8.0,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1894,taiwanese yen,12.35,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1895,taiwanese yen,9.62,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1896,taiwanese yen,9.71,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1897,taiwanese yen,10.1,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1898,taiwanese yen,10.0,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1899,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1900,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1901,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1902,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1903,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1904,taiwanese yen,10.0,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1905,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
+1906,taiwanese yen,9.9,currency_Bank of Japan : http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,On a par with Japanese Yen.
 1790,us dollar,4.584,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use exchange rate in 1791.
 1802,french franc,22.98,"currency_From Denzel (2010), 285-289. 1 Livre tournois = 0.99 French Franc.",Paris on London
 1803,french franc,23.785,"currency_From Denzel (2010), 285-289. 1 Livre tournois = 0.99 French Franc.",Paris on London
@@ -6839,9 +6839,9 @@ year,modified_currency,rate_to_pounds,source,notes
 1812,cuban peso,4.44,"currency_Schneider et al. (1997), p. 90.",Use Peso / £ parity in 1832.
 1813,cuban peso,4.44,"currency_Schneider et al. (1997), p. 90.",Use Peso / £ parity in 1832.
 1814,cuban peso,4.44,"currency_Schneider et al. (1997), p. 90.",Use Peso / £ parity in 1832.
-1897,honduran gold peso,4.8633,,1 peso = 1 US dollar
-1898,honduran gold peso,4.8477,,1 peso = 1 US dollar
-1899,honduran gold peso,4.8638,,1 peso = 1 US dollar
+1897,honduran gold peso,4.8633,"currency_Denzel (2010), 417-420.",1 peso = 1 US dollar
+1898,honduran gold peso,4.8477,"currency_Denzel (2010), 417-420.",1 peso = 1 US dollar
+1899,honduran gold peso,4.8638,"currency_Denzel (2010), 417-420.",1 peso = 1 US dollar
 1809,brazilian milreis,3.33333333333,currency_http://www.ipeadata.gov.br,
 1810,brazilian milreis,3.27645051195,currency_http://www.ipeadata.gov.br,
 1811,brazilian milreis,3.33333333333,currency_http://www.ipeadata.gov.br,
@@ -6997,7 +6997,7 @@ year,modified_currency,rate_to_pounds,source,notes
 1936,us dollar constant,4.86653,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use parity 1934.
 1937,us dollar constant,4.86653,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use parity 1934.
 1938,us dollar constant,4.86653,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use parity 1934.
-1924,palestine pound,1.0,,Use exchange rate in 1928.
+1924,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
 1931,lebanese-syrian pound,578.24,"currency_Annuaire Statistique de la France, 1932, p. 406.",
 1787,french franc,24.05007,"currency_From Denzel (2010), 285-289. 1 Livre tournois = 0.99 French Franc.",Estimated from 1 Livre tournois = 0.99 French Franc. Paris on London
 1788,french franc,24.46092,"currency_From Denzel (2010), 285-289. 1 Livre tournois = 0.99 French Franc.",Estimated from 1 Livre tournois = 0.99 French Franc. Paris on London
