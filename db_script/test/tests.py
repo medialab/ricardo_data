@@ -11,34 +11,38 @@ except :
 	print "couldn't load config.json database"
 	exit(1)
 
-mdb_sqlite_filename=os.path.join("..","out_data",conf["sqlite_viz"])
-
+mdb_sqlite_filename=os.path.join("../../","sqlite_data",conf["sqlite_filename"])
 conn=sqlite3.connect(mdb_sqlite_filename)
 
 cursor=conn.cursor()
-# import sources
-# sources_status="OK" if sources.test(cursor) else "FAILED"
-# print "SOURCES TEST : %s"%sources_status
+import sources
+sources_status="OK" if sources.test(cursor) else "FAILED"
+print "SOURCES TEST : %s"%sources_status
 
-# import currency
-# currency_status="OK" if currency.test(cursor) else "FAILED"
-# print "CURRENCY TEST : %s"%currency_status
+import currency
+currency_status="OK" if currency.test(cursor) else "FAILED"
+print "CURRENCY TEST : %s"%currency_status
 
-# import RICnames
-# RICnames_status="OK" if RICnames.test(cursor) else "FAILED"
-# print "RICnames TEST : %s"%RICnames_status
+import RICnames
+RICnames_status="OK" if RICnames.test(cursor) else "FAILED"
+print "RICnames TEST : %s"%RICnames_status
 
-# import expimp
-# expimp_status="OK" if expimp.test(cursor) else "FAILED"
-# print "EXP IMP TEST : %s"%expimp_status
+import expimp
+expimp_status="OK" if expimp.test(cursor) else "FAILED"
+print "EXP IMP TEST : %s"%expimp_status
+
+
+mdb_sqlite_filename=os.path.join("../../","sqlite_data",conf["sqlite_viz"])
+conn=sqlite3.connect(mdb_sqlite_filename)
+cursor=conn.cursor()
 
 import flow
 flow_status="OK" if flow.test(cursor) else "FAILED"
 print "FLOW TEST : %s"%flow_status
 
-# import total_type
-# total_type_status="OK" if total_type.test(cursor) else "FAILED"
-# print "TOTAL_TYPE TEST : %s"%total_type_status
+import total_type
+total_type_status="OK" if total_type.test(cursor) else "FAILED"
+print "TOTAL_TYPE TEST : %s"%total_type_status
 
 
 
