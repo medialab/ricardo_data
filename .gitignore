@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+#external data we can't publish
+FedericoTena_data
+#libreoffice lock files
+.~lock.*
