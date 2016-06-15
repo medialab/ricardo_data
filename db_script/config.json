@@ -1,5 +1,5 @@
-{
+{	
 	"sqlite_filename": "RICardo.sqlite",
 	"sqlite_schema": "RICardo_schema.sql",
-	"sqlite_viz": "RICardo_viz.sqlite",
+	"sqlite_viz": "RICardo_viz.sqlite"
 }
