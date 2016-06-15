@@ -6529,12 +6529,12 @@ year,modified_currency,rate_to_pounds,source,notes
 1936,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1937,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1938,iraqi dinar,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1925,palestine pound,1.0,,Use exchange rate in 1928.
-1926,palestine pound,1.0,,Use exchange rate in 1928.
-1927,palestine pound,1.0,,Use exchange rate in 1928.
-1928,palestine pound,1.0,,The Palestine pound was introduced at par with the pound sterling.
-1929,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1930,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
+1925,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
+1926,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",Egyptian pound was in circulation.
+1927,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",Egyptian pound was in circulation.
+1928,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",The Palestine pound was introduced at par with the pound sterling.
+1929,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
+1930,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
 1931,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1932,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1933,palestine pound,1.0,"currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
@@ -6997,7 +6997,7 @@ year,modified_currency,rate_to_pounds,source,notes
 1936,us dollar constant,4.86653,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use parity 1934.
 1937,us dollar constant,4.86653,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use parity 1934.
 1938,us dollar constant,4.86653,"currency_Carter et al. (2006), vol. 5, Serie Ee612.",Use parity 1934.
-1924,palestine pound,1.0,,Use exchange rate in 1928.
+1924,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
 1931,lebanese-syrian pound,578.24,"currency_Annuaire Statistique de la France, 1932, p. 406.",
 1787,french franc,24.05007,"currency_From Denzel (2010), 285-289. 1 Livre tournois = 0.99 French Franc.",Estimated from 1 Livre tournois = 0.99 French Franc. Paris on London
 1788,french franc,24.46092,"currency_From Denzel (2010), 285-289. 1 Livre tournois = 0.99 French Franc.",Estimated from 1 Livre tournois = 0.99 French Franc. Paris on London
