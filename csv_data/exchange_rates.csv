@@ -6514,21 +6514,21 @@ year,modified_currency,rate_to_pounds,source,notes
 1924,thai tical,12.5,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",parity 1913
 1925,thai tical,12.5,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",parity 1913
 1924,turkish lira,10.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",parity 1913
-1924,iraqi dinar,0.791760977818,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1925,iraqi dinar,0.826879271071,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1926,iraqi dinar,0.821943186497,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1927,iraqi dinar,0.821435918535,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1928,iraqi dinar,0.825113029182,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1929,iraqi dinar,0.820058054035,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1930,iraqi dinar,0.815933799396,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1931,iraqi dinar,0.817051169773,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Estimated from the dinar / indian rupee exchange rate in 1932 : 1 dinar = 11 indian rupee.
-1932,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",The dinar was introduced in 1932 at par with the pound sterling.
-1933,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",The dinar was introduced in 1932 at par with the pound sterling.
-1934,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1935,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1936,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1937,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1938,iraqi dinar,1.0,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
+1924,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1925,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1926,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1927,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1928,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1929,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1930,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1931,iraqi dinar,1.0,Currency_Statesman's Yearbook,Use exchange rate in 1932.
+1932,iraqi dinar,1.0,Currency_Statesman's Yearbook,A new national Iraqi currency was introduced in 1932 equal to the pound sterling.
+1933,iraqi dinar,1.0,Currency_Statesman's Yearbook,
+1934,iraqi dinar,1.0,Currency_Statesman's Yearbook,
+1935,iraqi dinar,1.0,Currency_Statesman's Yearbook,
+1936,iraqi dinar,1.0,Currency_Statesman's Yearbook,
+1937,iraqi dinar,1.0,Currency_Statesman's Yearbook,
+1938,iraqi dinar,1.0,Currency_Statesman's Yearbook,
 1925,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",
 1926,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",Egyptian pound was in circulation.
 1927,palestine pound,1.0,"Statistical Abstract for the British Empire for each of the years 1913, 1924-29 (60)",Egyptian pound was in circulation.
