@@ -33,7 +33,7 @@ def import_fredericotena(c):
 	# create source done
 	source_id="FEDERICO-TENA"
 	source_authors="Federico G. & A. Tena-Junguito"
-	source_type="estimation"
+	source_type="FedericoTena"
 	source_edition_year="2016"
 	source_url="http://www.ehes.org/EHES_93.pdf"
 	source_title="World trade, 1800-1938: a new data-set, EHES Working Paper 93"
@@ -52,7 +52,7 @@ def import_fredericotena(c):
 				# create new entities
 				print "inserting new entity %s"%entity["ricname"]
 				# todo add continent
-				c.execute("INSERT OR IGNORE INTO RICentities (RICname,type,continent,COW_code,slug) VALUES (?,?,?,?,?)",(entity["ricname"],entity["rictype"],"?",entity["cow"],ricslug(entity["ricname"])))
+				c.execute("INSERT OR IGNORE INTO RICentities (RICname,type,continent,COW_code,slug) VALUES (?,?,?,?,?)",(entity["ricname"],entity["rictype"],entity["continent"],entity["cow"],ricslug(entity["ricname"])))
 				# todo check for the group
 			c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",(entity["Polity Federico-Tena"],entity["ricname"]))
 
