@@ -5,7 +5,7 @@ import re
 
 
 # create flows
-def import_flows(filename,imp_exp,c):
+def import_flows(filename,imp_exp,c,ft_entities):
 	with open(filename) as f:
 		importscsvs=csvkit.DictReader(f)
 		for line in importscsvs:
@@ -19,9 +19,11 @@ def import_flows(filename,imp_exp,c):
 						continue
 					# remove 0 values
 					if reporting!="year" and flow!=0.0:
-						data=["FEDERICO-TENA",flow,"1000000","sterling pound",int(year),reporting,"World Federico-Tena",imp_exp,"gen","total_federicotena"]
-						c.execute("INSERT INTO flows (source, flow, unit, currency, year, reporting, partner, export_import, special_general, world_trade_type) VALUES (?,?,?,?,?,?,?,?,?,?)",data)
-
+						if reporting in ft_entities:
+							data=["FEDERICO-TENA",flow,"1000000","sterling pound",int(year),reporting,"World Federico-Tena",imp_exp,"gen","total_federicotena"]
+							c.execute("INSERT INTO flows (source, flow, unit, currency, year, reporting, partner, export_import, special_general, world_trade_type) VALUES (?,?,?,?,?,?,?,?,?,?)",data)
+						else:
+							print "MISSING '%s' in ft entities"%reporting
 
 def import_fredericotena(c):
 	FT_PATH = "FedericoTena_data"
@@ -33,7 +35,7 @@ def import_fredericotena(c):
 	# create source done
 	source_id="FEDERICO-TENA"
 	source_authors="Federico G. & A. Tena-Junguito"
-	source_type="estimation"
+	source_type="FedericoTena"
 	source_edition_year="2016"
 	source_url="http://www.ehes.org/EHES_93.pdf"
 	source_title="World trade, 1800-1938: a new data-set, EHES Working Paper 93"
@@ -45,6 +47,7 @@ def import_fredericotena(c):
 
 	ricslug=lambda _: re.sub("[ ()/]","",re.sub("&","_",_))
 
+	ft_entities=[]
 	with open(os.path.join(FT_PATH,ENTITIES_CSV)) as f:
 		entitiescsv=csvkit.DictReader(f)
 		for entity in entitiescsv:
@@ -55,12 +58,13 @@ def import_fredericotena(c):
 				c.execute("INSERT OR IGNORE INTO RICentities (RICname,type,continent,COW_code,slug) VALUES (?,?,?,?,?)",(entity["ricname"],entity["rictype"],"?",entity["cow"],ricslug(entity["ricname"])))
 				# todo check for the group
 			c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",(entity["Polity Federico-Tena"],entity["ricname"]))
-
+			ft_entities.append(entity["Polity Federico-Tena"])
 	# add World Frederico Tena entity
 	c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",("World Federico-Tena","World Federico-Tena"))
 	c.execute("""INSERT OR IGNORE INTO RICentities (RICname,type,continent,slug) VALUES ("World Federico-Tena","geographical_area","World", "WorldFedericoTena")""")
 			
 	# read import
-	import_flows(os.path.join(FT_PATH,IMPORTS_CSV),"imp",c)
+	import_flows(os.path.join(FT_PATH,IMPORTS_CSV),"imp",c,ft_entities)
 	# read export
-	import_flows(os.path.join(FT_PATH,EXPORTS_CSV),"exp",c)
+	import_flows(os.path.join(FT_PATH,EXPORTS_CSV),"exp",c,ft_entities)
+
