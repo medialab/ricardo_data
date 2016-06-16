@@ -36,13 +36,15 @@ FedericoTena.import_fredericotena(c)
 ##			Update every table with uniformed attributes
 ################################################################################
 c.execute("""UPDATE flows SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
-c.execute("""UPDATE RICentities SET type= LOWER(type)""")
 c.execute("""UPDATE sources SET slug = UPPER(SUBSTR(slug, 1, 1)) || SUBSTR(slug, 2) """)
 c.execute("""UPDATE exchange_rates SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
 
+################################################################################
+##			Remove dup in entities_name table
+################################################################################
 c.execute("""delete from entity_names
-   		 where original_name in ("Dutch new Guinea","Ionian islands","United states");
-		""")
+	   		 where original_name in ("Dutch new Guinea","Ionian islands","United states");
+			""")
 ################################################################################
 ##			Create table flow_joined
 ################################################################################
@@ -365,55 +367,53 @@ print "-------------------------------------------------------------------------
 c.execute("""DROP TABLE IF EXISTS metadata;""")
 c.execute("""CREATE TABLE IF NOT EXISTS metadata AS
 	 		 SELECT tot.reporting_id as reporting_id, tot.reporting as reporting, group_concat(tot.flow,"|") as flow,  group_concat(tot.expimp,"|") as expimp,
-				group_concat(tot.partner,"|") as partner, tot.year as year,
-				group_concat(tot.type,"|") as sourcetype,  group_concat(tot.source,"|")  as source,count(distinct tot.source) as source_count,
-				tot.reporting_continent as reporting_continent, tot.reporting_type as reporting_type,"actual" as partnertype,group_concat(mirror_partner,"|") as mirror_partner
-				from
-				(SELECT reporting_id, reporting, flow, r.expimp as expimp,
-				partner as partner, r.year as year, type, source, reporting_continent, reporting_type,(t1.reportings ||"+"|| t1.expimp) as mirror_partner
-				FROM
-				(select t.reporting_slug as reporting_id,t.reporting as reporting, sum(t.flow) as flow, t.expimp as expimp, group_concat(t.partner_slug) as partner,
-				t.year as year, t.reporting_continent as reporting_continent, t.reporting_type as reporting_type,group_concat(distinct t.type) as type,group_concat(distinct t.source)  as source
-				FROM
-				(SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, (replace(partner_slug,",","")||"+"||partner_continent) as partner_slug, year, source, type,reporting_continent,lower(reporting_type) as reporting_type, expimp
-				FROM flow_joined
-				WHERE partner_slug NOT LIKE 'World%' 
-				AND flow*Unit/rate is not NULL
-				AND reporting_slug is not NULL
-				AND partner_continent is not NULL
-				GROUP BY  reporting_slug, partner_slug,year,expimp) t
-				Group by t.reporting_slug, t.year, t.expimp) r
-				LEFT JOIN
-				(SELECT group_concat(distinct reporting_slug ||"-"|| ((flow*Unit)/ifnull(rate,1))) as reportings,partner_slug,year,expimp
-				FROM flow_joined
-				Where flow is not NULL
-				GROUP BY  partner_slug, year,expimp) t1
-				ON r.reporting_id=t1.partner_slug and r.year =t1.year and r.expimp!=t1.expimp) tot
-				GROUP BY  tot.reporting_id, tot.year
-				UNION ALL
-				SELECT reporting_id,reporting as reporting, group_concat(flow,"|") as flow, group_concat(expimp,"|") as expimp, group_concat(partner,"|") as partner,
-				year,group_concat(type,"|") as type,group_concat(source,"|")as source, count(distinct source)as source_count,
-				reporting_continent, reporting_type, "world" as partnertype,group_concat(mirror_partner,"|") as mirror_partner
-				FROM
-				(SELECT t.reporting_slug as reporting_id, reporting, flow,  t.expimp as expimp,
-				t.partner as partner, t.year as year, type, source, reporting_continent,reporting_type,(t1.reportings ||"+"|| t1.expimp) as mirror_partner
-				FROM
-				(SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, group_concat(partner,"+") as partner, year,group_concat(source,"+") as source, group_concat(type,"+") as type, reporting_continent,lower(reporting_type) as reporting_type, expimp
-				FROM flow_joined
-				WHERE flow is not NULL
-				AND reporting_slug is not NULL
-				AND(partner_slug like 'Worldestimated'
-				OR partner_slug like 'Worldasreported'
-				OR partner_slug like 'Worldsumpartners'
-				OR partner_slug like 'WorldFedericoTena')
-				GROUP BY  reporting_slug,year,expimp) t
-				LEFT JOIN
-				(SELECT group_concat(distinct reporting_slug ||"-"|| ((flow*Unit)/ifnull(rate,1))) as reportings,partner_slug,year,expimp
-				FROM flow_joined
-				Where flow*Unit/rate is not NULL
-				GROUP BY  partner_slug, year,expimp) t1
-				ON t.reporting_slug=t1.partner_slug and t.year =t1.year and t.expimp!=t1.expimp)
-				Group by reporting_id, year
+			 group_concat(tot.partner,"|") as partner, tot.year as year,
+             group_concat(tot.type,"|") as sourcetype,  group_concat(tot.source,"|")  as source,count(distinct tot.source) as source_count,
+             tot.reporting_continent as reporting_continent, tot.reporting_type as reporting_type,"actual" as partnertype,group_concat(mirror_partner,"|") as mirror_partner
+             from
+             (SELECT reporting_id, reporting, flow, r.expimp as expimp,
+             partner as partner, r.year as year, type, source, reporting_continent, reporting_type,(t1.reportings ||"+"|| t1.expimp) as mirror_partner
+             FROM
+             (select t.reporting_slug as reporting_id,t.reporting as reporting, sum(t.flow) as flow, t.expimp as expimp, group_concat(t.partner_slug) as partner,
+             t.year as year, t.reporting_continent as reporting_continent, t.reporting_type as reporting_type,group_concat(distinct t.type) as type,group_concat(distinct t.source)  as source
+             FROM
+             (SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, (replace(partner_slug,",","")||"+"||partner_continent) as partner_slug, year, source, type,reporting_continent,reporting_type, expimp
+             FROM flow_joined
+             WHERE partner_slug NOT LIKE 'World%' 
+             AND flow*Unit/rate is not NULL
+             AND partner_continent is not NULL
+             GROUP BY  reporting_slug, partner_slug,year,expimp) t
+             Group by t.reporting_slug, t.year, t.expimp) r
+             LEFT JOIN
+             (SELECT group_concat(distinct replace(reporting_slug,",","")) as reportings,partner_slug,year,expimp
+             FROM flow_joined
+             Where flow is not NULL
+             GROUP BY  partner_slug, year,expimp) t1
+             ON r.reporting_id=t1.partner_slug and r.year =t1.year and r.expimp!=t1.expimp) tot
+             GROUP BY  tot.reporting_id, tot.year
+             UNION ALL
+             SELECT reporting_id,reporting as reporting, group_concat(flow,"|") as flow, group_concat(expimp,"|") as expimp, group_concat(partner,"|") as partner,
+             year,group_concat(type,"|") as type,group_concat(source,"|")as source, count(distinct source)as source_count,
+             reporting_continent, reporting_type, "world" as partnertype,group_concat(mirror_partner,"|") as mirror_partner
+             FROM
+             (SELECT t.reporting_slug as reporting_id, reporting, flow,  t.expimp as expimp,
+             t.partner as partner, t.year as year, type, source, reporting_continent, reporting_type,(t1.reportings ||"+"|| t1.expimp) as mirror_partner
+             FROM
+             (SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, group_concat(partner,"+") as partner, year,group_concat(source,"+") as source, group_concat(type,"+") as type, reporting_continent,reporting_type, expimp
+             FROM flow_joined
+             WHERE flow is not NULL
+             AND(partner_slug like 'Worldestimated'
+             OR partner_slug like 'Worldasreported'
+             OR partner_slug like 'Worldsumpartners'
+             OR partner_slug like 'WorldFedericoTena')
+             GROUP BY  reporting_slug,year,expimp) t
+             LEFT JOIN
+             (SELECT group_concat(distinct replace(reporting_slug,",","")) as reportings,partner_slug,year,expimp
+             FROM flow_joined
+             Where flow*Unit/rate is not NULL
+             GROUP BY  partner_slug, year,expimp) t1
+             ON t.reporting_slug=t1.partner_slug and t.year =t1.year and t.expimp!=t1.expimp)
+             Group by reporting_id, year
 			""")
 
 print "metadata created"

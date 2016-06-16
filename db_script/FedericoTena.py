@@ -55,7 +55,7 @@ def import_fredericotena(c):
 				# create new entities
 				print "inserting new entity %s"%entity["ricname"]
 				# todo add continent
-				c.execute("INSERT OR IGNORE INTO RICentities (RICname,type,continent,COW_code,slug) VALUES (?,?,?,?,?)",(entity["ricname"],entity["rictype"],"?",entity["cow"],ricslug(entity["ricname"])))
+				c.execute("INSERT OR IGNORE INTO RICentities (RICname,type,continent,COW_code,slug) VALUES (?,?,?,?,?)",(entity["ricname"],entity["rictype"],entity["continent"],entity["cow"],ricslug(entity["ricname"])))
 				# todo check for the group
 			c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",(entity["Polity Federico-Tena"],entity["ricname"]))
 			ft_entities.append(entity["Polity Federico-Tena"])
