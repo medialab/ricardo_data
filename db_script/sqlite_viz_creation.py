@@ -29,8 +29,8 @@ utils.csv2sqlite("../csv_data/*.csv",database_filename,conf["sqlite_schema"])
 conn=sqlite3.connect(database_filename)
 c=conn.cursor()
 
-print "importing Frederico Tena from csv"
-FedericoTena.import_fredericotena(c)
+print "importing Federico Tena from csv"
+FedericoTena.import_federicotena(c)
 
 ################################################################################
 ##			Update every table with uniformed attributes
