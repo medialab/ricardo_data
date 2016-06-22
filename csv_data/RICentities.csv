@@ -671,7 +671,7 @@ Gozo & Malta,group,Europe,,Gozo_Malta
 Greece,country,Europe,350,Greece
 Greece & Ionian Is.,group,Europe,,Greece_IonianIs.
 Greece & Malta,group,Europe,,Greece_Malta
-Greece & Malta & Turkey,group,Europe,,Greece_Malta_Turkey
+Greece & Malta & Turkey,group,World,,Greece_Malta_Turkey
 Greece & Russia/USSR & Turkey,group,World,,Greece_RussiaUSSR_Turkey
 Greece & Turkey,group,World,,Greece_Turkey
 Greenland,country,America,10,Greenland
