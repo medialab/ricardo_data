@@ -22,6 +22,8 @@ def import_flows(filename,imp_exp,c,ft_entities,ft_rates):
 						if reporting in ft_entities:
 							data=["FEDERICO-TENA",flow,"1000000","us dollar",int(year),reporting,"World Federico-Tena",imp_exp,"gen","total_federicotena"]
 							c.execute("INSERT INTO flows (source, flow, unit, currency, year, reporting, partner, export_import, special_general, world_trade_type) VALUES (?,?,?,?,?,?,?,?,?,?)",data)
+							data=["us dollar",int(year),reporting,"us dollar"]
+							c.execute("INSERT OR IGNORE INTO currencies (currency, year, reporting, modified_currency) VALUES (?,?,?,?)",data)
 						else:
 							print "MISSING '%s' in ft entities"%reporting
 
