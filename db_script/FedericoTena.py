@@ -13,7 +13,7 @@ def import_flows(filename,imp_exp,c,ft_entities,ft_rates):
 			for reporting,flow in line.iteritems():
 				if flow !="":
 					try:
-						flow=float(flow.replace(",","."))/ft_rates[year]
+						flow=float(flow.replace(",","."))*ft_rates[year]
 					except :
 						print year,reporting,"'%s'"%flow
 						continue
