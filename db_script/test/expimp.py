@@ -12,6 +12,3 @@ def test(cursor):
 	print "missing expimp spe/gen in standards :%s"%len(missings_expimp)
 	if len(missings_expimp)==0:
 		return True
-	else:
-		for t in missings_expimp:
-			print t
