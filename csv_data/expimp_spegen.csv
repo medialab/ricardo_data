@@ -90,3 +90,9 @@ uitvoer,gen,Exp,Gen
 re-exp,gen,Re-exp,Gen
 uitvoer uit het vrije verkeer,spe,Exp,Spe
 invoer tot verbruik,spe,Imp,Spe
+Imp,Spe,Imp,Spe
+Exp,Spe,Exp,Spe
+Imp,Gen,Imp,Gen
+Exp,Gen,Exp,Gen
+Re-exp,Gen-Spe,Re-exp,Gen-Spe
+Re-exp,Gen,Re-exp,Gen
