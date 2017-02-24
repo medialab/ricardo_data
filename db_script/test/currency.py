@@ -12,7 +12,7 @@ def test(cursor):
 	initial_currency_years=[]
 	for y, c, r in cursor:
 	 	#print str(int(y))+" "+c.encode("UTF8")
-	 	initial_currency_years.append((y,c.lower().strip(),r.lower().strip()))
+	 	initial_currency_years.append((y,c.lower().strip() if c else "",r.lower().strip() if r else r))
 	print "total number of currencies in flows %s"%len(initial_currency_years)
 
 	cursor.execute("""SELECT c.year, c.currency, c.modified_currency, c.reporting
