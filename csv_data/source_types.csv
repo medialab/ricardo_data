@@ -71,4 +71,5 @@ TT-UK,Tables Trade United Kingdom,primary,House of Commons Parliamentary Papers,
 WdW,Währungen der Welt,estimation,"Schneider J, Schwarzer O. & F. Zellfelder | Schneider J, Schwarzer O. & Denzel M.",
 TULLI,Tulli,secondary,Finnish Customs,http://www.tulli.fi/en/finnish_customs/statistics/statistics/time_series/index.jsp
 SEEMES,South-Eastern European Monetary and Economic Statistics from the Nineteenth Century to World War II,estimation,"The South-Eastern European Monetary History Network (SEEMHN), central banks of Albania, Bulgaria, Greece, Romania, Serbia, Turkey and Austria.",https://www.oenb.at/en/Publications/Economics/south-east-european-monetary-history-network-data-volume/download.html
-STAT-COM-ALG,Documents statistiques sur le commerce de l'Algérie,primary,"Gouvernement général de l'Algérie, Direction des Douanes",
+SC-ALG,Documents statistiques sur le commerce de l'Algérie,primary,"Gouvernement général de l'Algérie, Direction des Douanes",
+TC-ALG,Tableau commerce Algérie,primary,"Gouvernement général de l'Algérie, Office de renseignements généraux et de colonisation",
