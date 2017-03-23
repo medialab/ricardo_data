@@ -3,6 +3,7 @@ CREATE TABLE `sources`
 (
 	`slug`			TEXT  PRIMARY KEY,
 	`acronym`		TEXT,
+	`author`        TEXT,
 	`name`			TEXT,
 	`edition_date`	TEXT,
 	`country`		TEXT,
