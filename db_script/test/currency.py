@@ -40,7 +40,7 @@ def test(cursor):
 		with codecs.open(os.path.join("..","out_data","missings_rates.csv"),"w",encoding="UTF8") as csv_f:
 		 	csv_f.write('"year", "currency", "reporting"\n')
 		 	for t in inflownotincurrency:
-		 		csv_f.write("%s,%s, %s\n"%t)
+		 		csv_f.write("%s,\"%s\", %s\n"%t)
 
 	cursor.execute("""SELECT r.year, r.modified_currency ,r.rate_to_pounds
 		from exchange_rates as r
