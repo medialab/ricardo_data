@@ -96,3 +96,8 @@ Imp,Gen,Imp,Gen
 Exp,Gen,Exp,Gen
 Re-exp,Gen-Spe,Re-exp,Gen-Spe
 Re-exp,Gen,Re-exp,Gen
+Imp,gen,Exp,Gen
+Imp,,Imp,
+Exp,spe,Exp,Spe
+Exp,,Exp,
+Exp,gen,Exp,Gen
