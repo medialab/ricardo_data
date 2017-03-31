@@ -236,17 +236,17 @@ livre sterling,1868,antigua (leeward islands - west india islands),sterling poun
 livre sterling,1869,antigua (leeward islands - west india islands),sterling pound
 livre sterling,1870,antigua (leeward islands - west india islands),sterling pound
 pesos or,1910,arg,argentine gold peso
-$,1861,argentine,us dollar
-$,1862,argentine,us dollar
-$,1863,argentine,us dollar
-$,1864,argentine,us dollar
+$,1861,argentine,argentine gold peso
+$,1862,argentine,argentine gold peso
+$,1863,argentine,argentine gold peso
+$,1864,argentine,argentine gold peso
 franc,1865,argentine,french franc
 franc,1866,argentine,french franc
-$,1867,argentine,us dollar
-$,1868,argentine,us dollar
-$,1869,argentine,us dollar
+$,1867,argentine,argentine gold peso
+$,1868,argentine,argentine gold peso
+$,1869,argentine,argentine gold peso
 dollar fuertes,1870,argentine,argentine peso fuerte
-dollars,1870,argentine,us dollar
+dollars,1870,argentine,argentine gold peso
 pesos fuertes,1870,argentine,argentine peso fuerte
 piastre forte,1875,argentine,argentine peso fuerte
 piastre forte*,1875,argentine,argentine peso fuerte
@@ -271,25 +271,25 @@ pesos papel,1938,argentine,argentine peso nacional
 piastres courantes,1835,argentine (buenos aires),argentine peso corriente
 franc,1843,argentine (la plata - port de buenos-ayres uniquement),french franc
 franc,1855,argentine (la plata - port de buenos-ayres uniquement),french franc
-dollars,1870,argentine republic,us dollar
+dollars,1870,argentine republic,argentine gold peso
 pesos fuertes,1870,argentine republic,argentine peso fuerte
-dollars,1871,argentine republic,us dollar
+dollars,1871,argentine republic,argentine gold peso
 pesos fuertes,1871,argentine republic,argentine peso fuerte
-dollars,1872,argentine republic,us dollar
+dollars,1872,argentine republic,argentine gold peso
 pesos fuertes,1872,argentine republic,argentine peso fuerte
-dollars,1873,argentine republic,us dollar
+dollars,1873,argentine republic,argentine gold peso
 pesos fuertes,1873,argentine republic,argentine peso fuerte
-dollars,1874,argentine republic,us dollar
+dollars,1874,argentine republic,argentine gold peso
 pesos fuertes,1874,argentine republic,argentine peso fuerte
-dollars,1875,argentine republic,us dollar
+dollars,1875,argentine republic,argentine gold peso
 pesos fuertes,1875,argentine republic,argentine peso fuerte
-dollars,1876,argentine republic,us dollar
+dollars,1876,argentine republic,argentine gold peso
 pesos fuertes,1876,argentine republic,argentine peso fuerte
-dollars,1877,argentine republic,us dollar
+dollars,1877,argentine republic,argentine gold peso
 pesos fuertes,1877,argentine republic,argentine peso fuerte
-dollars,1878,argentine republic,us dollar
+dollars,1878,argentine republic,argentine gold peso
 pesos fuertes,1878,argentine republic,argentine peso fuerte
-dollars,1879,argentine republic,us dollar
+dollars,1879,argentine republic,argentine gold peso
 pesos fuertes,1879,argentine republic,argentine peso fuerte
 livres sterling,1880,argentine republic,sterling pound
 pesos nacionales (ou pesos oro),1880,argentine republic,argentine gold peso
@@ -2025,9 +2025,9 @@ livre sterling,1855,canada,sterling pound
 livre sterling,1856,canada,sterling pound
 livre sterling,1857,canada,sterling pound
 franc,1858,canada,french franc
-dollar,1859,canada,us dollar
-dollar,1860,canada,us dollar
-dollar,1861,canada,us dollar
+dollar,1859,canada,canadian dollar
+dollar,1860,canada,canadian dollar
+dollar,1861,canada,canadian dollar
 dollars,1868,canada,us dollar
 dollars,1869,canada,us dollar
 dollars,1870,canada,us dollar
@@ -16381,3 +16381,802 @@ bolivares,1899,venezuela,venezuelan bolivar
 bolivares,1900,venezuela,venezuelan bolivar
 bolivares,1901,venezuela,venezuelan bolivar
 bolivares,1902,venezuela,venezuelan bolivar
+franc,1900,algérie,french franc
+franc,1901,algérie,french franc
+franc,1902,algérie,french franc
+franc,1903,algérie,french franc
+franc,1904,algérie,french franc
+franc,1905,algérie,french franc
+franc,1906,algérie,french franc
+franc,1907,algérie,french franc
+franc,1908,algérie,french franc
+franc,1909,algérie,french franc
+franc,1910,algérie,french franc
+franc,1911,algérie,french franc
+franc,1912,algérie,french franc
+franc,1913,algérie,french franc
+franc,1914,algérie,french franc
+franc,1915,algérie,french franc
+franc,1916,algérie,french franc
+franc,1917,algérie,french franc
+franc,1918,algérie,french franc
+franc,1919,algérie,french franc
+franc,1920,algérie,french franc
+franc,1921,algérie,french franc
+franc,1922,algérie,french franc
+franc,1923,algérie,french franc
+franc,1924,algérie,french franc
+franc,1925,algérie,french franc
+franc,1926,algérie,french franc
+franc,1927,algérie,french franc
+franc,1928,algérie,french franc
+franc,1929,algérie,french franc
+franc,1930,algérie,french franc
+franc,1931,algérie,french franc
+franc,1932,algérie,french franc
+franc,1933,algérie,french franc
+franc,1934,algérie,french franc
+franc,1935,algérie,french franc
+franc,1936,algérie,french franc
+franc,1937,algérie,french franc
+franc,1938,algérie,french franc
+pesos fuertes,1870,argentina,argentine peso fuerte
+pesos fuertes,1871,argentina,argentine peso fuerte
+pesos fuertes,1872,argentina,argentine peso fuerte
+pesos fuertes,1873,argentina,argentine peso fuerte
+$,1873,argentina,argentine gold peso
+$,1874,argentina,argentine gold peso
+pesos fuertes,1874,argentina,argentine peso fuerte
+$,1875,argentina,argentine gold peso
+$,1876,argentina,argentine gold peso
+$,1877,argentina,argentine gold peso
+$,1878,argentina,argentine gold peso
+$,1879,argentina,argentine gold peso
+$,1880,argentina,argentine gold peso
+$,1881,argentina,argentine gold peso
+$,1882,argentina,argentine gold peso
+$,1883,argentina,argentine gold peso
+$,1884,argentina,argentine gold peso
+$,1885,argentina,argentine gold peso
+$,1886,argentina,argentine gold peso
+$,1887,argentina,argentine gold peso
+$,1888,argentina,argentine gold peso
+$,1889,argentina,argentine gold peso
+$,1890,argentina,argentine gold peso
+$,1891,argentina,argentine gold peso
+$,1892,argentina,argentine gold peso
+m$n,1910,argentina,argentine peso nacional
+m$n,1911,argentina,argentine peso nacional
+m$n,1912,argentina,argentine peso nacional
+m$n,1913,argentina,argentine peso nacional
+m$n,1914,argentina,argentine peso nacional
+m$n,1915,argentina,argentine peso nacional
+m$n,1916,argentina,argentine peso nacional
+m$n,1917,argentina,argentine peso nacional
+m$n,1918,argentina,argentine peso nacional
+m$n,1919,argentina,argentine peso nacional
+m$n,1920,argentina,argentine peso nacional
+m$n,1921,argentina,argentine peso nacional
+m$n,1922,argentina,argentine peso nacional
+m$n,1923,argentina,argentine peso nacional
+m$n,1924,argentina,argentine peso nacional
+m$n,1925,argentina,argentine peso nacional
+m$n,1926,argentina,argentine peso nacional
+m$n,1927,argentina,argentine peso nacional
+m$n,1928,argentina,argentine peso nacional
+m$n,1929,argentina,argentine peso nacional
+m$n,1930,argentina,argentine peso nacional
+m$n,1931,argentina,argentine peso nacional
+m$n,1932,argentina,argentine peso nacional
+m$n,1933,argentina,argentine peso nacional
+m$n,1934,argentina,argentine peso nacional
+m$n,1935,argentina,argentine peso nacional
+m$n,1936,argentina,argentine peso nacional
+m$n,1937,argentina,argentine peso nacional
+m$n,1938,argentina,argentine peso nacional
+pound sterling,1887,australia,sterling pound
+pound sterling,1888,australia,sterling pound
+pound sterling,1889,australia,sterling pound
+pound sterling,1890,australia,sterling pound
+pound sterling,1891,australia,sterling pound
+pound sterling,1892,australia,sterling pound
+pound sterling,1893,australia,sterling pound
+pound sterling,1894,australia,sterling pound
+pound sterling,1895,australia,sterling pound
+pound sterling,1896,australia,sterling pound
+pound sterling,1897,australia,sterling pound
+pound sterling,1898,australia,sterling pound
+pound sterling,1899,australia,sterling pound
+pound sterling,1900,australia,sterling pound
+pound sterling,1901,australia,sterling pound
+pound sterling,1902,australia,sterling pound
+pound sterling,1903,australia,sterling pound
+pound sterling,1904,australia,sterling pound
+pound sterling,1905,australia,sterling pound
+pound sterling,1906,australia,sterling pound
+pound sterling,1907,australia,sterling pound
+pound sterling,1908,australia,sterling pound
+pound sterling,1909,australia,sterling pound
+pound sterling,1910,australia,sterling pound
+pound sterling,1911,australia,sterling pound
+pound sterling,1912,australia,sterling pound
+pound sterling,1913,australia,sterling pound
+pound sterling,1914,australia,sterling pound
+pound sterling,1915,australia,sterling pound
+pound sterling,1916,australia,sterling pound
+pound sterling,1917,australia,sterling pound
+pound sterling,1918,australia,sterling pound
+pound sterling,1919,australia,sterling pound
+pound sterling,1920,australia,sterling pound
+pound sterling,1921,australia,sterling pound
+pound sterling,1922,australia,sterling pound
+pound sterling,1923,australia,sterling pound
+pound sterling,1924,australia,sterling pound
+pound sterling,1925,australia,sterling pound
+pound sterling,1926,australia,sterling pound
+pound sterling,1927,australia,sterling pound
+pound sterling,1928,australia,sterling pound
+pound sterling,1929,australia,sterling pound
+pound sterling,1930,australia,sterling pound
+pound sterling,1931,australia,sterling pound
+pound sterling,1932,australia,sterling pound
+pound sterling,1933,australia,sterling pound
+pound sterling,1934,australia,sterling pound
+pound sterling,1935,australia,sterling pound
+pound sterling,1936,australia,sterling pound
+pound sterling,1937,australia,sterling pound
+pound sterling,1938,australia,sterling pound
+francs,1919,belgique,belgian franc
+francs,1920,belgique,belgian franc
+francs,1921,belgique,belgian franc
+pound sterling,1902,brasil,sterling pound
+pound sterling,1903,brasil,sterling pound
+pound sterling,1904,brasil,sterling pound
+pound sterling,1905,brasil,sterling pound
+pound sterling,1906,brasil,sterling pound
+pound sterling,1907,brasil,sterling pound
+pound sterling,1908,brasil,sterling pound
+pound sterling,1909,brasil,sterling pound
+contos de réis or,1910,brasil,brazilian gold milreis
+pound sterling,1910,brasil,sterling pound
+contos de réis or,1911,brasil,brazilian gold milreis
+pound sterling,1911,brasil,sterling pound
+pound sterling,1912,brasil,sterling pound
+contos de réis or,1912,brasil,brazilian gold milreis
+pound sterling,1913,brasil,sterling pound
+contos de réis or,1914,brasil,brazilian gold milreis
+pound sterling,1914,brasil,sterling pound
+pound sterling,1915,brasil,sterling pound
+pound sterling,1916,brasil,sterling pound
+pound sterling,1917,brasil,sterling pound
+pound sterling,1918,brasil,sterling pound
+pound sterling,1919,brasil,sterling pound
+pound sterling,1920,brasil,sterling pound
+pound sterling,1921,brasil,sterling pound
+pound sterling,1922,brasil,sterling pound
+pound sterling,1923,brasil,sterling pound
+pound sterling,1924,brasil,sterling pound
+pound sterling,1925,brasil,sterling pound
+pound sterling,1926,brasil,sterling pound
+pound sterling,1927,brasil,sterling pound
+pound sterling,1928,brasil,sterling pound
+pound sterling,1929,brasil,sterling pound
+pound sterling,1930,brasil,sterling pound
+pound sterling,1931,brasil,sterling pound
+"££, gold",1932,brasil,gold sterling
+"££, gold",1933,brasil,gold sterling
+"££, gold",1934,brasil,gold sterling
+"££, gold",1935,brasil,gold sterling
+"££, gold",1936,brasil,gold sterling
+rupee,1872,british india,indian rupee
+rupee,1873,british india,indian rupee
+rupee,1874,british india,indian rupee
+rupee,1875,british india,indian rupee
+rupee,1876,british india,indian rupee
+rupee,1880,british india,indian rupee
+rupee,1881,british india,indian rupee
+rupee,1882,british india,indian rupee
+rupee,1883,british india,indian rupee
+rupee,1884,british india,indian rupee
+rupee,1885,british india,indian rupee
+rupee,1886,british india,indian rupee
+rupee,1887,british india,indian rupee
+rupee,1888,british india,indian rupee
+rupee,1889,british india,indian rupee
+rupee,1891,british india,indian rupee
+rupee,1892,british india,indian rupee
+rupee,1893,british india,indian rupee
+rupee,1894,british india,indian rupee
+rupee,1895,british india,indian rupee
+rupee,1897,british india,indian rupee
+rupee,1898,british india,indian rupee
+rupee,1899,british india,indian rupee
+rupee,1900,british india,indian rupee
+rupee,1901,british india,indian rupee
+rupee,1902,british india,indian rupee
+rupee,1903,british india,indian rupee
+rupee,1904,british india,indian rupee
+rupee,1905,british india,indian rupee
+rupee,1906,british india,indian rupee
+rupee,1907,british india,indian rupee
+rupee,1908,british india,indian rupee
+£,1909,british india,sterling pound
+£,1910,british india,sterling pound
+£,1911,british india,sterling pound
+£,1912,british india,sterling pound
+£,1913,british india,sterling pound
+£,1914,british india,sterling pound
+£,1915,british india,sterling pound
+£,1916,british india,sterling pound
+£,1917,british india,sterling pound
+£,1918,british india,sterling pound
+rupee,1919,british india,indian rupee
+rupee,1920,british india,indian rupee
+rupee,1921,british india,indian rupee
+rupee,1922,british india,indian rupee
+rupee,1923,british india,indian rupee
+rupee,1924,british india,indian rupee
+rupee,1925,british india,indian rupee
+rupee,1926,british india,indian rupee
+rupee,1927,british india,indian rupee
+rupee,1928,british india,indian rupee
+rupee,1929,british india,indian rupee
+rupee,1930,british india,indian rupee
+rupee,1931,british india,indian rupee
+rupee,1932,british india,indian rupee
+rupee,1933,british india,indian rupee
+rupee,1934,british india,indian rupee
+rupee,1935,british india,indian rupee
+rupee,1936,british india,indian rupee
+rupee,1937,british india,indian rupee
+rupee,1938,british india,indian rupee
+francs,1881,bulgarie,french franc
+francs,1882,bulgarie,french franc
+francs,1883,bulgarie,french franc
+francs,1884,bulgarie,french franc
+francs,1885,bulgarie,french franc
+francs,1886,bulgarie,french franc
+francs,1887,bulgarie,french franc
+francs,1888,bulgarie,french franc
+francs,1889,bulgarie,french franc
+francs,1891,bulgarie,french franc
+francs,1892,bulgarie,french franc
+francs,1893,bulgarie,french franc
+francs,1894,bulgarie,french franc
+francs,1895,bulgarie,french franc
+francs,1896,bulgarie,french franc
+francs,1897,bulgarie,french franc
+francs,1898,bulgarie,french franc
+francs,1899,bulgarie,french franc
+francs,1900,bulgarie,french franc
+francs,1901,bulgarie,french franc
+francs,1902,bulgarie,french franc
+francs,1903,bulgarie,french franc
+francs,1904,bulgarie,french franc
+francs,1905,bulgarie,french franc
+francs,1906,bulgarie,french franc
+francs,1907,bulgarie,french franc
+francs,1908,bulgarie,french franc
+francs,1909,bulgarie,french franc
+francs,1910,bulgarie,french franc
+francs,1911,bulgarie,french franc
+francs,1912,bulgarie,french franc
+francs,1913,bulgarie,french franc
+leva,1914,bulgarie,bulgarian lev
+leva,1915,bulgarie,bulgarian lev
+leva,1916,bulgarie,bulgarian lev
+leva,1917,bulgarie,bulgarian lev
+leva,1918,bulgarie,bulgarian lev
+leva,1919,bulgarie,bulgarian lev
+leva,1920,bulgarie,bulgarian lev
+leva,1921,bulgarie,bulgarian lev
+leva,1922,bulgarie,bulgarian lev
+leva,1923,bulgarie,bulgarian lev
+dollar,1868,canada,canadian dollar
+dollar,1869,canada,canadian dollar
+dollar,1870,canada,canadian dollar
+dollar,1871,canada,canadian dollar
+dollar,1872,canada,canadian dollar
+dollar,1873,canada,canadian dollar
+dollar,1874,canada,canadian dollar
+dollar,1876,canada,canadian dollar
+dollar,1882,canada,canadian dollar
+dollar,1886,canada,canadian dollar
+dollar,1889,canada,canadian dollar
+dollar,1890,canada,canadian dollar
+dollar,1891,canada,canadian dollar
+dollar,1892,canada,canadian dollar
+dollar,1896,canada,canadian dollar
+dollar,1900,canada,canadian dollar
+dollar,1901,canada,canadian dollar
+dollar,1902,canada,canadian dollar
+dollar,1903,canada,canadian dollar
+dollar,1904,canada,canadian dollar
+dollar,1905,canada,canadian dollar
+dollar,1906,canada,canadian dollar
+dollar,1907,canada,canadian dollar
+dollar,1908,canada,canadian dollar
+dollar,1909,canada,canadian dollar
+dollar,1910,canada,canadian dollar
+dollar,1912,canada,canadian dollar
+dollar,1913,canada,canadian dollar
+dollar,1914,canada,canadian dollar
+dollar,1915,canada,canadian dollar
+dollar,1916,canada,canadian dollar
+dollar,1917,canada,canadian dollar
+dollar,1918,canada,canadian dollar
+dollar,1919,canada,canadian dollar
+dollar,1920,canada,canadian dollar
+dollar,1921,canada,canadian dollar
+dollar,1922,canada,canadian dollar
+dollar,1923,canada,canadian dollar
+dollar,1924,canada,canadian dollar
+dollar,1925,canada,canadian dollar
+dollar,1926,canada,canadian dollar
+dollar,1927,canada,canadian dollar
+dollar,1928,canada,canadian dollar
+dollar,1929,canada,canadian dollar
+dollar,1930,canada,canadian dollar
+dollar,1931,canada,canadian dollar
+dollar,1932,canada,canadian dollar
+dollar,1933,canada,canadian dollar
+dollar,1934,canada,canadian dollar
+dollar,1935,canada,canadian dollar
+dollar,1936,canada,canadian dollar
+dollar,1937,canada,canadian dollar
+dollar,1938,canada,canadian dollar
+pesos,1855,chile,chilean peso
+$ oro de 6 d.,1925,chile,chilean papel peso
+$ oro de 6 d.,1926,chile,chilean papel peso
+$ oro de 6 d.,1927,chile,chilean papel peso
+$ oro de 6 d.,1928,chile,chilean papel peso
+$ oro de 6 d.,1931,chile,chilean papel peso
+$ oro de 6 d.,1932,chile,chilean papel peso
+$ oro de 6 d.,1933,chile,chilean papel peso
+$ oro de 6 d.,1934,chile,chilean papel peso
+$ oro de 6 d.,1935,chile,chilean papel peso
+$ oro de 6 d.,1936,chile,chilean papel peso
+haikwan taels,1868,china,chinese haikwan tael
+haikwan taels,1879,china,chinese haikwan tael
+haikwan taels,1880,china,chinese haikwan tael
+haikwan taels,1881,china,chinese haikwan tael
+haikwan taels,1882,china,chinese haikwan tael
+haikwan taels,1883,china,chinese haikwan tael
+haikwan taels,1884,china,chinese haikwan tael
+haikwan taels,1885,china,chinese haikwan tael
+haikwan taels,1886,china,chinese haikwan tael
+haikwan taels,1887,china,chinese haikwan tael
+haikwan taels,1888,china,chinese haikwan tael
+haikwan taels,1889,china,chinese haikwan tael
+haikwan taels,1890,china,chinese haikwan tael
+haikwan taels,1891,china,chinese haikwan tael
+haikwan taels,1892,china,chinese haikwan tael
+haikwan taels,1893,china,chinese haikwan tael
+haikwan taels,1894,china,chinese haikwan tael
+haikwan taels,1895,china,chinese haikwan tael
+haikwan taels,1896,china,chinese haikwan tael
+haikwan taels,1897,china,chinese haikwan tael
+haikwan taels,1898,china,chinese haikwan tael
+haikwan taels,1899,china,chinese haikwan tael
+haikwan taels,1900,china,chinese haikwan tael
+haikwan taels,1901,china,chinese haikwan tael
+haikwan taels,1902,china,chinese haikwan tael
+haikwan taels,1903,china,chinese haikwan tael
+haikwan taels,1904,china,chinese haikwan tael
+haikwan taels,1905,china,chinese haikwan tael
+haikwan taels,1906,china,chinese haikwan tael
+haikwan taels,1919,china,chinese haikwan tael
+haikwan taels,1920,china,chinese haikwan tael
+haikwan taels,1921,china,chinese haikwan tael
+haikwan taels,1922,china,chinese haikwan tael
+haikwan taels,1923,china,chinese haikwan tael
+haikwan taels,1924,china,chinese haikwan tael
+haikwan taels,1925,china,chinese haikwan tael
+haikwan taels,1926,china,chinese haikwan tael
+haikwan taels,1927,china,chinese haikwan tael
+haikwan taels,1928,china,chinese haikwan tael
+haikwan taels,1929,china,chinese haikwan tael
+haikwan taels,1930,china,chinese haikwan tael
+haikwan taels,1931,china,chinese haikwan tael
+haikwan taels,1932,china,chinese haikwan tael
+standard dollars,1933,china,chinese standard dollar
+standard dollars,1934,china,chinese standard dollar
+standard dollars,1935,china,chinese standard dollar
+standard dollars,1936,china,chinese standard dollar
+standard dollars,1937,china,chinese standard dollar
+standard dollars,1938,china,chinese standard dollar
+pesos,1835,colombia,colombian peso
+pesos,1836,colombia,colombian peso
+pesos,1837,colombia,colombian peso
+pesos,1838,colombia,colombian peso
+pesos,1839,colombia,colombian peso
+pesos,1840,colombia,colombian peso
+pesos,1841,colombia,colombian peso
+pesos,1842,colombia,colombian peso
+pesos,1843,colombia,colombian peso
+pesos,1844,colombia,colombian peso
+pesos,1845,colombia,colombian peso
+pesos,1846,colombia,colombian peso
+pesos,1847,colombia,colombian peso
+pesos,1848,colombia,colombian peso
+pesos,1849,colombia,colombian peso
+pesos,1850,colombia,colombian peso
+pesos,1851,colombia,colombian peso
+pesos,1852,colombia,colombian peso
+pesos,1853,colombia,colombian peso
+pesos,1854,colombia,colombian peso
+pesos,1855,colombia,colombian peso
+pesos,1856,colombia,colombian peso
+pesos,1857,colombia,colombian peso
+pesos,1858,colombia,colombian peso
+pesos,1859,colombia,colombian peso
+pesos,1860,colombia,colombian peso
+pesos,1861,colombia,colombian peso
+pesos,1862,colombia,colombian peso
+pesos,1863,colombia,colombian peso
+pesos,1864,colombia,colombian peso
+pesos,1865,colombia,colombian peso
+pesos,1866,colombia,colombian peso
+pesos,1867,colombia,colombian peso
+pesos,1868,colombia,colombian peso
+pesos,1869,colombia,colombian peso
+pesos,1870,colombia,colombian peso
+pesos,1871,colombia,colombian peso
+pesos,1872,colombia,colombian peso
+pesos,1873,colombia,colombian peso
+pesos,1874,colombia,colombian peso
+pesos,1875,colombia,colombian peso
+pesos,1876,colombia,colombian peso
+pesos,1877,colombia,colombian peso
+pesos,1878,colombia,colombian peso
+pesos,1879,colombia,colombian peso
+pesos,1880,colombia,colombian peso
+pesos,1881,colombia,colombian peso
+pesos,1882,colombia,colombian peso
+pesos,1883,colombia,colombian peso
+pesos,1884,colombia,colombian peso
+pesos,1885,colombia,colombian peso
+pesos,1886,colombia,colombian peso
+pesos,1887,colombia,colombian peso
+pesos,1888,colombia,colombian peso
+pesos,1889,colombia,colombian peso
+pesos,1890,colombia,colombian peso
+pesos,1891,colombia,colombian peso
+pesos,1892,colombia,colombian peso
+pesos,1893,colombia,colombian peso
+pesos,1894,colombia,colombian peso
+pesos,1895,colombia,colombian peso
+pesos,1896,colombia,colombian peso
+pesos,1897,colombia,colombian peso
+pesos,1898,colombia,colombian peso
+pesos,1899,colombia,colombian peso
+pesos,1900,colombia,colombian peso
+pesos,1901,colombia,colombian peso
+pesos,1902,colombia,colombian peso
+pesos,1903,colombia,colombian peso
+pesos,1904,colombia,colombian peso
+pesos,1905,colombia,colombian peso
+pesos,1906,colombia,colombian peso
+pesos,1907,colombia,colombian peso
+pesos,1908,colombia,colombian peso
+pesos,1909,colombia,colombian peso
+pesos,1910,colombia,colombian peso
+pesos,1911,colombia,colombian peso
+pesos,1912,colombia,colombian peso
+pesos,1913,colombia,colombian peso
+pesos,1914,colombia,colombian peso
+pesos,1915,colombia,colombian peso
+pesos,1916,colombia,colombian peso
+pesos,1917,colombia,colombian peso
+pesos,1918,colombia,colombian peso
+$ (pesos),1919,colombia,colombian peso
+$ (pesos),1922,colombia,colombian peso
+$ (pesos),1923,colombia,colombian peso
+$ (pesos),1924,colombia,colombian peso
+$ (pesos),1925,colombia,colombian peso
+$ (pesos),1926,colombia,colombian peso
+$ (pesos),1927,colombia,colombian peso
+$ (pesos),1928,colombia,colombian peso
+$ (pesos),1929,colombia,colombian peso
+$ (pesos),1930,colombia,colombian peso
+$ (pesos),1931,colombia,colombian peso
+pesos colombianos moneda legal,1932,colombia,colombian peso
+pesos colombianos moneda legal,1933,colombia,colombian peso
+pesos colombianos moneda legal,1934,colombia,colombian peso
+pesos colombianos moneda legal,1935,colombia,colombian peso
+pesos,1936,colombia,colombian peso
+pesos,1937,colombia,colombian peso
+pesos,1938,colombia,colombian peso
+dollar,1875,dominion of canada,canadian dollar
+dollar,1894,dominion of canada,canadian dollar
+dollar,1895,dominion of canada,canadian dollar
+dollar,1897,dominion of canada,canadian dollar
+dollar,1898,dominion of canada,canadian dollar
+dollar,1899,dominion of canada,canadian dollar
+escudos,1869,españa,spanish ecu
+pesetas,1870,españa,spanish peseta
+pesetas,1881,españa,spanish peseta
+pesetas,1915,españa,spanish peseta
+pesetas,1916,españa,spanish peseta
+pesetas,1917,españa,spanish peseta
+pesetas,1918,españa,spanish peseta
+pesetas,1919,españa,spanish peseta
+pesetas,1920,españa,spanish peseta
+pesetas,1921,españa,spanish peseta
+pesetas,1922,españa,spanish peseta
+pesetas,1924,españa,spanish peseta
+pesetas oro,1925,españa,spanish gold peseta
+pesetas oro,1926,españa,spanish gold peseta
+pesetas oro,1927,españa,spanish gold peseta
+pesetas oro,1928,españa,spanish gold peseta
+pesetas oro,1929,españa,spanish gold peseta
+pesetas oro,1930,españa,spanish gold peseta
+pesetas oro,1931,españa,spanish gold peseta
+pesetas oro,1932,españa,spanish gold peseta
+pesetas oro,1933,españa,spanish gold peseta
+pesetas oro,1934,españa,spanish gold peseta
+franc,1914,france,french franc
+franc,1915,france,french franc
+franc,1916,france,french franc
+franc,1917,france,french franc
+franc,1918,france,french franc
+franc,1919,france,french franc
+franc,1920,france,french franc
+franc,1921,france,french franc
+franc,1922,france,french franc
+franc,1923,france,french franc
+franc,1924,france,french franc
+franc,1925,france,french franc
+franc,1926,france,french franc
+franc,1927,france,french franc
+franc,1928,france,french franc
+franc,1929,france,french franc
+franc,1930,france,french franc
+franc,1931,france,french franc
+franc,1932,france,french franc
+franc,1933,france,french franc
+franc,1934,france,french franc
+franc,1935,france,french franc
+franc,1936,france,french franc
+franc,1937,france,french franc
+franc,1938,france,french franc
+francs,1787,france (alternative source),french franc
+francs,1788,france (alternative source),french franc
+francs,1789,france (alternative source),french franc
+francs,1792,france (alternative source),french franc
+francs,1797,france (alternative source),french franc
+francs,1798,france (alternative source),french franc
+francs,1799,france (alternative source),french franc
+francs,1800,france (alternative source),french franc
+francs,1801,france (alternative source),french franc
+francs,1802,france (alternative source),french franc
+francs,1803,france (alternative source),french franc
+francs,1804,france (alternative source),french franc
+francs,1805,france (alternative source),french franc
+francs,1806,france (alternative source),french franc
+francs,1807,france (alternative source),french franc
+francs,1808,france (alternative source),french franc
+francs,1809,france (alternative source),french franc
+francs,1810,france (alternative source),french franc
+francs,1811,france (alternative source),french franc
+francs,1812,france (alternative source),french franc
+francs,1813,france (alternative source),french franc
+francs,1814,france (alternative source),french franc
+francs,1815,france (alternative source),french franc
+francs,1816,france (alternative source),french franc
+francs,1817,france (alternative source),french franc
+francs,1818,france (alternative source),french franc
+francs,1819,france (alternative source),french franc
+francs,1820,france (alternative source),french franc
+francs,1821,france (alternative source),french franc
+florin,1915,nederland,netherlands guilder
+florin,1916,nederland,netherlands guilder
+florin,1917,nederland,netherlands guilder
+florin,1918,nederland,netherlands guilder
+florin,1919,nederland,netherlands guilder
+florin,1920,nederland,netherlands guilder
+florin,1921,nederland,netherlands guilder
+florin,1922,nederland,netherlands guilder
+florin,1923,nederland,netherlands guilder
+florin,1924,nederland,netherlands guilder
+florin,1925,nederland,netherlands guilder
+florin,1926,nederland,netherlands guilder
+florin,1927,nederland,netherlands guilder
+florin,1928,nederland,netherlands guilder
+florin,1929,nederland,netherlands guilder
+florin,1930,nederland,netherlands guilder
+florin,1931,nederland,netherlands guilder
+florin,1932,nederland,netherlands guilder
+florin,1933,nederland,netherlands guilder
+florin,1934,nederland,netherlands guilder
+florin,1935,nederland,netherlands guilder
+florin,1936,nederland,netherlands guilder
+florin,1937,nederland,netherlands guilder
+florin,1938,nederland,netherlands guilder
+dollar,1871,province d'ontario,canadian dollar
+dollar,1872,province d'ontario,canadian dollar
+dollar,1873,province d'ontario,canadian dollar
+dollar,1872,province de la colombie britannique,canadian dollar
+dollar,1873,province de la colombie britannique,canadian dollar
+dollar,1871,province de la nouvelle-ecosse,canadian dollar
+dollar,1872,province de la nouvelle-ecosse,canadian dollar
+dollar,1873,province de la nouvelle-ecosse,canadian dollar
+dollar,1871,province de manitoba,canadian dollar
+dollar,1872,province de manitoba,canadian dollar
+dollar,1873,province de manitoba,canadian dollar
+dollar,1871,province de québec,canadian dollar
+dollar,1872,province de québec,canadian dollar
+dollar,1873,province de québec,canadian dollar
+pound sterling,1849,province du canada,sterling pound
+pound sterling,1850,province du canada,sterling pound
+pound sterling,1851,province du canada,sterling pound
+pound sterling,1852,province du canada,sterling pound
+pound sterling,1853,province du canada,sterling pound
+pound sterling,1854,province du canada,sterling pound
+pound sterling,1856,province du canada,sterling pound
+pound sterling,1857,province du canada,sterling pound
+dollar,1858,province du canada,canadian dollar
+dollar,1862,province du canada,canadian dollar
+dollar,1863,province du canada,canadian dollar
+dollar,1866,province du canada,canadian dollar
+dollar,1867,province du canada,canadian dollar
+dollar,1871,province du nouveau-brunswick,canadian dollar
+dollar,1872,province du nouveau-brunswick,canadian dollar
+dollar,1873,province du nouveau-brunswick,canadian dollar
+pound sterling,1851,province of canada,sterling pound
+pound sterling,1855,province of canada,sterling pound
+dollar,1873,province of quebec,canadian dollar
+lire,1878,regno d'italia,italian lira
+lire,1879,regno d'italia,italian lira
+lire,1880,regno d'italia,italian lira
+lire,1881,regno d'italia,italian lira
+lire,1882,regno d'italia,italian lira
+lire,1883,regno d'italia,italian lira
+lire,1884,regno d'italia,italian lira
+lire,1885,regno d'italia,italian lira
+lire,1886,regno d'italia,italian lira
+lire,1887,regno d'italia,italian lira
+lire,1888,regno d'italia,italian lira
+lire,1889,regno d'italia,italian lira
+lire,1890,regno d'italia,italian lira
+lire,1891,regno d'italia,italian lira
+lire,1892,regno d'italia,italian lira
+lire,1893,regno d'italia,italian lira
+lire,1894,regno d'italia,italian lira
+lire,1895,regno d'italia,italian lira
+lire,1896,regno d'italia,italian lira
+lire,1897,regno d'italia,italian lira
+lire,1898,regno d'italia,italian lira
+lire,1899,regno d'italia,italian lira
+lire,1900,regno d'italia,italian lira
+lire,1901,regno d'italia,italian lira
+lire,1902,regno d'italia,italian lira
+lire,1903,regno d'italia,italian lira
+lire,1904,regno d'italia,italian lira
+lire,1905,regno d'italia,italian lira
+lire,1906,regno d'italia,italian lira
+lire,1907,regno d'italia,italian lira
+lire,1908,regno d'italia,italian lira
+lire,1909,regno d'italia,italian lira
+lire,1910,regno d'italia,italian lira
+lire,1911,regno d'italia,italian lira
+lire,1912,regno d'italia,italian lira
+lire,1913,regno d'italia,italian lira
+lire,1914,regno d'italia,italian lira
+lire,1915,regno d'italia,italian lira
+lire,1916,regno d'italia,italian lira
+lire,1917,regno d'italia,italian lira
+lire,1918,regno d'italia,italian lira
+lire,1919,regno d'italia,italian lira
+lire,1921,regno d'italia,italian lira
+lire,1922,regno d'italia,italian lira
+lire,1923,regno d'italia,italian lira
+lire,1924,regno d'italia,italian lira
+lire,1925,regno d'italia,italian lira
+lire,1926,regno d'italia,italian lira
+lire,1927,regno d'italia,italian lira
+lire,1928,regno d'italia,italian lira
+lire,1929,regno d'italia,italian lira
+lire,1930,regno d'italia,italian lira
+lire,1931,regno d'italia,italian lira
+lire,1932,regno d'italia,italian lira
+lire,1933,regno d'italia,italian lira
+lire,1934,regno d'italia,italian lira
+lire,1935,regno d'italia,italian lira
+lire,1936,regno d'italia,italian lira
+lire,1937,regno d'italia,italian lira
+lire,1938,regno d'italia,italian lira
+franc,1898,tunisie,french franc
+franc,1899,tunisie,french franc
+franc,1900,tunisie,french franc
+franc,1907,tunisie,french franc
+franc,1909,tunisie,french franc
+franc,1910,tunisie,french franc
+franc,1911,tunisie,french franc
+franc,1912,tunisie,french franc
+franc,1913,tunisie,french franc
+franc,1914,tunisie,french franc
+franc,1915,tunisie,french franc
+franc,1916,tunisie,french franc
+franc,1917,tunisie,french franc
+franc,1918,tunisie,french franc
+franc,1919,tunisie,french franc
+franc,1920,tunisie,french franc
+franc,1921,tunisie,french franc
+franc,1922,tunisie,french franc
+franc,1923,tunisie,french franc
+franc,1924,tunisie,french franc
+franc,1925,tunisie,french franc
+franc,1926,tunisie,french franc
+franc,1927,tunisie,french franc
+franc,1928,tunisie,french franc
+franc,1929,tunisie,french franc
+franc,1930,tunisie,french franc
+franc,1931,tunisie,french franc
+franc,1932,tunisie,french franc
+franc,1933,tunisie,french franc
+franc,1934,tunisie,french franc
+franc,1935,tunisie,french franc
+franc,1936,tunisie,french franc
+franc,1937,tunisie,french franc
+franc,1938,tunisie,french franc
+francs,1922,union économique belgo-luxembourgeoise,belgian franc
+francs,1923,union économique belgo-luxembourgeoise,belgian franc
+francs,1924,union économique belgo-luxembourgeoise,belgian franc
+francs,1925,union économique belgo-luxembourgeoise,belgian franc
+francs,1926,union économique belgo-luxembourgeoise,belgian franc
+francs,1927,union économique belgo-luxembourgeoise,belgian franc
+francs,1928,union économique belgo-luxembourgeoise,belgian franc
+francs,1929,union économique belgo-luxembourgeoise,belgian franc
+francs,1930,union économique belgo-luxembourgeoise,belgian franc
+francs,1931,union économique belgo-luxembourgeoise,belgian franc
+£,1914,united kingdom,sterling pound
+£,1915,united kingdom,sterling pound
+£,1916,united kingdom,sterling pound
+£,1917,united kingdom,sterling pound
+£,1918,united kingdom,sterling pound
+£,1919,united kingdom,sterling pound
+£,1920,united kingdom,sterling pound
+£,1921,united kingdom,sterling pound
+£,1922,united kingdom,sterling pound
+£,1923,united kingdom,sterling pound
+£,1924,united kingdom,sterling pound
+£,1925,united kingdom,sterling pound
+£,1926,united kingdom,sterling pound
+£,1927,united kingdom,sterling pound
+£,1928,united kingdom,sterling pound
+£,1929,united kingdom,sterling pound
+£,1930,united kingdom,sterling pound
+£,1931,united kingdom,sterling pound
+£,1932,united kingdom,sterling pound
+£,1933,united kingdom,sterling pound
+£,1934,united kingdom,sterling pound
+£,1935,united kingdom,sterling pound
+£,1936,united kingdom,sterling pound
+£,1937,united kingdom,sterling pound
+£,1938,united kingdom,sterling pound
+dollars,1914,united states of america,us dollar
+dollars,1915,united states of america,us dollar
+dollars,1916,united states of america,us dollar
+dollars,1917,united states of america,us dollar
+dollars,1918,united states of america,us dollar
+dollars,1919,united states of america,us dollar
+dollars,1920,united states of america,us dollar
+dollars,1921,united states of america,us dollar
+dollars,1922,united states of america,us dollar
+dollars,1923,united states of america,us dollar
+dollars,1924,united states of america,us dollar
+dollars,1925,united states of america,us dollar
+dollars,1926,united states of america,us dollar
+dollars,1927,united states of america,us dollar
+dollars,1928,united states of america,us dollar
+dollars,1929,united states of america,us dollar
+dollars,1930,united states of america,us dollar
+dollars,1931,united states of america,us dollar
+dollars,1932,united states of america,us dollar
+dollars,1933,united states of america,us dollar
+dollars,1934,united states of america,us dollar
+dollars,1935,united states of america,us dollar
+dollars,1936,united states of america,us dollar
+dollars,1937,united states of america,us dollar
+dollars,1938,united states of america,us dollar
