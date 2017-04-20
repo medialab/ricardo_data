@@ -2564,11 +2564,11 @@ year,modified_currency,rate_to_pounds,source,notes
 1912,indian rupee,14.945,"Currency_Denzel (2010), 500-502.",Calcutta on London. Government rupees.
 1913,indian rupee,14.969,"Currency_Denzel (2010), 500-502.",Calcutta on London. Government rupees.
 1914,indian rupee,14.976,"Currency_Denzel (2010), 500-502.",Calcutta on London. Government rupees.
-1915,indian rupee,15,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
-1916,indian rupee,15,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
-1917,indian rupee,15,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
-1918,indian rupee,15,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
-1919,indian rupee,15,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1915,indian rupee,15.0,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1916,indian rupee,15.0,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1917,indian rupee,15.0,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1918,indian rupee,15.0,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1919,indian rupee,15.0,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
 1920,indian rupee,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
 1921,indian rupee,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
 1922,indian rupee,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
@@ -3566,10 +3566,10 @@ year,modified_currency,rate_to_pounds,source,notes
 1928,paraguayan gold peso,15.83883,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1929,paraguayan gold peso,15.468993358,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1930,paraguayan gold peso,17.6114843415,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
-1931,paraguayan gold peso,19.92277190575,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
+1931,paraguayan gold peso,19.9227719058,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1932,paraguayan gold peso,17.291860992,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1933,paraguayan gold peso,17.1045108745,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
-1934,paraguayan gold peso,23.93159448925,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
+1934,paraguayan gold peso,23.9315944892,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1935,paraguayan gold peso,24.4354153575,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1936,paraguayan gold peso,23.847582465,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
 1937,paraguayan gold peso,22.912357125,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 paper peso = 0.0175 gold peso.
