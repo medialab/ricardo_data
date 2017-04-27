@@ -303,7 +303,7 @@ Australasia : Fiji Islands,Iles Fidji,Fiji
 Australasia : New South Wales,Nouvelle-Galles du Sud,New South Wales
 Australasia : New Zealand,Nouvelle-Zélande,New Zealand
 Australasia : Queensland,Queensland,Queensland
-Australasia : South Australia (including Northern Territory),Australie du Sud,Northern Territory & South Australia 
+Australasia : South Australia (including Northern Territory),Australie du Sud,Northern Territory & South Australia
 Australasia : Tasmania,Tasmanie,Tasmania
 Australasia : Total,Australie,Australia
 Australasia : Victoira,Victoria,Victoria
@@ -917,7 +917,7 @@ China and Mongolia,Chine et Mongolie,China (People's Republic of China) & Mongol
 "China, leased territory: British",Concessions britanniques en Chine,British China Leased Territory
 "China, leased territory: French",Concessions françaises en Chine,French China Leased Territory
 "China, leased territory: German",Concessions allemandes en Chine,German China Leased Territory
-"China, leased territory: Japanese",Concessions japonaises en Chine,Japan China Leased Territory
+"China, leased territory: Japanese",Concessions japonaises en Chine,Japanese China Leased Territory
 "China, Treaty Ports",Chine (traités ports),Chinese Treaty Ports
 Chine,Chine,China (People's Republic of China)
 Chine (+ Mongolie),Chine et Mongolie,China (People's Republic of China) & Mongolia
@@ -2106,7 +2106,7 @@ Indian Isalands : St. David's,Iles de l'Océan indien (St David),St. David
 Indian Islands : Amboyna,Iles de l'Océan indien (Amboyna),Ambon Island
 Indian Islands : Bintang,Iles de l'Océan indien (Bintang),Bintang
 Indian Islands : Celebes,Célèbes,Sulawesi (Celebes)
-Indian Islands : Japanese Islands,Iles du Japon,Japan Islands
+Indian Islands : Japanese Islands,Iles du Japon,Japanese Islands
 Indian Islands : Lomboc,Lombok,Lombok
 Indian Islands : Ternate,Iles de l'Océan indien (Ternate),Ternate
 Indian Ocean,Océan indien,Indian Ocean Islands
@@ -2226,8 +2226,8 @@ Japan and Formosa,Japon et Formose,Japan & Republic of China (Taiwan) (Formosa)
 Japan and Karafuto (Japanese Possession),Japon et Sakhaline,Japan & Southern Sakhalin I.
 "Japan, China, French Indies, etc",Japon et Chine et Inde française,China (People's Republic of China) & French Indochina & Japan
 "Japan, China, French Indies, etc.",Japon et Chine et Inde française,China (People's Republic of China) & French Indochina & Japan
-Japanese China,Chine japonaise,Japan China
-Japanese Islands,Iles du Japon,Japan Islands
+Japanese China,Chine japonaise,Japanese China
+Japanese Islands,Iles du Japon,Japanese Islands
 Japon,Japon,Japan
 Japon (Kanagawa),Japon (Kanagawa),Kanagawa
 Japon (y compris Formose),Japon et Formose,Japan & Republic of China (Taiwan) (Formosa)
@@ -2347,8 +2347,8 @@ Macao (Portugal),Macao,Macao
 Macao and Timor,Macao et Timor,Macao & Portuguese Timor
 Madagascar,Madagascar,Malagasy Republic (Madagascar)
 Madagascar (France),Madagascar,Malagasy Republic (Madagascar)
-Madagascar and dependencies,Madagascar et dépendances,Malagasy Republic (Madagascar) & Madagascar Dependencies
-Madagascar et dépendances (y compris Mayotte),Madagascar et dépendances,Malagasy Republic (Madagascar) & Madagascar Dependencies
+Madagascar and dependencies,Madagascar et dépendances,Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies
+Madagascar et dépendances (y compris Mayotte),Madagascar et dépendances,Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies
 "Madagascar, Comores",Madagascar et Comores,Comoros & Malagasy Republic (Madagascar)
 "Madagascar, Native States",Madagascar,Malagasy Republic (Madagascar)
 Madagascar:Native Territory,Madagascar,Malagasy Republic (Madagascar)
@@ -3402,7 +3402,7 @@ San Mauricio,San Mauricio,Buenos Aires
 San Salvador,San Salvador,El Salvador
 "San Salvador, Guatemala, y Costa Rica",San Salvador et Guatemala et Costa Rica,Costa Rica & El Salvador & Guatemala
 San Thome and Principe,Sao Tomé-et-Principe,Sao Tome-Principe
-Sandwich Port,Sandwich Port,Sandwich Port
+Sandwich Harbour,Sandwich Harbour,Sandwich Harbour
 Sandwich Islands,Iles Sandwich,Hawaii
 San-Salvador,San Salvador,El Salvador
 Santa-Cruz de ténériffe,Santa Cruz de Ténérife,Tenerife
@@ -3537,7 +3537,7 @@ South Sea,Iles des Mers du Sud,South Sea Islands
 South Sea Islands,Iles des Mers du Sud,South Sea Islands
 South Seas,Iles des Mers du Sud,South Sea Islands
 South Seas and Pacific Ocean,Iles des Mers du Sud et Iles du Pacifique,South Sea Islands & Pacific Islands
-South West Africa,Afrique sud-occidentale,South West Africa
+South West Africa,Afrique sud-occidentale,South West Africa (German West Africa) (Namibia)
 Southern Africa,Sud de l'Afrique,Southern Africa
 Southern Nigeria,Nigéria du Sud,Southern Nigeria
 Southern Nigeria Protectorate,Nigéria du Sud,Southern Nigeria
@@ -3639,7 +3639,7 @@ Straits Settlements and Dependencies (including Labuan),Straits Settlements,Stra
 Sud de l'Europe,Europe méridionale,Southern Europe
 Sudan,Soudan,Sudan (Anglo-Egyptian)
 Sudan (Anglo-Egyptian),Sudan (Anglo-Egyptian),Sudan (Anglo-Egyptian)
-Sud-Ouest Afrique,Afrique sud-occidentale,South West Africa
+Sud-Ouest Afrique,Afrique sud-occidentale,South West Africa (German West Africa) (Namibia)
 Suecia,Suède,Sweden
 Suecia i Noruega,Suède et Norvège,Norway & Sweden
 Suecia y Norega,Suède et Norvège,Norway & Sweden
@@ -4156,7 +4156,7 @@ Province of Canada,Province du Canada,Canada
 Province of Quebec,Province de Québec,Quebec (Lower Canada)
 Regno d'Italia,Italie,Italy
 Union économique belgo-luxembourgeoise,Union économique belgo-luxembourgeoise,Belgium & Luxemburg
- togo et cameroun,togo et cameroun,Kamerun & Togo (French Togoland)
+togo et cameroun,togo et cameroun,Kamerun & Togo (French Togoland)
 A la Orden,A la Orden,***NA
 Abessinië,Abessinië,Ethiopia (Abyssinia)
 Aden e Stabilimenti dello Stretto,Aden e Stabilimenti dello Stretto,Aden & Straits Settlements
@@ -4273,7 +4273,7 @@ Argentine Republic and Atlantic Coast of Patagonia,Argentine Republic and Atlant
 Argentinië,Argentinië,Argentina
 Armenia,Armenia,Armenia
 Armenia and Kurdistan,Armenia and Kurdistan,Armenia & Kurdistan
-Ashmore Island,Ashmore Island,Ashmore & Cartier Is
+Ashmore Island,Ashmore Island,Ashmore and Cartier Is
 Asia - Possessoes Britannicas,Asia - Possessoes Britannicas,British Asia
 Asia - Possessoes Francezas,Asia - Possessoes Francezas,French Asia
 Asia - Possessoes Portuguezas,Asia - Possessoes Portuguezas,Portuguese Asia
@@ -4522,7 +4522,7 @@ Europeesch Turkije (met Kreta),Europeesch Turkije (met Kreta),European Turkey & 
 Falkland Islands and Dependencies,Falkland Islands and Dependencies,Falkland Is. & Falkland Is. Dependencies
 Fanning Island,Fanning Island,Fanning I.
 Far Eastern Republic,Far Eastern Republic,Far Eastern Republic
-Fed. Centraal-Amerika,Fed. Centraal-Amerika,Central American Republic
+Fed. Centraal-Amerika,Fed. Centraal-Amerika,Federal Republic of Central America
 Federazione australiana,Federazione australiana,Australia
 Fench Guiana,Fench Guiana,French Guyana
 Fernando Poo,Fernando Poo,Fernando Po (Bioko)
@@ -4682,7 +4682,7 @@ Italië en Fiume,Italië en Fiume,Fiume & Italy
 Italy and Fiume,Italy and Fiume,Fiume & Italy
 Italy and Italian Aegean Islands,Italy and Italian Aegean Islands,Dodecanese Is. (Aegean Is.) & Italy
 Jamaica and Dependencies,Jamaica and Dependencies,Jamaica & Jamaica Dependencies
-Jamaica and Dependencies and Trinidad and Tobago and Other British West Indian Islands,Jamaica and Dependencies and Trinidad and Tobago and Other British West Indian Islands,British Antilles (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago 
+Jamaica and Dependencies and Trinidad and Tobago and Other British West Indian Islands,Jamaica and Dependencies and Trinidad and Tobago and Other British West Indian Islands,British Antilles (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago
 Japan (including Formosa and Japanese leased territories in China),Japan (including Formosa and Japanese leased territories in China),Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa)
 Japan (including Formosa) and Kwantung,Japan (including Formosa) and Kwantung,Japan & Republic of China (Taiwan) (Formosa) & Kwangtung Territory (Leased)
 Japan met Korea,Japan met Korea,Japan & Korea (Chosen)
@@ -4703,9 +4703,9 @@ Keizerrijk Indië,Keizerrijk Indië,India
 Kenya Colony,Kenya Colony,Kenya (British East Africa Protectorate)
 Kerguelen Island,Kerguelen Island,Kerguelen Is.
 Kwangchowwan Leased territory,Kwangchowwan Leased territory,Kwanchowan
-Kwantung Leased Territory,Kwantung Leased Territory,Kwantung Leased Territory (Leased)
-Kwantung Peninsula,Kwantung Peninsula,Kwantung Leased Territory (Leased)
-"Kwantung, leased territory",Kwantung Leased Territory,Kwantung Leased Territory (Leased)
+Kwantung Leased Territory,Kwantung Leased Territory,Kwangtung Territory (Leased)
+Kwantung Peninsula,Kwantung Peninsula,Kwangtung Territory (Leased)
+"Kwantung, leased territory",Kwantung Leased Territory,Kwangtung Territory (Leased)
 "La Baleine, au Groënland, au Bresil et Madagascar","La Baleine, au Groënland, au Bresil et Madagascar",***NA
 La Chine,La Chine,China (People's Republic of China)
 La Morue Ã  Terre-Neuve,La Morue Ã  Terre-Neuve,***NA
@@ -4788,7 +4788,7 @@ Milanès et Toscane,Milanès et Toscane,Milan & Tuscany
 Miquelon and St. Pierre Islands,Miquelon and St. Pierre Islands,St. Pierre and Miquelon
 "Miquelon, Langley, etc","Miquelon, Langley, etc",St. Pierre and Miquelon
 Molucca Islands,Molucca Islands,Maluku Islands (Mollucas)
-Mombaça,Mombaça,Mombaça
+Mombaça,Mombassa,Mombassa
 Monténegro,Monténegro,Montenegro
 Morocco and Algeria,Morocco and Algeria,Algeria & Morocco
 Moçambique,Moçambique,Mozambique
@@ -4871,7 +4871,7 @@ Other Portuguese Africa,Other Portuguese Africa,Portuguese Africa (other)
 Other South Africa,South Africa (other),South Africa (other)
 Other Spanish Africa,Other Spanish Africa,Spanish Africa (other)
 Other Spanish possessions,Other Spanish possessions,Spanish Colonies (other)
-Other Spanish possessions ,Other Spanish possessions,Spanish Colonies (other)
+Other Spanish possessions,Other Spanish possessions,Spanish Colonies (other)
 Other West India Islands,Other West India Islands,Antilles (other)
 Other West Indies Islands,Other West India Islands,Antilles (other)
 Other countries in North Africa,Other countries in North Africa,Northern Africa (other)
@@ -5123,7 +5123,7 @@ Straits Settlements and FMS,Straits Settlements and FMS,Federated Malay States &
 Straits Settlements and Labuan,Straits Settlements and Labuan,Labuan I. & Straits Settlements
 Sud-Africa,South Africa,South Africa
 Sudao Anglo-Egypcio,Sudao Anglo-Egypcio,Sudan (Anglo-Egyptian)
-Sudoeste Africano Inglez,Sudoeste Africano Inglez,British Sud-West Afrika
+Sudoeste Africano Inglez,Sudoeste Africano Inglez,South West Africa (German West Africa) (Namibia)
 Sudán,Sudán,Sudan (Anglo-Egyptian)
 Sudán Anglo-egipcio,Sudán Anglo-egipcio,Sudan (Anglo-Egyptian)
 Sudán francés,Sudán francés,Mali (French Sudan) (Upper Senegal and Niger)
@@ -5259,3 +5259,23 @@ union économique belgo-luxembourgeoise,Belgium & Luxemburg,Belgium & Luxemburg
 uruguay et paraguay,uruguay et paraguay,Paraguay & Uruguay
 établissements français en océanie,établissements français en océanie,French Oceania
 états barbaresques,états barbaresques,Barbary Coast
+Belgie,Belgique,Belgium
+Brazilie,Brésil,Brazil
+De Harbourg et Lunebourg,De Harbourg et Lunebourg,World (via Harburg & Lüneburg)
+"Demás países y ""a órdenes""",Autres pays,Other countries
+Egijpte,Egypte,Egypt/United Arab Republic
+Engelsch America,Amérique anglaise,British America
+Engelsche Oost Indische Bezittingen,Indes britanniques orientales,British East Indies
+Groot Brittanje,Grande-Bretagne,United Kingdom
+"Harbourg, Lunebourg",De Harbourg et Lunebourg,World (via Harburg & Lüneburg)
+Jonische Eilanden,Iles ioniennes,Ionian Is.
+Kanarische Eilanden,Iles Canaries,Canary Is.
+Kerkelijke Staat,Etats Romains,Papal States
+Kust van Guinea,Côte de Guinée,Guinea Coast
+Maltha,Malte,Malta
+Philippijnsche Eilanden,Philippines,Philippines
+Sandwich Harbour,Sandwich Harbour,Sandwich Harbour
+Strandgoederen,,***NA
+Vereenigde Staten van Noord Amerika,Etats-Unis,United States of America
+Westkust van Afrika,Afrique occidentale,West Africa
+Zuidzee,Iles du Pacifique,Pacific Islands
