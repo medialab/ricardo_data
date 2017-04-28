@@ -97,7 +97,8 @@ Exp,Gen,Exp,Gen
 Re-exp,Gen-Spe,Re-exp,Gen-Spe
 Re-exp,Gen,Re-exp,Gen
 Imp,gen,Exp,Gen
-Imp,,Imp,
+Imp,N/A,Imp,
 Exp,spe,Exp,Spe
-Exp,,Exp,
+Exp,N/A,Exp,
 Exp,gen,Exp,Gen
+exp,uitvoer uit het vrije verkeer,Exp,Spe
