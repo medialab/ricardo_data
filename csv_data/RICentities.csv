@@ -1447,9 +1447,8 @@ Rosetta,city/part_of,Europe,,Rosetta
 Ross Sea,geographical_area,Antarctic,,
 Rotterdam,country,Europe,360,Rotterdam
 Rupert's Land,country,America,1019,Rupert'sLand
-"Russia (Baltic Sea, North Sea)",city/part_of,Europe,,"RussiaBalticSea,NorthSea"
-"Russia (Baltic Sea, White Sea)",city/part_of,Europe,,"RussiaBalticSea,WhiteSea"
 Russia (Baltic Sea),city/part_of,Europe,,RussiaBalticSea
+Russia (Baltic Sea) & Russia (North Sea),city/part_of,Europe,,
 Russia (Baltic Sea) & Russia (White Sea),group,Europe,,
 Russia (Black Sea),city/part_of,Europe,,RussiaBlackSea
 Russia (European harbours),city/part_of,Europe,,RussiaEuropeanharbours
