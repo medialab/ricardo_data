@@ -341,7 +341,6 @@ British China,colonial_area,Asia,,BritishChina
 British China Leased Territory,colonial_area,Asia,,
 British Colonies,colonial_area,World,,BritishColonies
 British Colonies (other),colonial_area,World,,BritishColoniesother
-British Colonies & United Kingdom,group,World,,BritishColonies_UnitedKingdom
 British Columbia,country,America,1027,BritishColumbia
 British Columbia & British East North America,group,America,,BritishColumbia_BritishEastNorthAmerica
 British Columbia & Rupert's Land,group,America,,BritishColumbia_Rupert'sLand
@@ -428,7 +427,6 @@ Canada & Other countries & Southern America,group,World,,Canada_Othercountries_S
 Canada & Southern America & United States of America,group,America,,Canada_SouthernAmerica_UnitedStatesofAmerica
 Canada & United States of America,group,America,,Canada_UnitedStatesofAmerica
 Canada Atlantic coast,city/part_of,America,,CanadaAtlanticcoast
-Canada Pacific coast,city/part_of,America,,CanadaPacificcoast
 Canary Is.,country,Africa,410,CanaryIs.
 Canary Is. & Azores (Western Isles),group,World,,CanaryIs._AzoresWesternIsles
 Canary Is. & Cape Colony,group,Africa,,CanaryIs._CapeColony
@@ -508,7 +506,6 @@ China (People's Republic of China) & Mongolia,group,Asia,,ChinaPeople'sRepublico
 China (People's Republic of China) & Philippines,group,Asia,,ChinaPeople'sRepublicofChina_Philippines
 China (People's Republic of China) & Philippines & Thailand (Siam),group,Asia,,ChinaPeople'sRepublicofChina_Philippines_ThailandSiam
 Chinese Ports (other),city/part_of,Asia,,
-Chinese treaty ports,city/part_of,Asia,,Chinesetreatyports
 Chinese Treaty Ports,city/part_of,Asia,,
 Chinese Treaty Ports & Hong Kong,group,Asia,,
 Chios,city/part_of,Europe,,
@@ -735,7 +732,6 @@ Fiume & Trieste,group,Europe,,Fiume_Trieste
 Fort St. George,city/part_of,Asia,,FortSt.George
 France,country,Europe,220,France
 France (Atlantic Coast),city/part_of,Europe,,
-France (foreign produce),country,Europe,220,Franceforeignproduce
 France (Foreign produce),country,Europe,,
 France (French produce),country,Europe,220,FranceFrenchproduce
 France (French produce) & French colonies (French produce),group,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce
@@ -746,9 +742,7 @@ France & French Dependencies,group,World,,
 France & French Mediterranean,group,Europe,,France_FrenchMediterranean
 France & Netherlands,group,Europe,,France_Netherlands
 France & Tahiti,group,World,,France_Tahiti
-France Atlantic Coast,city/part_of,Europe,,FranceAtlanticCoast
 France harbours,city/part_of,Europe,,Franceharbours
-France Mediterranean Coast,city/part_of,Europe,,FranceMediterraneanCoast
 Frankfurt,country,Europe,247,Frankfurt
 Franz Josef Land,city/part_of,Europe,,
 Free ports,,,,Freeports
@@ -769,13 +763,11 @@ French Central America,colonial_area,America,,
 French China,colonial_area,Asia,,FrenchChina
 French China Leased Territory,colonial_area,Asia,,
 French Colonies,colonial_area,World,,FrenchColonies
-French Colonies (foreign produce),colonial_area,World,,FrenchColoniesforeignproduce
 French Colonies (Foreign produce),colonial_area,World,,
 French Colonies (French produce),colonial_area,World,,FrenchColoniesFrenchproduce
 French Colonies (other),colonial_area,World,,FrenchColoniesother
 French Colonies & Dutch Colonies,group,World,,
 French East Africa,colonial_area,Africa,,
-French entrepôts,city/part_of,Europe,,Frenchentrepôts
 French Entrepôts,city/part_of,Europe,,
 French Equatorial Africa,country,Africa,480,FrenchEquatorialAfrica
 French Equatorial Africa & French West Africa,group,Africa,,
@@ -927,9 +919,7 @@ Imperia (Porto Maurizio),city/part_of,Europe,,ImperiaPortoMaurizio
 Independant Indian Ocean Islands,geographical_area,Oceania,,IndependantIndianOceanIslands
 Independant Indian Ocean Islands (other),geographical_area,Oceania,,IndependantIndianOceanIslandsother
 India,country,Asia,750,India
-India (domestic produce),country,Asia,750,Indiadomesticproduce
 India (Domestic produce),country,Asia,,
-India (foreign produce),country,Asia,750,Indiaforeignproduce
 India (Foreign produce),country,Asia,,
 India (other),city/part_of,Asia,,Indiaother
 India & British Asia (other),group,Asia,,
@@ -1112,7 +1102,7 @@ Macao,country,Asia,721,Macao
 Macao & Portuguese Timor,group,Asia,,Macao_PortugueseTimor
 Macedonia,city/part_of,Asia,,Macedonia
 Macquarie I.,country,Oceania,9006,
-Madagascar dependencies,colonial_area,Africa,,Madagascardependencies
+Malagasy Republic (Madagascar) Dependencies,colonial_area,Africa,,
 Madeira Isles,country,Africa,401,MadeiraIsles
 Madeira Isles & Portugal,group,World,,MadeiraIsles_Portugal
 Madeira Isles & Tenerife,group,Africa,,MadeiraIsles_Tenerife
@@ -1127,7 +1117,6 @@ Malacca & Penang,group,Asia,,Malacca_Penang
 Malacca & Penang & Singapore,group,Asia,,Malacca_Penang_Singapore
 Málaga,city/part_of,Europe,,Málaga
 Malagasy Republic (Madagascar),country,Africa,580,MalagasyRepublicMadagascar
-Malagasy Republic (Madagascar) & Madagascar dependencies,group,Africa,,MalagasyRepublicMadagascar_Madagascardependencies
 Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies,group,World,,
 Malagasy Republic (Madagascar) & Mayotte & Nossi Be,group,Africa,,
 Malagasy Republic (Madagascar) & St. Marie de Madagascar & Mayotte & Nossi Be,group,Africa,,MalagasyRepublicMadagascar_St.MariedeMadagascar_Mayotte_NossiBe
@@ -1340,9 +1329,7 @@ Panama,country,America,95,Panama
 Panama (Atlantic Coast),city/part_of,America,,
 Panama (Pacific Coast),city/part_of,America,,
 Panama & Panama Canal Zone,group,America,,
-Panama Atlantic Coast,city/part_of,America,,PanamaAtlanticCoast
 Panama Canal Zone,country,America,96,PanamaCanalZone
-Panama Pacific Coast,city/part_of,America,,PanamaPacificCoast
 Papal States,country,Europe,327,PapalStates
 Papal States & Republic of St. Mark,group,Europe,,
 Papal States & Tuscany,group,Europe,,PapalStates_Tuscany
@@ -1550,9 +1537,7 @@ Solomon Islands,country,Oceania,940,SolomonIslands
 Somalia,country,Africa,520,Somalia
 Sonmiani,city/part_of,Asia,,Sonmiani
 South Africa,country,Africa,560,SouthAfrica
-South Africa (domestic produce),country,Africa,560,SouthAfricadomesticproduce
 South Africa (Domestic produce),country,Africa,,
-South Africa (foreign produce),country,Africa,560,SouthAfricaforeignproduce
 South Africa (Foreign produce),country,Africa,,
 South Africa (other),city/part_of,Africa,,
 South Africa & Botswana (Bechuanaland),group,Africa,,SouthAfrica_BotswanaBechuanaland
@@ -1581,7 +1566,6 @@ Southern Russia/USSR,city/part_of,Europe,,
 Southern Sakhalin I.,country,Asia,7351,SouthernSakhalinI.
 Spain,country,Europe,230,Spain
 Spain (Atlantic Coast),city/part_of,Europe,,
-Spain (foreign flag),country,Europe,231,Spainforeignflag
 Spain (Foreign flag),city/part_of,Europe,,
 Spain (Mediterranean Coast),city/part_of,Europe,,
 Spain (Spanish flag),country,Europe,230,SpainSpanishflag
@@ -1589,9 +1573,7 @@ Spain & Italy & Europe (other),group,Europe,,Spain_Italy_Europeother
 Spain & Spanish Antilles,group,World,,Spain_SpanishAntilles
 Spain & Spanish Colonies,group,World,,Spain_SpanishColonies
 Spain & Spanish Dependencies,group,World,,
-Spain Atlantic Coast,city/part_of,Europe,,SpainAtlanticCoast
 Spain harbours,city/part_of,Europe,,Spainharbours
-Spain Mediterranean Coast,city/part_of,Europe,,SpainMediterraneanCoast
 Spain Ports,city/part_of,Europe,,
 Spanish Africa,colonial_area,Africa,,SpanishAfrica
 Spanish Africa (other),colonial_area,Africa,,
@@ -1662,7 +1644,6 @@ Switzerland (by France),city/part_of,Europe,,SwitzerlandbyFrance
 Sydney,city/part_of,Oceania,,Sydney
 Syria,country,Asia,652,Syria
 Syria (other),city/part_of,Asia,,Syriaother
-Syria & Egypt/United Arab Republic,group,World,,Syria_EgyptUnitedArabRepublic
 Syria & Lebanon,group,Asia,,Syria_Lebanon
 Syros,city/part_of,Europe,,Syros
 Szczecin,city/part_of,Europe,,Szczecin
@@ -1710,9 +1691,7 @@ Turkey & Dodecanese Is. (Aegean Is.),group,World,,Turkey_DodecaneseIs.AegeanIs.
 Turkey & Dodecanese Is. (Aegean Is.) & Romania,group,World,,Turkey_DodecaneseIs.AegeanIs._Romania
 Turkey & Egypt/United Arab Republic,group,World,,Turkey_EgyptUnitedArabRepublic
 Turkey & Egypt/United Arab Republic & Greece,group,World,,Turkey_EgyptUnitedArabRepublic_Greece
-Turkey & Greece,group,World,,Turkey_Greece
-Turkey & Greece & Romania,group,World,,Turkey_Greece_Romania
-Turkey & Levant,group,Asia,,Turkey_Levant
+Greece & Turkey & Romania,group,World,,
 Turkey & Middle-East,group,World,,Turkey_Middle-East
 Turkey & Syria,group,World,,Turkey_Syria
 Turkey & Western Anatolia,group,World,,Turkey_WesternAnatolia
@@ -1736,14 +1715,10 @@ United Kingdom & British Mediterranean,group,Europe,,UnitedKingdom_BritishMedite
 United Kingdom & India,group,World,,
 United States of America,country,America,2,UnitedStatesofAmerica
 United States of America (Atlantic Coast),city/part_of,America,,
-United States of America (domestic produce),country,America,2,UnitedStatesofAmericadomesticproduce
 United States of America (Domestic produce),country,America,,
-United States of America (foreign produce),country,America,2,UnitedStatesofAmericaforeignproduce
 United States of America (Foreign produce),country,America,,
 United States of America (other),city/part_of,America,,UnitedStatesofAmericaother
 United States of America (Pacific Coast),city/part_of,America,,
-United States of America Atlantic Coast,city/part_of,America,,UnitedStatesofAmericaAtlanticCoast
-United States of America Pacific Coast,city/part_of,America,,UnitedStatesofAmericaPacificCoast
 Unknown,,World,,Unknown
 Uruguay,country,America,165,Uruguay
 Uzbekistan,country,Asia,704,Uzbekistan

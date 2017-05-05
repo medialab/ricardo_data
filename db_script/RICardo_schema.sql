@@ -16,7 +16,7 @@ CREATE TABLE `sources`
 
 CREATE TABLE `source_types`
 (
-	`acronym`		TEXT,
+	`acronym`		TEXT PRIMARY KEY,
 	`reference`		TEXT,
 	`type`			TEXT,
 	`author`		TEXT,

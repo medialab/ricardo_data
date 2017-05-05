@@ -172,9 +172,9 @@ Angleterre (Londres),Londres,London
 Angleterre (Londres)**,Londres,London
 Angleterre (non compris ses compositions dans la Méditerranée),Angleterre (sauf Méditerranée),United Kingdom
 Angleterre et  Gibraltar et Iles ioniennes et Malte,Royaume-Uni et Gibraltar et Malte et Iles Ioniennes,Gibraltar & Ionian Is. & Malta & United Kingdom
-Angleterre et colonies,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
-Angleterre et colonies anglaises,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
-Angleterre et dépendances,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+Angleterre et colonies,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
+Angleterre et colonies anglaises,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
+Angleterre et dépendances,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 Angleterre et dépendances d'Europe,Angleterre et Europe britannique,United Kingdom & British Europe
 Angleterre et Gibraltar,Royaume-Uni et Gibraltar,Gibraltar & United Kingdom
 Angleterre et Gibraltar et Malte et Iles ioniennes,Royaume-Uni et Gibraltar et Malte et Iles Ioniennes,Gibraltar & Ionian Is. & Malta & United Kingdom
@@ -182,12 +182,12 @@ Angleterre et Iles ioniennes,Angleterre et Iles ioniennes,Ionian Is. & United Ki
 Angleterre et Irlande,Angleterre et Irlande,Ireland & United Kingdom
 Angleterre et Malte,Angleterre et Malte,Malta & United Kingdom
 Angleterre et Malte et Iles ioniennes,Angleterre et Malte et Iles ioniennes,Ionian Is. & Malta & United Kingdom
-Angleterre et possessions,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
-Angleterre et possessions anglaises,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+Angleterre et possessions,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
+Angleterre et possessions anglaises,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 Angleterre et possessions anglaises dans la Méditerranée,Angleterre et Méditerranée britannique,United Kingdom & British Mediterranean
 Angleterre et possessions d'Europe,Angleterre et Europe britannique,United Kingdom & British Europe
-Angleterre et ses dépendances,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
-Angleterre et ses possessions,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+Angleterre et ses dépendances,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
+Angleterre et ses possessions,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 "Angleterre, Gibraltar",Angleterre et Gibraltar,Gibraltar & United Kingdom
 "Angleterre, Gibraltar, Iles Ioniennes, Malte",Royaume-Uni et Gibraltar et Malte et Iles Ioniennes,Gibraltar & Ionian Is. & Malta & United Kingdom
 "Angleterre, Gibraltar, Malte et iles Ioniennes",Royaume-Uni et Gibraltar et Malte et Iles Ioniennes,Gibraltar & Ionian Is. & Malta & United Kingdom
@@ -1282,7 +1282,7 @@ Dutch West Indies (Curaçoa),Antilles néerlandaises (Curaçao),Curacao
 Dutch West Indies : Curacoa (Holland),Antilles néerlandaises (Curaçao),Curacao
 Dutch West Indies and Dutch Guiana,Antilles néerlandaises et Nouvelle-Guinée hollandaise,Netherlands Antilles & West Irian (Dutch New Guinea)
 Dutch West Indies and Dutsch Guiana,Antilles néerlandaises et Nouvelle-Guinée hollandaise,Netherlands Antilles & West Irian (Dutch New Guinea)
-Dutch West Indies and Guiana,Antilles néerlandaises et Nouvelle-Guinée hollandaise,Netherlands Antilles & West Irian (Dutch New Guinea)
+DSI - U13 - SSOL - Medialab,Antilles néerlandaises et Nouvelle-Guinée hollandaise,Netherlands Antilles & West Irian (Dutch New Guinea)
 Dutch West Indies: Curacoa (Holland),Antilles néerlandaises (Curaçao),Curacao
 East Africa,Afrique orientale,East Africa
 East Africa  Other Territories under British influence,Afrique orientale britannique,British East Africa
@@ -1359,7 +1359,7 @@ Egypte et Syrie,Egypte et Syrie,Egypt/United Arab Republic & Syria
 Egypte et Syrie (Alexandrie),Egypte et Syrie (Alexandrie),Alexandria & Egypt/United Arab Republic
 Egypte et Syrie (Beyrout),Egypte et Syrie (Beyrout),Beirut & Egypt/United Arab Republic
 Egypte et Syrie (Candie),Egypte et Syrie (Candie),Crete & Egypt/United Arab Republic
-Egypte et Syrie (Egypte),Egypte et Syrie (Egypte),Syria & Egypt/United Arab Republic
+Egypte et Syrie (Egypte),Egypte et Syrie (Egypte),Egypt/United Arab Republic & Syria
 Egypte et Syrie (Syrie),Egypte et Syrie,Egypt/United Arab Republic & Syria
 Egypte et Syrie et Caramanie (Beyrout),Egypte et Syrie et Caramanie (Beyrout),Egypt/United Arab Republic & Syria & Beirut
 Egypte**,Egypte,Egypt/United Arab Republic
@@ -1736,11 +1736,11 @@ Grande Bretagne et ses dépendances en Europe,Grande-Bretagne et Europe britanni
 "Grande Bretagne, Gibraltar et Terre Neuve",Grande-Bretagne et Gibraltar et Terre-Neuve,Gibraltar & Newfoundland & United Kingdom
 Grande Bretagne-Malte,Grande-Bretagne et Malte,Malta & United Kingdom
 Grande-Bretagne,Grande-Bretagne,United Kingdom
-Grande-Bretagne et colonies,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+Grande-Bretagne et colonies,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 Grande-Bretagne et Ilrelande,Grande-Bretagne et Irlande,Ireland & United Kingdom
 Grande-Bretagne et Irlande,Grande-Bretagne et Irlande,Ireland & United Kingdom
-Grande-Bretagne et possessions,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
-Grande-Bretagne et ses possessions,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+Grande-Bretagne et possessions,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
+Grande-Bretagne et ses possessions,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 Grande-Bretagne**,Grande-Bretagne,United Kingdom
 "Grande-Bretagne, Gibraltar et Terre-Neuve",Grande-Bretagne et Gibraltar et Terre-Neuve,Gibraltar & Newfoundland & United Kingdom
 GRE,Grèce,Greece
@@ -2122,7 +2122,7 @@ Indonesia,Indes néerlandaises,Indonesia (Dutch East Indies)
 Indonesia (Dutch East Indies),Indonésie,Indonesia (Dutch East Indies)
 Indonésie,Indonésie,Indonesia (Dutch East Indies)
 Inglaterra,Angleterre,United Kingdom
-Inglaterra y sus colonias,Angleterre et Colonies anglaises,British Colonies & United Kingdom
+Inglaterra y sus colonias,Angleterre et Colonies anglaises,United Kingdom & British Colonies
 Inidia inglesa,Indes britanniques,India
 Inter-Presidency Trade,Antilles britanniques (Inter-Presidency Trade),British West Indies
 Ionial Islands,Iles ioniennes,Ionian Is.
@@ -3286,7 +3286,7 @@ Royaume Uni*,Royaume-Uni,United Kingdom
 Royaume-Uni,Royaume-Uni,United Kingdom
 Royaume-Uni (+Irlande),Royaume-Uni et Irlande,Ireland & United Kingdom
 Royaume-Uni (y compris Irlande),Royaume-Uni et Irlande,Ireland & United Kingdom
-Royaume-Uni et colonies,Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+Royaume-Uni et colonies,Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 Royaume-Uni et Irlande,Royaume-Uni et Irlande,Ireland & United Kingdom
 RUM,Roumanie,Romania
 Rumania,Roumanie,Romania
@@ -3865,7 +3865,7 @@ Turkey in Europe including Bulgaria and Candia,Turquie d'Europe et Bulgarie et C
 "Turkey, European",Turquie d'Europe,European Turkey
 "Turkey, Greece, Egypt",Turquie et Grèce et Egypte,Turkey & Egypt/United Arab Republic & Greece
 "Turkey, Levant, etc.",Turquie et Moyen-Orient,Turkey & Middle-East
-"Turkey, roumania and greece",Turquie et Roumanie et Grèce,Turkey & Greece & Romania
+"Turkey, roumania and greece",Turquie et Roumanie et Grèce,Greece & Turkey & Romania
 Turkey: Asiatic,Turquie d'Asie,Asian Turkey
 Turkey: European,Turquie d'Europe,European Turkey
 "Turkish Dominions (exlcusive of Wallachia, Moldavia, Syria, Palestine, and Egypt)",Turquie (Autre que Valachie et Moldavie et Syrie et Palestine et Egypte),Turkey (other)
@@ -3922,8 +3922,8 @@ Turquie en Asie,Turquie d'Asie,Asian Turkey
 Turquie et Asie mineure,Turquie et Asie mineure,Turkey & Western Anatolia
 Turquie et Barbarie,Turquie et Etats Barbaresques,Turkey & Barbary Coast
 Turquie et Etats Barbaresques,Turquie et Etats Barbaresques,Turkey & Barbary Coast
-Turquie et Grèce,Turquie et Grèce,Turkey & Greece
-Turquie et Levant,Turquie et Levant,Turkey & Levant
+Turquie et Grèce,Turquie et Grèce,Greece & Turkey
+Turquie et Levant,Turquie et Levant,Levant & Turkey
 Turquie et son Archipel,Turquie et Iles de l'Archipel,Turkey & Dodecanese Is. (Aegean Is.)
 Turquie et son Archipel et Roumanie,Turquie et Iles de l'Archipel et Roumanie,Turkey & Dodecanese Is. (Aegean Is.) & Romania
 Turquie et Syrie,Turquie et Syrie,Turkey & Syria
@@ -3957,10 +3957,10 @@ Union Sud Africaine,Union Sud-Africaine,South Africa
 Union Sud-Africaine,Union Sud-Africaine,South Africa
 Union Sud-Africaine (+Sud Ouest Afrique),Union Sud-Africaine et Afrique sud-occidentale,South Africa & South West Africa
 United Kingdom,Royaume-Uni,United Kingdom
-United Kingdom (including British Possessions in the Mediterranean),Royaume-Uni et Méditerranée britannique,British Mediterranean & United Kingdom
+United Kingdom (including British Possessions in the Mediterranean),Royaume-Uni et Méditerranée britannique,United Kingdom & British Mediterranean
 United Kingdom (Total),Royaume-Uni et Irlande,Ireland & United Kingdom
 United Kingdom and Gibraltar,Royaume-Uni et Gibraltar,Gibraltar & United Kingdom
-"United Kingdom, British Possessions",Royaume-Uni et Colonies britanniques,British Colonies & United Kingdom
+"United Kingdom, British Possessions",Royaume-Uni et Colonies britanniques,United Kingdom & British Colonies
 "United Kingdom, British West Indies",Royaume-Uni et Antilles britanniques,British Antilles & United Kingdom
 United Kngdom and Ireland,Royaume-Uni et Irlande,Ireland & United Kingdom
 United Sates,Etats-Unis,United States of America

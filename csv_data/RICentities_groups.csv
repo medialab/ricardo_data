@@ -283,8 +283,6 @@ id,RICname_group,RICname_part
 286,Bulgaria & European Turkey,European Turkey
 287,Pemba Island & Zanzibar,Pemba Island
 288,Pemba Island & Zanzibar,Zanzibar
-289,British Colonies & United Kingdom,British Colonies
-290,British Colonies & United Kingdom,United Kingdom
 291,Holstein & Schleswig,Holstein
 292,Holstein & Schleswig,Schleswig
 293,Parma & Piacenza,Parma
@@ -875,8 +873,6 @@ id,RICname_group,RICname_part
 880,Greenland & Svalbard Is.,Svalbard Is.
 881,Mexico & Venezuela,Mexico
 882,Mexico & Venezuela,Venezuela
-883,British Mediterranean & United Kingdom,British Mediterranean
-884,British Mediterranean & United Kingdom,United Kingdom
 885,Asia (other) & East Indies,Asia (other)
 886,Asia (other) & East Indies,East Indies
 887,Australia & Cape Colony & Mauritius,Australia
@@ -954,8 +950,6 @@ id,RICname_group,RICname_part
 959,Denmark & Norway & Russia/USSR & Sweden,Norway
 960,Denmark & Norway & Russia/USSR & Sweden,Russia/USSR
 961,Denmark & Norway & Russia/USSR & Sweden,Sweden
-962,Syria & Egypt/United Arab Republic,Syria
-963,Syria & Egypt/United Arab Republic,Egypt/United Arab Republic
 964,German Oceania & German China,German Oceania
 965,German Oceania & German China,German China
 966,Piedmont & Tuscany,Piedmont
@@ -1062,8 +1056,6 @@ id,RICname_group,RICname_part
 1067,China (People's Republic of China) & Hong Kong & Singapore,Singapore
 1068,Cochin China & Kampuchea (Cambodia),Cochin China
 1069,Cochin China & Kampuchea (Cambodia),Kampuchea (Cambodia)
-1070,Turkey & Levant,Turkey
-1071,Turkey & Levant,Levant
 1072,Lucca & Papal States,Lucca
 1073,Lucca & Papal States,Papal States
 1074,Mozambique & Zanzibar,Mozambique
@@ -1117,8 +1109,8 @@ id,RICname_group,RICname_part
 1122,Ontario (Upper Canada) & Quebec (Lower Canada),Quebec (Lower Canada)
 1123,Republic of St. Mark & Trieste,Republic of St. Mark
 1124,Republic of St. Mark & Trieste,Trieste
-1125,Malagasy Republic (Madagascar) & Madagascar dependencies,Malagasy Republic (Madagascar)
-1126,Malagasy Republic (Madagascar) & Madagascar dependencies,Madagascar dependencies
+1125,Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies,Malagasy Republic (Madagascar)
+1126,Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies,Malagasy Republic (Madagascar) Dependencies
 1127,St. Marie de Madagascar & Mayotte & Nossi Be,St. Marie de Madagascar
 1128,St. Marie de Madagascar & Mayotte & Nossi Be,Mayotte
 1129,St. Marie de Madagascar & Mayotte & Nossi Be,Nossi Be
@@ -1233,8 +1225,8 @@ id,RICname_group,RICname_part
 1238,China (People's Republic of China) & Macao,Macao
 1239,Mariana Is. & Philippines,Mariana Is.
 1240,Mariana Is. & Philippines,Philippines
-1241,Turkey & Greece,Turkey
-1242,Turkey & Greece,Greece
+1241,Greece & Turkey,Turkey
+1242,Greece & Turkey,Greece
 1243,Guadeloupe & Martinique,Guadeloupe
 1244,Guadeloupe & Martinique,Martinique
 1245,Algeria & France & Morocco & Tunisia,Algeria
@@ -1253,9 +1245,9 @@ id,RICname_group,RICname_part
 1258,European Turkey & Montenegro & Romania & Yugoslavia/Serbia,Montenegro
 1259,European Turkey & Montenegro & Romania & Yugoslavia/Serbia,Romania
 1260,European Turkey & Montenegro & Romania & Yugoslavia/Serbia,Yugoslavia/Serbia
-1261,Turkey & Greece & Romania,Turkey
-1262,Turkey & Greece & Romania,Greece
-1263,Turkey & Greece & Romania,Romania
+1261,Greece & Turkey & Romania,Turkey
+1262,Greece & Turkey & Romania,Greece
+1263,Greece & Turkey & Romania,Romania
 1264,Saxe Weimar & Saxe Altenburg & Saxe Coburg & Saxe Meiningen,Saxe Weimar
 1265,Saxe Weimar & Saxe Altenburg & Saxe Coburg & Saxe Meiningen,Saxe Altenburg
 1266,Saxe Weimar & Saxe Altenburg & Saxe Coburg & Saxe Meiningen,Saxe Coburg
