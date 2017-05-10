@@ -19,6 +19,7 @@ def import_flows(filename,imp_exp,c,ft_entities,ft_rates):
 						continue
 					# remove 0 values
 					if reporting!="year" and flow!=0.0:
+						reporting = reporting.strip().lower()
 						if reporting in ft_entities:
 							data=["FEDERICO-TENA",flow,"1000000","us dollar",int(year),reporting,"World Federico-Tena",imp_exp,"gen","total_federicotena"]
 							c.execute("INSERT INTO flows (source, flow, unit, currency, year, reporting, partner, export_import, special_general, world_trade_type) VALUES (?,?,?,?,?,?,?,?,?,?)",data)
@@ -62,8 +63,8 @@ def import_federicotena(c):
 				# todo add continent
 				c.execute("INSERT OR IGNORE INTO RICentities (RICname,type,continent,COW_code,slug) VALUES (?,?,?,?,?)",(entity["ricname"],entity["rictype"],entity["continent"],entity["cow"],ricslug(entity["ricname"])))
 				# todo check for the group
-			c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",(entity["Polity Federico-Tena"],entity["ricname"]))
-			ft_entities.append(entity["Polity Federico-Tena"])
+			c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",(entity["Polity Federico-Tena"].strip().lower(),entity["ricname"]))
+			ft_entities.append(entity["Polity Federico-Tena"].strip().lower())
 	# add World Frederico Tena entity
 	c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",("World Federico-Tena","World Federico-Tena"))
 	c.execute("""INSERT OR IGNORE INTO RICentities (RICname,type,continent,slug) VALUES ("World Federico-Tena","geographical_area","World", "WorldFedericoTena")""")

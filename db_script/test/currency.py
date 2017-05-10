@@ -12,7 +12,7 @@ def test(cursor):
 	initial_currency_years=[]
 	for y, c, r in cursor:
 	 	#print str(int(y))+" "+c.encode("UTF8")
-	 	initial_currency_years.append((y,c.lower().strip() if c else "",r.lower().strip() if r else r))
+	 	initial_currency_years.append((y,c if c else "",r if r else ""))
 	print "total number of currencies in flows %s"%len(initial_currency_years)
 
 	cursor.execute("""SELECT c.year, c.currency, c.modified_currency, c.reporting
@@ -21,7 +21,7 @@ def test(cursor):
 						""")
 	modified_currency={}
 	for y, i_c, m_c, r in cursor:
-		modified_currency[(y,i_c.lower().strip(), r.lower().strip())]=(m_c.lower().strip())
+		modified_currency[(y,i_c, r)]=(m_c)
 
 	#LEFT JOIN rate r USING (year,modified_currency)
 	print "check number before/after set currency : %s/%s"%(len(initial_currency_years),len(set(initial_currency_years)))
@@ -48,7 +48,7 @@ def test(cursor):
 
 	rates={}
 	for y,m_c,r in cursor:
-		rates[(y,m_c.lower().strip())]=r
+		rates[(y,m_c)]=r
 
 	inflowincurrency_rate=[]
 	unknown_rates=[]

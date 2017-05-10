@@ -13,9 +13,9 @@ def test(cursor):
 							group_concat(`flow`,';'),
 							count(*),
 							group_concat(spegen,';'),
-							group_concat(reporting,';'),
+							group_concat(original_reporting,';'),
 							reporting,
-							group_concat(partner,';'),
+							group_concat(original_partner,';'),
 							partner,
 							year,
 							expimp,
@@ -36,11 +36,9 @@ def test(cursor):
 			if group and "Gen" in group and "Spe" in group:
 				nb_spe_gen+=n
 				reporting_spegen[r]=reporting_spegen.get(r,0)+n
-				spegen=False
 			else:
 				nb_dups+=n
 				reporting_dups[r]=reporting_dups.get(r,0)+n
-				spegen=True
 			# count sources
 			sources=set(s.split("|"))
 			log+=u'"%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s","%s"\n'%(ids,n,o_r,r,o_p,p,y,e_i,group,flows,len(sources),"|".join(sources))
