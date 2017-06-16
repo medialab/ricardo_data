@@ -1238,7 +1238,7 @@ Netherlands Antilles & West Irian (Dutch New Guinea),group,World,,NetherlandsAnt
 Netherlands harbours,city/part_of,Europe,,Netherlandsharbours
 Netherlands Ports,city/part_of,Europe,,
 Nevis,country,America,1076,Nevis
-New Britain,city/part_of,Oceania,,NewBritain
+New Britain (Neu Pommern),city/part_of,Oceania,,NewBritainNeuPommern
 New Brunswick,country,America,1023,NewBrunswick
 New Brunswick & Nova Scotia,group,America,,NewBrunswick_NovaScotia
 New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),group,America,,NewBrunswick_NovaScotia_OntarioUpperCanada_PrinceEdwardIs._QuebecLowerCanada
@@ -1768,7 +1768,7 @@ World (via Lubeck),geographical_area,World,,WorldviaLubeck
 Xiamen,city/part_of,Asia,,Xiamen
 Yemen,country,Asia,679,
 Yokohama,city/part_of,Asia,,Yokohama
-Yugoslavia/Serbia,country,Europe,345,YugoslaviaSerbia
+Yugoslavia,country,Europe,345,Yugoslavia
 Zaire (Kinshasa) (Belgian Congo),country,Africa,490,ZaireKinshasaBelgianCongo
 Zambia (Northern Rhodesia),country,Africa,551,ZambiaNorthernRhodesia
 Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,
@@ -1776,3 +1776,6 @@ Zanzibar,country,Africa,511,Zanzibar
 Zeila,city/part_of,Africa,,Zeila
 Zimbabwe (Rhodesia) (Southern Rhodesia),country,Africa,552,ZimbabweRhodesiaSouthernRhodesia
 Bremen & Hamburg & Lubeck & Netherlands,group,Europe,,
+German Solomon Is.,country,Oceania,9401,
+Mesopotamia,geographical_area,Asia,,
+Serbia,country,Europe,345S,Serbia
