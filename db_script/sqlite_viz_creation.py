@@ -186,7 +186,7 @@ print "-------------------------------------------------------------------------
 c.execute("""SELECT count(*) as nb,group_concat(notes,'|'),group_concat(ID,'|'),
 	group_concat(Source,'|') as notes_group
 	FROM `flow_joined`
-	WHERE `reporting`="france"
+	WHERE `reporting`="France"
 		and year >= 1847 AND year <= 1856
 		GROUP BY year,expimp,reporting,partner HAVING count(*)>1
 	""")
