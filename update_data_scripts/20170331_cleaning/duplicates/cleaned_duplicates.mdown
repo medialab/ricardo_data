@@ -39,3 +39,7 @@ source = 'Annual Report. Foreign Commerce and Navigation of the United States fo
 
 2539549 partner = 'possessions britanniques en Amer. Nord et Centre'
 2539558 partner = 'possessions britanniques en Amer. Sud'
+
+## USA ancienne source en doublon
+
+DELETE FROM flows where reporting = 'united states' and year = 1918 and export_import LIKE '%exp%' AND source = 'Statistical Abstract for the principal and other Foreign Countries in each year from 1907 to 1918'
