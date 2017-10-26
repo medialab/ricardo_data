@@ -517,18 +517,23 @@ year,modified_currency,rate_to_pounds,source,notes
 1937,belgian franc,146.490472894,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1938,belgian franc,144.579771948,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1939,belgian franc,131.536578112,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1907,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1908,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1909,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1910,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1911,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1912,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1913,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1914,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1915,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1916,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1917,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
-1918,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,
+1907,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1908,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1909,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1910,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1911,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1912,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1913,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1914,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1915,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1916,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1917,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1918,bolivian boliviano,12.5,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,Gold parity
+1919,bolivian boliviano,12.5,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Gold parity
+1920,bolivian boliviano,12.5,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",Gold parity
+1921,bolivian boliviano,21.2926,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
+1922,bolivian boliviano,18.7695,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
+1923,bolivian boliviano,15.2952,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1924,bolivian boliviano,14.8754208754,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1925,bolivian boliviano,14.2869822485,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1926,bolivian boliviano,14.2463343109,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
@@ -576,7 +581,7 @@ year,modified_currency,rate_to_pounds,source,notes
 1910,brazilian gold milreis,8.89,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,1 Milreis = 2s 3d
 1911,brazilian gold milreis,8.89,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,1 Milreis = 2s 3d
 1912,brazilian gold milreis,8.89,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,1 Milreis = 2s 3d
-1913,brazilian gold milreis,8.89,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,2 Milreis = 2s 3d
+1913,brazilian gold milreis,8.89,Currency_Calculated from Statistical Abstract for the principal and other Foreign Countries,1 Milreis = 2s 3d
 1815,brazilian milreis,3.23232323232,Currency_http://www.ipeadata.gov.br,
 1816,brazilian milreis,3.82470119522,Currency_http://www.ipeadata.gov.br,
 1817,brazilian milreis,3.72093023256,Currency_http://www.ipeadata.gov.br,
@@ -856,12 +861,12 @@ year,modified_currency,rate_to_pounds,source,notes
 1870,bremen gold thaler,6.1478019202,"Currency_Schneider et al. (1991), vol I, I, New York on Bremen, 60 Tage, p. 362-363 and US dollar constant exchange rate.",
 1871,bremen gold thaler,6.1641545282,"Currency_Schneider et al. (1991), vol I, I, New York on Bremen, 60 Tage, p. 362-363 and US dollar constant exchange rate.",
 1879,bulgarian lev,25.14113,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
-1880,bulgarian lev,25.377850895,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
-1881,bulgarian lev,25.6168006787,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
-1882,bulgarian lev,25.8580003376,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
-1883,bulgarian lev,26.101471056,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
-1884,bulgarian lev,26.3472342173,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
-1885,bulgarian lev,26.5953114065,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
+1880,bulgarian lev,25.3778508949514,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
+1881,bulgarian lev,25.6168006786643,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
+1882,bulgarian lev,25.8580003376473,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
+1883,bulgarian lev,26.1014710560113,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
+1884,bulgarian lev,26.3472342173301,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
+1885,bulgarian lev,26.5953114065186,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
 1886,bulgarian lev,26.8540038,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
 1887,bulgarian lev,26.3811288,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
 1888,bulgarian lev,25.5274318,"Currency_Dimitrova, Ivanov & Simenova-Ganeva_Bulgarian Lev_ICER working paper series_2009",
@@ -961,24 +966,24 @@ year,modified_currency,rate_to_pounds,source,notes
 1910,canadian dollar,4.8665133,"Currency_Denzel (2010), 444 and US Dollar.",Montreal on New York
 1911,canadian dollar,4.86511344,"Currency_Denzel (2010), 444 and US Dollar.",Montreal on New York
 1912,canadian dollar,4.870974,"Currency_Denzel (2010), 444 and US Dollar.",Montreal on New York
-1913,canadian dollar,4.87156103,"Currency_Denzel (2010), 444 and US Dollar.",Montreal on New York
-1914,canadian dollar,4.87264828,"Currency_Denzel (2010), 444 and US Dollar.",Montreal on New York
-1924,canadian dollar,4.47619047619,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1925,canadian dollar,4.829,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1926,canadian dollar,4.858,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1927,canadian dollar,4.861,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1928,canadian dollar,4.87087087087,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1929,canadian dollar,4.89106433031,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1930,canadian dollar,4.87143631263,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1931,canadian dollar,4.70990022845,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1932,canadian dollar,3.97721135074,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1933,canadian dollar,4.52749639344,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1934,canadian dollar,4.99590378738,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1935,canadian dollar,4.92420115059,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1936,canadian dollar,4.98184230118,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1937,canadian dollar,4.94067005076,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1938,canadian dollar,4.91630337308,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1939,canadian dollar,4.61765305115,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
+1913,canadian dollar,4.8639,HS-CAN_1983_seriesJ560-567,
+1914,canadian dollar,4.9019,HS-CAN_1983_seriesJ560-567,
+1924,canadian dollar,4.4671,HS-CAN_1983_seriesJ560-567,
+1925,canadian dollar,4.8305,HS-CAN_1983_seriesJ560-567,
+1926,canadian dollar,4.855,HS-CAN_1983_seriesJ560-567,
+1927,canadian dollar,4.8573,HS-CAN_1983_seriesJ560-567,
+1928,canadian dollar,4.8706,HS-CAN_1983_seriesJ560-567,
+1929,canadian dollar,4.8938,HS-CAN_1983_seriesJ560-567,
+1930,canadian dollar,4.8698,HS-CAN_1983_seriesJ560-567,
+1931,canadian dollar,4.7078,HS-CAN_1983_seriesJ560-567,
+1932,canadian dollar,3.9801,HS-CAN_1983_seriesJ560-567,
+1933,canadian dollar,4.6073,HS-CAN_1983_seriesJ560-567,
+1934,canadian dollar,4.9891,HS-CAN_1983_seriesJ560-567,
+1935,canadian dollar,4.9268,HS-CAN_1983_seriesJ560-567,
+1936,canadian dollar,4.9745,HS-CAN_1983_seriesJ560-567,
+1937,canadian dollar,4.9432,HS-CAN_1983_seriesJ560-567,
+1938,canadian dollar,4.9162,HS-CAN_1983_seriesJ560-567,
+1939,canadian dollar,4.6105,HS-CAN_1983_seriesJ560-567,
 1827,chilean peso,5.256,"Currency_Denzel (2010), 480-481.",Valparaiso on London. Pesos corrientes.
 1830,chilean peso,5.455,"Currency_Denzel (2010), 480-481.",Valparaiso on London. Pesos corrientes.
 1831,chilean peso,5.393,"Currency_Denzel (2010), 480-481.",Valparaiso on London. Pesos corrientes.
@@ -1349,66 +1354,66 @@ year,modified_currency,rate_to_pounds,source,notes
 1936,czechoslovakian krone,124.054718979,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1937,czechoslovakian krone,141.589954264,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1938,czechoslovakian krone,140.950647958,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1815,danish krone,47.666,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1816,danish krone,61.3,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1817,danish krone,53.5,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1818,danish krone,26.438,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1819,danish krone,19.98,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1820,danish krone,23.94,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1821,danish krone,24.3824,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1822,danish krone,22.806,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1823,danish krone,22.71,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1824,danish krone,21.92822,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1825,danish krone,19.192306,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1826,danish krone,20.884784,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1827,danish krone,20.306592,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1828,danish krone,19.44869,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1829,danish krone,18.74136,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1830,danish krone,19.148064,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1831,danish krone,19.1025,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1832,danish krone,19.5415,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1833,danish krone,19.18548,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1834,danish krone,18.67732,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1835,danish krone,18.7278,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1836,danish krone,18.684,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1837,danish krone,18.3189,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1838,danish krone,18.14265,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1839,danish krone,17.653904,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1840,danish krone,17.57394,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1841,danish krone,17.779242,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1842,danish krone,18.094464,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1843,danish krone,18.445434,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1844,danish krone,18.001648,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1845,danish krone,18.089736,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1846,danish krone,17.98464,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1847,danish krone,17.836478,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1848,danish krone,17.96,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1849,danish krone,18.164,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1850,danish krone,18.052,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1851,danish krone,17.932,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1852,danish krone,18.046,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1853,danish krone,17.566,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1854,danish krone,17.206,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1855,danish krone,17.342,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1856,danish krone,17.762,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1857,danish krone,17.69,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1858,danish krone,17.762,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1859,danish krone,17.636,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1860,danish krone,17.672,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1861,danish krone,17.918,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1862,danish krone,17.9,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1863,danish krone,17.818,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1864,danish krone,17.81,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1865,danish krone,17.9,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1866,danish krone,17.874,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1867,danish krone,17.95,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1868,danish krone,18.07,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1869,danish krone,18.132,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1870,danish krone,18.024,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1871,danish krone,17.998,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1872,danish krone,17.982,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1873,danish krone,18.08,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
-1874,danish krone,18.134,"Currency_Denzel (2010), 333-336.",Estimated from Danish Rigsbankdaler. 2 Danish Krone = 1 Danish Rigsbankdaler.
+1815,danish krone,47.666,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1816,danish krone,61.3,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1817,danish krone,53.5,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1818,danish krone,26.438,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1819,danish krone,19.98,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1820,danish krone,23.94,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1821,danish krone,24.3824,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1822,danish krone,22.806,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1823,danish krone,22.71,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1824,danish krone,21.92822,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1825,danish krone,19.192306,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1826,danish krone,20.884784,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1827,danish krone,20.306592,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1828,danish krone,19.44869,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1829,danish krone,18.74136,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1830,danish krone,19.148064,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1831,danish krone,19.1025,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1832,danish krone,19.5415,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1833,danish krone,19.18548,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1834,danish krone,18.67732,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1835,danish krone,18.7278,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1836,danish krone,18.684,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1837,danish krone,18.3189,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1838,danish krone,18.14265,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1839,danish krone,17.653904,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1840,danish krone,17.57394,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1841,danish krone,17.779242,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1842,danish krone,18.094464,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1843,danish krone,18.445434,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1844,danish krone,18.001648,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1845,danish krone,18.089736,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1846,danish krone,17.98464,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1847,danish krone,17.836478,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1848,danish krone,17.96,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1849,danish krone,18.164,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1850,danish krone,18.052,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1851,danish krone,17.932,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1852,danish krone,18.046,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1853,danish krone,17.566,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1854,danish krone,17.206,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1855,danish krone,17.342,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1856,danish krone,17.762,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1857,danish krone,17.69,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1858,danish krone,17.762,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1859,danish krone,17.636,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1860,danish krone,17.672,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1861,danish krone,17.918,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1862,danish krone,17.9,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1863,danish krone,17.818,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1864,danish krone,17.81,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1865,danish krone,17.9,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1866,danish krone,17.874,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1867,danish krone,17.95,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1868,danish krone,18.07,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1869,danish krone,18.132,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1870,danish krone,18.024,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1871,danish krone,17.998,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1872,danish krone,17.982,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1873,danish krone,18.08,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
+1874,danish krone,18.134,"Currency_Denzel (2010), 333-336.",Estimated from 2 Danish Krone = 1 Danish Rigsbankdaler.
 1875,danish krone,18.196,"Currency_Denzel (2010), 334-336.",Copenhagen on London
 1876,danish krone,18.144,"Currency_Denzel (2010), 334-336.",Copenhagen on London
 1877,danish krone,18.187,"Currency_Denzel (2010), 334-336.",Copenhagen on London
@@ -1819,30 +1824,30 @@ year,modified_currency,rate_to_pounds,source,notes
 1837,finnish markka,24.73973,"Currency_Estimated from Russian Ruble and silver roubles for 100 banco roubles in Denzel (2010), 359.",1 silver ruble = 4 Finnish Markka and 100 banco roubles = 27.25 silver roubles.
 1838,finnish markka,24.307,"Currency_Estimated from Russian Ruble and silver roubles for 100 banco roubles in Denzel (2010), 359.",1 silver ruble = 4 Finnish Markka and 100 banco roubles = 27.25 silver roubles.
 1839,finnish markka,22.79735,"Currency_Estimated from Russian Ruble and silver roubles for 100 banco roubles in Denzel (2010), 359.",1 silver ruble = 4 Finnish Markka and 100 banco roubles = 27.25 silver roubles.
-1840,finnish markka,24.612,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1841,finnish markka,24.676,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1842,finnish markka,25.256,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1843,finnish markka,25.548,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1844,finnish markka,25.212,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1845,finnish markka,25.324,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1846,finnish markka,25.284,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1847,finnish markka,25.352,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1848,finnish markka,26.22,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1849,finnish markka,26.128,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1850,finnish markka,25.212,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1851,finnish markka,25.412,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1852,finnish markka,25.036,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1853,finnish markka,24.844,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1854,finnish markka,26.216,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1855,finnish markka,26.568,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1856,finnish markka,25.276,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1857,finnish markka,25.68,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1858,finnish markka,26.844,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1859,finnish markka,27.4,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1860,finnish markka,26.9,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1861,finnish markka,27.88,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1862,finnish markka,27.888,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
-1863,finnish markka,26.288,"Currency_Denzel (2010), 368-372.",Estimated from Russian Ruble. 1 silver Ruble = 4 Finnish Markka.
+1840,finnish markka,24.612,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1841,finnish markka,24.676,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1842,finnish markka,25.256,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1843,finnish markka,25.548,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1844,finnish markka,25.212,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1845,finnish markka,25.324,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1846,finnish markka,25.284,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1847,finnish markka,25.352,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1848,finnish markka,26.22,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1849,finnish markka,26.128,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1850,finnish markka,25.212,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1851,finnish markka,25.412,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1852,finnish markka,25.036,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1853,finnish markka,24.844,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1854,finnish markka,26.216,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1855,finnish markka,26.568,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1856,finnish markka,25.276,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1857,finnish markka,25.68,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1858,finnish markka,26.844,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1859,finnish markka,27.4,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1860,finnish markka,26.9,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1861,finnish markka,27.88,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1862,finnish markka,27.888,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
+1863,finnish markka,26.288,"Currency_Denzel (2010), 368-372.",Estimated from 1 Silver Ruble = 4 Finnish Markka.
 1864,finnish markka,29.57,"Currency_Jaakko Autio, Valuuttakurssit Suomessa 1864-1991, Katsaus ja tilastosarjat, Bank of Finland Discussion Papers 1/92, pp. 197-199.",
 1865,finnish markka,29.75,"Currency_Jaakko Autio, Valuuttakurssit Suomessa 1864-1991, Katsaus ja tilastosarjat, Bank of Finland Discussion Papers 1/92, pp. 197-199.",
 1866,finnish markka,25.35,"Currency_Jaakko Autio, Valuuttakurssit Suomessa 1864-1991, Katsaus ja tilastosarjat, Bank of Finland Discussion Papers 1/92, pp. 197-199.",
@@ -3704,30 +3709,57 @@ year,modified_currency,rate_to_pounds,source,notes
 1937,iranian rial,80.5280549897,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1938,iranian rial,80.3804869951,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1939,iranian rial,80.0982786671,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
-1900,peruvian libra,0.97456,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1901,peruvian libra,0.97458,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1902,peruvian libra,0.97558,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1903,peruvian libra,0.9737,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1904,peruvian libra,0.97384,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1905,peruvian libra,0.97386,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1906,peruvian libra,0.97136,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1907,peruvian libra,0.97316,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1908,peruvian libra,0.97358,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1909,peruvian libra,0.97518,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1910,peruvian libra,0.9734,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1911,peruvian libra,0.97312,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1912,peruvian libra,0.974,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1913,peruvian libra,0.97402,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1914,peruvian libra,0.97414,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1915,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1916,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1917,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1918,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1919,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1920,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1921,peruvian libra,1.45998,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1922,peruvian libra,1.45998,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
-1923,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 sols (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1873,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1874,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1875,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1876,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1877,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1878,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1879,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1880,peruvian libra,0.545,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1881,peruvian libra,0.6,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1882,peruvian libra,0.5963,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1883,peruvian libra,0.5926,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1884,peruvian libra,0.6076,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1885,peruvian libra,0.6316,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1886,peruvian libra,0.6667,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1887,peruvian libra,0.6956,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1888,peruvian libra,0.7218,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1889,peruvian libra,0.7385,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1890,peruvian libra,0.6621,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1891,peruvian libra,0.6991,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1892,peruvian libra,0.7913,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1893,peruvian libra,0.8889,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1894,peruvian libra,1.0909,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1895,peruvian libra,1.055,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1896,peruvian libra,1.0323,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1897,peruvian libra,1.1429,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1898,peruvian libra,1,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1899,peruvian libra,1,"Currency_Schneider et al. (1997), vol. VII, p. 41.",Estimated from 1 peruvian libra = 10 peruvian soles
+1900,peruvian libra,0.97456,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1901,peruvian libra,0.97458,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1902,peruvian libra,0.97558,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1903,peruvian libra,0.9737,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1904,peruvian libra,0.97384,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1905,peruvian libra,0.97386,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1906,peruvian libra,0.97136,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1907,peruvian libra,0.97316,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1908,peruvian libra,0.97358,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1909,peruvian libra,0.97518,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1910,peruvian libra,0.9734,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1911,peruvian libra,0.97312,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1912,peruvian libra,0.974,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1913,peruvian libra,0.97402,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1914,peruvian libra,0.97414,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1915,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1916,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1917,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1918,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1919,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1920,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1921,peruvian libra,1.45998,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1922,peruvian libra,1.45998,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
+1923,peruvian libra,0.97332,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,"1 libra (gold)= 10 soles (gold) according to Statistical Abstract for principal and foreign countries, vol. 39."
 1924,peruvian libra,1.07861328125,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1925,peruvian libra,1.18970189702,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
 1926,peruvian libra,1.29512130099,"Currency_Calculated from League of Nations, Statistical Yearbook of the League of Nations.",
@@ -4048,42 +4080,42 @@ year,modified_currency,rate_to_pounds,source,notes
 1861,guatemalan gold peso,5.065,Annales du commerce extérieur. Amérique centrale. Faits commerciaux n° 14. BNF : LC5-138 (AD),
 1862,guatemalan gold peso,5.0448,Annales du commerce extérieur. Amérique centrale. Faits commerciaux n° 14. BNF : LC5-138 (AD),
 1863,guatemalan gold peso,5.0492,Annales du commerce extérieur. Amérique centrale. Faits commerciaux n° 14. BNF : LC5-138 (AD),
-1864,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1865,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1866,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1867,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1868,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1869,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1870,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1871,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1872,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1873,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1874,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1875,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1876,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1877,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1878,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1879,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1880,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1881,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1882,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1883,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1884,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1885,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1886,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1887,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1888,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1889,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1890,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1891,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1892,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1893,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1894,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1895,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1896,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1897,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1898,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
-1899,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimation : use 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1864,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1865,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1866,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1867,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1868,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1869,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1870,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1871,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1872,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1873,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1874,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1875,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1876,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1877,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1878,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1879,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1880,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1881,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1882,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1883,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1884,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1885,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1886,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1887,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1888,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1889,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1890,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1891,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1892,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1893,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1894,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1895,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1896,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1897,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1898,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
+1899,guatemalan gold peso,4.866,"Currency_Carter et al. (2006), vol. 5, Serie Ee612.",Estimated from 1 Guatemalan Gold Peso = 1 US Dollar. Dollar/Sterling parity in 1913.
 1900,guatemalan gold peso,4.8728,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 Guatemalan Gold Peso = 1 US Dollar.
 1901,guatemalan gold peso,4.8789,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 Guatemalan Gold Peso = 1 US Dollar.
 1902,guatemalan gold peso,4.8779,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,1 Guatemalan Gold Peso = 1 US Dollar.
@@ -6712,8 +6744,15 @@ year,modified_currency,rate_to_pounds,source,notes
 1911,honduran gold peso,4.8623,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,Probably gives silver peso. 1 gold peso = 2 silver peso.
 1912,honduran gold peso,4.8658,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,Probably gives silver peso. 1 gold peso = 2 silver peso.
 1913,honduran gold peso,4.8637,Currency_http://moxlad.fcs.edu.uy/en/databaseaccess.html,Probably gives silver peso. 1 gold peso = 2 silver peso.
-1924,old chilean peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
-1925,old chilean peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1910,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1919,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1920,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1921,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1922,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1923,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1924,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1925,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
+1926,chilean gold peso,13.333,"Currency_Memorandum sur le commerce international et sur les balances des paiements 1912-1926, vol II.",
 1841,new zealand pound,1,"Currency_Denzel (2010), 594-595.",Auckland or Wellington on London
 1842,new zealand pound,1,"Currency_Denzel (2010), 594-595.",Auckland or Wellington on London
 1843,new zealand pound,0.985,"Currency_Denzel (2010), 594-595.",Auckland or Wellington on London
