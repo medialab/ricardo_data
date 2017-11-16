@@ -2,16 +2,19 @@
 CREATE TABLE `sources`
 (
 	`slug`			TEXT  PRIMARY KEY,
-	`acronym`		TEXT,
 	`author`        TEXT,
 	`name`			TEXT,
-	`edition_date`	TEXT,
+	`editor`		TEXT,
 	`country`		TEXT,
+	`volume_number`	TEXT,
+	`volume_date`   TEXT,
+	`edition_date`  TEXT,
 	`pages`			TEXT,
-	`volume`		TEXT,
 	`shelf_number`	TEXT,
-	`dates`			TEXT,
-	`notes`			TEXT
+	`notes`			TEXT,
+	'source_category' TEXT,
+	'URL' 			TEXT,
+	'type' 			TEXT
 );
 
 CREATE TABLE `source_types`
@@ -29,7 +32,7 @@ CREATE TABLE `exchange_rates`
 	`year`					INTEGER,
 	`modified_currency`		TEXT,
 	`rate_to_pounds`		REAL,
-	`source`			 	INTEGER,
+	`source`			 	TEXT,
 	`notes`					TEXT,
 	PRIMARY KEY (`year`,`modified_currency`),
 	FOREIGN KEY (source) 	REFERENCES sources(slug)
@@ -105,7 +108,7 @@ CREATE TABLE `flows`
 	`partner_sum`					TEXT,
 	`world_trade_type`				TEXT,
 	`notes`							TEXT,
-	FOREIGN KEY (source) 			REFERENCES sources(id),
+	FOREIGN KEY (source) 			REFERENCES sources(slug),
 	FOREIGN KEY (currency,year,reporting) 			REFERENCES currencies(currency,year,reporting),
 	FOREIGN KEY (partner) 			REFERENCES entity_names(original_name),
 	FOREIGN KEY (reporting) 		REFERENCES entity_names(original_name),

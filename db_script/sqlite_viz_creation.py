@@ -44,10 +44,10 @@ c.executemany("""UPDATE RICentities SET slug = ? WHERE RICname = ? """,newricslu
 
 ################################################################################
 ##			Update every table with uniformed attributes
-################################################################################
-c.execute("""UPDATE flows SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
-c.execute("""UPDATE sources SET slug = UPPER(SUBSTR(slug, 1, 1)) || SUBSTR(slug, 2) """)
-c.execute("""UPDATE exchange_rates SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
+# ################################################################################
+# c.execute("""UPDATE flows SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
+# c.execute("""UPDATE sources SET slug = UPPER(SUBSTR(slug, 1, 1)) || SUBSTR(slug, 2) """)
+# c.execute("""UPDATE exchange_rates SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
 
 ################################################################################
 ##			Remove dup in entities_name table
@@ -64,7 +64,7 @@ print "-------------------------------------------------------------------------
 
 c.execute("""DROP TABLE IF EXISTS flow_joined;""")
 c.execute("""CREATE TABLE IF NOT EXISTS flow_joined AS
-	 SELECT f.id, f.source, st.type, f.flow, f.year,
+	 SELECT f.id, f.source, s.type, f.flow, f.year,
 	 	f.unit as unit,
 		eisg.modified_export_import as expimp,
 		eisg.modified_special_general as spegen,
@@ -94,7 +94,8 @@ c.execute("""CREATE TABLE IF NOT EXISTS flow_joined AS
 		p2.continent as partner_continent,
 		transport_type,
 		f.notes,
-		species_bullions
+		species_bullions,
+		ifnull(s.author,s.name) || ifnull(' ('||s.edition_date||')','') as source_label
 		from flows as f
 		LEFT OUTER JOIN currencies as c
 			ON f.currency=c.currency
@@ -115,12 +116,9 @@ c.execute("""CREATE TABLE IF NOT EXISTS flow_joined AS
 			 	USING (export_import, special_general)
 		LEFT OUTER JOIN sources as s
 				ON s.slug=f.source
-		LEFT OUTER JOIN source_types as st
-				ON st.acronym=s.acronym
 		WHERE expimp != "Re-exp"
 			and partner is not null
 			and partner_sum is null
-			and s.acronym != "OUPS"
 			and f.flow is not null
 	""")
 
@@ -197,10 +195,10 @@ for n,notes,ids,sources in c :
 		i=notes.split("|").index("Valeur officielle")
 		id=ids.split("|")[i]
 		#print sources.split("|")[i].encode("UTF8")
-		if sources.split("|")[i] == u"""Tableau décennal du commerce de la France avec ses colonies et les puissances étrangères, 1847-1856, vol. 1.""":
+		if sources.split("|")[i] == u"""TableauDécennalDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_18471856_Vol1""":
 			ids_to_remove.append(id)
 		else:
-			raise
+			raise Exception("missing source Tableau décennal")
 	# else:
 	# 	raise Exception("exception --->  ", n)
 if len(ids_to_remove)>0:
@@ -340,7 +338,7 @@ c.execute("""INSERT INTO RICentities (`RICname`, `type`, `continent`, `slug`)
 print "World sum partners added to RICentities"
 
 c.execute("""INSERT INTO flow_joined (flow, unit, reporting, reporting_slug, year, 
-	expimp, currency, partner, partner_slug, rate, source, type, reporting_type, reporting_continent)
+	expimp, currency, partner, partner_slug, rate, source, source_label, type, reporting_type, reporting_continent)
 			SELECT sum(flow*unit) as flow,
 				1 as unit,
 				reporting,
@@ -352,6 +350,7 @@ c.execute("""INSERT INTO flow_joined (flow, unit, reporting, reporting_slug, yea
 				'Worldsumpartners' as partner_slug,
 				rate,
 				source,
+				source_label,
 				type,
 				reporting_type, 
 				reporting_continent
@@ -372,7 +371,7 @@ print "World as best guess added to RICentities"
 print "-------------------------------------------------------------------------"
 
 c.execute("""SELECT year, expimp, partner, reporting, partner_slug, reporting_slug, 
-	flow, unit, currency, rate, source, type, reporting_type, reporting_continent
+	flow, unit, currency, rate, source, source_label, type, reporting_type, reporting_continent
 	from flow_joined
 	WHERE partner LIKE "world%"  """)
 data=list(c)
@@ -394,9 +393,9 @@ for g,d in itertools.groupby(data,lambda _:(_[3],_[0],_[1])):
 		world_best_guess[2]=u"World_best_guess"
 		world_best_guess[4]=u"Worldbestguess"
 		c.execute("""INSERT INTO flow_joined (year, expimp, partner, reporting, 
-			partner_slug, reporting_slug, flow, unit, currency, rate, source, type,
+			partner_slug, reporting_slug, flow, unit, currency, rate, source, source_label, type,
 			reporting_type, reporting_continent)
-		VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", world_best_guess)
+		VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", world_best_guess)
 		world_best_guess_added += 1
 
 print "World best guess added to flow_joined", world_best_guess_added
@@ -488,7 +487,7 @@ c.execute("""CREATE TABLE IF NOT EXISTS metadata_bilateral AS
 		             t.year as year, t.reporting_continent as reporting_continent, t.reporting_type as reporting_type,group_concat(distinct t.type) as type,group_concat(distinct t.source)  as source
 		             FROM
 		             (
-			             SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, (replace(partner_slug,",","")||"+"||partner_continent) as partner_slug, year, source, type,reporting_continent,reporting_type, expimp
+			             SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, (replace(partner_slug,",","")||"+"||partner_continent) as partner_slug, year, source_label as source, type,reporting_continent,reporting_type, expimp
 			             FROM flow_joined
 			             WHERE partner_slug NOT LIKE 'world%' 
 				             AND flow*Unit/rate is not NULL
@@ -525,7 +524,7 @@ c.execute("""CREATE TABLE IF NOT EXISTS metadata_world AS
 			year,group_concat(type,"|") as type,group_concat(source,"|")as source, count(distinct source)as source_count,
 			reporting_continent, reporting_type
 			From
-			(SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, group_concat(partner,"+") as partner, year,group_concat(source,"+") as source, group_concat(type,"+") as type, reporting_continent,reporting_type, expimp
+			(SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, group_concat(partner,"+") as partner, year,group_concat(source_label,"+") as source, group_concat(type,"+") as type, reporting_continent,reporting_type, expimp
 			FROM flow_joined
 			WHERE flow is not NULL
 			AND(partner_slug like 'Worldestimated'

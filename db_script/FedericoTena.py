@@ -5,7 +5,7 @@ import re
 
 
 # create flows
-def import_flows(filename,imp_exp,c,ft_entities,ft_rates):
+def import_flows(filename,imp_exp,c,ft_entities,ft_rates,ft_source):
 	with open(filename) as f:
 		importscsvs=csvkit.DictReader(f)
 		for line in importscsvs:
@@ -21,7 +21,7 @@ def import_flows(filename,imp_exp,c,ft_entities,ft_rates):
 					if reporting!="year" and flow!=0.0:
 						reporting = reporting.strip().lower()
 						if reporting in ft_entities:
-							data=["FEDERICO-TENA",flow,"1000000","us dollar",int(year),reporting,"World Federico-Tena",imp_exp,"gen","total_federicotena"]
+							data=[ft_source,flow,"1000000","us dollar",int(year),reporting,"World Federico-Tena",imp_exp,"gen","total_federicotena"]
 							c.execute("INSERT INTO flows (source, flow, unit, currency, year, reporting, partner, export_import, special_general, world_trade_type) VALUES (?,?,?,?,?,?,?,?,?,?)",data)
 							data=["us dollar",int(year),reporting,"us dollar"]
 							c.execute("INSERT OR IGNORE INTO currencies (currency, year, reporting, modified_currency) VALUES (?,?,?,?)",data)
@@ -39,14 +39,23 @@ def import_federicotena(c):
 
 
 	# create source done
-	source_id="FEDERICO-TENA"
-	source_authors="Federico G. & A. Tena-Junguito"
-	source_type="Federico-Tena"
-	source_edition_year="2016"
-	source_url="http://www.ehes.org/EHES_93.pdf"
-	source_title="World trade, 1800-1938: a new data-set, EHES Working Paper 93"
-	c.execute("INSERT INTO source_types (acronym,reference,type,author,URL) VALUES (?,?,?,?,?)",(source_id,source_title,source_type,source_authors,source_url))
-	c.execute("INSERT INTO sources (slug,acronym,name,edition_date) VALUES (?,?,?,?)",(source_id,source_id,source_title,source_edition_year))
+	nonLetters = re.compile(r'\W', re.UNICODE)
+	
+	def slugify(source):
+	    slug = lambda s : ''.join([re.sub(nonLetters,'',w).capitalize() for w in s.split(' ')])
+	    fields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages']
+	    return '_'.join(slug(source[f]) for f in fields if f in source and source[f] and slug(source[f]))
+
+	FT_source = {
+		'author': "Federico G. & A. Tena-Junguito",
+		"name": "World trade, 1800-1938: a new data-set, EHES Working Paper 93",
+		"type": "FedericoTena",
+		"edition_date": "2016",
+		"URL": "http://www.ehes.org/EHES_93.pdf"
+	}
+	FT_source['slug'] = slugify(FT_source) 
+
+	c.execute("INSERT INTO sources (slug, name, edition_date, type, author, URL) VALUES (?,?,?,?,?,?)",(FT_source['slug'], FT_source['name'], FT_source['edition_date'], FT_source['type'], FT_source['author'], FT_source['URL']))
 	print "created FT source"
 
 	# read entities
@@ -66,8 +75,8 @@ def import_federicotena(c):
 			c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",(entity["Polity Federico-Tena"].strip().lower(),entity["ricname"]))
 			ft_entities.append(entity["Polity Federico-Tena"].strip().lower())
 	# add World Frederico Tena entity
-	c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",("World Federico-Tena","World Federico-Tena"))
-	c.execute("""INSERT OR IGNORE INTO RICentities (RICname,type,continent,slug) VALUES ("World Federico-Tena","geographical_area","World", "WorldFedericoTena")""")
+	c.execute("INSERT OR IGNORE INTO entity_names (original_name,RICname) VALUES (?,?) ",("World Federico-Tena","World Federico Tena"))
+	c.execute("""INSERT OR IGNORE INTO RICentities (RICname,type,continent,slug) VALUES ("World Federico Tena","geographical_area","World", "WorldFedericoTena")""")
 	
 	# read rate to dollar
 	ft_rates={}
@@ -77,7 +86,7 @@ def import_federicotena(c):
 			ft_rates[line["year"]]=float(line["rate_to_dollar"])
 
 	# read import
-	import_flows(os.path.join(FT_PATH,IMPORTS_CSV),"imp",c,ft_entities,ft_rates)
+	import_flows(os.path.join(FT_PATH,IMPORTS_CSV),"imp",c,ft_entities,ft_rates,FT_source['slug'])
 	# read export
-	import_flows(os.path.join(FT_PATH,EXPORTS_CSV),"exp",c,ft_entities,ft_rates)
+	import_flows(os.path.join(FT_PATH,EXPORTS_CSV),"exp",c,ft_entities,ft_rates,FT_source['slug'])
 

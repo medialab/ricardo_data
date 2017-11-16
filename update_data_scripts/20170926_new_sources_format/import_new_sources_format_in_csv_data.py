@@ -67,7 +67,7 @@ with open('new_sources.csv', 'r') as f:
         with open('../../csv_data/new_flows.csv','w') as nf:
             flows = csvkit.DictReader(f)
             newFlows = csvkit.DictWriter(nf, flows.fieldnames)
-
+            newFlows.writeheader()
             for flow in flows:
                 if flow['source'] in swapSources:
                     flow['source'] = swapSources[flow['source']]
@@ -80,6 +80,7 @@ with open('new_sources.csv', 'r') as f:
         with open('../../csv_data/new_exchange_rates.csv','w') as nf:
             rates = csvkit.DictReader(f)
             newRates = csvkit.DictWriter(nf, rates.fieldnames)
+            newRates.writeheader()
             for rate in rates:
                 if rate['source'] in swapSources:
                     rate['source'] = swapSources[rate['source']]
