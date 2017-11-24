@@ -1,4 +1,7 @@
 {	"sqlite_filename": "RICardo.sqlite",
 	"sqlite_schema": "RICardo_schema.sql",
-	"sqlite_viz": "RICardo_viz.sqlite"
+	"sqlite_viz": "RICardo_viz.sqlite",
+	"sources_export_filename": "RICardo_sources.csv",
+	"RICentities_export_filename": "RICardo_RICentities.csv",
+	"rates_export_filename": "RICardo_exchange_rates.csv"
 }

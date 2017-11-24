@@ -8,6 +8,7 @@ import itertools
 import utils
 import re
 import FedericoTena
+import custom_exports
 
 try :
 	conf=json.load(open("config.json","r"))
@@ -539,4 +540,11 @@ print "metadata_world created"
 print "-------------------------------------------------------------------------"
 conn.commit()
 
+print 'Creating CSV exports'
+print 'source.csv (...)'
+custom_exports.export_sources_csv(c,conf['sources_export_filename'])
+print 'done'
+print 'RICentities.csv (...)'
+custom_exports.export_RICentities_csv(c,conf['RICentities_export_filename'])
+print 'done'
 
