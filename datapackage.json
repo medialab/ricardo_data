@@ -1,0 +1,434 @@
+{
+  "name": "RICardo",
+  "datapackage_version": "1.0-beta",
+  "title": "RICardo, Research on International Commerce: trade between Nations from c. 1800 to 1938",
+  "description": "RICardo (Research on International Commerce) is a project dedicated to trade between nations over a period spanning the beginning of the Industrial Revolution to the eve of the Second World War. It combines a historical trade database covering all of the world’s countries and a website which invites to an exploration of the history of international trade through data visualizations.",
+  "version": "1.0",
+  "keywords": ["trade", "history", "economy", "19th century"],
+   "created": "2017-12-05T10:03:50.52Z",
+  "licenses": [{
+    "url": "http://opendatacommons.org/licenses/pddl/",
+    "name": "Open Data Commons Public Domain",
+    "version": "1.0",
+    "id": "odc-pddl"
+  }],
+  "sources": [{
+    "name": "This dataset has been built using many different sources.",
+    "web": "http://ricardo.medialab.sciences-po.fr/sources.csv"
+  }],
+  "contributors":[ {
+    "name": "Béatrice Dedinger",
+    "email": "beatrice.dedinger@sciencespo.fr",
+    "web": "http://sciencespo.fr/chsp",
+    "organization": "Sciences Po, Centre d'Histoire",
+    "role": "author"
+  }, {
+    "name": "Paul Girard",
+    "email": "paul.girard@sciencespo.fr",
+    "web": "http://medialab.sciencespo.fr/people/paulgirard",
+    "organization": "Sciences Po, médialab",
+    "role": "author"
+  }, {
+    "name": "... ? ...",
+    "email": "",
+    "web": "",
+    "organization": "Bordeaux",
+    "role": "contributor"
+  }],
+  "dependencies": {
+    "data-package-name": ">=1.0"
+  },
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+    "name":"flows",
+    "title":"Trade flows",
+    "description":"",
+    "format":"csv",
+    "encoding":"utf-8",
+    "path": "data/flows.csv",
+    "schema": {"fields": [
+          {
+            "name": "id",
+            "type": "integer",
+            "description": "Unique identifier autoincremented on insert",
+            "constraints":{
+              "unique":true
+            }
+          },
+          {
+            "foreignkey": "sources/slug",
+            "name": "source",
+            "type": "string",
+            "description": "The source document this trade flow was extracted from"
+          },
+          {
+            "name": "unit",
+            "type": "number",
+            "description": "The unit the trade flow value is expressed in"
+          },
+          {
+            "name": "currency",
+            "type": "string",
+            "description": "The currency the trade flow value is expressed in"
+          },
+          {
+            "name": "year",
+            "type": "year",
+            "description": "The year of the trade flow "
+          },
+          {
+            "foreignkey":"entity_names/original_name",
+            "name": "reporting",
+            "type": "string",
+            "description": "Name of the country reporting the trade flow"
+          },
+          {
+            "foreignkey":"entity_names/original_name",
+            "name": "partner",
+            "type": "string",
+            "description": "Name of the trade partner of the trade flow"
+          },
+          {
+            "name": "export_import",
+            "type": "string",
+            "description": "Precise wether this trade flow is an importation or exportation."
+          },
+          {
+            "name": "special_general",
+            "type": "string",
+            "description": "Precise wether this trade flow is of type special or general."
+          },
+          {
+            "name": "species_bullions",
+            "type": "string",
+            "description": "Precise wether this trade flow is a monatory flow."
+          },
+          {
+            "name": "transport_type",
+            "type": "string",
+            "description": "For some flows, the transport type is precised : by land or by see for instance."
+          },
+          {
+            "name": "statistical_period",
+            "type": "string",
+            "description": "Some statistics are not reported by civil years. This field indicates those precising the statistical period (not normalized)."
+          },
+          {
+            "name": "partner_sum",
+            "type": "string",
+            "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...)."
+          },
+          {
+            "name": "world_trade_type",
+            "type": "string",
+            "description": "Categorize the different types of Total trade calculations: total_estimated (recent estimations), total_reporting1 (total reported by the soruce), total_reporting2 (subtotals reported by the source)",
+            "constraints":{
+              "enum":["total_estimated","total_reporting1","total_reporting2"]
+            }
+          },
+           {
+            "name": "notes",
+            "type": "string",
+            "description": "Free text notes left by the research team"
+          },
+       ]}
+    },
+    {
+    "name":"sources",
+    "title":"Trade statistics sources",
+    "description":"Volumes of statistics, books or research papers used to compile the flows table.",
+    "format":"csv",
+    "encoding":"utf-8",
+    "path": "data/sources.csv",
+    "schema": {"fields": [
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "Unique identifier generated from metadata as a slug",
+            "constraints":{
+              "unique":true
+            }
+          },
+          {
+            "name": "author",
+            "type": "string",
+            "description": "Author.s of the source when appropriate (i.e. not for statistical series)"
+          },
+          {
+            "name": "name",
+            "type": "string",
+            "description": "Name of the source: title of the volume/book/research paper"
+          },
+          {
+            "name": "editor",
+            "type": "string",
+            "description": "Editor of the source"
+          },
+          {
+            "name": "country",
+            "type": "string",
+            "description": "The country targeted by the source if applicable"
+          },
+          {
+            "name": "volume_number",
+            "type": "string",
+            "description": "Number of volume when in a serie"
+          },
+          {
+            "name": "volume_date",
+            "type": "string",
+            "description": "Date.s of trade described in this source when indicated in the source name"
+          },
+          {
+            "name": "edition_date",
+            "type": "string",
+            "description": "Edition date of the source"
+          },
+          {
+            "name": "pages",
+            "type": "string",
+            "description": "The pages of the source used"
+          },
+          {
+            "name": "shelf_number",
+            "type": "string",
+            "description": "The shelf number of the source when preserved in an archive"
+          },
+          {
+            "name": "source_category",
+            "type": "string",
+            "description": "source category: article, book, database, statistical series, website",
+            "constraints":{
+              "enum":["article","book","database","statistical series","website"]
+            }
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "Type of source: estimation, primary, secondary",
+            "constraints":{
+              "enum":["estimation","primary","secondary"]
+            }
+          },
+          {
+            "name": "URL",
+            "type": "string",
+            "description": "URL where the original source is available"
+          },
+           {
+            "name": "notes",
+            "type": "string",
+            "description": "Free text notes left by the research team"
+          }
+       ]}
+    },
+    {
+      "name":"RICentities",
+      "title":"RICentites",
+      "description":"RICentites are te unified nomencalture of trade reporting and partner names.",
+      "format":"csv",
+      "encoding":"utf-8",
+      "path": "data/RICentities.csv",
+      "schema": {"fields": [
+            {
+              "name": "RICname",
+              "type": "string",
+              "description": "name of the RICentities (unique identifier)",
+              "constraints":{
+                "unique":true
+              }
+            },
+            {
+              "name": "type",
+              "type": "string",
+              "description": "RICentity type: city/part_of, colonial_area, country, geographical_area, group",
+              "constraints":{
+                "enum":["city/part_of","colonial_area","country","geographical_area","group"]
+              }
+            },
+            {
+              "name": "continent",
+              "type": "string",
+              "description": "continent the RICentity belongs to (Ocean are considered as continents).",
+              "constraints":{
+                "enum":["Adriatic","Africa","America","Antarctic","Arctic","Asia","Atlantic","Baltic","Europe","Mediterranean","Oceania","Pacific","Red Sea","World"]
+              }
+            },
+            {
+              "name": "COW_code",
+              "type": "string",
+              "description": "Correlates Of War (COW) identifier."
+            }
+      ]}
+    },
+    {
+      "name":"entity_names",
+      "title":"Entity names",
+      "description":"This table documents how the partner and reporting original names in sources has been translated in a unified nomemclature.",
+      "format":"csv",
+      "encoding":"utf-8",
+      "path": "data/entity_names.csv",
+      "schema": {"fields": [
+            {
+              "name": "original_name",
+              "type": "string",
+              "description": "name of a reportnig and/or partner as found in source.s (unique identifier)",
+              "constraints":{
+                "unique":true
+              }
+            },
+            {
+              "name": "french_name",
+              "type": "string",
+              "description": "a french translation of the original name"
+            },
+            {
+              "name": "RICname",
+              "foreignkey":"RICames/RICname",
+              "type": "string",
+              "description": "the RICname this original name is translated into"
+            },
+            {
+              "name": "COW_code",
+              "type": "string",
+              "description": "Correlates Of War (COW) identifier."
+            }
+      ]}
+    },
+    {
+      "name":"RICentities_groups",
+      "title":"RICentities groups",
+      "description":"Some RICentities are of type 'group'. This table show which entities are part of RICentities groups",
+      "format":"csv",
+      "encoding":"utf-8",
+      "path": "data/RICentities_groups.csv",
+      "schema": {"fields": [
+            {
+              "name": "id",
+              "type": "number",
+              "description": "arbitrary unique identifier (autoincremented)",
+              "constraints":{
+                "unique":true
+              }
+            },
+            {
+              "name": "RICname_group",
+              "foreignkey":"RICames/RICname",
+              "type": "string",
+              "description": "the RICname group"
+            },
+            {
+              "name": "RICname_part",
+              "foreignkey":"RICames/RICname",
+              "type": "string",
+              "description": "the RICname part"
+            }
+      ]}
+    },
+    {
+      "name":"exchange_rates",
+      "title":"Exchange rates",
+      "description":"Exchange rates used to convert trade flows to pound sterling",
+      "format":"csv",
+      "encoding":"utf-8",
+      "path": "data/exchange_rates.csv",
+      "schema": {"fields": [
+            {
+              "name": "year",
+              "type": "year",
+              "description": "exchange rates are expressed by year"
+            },
+            {
+              "name": "modified_currency",
+              "type": "string",
+              "description": "the currency name as modified by the unification table (currencies)"
+            },
+            {
+              "name": "rate_to_pounds",
+              "type": "number",
+              "description": "rate to pound sterling"
+            },
+            {
+              "name": "source",
+              "foreignkey":"source/slug",
+              "type": "string",
+              "description": "Source used to get this exchange rate"
+            },
+           {
+            "name": "notes",
+            "type": "string",
+            "description": "Free text notes left by the research team"
+          }
+      ]}
+    },
+     {
+      "name":"currencies",
+      "title":"currencies",
+      "description":"Currencies translation table",
+      "format":"csv",
+      "encoding":"utf-8",
+      "path": "data/currencies.csv",
+      "schema": {"fields": [
+            {
+              "name": "currency",
+              "type": "string",
+              "description": "Original currency as mentionned in source."
+            },
+            {
+              "name": "year",
+              "type": "year",
+              "description": "Curencies are translated depending on the year of the flow"
+            },
+            {
+              "name": "reporting",
+              "foreignkey":"entity_names/original_name",
+              "type": "string",
+              "description": "Curencies are translated depending on the reporting of the flow"
+            },
+            {
+              "name": "modified_currency",
+              "type": "string",
+              "description": "The translated currency name"
+            }
+      ]}
+    },
+    {
+      "name":"expimp_spegen",
+      "title":"Export/import and special/general",
+      "description":"export/import and special/general translation table",
+      "format":"csv",
+      "encoding":"utf-8",
+      "path": "data/expimp_spegen.csv",
+      "schema": {"fields": [
+            {
+              "name": "export_import",
+              "type": "string",
+              "description": "export/import original name"
+            },
+            {
+              "name": "special_general",
+              "type": "string",
+              "description": "special/general original name"
+            },
+            {
+              "name": "modified_export_import",
+              "type": "string",
+              "description": "translated export/import",
+              "constraints":{
+                "enum":["Exp","Exp+Imp","Imp","Re-exp","Re-imp"]
+              }
+            },
+            {
+              "name": "modified_special_general",
+              "type": "string",
+              "description": "translated special/general",
+              "constraints":{
+                "enum":["Foreign Produce (Merchandise)","French Produce (Merchandise)","Gen","Gen-Spe""Private Account (Merchandise)","Spe"]
+              }
+            }
+
+      ]}
+    }
+  ]
+}

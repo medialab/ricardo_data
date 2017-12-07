@@ -17,16 +17,6 @@ CREATE TABLE `sources`
 	'type' 			TEXT
 );
 
-CREATE TABLE `source_types`
-(
-	`acronym`		TEXT PRIMARY KEY,
-	`reference`		TEXT,
-	`type`			TEXT,
-	`author`		TEXT,
-	`URL`			TEXT,
-	FOREIGN KEY (acronym) 	REFERENCES sources(acronym)
-);
-
 CREATE TABLE `exchange_rates`
 (
 	`year`					INTEGER,
@@ -54,10 +44,10 @@ CREATE TABLE `currencies`
 
 CREATE TABLE `expimp_spegen`
 (
-	`export_import`				REAL,
-	`special_general`			REAL,
-	`modified_export_import`	REAL,
-	`modified_special_general`	REAL,
+	`export_import`				TEXT,
+	`special_general`			TEXT,
+	`modified_export_import`	TEXT,
+	`modified_special_general`	TEXT,
 	PRIMARY KEY (`export_import`, `special_general`)
 );
 
