@@ -45,4 +45,4 @@ cp ../db_script/$sources_export_filename $exports_output
 echo "copying ../db_script/$RICentities_export_filename  to $exports_output"
 cp ../db_script/$RICentities_export_filename $exports_output
 echo "copying ../db_script/$rates_export_filename  to $exports_output"
-cp ../csv_data/exchange_rates.csv $exports_output$rates_export_filename
+cp ../data/exchange_rates.csv $exports_output$rates_export_filename
