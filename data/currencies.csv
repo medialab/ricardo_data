@@ -2493,7 +2493,7 @@ pesos,1895,chili,chilean peso
 pesos,1896,chili,chilean peso
 pesos,1897,chili,chilean peso
 pesos,1898,chili,chilean peso
-pesos de 18 d.,1926,chili,chilean gold peso
+pesos de 18 d.,1926,chili,chilean gold peso (18 d)
 pesos,1927,chili,chilean peso
 pesos,1928,chili,chilean peso
 pesos,1929,chili,chilean peso
@@ -2614,7 +2614,7 @@ standard dollars,1935,chine,chinese standard dollar
 standard dollars,1936,chine,chinese standard dollar
 standard dollars,1937,chine,chinese standard dollar
 standard dollars,1938,chine,chinese standard dollar
-pesos a 18 peniques,1910,chl,chilean gold peso
+pesos a 18 peniques,1910,chl,chilean gold peso (18 d)
 haikwan-tael,1910,chn,chinese haikwan tael
 livre sterling,1900,chypre,sterling pound
 livre sterling,1910,chypre,sterling pound
@@ -13694,8 +13694,8 @@ leva,1924,bulgarie,bulgarian lev
 leva,1925,bulgarie,bulgarian lev
 dollars,1924,canada,canadian dollar
 dollars,1925,canada,canadian dollar
-pesos de 18 d,1924,chili,chilean gold peso
-pesos de 18 d,1925,chili,chilean gold peso
+pesos de 18 d,1924,chili,chilean gold peso (18 d)
+pesos de 18 d,1925,chili,chilean gold peso (18 d)
 haikwan taels,1924,chine,chinese haikwan tael
 haikwan taels,1925,chine,chinese haikwan tael
 pesos oro,1924,colombie,colombian peso
@@ -16726,16 +16726,16 @@ dollar,1936,canada,canadian dollar
 dollar,1937,canada,canadian dollar
 dollar,1938,canada,canadian dollar
 pesos,1855,chile,chilean peso
-$ oro de 6 d.,1925,chile,chilean papel peso
-$ oro de 6 d.,1926,chile,chilean papel peso
-$ oro de 6 d.,1927,chile,chilean papel peso
-$ oro de 6 d.,1928,chile,chilean papel peso
-$ oro de 6 d.,1931,chile,chilean papel peso
-$ oro de 6 d.,1932,chile,chilean papel peso
-$ oro de 6 d.,1933,chile,chilean papel peso
-$ oro de 6 d.,1934,chile,chilean papel peso
-$ oro de 6 d.,1935,chile,chilean papel peso
-$ oro de 6 d.,1936,chile,chilean papel peso
+$ oro de 6 d.,1925,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1926,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1927,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1928,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1931,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1932,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1933,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1934,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1935,chile,chilean gold peso (6 d)
+$ oro de 6 d.,1936,chile,chilean gold peso (6 d)
 haikwan taels,1868,china,chinese haikwan tael
 haikwan taels,1879,china,chinese haikwan tael
 haikwan taels,1880,china,chinese haikwan tael
@@ -17266,11 +17266,11 @@ Lp,1920,Peru,peruvian libra
 Lp,1921,Peru,peruvian libra
 Lp,1922,Peru,peruvian libra
 Lp,1923,Peru,peruvian libra
-Pesos 18d,1919,Chile,chilean gold peso
-Pesos 18d,1920,Chile,chilean gold peso
-Pesos 18d,1921,Chile,chilean gold peso
-Pesos 18d,1922,Chile,chilean gold peso
-Pesos 18d,1923,Chile,chilean gold peso
+Pesos 18d,1919,Chile,chilean gold peso (18 d)
+Pesos 18d,1920,Chile,chilean gold peso (18 d)
+Pesos 18d,1921,Chile,chilean gold peso (18 d)
+Pesos 18d,1922,Chile,chilean gold peso (18 d)
+Pesos 18d,1923,Chile,chilean gold peso (18 d)
 Bs.,1919,Bolivia,bolivian boliviano
 Bs.,1920,Bolivia,bolivian boliviano
 Bs.,1921,Bolivia,bolivian boliviano

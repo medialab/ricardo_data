@@ -6744,15 +6744,15 @@ year,modified_currency,rate_to_pounds,source,notes
 1911,honduran gold peso,4.8623,Httpwwwlacoxacukmoxladdatabase,Probably gives silver peso. 1 gold peso = 2 silver peso.
 1912,honduran gold peso,4.8658,Httpwwwlacoxacukmoxladdatabase,Probably gives silver peso. 1 gold peso = 2 silver peso.
 1913,honduran gold peso,4.8637,Httpwwwlacoxacukmoxladdatabase,Probably gives silver peso. 1 gold peso = 2 silver peso.
-1910,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1919,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1920,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1921,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1922,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1923,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1924,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1925,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1926,chilean gold peso,13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1910,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1919,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1920,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1921,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1922,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1923,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1924,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1925,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1926,chilean gold peso (18 d),13.333,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
 1841,new zealand pound,1.0,DenzelMA_HandbookOfWorldExchangeRates15901914_594595,Auckland or Wellington on London
 1842,new zealand pound,1.0,DenzelMA_HandbookOfWorldExchangeRates15901914_594595,Auckland or Wellington on London
 1843,new zealand pound,0.985,DenzelMA_HandbookOfWorldExchangeRates15901914_594595,Auckland or Wellington on London
@@ -7282,16 +7282,16 @@ year,modified_currency,rate_to_pounds,source,notes
 1813,finnish markka,15.12,DenzelMA_HandbookOfWorldExchangeRates15901914_359,1 silver ruble = 4 Finnish Markka and 100 banco roubles = 25.2 silver roubles.
 1814,finnish markka,14.7696,DenzelMA_HandbookOfWorldExchangeRates15901914_359,1 silver ruble = 4 Finnish Markka and 100 banco roubles = 20 silver roubles.
 1796,french franc,29.484,DenzelMA_HandbookOfWorldExchangeRates15901914_285289,Paris on London
-1925,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1926,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1927,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1928,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1931,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1932,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1933,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1934,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1935,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
-1936,chilean papel peso,4.44433,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
+1925,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1926,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1927,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1928,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1931,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1932,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1933,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1934,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1935,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
+1936,chilean gold peso (6 d),39.988,StatistiquesDuCommerceExtérieur_19311932,
 1925,spanish gold peseta,25.22137,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
 1926,spanish gold peseta,25.22137,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
 1927,spanish gold peseta,25.22137,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,
