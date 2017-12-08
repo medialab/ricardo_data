@@ -7,8 +7,8 @@ We created a [web application](http://ricardo.medialab.sciences-po.fr) to visual
 This dataset is meant to evolve. You can follow our work in [the RIcardo hypothèses.org blog](http://ricardo.hypotheses.org/).
 
 ## To learn more about this dataset 
-Dedinger, Béatrice, et Paul Girard. 2017. « Exploring trade globalization in the long run: The RICardo project ». Historical Methods: A Journal of Quantitative and Interdisciplinary History 50 (1): 30‑48. doi:10.1080/01615440.2016.1220269.
-<a href="http://www.tandfonline.com/doi/citedby/10.1080/01615440.2016.1220269" target="_blank">the paper at Historical Methods</a>
+Dedinger, Béatrice, et Paul Girard. 2017. « Exploring trade globalization in the long run: The RICardo project ». Historical Methods: A Journal of Quantitative and Interdisciplinary History 50 (1): 30‑48. doi:10.1080/01615440.2016.1220269.  
+<a href="http://www.tandfonline.com/doi/citedby/10.1080/01615440.2016.1220269" target="_blank">the paper at Historical Methods</a>  
 <a href="http://ricardo.medialab.sciences-po.fr/Dedinger_Girard_RICardo_HistoricalMethods_revised.pdf" target="_blank">our preprint version: 01-May-2016</a></p>
 
 ## To cite
@@ -51,7 +51,7 @@ Note that not all modifications were listed in this folder. To keep track of exh
 
 # Work supported by
 
-This work has been supported by l’Agence National de la Recherche under the reference RICARDO ANR-06-BLAN-0332 and by Sciences Po Scientific Advisory Board.
-![Sciences Po, médialab](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-medialab.svg)
-![Sciences Po, Centre d'Histoire](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-centre-histoire.svg)
-![funded by l'Agence Nationale de la recherche](http://ricardo.medialab.sciences-po.fr/pprd/img/logotype-anr.png)
+This work has been supported by l’Agence National de la Recherche under the reference RICARDO ANR-06-BLAN-0332 and by Sciences Po Scientific Advisory Board.  
+![Sciences Po, médialab](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-medialab.svg)  
+![Sciences Po, Centre d'Histoire](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-centre-histoire.svg)  
+![funded by l'Agence Nationale de la recherche](http://ricardo.medialab.sciences-po.fr/pprd/img/logotype-anr.png){:height="20%" width="20%"}
