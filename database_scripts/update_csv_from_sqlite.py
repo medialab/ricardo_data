@@ -14,7 +14,7 @@ except Exception as e:
 try:
 	if os.path.isfile(database_filename):
 		print "exporting sqlite database to CSV" 
-		utils.sqlitedatabase2csv(database_filename,"../csv_data")
+		utils.sqlitedatabase2csv(database_filename,"../data")
 except:
 	print "couldn't find target sqlite database file"
 	exit(1)
