@@ -40,9 +40,9 @@ echo "copying ../sqlite_data/$sqlite_viz  to $sqlite_output"
 cp ../sqlite_data/$sqlite_viz $sqlite_output
 # cp exports
 exports_output=$output'/client/data/'
-echo "copying ../db_script/$sources_export_filename  to $exports_output"
-cp ../db_script/$sources_export_filename $exports_output
-echo "copying ../db_script/$RICentities_export_filename  to $exports_output"
-cp ../db_script/$RICentities_export_filename $exports_output
-echo "copying ../db_script/$rates_export_filename  to $exports_output"
+echo "copying ../database_scripts/$sources_export_filename  to $exports_output"
+cp ../database_scripts/$sources_export_filename $exports_output
+echo "copying ../database_scripts/$RICentities_export_filename  to $exports_output"
+cp ../database_scripts/$RICentities_export_filename $exports_output
+echo "copying ../data/$rates_export_filename  to $exports_output"
 cp ../data/exchange_rates.csv $exports_output$rates_export_filename
