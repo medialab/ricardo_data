@@ -7,10 +7,10 @@
   "keywords": ["trade", "history", "economy", "19th century"],
    "created": "2017-12-05T10:03:50.52Z",
   "licenses": [{
-    "url": "http://opendatacommons.org/licenses/pddl/",
-    "name": "Open Data Commons Public Domain",
+    "url": "http://opendatacommons.org/licenses/odbl/",
+    "name": "Open Data Commons Open Database License",
     "version": "1.0",
-    "id": "odc-pddl"
+    "id": "odc-odbl"
   }],
   "sources": [{
     "name": "This dataset has been built using many different sources.",
@@ -25,14 +25,14 @@
   }, {
     "name": "Paul Girard",
     "email": "paul.girard@sciencespo.fr",
-    "web": "http://medialab.sciencespo.fr/people/paulgirard",
+    "web": "http://www.medialab.sciences-po.fr/people/paul-girard/",
     "organization": "Sciences Po, médialab",
     "role": "author"
   }, {
-    "name": "... ? ...",
-    "email": "",
-    "web": "",
-    "organization": "Bordeaux",
+    "name": "Karine Onfroy",
+    "email": "karine.onfroy@u-bordeaux.fr",
+    "web": "www.gretha.u-bordeaux.fr/fr",
+    "organization": "Université de Bordeaux, G.R.E.T.h.A (UMR CNRS 5113)",
     "role": "contributor"
   }],
   "dependencies": {
@@ -43,7 +43,7 @@
     {
     "name":"flows",
     "title":"Trade flows",
-    "description":"",
+    "description":"The trade flows transcribed from sources",
     "format":"csv",
     "encoding":"utf-8",
     "path": "data/flows.csv",
@@ -226,7 +226,7 @@
     {
       "name":"RICentities",
       "title":"RICentites",
-      "description":"RICentites are te unified nomencalture of trade reporting and partner names.",
+      "description":"RICentites are the unified nomencalture of trade reporting and partner names.",
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/RICentities.csv",
@@ -265,7 +265,7 @@
     {
       "name":"entity_names",
       "title":"Entity names",
-      "description":"This table documents how the partner and reporting original names in sources has been translated in a unified nomemclature.",
+      "description":"This table documents how the partner and reporting original names in sources have been translated in a unified nomemclature.",
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/entity_names.csv",

@@ -25,7 +25,7 @@ except:
 	exit(1)
 
 print "building sqlite database from CSV" 
-utils.csv2sqlite("../csv_data/*.csv",database_filename,conf["sqlite_schema"])
+utils.csv2sqlite("../data/*.csv",database_filename,conf["sqlite_schema"])
 
 
 conn=sqlite3.connect(database_filename)
@@ -236,6 +236,16 @@ if len(ids_to_remove)>0:
 
 print "remove species and billions remove species flows when exists"
 print "-------------------------------------------------------------------------"
+
+################################################################################
+# remove "species and billions" remove species flows when exists
+################################################################################
+# Y a t'il pour une même année deux sources primaires et secondaires pour un même reporting
+# Si oui il faut supprimer les flux de la source secondaire pour ce reporting pour cette année
+
+
+
+
 ################################################################################
 # remove duplicates from double source primary and secondary
 ################################################################################

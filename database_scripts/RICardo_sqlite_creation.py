@@ -19,7 +19,7 @@ except:
 	exit(1)
 
 print "building sqlite database from CSV" 
-utils.csv2sqlite("../csv_data/*.csv",database_filename,conf["sqlite_schema"])
+utils.csv2sqlite("../data/*.csv",database_filename,conf["sqlite_schema"])
 
 # conn=sqlite3.connect(database_filename)
 # c=conn.cursor()
