@@ -48,9 +48,8 @@ This folder contains some python and bash scripts used to:
 
 This folder is used to document the data update sessions made:  original files, data update sql queries, notes...
 Note that not all modifications were listed in this folder. To keep track of exhaustive changes made to data, use the historic feature of git.
-  
-  
-  
+
+## supported by
 This work has been supported by l’Agence National de la Recherche under the reference RICARDO ANR-06-BLAN-0332 and by Sciences Po Scientific Advisory Board.  
 ![Sciences Po, médialab](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-medialab.svg)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Sciences Po, Centre d'Histoire](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-centre-histoire.svg)&nbsp;&nbsp;&nbsp;&nbsp; 
