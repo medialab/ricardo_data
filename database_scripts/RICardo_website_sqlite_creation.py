@@ -76,15 +76,15 @@ c.execute("""CREATE TABLE IF NOT EXISTS flow_joined AS
 		r2.slug as reporting_slug,
 		CASE
 			WHEN p2.RICname="World" and world_trade_type="total_estimated" THEN "Worldestimated"
-			WHEN p2.RICname="World" and world_trade_type="total_reporting1" THEN "Worldasreported"
-			WHEN p2.RICname="World" and world_trade_type="total_reporting2" THEN "Worldasreported2"
+			WHEN p2.RICname="World" and world_trade_type="total_reporting" THEN "Worldasreported"
+			WHEN p2.RICname="World" and world_trade_type="total_subreporting" THEN "Worldasreported2"
 			WHEN p2.RICname="World" and world_trade_type is null THEN "Worldundefined"
 			ELSE p2.slug
 		END as partner_slug,
 		CASE
 			WHEN p2.RICname="World" and world_trade_type="total_estimated" THEN "World estimated"
-			WHEN p2.RICname="World" and world_trade_type="total_reporting1" THEN "World as reported"
-			WHEN p2.RICname="World" and world_trade_type="total_reporting2" THEN "World as reported2"
+			WHEN p2.RICname="World" and world_trade_type="total_reporting" THEN "World as reported"
+			WHEN p2.RICname="World" and world_trade_type="total_subreporting" THEN "World as reported2"
 			WHEN p2.RICname="World" and world_trade_type is null THEN "World undefined"
 			ELSE p2.RICname
 		END as partner,
@@ -234,17 +234,53 @@ if len(ids_to_remove)>0:
 	couples %s"""%(len(ids_to_remove),",".join(rps))
 	c.execute("DELETE FROM flow_joined WHERE id IN (%s)"%",".join(ids_to_remove))
 
-print "remove species and billions remove species flows when exists"
+print "remove duplicates from double source primary and secondary"
 print "-------------------------------------------------------------------------"
 
 ################################################################################
-# remove "species and billions" remove species flows when exists
+# remove duplicates from double source primary and secondary
 ################################################################################
 # Y a t'il pour une même année deux sources primaires et secondaires pour un même reporting
 # Si oui il faut supprimer les flux de la source secondaire pour ce reporting pour cette année
 
+c.execute("""SELECT reporting, year, group_concat(DISTINCT type)
+from flow_joined
+WHERE partner not IN ('World estimated', 'World Federico-Tena') AND type != 'FedericoTena'
+GROUP by reporting, year
+HAVING count(DISTINCT source) >1 and count(DISTINCT type) > 1""")
+sub_c=conn.cursor()
+primarysecondaryestimation_duplicates={}
+for reporting, year, gtypes in c:
+	types = sorted(gtypes.split(','))
+	if types == ["primary","secondary"] or types == ["estimation","primary"] or types == ["estimation", "primary","secondary"] :
+		if "secondary" in types:
+			sub_c.execute("""DELETE FROM flow_joined WHERE type='secondary' AND reporting=? AND year=?""",(reporting, year))
+			if reporting in primarysecondaryestimation_duplicates:
+				primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'secondary'))
+			else:
+				primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'secondary')]
+		if "estimation" in types:
+			sub_c.execute("""DELETE FROM flow_joined WHERE type='estimation' AND partner!='World estimated' AND reporting=? AND year=?""",(reporting, year))
+			if reporting in primarysecondaryestimation_duplicates:
+				primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'estimation'))
+			else:
+				primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'estimation')]
+	else:
+		print "/!\ duplicates on more types %s %s %s"%(types, reporting, year)
+for reporting,years in primarysecondaryestimation_duplicates.iteritems():
+		nb_flows_secondary = sum(n for (y,n,t) in years if t=='secondary')
+		years_secondary = (y for (y,n,t) in years if t=='secondary')
+		years_secondary = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_secondary))
+		if nb_flows_secondary > 0 :
+			print "%s: %s secondary flows %s"%(reporting, nb_flows_secondary, years_secondary)
+		nb_flows_estimation = sum(n for (y,n,t) in years if t=='estimation')
+		years_estimation = (y for (y,n,t) in years if t=='estimation')
+		years_estimation = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_estimation))
+		if nb_flows_estimation > 0 :
+			print "%s: %s estimation flows %s"%(reporting,nb_flows_estimation,years_estimation)
 
-
+	
+sub_c.close()
 
 ################################################################################
 # remove duplicates from double source primary and secondary
@@ -411,69 +447,6 @@ for g,d in itertools.groupby(data,lambda _:(_[3],_[0],_[1])):
 
 print "World best guess added to flow_joined", world_best_guess_added
 print "-------------------------------------------------------------------------"
-
-################################################################################
-##			Create table metadata_old
-################################################################################
-
-# print "Create table metadata_old"
-# print "-------------------------------------------------------------------------"
-
-# c.execute("""DROP TABLE IF EXISTS metadata;""")
-# c.execute("""CREATE TABLE IF NOT EXISTS metadata AS
-# 	 		 SELECT tot.reporting_id as reporting_id, tot.reporting as reporting, group_concat(tot.flow,"|") as flow,  group_concat(tot.expimp,"|") as expimp,
-# 			 group_concat(tot.partner,"|") as partner, tot.year as year,
-#              group_concat(tot.type,"|") as sourcetype,  group_concat(tot.source,"|")  as source,count(distinct tot.source) as source_count,
-#              tot.reporting_continent as reporting_continent, tot.reporting_type as reporting_type,"actual" as partnertype,group_concat(mirror_partner,"|") as mirror_partner
-#              from
-#              (SELECT reporting_id, reporting, flow, r.expimp as expimp,
-#              partner as partner, r.year as year, type, source, reporting_continent, reporting_type,(t1.reportings ||"+"|| t1.expimp) as mirror_partner
-#              FROM
-#              (select t.reporting_slug as reporting_id,t.reporting as reporting, sum(t.flow) as flow, t.expimp as expimp, group_concat(t.partner_slug) as partner,
-#              t.year as year, t.reporting_continent as reporting_continent, t.reporting_type as reporting_type,group_concat(distinct t.type) as type,group_concat(distinct t.source)  as source
-#              FROM
-#              (SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, (replace(partner_slug,",","")||"+"||partner_continent) as partner_slug, year, source, type,reporting_continent,reporting_type, expimp
-#              FROM flow_joined
-#              WHERE partner_slug NOT LIKE 'World%' 
-#              AND flow*Unit/rate is not NULL
-#              AND partner_continent is not NULL
-#              GROUP BY  reporting_slug, partner_slug,year,expimp) t
-#              Group by t.reporting_slug, t.year, t.expimp) r
-#              LEFT JOIN
-#              (SELECT group_concat(distinct replace(reporting_slug,",","")) as reportings,partner_slug,year,expimp
-#              FROM flow_joined
-#              Where flow is not NULL
-#              GROUP BY  partner_slug, year,expimp) t1
-#              ON r.reporting_id=t1.partner_slug and r.year =t1.year and r.expimp!=t1.expimp) tot
-#              GROUP BY  tot.reporting_id, tot.year
-#              UNION ALL
-             # SELECT reporting_id,reporting as reporting, group_concat(flow,"|") as flow, group_concat(expimp,"|") as expimp, group_concat(partner,"|") as partner,
-             # year,group_concat(type,"|") as type,group_concat(source,"|")as source, count(distinct source)as source_count,
-             # reporting_continent, reporting_type, "world" as partnertype,group_concat(mirror_partner,"|") as mirror_partner
-             # FROM
-             # (SELECT t.reporting_slug as reporting_id, reporting, flow,  t.expimp as expimp,
-             # t.partner as partner, t.year as year, type, source, reporting_continent, reporting_type,(t1.reportings ||"+"|| t1.expimp) as mirror_partner
-             # FROM
-             # (SELECT reporting, reporting_slug, flow*Unit/ifnull(rate,1) as flow, group_concat(partner,"+") as partner, year,group_concat(source,"+") as source, group_concat(type,"+") as type, reporting_continent,reporting_type, expimp
-             # FROM flow_joined
-             # WHERE flow is not NULL
-             # AND(partner_slug like 'Worldestimated'
-             # OR partner_slug like 'Worldasreported'
-             # OR partner_slug like 'Worldsumpartners'
-             # OR partner_slug like 'WorldFedericoTena')
-             # GROUP BY  reporting_slug,year,expimp) t
-             # LEFT JOIN
-             # (SELECT group_concat(distinct replace(reporting_slug,",","")) as reportings,partner_slug,year,expimp
-             # FROM flow_joined
-             # Where flow*Unit/rate is not NULL
-             # GROUP BY  partner_slug, year,expimp) t1
-             # ON t.reporting_slug=t1.partner_slug and t.year =t1.year and t.expimp!=t1.expimp)
-             # Group by reporting_id, year
-# 			""")
-
-# print "metadata created"
-# print "-------------------------------------------------------------------------"
-
 
 ################################################################################
 ##			Create table metadata bilateral
