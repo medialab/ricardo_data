@@ -52,6 +52,6 @@ Note that not all modifications were listed in this folder. To keep track of exh
 # Work supported by
 
 This work has been supported by l’Agence National de la Recherche under the reference RICARDO ANR-06-BLAN-0332 and by Sciences Po Scientific Advisory Board.  
-![Sciences Po, médialab](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-medialab.svg) 
-![Sciences Po, Centre d'Histoire](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-centre-histoire.svg) 
+![Sciences Po, médialab](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-medialab.svg)&nbsp;&nbsp;&nbsp;&nbsp;
+![Sciences Po, Centre d'Histoire](http://ricardo.medialab.sciences-po.fr/pprd/svg/sciences-po-centre-histoire.svg)&nbsp;&nbsp;&nbsp;&nbsp; 
 <img src="http://ricardo.medialab.sciences-po.fr/pprd/img/logotype-anr.png" width="60" alt="funded by l'Agence Nationale de la recherche">
