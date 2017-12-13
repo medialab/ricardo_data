@@ -1,5 +1,5 @@
 export_import,special_general,modified_export_import,modified_special_general
-exp,0.0,Exp,
+exp,N/A,Exp,
 alemeene invoer,gen,Imp,Gen
 alemeene uitvoer,gen,Exp,Gen
 exp,gen-spe,Re-exp,Gen-Spe
@@ -36,8 +36,8 @@ exp (invoer tot verbruik),gen,Imp,Spe
 exp (uitover uit het vrije verkeer),spe,Exp,Spe
 exp (uitvoer uit het vrije verkeer),spe,Exp,Spe
 exp*,spe,Exp,Spe
-immp,0.0,Imp,
-imp,0.0,Imp,
+immp,N/A,Imp,
+imp,N/A,Imp,
 imp,consumption,Imp,Spe
 imp,foreign produce (merchandise),Imp,Foreign Produce (Merchandise)
 imp,french produce (merchandise),Imp,French Produce (Merchandise)
@@ -70,18 +70,18 @@ imp (algemeene invoer),gen,Imp,Gen
 imp (algemeene uitvoer),spe,Exp,Gen
 imp (invoer tot verbruik),spe,Imp,Spe
 imp**,spe,Imp,Spe
-imp+exp,0.0,Exp+Imp,
-invoer tot verbruik,0.0,Imp,Spe
+imp+exp,N/A,Exp+Imp,
+invoer tot verbruik,N/A,Imp,Spe
 invoer tot verbruik,gen,Imp,Spe
-re-exp,0.0,Re-exp,Gen-Spe
-re-imp,0.0,Re-imp,Gen-Spe
-total,0.0,Exp+Imp,
+re-exp,N/A,Re-exp,Gen-Spe
+re-imp,N/A,Re-imp,Gen-Spe
+total,N/A,Exp+Imp,
 total,gen,Exp+Imp,Gen
 total,spe,Exp+Imp,Spe
-transit,0.0,Re-exp,Gen-Spe
+transit,N/A,Re-exp,Gen-Spe
 uitvoer huit het vrije verkeer,gen,Exp,Spe
 uitvoer uit her vrije verkeer,gen,Exp,Spe
-uitvoer uit het vrije verkeer,0.0,Exp,Spe
+uitvoer uit het vrije verkeer,N/A,Exp,Spe
 uitvoer uit het vrije verkeer,gen,Exp,Spe
 re-exp,gen-spe,Re-exp,Gen-Spe
 exp,?,Exp,
@@ -97,8 +97,8 @@ Exp,Gen,Exp,Gen
 Re-exp,Gen-Spe,Re-exp,Gen-Spe
 Re-exp,Gen,Re-exp,Gen
 Imp,gen,Imp,Gen
-Imp,0.0,Imp,
+Imp,N/A,Imp,
 Exp,spe,Exp,Spe
-Exp,0.0,Exp,
+Exp,N/A,Exp,
 Exp,gen,Exp,Gen
 exp,uitvoer uit het vrije verkeer,Exp,Spe
