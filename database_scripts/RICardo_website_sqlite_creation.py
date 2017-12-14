@@ -106,9 +106,9 @@ c.execute("""CREATE TABLE IF NOT EXISTS flow_joined AS
 			ON c.modified_currency=rate.modified_currency
 			    AND c.year=rate.year
 		LEFT OUTER JOIN entity_names as r1
-			 	ON r1.original_name=f.reporting 
+			 	ON r1.original_name=f.reporting COLLATE NOCASE
 		LEFT OUTER JOIN entity_names as p1
-			 	ON p1.original_name=f.partner 
+			 	ON p1.original_name=f.partner COLLATE NOCASE
 		LEFT OUTER JOIN RICentities as p2
 			 	ON p2.RICname=p1.RICname
 		LEFT OUTER JOIN RICentities as r2
