@@ -21,9 +21,9 @@ def test(cursor):
 							expimp,
 							group_concat(source,'|')
 							from %s
-							WHERE partner not LIKE %s
+							
 							GROUP BY year,expimp,reporting,partner HAVING count(*)>1
-							"""%(flow,"'World%'"))
+							"""%(flow))
 		lines=list(cursor)
 		print len(lines)
 		nb_spe_gen=0
