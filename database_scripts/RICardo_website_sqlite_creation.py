@@ -243,30 +243,45 @@ print "-------------------------------------------------------------------------
 # Y a t'il pour une même année deux sources primaires et secondaires pour un même reporting
 # Si oui il faut supprimer les flux de la source secondaire pour ce reporting pour cette année
 
-c.execute("""SELECT reporting, year, group_concat(DISTINCT type)
+
+print "Filtering duplicated sources which describes same reportings on same years..."
+# the first query gets all sources duplications by reporting and year
+# but duplications on total (World%) trade 
+
+c.execute("""
+SELECT reporting, year, group_concat(DISTINCT type)
 from flow_joined
-WHERE partner not IN ('World estimated', 'World Federico-Tena') AND type != 'FedericoTena'
+WHERE partner not LIKE 'World%' AND type != 'FedericoTena'
 GROUP by reporting, year
-HAVING count(DISTINCT source) >1 and count(DISTINCT type) > 1""")
+HAVING count(DISTINCT source) >1 and count(DISTINCT type) > 1
+""")
+
 sub_c=conn.cursor()
 primarysecondaryestimation_duplicates={}
 for reporting, year, gtypes in c:
 	types = sorted(gtypes.split(','))
-	if types == ["primary","secondary"] or types == ["estimation","primary"] or types == ["estimation", "primary","secondary"] :
-		if "secondary" in types:
-			sub_c.execute("""DELETE FROM flow_joined WHERE type='secondary' AND reporting=? AND year=?""",(reporting, year))
-			if reporting in primarysecondaryestimation_duplicates:
-				primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'secondary'))
-			else:
-				primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'secondary')]
-		if "estimation" in types:
-			sub_c.execute("""DELETE FROM flow_joined WHERE type='estimation' AND partner!='World estimated' AND reporting=? AND year=?""",(reporting, year))
-			if reporting in primarysecondaryestimation_duplicates:
-				primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'estimation'))
-			else:
-				primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'estimation')]
-	else:
+	removed = False
+	# when a secondary source cooccurres with a primary
+	if "secondary" in types and "primary" in types:
+		# remove the secondary
+		sub_c.execute("""DELETE FROM flow_joined WHERE type='secondary' AND reporting=? AND year=?""",(reporting, year))
+		removed = True
+		if reporting in primarysecondaryestimation_duplicates:
+			primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'secondary'))
+		else:
+			primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'secondary')]
+	# when an estimation source cooccurres with a primary
+	if "estimation" in types and ("secondary" in types or "primary" in types):
+		# remove the estimation
+		sub_c.execute("""DELETE FROM flow_joined WHERE type='estimation' AND partner!='World estimated' AND reporting=? AND year=?""",(reporting, year))
+		removed = True
+		if reporting in primarysecondaryestimation_duplicates:
+			primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'estimation'))
+		else:
+			primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'estimation')]
+	if not removed:
 		print "/!\ duplicates on more types %s %s %s"%(types, reporting, year)
+# logging what was done
 for reporting,years in primarysecondaryestimation_duplicates.iteritems():
 		nb_flows_secondary = sum(n for (y,n,t) in years if t=='secondary')
 		years_secondary = (y for (y,n,t) in years if t=='secondary')
@@ -279,41 +294,59 @@ for reporting,years in primarysecondaryestimation_duplicates.iteritems():
 		if nb_flows_estimation > 0 :
 			print "%s: %s estimation flows %s"%(reporting,nb_flows_estimation,years_estimation)
 
-	
+
+
+# this second query gets duplicated 'World as reported' flows due to
+# different sources for the same reportingg / year.
+# Those are not targeted by the first select because some secondary sources only reports total trade.
+
+print "\nFiltering duplicated sources which describes same reportings on same years..."
+
+c.execute("""
+SELECT reporting, year, group_concat(DISTINCT type)
+from flow_joined
+WHERE partner = 'World as reported'
+GROUP by reporting, year
+HAVING count(DISTINCT source) >1 and count(DISTINCT type) > 1""")
+sub_c=conn.cursor()
+primarysecondaryestimation_duplicates={}
+for reporting, year, gtypes in c:
+	types = sorted(gtypes.split(','))
+	removed = False
+	# when a secondary source cooccurres with a primary
+	if "secondary" in types and "primary" in types:
+		# remove the secondary
+		sub_c.execute("""DELETE FROM flow_joined WHERE type='secondary' AND partner = 'World as reported' AND reporting=? AND year=?""",(reporting, year))
+		removed = True
+		if reporting in primarysecondaryestimation_duplicates:
+			primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'secondary'))
+		else:
+			primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'secondary')]
+	# when an estimation source cooccurres with a primary
+	if "estimation" in types and ("secondary" in types or "primary" in types):
+		# remove the estimation
+		sub_c.execute("""DELETE FROM flow_joined WHERE type='estimation' AND partner = 'World as reported' AND reporting=? AND year=?""",(reporting, year))
+		removed = True
+		if reporting in primarysecondaryestimation_duplicates:
+			primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'estimation'))
+		else:
+			primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'estimation')]
+	if not removed:
+		print "/!\ duplicates on more types %s %s %s"%(types, reporting, year)
+# logging what was done
+for reporting,years in primarysecondaryestimation_duplicates.iteritems():
+		nb_flows_secondary = sum(n for (y,n,t) in years if t=='secondary')
+		years_secondary = (y for (y,n,t) in years if t=='secondary')
+		years_secondary = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_secondary))
+		if nb_flows_secondary > 0 :
+			print "%s: %s secondary World as reported flows %s"%(reporting, nb_flows_secondary, years_secondary)
+		nb_flows_estimation = sum(n for (y,n,t) in years if t=='estimation')
+		years_estimation = (y for (y,n,t) in years if t=='estimation')
+		years_estimation = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_estimation))
+		if nb_flows_estimation > 0 :
+			print "%s: %s estimation World as reported flows %s"%(reporting,nb_flows_estimation,years_estimation)
+
 sub_c.close()
-
-################################################################################
-# remove duplicates from double source primary and secondary
-################################################################################
-
-c.execute("""SELECT count(*) as nb,
-	group_concat(type,'|') as source_types, group_concat(ID,'|'),reporting, partner
-	FROM `flow_joined` 
-	GROUP BY year,expimp,reporting,partner HAVING count(*)>1
-	""")#
-ids_to_remove=[]
-rps=[]
-for n,source_types,ids,r,p in c :
-	if n==2 and source_types:
-		source_types = source_types.split("|")
-		if "primary" in source_types:
-			i = source_types.index("primary")
-			other_type = [st for st in source_types if st != "primary"]
-			if i != -1 and len(other_type)>0 and other_type[0] != "primary":
-				id = [id for k,id in enumerate(ids.split("|")) if k!=i][0]
-				ids_to_remove.append(id)
-				rps.append('"%s"'%"|".join((r,p)))
-			## si deux primaire et même flux => drop one
-rps=set(rps)
-
-if len(ids_to_remove)>0:
-	print """removing %s flows duplicated with Primary source for reporting|partner 
-	couples %s"""%(len(ids_to_remove),",".join(rps))
-	c.execute("DELETE FROM flow_joined WHERE id IN (%s)"%",".join(ids_to_remove))
-
-print "remove Primary source duplicates"
-print "-------------------------------------------------------------------------"
-
 
 ################################################################################
 # remove GEN flows when duplicates with SPE flows
