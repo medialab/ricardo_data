@@ -34,6 +34,12 @@
     "web": "www.gretha.u-bordeaux.fr/fr",
     "organization": "Université de Bordeaux, G.R.E.T.h.A (UMR CNRS 5113)",
     "role": "contributor"
+  }, {
+    "name": "Jung-Hyun Ahn",
+    "email": "Jung-Hyun.AHN@neoma-bs.fr",
+    "web": "www.neoma-bs.fr",
+    "organization": "Neoma Business School",
+    "role": "contributor"
   }],
   "dependencies": {
     "data-package-name": ">=1.0"
