@@ -12,7 +12,7 @@ Dedinger, Béatrice, et Paul Girard. 2017. « Exploring trade globalization in t
 <a href="http://ricardo.medialab.sciences-po.fr/Dedinger_Girard_RICardo_HistoricalMethods_revised.pdf" target="_blank">our preprint version: 01-May-2016</a></p>
 
 ## How to cite
-![DOI/10.5281/zeonod.1119592](https://zenodo.org/badge/DOI/10.5281/zenodo.1119592.svg)
+![DOI/10.5281/zeonod.1119592](https://zenodo.org/badge/DOI/10.5281/zenodo.1119592.svg)  
 Béatrice Dedinger, & Paul Girard. (2017). RICardo dataset 2017.12 (Version 2017.12) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.1119592
 
 ## license
