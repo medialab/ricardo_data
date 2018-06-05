@@ -21,7 +21,6 @@ Afghanistan & Iran (Persia),group,Asia,,
 Afghanistan & Iran (Persia) & Asian Turkey,group,Asia,,Afghanistan_IranPersia_AsianTurkey
 Africa,geographical_area,Africa,,Africa
 Africa (other),geographical_area,Africa,,Africaother
-Africa & Azores (Western Isles),group,World,,Africa_AzoresWesternIsles
 Africa & Cape Colony,group,Africa,,Africa_CapeColony
 Africa Coast,geographical_area,Africa,,AfricaCoast
 Africa Coast (West) (other),geographical_area,Africa,,
@@ -191,7 +190,7 @@ Austria-Hungary harbours in Adriatic,city/part_of,Europe,,Austria-Hungaryharbour
 Austria-Hungary Ports (Adriatic),group,Europe,,
 Austria-Hungary Ports & Trieste,group,Europe,,
 Azores (Western Isles),country,Europe,400,AzoresWesternIsles
-Azores (Western Isles) & Africa Coast (West),group,World,,
+Azores (Western Isles) & Africa Coast (West),geographical_area,World,,
 Azores (Western Isles) & Cape Verde & Madeira Isles,group,World,,AzoresWesternIsles_CapeVerde_MadeiraIsles
 Azores (Western Isles) & Madeira Isles,group,World,,AzoresWesternIsles_MadeiraIsles
 Azores (Western Isles) & Madeira Isles & Portugal,group,World,,AzoresWesternIsles_MadeiraIsles_Portugal
