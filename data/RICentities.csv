@@ -142,8 +142,8 @@ Armenia,country,Europe,371,
 Armenia & Kurdistan,group,Europe,,
 Aruba,country,America,1069,Aruba
 Aruba & Bonaire,group,America,,Aruba_Bonaire
-Ascension I.,country,Africa,4070,AscensionI.
-Ascension I. & St. Helena,group,Africa,,AscensionI._St.Helena
+Ascension I.,country,Atlantic Ocean,4070,AscensionI.
+Ascension I. & St. Helena,group,Atlantic Ocean,,AscensionI._St.Helena
 Ashmore and Cartier Is,country,Oceania,9008,
 Asia,geographical_area,Asia,,Asia
 Asia (other),geographical_area,Asia,,Asiaother
@@ -210,7 +210,7 @@ Balaklava,city/part_of,Europe,,Balaklava
 Balearic Islands,city/part_of,Europe,,BalearicIslands
 Balearic Islands & Spain,group,Europe,,BalearicIslands_Spain
 Bali,country,Asia,8541,Bali
-Bali & Lombok,group,World,,Bali_Lombok
+Bali & Lombok,group,Asia,,Bali_Lombok
 Bali & Lombok & Sumbawa,group,Asia,,Bali_Lombok_Sumbawa
 Balkans,geographical_area,Europe,,Balkans
 Baltic harbours,city/part_of,Baltic,,Balticharbours
@@ -233,7 +233,7 @@ Barbary Coast & Egypt/United Arab Republic,group,Africa,,BarbaryCoast_EgyptUnite
 Barcelona,city/part_of,Europe,,Barcelona
 Basra,city/part_of,Asia,,Basra
 Bassein River,city/part_of,Asia,,BasseinRiver
-Bathurst,city/part_of,Africa,,Bathurst
+Bathurst,city/part_of,America,,Bathurst
 Bavaria,country,Europe,245,Bavaria
 Bavaria & Frankfurt & Saxony,group,Europe,,Bavaria_Frankfurt_Saxony
 Bavaria & Saxony,group,Europe,,Bavaria_Saxony
@@ -255,14 +255,14 @@ Belize (British Honduras) & British Virgin Is.,group,America,,BelizeBritishHondu
 Belize (British Honduras) & British Virgin Is. & Guyana (Br. Guiana),group,America,,BelizeBritishHonduras_BritishVirginIs._GuyanaBr.Guiana
 Belize (British Honduras) & British West Indies,group,America,,
 Belize (British Honduras) & British West Indies & Guyana (Br. Guiana),group,America,,
-Benadir,city/part_of,Africa,,Benadir
-Bender Kassim,city/part_of,Africa,,BenderKassim
+Banadir,city/part_of,Africa,,Banadir
+Bosaso,city/part_of,Africa,,Bosaso
 Bengal,geographical_area,Asia,,Bengal
 Bengal & Burma (Myanmar),group,Asia,,Bengal_BurmaMyanmar
 Bengal & India & Persian Gulf,group,Asia,,Bengal_India_PersianGulf
 Bengal & Sri Lanka (Ceylon),group,Asia,,Bengal_SriLankaCeylon
 Benghazi,city/part_of,Africa,,Benghazi
-Benghazi & Libya (Tripolitania Cyrenaica Fezzan),group,Africa,,
+Benghazi & Tripoli,city/part_of,Africa,,
 Benin (Dahomey),country,Africa,434,BeninDahomey
 Berbera,city/part_of,Africa,,Berbera
 Berbera & Bulhar,group,Africa,,Berbera_Bulhar
@@ -276,8 +276,8 @@ Bhutan & Nepal,group,Asia,,
 Bihar,city/part_of,Asia,,Bihar
 Bilbao,city/part_of,Europe,,Bilbao
 Billiton Is.,country,Asia,,
-Bintang,city/part_of,Asia,,Bintang
-Bismarck Archipelago,city/part_of,Oceania,,BismarckArchipelago
+Bintan Island,city/part_of,Asia,,
+Bismarck Archipelago (New Britain) (Neupommern),city/part_of,Oceania,,
 Black Sea,city/part_of,Europe,,BlackSea
 Black Sea & Levant,geographical_area,World,,
 Black Sea European harbours,city/part_of,Europe,,BlackSeaEuropeanharbours
@@ -288,8 +288,8 @@ Bolivia,country,America,145,Bolivia
 Bolivia & Peru,group,America,,Bolivia_Peru
 Bonaire,country,America,1066,Bonaire
 Bordeaux,city/part_of,Europe,,Bordeaux
-Borneo,city/part_of,Asia,,Borneo
-Borneo & Java,group,Asia,,Borneo_Java
+Banjermassin (Dutch Borneo) & Brunei & Sabah (North Borneo) & Sarawak,group,Asia,,
+Banjermassin (Dutch Borneo) & Brunei & Sabah (North Borneo) & Sarawak & Java,group,Asia,,Borneo_Java
 Borneo & Malaysia (Malaya),group,Asia,,Borneo_MalaysiaMalaya
 Bosnia,country,Europe,3461,Bosnia
 Bosnia-Herzegovina,country,Europe,346,Bosnia-Herzegovina
@@ -411,7 +411,7 @@ Burma (Myanmar) & India,group,Asia,,BurmaMyanmar_India
 Burma (Myanmar) & India & Straits Settlements,group,Asia,,BurmaMyanmar_India_StraitsSettlements
 Burma (Myanmar) & Malacca & Singapore,group,Asia,,BurmaMyanmar_Malacca_Singapore
 Busia,city/part_of,Africa,,Busia
-Bussarah,city/part_of,Asia,,Bussarah
+Basra,city/part_of,Asia,,
 Cadix,city/part_of,Europe,,Cadix
 California (Great Bear Republic),country,America,1014,CaliforniaGreatBearRepublic
 Callao,city/part_of,America,,Callao
@@ -472,7 +472,7 @@ Chafarinas,country,Africa,6063,Chafarinas
 Chania,city/part_of,Europe,,Chania
 Channel Is.,city/part_of,Europe,,ChannelIs.
 Channel Is. & Isle of Man,group,Europe,,ChannelIs._IsleofMan
-Channel Is. & South Africa,group,World,,
+United Kingdom & Channel Is.,group,Europe,,
 Chennai (Madras),city/part_of,Asia,,ChennaiMadras
 Chennai (Madras) & Indian Coast,group,Asia,,ChennaiMadras_IndianCoast
 Chennai (Madras) & Kolkata (Calcutta),group,Asia,,ChennaiMadras_KolkataCalcutta
@@ -628,7 +628,7 @@ Denmark & Virgin Islands,group,World,,Denmark_VirginIslands
 Denmark & Virgin Islands (Danish West Indies),group,World,,
 Denmark harbours,city/part_of,Europe,,Denmarkharbours
 Denmark Ports,city/part_of,Europe,,
-Diarbekir,city/part_of,Asia,,Diarbekir
+Diyarbakir,city/part_of,Asia,,
 Djibouti (Afar and Issas) (French Somaliland),country,Africa,522,DjiboutiAfarandIssasFrenchSomaliland
 Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,group,Africa,,
 Djibouti (Afar and Issas) (French Somaliland) & Obock,group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_Obock
@@ -841,7 +841,6 @@ Gibraltar & United Kingdom,group,Europe,,Gibraltar_UnitedKingdom
 Gijón,city/part_of,Europe,,Gijón
 Gilbert and Ellice Is.,country,Oceania,945,GilbertandElliceIs.
 Gilbert and Ellice Is. & Kiribati,group,Oceania,,GilbertandElliceIs._Kiribati
-Gilbert Is.,city/part_of,Oceania,,
 Gold Coast-Togoland (Neutral Zone),country,Africa,4559,
 Gonaïves,city/part_of,America,,Gonaïves
 Goree,country,Africa,4338,Goree
@@ -1069,7 +1068,7 @@ Leeward Is.,country,America,1063,LeewardIs.
 Les Cayes,city/part_of,America,,LesCayes
 Lesotho (Basutoland),country,Africa,570,LesothoBasutoland
 Levant,geographical_area,Asia,,Levant
-Levant & Europe,group,World,,Levant_Europe
+Europe & Levant,geographical_area,World,,Levant_Europe
 Levant & Turkey,group,Asia,,
 Liberia,country,Africa,450,Liberia
 Libya (Tripolitania Cyrenaica Fezzan),country,Africa,620,LibyaTripolitaniaCyrenaicaFezzan
@@ -1116,7 +1115,7 @@ Malacca & Penang,group,Asia,,Malacca_Penang
 Malacca & Penang & Singapore,group,Asia,,Malacca_Penang_Singapore
 Málaga,city/part_of,Europe,,Málaga
 Malagasy Republic (Madagascar),country,Africa,580,MalagasyRepublicMadagascar
-Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies,group,World,,
+Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies,group,Africa,,
 Malagasy Republic (Madagascar) & Mayotte & Nossi Be,group,Africa,,
 Malagasy Republic (Madagascar) & St. Marie de Madagascar & Mayotte & Nossi Be,group,Africa,,MalagasyRepublicMadagascar_St.MariedeMadagascar_Mayotte_NossiBe
 Malawi (Nyasaland),country,Africa,553,MalawiNyasaland
@@ -1140,7 +1139,6 @@ Manchukuo,country,Asia,711,
 Manchuria,country,Asia,7111,Manchuria
 Manila,city/part_of,Asia,,Manila
 Manitoba,city/part_of,America,,Manitoba
-Maputo,city/part_of,Africa,,
 Maputo Bay (Delagoa Bay),city/part_of,Africa,,MaputoBayDelagoaBay
 Maranhão,city/part_of,America,,Maranhão
 Mariana Is.,country,Oceania,9820,MarianaIs.
@@ -1499,7 +1497,6 @@ Saona Island,city/part_of,America,,SaonaIsland
 Sarawak,country,Asia,824,Sarawak
 Sardinia,city/part_of,Europe,,Sardinia
 Saudi Arabia (Kingdom of Hejaz and Nedj),country,Asia,670,
-Saudi Arabia (Kingdom of Hejaz and Nedj) & Saudi Arabia (Kingdom of Hejaz and Nedj) Dependencies & Yemen,group,World,,
 Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen,group,Asia,,
 Savoy,city/part_of,Europe,,Savoy
 Saxe Altenburg,country,Europe,262,SaxeAltenburg
@@ -1600,7 +1597,7 @@ St. Croix,city/part_of,America,,St.Croix
 St. Croix & St. Jan & St. Thomas,group,America,,St.Croix_St.Jan_St.Thomas
 St. Croix & St. Thomas,group,America,,St.Croix_St.Thomas
 St. David,city/part_of,Asia,,St.David
-St. Helena,country,Africa,4050,St.Helena
+St. Helena,country,Atlantic Ocean,4050,St.Helena
 St. Jan,city/part_of,America,,St.Jan
 St. Kitts,country,America,1075,St.Kitts
 St. Kitts-Nevis,country,America,60,St.Kitts-Nevis
@@ -1692,7 +1689,7 @@ Turkey & Egypt/United Arab Republic & Greece,group,World,,Turkey_EgyptUnitedArab
 Greece & Turkey & Romania,group,World,,
 Turkey & Middle-East,group,World,,Turkey_Middle-East
 Turkey & Syria,group,World,,Turkey_Syria
-Turkey & Western Anatolia,group,World,,Turkey_WesternAnatolia
+Turkey & Western Anatolia,group,Asia,,Turkey_WesternAnatolia
 Turkish harbours,city/part_of,Asia,,Turkishharbours
 Turkish harbours & Hejaz Sultanate,group,Asia,,Turkishharbours_HejazSultanate
 Turkish Ports,city/part_of,Asia,,
@@ -1767,7 +1764,7 @@ World (via Lubeck),geographical_area,World,,WorldviaLubeck
 Xiamen,city/part_of,Asia,,Xiamen
 Yemen,country,Asia,679,
 Yokohama,city/part_of,Asia,,Yokohama
-Yugoslavia,country,Europe,345,Yugoslavia
+Yugoslavia/Serbia,country,Europe,345,Yugoslavia
 Zaire (Kinshasa) (Belgian Congo),country,Africa,490,ZaireKinshasaBelgianCongo
 Zambia (Northern Rhodesia),country,Africa,551,ZambiaNorthernRhodesia
 Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,
@@ -1781,3 +1778,6 @@ British North and Central America,colonial_area,America,,
 Alsace-Lorraine,city/part_of,Europe,,
 Algeria (other),city/part_of,Africa,,
 Saint-Louis,city/part_of,Africa,,
+Sabah (North Borneo) & Sarawak,group,Asia,,
+Hanse Towns & German Ports,group,Europe,,
+Hanse Towns,country,Europe,255H,
