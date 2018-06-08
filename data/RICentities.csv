@@ -509,7 +509,7 @@ Chinese Treaty Ports,city/part_of,Asia,,
 Chinese Treaty Ports & Hong Kong,group,Asia,,
 Chios,city/part_of,Europe,,
 Chittagong,city/part_of,Asia,,Chittagong
-Chittagong & Rakhine State & Tanintharyi Region,group,Asia,,Chittagong_RakhineState_TanintharyiRegion
+Chittagong & Arakan & Tanintharyi Region,group,Asia,,
 Christmas I.,country,Asia,9001,ChristmasI.
 Civitavecchia,city/part_of,Europe,,Civitavecchia
 Clarke Is.,city/part_of,Oceania,,
@@ -1209,11 +1209,10 @@ Mumbai (Bombay) & other harbours,group,Asia,,MumbaiBombay_otherharbours
 Mumbai (Bombay) & other Ports,group,Asia,,
 Mumbai (Bombay) & Sind,group,Asia,,MumbaiBombay_Sind
 Mumbai harbours (other),city/part_of,Asia,,Mumbaiharboursother
-Muscat,city/part_of,Asia,,Muscat
-Muscat & Kuweit & Oman & United Arab Emirates (Trucial Oman),group,Asia,,
-Muscat & Oman,group,Asia,,Muscat_Oman
-Muscat & United Arab Emirates (Trucial Oman),group,Asia,,
-Muscat & Zanzibar,group,World,,Muscat_Zanzibar
+Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuweit,group,Asia,,
+Oman (Muscat and Oman),country,Asia,698,
+Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,
+Oman (Muscat and Oman) & Zanzibar,group,World,,
 Nagapattinam,city/part_of,Asia,,Nagapattinam
 Nagore,city/part_of,Asia,,Nagore
 Nantes,city/part_of,Europe,,Nantes
@@ -1296,7 +1295,7 @@ Odessa,country,Europe,3694,
 Odisha,city/part_of,Asia,,Odisha
 Oldenburg,country,Europe,257,Oldenburg
 Oldenburg & Prussia,group,Europe,,Oldenburg_Prussia
-Oman,country,Asia,698,Oman
+Oman (Muscat and Oman),country,Asia,698,
 Ontario (Upper Canada),country,America,1026,OntarioUpperCanada
 Ontario (Upper Canada) & Quebec (Lower Canada),group,America,,OntarioUpperCanada_QuebecLowerCanada
 Orange Free State (Orange River Colony),country,Africa,564,OrangeFreeStateOrangeRiverColony
@@ -1419,7 +1418,7 @@ Quebec (Lower Canada) & Ontario (Upper Canada) & Manitoba & Rupert's Land & Nort
 Queensland,country,Oceania,905,Queensland
 Quelimane,city/part_of,Africa,,Quelimane
 Ragusa,city/part_of,Europe,,
-Rakhine State,city/part_of,Asia,,RakhineState
+Arakan,city/part_of,Asia,,
 Rangoon,city/part_of,Asia,,Rangoon
 Red Sea,geographical_area,Red Sea,,RedSea
 Red Sea harbours in Africa,city/part_of,Africa,,RedSeaharboursinAfrica
@@ -1513,7 +1512,7 @@ Seal Island,city/part_of,Africa,,SealIsland
 Selangor,country,Asia,8202,Selangor
 Senegal,country,Africa,433,Senegal
 Senegal & Goree,group,Africa,,Senegal_Goree
-Senegal & West Africa,group,Africa,,Senegal_WestAfrica
+Senegal & French West Africa,group,Africa,,
 Setúbal,city/part_of,Europe,,Setúbal
 Seychelles,country,Africa,591,Seychelles
 Shangai,city/part_of,Asia,,Shangai

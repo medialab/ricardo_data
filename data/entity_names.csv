@@ -236,17 +236,17 @@ arabia (by sea) and gulf ports,Arabie (par mer) et Golfe Persique (Ports),Arabia
 arabia (exclusive of aden),Arabie (sauf Aden),Arabia (other)
 arabia (including arabian gulf ports),Arabie et Golfe Persique (Ports),Arabia & Persian Gulf Ports
 arabia (land trade),Arabie (par terre),Arabia (land)
-arabia (muscat),Arabie (Muscat),Muscat
+arabia (muscat),Arabie (Muscat),Oman (Muscat and Oman)
 arabia (or red sea ports),Arabie (Ports de la Mer Rouge),Red Sea Ports in Arabia
 arabia : aden,Aden,Aden
 arabia : eooria mooria islands,Arabia : Kooria Mooria Islands,Kooria Mooria Islands
 arabia : kooria mooria islands,Arabia : Kooria Mooria Islands,Kooria Mooria Islands
-arabia : muscat,Arabie (Muscat),Muscat
-arabia : muscat territory and truckal oman,Arabie (Muscat et Trucal Oman),Muscat & United Arab Emirates (Trucial Oman)
+arabia : muscat,Arabie (Muscat),Oman (Muscat and Oman)
+arabia : muscat territory and truckal oman,Arabie (Muscat et Trucal Oman),Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman)
 arabia : other native states,Arabie (Autres Etats indépendants),Arabia (other)
 arabia other native states,Arabie (Autres Etats indépendants),Arabia (other)
 arabia other states,Arabie (Autre),Arabia (other)
-"arabia, muscat",Arabie (Muscat),Muscat
+"arabia, muscat",Arabie (Muscat),Oman (Muscat and Oman)
 "arabia, native states",Arabie (Etats indépendants),Arabia (other)
 "arabia, other native states",Arabie (Autres Etats indépendants),Arabia (other)
 "arabia, other states",Arabie (Autre),Arabia (other)
@@ -2409,8 +2409,8 @@ martinique,Martinique,Martinique
 martinique (ile de la),Martinique,Martinique
 "martinique (ile de la), guadeloupe et ile de la réunion",Martinique et Guadeloupe et Réunion,Guadeloupe & Martinique & Reunion
 martinique (la),Martinique,Martinique
-mascate et zanzibar,Zanzibar et Mascate,Oman & Zanzibar
-"mascate, zanzibar",Zanzibar et Mascate,Oman & Zanzibar
+mascate et zanzibar,Zanzibar et Mascate,Oman (Muscat and Oman) & Zanzibar
+"mascate, zanzibar",Zanzibar et Mascate,Oman (Muscat and Oman) & Zanzibar
 massa et carrare,"Italie (Toscane, Massa et Carrare)",Massa and Carrara
 maurice,Maurice,Mauritius
 maurice (île),Maurice,Mauritius
@@ -2740,8 +2740,8 @@ oldenbrug,Oldenbourg,Oldenburg
 oldenburg,Oldenbourg,Oldenburg
 oldenburg and kniphausen,Oldenbourg et Kniphausen,Kniphausen & Oldenburg
 oldenburgh and kniphausen (germany),Oldenbourg et Kniphausen,Kniphausen & Oldenburg
-oman,Oman,Oman
-oman and muscat,Oman et Arabie (Muscat),Oman & United Arab Emirates (Trucial Oman)
+oman,Oman,Oman (Muscat and Oman)
+oman and muscat,Oman et Arabie (Muscat),Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman)
 ontario and quebec,Québec et Ontario,Ontario (Upper Canada) & Quebec (Lower Canada)
 ontario and quebec (north america),Québec et Ontario,Ontario (Upper Canada) & Quebec (Lower Canada)
 ontario and quebec/new brunswick/nova scotia/prince edward island,Québec et Ontario et Nouvelle-Ecosse et Nouveau-Brunswick et Ile du Prince Edouard,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada)
@@ -4766,7 +4766,7 @@ marruecos francés,Marruecos francés,Morocco
 "marruecos, z.i","Marruecos, Z.I",Tangier
 marshall islands,Marshall Islands,Marshall Is.
 martinica,Martinica,Martinique
-maskat territory and trucial oman,Muscat Territory and Trucial Oman,Oman & United Arab Emirates (Trucial Oman)
+maskat territory and trucial oman,Muscat Territory and Trucial Oman,Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman)
 mauricia,Mauritius,Mauritius
 mauricio,Mauritius,Mauritius
 mauricios,Mauricios,Mauritius
@@ -4787,8 +4787,8 @@ mombaça,Mombassa,Mombassa
 monténegro,Monténegro,Montenegro
 morocco and algeria,Morocco and Algeria,Algeria & Morocco
 moçambique,Moçambique,Mozambique
-muscat territory and trucial oman,Muscat Territory and Trucial Oman,Oman & United Arab Emirates (Trucial Oman)
-"muscat and oman, trucial oman and koweit","Muscat and Oman, Trucial Oman and Koweit",Oman & United Arab Emirates (Trucial Oman)
+muscat territory and trucial oman,Muscat Territory and Trucial Oman,Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman)
+"muscat and oman, trucial oman and koweit","Muscat and Oman, Trucial Oman and Koweit",Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuweit
 mónaco,Mónaco,Monaco
 naples-sicile,Naples-Sicile,Naples & Sicily
 nauru and western samoa,Nauru and Western Samoa,Nauru & Western Samoa
