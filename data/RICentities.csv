@@ -121,8 +121,8 @@ Arabia & Persian Gulf harbours & Red Sea,geographical_area,Asia,,Arabia_PersianG
 Arabia & Persian Gulf Ports,geographical_area,Asia,,,
 Arabia & Persian Gulf Ports & Red Sea,geographical_area,Asia,,,
 Aracan,city/part_of,Asia,,Aracan,Burma (Myanmar)
-Aracan & Bago (Pegu) & Mawlamyine & Rangoon,group,Asia,,Aracan_BagoPegu_Mawlamyine_Rangoon,Burma (Myanmar)
-Aracan & Tanintharyi Region,group,Asia,,Aracan_TanintharyiRegion,Burma (Myanmar)
+Arakan & Bago (Pegu) & Mawlamyine & Rangoon,group,Asia,,,Burma (Myanmar)
+Arakan & Tanintharyi Region,group,Asia,,Aracan_TanintharyiRegion,Burma (Myanmar)
 Archipel,city/part_of,Europe,,Archipel,
 Arctic,geographical_area,Arctic,,Arctic,
 Arctic & Greenland & North Sea,geographical_area,World,,Arctic_Greenland_NorthSea,
@@ -308,11 +308,11 @@ Bremen,country,Europe,246,Bremen,
 Bremen & German harbours & Hamburg & Lubeck,group,Europe,,Bremen_Germanharbours_Hamburg_Lubeck,
 Bremen & German Ports & Hamburg & Lubeck,group,Europe,,,
 Bremen & Hamburg,group,Europe,,Bremen_Hamburg,
-Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,group,Europe,,Bremen_Hamburg_Hanover_Heligoland_Kniphausen_Lubeck_MecklenburgSchwerin_Oldenburg,
+Hanse Towns & Hanover & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Bremen_Hamburg_Hanover_Heligoland_Kniphausen_Lubeck_MecklenburgSchwerin_Oldenburg,
 Bremen & Hamburg & Hanover & Lubeck,group,Europe,,Bremen_Hamburg_Hanover_Lubeck,
 Bremen & Hamburg & Lubeck,group,Europe,,Bremen_Hamburg_Lubeck,
-Bremen & Hamburg & Lubeck & Netherlands,group,Europe,,Bremen_Hamburg_Lubeck_Netherlands,
-Bremen & Hamburg & Lubeck & Prussia,group,Europe,,Bremen_Hamburg_Lubeck_Prussia,
+Hanse Towns & Netherlands,group,Europe,,,
+Hanse Towns & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
 Bremen & Lubeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
@@ -411,7 +411,6 @@ Burma (Myanmar) & India,group,Asia,,BurmaMyanmar_India,
 Burma (Myanmar) & India & Straits Settlements,group,Asia,,BurmaMyanmar_India_StraitsSettlements,
 Burma (Myanmar) & Malacca & Singapore,group,Asia,,BurmaMyanmar_Malacca_Singapore,
 Busia,city/part_of,Africa,,Busia,
-Basra,city/part_of,Asia,,,Iraq (Mesopotamia)
 Cadix,city/part_of,Europe,,Cadix,Spain
 California (Great Bear Republic),country,America,1014,CaliforniaGreatBearRepublic,
 Callao,city/part_of,America,,Callao,Peru
@@ -1101,7 +1100,7 @@ Macquarie I.,country,Oceania,9006,,
 Malagasy Republic (Madagascar) Dependencies,city/part_of,Africa,,,Malagasy Republic (Madagascar)
 Madeira Isles,country,Africa,401,MadeiraIsles,
 Madeira Isles & Portugal,group,World,,MadeiraIsles_Portugal,
-Madeira Isles & Tenerife,group,Africa,,MadeiraIsles_Tenerife,
+Madeira Isles & Canary Is.,group,Africa,,MadeiraIsles_Tenerife,
 Madura Island,city/part_of,Asia,,MaduraIsland,Indonesia (Dutch East Indies)
 Makatea Is.,city/part_of,Oceania,,,French Polynesia
 Makran,city/part_of,Asia,,Makran,Pakistan
@@ -1115,7 +1114,7 @@ Málaga,city/part_of,Europe,,Málaga,Spain
 Malagasy Republic (Madagascar),country,Africa,580,MalagasyRepublicMadagascar,
 Malagasy Republic (Madagascar) & Malagasy Republic (Madagascar) Dependencies,group,Africa,,,Malagasy Republic (Madagascar)
 Malagasy Republic (Madagascar) & Mayotte & Nossi Be,group,Africa,,,
-Malagasy Republic (Madagascar) & St. Marie de Madagascar & Mayotte & Nossi Be,group,Africa,,MalagasyRepublicMadagascar_St.MariedeMadagascar_Mayotte_NossiBe,Malagasy Republic (Madagascar)
+Malagasy Republic (Madagascar) & St. Marie de Madagascar & Mayotte & Nossi Be,group,Africa,,MalagasyRepublicMadagascar_St.MariedeMadagascar_Mayotte_NossiBe,
 Malawi (Nyasaland),country,Africa,553,MalawiNyasaland,
 Malawi (Nyasaland) & Straits Settlements,group,World,,MalawiNyasaland_StraitsSettlements,
 Malawi (Nyasaland) & Straits Settlements & Straits Settlements Dependencies,group,World,,,
@@ -1504,14 +1503,13 @@ Seal Island,city/part_of,Africa,,SealIsland,Cape Colony
 Selangor,country,Asia,8202,Selangor,
 Senegal,country,Africa,433,Senegal,
 Senegal & Goree,group,Africa,,Senegal_Goree,Senegal
-Senegal & French West Africa,group,Africa,,,NULL
-Arakan,city/part_of,Asia,,,NULL
-Oman (Muscat and Oman),country,Asia,698,,NULL
-Oman (Muscat and Oman) & Zanzibar,group,World,,,NULL
-Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,,NULL
-Oman (Muscat and Oman),country,Asia,698,,NULL
-Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuweit,group,Asia,,,NULL
-Chittagong & Arakan & Tanintharyi Region,group,Asia,,,NULL
+Senegal & French West Africa,group,Africa,,,French West Africa
+Arakan,city/part_of,Asia,,,Burma (Myanmar)
+Oman (Muscat and Oman),country,Asia,698,,
+Oman (Muscat and Oman) & Zanzibar,group,World,,,
+Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,,
+Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuweit,group,Asia,,,
+Chittagong & Arakan & Tanintharyi Region,group,Asia,,,India
 Setúbal,city/part_of,Europe,,Setúbal,Portugal
 Seychelles,country,Africa,591,Seychelles,
 Shangai,city/part_of,Asia,,Shangai,China (People's Republic of China)
@@ -1562,7 +1560,7 @@ Spain (Atlantic Coast),city/part_of,Europe,,,Spain
 Spain (Foreign flag),city/part_of,Europe,,,Spain
 Spain (Mediterranean Coast),city/part_of,Europe,,,Spain
 Spain (Spanish flag),country,Europe,230,SpainSpanishflag,Spain
-Spain & Italy & Europe (other),group,Europe,,Spain_Italy_Europeother,
+Spain & Italy & Europe (other),geographical_area,Europe,,Spain_Italy_Europeother,
 Spain & Spanish Antilles,group,World,,Spain_SpanishAntilles,
 Spain & Spanish Colonies,group,World,,Spain_SpanishColonies,
 Spain & Spanish Dependencies,group,World,,,
@@ -1602,7 +1600,7 @@ St. Kitts-Nevis,country,America,60,St.Kitts-Nevis,
 St. Lucia,country,America,56,St.Lucia,
 St. Lucia & Tobago,group,America,,,
 St. Marie de Madagascar,country,Africa,5803,St.MariedeMadagascar,
-St. Marie de Madagascar & Mayotte & Nossi Be,group,Africa,,St.MariedeMadagascar_Mayotte_NossiBe,Malagasy Republic (Madagascar)
+St. Marie de Madagascar & Mayotte & Nossi Be,group,Africa,,St.MariedeMadagascar_Mayotte_NossiBe,
 St. Pierre and Miquelon,country,America,1029,St.PierreandMiquelon,
 St. Pierre and Miquelon & French Guyana,group,America,,St.PierreandMiquelon_FrenchGuyana,
 St. Thomas,city/part_of,America,,St.Thomas,Virgin Islands (Danish West Indies)
@@ -1726,7 +1724,6 @@ Viceroyalty of La Plata harbours,city/part_of,America,,ViceroyaltyofLaPlataharbo
 Viceroyalty of La Plata Ports,city/part_of,America,,,Viceroyalty of La Plata
 Victoria,country,Oceania,904,Victoria,
 Vietnam,country,Asia,815,Vietnam,
-Virgin Islands (Danish West Indies),country,America,5,VirginIslands,
 Virgin Islands (Danish West Indies),country,America,5,,
 Vladivostok,city/part_of,Asia,,Vladivostok,Russia/USSR
 Wallachia,country,Europe,3362,Wallachia,
@@ -1779,3 +1776,4 @@ Saint-Louis,city/part_of,Africa,,,Senegal
 Sabah (North Borneo) & Sarawak,group,Asia,,,
 Hanse Towns & German Ports,group,Europe,,,
 Hanse Towns,country,Europe,255H,,
+Mayotte & Nossi Be,group,Africa,,,
