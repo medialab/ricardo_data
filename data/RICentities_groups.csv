@@ -43,8 +43,6 @@ id,RICname_group,RICname_part
 42,East India Company & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
 43,Denmark & St. Thomas,Denmark
 44,Denmark & St. Thomas,St. Thomas
-45,Borneo & Malaysia (Malaya),Borneo
-46,Borneo & Malaysia (Malaya),Malaysia (Malaya)
 47,Belgium & Netherlands,Belgium
 48,Belgium & Netherlands,Netherlands
 49,Australia & Western Australia,Australia
@@ -66,12 +64,6 @@ id,RICname_group,RICname_part
 65,Denmark & Faeroe Is. & Iceland,Denmark
 66,Denmark & Faeroe Is. & Iceland,Faeroe Is.
 67,Denmark & Faeroe Is. & Iceland,Iceland
-68,Bremen & Hamburg & Lubeck & Netherlands,Bremen
-69,Bremen & Hamburg & Lubeck & Netherlands,Hamburg
-70,Bremen & Hamburg & Lubeck & Netherlands,Lubeck
-71,Bremen & Hamburg & Lubeck & Netherlands,Netherlands
-72,Algiers & Tunis,Algiers
-73,Algiers & Tunis,Tunis
 74,Africa & Cape Colony,Africa
 75,Africa & Cape Colony,Cape Colony
 76,Jakarta (Batavia) & Singapore,Jakarta (Batavia)
@@ -129,8 +121,6 @@ id,RICname_group,RICname_part
 130,China (People's Republic of China) & East Indies,East Indies
 131,Brazil & Colombia (Gran Colombia),Brazil
 132,Brazil & Colombia (Gran Colombia),Colombia (Gran Colombia)
-133,Arabia (sea) & Persian Gulf harbours,Arabia (sea)
-134,Arabia (sea) & Persian Gulf harbours,Persian Gulf harbours
 135,Indonesia (Dutch East Indies) (other) & Java,Indonesia (Dutch East Indies) (other)
 136,Indonesia (Dutch East Indies) (other) & Java,Java
 137,Egypt/United Arab Republic & Syria & Beirut,Egypt/United Arab Republic
@@ -161,8 +151,6 @@ id,RICname_group,RICname_part
 164,Guangzhou (Canton) & Manila,Manila
 165,China (People's Republic of China) & Japan,China (People's Republic of China)
 166,China (People's Republic of China) & Japan,Japan
-167,South Africa & South-West Africa,South Africa
-168,South Africa & South-West Africa,South-West Africa
 169,Java & Maluku Islands (Mollucas),Java
 170,Java & Maluku Islands (Mollucas),Maluku Islands (Mollucas)
 171,India & New South Wales & United Kingdom,India
@@ -186,21 +174,12 @@ id,RICname_group,RICname_part
 189,Antilles & Mauritius & Reunion,Reunion
 190,Barbary Coast & Egypt/United Arab Republic,Barbary Coast
 191,Barbary Coast & Egypt/United Arab Republic,Egypt/United Arab Republic
-192,British South America & British Antilles & Guyana (Br. Guiana),British South America
-193,British South America & British Antilles & Guyana (Br. Guiana),British Antilles
-194,British South America & British Antilles & Guyana (Br. Guiana),Guyana (Br. Guiana)
-195,Germany & Rhineland,Germany
-196,Germany & Rhineland,Rhineland
 197,Arica & Tacna,Arica
 198,Arica & Tacna,Tacna
 201,Lisbon & Porto,Lisbon
 202,Lisbon & Porto,Porto
 203,Dutch Colonies & Netherlands,Dutch Colonies
 204,Dutch Colonies & Netherlands,Netherlands
-205,Bremen & Hamburg & Lubeck & Prussia,Bremen
-206,Bremen & Hamburg & Lubeck & Prussia,Hamburg
-207,Bremen & Hamburg & Lubeck & Prussia,Lubeck
-208,Bremen & Hamburg & Lubeck & Prussia,Prussia
 209,Cape Colony & Mauritius,Cape Colony
 210,Cape Colony & Mauritius,Mauritius
 211,Germany (other) & Prussia,Germany (other)
@@ -211,12 +190,6 @@ id,RICname_group,RICname_part
 216,Cochin China & Indonesia (Dutch East Indies) & Philippines & Thailand (Siam),Indonesia (Dutch East Indies)
 217,Cochin China & Indonesia (Dutch East Indies) & Philippines & Thailand (Siam),Philippines
 218,Cochin China & Indonesia (Dutch East Indies) & Philippines & Thailand (Siam),Thailand (Siam)
-219,Muscat & Oman,Muscat
-220,Muscat & Oman,Oman
-221,Aracan & Bago (Pegu) & Mawlamyine & Rangoon,Aracan
-222,Aracan & Bago (Pegu) & Mawlamyine & Rangoon,Bago (Pegu)
-223,Aracan & Bago (Pegu) & Mawlamyine & Rangoon,Mawlamyine
-224,Aracan & Bago (Pegu) & Mawlamyine & Rangoon,Rangoon
 225,Algeria & Morocco & Libya (Tripolitania Cyrenaica Fezzan) & Tunisia,Algeria
 226,Algeria & Morocco & Libya (Tripolitania Cyrenaica Fezzan) & Tunisia,Morocco
 227,Algeria & Morocco & Libya (Tripolitania Cyrenaica Fezzan) & Tunisia,Libya (Tripolitania Cyrenaica Fezzan)
@@ -250,8 +223,6 @@ id,RICname_group,RICname_part
 255,Brunei & Sarawak,Sarawak
 256,Palestine & Syria,Palestine
 257,Palestine & Syria,Syria
-258,Berbice & Demerara and Essequibo,Berbice
-259,Berbice & Demerara and Essequibo,Demerara and Essequibo
 260,France & Netherlands,France
 261,France & Netherlands,Netherlands
 262,Dalny & Korea (Chosen) & Vladivostok,Dalny
@@ -283,13 +254,8 @@ id,RICname_group,RICname_part
 288,Pemba Island & Zanzibar,Zanzibar
 291,Holstein & Schleswig,Holstein
 292,Holstein & Schleswig,Schleswig
-293,Parma & Piacenza,Parma
-294,Parma & Piacenza,Piacenza
 295,Kingdom of Sardinia & Two Sicilies,Kingdom of Sardinia
 296,Kingdom of Sardinia & Two Sicilies,Two Sicilies
-297,Chittagong & Rakhine State & Tanintharyi Region,Chittagong
-298,Chittagong & Rakhine State & Tanintharyi Region,Rakhine State
-299,Chittagong & Rakhine State & Tanintharyi Region,Tanintharyi Region
 300,Algiers & Annaba (Bône),Algiers
 301,Algiers & Annaba (Bône),Annaba (Bône)
 302,China (People's Republic of China) & Philippines,China (People's Republic of China)
@@ -299,8 +265,6 @@ id,RICname_group,RICname_part
 306,Guadeloupe & Martinique & Reunion,Guadeloupe
 307,Guadeloupe & Martinique & Reunion,Martinique
 308,Guadeloupe & Martinique & Reunion,Reunion
-309,French Antilles & French Guyana,French Antilles
-310,French Antilles & French Guyana,French Guyana
 311,Belgium & Luxemburg,Belgium
 312,Belgium & Luxemburg,Luxemburg
 313,British Columbia & British East North America,British Columbia
@@ -363,11 +327,6 @@ id,RICname_group,RICname_part
 370,Modena & Parma & Tuscany,Tuscany
 371,Tripolitania & Tunisia,Tripolitania
 372,Tripolitania & Tunisia,Tunisia
-373,St. Barthelemy & Virgin Islands & Netherlands Antilles & French Antilles & Spanish Antilles,St. Barthelemy
-374,St. Barthelemy & Virgin Islands & Netherlands Antilles & French Antilles & Spanish Antilles,Virgin Islands
-375,St. Barthelemy & Virgin Islands & Netherlands Antilles & French Antilles & Spanish Antilles,Netherlands Antilles
-376,St. Barthelemy & Virgin Islands & Netherlands Antilles & French Antilles & Spanish Antilles,French Antilles
-377,St. Barthelemy & Virgin Islands & Netherlands Antilles & French Antilles & Spanish Antilles,Spanish Antilles
 378,Portugal & Spain,Portugal
 379,Portugal & Spain,Spain
 380,Belgium & Germany & Morocco & Other countries & Spain,Belgium
@@ -377,8 +336,6 @@ id,RICname_group,RICname_part
 384,Belgium & Germany & Morocco & Other countries & Spain,Spain
 385,Italian Colonies & Italy,Italian Colonies
 386,Italian Colonies & Italy,Italy
-387,Bermuda & British Virgin Is.,Bermuda
-388,Bermuda & British Virgin Is.,British Virgin Is.
 389,Egypt/United Arab Republic & Syria,Egypt/United Arab Republic
 390,Egypt/United Arab Republic & Syria,Syria
 391,Maluku Islands (Mollucas) & Sulawesi (Celebes),Maluku Islands (Mollucas)
@@ -439,8 +396,6 @@ id,RICname_group,RICname_part
 446,British Somaliland (Somaliland Republic) & Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,British Somaliland (Somaliland Republic)
 447,British Somaliland (Somaliland Republic) & Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Djibouti (Afar and Issas) (French Somaliland)
 448,British Somaliland (Somaliland Republic) & Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Italian Somaliland
-449,Dardanelles-Istanbul & Turkish harbours,Dardanelles-Istanbul
-450,Dardanelles-Istanbul & Turkish harbours,Turkish harbours
 451,Algeria & France & French Colonies (other),Algeria
 452,Algeria & France & French Colonies (other),France
 453,Algeria & France & French Colonies (other),French Colonies (other)
@@ -521,8 +476,6 @@ id,RICname_group,RICname_part
 528,Denmark & Greenland & Iceland,Denmark
 529,Denmark & Greenland & Iceland,Greenland
 530,Denmark & Greenland & Iceland,Iceland
-531,Aracan & Tanintharyi Region,Aracan
-532,Aracan & Tanintharyi Region,Tanintharyi Region
 533,Annam & Cochin China & Kampuchea (Cambodia) & Tonkin,Annam
 534,Annam & Cochin China & Kampuchea (Cambodia) & Tonkin,Cochin China
 535,Annam & Cochin China & Kampuchea (Cambodia) & Tonkin,Kampuchea (Cambodia)
@@ -533,14 +486,6 @@ id,RICname_group,RICname_part
 540,British East Africa & Cape Colony & Egypt/United Arab Republic & Malagasy Republic (Madagascar),Cape Colony
 541,British East Africa & Cape Colony & Egypt/United Arab Republic & Malagasy Republic (Madagascar),Egypt/United Arab Republic
 542,British East Africa & Cape Colony & Egypt/United Arab Republic & Malagasy Republic (Madagascar),Malagasy Republic (Madagascar)
-543,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Bremen
-544,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Hamburg
-545,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Hanover
-546,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Heligoland
-547,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Kniphausen
-548,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Lubeck
-549,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
-550,Bremen & Hamburg & Hanover & Heligoland & Kniphausen & Lubeck & Mecklenburg Schwerin & Oldenburg,Oldenburg
 551,Galicia & Poland & Russian provinces,Galicia
 552,Galicia & Poland & Russian provinces,Poland
 553,Galicia & Poland & Russian provinces,Russian provinces
@@ -560,8 +505,6 @@ id,RICname_group,RICname_part
 567,China (People's Republic of China) & India & Singapore,China (People's Republic of China)
 568,China (People's Republic of China) & India & Singapore,India
 569,China (People's Republic of China) & India & Singapore,Singapore
-570,Black Sea European harbours & Mediterranean European harbours,Black Sea European harbours
-571,Black Sea European harbours & Mediterranean European harbours,Mediterranean European harbours
 572,France & Tahiti,France
 573,France & Tahiti,Tahiti
 574,Davis Strait & Greenland,Davis Strait
@@ -595,10 +538,6 @@ id,RICname_group,RICname_part
 602,China (People's Republic of China) & Cochin China & Oceania,Oceania
 603,Canada & Newfoundland,Canada
 604,Canada & Newfoundland,Newfoundland
-605,Altona & Schleswig,Altona
-606,Altona & Schleswig,Schleswig
-607,Turkish harbours & Hejaz Sultanate,Turkish harbours
-608,Turkish harbours & Hejaz Sultanate,Hejaz Sultanate
 609,Austria-Hungary & Germany,Austria-Hungary
 610,Austria-Hungary & Germany,Germany
 611,Australia & Hawaii,Australia
@@ -613,9 +552,6 @@ id,RICname_group,RICname_part
 620,Cochin China & Annam & Tonkin,Cochin China
 621,Cochin China & Annam & Tonkin,Annam
 622,Cochin China & Annam & Tonkin,Tonkin
-623,Arabia & Persian Gulf harbours & Red Sea,Arabia
-624,Arabia & Persian Gulf harbours & Red Sea,Persian Gulf harbours
-625,Arabia & Persian Gulf harbours & Red Sea,Red Sea
 626,Central America & Mexico,Central America
 627,Central America & Mexico,Mexico
 628,Costa Rica & El Salvador & Guatemala,Costa Rica
@@ -627,8 +563,6 @@ id,RICname_group,RICname_part
 634,Bago (Pegu) & Bengal,Bengal
 637,Colombia (Gran Colombia) & Panama,Colombia (Gran Colombia)
 638,Colombia (Gran Colombia) & Panama,Panama
-639,Belize (British Honduras) & British Virgin Is.,Belize (British Honduras)
-640,Belize (British Honduras) & British Virgin Is.,British Virgin Is.
 641,Kenya (British East Africa Protectorate) & Zanzibar,Kenya (British East Africa Protectorate)
 642,Kenya (British East Africa Protectorate) & Zanzibar,Zanzibar
 643,Cape Colony & Mauritius & New South Wales,Cape Colony
@@ -640,17 +574,10 @@ id,RICname_group,RICname_part
 649,Egypt/United Arab Republic & Libya (Tripolitania Cyrenaica Fezzan),Libya (Tripolitania Cyrenaica Fezzan)
 650,Canary Is. & Azores (Western Isles),Canary Is.
 651,Canary Is. & Azores (Western Isles),Azores (Western Isles)
-652,Malta & London,Malta
-653,Malta & London,London
 654,Aruba & Bonaire,Aruba
 655,Aruba & Bonaire,Bonaire
 656,Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
 657,Mecklenburg Schwerin & Oldenburg,Oldenburg
-658,Annam & Cochin China & Kampuchea (Cambodia) & French China & Tonkin,Annam
-659,Annam & Cochin China & Kampuchea (Cambodia) & French China & Tonkin,Cochin China
-660,Annam & Cochin China & Kampuchea (Cambodia) & French China & Tonkin,Kampuchea (Cambodia)
-661,Annam & Cochin China & Kampuchea (Cambodia) & French China & Tonkin,French China
-662,Annam & Cochin China & Kampuchea (Cambodia) & French China & Tonkin,Tonkin
 663,Piedmont & Sardinia,Piedmont
 664,Piedmont & Sardinia,Sardinia
 665,Fiume & Trieste,Fiume
@@ -694,19 +621,11 @@ id,RICname_group,RICname_part
 703,Argentina & Uruguay & Paraguay,Paraguay
 704,Montenegro & Yugoslavia/Serbia,Montenegro
 705,Montenegro & Yugoslavia/Serbia,Yugoslavia/Serbia
-706,Bremen & German harbours & Hamburg & Lubeck,Bremen
-707,Bremen & German harbours & Hamburg & Lubeck,German harbours
-708,Bremen & German harbours & Hamburg & Lubeck,Hamburg
-709,Bremen & German harbours & Hamburg & Lubeck,Lubeck
-710,Madeira Isles & Tenerife,Madeira Isles
-711,Madeira Isles & Tenerife,Tenerife
 712,India & Mauritius,India
 713,India & Mauritius,Mauritius
 714,Koszalin & Stralsund & Szczecin,Koszalin
 715,Koszalin & Stralsund & Szczecin,Stralsund
 716,Koszalin & Stralsund & Szczecin,Szczecin
-717,Harburg & Lüneburg,Harburg
-718,Harburg & Lüneburg,Lüneburg
 719,Morocco & Libya (Tripolitania Cyrenaica Fezzan),Morocco
 720,Morocco & Libya (Tripolitania Cyrenaica Fezzan),Libya (Tripolitania Cyrenaica Fezzan)
 721,Holstein & Lauenburg & Schleswig,Holstein
@@ -792,9 +711,6 @@ id,RICname_group,RICname_part
 801,Malta & United Kingdom,United Kingdom
 802,Australia & New Zealand,Australia
 803,Australia & New Zealand,New Zealand
-804,Croatia & Slovenia & Yugoslavia/Serbia,Croatia
-805,Croatia & Slovenia & Yugoslavia/Serbia,Slovenia
-806,Croatia & Slovenia & Yugoslavia/Serbia,Yugoslavia/Serbia
 807,Gibraltar & Ionian Is. & Malta & United Kingdom,Gibraltar
 808,Gibraltar & Ionian Is. & Malta & United Kingdom,Ionian Is.
 809,Gibraltar & Ionian Is. & Malta & United Kingdom,Malta
@@ -815,17 +731,12 @@ id,RICname_group,RICname_part
 824,Gibraltar & Newfoundland & United Kingdom,United Kingdom
 825,Chile & India,Chile
 826,Chile & India,India
-827,Bago (Pegu) & Thailand (Siam),Bago (Pegu)
-828,Bago (Pegu) & Thailand (Siam),Thailand (Siam)
 829,Afghanistan & Baluchistan (Kalat),Afghanistan
 830,Afghanistan & Baluchistan (Kalat),Baluchistan (Kalat)
 831,Altona & Hamburg,Altona
 832,Altona & Hamburg,Hamburg
 833,Dardanelles-Istanbul & Izmir (Smyrna),Dardanelles-Istanbul
 834,Dardanelles-Istanbul & Izmir (Smyrna),Izmir (Smyrna)
-835,Baltic harbours & Belgium & Germany,Baltic harbours
-836,Baltic harbours & Belgium & Germany,Belgium
-837,Baltic harbours & Belgium & Germany,Germany
 838,Turkey & Egypt/United Arab Republic & Greece,Turkey
 839,Turkey & Egypt/United Arab Republic & Greece,Egypt/United Arab Republic
 840,Turkey & Egypt/United Arab Republic & Greece,Greece
@@ -845,16 +756,11 @@ id,RICname_group,RICname_part
 854,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Ontario (Upper Canada)
 855,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Prince Edward Is.
 856,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Quebec (Lower Canada)
-857,Bosnia-Herzegovina & Slovenia & Yugoslavia/Serbia,Bosnia-Herzegovina
-858,Bosnia-Herzegovina & Slovenia & Yugoslavia/Serbia,Slovenia
-859,Bosnia-Herzegovina & Slovenia & Yugoslavia/Serbia,Yugoslavia/Serbia
 860,Makran & Sonmiani,Makran
 861,Makran & Sonmiani,Sonmiani
 862,Java & Madura Island & Indonesia (Dutch East Indies) (other),Java
 863,Java & Madura Island & Indonesia (Dutch East Indies) (other),Madura Island
 864,Java & Madura Island & Indonesia (Dutch East Indies) (other),Indonesia (Dutch East Indies) (other)
-865,Russia/USSR & Siberia,Russia/USSR
-866,Russia/USSR & Siberia,Siberia
 867,Cuba & Puerto Rico,Cuba
 868,Cuba & Puerto Rico,Puerto Rico
 869,Aden & British East Africa,Aden
@@ -906,8 +812,6 @@ id,RICname_group,RICname_part
 917,British North America & United States of America,United States of America
 918,Antilles (other) & Cuba,Antilles (other)
 919,Antilles (other) & Cuba,Cuba
-920,Borneo & Java,Borneo
-921,Borneo & Java,Java
 922,Canada & United States of America,Canada
 923,Canada & United States of America,United States of America
 924,Dutch Asia & Dutch Oceania,Dutch Asia
@@ -938,8 +842,6 @@ id,RICname_group,RICname_part
 949,Bali & Lombok & Sumbawa,Bali
 950,Bali & Lombok & Sumbawa,Lombok
 951,Bali & Lombok & Sumbawa,Sumbawa
-952,Denmark & Virgin Islands,Denmark
-953,Denmark & Virgin Islands,Virgin Islands
 954,Ecuador & Peru,Ecuador
 955,Ecuador & Peru,Peru
 956,Guam & Philippines,Guam
@@ -948,8 +850,6 @@ id,RICname_group,RICname_part
 959,Denmark & Norway & Russia/USSR & Sweden,Norway
 960,Denmark & Norway & Russia/USSR & Sweden,Russia/USSR
 961,Denmark & Norway & Russia/USSR & Sweden,Sweden
-964,German Oceania & German China,German Oceania
-965,German Oceania & German China,German China
 966,Piedmont & Tuscany,Piedmont
 967,Piedmont & Tuscany,Tuscany
 968,Australia & Polynesia,Australia
@@ -958,9 +858,6 @@ id,RICname_group,RICname_part
 971,Casablanca & El Jadida (Mazaghan),El Jadida (Mazaghan)
 972,Turkey & Western Anatolia,Turkey
 973,Turkey & Western Anatolia,Western Anatolia
-974,Belize (British Honduras) & British Virgin Is. & Guyana (Br. Guiana),Belize (British Honduras)
-975,Belize (British Honduras) & British Virgin Is. & Guyana (Br. Guiana),British Virgin Is.
-976,Belize (British Honduras) & British Virgin Is. & Guyana (Br. Guiana),Guyana (Br. Guiana)
 977,Russia/USSR & Black Sea,Russia/USSR
 978,Russia/USSR & Black Sea,Black Sea
 979,Papal States & Tuscany,Papal States
@@ -1002,8 +899,6 @@ id,RICname_group,RICname_part
 1017,Italy & Sardinia,Sardinia
 1018,American Colonies & United States of America,American Colonies
 1019,American Colonies & United States of America,United States of America
-1020,Senegal & West Africa,Senegal
-1021,Senegal & West Africa,West Africa
 1022,Guatemala & Nicaragua,Guatemala
 1023,Guatemala & Nicaragua,Nicaragua
 1024,Lucca & Monaco & Papal States,Lucca
@@ -1011,9 +906,6 @@ id,RICname_group,RICname_part
 1026,Lucca & Monaco & Papal States,Papal States
 1027,Viceroyalty of La Plata & Uruguay,Viceroyalty of La Plata
 1028,Viceroyalty of La Plata & Uruguay,Uruguay
-1029,Japan & Japan China & Republic of China (Taiwan) (Formosa),Japan
-1030,Japan & Japan China & Republic of China (Taiwan) (Formosa),Japan China
-1031,Japan & Japan China & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
 1032,Turkey & Syria,Turkey
 1033,Turkey & Syria,Syria
 1034,Guinea (French Guinea) (Rivieres du Sud) & Senegal & Gambia,Guinea (French Guinea) (Rivieres du Sud)
@@ -1043,8 +935,6 @@ id,RICname_group,RICname_part
 1058,Bremen & Lubeck,Lubeck
 1059,Alexandria & Suez Canal Zone,Alexandria
 1060,Alexandria & Suez Canal Zone,Suez Canal Zone
-1061,Levant & Europe,Levant
-1062,Levant & Europe,Europe
 1063,Bengal & Burma (Myanmar),Bengal
 1064,Bengal & Burma (Myanmar),Burma (Myanmar)
 1065,China (People's Republic of China) & Hong Kong & Singapore,China (People's Republic of China)
@@ -1093,8 +983,6 @@ id,RICname_group,RICname_part
 1110,Gibraltar & Portugal & Spain,Gibraltar
 1111,Gibraltar & Portugal & Spain,Portugal
 1112,Gibraltar & Portugal & Spain,Spain
-1113,Africa harbours (other) & Asia harbours (other),Africa harbours (other)
-1114,Africa harbours (other) & Asia harbours (other),Asia harbours (other)
 1115,Africa Coast & Algiers & Barbary Coast,Africa Coast
 1116,Africa Coast & Algiers & Barbary Coast,Algiers
 1117,Africa Coast & Algiers & Barbary Coast,Barbary Coast
@@ -1129,10 +1017,6 @@ id,RICname_group,RICname_part
 1146,Cape Verde & Macao & Portuguese India (incl. Goa Diu Daman) & Portuguese Timor & Sao Tome-Principe,Portuguese India (incl. Goa Diu Daman)
 1147,Cape Verde & Macao & Portuguese India (incl. Goa Diu Daman) & Portuguese Timor & Sao Tome-Principe,Portuguese Timor
 1148,Cape Verde & Macao & Portuguese India (incl. Goa Diu Daman) & Portuguese Timor & Sao Tome-Principe,Sao Tome-Principe
-1149,Malawi (Nyasaland) & Straits Settlements,Malawi (Nyasaland)
-1150,Malawi (Nyasaland) & Straits Settlements,Straits Settlements
-1151,British Virgin Is. & Guyana (Br. Guiana),British Virgin Is.
-1152,British Virgin Is. & Guyana (Br. Guiana),Guyana (Br. Guiana)
 1153,Guatemala & Mexico & Texas,Guatemala
 1154,Guatemala & Mexico & Texas,Mexico
 1155,Guatemala & Mexico & Texas,Texas
@@ -1147,8 +1031,6 @@ id,RICname_group,RICname_part
 1164,Central America & Spanish America,Spanish America
 1165,Bremen & Prussia,Bremen
 1166,Bremen & Prussia,Prussia
-1167,Arabia & Persian Gulf harbours,Arabia
-1168,Arabia & Persian Gulf harbours,Persian Gulf harbours
 1169,Java & Banjermassin (Dutch Borneo),Java
 1170,Java & Banjermassin (Dutch Borneo),Banjermassin (Dutch Borneo)
 1171,China (People's Republic of China) & Mongolia,China (People's Republic of China)
@@ -1179,8 +1061,6 @@ id,RICname_group,RICname_part
 1196,Hawaii & Puerto Rico & United States of America,Hawaii
 1197,Hawaii & Puerto Rico & United States of America,Puerto Rico
 1198,Hawaii & Puerto Rico & United States of America,United States of America
-1199,Austria-Hungary harbours & Trieste,Austria-Hungary harbours
-1200,Austria-Hungary harbours & Trieste,Trieste
 1201,Belgium & Germany & Italy & Netherlands & Russia/USSR,Belgium
 1202,Belgium & Germany & Italy & Netherlands & Russia/USSR,Germany
 1203,Belgium & Germany & Italy & Netherlands & Russia/USSR,Italy
@@ -1192,8 +1072,6 @@ id,RICname_group,RICname_part
 1209,Balearic Islands & Spain,Spain
 1210,Portugal & Portuguese Colonies,Portugal
 1211,Portugal & Portuguese Colonies,Portuguese Colonies
-1212,Muscat & Zanzibar,Muscat
-1213,Muscat & Zanzibar,Zanzibar
 1214,Guatemala & Mexico,Guatemala
 1215,Guatemala & Mexico,Mexico
 1216,Denmark & Sweden,Denmark
@@ -1271,17 +1149,8 @@ id,RICname_group,RICname_part
 1288,Greece & Turkey,Turkey
 1289,Syria & Lebanon,Syria
 1290,Syria & Lebanon,Lebanon
-1291,Karachi & Mumbai (Bombay) & other harbours,Karachi
-1292,Karachi & Mumbai (Bombay) & other harbours,Mumbai (Bombay)
-1293,Karachi & Mumbai (Bombay) & other harbours,other harbours
-1294,Mumbai (Bombay) & other harbours,Mumbai (Bombay)
-1295,Mumbai (Bombay) & other harbours,other harbours
 1296,France (French produce) & French colonies (French produce),France (French produce)
 1297,France (French produce) & French colonies (French produce),French colonies (French produce)
-1298,Karachi & Mumbai harbours (other),Mumbai harbours (other)
-1299,Karachi & Mumbai harbours (other),Karachi
-1300,Holstein & Schleswig (via Altona),Holstein (via Altona)
-1301,Holstein & Schleswig (via Altona),Schleswig (via Altona)
 1302,South Sea Islands & Pacific Islands,South Sea Islands
 1303,South Sea Islands & Pacific Islands,Pacific Islands
 1304,Hamburg & Germany (Zollverein),Hamburg
