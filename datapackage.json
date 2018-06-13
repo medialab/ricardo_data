@@ -265,6 +265,11 @@
               "name": "COW_code",
               "type": "string",
               "description": "Correlates Of War (COW) identifier."
+            },
+            {
+              "name": "part_of_country",
+              "type": "string",
+              "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in a dedicated table."
             }
       ]}
     },

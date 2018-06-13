@@ -58,7 +58,9 @@ CREATE TABLE `RICentities`
 	`type`				TEXT,
 	`continent`			TEXT,
 	`COW_code` 			INTEGER,
-	`slug`				TEXT
+	`slug`				TEXT,
+	`part_of_country`	TEXT,
+	FOREIGN KEY (part_of_country) 	REFERENCES RICentities(RICname)
 );
 
 --territorial entities
