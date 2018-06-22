@@ -634,7 +634,7 @@ Falkland Is. & Falkland Is. Dependencies,group,World,,,
 Falkland Is. & Uruguay,group,America,,FalklandIs._Uruguay,
 Fanning I.,country,Oceania,9453,,
 Far Eastern Republic,country,Europe,735,,
-Federal Republic of Central America,country,America,,,
+Federal Republic of Central America,country,America,89,,
 Federated Malay States,country,Asia,821,FederatedMalayStates,
 Federated Malay States & Straits Settlements,group,Asia,,,
 Feodosia,city/part_of,Europe,,Feodosia,Russia/USSR
@@ -811,7 +811,7 @@ Hong Kong,country,Asia,720,HongKong,
 Hong Kong & India,group,Asia,,HongKong_India,
 Hungary,country,Europe,310,Hungary,
 Iceland,country,Europe,395,Iceland,
-Ichaboe Island,city/part_of,Africa,,IchaboeIsland,South West Africa
+Ichaboe Island,city/part_of,Africa,,IchaboeIsland,South West Africa (German West Africa) (Namibia)
 Imperia (Porto Maurizio),city/part_of,Europe,,ImperiaPortoMaurizio,Kingdom of Sardinia
 Independant Indian Ocean Islands,geographical_area,Oceania,,IndependantIndianOceanIslands,
 Independant Indian Ocean Islands (other),geographical_area,Oceania,,IndependantIndianOceanIslandsother,
@@ -1388,7 +1388,7 @@ Spain,country,Europe,230,Spain,
 Spain (Atlantic Coast),city/part_of,Europe,,,Spain
 Spain (Foreign flag),city/part_of,Europe,,,Spain
 Spain (Mediterranean Coast),city/part_of,Europe,,,Spain
-Spain (Spanish flag),city/part_of,Europe,230,SpainSpanishflag,Spain
+Spain (Spanish flag),city/part_of,Europe,,SpainSpanishflag,Spain
 Spain & Italy & Europe (other),geographical_area,Europe,,Spain_Italy_Europeother,
 Spain & Spanish Antilles,group,World,,Spain_SpanishAntilles,
 Spain & Spanish Colonies,group,World,,Spain_SpanishColonies,
@@ -1416,7 +1416,6 @@ Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,group,Asia,,,
 St. Barthelemy,country,America,1064,St.Barthelemy,
 St. Barthelemy & Virgin Islands (Danish West Indies) & French West Indies & Netherlands Antilles & Spanish Antilles,group,America,,,
 St. Croix,city/part_of,America,,St.Croix,Virgin Islands (Danish West Indies)
-St. Croix & St. Jan & St. Thomas,group,America,,St.Croix_St.Jan_St.Thomas,
 St. Croix & St. Thomas,group,America,,St.Croix_St.Thomas,
 St. David,city/part_of,Asia,,St.David,Indonesia (Dutch East Indies)
 St. Helena,country,Atlantic,4050,St.Helena,
