@@ -34,13 +34,9 @@ def test(cursor):
 	def test(title,sql,cursor):
 		cursor.execute(sql)
 		r = list(cursor)
-		if len(r) > 0:
-			result = 'NOT PASSED'
-			for l in r:
-				print l
-		else:
-			result = 'PASSED'
-		print "%s: %s"%(title,result)	
+		print "%s: %s"%(title,'PASSED' if len(r) == 0 else 'FAILED')
+		for l in r:
+				print l	
 
 	# part_of_country
 	test('part_of_country of countries should be empty',
@@ -56,7 +52,7 @@ def test(cursor):
 	test('COW_code empty for non countries',
 		"""SELECT *
 			 from RICentities
-			 WHERE type != 'country' AND COW_code is not null""",
+			 WHERE type != 'country' AND COW_code is not null AND COW_code !='' """,
 		 cursor)	
 	test('part_of_country must be a RICEntity country',
 		"""SELECT *
@@ -69,3 +65,22 @@ def test(cursor):
 			 from RICentities 
 			 WHERE type IN ('colonial_area','city/part_of') AND part_of_country is null""",
 		 cursor)
+
+	cursor.execute("""SELECT RICname,type from RICentities""")
+	RICnames = {}
+	missingRICinGroup = []
+	groups = []
+	for line in cursor:
+		if line[1] != 'group':
+			RICnames[line[0]] = line
+		else: 
+			groups.append(line[0])
+	for g in groups:
+		missingRICinGroup += [ric.strip() for ric in g.split('&') if ric.strip() not in RICnames]
+	if len(missingRICinGroup) > 0 :
+		print 'test group parts in RICentities test: FAILED'
+		print missingRICinGroup
+	else:
+		print 'test group parts in RICentities test: PASSED'
+
+# test à écrire pour RICentities à supprimer SELECT RICname from RICentities WHERE RICname not in (SELECT distinct RICname FROM entity_names) AND type != 'country' and RICname not LIKE 'World%'; 
