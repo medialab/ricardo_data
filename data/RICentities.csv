@@ -902,7 +902,7 @@ Kenya (British East Africa Protectorate) & Uganda,group,Africa,,KenyaBritishEast
 Kenya (British East Africa Protectorate) & Zanzibar,group,Africa,,KenyaBritishEastAfricaProtectorate_Zanzibar,
 Kerguelen Is.,country,Antarctic,9973,,
 Kerguelen Is. & Malagasy Republic (Madagascar),group,World,,,
-Khar,city/part_of,Asia,,Khar,Nepal
+Khar,city/part_of,Africa,,Khar,Somalia
 Khiva,country,Asia,7030,Khiva,
 Khorramshahr (Mohammerah),city/part_of,Asia,,KhorramshahrMohammerah,Turkey
 Kiauchau,country,Asia,7220,Kiauchau,
@@ -921,7 +921,6 @@ Kokand,country,Asia,7010,Kokand,
 Kolkata (Calcutta),city/part_of,Asia,,KolkataCalcutta,India
 Kolkata (Calcutta) & Sri Lanka (Ceylon),group,Asia,,KolkataCalcutta_SriLankaCeylon,
 Kongpot,city/part_of,Asia,,Kongpot,
-Kooria Mooria Islands,country,Asia,,KooriaMooriaIslands,
 Korea (Chosen),country,Asia,730,KoreaChosen,
 Koszalin,city/part_of,Europe,,Koszalin,Prussia
 Koszalin & Stralsund & Szczecin,group,Europe,,Koszalin_Stralsund_Szczecin,
@@ -1114,7 +1113,7 @@ Nigeria,country,Africa,475,Nigeria,
 Ningbo,city/part_of,Asia,,Ningbo,China (People's Republic of China)
 Niue I.,country,Oceania,9253,NiueI.,
 Norfolk I.,country,Oceania,9004,,
-North American Colonies,colonial_area,America,,NorthAmericanColonies,
+North American Colonies,colonial_area,America,,NorthAmericanColonies,United Kingdom
 North German Confederation,city/part_of,Europe,,NorthGermanConfederation,
 North Germany,city/part_of,Europe,,NorthGermany,Germany (Zollverein)
 North Germany & Prussia,group,Europe,,NorthGermany_Prussia,
@@ -1530,7 +1529,7 @@ Weihaiwei,country,Asia,7105,Weihaiwei,
 West Africa,geographical_area,Africa,,WestAfrica,
 West Africa (other),geographical_area,Africa,,WestAfricaother,
 West Africa & Africa (other),geographical_area,Africa,,WestAfrica_Africaother,
-West African Colonies,colonial_area,Africa,,WestAfricanColonies,
+West Africa Ports (other),geographical_area,Africa,,,
 West America,geographical_area,America,,WestAmerica,
 West Asia (other),geographical_area,Asia,,,
 West Irian (Dutch New Guinea),country,Oceania,851,WestIrianDutchNewGuinea,
@@ -1661,7 +1660,7 @@ Patagonia (Pacific Coast),city/part of,America,,,Chile
 Pays de Gex,city/part of,Europe,,,France
 Pemba Island,city/part of,Africa,,,Zanzibar
 Perlis,country,Asia,8224,,
-Persian Gulf Ports,city/part of,Asia,,,Persian Gulf
+Persian Gulf Ports,geographical_area,Asia,,,
 Phuket Province,city/part of,Asia,,,Thailand (Siam)
 Piedmont,city/part of,Europe,,,Kingdom of Sardinia
 Portuguese Dependencies,colonial_area,World,,,Portugal
@@ -1718,3 +1717,4 @@ Ross Dependency,country,Oceania,9994,,
 Kamerun & German Togoland,group,Africa,,,
 South West Africa (German West Africa) (Namibia) & Kamerun & German Togoland,group,Africa,,,
 German Togoland,country,Africa,460,,
+Johore & Kedah & Kelantan & Perlis & Trengganu,group,Asia,,,
