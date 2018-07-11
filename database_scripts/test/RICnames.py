@@ -83,4 +83,4 @@ def test(cursor):
 	else:
 		print 'test group parts in RICentities test: PASSED'
 
-# test à écrire pour RICentities à supprimer SELECT RICname from RICentities WHERE RICname not in (SELECT distinct RICname FROM entity_names) AND type != 'country' and RICname not LIKE 'World%'; 
+# test to be written :  SELECT RICname from RICentities WHERE RICname not in (SELECT distinct RICname FROM entity_names) AND type != 'country' and RICname not LIKE 'World%'; 
