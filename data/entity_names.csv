@@ -1257,9 +1257,9 @@ dutch borneo (dutch east indies),Bornéo hollandaise,Banjermassin (Dutch Borneo)
 dutch borneo (holland),Bornéo hollandaise,Banjermassin (Dutch Borneo)
 dutch borneo (netherlands),Bornéo hollandaise,Banjermassin (Dutch Borneo)
 dutch east indies,Indes néerlandaises orientales,Indonesia (Dutch East Indies)
-dutch guiana,Guyane hollandaise,Suriname
-dutch guiana (holland),Guyane hollandaise,Suriname
-dutch guiana (netherlands),Guyane hollandaise,Suriname
+dutch guiana,Guyane hollandaise,Surinam
+dutch guiana (holland),Guyane hollandaise,Surinam
+dutch guiana (netherlands),Guyane hollandaise,Surinam
 dutch india,Indes néerlandaises,Indonesia (Dutch East Indies)
 dutch new guinea,Nouvelle-Guinée hollandaise,West Irian (Dutch New Guinea)
 dutch new guinea (holland),Nouvelle-Guinée hollandaise,West Irian (Dutch New Guinea)
@@ -1811,8 +1811,8 @@ guiana (england),Guyane britannique,Guyana (Br. Guiana)
 guiana (english),Guyane britannique,Guyana (Br. Guiana)
 guiana (france),Guyane française,French Guyana
 guiana (french),Guyane française,French Guyana
-guiana (netherland),Guyane hollandaise,Suriname
-guiana (netherlands),Guyane hollandaise,Suriname
+guiana (netherland),Guyane hollandaise,Surinam
+guiana (netherlands),Guyane hollandaise,Surinam
 guiana (total),Guyane (total),Guyana (Br. Guiana) & French Guyana & Surinam
 guianas,Guyane (total),Guyana (Br. Guiana) & French Guyana & Surinam
 guinea,Guinée,Guinea (French Guinea) (Rivieres du Sud)
@@ -1825,7 +1825,7 @@ guyana,Guyane britannique,Guyana (Br. Guiana)
 guyana (england),Guyane britannique,Guyana (Br. Guiana)
 guyana (english),Guyane britannique,Guyana (Br. Guiana)
 guyana (france),Guyane française,French Guyana
-guyana (netherlands),Guyane hollandaise,Suriname
+guyana (netherlands),Guyane hollandaise,Surinam
 guyane,Guyane française,French Guyana
 guyane anglaise,Guyane britannique,Guyana (Br. Guiana)
 guyane britan.,Guyane britannique,Guyana (Br. Guiana)
@@ -1833,10 +1833,10 @@ guyane britanique,Guyane britannique,Guyana (Br. Guiana)
 guyane britannique,Guyane britannique,Guyana (Br. Guiana)
 guyane française,Guyane française,French Guyana
 guyane france,Guyane française,French Guyana
-guyane holandaise,Guyane hollandaise,Suriname
-guyane hollandaise,Guyane hollandaise,Suriname
-guyane néerlandaise,Guyane hollandaise,Suriname
-guyane pays bas,Guyane hollandaise,Suriname
+guyane holandaise,Guyane hollandaise,Surinam
+guyane hollandaise,Guyane hollandaise,Surinam
+guyane néerlandaise,Guyane hollandaise,Surinam
+guyane pays bas,Guyane hollandaise,Surinam
 haiti,Haïti,Haiti
 haÏti,Haïti,Haiti
 haïti (6 ports),Haïti,Haiti
@@ -2055,7 +2055,7 @@ indes occidentales étrangères,Antilles (Autre),Antilles (other)
 indes occidentales étrangères et anciennes colonies espagnoles,Indes occidentales non espagnoles et Amérique espagnole,Antilles (other) & Spanish America
 indes occidentales hollandaises,Antilles néerlandaises,Netherlands Antilles
 indes occidentales néerlandaises,Antilles néerlandaises,Netherlands Antilles
-indes occidentales néerlandaises (surinam),Antilles néerlandaises (Surinam),Suriname
+indes occidentales néerlandaises (surinam),Antilles néerlandaises (Surinam),Surinam
 indes occidentales**,Antilles,Antilles
 indes ocidentales néerlandaises,Antilles néerlandaises,Netherlands Antilles
 "indes orient., maurice, le cap",Indes orientales et Maurice et Colonie du Cap,Cape Colony & East Indies & Mauritius
@@ -2134,13 +2134,13 @@ ionian republic,Iles ioniennes,Ionian Is.
 ionische eilanden,Iles ioniennes,Ionian Is.
 iquique (chile),Chili (Iquique),Iquique
 irak,Irak,Iraq (Mesopotamia)
-irak et koveit,Irak et Koweit,Iraq (Mesopotamia) & Kuweit
-irak et koweit,Irak et Koweit,Iraq (Mesopotamia) & Kuweit
+irak et koveit,Irak et Koweit,Iraq (Mesopotamia) & Kuwait
+irak et koweit,Irak et Koweit,Iraq (Mesopotamia) & Kuwait
 iran,Iran,Iran (Persia)
 iran (persia),Iran,Iran (Persia)
 irande,Irlande,Ireland
 iraq,Irak,Iraq (Mesopotamia)
-iraq and koweit,Irak et Koweit,Iraq (Mesopotamia) & Kuweit
+iraq and koweit,Irak et Koweit,Iraq (Mesopotamia) & Kuwait
 ireland,Irlande,Ireland
 irish free state,Irlande,Ireland
 irlanda,Irlande,Ireland
@@ -2294,7 +2294,7 @@ korea (japanese possession),Corée,Korea (Chosen)
 korea||,Corée,Korea (Chosen)
 korea†,Corée,Korea (Chosen)
 kouang-toung,Kouang-Toung,Kwangtung Territory (Leased)
-koweit,Koweit,Kuweit
+koweit,Koweit,Kuwait
 kuddalore,Kuddalore,Kuddalore
 kurdistan,Kurdistan,Kurdistan
 kwantung,Concession de Kwantung,Kwangtung Territory (Leased)
@@ -3669,9 +3669,9 @@ sumatra (holland),Sumatra,Sumatra
 "sumatra, java, and other islands in the indian seas",Java et  Sumatra et Iles de l'Océan indien (Autre),Indian Ocean Islands (other) & Java & Sumatra
 sund,Danemark (Sund),Sund
 sunda is.,Archipel de la Sonde,Sunda Islands
-surinam,Surinam,Suriname
-surinam (guiana),Surinam,Suriname
-suriname,Surinam,Suriname
+surinam,Surinam,Surinam
+surinam (guiana),Surinam,Surinam
+suriname,Surinam,Surinam
 suticorin,Tuticorin,Thoothukudi (Tuticorin)
 swan river,Swan River,Swan River
 swaziland,Swaziland,Swaziland
@@ -4582,17 +4582,17 @@ guadalupe,Guadalupe,Guadeloupe
 "guatémala, costa rica, honduras, nicaragua","Guatémala, Costa Rica, Honduras, Nicaragua",Costa Rica & Guatemala & Honduras & Nicaragua
 "guatémala, costa rica, honduras, san salvador et nicaragua","Guatémala, Costa Rica, Honduras, San Salvador et Nicaragua",Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua
 guayana francesa,French Guyana,French Guyana
-guayana holandesa,Surinam,Suriname
+guayana holandesa,Surinam,Surinam
 guayana inglesa,Guyana (Br. Guiana),Guyana (Br. Guiana)
 guiné portugueza,Guiné Portugueza,Guinea-Bissau (Portuguese Guinea)
 guyana (engelsch),Guyana (Engelsch),Guyana (Br. Guiana)
 guyana (fransch),Guyana (Fransch),French Guyana
-guyana (nederlandsch),Guyana (Nederlandsch),Suriname
+guyana (nederlandsch),Guyana (Nederlandsch),Surinam
 guyana inglesa,Guyana (Br. Guiana),Guyana (Br. Guiana)
-guyana holandesa,Surinam,Suriname
+guyana holandesa,Surinam,Surinam
 guyane danoise,Guyane danoise,Danish Guyana
 guyanna franceza,French Guyana,French Guyana
-guyanna hollandeza,Surinam,Suriname
+guyanna hollandeza,Surinam,Surinam
 guyanna inglesa,Guyana (Br. Guiana),Guyana (Br. Guiana)
 haiti & république dominicaine,Haiti & République dominicaine,Dominican Republic (Santo Domingo) & Haiti
 haiti e s. domingo,Haiti e S. Domingo,Dominican Republic (Santo Domingo) & Haiti
@@ -4787,7 +4787,7 @@ monténegro,Monténegro,Montenegro
 morocco and algeria,Morocco and Algeria,Algeria & Morocco
 moçambique,Moçambique,Mozambique
 muscat territory and trucial oman,Muscat Territory and Trucial Oman,Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman)
-"muscat and oman, trucial oman and koweit","Muscat and Oman, Trucial Oman and Koweit",Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuweit
+"muscat and oman, trucial oman and koweit","Muscat and Oman, Trucial Oman and Koweit",Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuwait
 mónaco,Mónaco,Monaco
 naples-sicile,Naples-Sicile,Naples & Sicily
 nauru and western samoa,Nauru and Western Samoa,Nauru & Western Samoa
@@ -4795,7 +4795,7 @@ ned. oost-indië,Ned. Oost-Indië,Indonesia (Dutch East Indies)
 "ned. oost-indië, behalve celebes","Ned. Oost-Indië, behalve Celebes",Indonesia (Dutch East Indies) (other)
 nederlandsch west-indische bezittingen,Nederlandsch West-Indische bezittingen,Netherlands Antilles
 nederlandsch-indië,Nederlandsch-Indië,Indonesia (Dutch East Indies)
-netherlands guiana,Netherlands Guiana,Suriname
+netherlands guiana,Netherlands Guiana,Surinam
 netherlands india,Indonesia (Dutch East Indies),Indonesia (Dutch East Indies)
 netherlands indies,Indonesia (Dutch East Indies),Indonesia (Dutch East Indies)
 neu pommern,Neu Pommern,Bismarck Archipelago (New Britain) (Neupommern)

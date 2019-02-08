@@ -1319,7 +1319,6 @@ Scandinavia,geographical_area,Europe,,Scandinavia,
 Schleswig,country,Europe,2247,Schleswig,
 Scotland,city/part_of,Europe,,Scotland,United Kingdom
 Seal Island,city/part_of,Africa,,SealIsland,Cape Colony
-Selangor,country,Asia,8202,Selangor,
 Senegal,country,Africa,433,Senegal,
 Senegal & Goree,group,Africa,,Senegal_Goree,
 Senegal & French West Africa,group,Africa,,,
@@ -1327,7 +1326,7 @@ Arakan,city/part_of,Asia,,,Burma (Myanmar)
 Oman (Muscat and Oman),country,Asia,698,,
 Oman (Muscat and Oman) & Zanzibar,group,World,,,
 Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,,
-Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuweit,group,Asia,,,
+Oman (Muscat and Oman) & United Arab Emirates (Trucial Oman) & Kuwait,group,Asia,,,
 Chittagong & Arakan & Tanintharyi Region,group,Asia,,,
 Setúbal,city/part_of,Europe,,Setúbal,Portugal
 Seychelles,country,Africa,591,Seychelles,
@@ -1643,7 +1642,7 @@ Milan,country,Europe,3253,,
 Modena,country,Europe,332,,
 Morea,city/part_of,Europe,,,Greece
 Neighbouring Islands,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Nepal,city/part_of,Asia,,,India
+Nepal,country,Asia,790,,
 Netherlands Dependencies,colonial_area,World,,,Netherlands
 New Caledonia,city/part_of,Oceania,,,New Caledonia and Dependencies
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) dependencies,city/part_of,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
@@ -1694,11 +1693,9 @@ Vladivostok,country,Europe,7352,,
 Wandsbeck,city/part_of,Europe,,,Hamburg
 Libya (Tripolitania Cyrenaica Fezzan) & Morocco & Tunisia & Turkey,group,Africa,,,
 Selangore,country,Asia,8202,,
-Suriname,country,America,115,,
 Libya (Tripolitania Cyrenaica Fezzan) & Morocco,group,Africa,,,
 Egypt/United Arab Republic & Libya (Tripolitania Cyrenaica Fezzan) & Morocco & Tunisia,group,Africa,,,
-Iraq (Mesopotamia) & Kuweit,group,Asia,,,
-Kuweit,country,Asia,690,,
+Iraq (Mesopotamia) & Kuwait,group,Asia,,,
 Africa Coast & Algeria & Libya (Tripolitania Cyrenaica Fezzan) & Morocco & Tunisia,geographical_area,Africa,,,
 Africa Coast & Libya (Tripolitania Cyrenaica Fezzan) & Morocco & Tunisia,geographical_area,Africa,,,
 Libya (Tripolitania Cyrenaica Fezzan) & Morocco & Tunisia,group,Africa,,,
