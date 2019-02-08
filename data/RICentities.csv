@@ -1569,129 +1569,129 @@ Sabah (North Borneo) & Sarawak,group,Asia,,,
 Hanse Towns & German Ports,group,Europe,,,
 Hanse Towns,country,Europe,255H,,
 Mayotte & Nossi Be,group,Africa,,,
-Aden Dependencies,city/part of,Asia,,,Aden
+Aden Dependencies,city/part_of,Asia,,,Aden
 American Colonies,colonial_area,World,,,United States of America
-Annaba (Bône),city/part of,Africa,,,Algeria
+Annaba (Bône),city/part_of,Africa,,,Algeria
 Annam,country,Asia,8152,,
 Arabia (sea),geographical_area,Asia,,,
 Aruba,country,America,1069,,
 Assab,country,Africa,5331,,
 Assam,country,Asia,7572,,
-Australian Northern Territory,city/part of,Oceania,,,Australia
-Austria-Hungary Ports,city/part of,Europe,,,Austria-Hungary
-Austria-Hungary Ports (Adriatic),city/part of,Europe,,,Austria-Hungary
-Bailul,city/part of,Africa,,,Eritrea
-Baltiysk (Pillau),city/part of,Europe,,,Prussia
+Australian Northern Territory,city/part_of,Oceania,,,Australia
+Austria-Hungary Ports,city/part_of,Europe,,,Austria-Hungary
+Austria-Hungary Ports (Adriatic),city/part_of,Europe,,,Austria-Hungary
+Bailul,city/part_of,Africa,,,Eritrea
+Baltiysk (Pillau),city/part_of,Europe,,,Prussia
 Baluchistan (Kalat),country,Asia,7588,,
-Bangka Island,city/part of,Asia,,,Indonesia (Dutch East Indies)
-Belitung,city/part of,Asia,,,Indonesia (Dutch East Indies)
-Berbera,city/part of,Africa,,,Somalia
+Bangka Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Belitung,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Berbera,city/part_of,Africa,,,Somalia
 Bhutan,country,Asia,760,,
-Bihar,city/part of,Asia,,,India
+Bihar,city/part_of,Asia,,,India
 Black Sea,geographical_area,Europe,,,
 Bonaire,country,America,1066,,
-Braniewo (Braunsberg),city/part of,Europe,,,Prussia
+Braniewo (Braunsberg),city/part_of,Europe,,,Prussia
 British Dependencies,colonial_area,World,,,United Kingdom
 British East North America,colonial_area,America,,,United Kingdom
-Bulhar,city/part of,Africa,,,Somalia
+Bulhar,city/part_of,Africa,,,Somalia
 Cape Breton I.,country,America,1021,,
 Captaincy-general of north Africa,country,Africa,6067,,
-Cayenne Is.,city/part of,America,,,French Guyana
+Cayenne Is.,city/part_of,America,,,French Guyana
 Comoros,country,Africa,581,,
 Corfu,country,Europe,3351,,
 Croatia,country,Europe,344,,
-Cuxhaven,city/part of,Europe,,,Hamburg
+Cuxhaven,city/part_of,Europe,,,Hamburg
 Cyrenaica,country,Africa,6202,,
-Dalmatia,city/part of,Europe,,,Austria-Hungary
-Dalny,city/part of,Asia,,,Japan
-Damietta,city/part of,Africa,,,Egypt/United Arab Republic
-Davis Strait,city/part of,America,,,Greenland
+Dalmatia,city/part_of,Europe,,,Austria-Hungary
+Dalny,city/part_of,Asia,,,Japan
+Damietta,city/part_of,Africa,,,Egypt/United Arab Republic
+Davis Strait,city/part_of,America,,,Greenland
 Demerara and Essequibo,country,America,1113,,
 Denmark Dependencies,colonial_area,World,,,Denmark
 Dutch Asia (other),colonial_area,Asia,,,Netherlands
 Dutch Windward Is.,country,America,1074,,
-El Jadida (Mazaghan),city/part of,Africa,,,Morocco
-Falkland Is. Dependencies,city/part of,America,,,Falkland Is.
+El Jadida (Mazaghan),city/part_of,Africa,,,Morocco
+Falkland Is. Dependencies,city/part_of,America,,,Falkland Is.
 Federation of South Arabia,country,Asia,6801,,
 French colonies (French produce),colonial_area,World,,,France
 French Dependencies,colonial_area,World,,,France
-French Mediterranean,city/part of,Europe,,,France
+French Mediterranean,city/part_of,Europe,,,France
 French Polynesia,country,Oceania,960,,
-French West Africa (other),city/part of,Africa,,,French West Africa
-Galicia,city/part of,Europe,,,Austria-Hungary
+French West Africa (other),city/part_of,Africa,,,French West Africa
+Galicia,city/part_of,Europe,,,Austria-Hungary
 German East Africa,colonial_area,Africa,,,Germany
-Gozo,city/part of,Europe,,,Malta
+Gozo,city/part_of,Europe,,,Malta
 Hejaz Sultanate,country,Asia,671,,
-Illyria,city/part of,Europe,,,Austria-Hungary
-Indian Coast,city/part of,Asia,,,India
-Indian Transit,city/part of,Africa,,,Egypt/United Arab Republic
-Isle of Man,city/part of,Europe,,,United Kingdom
-Jamaica Dependencies,city/part of,America,,,Jamaica
+Illyria,city/part_of,Europe,,,Austria-Hungary
+Indian Coast,city/part_of,Asia,,,India
+Indian Transit,city/part_of,Africa,,,Egypt/United Arab Republic
+Isle of Man,city/part_of,Europe,,,United Kingdom
+Jamaica Dependencies,city/part_of,America,,,Jamaica
 Japan China Leased Territory,colonial_area,Asia,,,Japan
-Kabinda (Portuguese Congo),city/part of,Africa,,,Angola
-Kniphausen,city/part of,Europe,,,Oldenburg
-La Guaira,city/part of,America,,,Venezuela
-Lombardy,city/part of,Europe,,,Austria-Hungary
-Lüneburg,city/part of,Europe,,,Hanover
-Madura Island,city/part of,Asia,,,Indonesia (Dutch East Indies)
-Makran,city/part of,Asia,,,Pakistan
-Malagasy Republic (Madagascar) Dependencies,city/part of,Africa,,,Malagasy Republic (Madagascar)
-Massawah,city/part of,Africa,,,Eritrea
-Mecca,city/part of,Asia,,,Saudi Arabia (Kingdom of Hejaz and Nedj)
+Kabinda (Portuguese Congo),city/part_of,Africa,,,Angola
+Kniphausen,city/part_of,Europe,,,Oldenburg
+La Guaira,city/part_of,America,,,Venezuela
+Lombardy,city/part_of,Europe,,,Austria-Hungary
+Lüneburg,city/part_of,Europe,,,Hanover
+Madura Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Makran,city/part_of,Asia,,,Pakistan
+Malagasy Republic (Madagascar) Dependencies,city/part_of,Africa,,,Malagasy Republic (Madagascar)
+Massawah,city/part_of,Africa,,,Eritrea
+Mecca,city/part_of,Asia,,,Saudi Arabia (Kingdom of Hejaz and Nedj)
 Middle-East,geographical_area,Asia,,,
 Milan,country,Europe,3253,,
 Modena,country,Europe,332,,
-Morea,city/part of,Europe,,,Greece
-Neighbouring Islands,city/part of,Asia,,,Indonesia (Dutch East Indies)
-Nepal,city/part of,Asia,,,India
+Morea,city/part_of,Europe,,,Greece
+Neighbouring Islands,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Nepal,city/part_of,Asia,,,India
 Netherlands Dependencies,colonial_area,World,,,Netherlands
-New Caledonia,city/part of,Oceania,,,New Caledonia and Dependencies
-New Guinea (German New Guinea) (Kaiser Wilhelmsland) dependencies,city/part of,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
-Northwest Territories,city/part of,America,,,Canada
+New Caledonia,city/part_of,Oceania,,,New Caledonia and Dependencies
+New Guinea (German New Guinea) (Kaiser Wilhelmsland) dependencies,city/part_of,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
+Northwest Territories,city/part_of,America,,,Canada
 Obock,country,Africa,5222,,
-Odisha,city/part of,Asia,,,India
+Odisha,city/part_of,Asia,,,India
 other,,,,,
-other Ports,city/part of,Asia,,,India
+other Ports,city/part_of,Asia,,,India
 Pakistan,country,Asia,770,,
-Patagonia (Atlantic Coast),city/part of,America,,,Argentina
-Patagonia (Pacific Coast),city/part of,America,,,Chile
-Pays de Gex,city/part of,Europe,,,France
-Pemba Island,city/part of,Africa,,,Zanzibar
+Patagonia (Atlantic Coast),city/part_of,America,,,Argentina
+Patagonia (Pacific Coast),city/part_of,America,,,Chile
+Pays de Gex,city/part_of,Europe,,,France
+Pemba Island,city/part_of,Africa,,,Zanzibar
 Perlis,country,Asia,8224,,
 Persian Gulf Ports,geographical_area,Asia,,,
-Phuket Province,city/part of,Asia,,,Thailand (Siam)
-Piedmont,city/part of,Europe,,,Kingdom of Sardinia
+Phuket Province,city/part_of,Asia,,,Thailand (Siam)
+Piedmont,city/part_of,Europe,,,Kingdom of Sardinia
 Portuguese Dependencies,colonial_area,World,,,Portugal
-Primorsk (Fischhausen),city/part of,Europe,,,Prussia
-Pylos,city/part of,Europe,,,Greece
-Rosetta,city/part of,Africa,,,Egypt/United Arab Republic
+Primorsk (Fischhausen),city/part_of,Europe,,,Prussia
+Pylos,city/part_of,Europe,,,Greece
+Rosetta,city/part_of,Africa,,,Egypt/United Arab Republic
 Russian Colonies,colonial_area,World,,,Russia/USSR
-Russian provinces,city/part of,Europe,,,Russia/USSR
+Russian provinces,city/part_of,Europe,,,Russia/USSR
 Rwanda-Urundi,country,Africa,515,,
-Safi,city/part of,Africa,,,Morocco
-Savoy,city/part of,Europe,,,France
+Safi,city/part_of,Africa,,,Morocco
+Savoy,city/part_of,Europe,,,France
 Saxe Altenburg,country,Europe,262,,
 Saxe Coburg,country,Europe,264,,
 Saxe Meiningen,country,Europe,266,,
 Saxe Weimar,country,Europe,261,,
 Sint Eustatius,country,America,1068,,
-Sonmiani,city/part of,Asia,,,Pakistan
-South West Africa,city/part of,Africa,,,South Africa
-Southern Sakhalin I.,city/part of,Asia,,,Japan
+Sonmiani,city/part_of,Asia,,,Pakistan
+South West Africa,city/part_of,Africa,,,South Africa
+Southern Sakhalin I.,city/part_of,Asia,,,Japan
 Spanish Dependencies,colonial_area,World,,,Spain
-Sri Lanka (Ceylon) Dependencies,city/part of,Asia,,,Sri Lanka (Ceylon)
-St. John,city/part of,America,,,Virgin Islands (Danish West Indies)
-Straits Settlements Dependencies,city/part of,Asia,,,Straits Settlements
-Sumbawa,city/part of,Asia,,,Indonesia (Dutch East Indies)
+Sri Lanka (Ceylon) Dependencies,city/part_of,Asia,,,Sri Lanka (Ceylon)
+St. John,city/part_of,America,,,Virgin Islands (Danish West Indies)
+Straits Settlements Dependencies,city/part_of,Asia,,,Straits Settlements
+Sumbawa,city/part_of,Asia,,,Indonesia (Dutch East Indies)
 Svalbard Is.,country,Arctic,3386,,
 Swedish Colonies,colonial_area,World,,,Sweden
 Swedish Dependencies,colonial_area,World,,,Sweden
 Tadjoura,country,Africa,5221,,
-Tanintharyi Region,city/part of,Asia,,,Burma (Myanmar)
+Tanintharyi Region,city/part_of,Asia,,,Burma (Myanmar)
 United Arab Emirates (Trucial Oman),country,Asia,696,,
 Viceroyalty of New Spain,country,America,1070,,
 Vladivostok,country,Europe,7352,,
-Wandsbeck,city/part of,Europe,,,Hamburg
+Wandsbeck,city/part_of,Europe,,,Hamburg
 Libya (Tripolitania Cyrenaica Fezzan) & Morocco & Tunisia & Turkey,group,Africa,,,
 Selangore,country,Asia,8202,,
 Suriname,country,America,115,,
