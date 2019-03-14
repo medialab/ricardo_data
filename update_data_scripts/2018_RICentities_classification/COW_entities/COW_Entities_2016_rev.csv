@@ -192,9 +192,9 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 1009,South Carolina (Palmetto Republic),1816,1860,Became part of,2
 1009,South Carolina (Palmetto Republic),1861,1865,Became part of,1002
 1009,South Carolina (Palmetto Republic),1865,1993,Became part of,2
-1010,Georgia,1816,1861,Became part of,2
-1010,Georgia,1861,1865,Became part of,1002
-1010,Georgia,1865,1993,Became part of,2
+1010,Georgia (U.S.),1816,1861,Became part of,2
+1010,Georgia (U.S.),1861,1865,Became part of,1002
+1010,Georgia (U.S.),1865,1993,Became part of,2
 1011,Alabama,1816,1861,Became part of,2
 1011,Alabama,1861,1865,Became part of,1002
 1011,Alabama,1865,1993,Became part of,2
@@ -476,7 +476,8 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 252,Lippe,1867,1945,Became part of,255
 253,Mecklenburg Strelitz,1867,1945,Became part of,255
 254,Nassau,1867,1945,Became part of,255
-255,Germany/Prussia,1945,1990,Became part of,260
+255P,Prussia,1816,1870,Sovereign,
+255P,Prussia,1871,,Became part of,255
 256,Saar,1871,1920,Became part of,255
 256,Saar,1920,1935,Mandated to,0
 256,Saar,1935,1945,Became part of,255
@@ -485,13 +486,11 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 257,Oldenburg,1867,1945,Became part of,255
 258,"Reuss, Older Line",1867,1945,Became part of,255
 259,"Reuss, Younger Line",1867,1945,Became part of,255
-260,German Federal Republic,1871,1945,Became part of,255
 260,German Federal Republic,1945,1955,Occupied by,2
 260,German Federal Republic,1990,1993,Became part of,255
 261,Saxe Weimar,1867,1945,Became part of,255
 262,Saxe Altenburg,1816,1827,Became part of,263
 264,Saxe Coburg,1867,1945,Became part of,255
-265,German Democratic Republic,1871,1945,Became part of,255
 265,German Democratic Republic,1945,1954,Occupied by,365
 265,German Democratic Republic,1990,1993,Became part of,255
 266,Saxe Meiningen,1867,1945,Became part of,255
@@ -532,8 +531,8 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 317,Slovakia,1816,1918,Became part of,300
 317,Slovakia,1918,1939,Became part of,315
 317,Slovakia,1945,1992,Became part of,315
-325,Italy/Sardinia,1943,1946,Occupied by,2
-325,Italy/Sardinia,1943,1945,Occupied by,255
+325,Italy,1943,1946,Occupied by,2
+325,Italy,1943,1945,Occupied by,255
 326,Trieste,1919,1943,Became part of,325
 326,Trieste,1943,1947,Occupied by,2
 326,Trieste,1947,1954,Mandated to,1
@@ -579,11 +578,11 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 359,Moldova (Bessarabia) (MoldavianRepublic),1816,1917,Became part of,365
 359,Moldova (Bessarabia) (MoldavianRepublic),1918,1940,Became part of,360
 359,Moldova (Bessarabia) (MoldavianRepublic),1940,1991,Became part of,365
-360,Rumania,1816,1860,Became part of,3361
-360,Rumania,1916,1918,Occupied by,255
-360,Rumania,1944,1949,Occupied by,365
-365,Union of Soviet Socialist Republics / Russia,1915,1918,Occupied by,255
-365,Union of Soviet Socialist Republics / Russia,1941,1943,Occupied by,255
+360,Romania,1816,1860,Became part of,3361
+360,Romania,1916,1918,Occupied by,255
+360,Romania,1944,1949,Occupied by,365
+365,Russia/USSR,1915,1918,Occupied by,255
+365,Russia/USSR,1941,1943,Occupied by,255
 366,Estonia,1816,1918,Became part of,365
 366,Estonia,1940,1941,Became part of,365
 366,Estonia,1941,1943,Occupied by,255
@@ -644,7 +643,7 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 2251,Neuchatel,1816,1993,Became part of,225
 2292,Cracow,1846,1918,Became part of,300
 2292,Cracow,1918,1993,Became part of,290
-2311,Spain-Gibralter Neutral Zone,-199,1993,Became neutral or demilitarized zone of,230
+2311,Spain-Gibralter Neutral Zone,?,1993,Became neutral or demilitarized zone of,230
 2333,Ile des Faisans,1816,1993,Became neutral or demilitarized zone of,220
 2481,Bergedorf,1816,1867,Became part of,248
 2481,Bergedorf,1867,1945,Became part of,255
@@ -1807,10 +1806,10 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 6968,Fujairah,1816,1886,Became part of,6963
 6968,Fujairah,1886,1971,Became protectorate of,200
 6968,Fujairah,1971,1993,Became part of,696
-6969,Abu Dhabi-Dubai Neutral Zone,,,Claimed by,6962
-6969,Abu Dhabi-Dubai Neutral Zone,,,Claimed by,6961
-6969,Abu Dhabi-Dubai Neutral Zone,-197,1971,Became neutral or demilitarized zone of,6962
-6969,Abu Dhabi-Dubai Neutral Zone,-197,1971,Became neutral or demilitarized zone of,6961
+6969,Abu Dhabi-Dubai Neutral Zone,?,,Claimed by,6962
+6969,Abu Dhabi-Dubai Neutral Zone,?,,Claimed by,6961
+6969,Abu Dhabi-Dubai Neutral Zone,?,1971,Became neutral or demilitarized zone of,6962
+6969,Abu Dhabi-Dubai Neutral Zone,?,1971,Became neutral or demilitarized zone of,6961
 6969,Abu Dhabi-Dubai Neutral Zone,1971,1993,Became part of,696
 6971,Abu Musa I.,1816,1971,Became part of,6963
 6971,Abu Musa I.,1971,1992,Became part of,696
@@ -1820,10 +1819,10 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 6982,Kuria Muria Is.,1816,1854,Became part of,698
 6982,Kuria Muria Is.,1854,1967,Became possession of,200
 6982,Kuria Muria Is.,1967,1993,Became part of,698
-6983,Oman-Sharjah Neutral Zone,,,Claimed by,698
-6983,Oman-Sharjah Neutral Zone,,,Claimed by,6963
-6983,Oman-Sharjah Neutral Zone,-197,1971,Became neutral or demilitarized zone of,698
-6983,Oman-Sharjah Neutral Zone,-197,1971,Became neutral or demilitarized zone of,6963
+6983,Oman-Sharjah Neutral Zone,?,,Claimed by,698
+6983,Oman-Sharjah Neutral Zone,?,,Claimed by,6963
+6983,Oman-Sharjah Neutral Zone,?,1971,Became neutral or demilitarized zone of,698
+6983,Oman-Sharjah Neutral Zone,?,1971,Became neutral or demilitarized zone of,6963
 6983,Oman-Sharjah Neutral Zone,1971,1993,Became neutral or demilitarized zone of,696
 6983,Oman-Sharjah Neutral Zone,1971,1993,Became neutral or demilitarized zone of,698
 700,Afghanistan,1819,1855,Became part of,7001
@@ -2597,9 +2596,9 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 9451,Ocean I.,1900,1916,Became possession of,200
 9451,Ocean I.,1916,1975,Became part of,945
 9451,Ocean I.,1975,1993,Became part of,946
-9452,Christmas I.,1888,1916,Became possession of,200
-9452,Christmas I.,1916,1975,Became part of,945
-9452,Christmas I.,1975,1993,Became part of,946
+9452,Christmas Is.,1888,1916,Became possession of,200
+9452,Christmas Is.,1916,1975,Became part of,945
+9452,Christmas Is.,1975,1993,Became part of,946
 9453,Fanning I.,1888,1916,Became possession of,200
 9453,Fanning I.,1916,1975,Became part of,945
 9453,Fanning I.,1975,1993,Became part of,946
@@ -2702,3 +2701,248 @@ Entity Number,Name,Begin Year,End Year,Ending Political Status,Sovereign Entity 
 9992,Queen Maud Land,1939,1993,Claimed by,385
 9993,Bouvet I.,1927,1993,Became possession of,385
 9994,Ross Dependency,1923,1993,Claimed by,920
+325S,Kingdom of Sardinia,1861,,Became part of,325
+2,United States of America,1816,2016,Sovereign,
+20,Canada,1920,2016,Sovereign,
+31,Bahamas,1973,2016,Sovereign,
+40,Cuba,1902,1906,Sovereign,
+40,Cuba,1909,2016,Sovereign,
+41,Haiti,1859,1915,Sovereign,
+41,Haiti,1934,2016,Sovereign,
+42,Dominican Republic (Santo Domingo),1894,1916,Sovereign,
+42,Dominican Republic (Santo Domingo),1924,2016,Sovereign,
+51,Jamaica,1962,2016,Sovereign,
+52,Trinidad and Tobago,1962,2016,Sovereign,
+53,Barbados,1966,2016,Sovereign,
+54,Dominica,1978,2016,Sovereign,
+55,Grenada,1974,2016,Sovereign,
+56,St. Lucia,1979,2016,Sovereign,
+57,St. Vincent and the Grenadines,1979,2016,Sovereign,
+58,Antigua & Barbuda,1981,2016,Sovereign,
+60,St. Kitts-Nevis,1983,2016,Sovereign,
+70,Mexico,1831,2016,Sovereign,
+80,Belize (British Honduras),1981,2016,Sovereign,
+90,Guatemala,1868,2016,Sovereign,
+91,Honduras,1899,2016,Sovereign,
+92,El Salvador,1875,2016,Sovereign,
+93,Nicaragua,1900,2016,Sovereign,
+94,Costa Rica,1920,2016,Sovereign,
+95,Panama,1903,2016,Sovereign,
+100,Colombia (Gran Colombia),1831,2016,Sovereign,
+101,Venezuela,1841,2016,Sovereign,
+110,Guyana (Br. Guiana),1966,2016,Sovereign,
+115,Surinam,1975,2016,Sovereign,
+130,Ecuador,1854,2016,Sovereign,
+135,Peru,1839,2016,Sovereign,
+140,Brazil,1822,2016,Sovereign,
+145,Bolivia,1848,2016,Sovereign,
+150,Paraguay,1846,1870,Sovereign,
+150,Paraguay,1876,2016,Sovereign,
+155,Chile,1839,2016,Sovereign,
+160,Argentina,1841,2016,Sovereign,
+165,Uruguay,1882,2016,Sovereign,
+200,United Kingdom,1816,2016,Sovereign,
+205,Ireland,1922,2016,Sovereign,
+210,Netherlands,1816,1940,Sovereign,
+210,Netherlands,1945,2016,Sovereign,
+211,Belgium,1830,1940,Sovereign,
+211,Belgium,1945,2016,Sovereign,
+212,Luxemburg,1920,1940,Sovereign,
+212,Luxemburg,1944,2016,Sovereign,
+220,France,1816,1942,Sovereign,
+220,France,1944,2016,Sovereign,
+221,Monaco,1993,2016,Sovereign,
+223,Liechtenstein,1990,2016,Sovereign,
+225,Switzerland,1816,2016,Sovereign,
+230,Spain,1816,2016,Sovereign,
+232,Andorra,1993,2016,Sovereign,
+235,Portugal,1816,2016,Sovereign,
+240,Hanover,1837,1866,Sovereign,
+245,Bavaria,1816,1871,Sovereign,
+255,Germany,1871,1945,Sovereign,
+255,Germany,1990,2016,Sovereign,
+260,German Federal Republic,1955,1990,Sovereign,
+265,German Democratic Republic,1954,1990,Sovereign,
+267,Baden,1816,1871,Sovereign,
+269,Saxony,1816,1867,Sovereign,
+271,Wuerttemburg,1816,1871,Sovereign,
+273,Hesse Electoral,1816,1866,Sovereign,
+275,Hesse Grand Ducal,1816,1867,Sovereign,
+280,Mecklenburg Schwerin,1843,1867,Sovereign,
+290,Poland,1918,1939,Sovereign,
+290,Poland,1945,2016,Sovereign,
+300,Austria-Hungary,1816,1918,Sovereign,
+305,Austria,1919,1938,Sovereign,
+305,Austria,1955,2016,Sovereign,
+310,Hungary,1918,2016,Sovereign,
+315,Czechoslovakia,1918,1939,Sovereign,
+315,Czechoslovakia,1945,1992,Sovereign,
+316,Czech Republic,1993,2016,Sovereign,
+317,Slovakia,1993,2016,Sovereign,
+325S,Kingdom of Sardinia,1816,1860,Sovereign,
+325,Italy,1861,2016,Sovereign,
+327,Papal States,1816,1860,Sovereign,
+329,Two Sicilies,1816,1861,Sovereign,
+331,San Marino,1992,2016,Sovereign,
+332,Modena,1842,1860,Sovereign,
+335,Parma,1851,1860,Sovereign,
+337,Tuscany,1816,1860,Sovereign,
+338,Malta,1964,2016,Sovereign,
+339,Albania,1914,1939,Sovereign,
+339,Albania,1944,2016,Sovereign,
+348,Montenegro,2006,2016,Sovereign,
+343,"Macedonia, Former Yugoslav Republic of",1993,2016,Sovereign,
+344,Croatia,1992,2016,Sovereign,
+345,Yugoslavia/Serbia,1818,1941,Sovereign,
+345,Yugoslavia/Serbia,1944,2016,Sovereign,
+346,Bosnia-Herzegovina,1992,2016,Sovereign,
+347,Kosovo,2008,2016,Sovereign,
+349,Slovenia,1992,2016,Sovereign,
+350,Greece,1828,1941,Sovereign,
+350,Greece,1944,2016,Sovereign,
+352,Cyprus,1960,2016,Sovereign,
+355,Bulgaria,1908,2016,Sovereign,
+359,Moldova (Bessarabia) (MoldavianRepublic),1991,2016,Sovereign,
+360,Romania,1878,2016,Sovereign,
+365,Russia/USSR,1816,2016,Sovereign,
+366,Estonia,1918,1940,Sovereign,
+366,Estonia,1991,2016,Sovereign,
+367,Latvia,1918,1940,Sovereign,
+367,Latvia,1991,2016,Sovereign,
+368,Lithuania,1918,1940,Sovereign,
+368,Lithuania,1991,2016,Sovereign,
+369,Ukraine,1991,2016,Sovereign,
+370,Byelorussia (Belarus),1991,2016,Sovereign,
+371,Armenia,1991,2016,Sovereign,
+372,Georgia,1991,2016,Sovereign,
+373,Azerbaijan,1991,2016,Sovereign,
+375,Finland,1917,2016,Sovereign,
+380,Sweden,1816,2016,Sovereign,
+385,Norway,1905,1940,Sovereign,
+385,Norway,1945,2016,Sovereign,
+390,Denmark,1816,1940,Sovereign,
+390,Denmark,1945,2016,Sovereign,
+395,Iceland,1944,2016,Sovereign,
+402,Cape Verde,1975,2016,Sovereign,
+403,Sao Tome-Principe,1975,2016,Sovereign,
+404,Guinea-Bissau (Portuguese Guinea),1974,2016,Sovereign,
+411,Equatorial Guinea (Spanish Guinea),1968,2016,Sovereign,
+420,Gambia,1965,2016,Sovereign,
+432,Mali (French Sudan) (Upper Senegal andNiger),1960,2016,Sovereign,
+433,Senegal,1960,2016,Sovereign,
+434,Benin (Dahomey),1960,2016,Sovereign,
+435,Mauritania,1960,2016,Sovereign,
+436,Niger,1960,2016,Sovereign,
+437,Ivory Coast,1960,2016,Sovereign,
+438,Guinea (French Guinea) (Rivieres du Sud),1958,2016,Sovereign,
+439,Burkina Faso (Upper Volta),1960,2016,Sovereign,
+450,Liberia,1920,2016,Sovereign,
+451,Sierra Leone,1961,2016,Sovereign,
+452,Ghana (Gold Coast),1957,2016,Sovereign,
+461,Togo (French Togoland),1960,2016,Sovereign,
+471,Cameroun (French Cameroons),1960,2016,Sovereign,
+475,Nigeria,1960,2016,Sovereign,
+481,Gabon,1960,2016,Sovereign,
+482,Central African Republic,1960,2016,Sovereign,
+483,Chad,1960,2016,Sovereign,
+484,Congo (Brazzaville) (French Congo (MiddleCongo),1960,2016,Sovereign,
+490,Zaire (Kinshasa) (Belgian Congo),1960,2016,Sovereign,
+500,Uganda,1962,2016,Sovereign,
+501,Kenya (British East Africa Protectorate),1963,2016,Sovereign,
+510,Tanzania (Tanganyika) (German eastAfrica),1961,2016,Sovereign,
+511,Zanzibar,1963,1964,Sovereign,
+516,Burundi,1962,2016,Sovereign,
+517,Rwanda,1962,2016,Sovereign,
+520,Somalia,1960,2016,Sovereign,
+522,Djibouti (Afar and Issas) (FrenchSomaliland),1977,2016,Sovereign,
+530,Ethiopia (Abyssinia),1898,1936,Sovereign,
+530,Ethiopia (Abyssinia),1941,2016,Sovereign,
+531,Eritrea,1993,2016,Sovereign,
+540,Angola,1975,2016,Sovereign,
+541,Mozambique,1975,2016,Sovereign,
+551,Zambia (Northern Rhodesia),1964,2016,Sovereign,
+552,Zimbabwe (Rhodesia) (Southern Rhodesia),1965,2016,Sovereign,
+553,Malawi (Nyasaland),1964,2016,Sovereign,
+560,South Africa,1920,2016,Sovereign,
+565,South West Africa (German West Africa)(Namibia),1990,2016,Sovereign,
+570,Lesotho (Basutoland),1966,2016,Sovereign,
+571,Botswana (Bechuanaland),1966,2016,Sovereign,
+572,Swaziland,1968,2016,Sovereign,
+580,Malagasy Republic (Madagascar),1960,2016,Sovereign,
+581,Comoros,1975,2016,Sovereign,
+590,Mauritius,1968,2016,Sovereign,
+591,Seychelles,1976,2016,Sovereign,
+600,Morocco,1847,1912,Sovereign,
+600,Morocco,1956,2016,Sovereign,
+615,Algeria,1962,2016,Sovereign,
+616,Tunisia,1825,1881,Sovereign,
+616,Tunisia,1956,2016,Sovereign,
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1951,2016,Sovereign,
+625,Sudan (Anglo-Egyptian),1956,2016,Sovereign,
+626,South Sudan,2011,2016,Sovereign,
+630,Iran (Persia),1855,2016,Sovereign,
+640,Turkey,1816,2016,Sovereign,
+645,Iraq (Mesopotamia),1932,2016,Sovereign,
+651,Egypt/United Arab Republic,1855,1882,Sovereign,
+651,Egypt/United Arab Republic,1937,2016,Sovereign,
+652,Syria,1946,1958,Sovereign,
+652,Syria,1961,2016,Sovereign,
+660,Lebanon,1946,2016,Sovereign,
+663,Jordan (Transjordan),1946,2016,Sovereign,
+666,Israel,1948,2016,Sovereign,
+670,Saudi Arabia (Nejd Wahabbid Empire),1927,2016,Sovereign,
+678,Yemen Arab Republic,1926,1990,Sovereign,
+679,Yemen,1990,2016,Sovereign,
+680,Yemen People's Republic,1967,1990,Sovereign,
+690,Kuwait,1961,2016,Sovereign,
+692,Bahrain,1971,2016,Sovereign,
+694,Qatar,1971,2016,Sovereign,
+696,United Arab Emirates (Trucail Oman),1971,2016,Sovereign,
+698,Oman,1971,2016,Sovereign,
+700,Afghanistan,1919,2016,Sovereign,
+701,Turkmenistan,1991,2016,Sovereign,
+702,Tajikistan,1991,2016,Sovereign,
+703,Kyrgyzstan,1991,2016,Sovereign,
+704,Uzbekistan,1991,2016,Sovereign,
+705,Kazakhstan,1991,2016,Sovereign,
+710,People's Republic of China (China),1860,2016,Sovereign,
+712,Mongolia,1921,2016,Sovereign,
+713,Republic of China (Taiwan) (Formosa),1949,2016,Sovereign,
+730,Korea (Chosen),1887,1905,Sovereign,
+731,North Korea,1948,2016,Sovereign,
+732,South Korea,1949,2016,Sovereign,
+740,Japan,1860,1945,Sovereign,
+740,Japan,1952,2016,Sovereign,
+750,India,1947,2016,Sovereign,
+760,Bhutan,1971,2016,Sovereign,
+770,Pakistan,1947,2016,Sovereign,
+771,Bangladesh,1971,2016,Sovereign,
+775,Burma (Myanmar),1948,2016,Sovereign,
+780,Sri Lanka (Ceylon),1948,2016,Sovereign,
+781,Maldive Islands,1965,2016,Sovereign,
+790,Nepal,1920,2016,Sovereign,
+800,Thailand (Siam),1887,2016,Sovereign,
+811,Kampuchea (Cambodia),1953,2016,Sovereign,
+812,Laos,1953,2016,Sovereign,
+816,Vietnam,1954,2016,Sovereign,
+817,Republic of Vietnam,1954,1975,Sovereign,
+820,Malaysia (Malaya),1957,2016,Sovereign,
+830,Singapore,1965,2016,Sovereign,
+835,Brunei,1984,2016,Sovereign,
+840,Philippines,1946,2016,Sovereign,
+850,Indonesia (Dutch East Indies),1949,2016,Sovereign,
+860,East Timor,2002,2016,Sovereign,
+900,Australia,1920,2016,Sovereign,
+910,Papua New Guinea,1975,2016,Sovereign,
+920,New Zealand,1920,2016,Sovereign,
+935,Vanuatu (New Hebrides),1981,2016,Sovereign,
+940,Solomon Islands,1978,2016,Sovereign,
+946,Kiribati,1999,2016,Sovereign,
+947,Tuvalu,2000,2016,Sovereign,
+950,Fiji,1970,2016,Sovereign,
+955,Tonga,1999,2016,Sovereign,
+970,Nauru,1999,2016,Sovereign,
+983,Marshall Is.,1991,2016,Sovereign,
+986,Republic of Palau,1994,2016,Sovereign,
+987,Federated States of Micronesia,1991,2016,Sovereign,
+990,Samoa,1976,2016,Sovereign,

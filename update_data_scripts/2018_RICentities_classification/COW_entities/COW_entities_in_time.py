@@ -14,22 +14,23 @@ translate_link_type = {
     "Occupied by": "occ",
     "Leased to": "leas",
     "Became neutral or demilitarized zone of": "neut",
-    "Mandated to": "mand"
+    "Mandated to": "mand",
+    "Sovereign": "SOV"
 }
 
-with open('./COW_State_2016.csv', encoding='utf8') as r:
-    COW_states = csv.DictReader(r)
-    for COW_state in COW_states:
-        if COW_state['ccode'] not in COW_entities:
-            COW_entities[COW_state['ccode']]['name'] = COW_state['statenme']
-            COW_entities[COW_state['ccode']]['sovereign'] = {}
-            COW_entities[COW_state['ccode']]['years'] = dict((year, 'SOV') for year in range(int(COW_state['styear']), int(COW_state['endyear'])+1))
-            for year in range(int(COW_state['styear']), int(COW_state['endyear'])+1):
-                COW_types_by_year['SOV'][year] = COW_types_by_year['SOV'][year] + 1 if year in COW_types_by_year['SOV'] else 1
-        else:
-            for year in range(int(COW_state['styear']), int(COW_state['endyear'])+1):
-                COW_types_by_year['SOV'][year] = COW_types_by_year['SOV'][year] + 1 if year in COW_types_by_year['SOV'] else 1
-                COW_entities[COW_state['ccode']]['years']['year'] = 'SOV'
+# with open('./COW_State_2016.csv', encoding='utf8') as r:
+#     COW_states = csv.DictReader(r)
+#     for COW_state in COW_states:
+#         if COW_state['ccode'] not in COW_entities:
+#             COW_entities[COW_state['ccode']]['name'] = COW_state['statenme']
+#             COW_entities[COW_state['ccode']]['sovereign'] = {}
+#             COW_entities[COW_state['ccode']]['years'] = dict((year, 'SOV') for year in range(int(COW_state['styear']), int(COW_state['endyear'])+1))
+#             for year in range(int(COW_state['styear']), int(COW_state['endyear'])+1):
+#                 COW_types_by_year['SOV'][year] = COW_types_by_year['SOV'][year] + 1 if year in COW_types_by_year['SOV'] else 1
+#         else:
+#             for year in range(int(COW_state['styear']), int(COW_state['endyear'])+1):
+#                 COW_types_by_year['SOV'][year] = COW_types_by_year['SOV'][year] + 1 if year in COW_types_by_year['SOV'] else 1
+#                 COW_entities[COW_state['ccode']]['years']['year'] = 'SOV'
                 
 with open('./COW_Entities_2016_rev.csv', 'r', encoding='utf8') as r:
     COW_links = csv.DictReader(r)
@@ -47,6 +48,8 @@ with open('./COW_Entities_2016_rev.csv', 'r', encoding='utf8') as r:
                 continue
             else :
                 link['End Year'] = link['Begin Year']
+        if link['Begin Year'] == '?':
+            continue
         for y in range(int(link['Begin Year']), int(link['End Year'])+1):
             COW_types_by_year[link['Ending Political Status']][y] = COW_types_by_year[link['Ending Political Status']][y] + 1 if y in COW_types_by_year[link['Ending Political Status']] else 1
             COW_entities[link['Entity Number']]['years'][y] = translate_link_type[link['Ending Political Status']]
