@@ -1,12 +1,12 @@
 import React from 'react';
-import { connect } from 'react-redux'
+import {connect} from 'react-redux'
 
 import { 
   fetchAllTables,
   fetchDatapackage
 } from '../../redux/modules/repoData';
 
-class DataPrepContainer extends React.Component {
+class DataPrep extends React.Component {
   componentDidMount() {
     this.props.fetchAllTables({branch: 'master'})
     this.props.fetchDatapackage()
@@ -16,8 +16,8 @@ class DataPrepContainer extends React.Component {
     const {repoData} = this.props
     return (
       <div>
-        {repoData.tables && <span>tables</span>}
-        {repoData.datapackage && <span>datapackage</span>}
+        {!repoData.tables && <span>loading tables</span>}
+        {!repoData.datapackage && <span>loading datapackage</span>}
       </div>
     )
   }
@@ -30,4 +30,4 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps, {
   fetchAllTables,
   fetchDatapackage
-})(DataPrepContainer);
+})(DataPrep);
