@@ -32,11 +32,11 @@ const Layout = ({
       <LayoutContainer>
         <LayoutContent>
           <LayoutContentColumn isConfig>
-            {steps.map((step) => {
+            {steps.map((step, index) => {
               const isSelectedStep = (selectedStep.id === step.id)
               const handleClickStep = () => onSetStep(step)
               return (
-                <ButtonContainer>
+                <ButtonContainer key={index} >
                   <Button isColor={isSelectedStep ? "info" : null} onClick={handleClickStep}>
                     {step.name}
                   </Button>

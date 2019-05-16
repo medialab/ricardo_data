@@ -3,13 +3,51 @@ import {connect} from 'react-redux'
 
 import {DropZone} from 'design-workshop'
 import { 
-  updateFlow
+  importFlow,
 } from '../../redux/modules/flow';
 
-const FileUpload = () => {
-  const handleDropFile = (file) => console.log(file)
+import { 
+  setStep
+} from '../../redux/modules/ui';
+
+import {parseSheet, parseTable} from '../../utils/fileParser';
+
+const FileUpload = ({
+  setStep,
+  importFlow
+}) => {
+  const handleDrop = ([file]) => {
+    if (file.name.split('.')[1] === 'xlsx') {
+      parseSheet(file)
+      .then((data) => {
+        importFlow({
+          file: {
+            name: file.name
+          },
+          data
+        });
+        setStep({id: '1'});
+      })
+      .catch((error) => console.error('fail to parse file'))
+    }
+    else {
+      parseTable(file)
+      .then((data) => {
+        importFlow({
+          file: {
+            name: file.name
+          },
+          data
+        });
+        setStep({id: '1'});
+      })
+      .catch((error) => console.error('fail to parse file'))
+    }
+  }
   return (
-    <DropZone>
+    <DropZone
+      maxSize={10000000}
+      onDrop={handleDrop}>
       <span className="tech-info">Drag and drop .xlsx, .csv file here</span>
     </DropZone>
   )
@@ -21,5 +59,6 @@ const mapStateToProps = state => ({
  })
  
  export default connect(mapStateToProps, {
-  updateFlow
+  importFlow,
+  setStep
  })(FileUpload);

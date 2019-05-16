@@ -44,7 +44,7 @@ export default function reducer(state = initialState, action){
     case SET_STEP:
       return {
         ...state,
-        selectedStep: payload
+        selectedStep: steps.find((step) => payload.id === step.id)
       }
     default:
      return state
