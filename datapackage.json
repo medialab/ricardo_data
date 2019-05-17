@@ -69,6 +69,15 @@
             "description": "The source document this trade flow was extracted from"
           },
           {
+            "name": "flow",
+            "type": "number",
+            "decimalChar": ".",
+            "constraints":{
+              "minimum": 0
+            },
+            "description": "value of the trade flow"
+          },
+          {
             "name": "unit",
             "type": "number",
             "description": "The unit the trade flow value is expressed in"
