@@ -11,26 +11,26 @@ const steps = [
     name: 'Upload file',
     title: 'Choose a file'
   },
+  // {
+  //   id: '1',
+  //   name: 'Data Summary',
+  //   title: 'Statistics summary of your uploaded data'
+  // },
   {
     id: '1',
-    name: 'Data Summary',
-    title: 'Statistics summary of your uploaded data'
-  },
-  {
-    id: '2',
     name: 'Schema Validation',
     title: 'Schema validation against datapackage'
   },
-  {
-    id: '3',
-    name: 'Data Validation',
-    title: 'Data validation'
-  },
-  {
-    id: '4',
-    name: 'Export/Publish Data',
-    title: 'Export or Publish your data to Github'
-  }
+  // {
+  //   id: '3',
+  //   name: 'Data Validation',
+  //   title: 'Data validation'
+  // },
+  // {
+  //   id: '4',
+  //   name: 'Export/Publish Data',
+  //   title: 'Export or Publish your data to Github'
+  // }
 ];
 
 const initialState = {

@@ -3,8 +3,8 @@ import {connect} from 'react-redux'
 
 import {DropZone} from 'design-workshop'
 import { 
-  importFlow,
-} from '../../redux/modules/flow';
+  importFlows,
+} from '../../redux/modules/flows';
 
 import { 
   setStep
@@ -14,13 +14,13 @@ import {parseSheet, parseTable} from '../../utils/fileParser';
 
 const FileUpload = ({
   setStep,
-  importFlow
+  importFlows
 }) => {
   const handleDrop = ([file]) => {
     if (file.name.split('.')[1] === 'xlsx') {
       parseSheet(file)
       .then((data) => {
-        importFlow({
+        importFlows({
           file: {
             name: file.name
           },
@@ -33,7 +33,7 @@ const FileUpload = ({
     else {
       parseTable(file)
       .then((data) => {
-        importFlow({
+        importFlows({
           file: {
             name: file.name
           },
@@ -59,6 +59,6 @@ const mapStateToProps = state => ({
  })
  
  export default connect(mapStateToProps, {
-  importFlow,
+  importFlows,
   setStep
  })(FileUpload);

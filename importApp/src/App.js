@@ -5,6 +5,7 @@ import {connect} from 'react-redux'
 import DataPrep from './containers/DataPrep';
 import DataSummary from './containers/DataSummary';
 import FileUpload from './containers/FileUpload';
+import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
 import styles from 'design-workshop/themes/default/style.css';
 
@@ -25,20 +26,14 @@ const App = ({
       default:
         return <FileUpload />;
       case '1':
-        return <DataSummary />;
-      case '2':
-        return <DataSummary />;
-      case '3':
-        return <DataSummary />;
-      case '4':
-        return <DataSummary />;  
+        return <SchemaValidation />;
     }
   }
   
   return (
     <div className="App">
       <DataPrep />
-      { repoData.datapackage && repoData.tables &&
+      { repoData.datapackage &&
         <Layout 
           steps={steps}
           selectedStep={selectedStep}

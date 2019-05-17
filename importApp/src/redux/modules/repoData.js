@@ -1,6 +1,8 @@
 import {get} from 'axios';
 import {apiUri} from '../../config/default'
 
+import {IMPORT_FLOWS} from './flows';
+
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
 export const FETCH_TABLE_FAILURE = 'FETCH_TABLE_FAILURE';
@@ -12,6 +14,7 @@ export const FETCH_DATAPACKAGE_FAILURE = 'FETCH_DATAPACKAGE_FAILURE';
 export const FETCH_TABLES_REQUEST = 'FETCH_TABLES_REQUEST';
 export const FETCH_TABLES_SUCCESS = 'FETCH_TABLES_SUCCESS';
 export const FETCH_TABLES_FAILURE = 'FETCH_TABLES_FAILURE';
+
 
 export const tablesList = [
   {
@@ -118,10 +121,16 @@ export default function reducer(state = initialState, action){
     case FETCH_DATAPACKAGE_SUCCESS:
       return {
         ...state,
-        datapackage: {
-          ...payload,
-          content: JSON.parse(atob(payload.content))
-        }
+        datapackage: payload,
+        descriptor: JSON.parse(atob(payload.content))
+      }
+    case IMPORT_FLOWS:
+      const newDescriptor = {...state.descriptor};
+      delete newDescriptor.resources[0].path
+      newDescriptor.resources[0].data = payload.data
+      return {
+        ...state,
+        descriptor: newDescriptor
       }
     default:
      return state
