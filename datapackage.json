@@ -63,7 +63,6 @@
             }
           },
           {
-            "foreignkey": "sources/slug",
             "name": "source",
             "type": "string",
             "description": "The source document this trade flow was extracted from"
@@ -93,13 +92,11 @@
             "description": "The year of the trade flow "
           },
           {
-            "foreignkey":"entity_names/original_name",
             "name": "reporting",
             "type": "string",
             "description": "Name of the country reporting the trade flow"
           },
           {
-            "foreignkey":"entity_names/original_name",
             "name": "partner",
             "type": "string",
             "description": "Name of the trade partner of the trade flow"
@@ -147,7 +144,22 @@
             "type": "string",
             "description": "Free text notes left by the research team"
           }
-       ]}
+       ],
+       "foreignKeys": [
+          {
+            "fields": "source",
+            "reference": {"resource": "sources", "fields": "original_name"}
+          },
+          {
+            "fields": "reporting",
+            "reference": {"resource": "entity_names", "fields": "original_name"}
+          },
+          {
+            "fields": "partner",
+            "reference": {"resource": "entity_names", "fields": "original_name"}
+          }
+        ]
+      }
     },
     {
     "name":"sources",
@@ -211,6 +223,11 @@
             "description": "The shelf number of the source when preserved in an archive"
           },
           {
+            "name": "notes",
+            "type": "string",
+            "description": "Free text notes left by the research team"
+          },
+          {
             "name": "source_category",
             "type": "string",
             "description": "source category: article, book, database, statistical series, website",
@@ -219,22 +236,17 @@
             }
           },
           {
+            "name": "URL",
+            "type": "string",
+            "description": "URL where the original source is available"
+          },
+          {
             "name": "type",
             "type": "string",
             "description": "Type of source: estimation, primary, secondary",
             "constraints":{
               "enum":["estimation","primary","secondary"]
             }
-          },
-          {
-            "name": "URL",
-            "type": "string",
-            "description": "URL where the original source is available"
-          },
-           {
-            "name": "notes",
-            "type": "string",
-            "description": "Free text notes left by the research team"
           }
        ]}
     },
