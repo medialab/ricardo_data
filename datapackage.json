@@ -315,11 +315,6 @@
               "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname this original name is translated into"
-            },
-            {
-              "name": "COW_code",
-              "type": "string",
-              "description": "Correlates Of War (COW) identifier."
             }
       ]}
     },
