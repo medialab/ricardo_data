@@ -1,5 +1,7 @@
 import {get} from 'axios';
-import {apiUri} from '../../config/default'
+import {Package, Resource} from 'datapackage';
+
+import {apiUri, repoUrl} from '../../config/default';
 
 import {IMPORT_FLOWS} from './flows';
 
@@ -14,6 +16,10 @@ export const FETCH_DATAPACKAGE_FAILURE = 'FETCH_DATAPACKAGE_FAILURE';
 export const FETCH_TABLES_REQUEST = 'FETCH_TABLES_REQUEST';
 export const FETCH_TABLES_SUCCESS = 'FETCH_TABLES_SUCCESS';
 export const FETCH_TABLES_FAILURE = 'FETCH_TABLES_FAILURE';
+
+export const VALIDATE_RESOURCE_REQUEST = 'VALIDATE_RESOURCE_REQUEST';
+export const VALIDATE_RESOURCE_SUCCESS = 'VALIDATE_RESOURCE_SUCCESS';
+export const VALIDATE_RESOURCE_FAILURE = 'VALIDATE_RESOURCE_FAILURE';
 
 
 export const tablesList = [
@@ -108,12 +114,64 @@ export const fetchDatapackage = () => (dispatch) => {
     }))
 }
 
+export const validateResource = (payload) => (dispatch) => {
+  dispatch(async () => {
+    let resource;
+    try {
+      const {descriptor, relations} = payload;
+      const dataPackage = await Package.load(descriptor, {basePath: repoUrl});
+      resource = dataPackage.getResource('flows');
+      await resource.read({relations});
+
+      dispatch({
+        type: VALIDATE_RESOURCE_SUCCESS
+      })
+    } catch (error) {
+      if (error.multiple) {
+        dispatch({
+          type: VALIDATE_RESOURCE_FAILURE,
+          payload : {
+            rowNumber: error.rowNumber,
+            messages: error.errors.map((err) => { 
+              return {
+              ...err,
+              message: err.message
+              }
+            })
+          }
+        })
+      } else {
+        dispatch({
+          type: VALIDATE_RESOURCE_FAILURE,
+          payload : {
+            rowNumber: error.rowNumber,
+            messages: [
+              {
+                ...error,
+                message: error.message
+              }
+            ]
+          }
+        })
+      }
+    }
+  })
+}
+
 const initialState = {}
 
 export default function reducer(state = initialState, action){
   const {payload} = action;
+  let newDescriptor;
   switch (action.type){
     case FETCH_TABLES_SUCCESS:
+      // newDescriptor = {...state.descriptor};
+      // newDescriptor.resources.forEach((resource)=> {
+      //   if (payload[resource.name]) {
+      //     delete resource.path;
+      //     resource.data = csvParseRows(atob(payload[resource.name].content))
+      //   }
+      // });
       return {
         ...state,
         tables: payload
@@ -125,13 +183,36 @@ export default function reducer(state = initialState, action){
         descriptor: JSON.parse(atob(payload.content))
       }
     case IMPORT_FLOWS:
-      const newDescriptor = {...state.descriptor};
+      newDescriptor = {...state.descriptor};
+      // newDescriptor.resources.forEach((resource)=> {
+      //   resource.path = `${repoUrl}/${resource.path}`
+      // });
       delete newDescriptor.resources[0].path
+      // newDescriptor.resources[0].dialect = {
+      //   delimiter: ';',
+      //   header: true
+      // }
       newDescriptor.resources[0].data = payload.data
       return {
         ...state,
         descriptor: newDescriptor
       }
+    case VALIDATE_RESOURCE_SUCCESS:
+      return {
+        ...state,
+        schemaFeedback: {
+          valid: true
+        }
+      }
+    case VALIDATE_RESOURCE_FAILURE:
+      return {
+        ...state,
+        schemaFeedback: {
+          valid: false,
+          ...payload
+        }
+      }
+      
     default:
      return state
   }

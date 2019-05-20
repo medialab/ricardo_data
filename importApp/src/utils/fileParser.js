@@ -2,6 +2,7 @@
 import XLSX from 'xlsx';
 import {
   csvParse,
+  csvParseRows,
   tsvParse,
 } from 'd3-dsv';
 
@@ -11,7 +12,7 @@ export function parseTable( file ) {
     reader.onload = ( event ) => {
       let data;
       if (file.name.split('.')[1] === 'csv') {
-        data = csvParse(event.target.result);
+        data = csvParseRows(event.target.result);
       }
       else {
         data = tsvParse(event.target.result);
