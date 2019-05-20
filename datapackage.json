@@ -148,7 +148,7 @@
        "foreignKeys": [
           {
             "fields": "source",
-            "reference": {"resource": "sources", "fields": "original_name"}
+            "reference": {"resource": "sources", "fields": "slug"}
           },
           {
             "fields": "reporting",
