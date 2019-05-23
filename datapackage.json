@@ -312,11 +312,17 @@
             },
             {
               "name": "RICname",
-              "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname this original name is translated into"
+            } 
+          ],
+          "foreignKeys": [
+            {
+              "fields": "RICname",
+              "reference": {"resource": "RICentities", "fields": "RICname"}
             }
-      ]}
+          ]
+      }
     },
     {
       "name":"RICentities_groups",
@@ -336,17 +342,26 @@
             },
             {
               "name": "RICname_group",
-              "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname group"
             },
             {
               "name": "RICname_part",
-              "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname part"
             }
-      ]}
+        ],
+        "foreignKeys": [
+          {
+            "fields": "RICname_group",
+            "reference": {"resource": "RICentities", "fields": "RICname"}
+          },
+          {
+            "fields": "RICname_part",
+            "reference": {"resource": "RICentities", "fields": "RICname"}
+          }
+        ]
+      }
     },
     {
       "name":"exchange_rates",
@@ -373,7 +388,6 @@
             },
             {
               "name": "source",
-              "foreignkey":"source/slug",
               "type": "string",
               "description": "Source used to get this exchange rate"
             },
@@ -382,7 +396,14 @@
             "type": "string",
             "description": "Free text notes left by the research team"
           }
-      ]}
+        ],
+        "foreignKeys": [
+          {
+            "fields": "source",
+            "reference": {"resource": "sources", "fields": "slug"}
+          }
+        ]
+      }
     },
      {
       "name":"currencies",
@@ -404,7 +425,6 @@
             },
             {
               "name": "reporting",
-              "foreignkey":"entity_names/original_name",
               "type": "string",
               "description": "Curencies are translated depending on the reporting of the flow"
             },
@@ -413,7 +433,14 @@
               "type": "string",
               "description": "The translated currency name"
             }
-      ]}
+        ],
+        "foreignKeys": [
+          {
+            "fields": "reporting",
+            "reference": {"resource": "entity_names", "fields": "original_name"}
+          }
+        ]
+      }
     },
     {
       "name":"expimp_spegen",
