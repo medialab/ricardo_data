@@ -65,7 +65,10 @@
           {
             "name": "source",
             "type": "string",
-            "description": "The source document this trade flow was extracted from"
+            "description": "The source document this trade flow was extracted from",
+            "constraints": {
+              "required":true
+            }
           },
           {
             "name": "flow",
@@ -93,17 +96,26 @@
           {
             "name": "year",
             "type": "year",
-            "description": "The year of the trade flow "
+            "description": "The year of the trade flow ",
+            "constraints": {
+              "required":true
+            }
           },
           {
             "name": "reporting",
             "type": "string",
-            "description": "Name of the country reporting the trade flow"
+            "description": "Name of the country reporting the trade flow",
+            "constraints": {
+              "required":true
+            }
           },
           {
             "name": "partner",
             "type": "string",
-            "description": "Name of the trade partner of the trade flow"
+            "description": "Name of the trade partner of the trade flow",
+            "constraints": {
+              "required":true
+            }
           },
           {
             "name": "export_import",
