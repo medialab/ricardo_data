@@ -33,7 +33,7 @@ const App = ({
   return (
     <div className="App">
       <DataPrep />
-      { repoData.datapackage &&
+      { repoData.descriptor &&
         <Layout 
           steps={steps}
           selectedStep={selectedStep}

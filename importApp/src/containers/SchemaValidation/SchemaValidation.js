@@ -2,75 +2,83 @@ import React from 'react';
 import {connect} from 'react-redux';
 
 import {Button} from 'design-workshop';
-import TableForm from '../../components/TableForm';
-import {validateResource} from '../../redux/modules/repoData';
+import FeedbackTable from '../../components/FeedbackTable';
+import {validateTable, getRelations, getForeignKeys, getSchema} from '../../redux/modules/schemaValidation';
 
 class SchemaValidation extends React.Component {
+  componentDidMount () {
+    const {flows, schema, schemaFeedback, relations} = this.props;
+    this.props.validateTable({source:flows, schema, relations});
+  }
+  render() {
+    const {flows, schema, schemaFeedback, relations} = this.props;
 
-  render() { 
-    const {descriptor, schemaFeedback} = this.props;
-    const {data} = descriptor.resources[0];
-    const columnsNames = data[0];
-    
-    const getRow = () => {
-      const row = data[schemaFeedback.rowNumber -1];
-      const errorColNums = schemaFeedback.messages.map((item) => item.columnNumber)
-      const result = columnsNames.map((name, index)=> {
-        if (errorColNums.indexOf(index + 1) !== -1) {
-          const {message} = schemaFeedback.messages.find((item) => item.columnNumber === (index + 1))
-          return {
-            name, 
-            value: row[index],
-            valid: false,
-            message
-          }
-        }
-        else {
-          return {
-            name, 
+    const columnNames = flows[0]
+    const errorTypes = ['ERROR_FORMAT', 'ERROR_UNIQUE_KEY', 'ERROR_FOREIGN_KEY'];
+  
+    const getFeedbackTable = () => {
+      const output = []
+      schemaFeedback.errors.forEach((error)=>{
+        const row = flows[error.rowNumber -1]
+        const tableRow = columnNames.reduce((res, name, index) => {
+          let item = {
+            name,
             value: row[index],
             valid: true
-          }
-        }
+          };
+          errorTypes.forEach((errorType) => {
+            const selectedErrors = error.errors.find((err) => err.type === errorType)
+            if (selectedErrors && selectedErrors.errors) {
+              const selectedError = selectedErrors.errors.find((err) => {
+                if (err.columnNumber) return err.columnNumber === index + 1;
+                else if (err.columnName) return err.columnName[0] === name;
+                else return;
+              });
+              if (selectedError) {
+                item = {
+                  ...item, 
+                  valid: false, 
+                  errorType,
+                  message: selectedError.message,
+                }
+              }
+            }
+          })
+          return {...res, [name]: item}
+        }, {});
+        output.push(tableRow)
       });
-      return result;
+      return output;
     }
-    // const getTable = () => {
-    //   const output = []
-    //   schemaFeedback.messages.forEach((error)=>{
-    //     const row = data[error.rowNumber -1]
-    //     const tableRow = columnsNames.reduce((res, name, index) => {
-    //       return {...res, [name]: row[index]}
-    //     }, {});
-    //     output.push(tableRow)
-    //   });
-    //   return output;
-    // }
-  const handleClick = () => this.props.validateResource({descriptor, relations: true})
     return (
       <div>
-        <Button onClick={handleClick}>
-          validate new flow
-        </Button>
         {
-          schemaFeedback && !schemaFeedback.valid && schemaFeedback.messages.length > 0 &&
-          <div style={{position: 'relative', width: '100%', height: '70vh'}}>
-            <span>{schemaFeedback.messages.length} errors found</span>
-            <TableForm
-              values={getRow()}
-              errorColNumber={schemaFeedback.messages[0].columnNumber -1}
-              columnNames={columnsNames} />
+          schemaFeedback && schemaFeedback.status === 'loading' &&
+          <span>validating flows</span>
+        }
+        {
+          schemaFeedback && !schemaFeedback.valid && schemaFeedback.errors &&
+          <div>
+            <span>Found {schemaFeedback.errors.length} rows has errors</span>
+            {<FeedbackTable
+              values={getFeedbackTable()}
+              columnNames={columnNames} /> }
           </div>
+        }
+        {
+          schemaFeedback && schemaFeedback.valid && <span>Flows data is valid</span>
         }
       </div>
     )
   }
 }
-
 const mapStateToProps = state => ({
-  descriptor: state.repoData && state.repoData.descriptor,
-  schemaFeedback: state.repoData && state.repoData.schemaFeedback
+  flows: state.flows.data,
+  schema: state.schemaValidation.descriptor && getSchema(state),
+  relations: state.schemaValidation.descriptor && getRelations(state),
+  foreignKeys: state.schemaValidation.descriptor && getForeignKeys(state),
+  schemaFeedback: state.schemaValidation.schemaFeedback
 })
 
 
-export default connect(mapStateToProps, {validateResource})(SchemaValidation);
+export default connect(mapStateToProps, {validateTable})(SchemaValidation);

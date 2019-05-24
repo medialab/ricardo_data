@@ -8,8 +8,8 @@ import {
 
 class DataPrep extends React.Component {
   componentDidMount() {
-    this.props.fetchAllTables({branch: 'master'})
     this.props.fetchDatapackage()
+    this.props.fetchAllTables({branch:'master'})
   }
 
   render () {

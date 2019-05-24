@@ -34,10 +34,14 @@ const Layout = ({
           <LayoutContentColumn isConfig>
             {steps.map((step, index) => {
               const isSelectedStep = (selectedStep.id === step.id)
+              const isStepDisabled = step.id > selectedStep.id;
               const handleClickStep = () => onSetStep(step)
               return (
                 <ButtonContainer key={index} >
-                  <Button isColor={isSelectedStep ? "info" : null} onClick={handleClickStep}>
+                  <Button 
+                    isColor={isSelectedStep ? "info" : null} 
+                    isDisabled={isStepDisabled}
+                    onClick={handleClickStep}>
                     {step.name}
                   </Button>
                 </ButtonContainer>)
