@@ -95,3 +95,13 @@ FedericoTena_data
 #sqlite db
 *.sqlite
 *.sqlite-journal
+#data
+data/*.xlsx
+data/*.ods
+database_scripts/data*
+database_scripts/out_data
+database_scripts/*.csv
+database_scripts/*.json
+data_old
+#deprecated
+database_scripts_old
