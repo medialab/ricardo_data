@@ -81,8 +81,7 @@
           },
           {
             "name": "unit",
-            "type": "number",
-            "decimalChar": ".",
+            "type": "integer",
             "constraints":{
               "minimum": 1
             },
