@@ -63,10 +63,12 @@
             }
           },
           {
-            "foreignkey": "sources/slug",
             "name": "source",
             "type": "string",
-            "description": "The source document this trade flow was extracted from"
+            "description": "The source document this trade flow was extracted from",
+            "constraints": {
+              "required":true
+            }
           },
           {
             "name": "flow",
@@ -80,6 +82,10 @@
           {
             "name": "unit",
             "type": "number",
+            "decimalChar": ".",
+            "constraints":{
+              "minimum": 1
+            },
             "description": "The unit the trade flow value is expressed in"
           },
           {
@@ -90,19 +96,26 @@
           {
             "name": "year",
             "type": "year",
-            "description": "The year of the trade flow "
+            "description": "The year of the trade flow ",
+            "constraints": {
+              "required":true
+            }
           },
           {
-            "foreignkey":"entity_names/original_name",
             "name": "reporting",
             "type": "string",
-            "description": "Name of the country reporting the trade flow"
+            "description": "Name of the country reporting the trade flow",
+            "constraints": {
+              "required":true
+            }
           },
           {
-            "foreignkey":"entity_names/original_name",
             "name": "partner",
             "type": "string",
-            "description": "Name of the trade partner of the trade flow"
+            "description": "Name of the trade partner of the trade flow",
+            "constraints": {
+              "required":true
+            }
           },
           {
             "name": "export_import",
@@ -122,7 +135,10 @@
           {
             "name": "transport_type",
             "type": "string",
-            "description": "For some flows, the transport type is precised : by land or by see for instance."
+            "description": "For some flows, the transport type is precised : by land or by see for instance.",
+            "constraints":{
+              "enum":["Fleuve","Mer","Terre","Terre et Fleuves","Terre et Mer","Terre et Mer et Fleuves"]
+            }
           },
           {
             "name": "statistical_period",
@@ -132,14 +148,17 @@
           {
             "name": "partner_sum",
             "type": "string",
-            "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...)."
+            "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
+            "constraints":{
+              "enum":["1"]
+            }
           },
           {
             "name": "world_trade_type",
             "type": "string",
             "description": "Categorize the different types of Total trade calculations: total_estimated (recent estimations), total_reporting1 (total reported by the soruce), total_reporting2 (subtotals reported by the source)",
             "constraints":{
-              "enum":["total_estimated","total_reporting1","total_reporting2"]
+              "enum":["total_estimated","total_reporting","total_subreporting"]
             }
           },
            {
@@ -147,7 +166,30 @@
             "type": "string",
             "description": "Free text notes left by the research team"
           }
-       ]}
+       ],
+       "foreignKeys": [
+          {
+            "fields": "source",
+            "reference": {"resource": "sources", "fields": "slug"}
+          },
+          {
+            "fields": "reporting",
+            "reference": {"resource": "entity_names", "fields": "original_name"}
+          },
+          {
+            "fields": "partner",
+            "reference": {"resource": "entity_names", "fields": "original_name"}
+          },
+          {
+            "fields": ["currency", "year", "reporting"],
+            "reference": {"resource": "currencies", "fields": ["currency", "year", "reporting"]}
+          },
+          {
+            "fields": ["export_import", "special_general"],
+            "reference": {"resource": "expimp_spegen", "fields": ["export_import", "special_general"]}
+          }
+        ]
+      }
     },
     {
     "name":"sources",
@@ -211,6 +253,11 @@
             "description": "The shelf number of the source when preserved in an archive"
           },
           {
+            "name": "notes",
+            "type": "string",
+            "description": "Free text notes left by the research team"
+          },
+          {
             "name": "source_category",
             "type": "string",
             "description": "source category: article, book, database, statistical series, website",
@@ -219,22 +266,17 @@
             }
           },
           {
+            "name": "URL",
+            "type": "string",
+            "description": "URL where the original source is available"
+          },
+          {
             "name": "type",
             "type": "string",
             "description": "Type of source: estimation, primary, secondary",
             "constraints":{
               "enum":["estimation","primary","secondary"]
             }
-          },
-          {
-            "name": "URL",
-            "type": "string",
-            "description": "URL where the original source is available"
-          },
-           {
-            "name": "notes",
-            "type": "string",
-            "description": "Free text notes left by the research team"
           }
        ]}
     },
@@ -300,16 +342,17 @@
             },
             {
               "name": "RICname",
-              "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname this original name is translated into"
-            },
+            } 
+          ],
+          "foreignKeys": [
             {
-              "name": "COW_code",
-              "type": "string",
-              "description": "Correlates Of War (COW) identifier."
+              "fields": "RICname",
+              "reference": {"resource": "RICentities", "fields": "RICname"}
             }
-      ]}
+          ]
+      }
     },
     {
       "name":"RICentities_groups",
@@ -329,17 +372,26 @@
             },
             {
               "name": "RICname_group",
-              "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname group"
             },
             {
               "name": "RICname_part",
-              "foreignkey":"RICames/RICname",
               "type": "string",
               "description": "the RICname part"
             }
-      ]}
+        ],
+        "foreignKeys": [
+          {
+            "fields": "RICname_group",
+            "reference": {"resource": "RICentities", "fields": "RICname"}
+          },
+          {
+            "fields": "RICname_part",
+            "reference": {"resource": "RICentities", "fields": "RICname"}
+          }
+        ]
+      }
     },
     {
       "name":"exchange_rates",
@@ -366,7 +418,6 @@
             },
             {
               "name": "source",
-              "foreignkey":"source/slug",
               "type": "string",
               "description": "Source used to get this exchange rate"
             },
@@ -375,7 +426,14 @@
             "type": "string",
             "description": "Free text notes left by the research team"
           }
-      ]}
+        ],
+        "foreignKeys": [
+          {
+            "fields": "source",
+            "reference": {"resource": "sources", "fields": "slug"}
+          }
+        ]
+      }
     },
      {
       "name":"currencies",
@@ -397,7 +455,6 @@
             },
             {
               "name": "reporting",
-              "foreignkey":"entity_names/original_name",
               "type": "string",
               "description": "Curencies are translated depending on the reporting of the flow"
             },
@@ -406,7 +463,18 @@
               "type": "string",
               "description": "The translated currency name"
             }
-      ]}
+        ],
+        "foreignKeys": [
+          {
+            "fields": "reporting",
+            "reference": {"resource": "entity_names", "fields": "original_name"}
+          },
+          {
+            "fields": ["modified_currency", "year"],
+            "reference": {"resource": "exchange_rates", "fields": ["modified_currency", "year"]}
+          },
+        ]
+      }
     },
     {
       "name":"expimp_spegen",
