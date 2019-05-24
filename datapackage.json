@@ -79,6 +79,10 @@
           {
             "name": "unit",
             "type": "number",
+            "decimalChar": ".",
+            "constraints":{
+              "minimum": 1
+            },
             "description": "The unit the trade flow value is expressed in"
           },
           {
@@ -119,7 +123,10 @@
           {
             "name": "transport_type",
             "type": "string",
-            "description": "For some flows, the transport type is precised : by land or by see for instance."
+            "description": "For some flows, the transport type is precised : by land or by see for instance.",
+            "constraints":{
+              "enum":["Fleuve","Mer","Terre","Terre et Fleuves","Terre et Mer","Terre et Mer et Fleuves"]
+            }
           },
           {
             "name": "statistical_period",
@@ -129,14 +136,17 @@
           {
             "name": "partner_sum",
             "type": "string",
-            "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...)."
+            "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
+            "constraints":{
+              "enum":["1"]
+            }
           },
           {
             "name": "world_trade_type",
             "type": "string",
             "description": "Categorize the different types of Total trade calculations: total_estimated (recent estimations), total_reporting1 (total reported by the soruce), total_reporting2 (subtotals reported by the source)",
             "constraints":{
-              "enum":["total_estimated","total_reporting1","total_reporting2"]
+              "enum":["total_estimated","total_reporting","total_subreporting"]
             }
           },
            {
@@ -157,6 +167,14 @@
           {
             "fields": "partner",
             "reference": {"resource": "entity_names", "fields": "original_name"}
+          },
+          {
+            "fields": ["currency", "year", "reporting"],
+            "reference": {"resource": "currencies", "fields": ["currency", "year", "reporting"]}
+          },
+          {
+            "fields": ["export_import", "special_general"],
+            "reference": {"resource": "expimp_spegen", "fields": ["export_import", "special_general"]}
           }
         ]
       }
@@ -438,7 +456,11 @@
           {
             "fields": "reporting",
             "reference": {"resource": "entity_names", "fields": "original_name"}
-          }
+          },
+          {
+            "fields": ["modified_currency", "year"],
+            "reference": {"resource": "exchange_rates", "fields": ["modified_currency", "year"]}
+          },
         ]
       }
     },
