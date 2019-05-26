@@ -156,6 +156,7 @@ export const validateTable = (payload) => (dispatch) => {
 const initialState = {
   tableValidated: 'flows',
   schemaFeedback: null,
+  headerFeedback: null,
   tables: null
 }
 
@@ -166,7 +167,8 @@ export default function reducer(state = initialState, action){
       if (payload.id === '0') {
         return {
           ...state,
-          schemaFeedback: null
+          schemaFeedback: null,
+          headerFeedback: null,
         }
       }
       return state

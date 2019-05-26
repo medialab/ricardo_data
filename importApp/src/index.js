@@ -10,7 +10,7 @@ import * as serviceWorker from './serviceWorker';
 import configureStore from './redux/configureStore';
 
 const initialState = {};
-const store = configureStore(initialState);
+const {store} = configureStore(initialState);
 
 
 ReactDOM.render(
