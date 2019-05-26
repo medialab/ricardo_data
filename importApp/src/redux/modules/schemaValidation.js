@@ -25,6 +25,10 @@ export const VALIDATE_TABLE_REQUEST = 'VALIDATE_TABLE_REQUEST';
 export const VALIDATE_TABLE_SUCCESS = 'VALIDATE_TABLE_SUCCESS';
 export const VALIDATE_TABLE_FAILURE = 'VALIDATE_TABLE_FAILURE';
 
+export const VALIDATE_HEADER_REQUEST = 'VALIDATE_HEADER_REQUEST';
+export const VALIDATE_HEADER_SUCCESS = 'VALIDATE_HEADER_SUCCESS';
+export const VALIDATE_HEADER_FAILURE = 'VALIDATE_HEADER_FAILURE';
+
 // not used yet
 export const validateResource = (payload) => (dispatch) => {
   const {descriptor, relations} = payload;
@@ -72,10 +76,42 @@ export const validateResource = (payload) => (dispatch) => {
   })
 }
 
+export const validateHeader = (payload) => (dispatch) => {
+  const {source, schema} = payload;
+  dispatch({
+    type: VALIDATE_HEADER_REQUEST,
+    payload: {
+      ...payload,
+      status: 'loading'
+    }
+  })
+  dispatch(async() => {
+    try {
+      const table = await Table.load(source, {schema});
+      await table.read({limit: 1});
+      dispatch({
+        type: VALIDATE_HEADER_SUCCESS,
+        payload: {
+          status: 'done',
+          valid: true,
+          headers: table.headers
+        }
+      })
+    } catch (error) {
+      dispatch({
+        type: VALIDATE_HEADER_FAILURE,
+        valid: false,
+        payload: error
+      })
+    }
+  })
+}
+
 export const validateTable = (payload) => (dispatch) => {
   dispatch({
     type: VALIDATE_TABLE_REQUEST,
     payload: {
+      ...payload,
       status: 'loading'
     }
   })
@@ -178,6 +214,13 @@ export default function reducer(state = initialState, action){
     //       ...payload
     //     }
     //   }
+    case VALIDATE_HEADER_REQUEST: 
+    case VALIDATE_HEADER_FAILURE:
+    case VALIDATE_HEADER_SUCCESS:
+      return {
+        ...state,
+        headerFeedback: payload
+      }
     case VALIDATE_TABLE_REQUEST: 
     case VALIDATE_TABLE_FAILURE:
     case VALIDATE_TABLE_SUCCESS: 

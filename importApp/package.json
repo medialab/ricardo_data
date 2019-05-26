@@ -2,7 +2,7 @@
   "name": "ricardo-data-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://medialab.github.io/ricardo_data",
+  "homepage": ".",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
@@ -11,14 +11,13 @@
     "d3-dsv": "^1.1.1",
     "datapackage": "^1.1.1",
     "design-workshop": "git+https://github.com/medialab/design-workshop.git",
-    "gh-pages": "^2.0.1",
     "js-base64": "^2.5.1",
     "localforage": "^1.7.3",
     "lodash": "^4.17.11",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
-    "react-scripts": "3.0.1",
+    "react-scripts": "^3.0.1",
     "redux": "^4.0.1",
     "redux-persist": "^5.10.0",
     "redux-thunk": "^2.3.0",
@@ -48,5 +47,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
   }
 }
