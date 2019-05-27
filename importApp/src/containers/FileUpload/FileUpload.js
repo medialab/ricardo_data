@@ -18,6 +18,7 @@ import {
 import HeaderValidation from '../../components/HeaderValidation';
 
 import {parseSheet, parseTable} from '../../utils/fileParser';
+import { MAXIMUM_FILE_SIZE } from '../../constants';
 
 const FileUpload = ({
   schema,
@@ -54,14 +55,18 @@ const FileUpload = ({
       .catch((error) => console.error('fail to parse file'))
     }
   }
+  const handleDropRejected = (file, event) => {
+    console.log("file is invalid")
+  }
   const handleNextStep = () => setStep({id: '1'})
   return (
     <div>
       <DropZone
-        maxSize={10000000}
+        maxSize={MAXIMUM_FILE_SIZE}
         onDrop={handleDrop}
+        onDropRejected={handleDropRejected}
         isSize="small">
-        <span className="tech-info">Drag and drop .xlsx, .csv file here</span>
+        <span className="tech-info">Drag and drop .xlsx, .csv file here(maximum 10MB)</span>
       </DropZone>
       {
         headerFeedback && headerFeedback.status === 'loading' &&

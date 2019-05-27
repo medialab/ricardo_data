@@ -15,7 +15,7 @@ class SchemaValidation extends React.Component {
 
     const columnNames = flows[0]
     const errorTypes = ['ERROR_FORMAT', 'ERROR_UNIQUE_KEY', 'ERROR_FOREIGN_KEY'];
-  
+
     const getFeedbackTable = () => {
       const output = []
       schemaFeedback.errors.forEach((error)=>{
@@ -54,7 +54,7 @@ class SchemaValidation extends React.Component {
       <div>
         {
           schemaFeedback && schemaFeedback.status === 'loading' &&
-          <span>validating flows</span>
+          <span>{schemaFeedback.loader}</span>
         }
         {
           schemaFeedback && !schemaFeedback.valid && schemaFeedback.errors &&

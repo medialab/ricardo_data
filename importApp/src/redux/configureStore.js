@@ -31,7 +31,8 @@ export default function configureStore ( initialState = {} ) {
   )
   
   let store = createStore(
-    persistedReducer,
+    rootReducer,
+    // persistedReducer,
     initialState,
     composedEnhancers
   )

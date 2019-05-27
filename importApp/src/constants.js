@@ -1,0 +1,3 @@
+export const MAXIMUM_FILE_SIZE = 10000000;
+export const DEFAULT_CHUNK_SIZE = 100;
+

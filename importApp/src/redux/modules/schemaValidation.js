@@ -12,6 +12,8 @@ import {repoUrl} from '../../config/default';
 import {SET_STEP} from './ui';
 import {IMPORT_FLOWS} from './flows';
 
+import {DEFAULT_CHUNK_SIZE} from '../../constants';
+
 import {
   FETCH_TABLES_SUCCESS,
   FETCH_DATAPACKAGE_SUCCESS,
@@ -87,7 +89,7 @@ export const validateHeader = (payload) => (dispatch) => {
   })
   dispatch(async() => {
     try {
-      const table = await Table.load(source, {schema});
+      const table = await Table.load(source.slice(0,2), {schema});
       await table.read({limit: 1});
       dispatch({
         type: VALIDATE_HEADER_SUCCESS,
@@ -98,6 +100,7 @@ export const validateHeader = (payload) => (dispatch) => {
         }
       })
     } catch (error) {
+      console.log(error)
       dispatch({
         type: VALIDATE_HEADER_FAILURE,
         valid: false,
@@ -108,20 +111,35 @@ export const validateHeader = (payload) => (dispatch) => {
 }
 
 export const validateTable = (payload) => (dispatch) => {
-  dispatch({
-    type: VALIDATE_TABLE_REQUEST,
-    payload: {
-      ...payload,
-      status: 'loading'
-    }
-  })
   const {source, schema, relations} = payload;
 
   dispatch(async() => {
     try {
-      const table = await Table.load(source, {schema});
-      const rows = await table.read({forceCast: true, relations, limit: 500});
-      const errors = rows.filter((row) => row.errors)
+      const tableLength = source.length;
+      const chunk = DEFAULT_CHUNK_SIZE;
+      let i = 0
+      let errors = []
+      for(i; i < tableLength; i += chunk) {
+        dispatch({
+          type: VALIDATE_TABLE_REQUEST,
+          payload: {
+            status: 'loading',
+            loader: `validating ${i} rows`
+          }
+        })
+        const offset = i / chunk
+        const chunkTable = [source[0]].concat(source.slice(i+1-offset, i+chunk-offset))
+        const table = await Table.load(chunkTable, {schema});
+        const rows = await table.read({forceCast: true});
+        const chunkErrors = rows.filter((row) => row.errors)
+        if (chunkErrors.length) {
+          chunkErrors.forEach((error) => error.rowNumber = error.rowNumber + chunk * offset -offset)
+          errors = errors.concat(chunkErrors)
+        }
+      }
+      // const table = await Table.load(source, {schema});
+      // const rows = await table.read({forceCast: true});
+      // const errors = rows.filter((row) => row.errors)
       if (errors.length) {
         dispatch({
           type: VALIDATE_TABLE_FAILURE,
@@ -141,6 +159,7 @@ export const validateTable = (payload) => (dispatch) => {
         })
       }
     } catch (error) {
+      console.error(error)
       dispatch({
         type: VALIDATE_TABLE_FAILURE,
         payload: error

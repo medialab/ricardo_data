@@ -15,7 +15,6 @@ class FeedbackTable extends React.Component {
       className,
       columnNames = [],
       values = []} = this.props;
-    console.log(values)
     return (
       <div style={{position: 'relative', width: '100%', height: '70vh'}}>
         <div className={`action-table ${className}`}>
