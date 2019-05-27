@@ -22,6 +22,7 @@ import { MAXIMUM_FILE_SIZE } from '../../constants';
 
 const FileUpload = ({
   schema,
+  flows,
   headerFeedback,
   setStep,
   importFlows,
@@ -70,12 +71,15 @@ const FileUpload = ({
       </DropZone>
       {
         headerFeedback && headerFeedback.status === 'loading' &&
-        <span>validating fields</span>
+        <span>Validating Headers</span>
       }
       {
         headerFeedback && headerFeedback.valid &&
-        <div>
-          <span>data fields are valid</span>
+        <div style={{
+          display: 'flex',
+          justifyContent: 'space-between'
+          }}>
+          <span className="has-text-success has-text-weight-bold">Headers of "{flows.file.name}" are valid</span>
           <Button 
             isColor="info" 
             onClick={handleNextStep}>
@@ -85,8 +89,10 @@ const FileUpload = ({
       }
       {
         headerFeedback && !headerFeedback.valid && headerFeedback.type === 'ERROR_HEADER' &&
-        <div>
-          <span className="has-text-danger has-text-weight-bold">Fields are invalid, plase fix your file and re-upload</span>
+        <div style={{
+          textAlign:'center'
+          }}>
+          <span className="has-text-danger has-text-weight-bold">Headers of "{flows.file.name}" do not match schema fields, please fix your file and re-upload</span>
           <HeaderValidation 
             headerNames = {headerFeedback.headerNames}
             fieldNames = {headerFeedback.fieldNames}
@@ -100,6 +106,7 @@ const FileUpload = ({
 
 const mapStateToProps = state => ({
   schema: state.schemaValidation.descriptor && getSchema(state),
+  flows: state.flows,
   headerFeedback: state.schemaValidation.headerFeedback
  })
  

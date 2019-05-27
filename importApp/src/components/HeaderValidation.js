@@ -2,7 +2,7 @@ import React from 'react';
 import {difference} from 'lodash';
 
 import {
-  
+  HelpPin
 } from 'design-workshop';
 
 const HeaderValidation = ({
@@ -15,9 +15,23 @@ const HeaderValidation = ({
     diff = difference(headerNames, fieldNames);
   }
   else diff = difference(fieldNames, headerNames);
+  const validationMap = headerNames.map((name, index) => {
+    if (fieldNames[index] && fieldNames[index] === name) {
+      return {
+        name,
+        valid: true
+      }
+    } else {
+      return {
+        name,
+        valid: false
+      }
+    }
+  });
 
   return (
-    <div>
+    <div style={{
+      }}>
       {diff.length === diffLength && diffLength > 0 &&
         <div className="has-text-danger">
           <span>Extra headers - </span>
@@ -38,15 +52,15 @@ const HeaderValidation = ({
       }
       <div style={{
         display: 'flex',
-        flexFlow: 'row nowrap',
+        justifyContent: 'space-evenly'
       }}>
         <div>
-          <div className="has-text-weight-bold">headers</div>
+          <div className="has-text-weight-bold">headers </div>
           {
-            headerNames.map((columnName, index) => {
+            validationMap.map((item, index) => {
               return (
-                <div key={index}>
-                  {columnName}
+                <div key={index} className={item.valid ? 'has-text-black': 'has-text-danger'}>
+                  {item.name}
                 </div>
               );
             })

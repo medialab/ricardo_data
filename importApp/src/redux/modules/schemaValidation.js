@@ -88,8 +88,9 @@ export const validateHeader = (payload) => (dispatch) => {
     }
   })
   dispatch(async() => {
+    let table;
     try {
-      const table = await Table.load(source.slice(0,2), {schema});
+      table = await Table.load(source.slice(0,2), {schema});
       await table.read({limit: 1});
       dispatch({
         type: VALIDATE_HEADER_SUCCESS,
@@ -100,12 +101,24 @@ export const validateHeader = (payload) => (dispatch) => {
         }
       })
     } catch (error) {
-      console.log(error)
-      dispatch({
-        type: VALIDATE_HEADER_FAILURE,
-        valid: false,
-        payload: error
-      })
+      console.error(error)
+      if (error.type !== 'ERROR_HEADER') {
+        dispatch({
+          type: VALIDATE_HEADER_SUCCESS,
+          payload: {
+            status: 'done',
+            valid: true,
+            headers: table.headers
+          }
+        })
+      } else {
+        dispatch({
+          type: VALIDATE_HEADER_FAILURE,
+          valid: false,
+          status: 'done',
+          payload: error
+        })
+      }
     }
   })
 }
