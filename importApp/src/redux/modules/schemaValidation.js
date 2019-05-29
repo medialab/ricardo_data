@@ -143,7 +143,7 @@ export const validateTable = (payload) => (dispatch) => {
         const offset = i / chunk
         const chunkTable = [source[0]].concat(source.slice(i+1-offset, i+chunk-offset))
         const table = await Table.load(chunkTable, {schema});
-        const rows = await table.read({forceCast: true});
+        const rows = await table.read({forceCast: true, relations});
         const chunkErrors = rows.filter((row) => row.errors)
         if (chunkErrors.length) {
           chunkErrors.forEach((error) => error.rowNumber = error.rowNumber + chunk * offset -offset)

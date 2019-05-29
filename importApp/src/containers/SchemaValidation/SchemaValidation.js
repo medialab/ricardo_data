@@ -3,7 +3,7 @@ import {connect} from 'react-redux';
 
 import {Button} from 'design-workshop';
 // import FeedbackTable from '../../components/FeedbackTable';
-import AggregatedErrors from '../../components/AggregatedErrors';
+import AggregatedTable from '../../components/AggregatedTable';
 
 import {validateTable, getRelations, getForeignKeys, getSchema} from '../../redux/modules/schemaValidation';
 
@@ -14,12 +14,14 @@ class SchemaValidation extends React.Component {
   }
   render() {
     const {flows, schema, schemaFeedback, relations} = this.props;
-    const {fields} = schema;
+    const {fields, foreignKeys} = schema;
     const columnNames = fields.map((field)=> field.name);
-
-    const errorTypes = ['ERROR_FORMAT', 'ERROR_UNIQUE_KEY', 'ERROR_FOREIGN_KEY'];
+   
+    const foreignKeysFields = foreignKeys.map((foreignKey) => joinFields(foreignKey.fields));
+    const errorTypes = ['ERROR_FORMAT', 'ERROR_FOREIGN_KEY'];
 
     let errorsByColumn;
+
     const getFeedbackTable = () => {
       const output = []
       schemaFeedback.errors.forEach((error)=>{
@@ -56,7 +58,7 @@ class SchemaValidation extends React.Component {
     }
 
     const getErrorsByColumn = () => {
-      const output = fields.reduce((res, field) => {
+      const formatErrors = fields.reduce((res, field) => {
         return {
           ...res,
           [field.name]: {
@@ -65,31 +67,75 @@ class SchemaValidation extends React.Component {
           }
         }
       }, {});
+      const foreignKeyErrors = foreignKeys.reduce((res, foreignKey) => {
+        const joinedFields = joinFields(foreignKey.fields);
+        return {
+          ...res,
+          [joinedFields]: {
+            name: joinedFields,
+            ...foreignKey,
+            errors: []
+          }
+        }
+      }, {});
       schemaFeedback.errors.forEach((error)=>{
         const row = flows[error.rowNumber -1];
         const rowNumber = error.rowNumber;
-        const selectedErrors = error.errors.find((err) => err.type === 'ERROR_FORMAT')
-        columnNames.forEach((columnName, columnIndex) => {
-          selectedErrors.errors.forEach((err) => {
-            if (err.columnNumber === columnIndex + 1) {
-              const item = {
-                rowNumber,
-                columnNumber: err.columnNumber,
-                field: columnName,
-                value: row[columnIndex] || 'null',
-                message: err.message
+        errorTypes.forEach((errorType) => {
+          const selectedErrors = error.errors.find((err) => err.type === errorType)
+          if(errorType === 'ERROR_FORMAT') {
+            columnNames.forEach((columnName, columnIndex) => {
+            selectedErrors.errors.forEach((err) => {
+              if (err.columnNumber === columnIndex + 1) {
+                const item = {
+                  rowNumber,
+                  columnNumber: err.columnNumber,
+                  field: columnName,
+                  value: row[columnIndex] || 'null',
+                  message: err.message
+                }
+                formatErrors[columnName].errors.push(item)
               }
-              output[columnName].errors.push(item)
-            }
-          })
+            })
+            })
+          }
+          else if (errorType === 'ERROR_FOREIGN_KEY') {
+            foreignKeysFields.forEach((fields) => {
+              selectedErrors.errors.forEach((err) => {
+                // const fieldsList = fields.split('|');
+                const joinedColumn = joinFields(err.columnName);
+                if (joinedColumn === fields) {
+                  const values = err.columnName.map((field) => {
+                    const columnIndex = columnNames.indexOf(field);
+                    return row[columnIndex]
+                  })
+                  const item = {
+                    rowNumber,
+                    field: err.columnName,
+                    value: values.join('|'),
+                    message: err.message
+                  }
+                  foreignKeyErrors[fields].errors.push(item)
+                }
+              })
+            })
+          }
         })
       });
-      Object.keys(output).forEach((columnName) => {
-        if(!output[columnName].errors.length) {
-          delete output[columnName]
+      Object.keys(formatErrors).forEach((columnName) => {
+        if(!formatErrors[columnName].errors.length) {
+          delete formatErrors[columnName]
         }
       });
-      return output;
+      Object.keys(foreignKeyErrors).forEach((columnName) => {
+        if(!foreignKeyErrors[columnName].errors.length) {
+          delete foreignKeyErrors[columnName]
+        }
+      });
+      return {
+        formatErrors,
+        foreignKeyErrors,
+      };
     }
     if (schemaFeedback && schemaFeedback.errors) {
       errorsByColumn = getErrorsByColumn()
@@ -103,9 +149,11 @@ class SchemaValidation extends React.Component {
         {
           schemaFeedback && !schemaFeedback.valid && errorsByColumn &&
           <div>
-            <span className="has-text-danger has-text-weight-bold">Found format errors in {Object.keys(errorsByColumn).length} columns, {schemaFeedback.errors.length} rows</span>
-            <AggregatedErrors
-              values={errorsByColumn}
+            <span className="has-text-danger has-text-weight-bold">
+              Found format errors in {Object.keys(errorsByColumn.formatErrors).length} columns, ForeignKey errors in {Object.keys(errorsByColumn.foreignKeyErrors).length} columns, {schemaFeedback.errors.length} rows
+            </span>
+            <AggregatedTable
+              aggregatedErrors={errorsByColumn}
             />
           </div>
         }
@@ -124,5 +172,9 @@ const mapStateToProps = state => ({
   schemaFeedback: state.schemaValidation.schemaFeedback
 })
 
+const joinFields = (fields) => {
+  if (typeof(fields) === 'string') return fields;
+  else return fields.join('|');
+}
 
 export default connect(mapStateToProps, {validateTable})(SchemaValidation);
