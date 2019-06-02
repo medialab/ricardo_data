@@ -11,15 +11,15 @@ const steps = [
     name: 'Upload file',
     title: 'Choose a file'
   },
-  // {
-  //   id: '1',
-  //   name: 'Data Summary',
-  //   title: 'Statistics summary of your uploaded data'
-  // },
   {
     id: '1',
     name: 'Schema Validation',
     title: 'Schema validation against datapackage'
+  },
+  {
+    id: '2',
+    name: 'Error Fixing',
+    title: 'Fix errors by fields'
   },
   // {
   //   id: '3',

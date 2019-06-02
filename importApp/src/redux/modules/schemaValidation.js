@@ -123,9 +123,126 @@ export const validateHeader = (payload) => (dispatch) => {
   })
 }
 
+const joinForeignKeyFields = (fields) => {
+  if (typeof(fields) === 'string') return fields;
+  else return fields.join('|');
+};
+
+const getForeignKeyFields = (fields) => {
+  return fields.reduce((res, field) => {
+    if (typeof(field) === 'string') return res.concat([field]);
+    else return res.concat(field)
+  }, []);
+} 
+
+const getCollectedErrors = (flows, schema, errors) => {
+  const {fields, foreignKeys} = schema;
+
+  const allFields = fields.map((field)=> field.name);
+  const foreignKeysList = getForeignKeyFields(foreignKeys.map((d) => d.fields));
+
+  const formatFields = fields.filter((field) => foreignKeysList.indexOf(field.name) === -1)
+  const foreignKeysFields = foreignKeys.map((foreignKey) => joinForeignKeyFields(foreignKey.fields));
+
+  const errorTypes = ['ERROR_FORMAT', 'ERROR_FOREIGN_KEY'];
+
+  const formatErrors = formatFields.reduce((res, field) => {
+    return {
+      ...res,
+      [field.name]: {
+        name: field.name,
+        schema: field,
+        errorType: 'ERROR_FORMAT',
+        errors: []
+      }
+    }
+  }, {});
+
+  const foreignKeyErrors = foreignKeys.reduce((res, foreignKey) => {
+    const joinedFields = joinForeignKeyFields(foreignKey.fields);
+    // const foreignKeySchema = fields.find((field) => field.name === foreignKey.fields)
+    return {
+      ...res,
+      [joinedFields]: {
+        name: joinedFields,
+        ...foreignKey,
+        errorType: 'ERROR_FOREIGN_KEY',
+        errors: []
+      }
+    }
+  }, {});
+
+  errors.forEach((error)=>{
+    const row = flows[error.rowNumber -1];
+    const rowNumber = error.rowNumber;
+    errorTypes.forEach((errorType) => {
+      const selectedErrors = error.errors.find((err) => err.type === errorType)
+      if(!selectedErrors) return;
+      if(errorType === 'ERROR_FORMAT') {
+        allFields.forEach((field, columnIndex) => {
+          selectedErrors.errors.forEach((err) => {
+            if (err.columnNumber === columnIndex + 1 && foreignKeysList.indexOf(field) === -1) {
+              const item = {
+                rowNumber,
+                errorType,
+                columnNumber: err.columnNumber,
+                field,
+                value: row[columnIndex] || 'null',
+                message: err.message
+              }
+              formatErrors[field].errors.push(item)
+            }
+          })
+        })
+      }
+
+      else if (errorType === 'ERROR_FOREIGN_KEY') {
+        foreignKeysFields.forEach((fields) => {
+          selectedErrors.errors.forEach((err) => {
+            // const fieldsList = fields.split('|');
+            const joinedColumn = joinForeignKeyFields(err.columnName);
+            if (joinedColumn === fields) {
+              const values = err.columnName.map((field) => {
+                const columnIndex = allFields.indexOf(field);
+                return row[columnIndex]
+              })
+              const item = {
+                rowNumber,
+                errorType,
+                columnName: err.columnName,
+                field: joinedColumn,
+                value: values.join('|'),
+                message: err.message
+              }
+              foreignKeyErrors[fields].errors.push(item)
+            }
+          })
+        })
+      }
+    })
+  });
+
+  Object.keys(formatErrors).forEach((columnName) => {
+    if(!formatErrors[columnName].errors.length) {
+      delete formatErrors[columnName]
+    }
+  });
+
+  Object.keys(foreignKeyErrors).forEach((columnName) => {
+    if(!foreignKeyErrors[columnName].errors.length) {
+      delete foreignKeyErrors[columnName]
+    }
+  });
+  
+  return {
+    ...formatErrors,
+    ...foreignKeyErrors
+  }
+}
+
 export const validateTable = (payload) => (dispatch) => {
   const {source, schema, relations} = payload;
-
+  schema.foreignKeys = schema.foreignKeys.slice(0, 3);
   dispatch(async() => {
     try {
       const tableLength = source.length;
@@ -159,7 +276,8 @@ export const validateTable = (payload) => (dispatch) => {
           payload: {
             status: 'done',
             valid: false,
-            errors
+            errors,
+            collectedErrors: getCollectedErrors(source, schema, errors)
           }
         })
       } else {

@@ -3,7 +3,7 @@ import React from 'react';
 import {connect} from 'react-redux'
 
 import DataPrep from './containers/DataPrep';
-import DataSummary from './containers/DataSummary';
+import DataModification from './containers/DataModification';
 import FileUpload from './containers/FileUpload';
 import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
@@ -27,6 +27,8 @@ const App = ({
         return <FileUpload />;
       case '1':
         return <SchemaValidation />;
+      case '2':
+        return <DataModification />;
     }
   }
   
