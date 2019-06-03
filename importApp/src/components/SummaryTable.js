@@ -8,7 +8,7 @@ const OverviewTable = ({
   className,
   groupedErrors,
 }) => {
-  const columnNames = ['Field', 'Value', 'Rows']
+  const columnNames = ['', 'Field', 'Value', 'Rows']
 
   return (
     <div style={{position: 'relative', width: '100%', height: '70vh'}}>
@@ -19,7 +19,7 @@ const OverviewTable = ({
             columnNames.map((columnName, index) => {
               return (
                 <div key={index} className="table-cell">
-                  {columnName}
+                  <span className={columnName === 'Value' ? 'has-text-danger': 'has-text-black'}>{columnName}</span>
                 </div>
               );
             })
@@ -36,14 +36,16 @@ const OverviewTable = ({
                       switch (columnIndex) {
                         case 0:
                         default:
-                          return (<div key={columnIndex} className="table-cell">{field}</div>);
+                          return (<div key={columnIndex} className="table-cell">{errorIndex + 1}</div>)
                         case 1:
+                          return (<div key={columnIndex} className="table-cell">{field}</div>);
+                        case 2:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              {errors[0].value || 'null'}
+                              <span className="has-text-danger">{errors[0].value || 'null'}</span>
                               <HelpPin>{errors[0].message}</HelpPin>
                             </div>);
-                        case 2:
+                        case 3:
                           return (<div key={columnIndex} className="table-cell">{errors.length}</div>);
                       }
                     })

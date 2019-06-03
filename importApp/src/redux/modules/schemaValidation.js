@@ -242,7 +242,6 @@ const getCollectedErrors = (flows, schema, errors) => {
 
 export const validateTable = (payload) => (dispatch) => {
   const {source, schema, relations} = payload;
-  schema.foreignKeys = schema.foreignKeys.slice(0, 3);
   dispatch(async() => {
     try {
       const tableLength = source.length;
@@ -252,7 +251,7 @@ export const validateTable = (payload) => (dispatch) => {
       for(i; i < tableLength; i += chunk) {
         dispatch({
           type: VALIDATE_TABLE_REQUEST,
-          payload: {
+          payload: {  
             status: 'loading',
             loader: `validating ${i} rows`
           }
@@ -325,7 +324,15 @@ export default function reducer(state = initialState, action){
     case FETCH_TABLES_SUCCESS:
       const tables = {}
       Object.keys(payload).forEach((id) => {
-        tables[id] = csvParse(Base64.decode(payload[id].content))
+        tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
+          if (d.year) {
+            return {
+              ...d,
+              year: +d.year
+            }
+          }
+          return d
+        })
       })
       return {
         ...state,
