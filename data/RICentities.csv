@@ -251,12 +251,12 @@ Brazil Ports,city/part_of,America,,,Brazil
 Bremen,country,Europe,246,Bremen,
 Bremen & Hamburg,group,Europe,,Bremen_Hamburg,
 Hanse Towns & Hanover & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Bremen_Hamburg_Hanover_Heligoland_Kniphausen_Lubeck_MecklenburgSchwerin_Oldenburg,
-Bremen & Hamburg & Hanover & Lubeck,group,Europe,,Bremen_Hamburg_Hanover_Lubeck,
-Bremen & Hamburg & Lubeck,group,Europe,,Bremen_Hamburg_Lubeck,
+Bremen & Hamburg & Hanover & Lübeck,group,Europe,,Bremen_Hamburg_Hanover_Lubeck,
+Bremen & Hamburg & Lübeck,group,Europe,,Bremen_Hamburg_Lubeck,
 Hanse Towns & Netherlands,group,Europe,,,
 Hanse Towns & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
-Bremen & Lubeck,group,Europe,,Bremen_Lubeck,
+Bremen & Lübeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
 British Africa,colonial_area,Africa,,BritishAfrica,United Kingdom
 British Africa (other),colonial_area,America,,BritishAfricaother,United Kingdom
@@ -643,7 +643,7 @@ France,country,Europe,220,France,
 France (Atlantic Coast),city/part_of,Europe,,,France
 France (Foreign produce),city/part_of,Europe,,,France
 France (French produce),city/part_of,Europe,,FranceFrenchproduce,France
-France (French produce) & French colonies (French produce),group,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,
+France (French produce) & French Colonies (French produce),group,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,
 France (Mediterranean Coast),city/part_of,Europe,,,France
 France (sea),city/part_of,Europe,,Francesea,France
 France & French Colonies,group,World,,France_FrenchColonies,
@@ -857,7 +857,7 @@ Jakarta (Batavia) & Singapore,group,Asia,,JakartaBatavia_Singapore,
 Jamaica,country,America,51,Jamaica,
 Jamaica & Jamaica Dependencies,group,World,,,
 Japan,country,Asia,740,Japan,
-Japan & Japan China Leased Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
+Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & Korea (Chosen),group,Asia,,,
 Japan & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_RepublicofChinaTaiwanFormosa,
@@ -962,8 +962,8 @@ Lombardy-Venetia,city/part_of,Europe,,Lombardy-Venetia,Austria-Hungary
 Lombok,country,Oceania,8542,Lombok,
 London,city/part_of,Europe,,London,United Kingdom
 Loyalty Is.,city/part_of,Oceania,,,New Caledonia and Dependencies
-Lubeck,country,Europe,276,Lubeck,
-Lubeck & Mecklenburg Schwerin & Other countries,group,World,,Lubeck_MecklenburgSchwerin_Othercountries,
+Lübeck,country,Europe,276,Lubeck,
+Lübeck & Mecklenburg Schwerin & Other countries,group,World,,Lubeck_MecklenburgSchwerin_Othercountries,
 Lucca,country,Europe,336,Lucca,
 Lucca & Milan & Tuscany,group,Europe,,,
 Lucca & Modena & Papal States & Parma & Tuscany,group,Europe,,Lucca_Modena_PapalStates_Parma_Tuscany,
@@ -1312,8 +1312,8 @@ Saona Island,city/part_of,America,,SaonaIsland,Dominican Republic (Santo Domingo
 Sarawak,country,Asia,824,Sarawak,
 Sardinia,city/part_of,Europe,,Sardinia,Kingdom of Sardinia
 Saudi Arabia (Kingdom of Hejaz and Nedj),country,Asia,670,,
-Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen,group,Asia,,,
-Saxe Weimar & Saxe Altenburg & Saxe Coburg & Saxe Meiningen,group,Europe,,SaxeWeimar_SaxeAltenburg_SaxeCoburg_SaxeMeiningen,
+"Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen Arab Republic (North Yemen, Kingdom of Yemen)",group,Asia,,,
+Saxe Weimar & Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen,group,Europe,,SaxeWeimar_SaxeAltenburg_SaxeCoburg_SaxeMeiningen,
 Saxony,country,Europe,269,Saxony,
 Scandinavia,geographical_area,Europe,,Scandinavia,
 Schleswig,country,Europe,2247,Schleswig,
@@ -1542,14 +1542,14 @@ World (other than British),geographical_area,World,,WorldotherthanBritish,
 World (other than Kingdom of Sardinia (land)),geographical_area,Europe,,WorldotherthanKingdomofSardinialand,
 World (other),geographical_area,World,,Worldother,
 World (via Altona & Holstein & Schleswig),geographical_area,World,,WorldviaAltona_Holstein_Schleswig,
-World (via Bremen & Lubeck),geographical_area,World,,WorldviaBremen_Lubeck,
+World (via Bremen & Lübeck),geographical_area,World,,WorldviaBremen_Lubeck,
 World (via Germany (lower Elbe)),geographical_area,World,,WorldviaGermanylowerElbe,
 World (via Germany (upper Elbe)),geographical_area,World,,WorldviaGermanyupperElbe,
 World (via Harburg & Lüneburg),geographical_area,World,,WorldviaHarburg_Lüneburg,
 World (via Holstein & Schleswig),geographical_area,World,,WorldviaHolstein_Schleswig,
-World (via Lubeck),geographical_area,World,,WorldviaLubeck,
+World (via Lübeck),geographical_area,World,,WorldviaLubeck,
 Xiamen,city/part_of,Asia,,Xiamen,China (People's Republic of China)
-Yemen,country,Asia,679,,
+"Yemen Arab Republic (North Yemen, Kingdom of Yemen)",country,Asia,678,,
 Yokohama,city/part_of,Asia,,Yokohama,Japan
 Yugoslavia/Serbia,country,Europe,345,Yugoslavia,
 Zaire (Kinshasa) (Belgian Congo),country,Africa,490,ZaireKinshasaBelgianCongo,
@@ -1612,7 +1612,6 @@ Dutch Windward Is.,country,America,1074,,
 El Jadida (Mazaghan),city/part_of,Africa,,,Morocco
 Falkland Is. Dependencies,city/part_of,America,,,Falkland Is.
 Federation of South Arabia,country,Asia,6801,,
-French colonies (French produce),colonial_area,World,,,France
 French Dependencies,colonial_area,World,,,France
 French Mediterranean,city/part_of,Europe,,,France
 French Polynesia,country,Oceania,960,,
@@ -1626,7 +1625,7 @@ Indian Coast,city/part_of,Asia,,,India
 Indian Transit,city/part_of,Africa,,,Egypt/United Arab Republic
 Isle of Man,city/part_of,Europe,,,United Kingdom
 Jamaica Dependencies,city/part_of,America,,,Jamaica
-Japan China Leased Territory,colonial_area,Asia,,,Japan
+Japanese China Leased Territory,colonial_area,Asia,,,Japan
 Kabinda (Portuguese Congo),city/part_of,Africa,,,Angola
 Kniphausen,city/part_of,Europe,,,Oldenburg
 La Guaira,city/part_of,America,,,Venezuela
@@ -1670,7 +1669,7 @@ Rwanda-Urundi,country,Africa,515,,
 Safi,city/part_of,Africa,,,Morocco
 Savoy,city/part_of,Europe,,,France
 Saxe Altenburg,country,Europe,262,,
-Saxe Coburg,country,Europe,264,,
+Saxe Coburg and Gotha,country,Europe,264,,
 Saxe Meiningen,country,Europe,266,,
 Saxe Weimar,country,Europe,261,,
 Sint Eustatius,country,America,1068,,

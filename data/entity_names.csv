@@ -99,7 +99,7 @@ all spanish possessions other than cuba and puerto rico (principally canary and 
 allem./autres,Allemagne (Autre),Germany (other)
 allem./prusse,Prusse,Prussia
 allem./rhin,Allemagne (Rhin),Rhine
-allem./villes anséatiques,Villes hanséatiques,Bremen & Hamburg & Lubeck
+allem./villes anséatiques,Villes hanséatiques,Bremen & Hamburg & Lübeck
 allemagne,Allemagne,Germany
 allemagne (+ autriche),Allemagne et Autriche,Austria-Hungary & Germany
 allemagne (+ sarre),Allemagne et Sarre,Germany & Saar
@@ -116,7 +116,7 @@ allemagne et autriche,Allemagne et Autriche,Austria-Hungary & Germany
 allemagne et rhin,Allemagne et Rhin,Germany & Rhine
 "allemagne, belgique, espagne, maroc, autres pays",Allemagne et Belgique et Espagne et Maroc et Autres,Belgium & Germany & Morocco & Other countries & Spain
 "allemagne, belgique,pays-bas",Allemagne et Belgique et Pays-Bas,Belgium & Germany & Netherlands
-"allemagne, villes anséatiques",Villes hanséatiques,Bremen & Hamburg & Lubeck
+"allemagne, villes anséatiques",Villes hanséatiques,Bremen & Hamburg & Lübeck
 altona,Altona,Altona
 altona (danem.),Danemark (Altona),Altona
 altona (port franc d'),Altona,Altona
@@ -608,7 +608,7 @@ brême,Brême,Bremen
 brême (association commerciale allemande),Brême,Bremen
 "brême (ports du weser, environs brême)",Brême,Bremen
 brême (union douanière allemande),Brême,Bremen
-brême et lubeck,Brême et Lubeck,Bremen & Lubeck
+brême et lubeck,Brême et Lubeck,Bremen & Lübeck
 brême et prusse,Brême et Prusse,Bremen & Prussia
 "brême, hambourg",Brême et Hambourg,Bremen & Hamburg
 "brême, weser",Brême,Bremen
@@ -947,7 +947,7 @@ christmas island,Ile Christmas,Christmas I.
 chypre,Chypre,Cyprus
 chypre (ile de),Chypre,Cyprus
 cisplatine republic,République Cisplatine (Montevidéo),Montevideo
-ciudades anséaticas,Villes hanséatiques,Bremen & Hamburg & Lubeck
+ciudades anséaticas,Villes hanséatiques,Bremen & Hamburg & Lübeck
 coast of guinea,Côte de Guinée,Guinea Coast
 cochin china,Cochinchine,Cochin China
 "cochin china, cambodia",Cochinchine et Cambodge,Cochin China & Kampuchea (Cambodia)
@@ -1181,12 +1181,12 @@ danube,Roumanie,Romania
 danube kingdoms,Roumanie,Romania
 danube principalities,Roumanie,Romania
 danzig,Dantzig,Danzig
-de brême et de lubeck,De Brême et de Lubeck,World (via Bremen & Lubeck)
+de brême et de lubeck,De Brême et de Lubeck,World (via Bremen & Lübeck)
 de portg et lunebourg,De Portg et de Lunebourg,World (via Harburg & Lüneburg)
 "de la isla de zanzibar de africa, pero comprendida en la misma legislacion",Ile de Zanzibar d'Afrique compris dans les mêmes lois,Zanzibar
 de l'elbe inférieur,Allemagne (Elbe inférieur),World (via Germany (lower Elbe))
 de l'elbe supérieur,Allemagne (Elbe supérieur),World (via Germany (upper Elbe))
-de lubeck,Lubeck,World (via Lubeck)
+de lubeck,Lubeck,World (via Lübeck)
 delagoa bay,Delagoa Bay,Maputo Bay (Delagoa Bay)
 delegoa bay,Delagoa Bay,Maputo Bay (Delagoa Bay)
 delhi,Delhi,Delhi
@@ -1247,7 +1247,7 @@ du schleswig-holstein,Du Schleswig-Holstein,World (via Holstein & Schleswig)
 du schleswig-holstein et par altona,Du Schleswig-Holstein et par Altona,World (via Altona & Holstein & Schleswig)
 duchés de holstein excepté transit pa kiel,Holstein (sauf transit par Kiel),Holstein
 duchés de parme modène et toscane,Parme et Modène et Toscane,Modena & Parma & Tuscany
-duchés de saxe,Duchés saxons,Saxe Weimar & Saxe Altenburg & Saxe Coburg & Saxe Meiningen
+duchés de saxe,Duchés saxons,Saxe Weimar & Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen
 duchés de schleswig,Schleswig,Schleswig
 duchés de schleswig holstein,Schleswig-Holstein,Holstein & Schleswig
 duchés elbe par altona,Duchés Elbe par Altona,Holstein & Schleswig
@@ -1373,7 +1373,7 @@ elbe supérieur et affluens (commerce de terre),Elbe supérieur et affluents (co
 empire d'allemagne,Allemagne,Germany
 empire d'allemgne,Allemagne,Germany
 empire ottoman,Empire Ottoman,Turkey
-enclaves (territoire de lubeck),Lubeck,Lubeck
+enclaves (territoire de lubeck),Lubeck,Lübeck
 england,Angleterre,United Kingdom
 english america,Amérique britannique,British America
 english channel,La Manche,English Channel
@@ -1553,7 +1553,7 @@ france and algeria,France et Algérie,Algeria & France
 france and colonies,France et Colonies françaises,France & French Colonies
 france and dependencies,France et Dépendances françaises,France & French Dependencies
 france and french colonies,France et colonies françaises,France & French Colonies
-france and french colonies (french produce),France et colonies françaises (produits français),France (French produce) & French colonies (French produce)
+france and french colonies (french produce),France et colonies françaises (produits français),France (French produce) & French Colonies (French produce)
 france et alger,France et Algérie,Algeria & France
 france et algerie,France et Algérie,Algeria & France
 france et algérie,France et Algérie,Algeria & France
@@ -1697,7 +1697,7 @@ germany and colonies,Allemagne et Colonies allemandes,Germany & German Colonies
 germany and german east africa,Allemagne et Afrique orientale allemande,German East Africa & Germany
 germany: hamburg,Hambourg,Hamburg
 germany: hanse towns,Villes hanséatiques,Hanse Towns
-germany: lubeck,Lubeck,Lubeck
+germany: lubeck,Lubeck,Lübeck
 germany: other german states,Allemagne (Autre),Germany (other)
 germany: other parts,Allemagne (Autre),Germany (other)
 germany: prussia,Prusse,Prussia
@@ -1871,10 +1871,10 @@ hanovre et oldenbourg (association commerciale allemande),Hanovre et Oldenbourg,
 hanovre et oldenburg,Hanovre et Oldenbourg,Hanover & Oldenburg
 "hanovre, oldenburg",Hanovre et Oldenbourg,Hanover & Oldenburg
 hanovrien,Hanovre,Hanover
-hanse towns,Villes hanséatiques,Bremen & Hamburg & Lubeck
-hanse towns (germany),Villes hanséatiques,Bremen & Hamburg & Lubeck
-hanseatic towns,Villes hanséatiques,Bremen & Hamburg & Lubeck
-hanse-towns,Villes hanséatiques,Bremen & Hamburg & Lubeck
+hanse towns,Villes hanséatiques,Bremen & Hamburg & Lübeck
+hanse towns (germany),Villes hanséatiques,Bremen & Hamburg & Lübeck
+hanseatic towns,Villes hanséatiques,Bremen & Hamburg & Lübeck
+hanse-towns,Villes hanséatiques,Bremen & Hamburg & Lübeck
 "portg, lunebourg",Hambourg et Lunebourg,Hamburg & Lüneburg
 haut-sénégal et niger,Haut-Sénégal et Niger,Mali (French Sudan) (Upper Senegal and Niger)
 havane,Cuba (La Havane),Havana
@@ -2220,7 +2220,7 @@ jamaïque,Jamaïque,Jamaica
 "jamaïque, trinité, curaçao",Jamaïque et Trinité et Curaçao,Curacao & Jamaica & Trinidad and Tobago
 jap,Japon,Japan
 japan,Japon,Japan
-japan (including formosa and japanese leased terrirories in china),Japon et Formose et concessions japonaises en Chine,Japan & Japan China Leased Territory & Republic of China (Taiwan) (Formosa)
+japan (including formosa and japanese leased terrirories in china),Japon et Formose et concessions japonaises en Chine,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa)
 japan (including formosa),Japon et Formose,Japan & Republic of China (Taiwan) (Formosa)
 japan and formosa,Japon et Formose,Japan & Republic of China (Taiwan) (Formosa)
 japan and karafuto (japanese possession),Japon et Sakhaline,Japan & Southern Sakhalin I.
@@ -2335,10 +2335,10 @@ liverpool,Liverpool,Liverpool
 lombock,Lombok,Lombok
 londres,Londres,London
 lrelande,Irlande,Ireland
-lubec,Lubeck,Lubeck
-lubeck,Lubeck,Lubeck
-lubeck (association commerciale allemande),Lubeck,Lubeck
-lubeck (union douanière allemande),Lubeck,Lubeck
+lubec,Lubeck,Lübeck
+lubeck,Lubeck,Lübeck
+lubeck (association commerciale allemande),Lubeck,Lübeck
+lubeck (union douanière allemande),Lubeck,Lübeck
 luxembourg,Luxembourg,Luxemburg
 lybie,Libye,Libya (Tripolitania Cyrenaica Fezzan)
 lybie (tripolitaine et cyrénaïque),Libye,Libya (Tripolitania Cyrenaica Fezzan)
@@ -2426,7 +2426,7 @@ mayotte,Mayotte,Mayotte
 "mayotte, nossi-bé et sainte-marie de madagascar",St. Marie de Madagascar et Mayotte et Nossi-Bé,St. Marie de Madagascar & Mayotte & Nossi Be
 mecklembourg,Mecklembourg,Mecklenburg Schwerin
 mecklembourg- schwérin**,Mecklembourg-Schwerin,Mecklenburg Schwerin
-"mecklembourg, lubeck (voie de terre) et autres pays",Mecklembourg et Lubeck (par terre) et Autre,Lubeck & Mecklenburg Schwerin & Other countries
+"mecklembourg, lubeck (voie de terre) et autres pays",Mecklembourg et Lubeck (par terre) et Autre,Lübeck & Mecklenburg Schwerin & Other countries
 mecklembourg-oldenbourg,Mecklembourg et Oldenbourg,Mecklenburg Schwerin & Oldenburg
 mecklembourg-schwerin,Mecklembourg-Schwerin,Mecklenburg Schwerin
 mecklemburgo,Mecklembourg,Mecklenburg Schwerin
@@ -4045,19 +4045,19 @@ victoria (colonie de),Victoria,Victoria
 vierges e.-u,Iles vierges,Virgin Islands (Danish West Indies)
 vietnam,Vietnam,Vietnam
 ville du cap,Colonie du Cap (Ville du Cap ou Table-Bay),Cape Town
-villes anséatiques,Villes hanséatiques,Bremen & Hamburg & Lubeck
+villes anséatiques,Villes hanséatiques,Bremen & Hamburg & Lübeck
 villes anséatiques - hambourg,Villes hanséatiques (Hambourg),Hamburg
 "villes anséatiques (brême, hambourg)",Villes hanséatiques (Brême et Hambourg),Bremen & Hamburg
 villes anséatiques (hambourg),Villes hanséatiques (Hambourg),Hamburg
 villes anséatiques (hambourg)**,Villes hanséatiques (Hambourg),Hamburg
-villes anséatiques et hanovre,Villes hanséatiques et Hanovre,Bremen & Hamburg & Hanover & Lubeck
+villes anséatiques et hanovre,Villes hanséatiques et Hanovre,Bremen & Hamburg & Hanover & Lübeck
 villes anséatiques et ports allemands,Villes hanséatiques et Allemagne (Ports),Hanse Towns & German Ports
 villes anséatiques et prusse,Villes hanséatiques et Prusse,Hanse Towns & Prussia
-villes anséatiques**,Villes hanséatiques,Bremen & Hamburg & Lubeck
+villes anséatiques**,Villes hanséatiques,Bremen & Hamburg & Lübeck
 villes anséatiques-hambourg,Villes hanséatiques (Hambourg),Hamburg
-villes hanse,Villes hanséatiques,Bremen & Hamburg & Lubeck
-villes hanséatiques,Villes hanséatiques,Bremen & Hamburg & Lubeck
-villes-anséatiques,Villes hanséatiques,Bremen & Hamburg & Lubeck
+villes hanse,Villes hanséatiques,Bremen & Hamburg & Lübeck
+villes hanséatiques,Villes hanséatiques,Bremen & Hamburg & Lübeck
+villes-anséatiques,Villes hanséatiques,Bremen & Hamburg & Lübeck
 virgin islands,Iles vierges,Virgin Islands (Danish West Indies)
 virgin islands (leeward islands - west india islands),Iles vierges,Virgin Islands (Danish West Indies)
 wallachia and moldavia,Moldavie et Valachie,Moldavia & Wallachia
@@ -4598,7 +4598,7 @@ haiti & république dominicaine,Haiti & République dominicaine,Dominican Republ
 haiti e s. domingo,Haiti e S. Domingo,Dominican Republic (Santo Domingo) & Haiti
 haití,Haití,Haiti
 hegiae e neged,Hegiae e Neged,Saudi Arabia (Kingdom of Hejaz and Nedj)
-"hejar, nejd and dependencies, and yemen","Hejar, Nejd and Dependencies, and Yemen",Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen
+"hejar, nejd and dependencies, and yemen","Hejar, Nejd and Dependencies, and Yemen","Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen Arab Republic (North Yemen, Kingdom of Yemen)"
 "hejaz, arabia, and mesopotamia","Hejaz, Arabia, and Mesopotamia",Arabia & Hejaz Sultanate & Iraq (Mesopotamia)
 "hejaz, arabia, etc.","Hejaz, Arabia, etc.",Arabia & Hejaz Sultanate & Iraq (Mesopotamia)
 henjain island,Henjain Island,Hengam Is.
@@ -5060,7 +5060,7 @@ sao domingos,Sao Domingos,Dominican Republic (Santo Domingo)
 sao salvador,Sao Salvador,El Salvador
 sarre,Sarre,Saar
 saudi arabia,Saudi Arabia,Saudi Arabia (Kingdom of Hejaz and Nedj)
-saudi arabia and yemen,Saudi Arabia and Yemen,Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen
+saudi arabia and yemen,Saudi Arabia and Yemen,"Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen Arab Republic (North Yemen, Kingdom of Yemen)"
 saïgon,Saïgon,Ho Chi Minh City
 serb-croat-slovene state,Yugoslavia/Serbia,Yugoslavia/Serbia
 "serbes, croates et slovènes (royaume)","Serbes, Croates et Slovènes (royaume)",Yugoslavia/Serbia
@@ -5216,14 +5216,14 @@ uruguay & paraguay,Uruguay & Paraguay,Paraguay & Uruguay
 "venezuela, enz.","Venezuela, enz.",Venezuela
 ver. staten van-amerika,Ver. Staten van-Amerika,United States of America
 victoria (australie),Victoria (Australie),Victoria
-villes hanséatiques-hollande,Villes hanséatiques-Hollande,Bremen & Hamburg & Lubeck & Netherlands
+villes hanséatiques-hollande,Villes hanséatiques-Hollande,Bremen & Hamburg & Lübeck & Netherlands
 virgin islands of the united states,Virgin Islands of the United States,Virgin Islands (Danish West Indies)
 wei hai wei,Wei Hai Wei,Weihaiwei
 weihaiwei,Wei Hai Wei,Weihaiwei
 "whale fisheries, northern",Northern Whale Fisheries,***NA
 "whale fisheries, southern",Southern Whale Fisheries,***NA
 winward islands,Winward Islands,Windward Is.
-yemen,Yemen,Yemen
+yemen,Yemen,"Yemen Arab Republic (North Yemen, Kingdom of Yemen)"
 yugoeslavia,Yugoslavia/Serbia,Yugoslavia/Serbia
 yugoslavia,Yugoslavia/Serbia,Yugoslavia/Serbia
 yugoslavia & albania,Yugoslavia & Albania,Albania & Yugoslavia/Serbia
