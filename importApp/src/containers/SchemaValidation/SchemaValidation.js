@@ -14,8 +14,10 @@ import {validateTable, getRelations, getForeignKeys, getSchema} from '../../redu
 
 class SchemaValidation extends React.Component {
   componentDidMount () {
-    const {flows, schema, relations} = this.props;
-    this.props.validateTable({source:flows, schema, relations});
+    const {flows, schema, relations, schemaFeedback} = this.props;
+    if (!schemaFeedback) {
+      this.props.validateTable({source:flows, schema, relations});
+    }
   }
   render() {
     const { schemaFeedback} = this.props;
