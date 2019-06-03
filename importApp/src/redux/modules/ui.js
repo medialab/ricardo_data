@@ -68,12 +68,14 @@ export default function reducer(state = initialState, action){
     case SHOW_MODIFICATION:
       return {
         ...state,
-        isModification: true
+        isModification: true,
+        modificationIndex: 0
       }
     case HIDE_MODIFICATION:
       return {
         ...state,
-        isModification: false
+        isModification: false,
+        modificationIndex: 0
       }
     case GO_NEXT_ERROR:
       return {

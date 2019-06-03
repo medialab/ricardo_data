@@ -36,16 +36,22 @@ class SchemaValidation extends React.Component {
               Found errors in {schemaFeedback.errors.length} rows of {Object.keys(schemaFeedback.collectedErrors).length} fields
             </span>
             <OverviewTable collectedErrors={schemaFeedback.collectedErrors} />
-            <Button 
-              isColor="info" 
-              onClick={handlePrevStep}>
-                Previous Step
-            </Button>
-            <Button 
-              isColor="info"
-              onClick={handleNextStep}>
-                Review Errors
-            </Button>
+            <div style={{
+              display: 'flex',
+              justifyContent: 'space-between'
+            }}>
+              <Button 
+                isColor="info" 
+                onClick={handlePrevStep}>
+                  Previous Step
+              </Button>
+              <Button 
+                isColor="info"
+                onClick={handleNextStep}>
+                  Review Errors
+              </Button>
+            </div>
+           
           </div>
         }
         {

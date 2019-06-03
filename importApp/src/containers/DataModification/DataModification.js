@@ -9,6 +9,7 @@ import {
 
 import {RANKED_FIELDS} from '../../constants';
 import {
+  setStep,
   showModification, 
   hideModification,
   goNextError,
@@ -38,6 +39,7 @@ class DataModification extends React.Component {
         return RANKED_FIELDS[field.name]
       });
     }
+    const handlePrevStep = () => this.props.setStep({id: '1'})
 
     const handlePrevError = () => {
       if (modificationIndex > 0) this.props.goPrevError();
@@ -59,31 +61,51 @@ class DataModification extends React.Component {
                 orderedErrors && 
                 <SummaryTable groupedErrors={orderedErrors} />
               }
-              <Button isColor="info" onClick={this.props.showModification}>
-                Start fix error
-              </Button>
+              <div style={{
+                display: 'flex',
+                justifyContent: 'space-between'
+              }}>
+                <Button 
+                  isColor="info" 
+                  onClick={handlePrevStep}>
+                    Previous Step
+                </Button>
+
+                <Button isColor="info" onClick={this.props.showModification}>
+                  Start fix error
+                </Button>
+              </div>
             </div>
         }
         {
           isModification &&
           <div>
-            <Button isColor="info" onClick={this.props.hideModification}>
-              Back to summary
-            </Button>
             <div className="has-text-danger has-text-weight-bold">({modificationIndex + 1}) {orderedErrors[modificationIndex].errors[0].message}</div>
             <ContextTable flows={flows} modificationItem={orderedErrors[modificationIndex]} />
-            {
-              modificationIndex !==0 &&
-                <Button isColor="info" onClick={handlePrevError}>
-                  Prev Error
-                </Button>
-            }
-            {
-              modificationIndex !== (orderedErrors.length-1) &&
-              <Button isColor="info" onClick={handleNextError}>
-                Next Error
+            <div style={{
+              display: 'flex',
+              justifyContent: 'space-between'
+            }}>
+              <Button isColor="info" onClick={this.props.hideModification}>
+                Back to summary
               </Button>
-            }
+              <div>
+                {
+                  modificationIndex !==0 &&
+                    <Button isColor="info"
+                      onClick={handlePrevError}>
+                      Prev Error
+                    </Button>
+                }
+                {
+                  modificationIndex !== (orderedErrors.length-1) &&
+                    <Button isColor="info" style={{marginLeft: '10px'}}
+                      onClick={handleNextError}>
+                      Next Error
+                    </Button>
+                }
+              </div>
+            </div>
           </div>
         }
       </div>
@@ -99,6 +121,7 @@ const mapStateToProps = state => ({
 })
 
 export default connect(mapStateToProps, {
+  setStep,
   showModification,
   hideModification,
   goNextError,
