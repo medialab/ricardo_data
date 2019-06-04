@@ -1,5 +1,5 @@
 export const MAXIMUM_FILE_SIZE = 10000000;
-export const DEFAULT_CHUNK_SIZE = 400;
+export const DEFAULT_CHUNK_SIZE = 100;
 
 export const RANKED_FIELDS = {
   "id": 0,

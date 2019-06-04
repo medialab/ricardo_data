@@ -7,9 +7,10 @@ const ContextTable = ({
 }) => {
   const columnNames = flows[0];
   const {errors, field} = modificationItem;
+
   return (
-    <div style={{position: 'relative', width: '100%', height: '70vh'}}>
-      
+    <div style={{position: 'relative', width: '100%', height: '20vh'}}>
+      <div className="has-text-danger">total {errors.length} affected rows</div>
       <div className={`action-table ${className}`}>
         <div className={'action-table-header'}>
           {
@@ -46,7 +47,6 @@ const ContextTable = ({
               })
             }
         </div>
-      
       </div>
     </div>
   );

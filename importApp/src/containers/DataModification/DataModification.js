@@ -12,16 +12,21 @@ import {
   setStep,
   showModification, 
   hideModification,
+  selectError,
   goNextError,
   goPrevError
 } from '../../redux/modules/ui';
 import SummaryTable from '../../components/SummaryTable';
-import ContextTable from '../../components/ContextTable';
+import ModificationComponent from './ModificationComponent';
+
+import {getSchema} from '../../redux/modules/schemaValidation';
 
 class DataModification extends React.Component {
   
   render() {
-    const {flows, schemaFeedback, isModification, modificationIndex} = this.props;
+    const {flows, schema, schemaFeedback, isModification, modificationIndex} = this.props;
+    const re = /row\s\d*/;
+
     let orderedErrors;
     if (schemaFeedback.collectedErrors) {
       const errorsList = values(schemaFeedback.collectedErrors).reduce((res, item) => {
@@ -31,6 +36,8 @@ class DataModification extends React.Component {
                                 .map((errors)=> {
                                   return {
                                     field: errors[0].field,
+                                    errorType: errors[0].errorType,
+                                    message: errors[0].message.replace(re, `${errors.length} rows`),
                                     value: errors[0].value,
                                     errors
                                   }
@@ -48,6 +55,11 @@ class DataModification extends React.Component {
     const handleNextError = () => {
       if (modificationIndex < orderedErrors.length - 1) this.props.goNextError();
     }
+    const handleSelectError = (index) => {
+      this.props.selectError({
+        index
+      })
+    }
     return (
       <div>
         {
@@ -59,7 +71,7 @@ class DataModification extends React.Component {
               }
               {
                 orderedErrors && 
-                <SummaryTable groupedErrors={orderedErrors} />
+                <SummaryTable groupedErrors={orderedErrors} onSelectError={handleSelectError} />
               }
               <div style={{
                 display: 'flex',
@@ -80,19 +92,24 @@ class DataModification extends React.Component {
         {
           isModification &&
           <div>
-            <div className="has-text-danger has-text-weight-bold">({modificationIndex + 1}) {orderedErrors[modificationIndex].errors[0].message}</div>
-            <ContextTable flows={flows} modificationItem={orderedErrors[modificationIndex]} />
+            <ModificationComponent 
+              flows={flows}
+              schema={schema}
+              modificationItem={orderedErrors[modificationIndex]} />
             <div style={{
               display: 'flex',
               justifyContent: 'space-between'
             }}>
-              <Button isColor="info" onClick={this.props.hideModification}>
-                Back to summary
-              </Button>
+              <div>
+                <Button isColor="info" onClick={this.props.hideModification}>
+                  Back to summary
+                </Button>
+              </div>
+              <span className="has-text-danger has-text-weight-bold">{modificationIndex + 1} / {orderedErrors.length }</span>
               <div>
                 {
                   modificationIndex !==0 &&
-                    <Button isColor="info"
+                    <Button isColor="info" style={{marginLeft: '10px'}}
                       onClick={handlePrevError}>
                       Prev Error
                     </Button>
@@ -115,6 +132,7 @@ class DataModification extends React.Component {
 
 const mapStateToProps = state => ({
   flows: state.flows.data,
+  schema: state.schemaValidation.descriptor && getSchema(state),
   schemaFeedback: state.schemaValidation.schemaFeedback,
   isModification: state.ui.isModification,
   modificationIndex: state.ui.modificationIndex
@@ -124,6 +142,7 @@ export default connect(mapStateToProps, {
   setStep,
   showModification,
   hideModification,
+  selectError,
   goNextError,
   goPrevError
 })(DataModification);

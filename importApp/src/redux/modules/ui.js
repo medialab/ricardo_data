@@ -4,6 +4,8 @@ export const HIDE_MODIFICATION = 'HIDE_MODIFICATION';
 
 export const GO_NEXT_ERROR = 'GO_NEXT_ERROR';
 export const GO_PREV_ERROR = 'GO_PREV_ERROR';
+export const SELECT_ERROR = 'SELECT_ERROR';
+
 
 
 export const setStep = (payload) => ({
@@ -17,6 +19,11 @@ export const showModification = () => ({
 
 export const hideModification = () => ({
   type: HIDE_MODIFICATION,
+});
+
+export const selectError = (payload) => ({
+  type: SELECT_ERROR,
+  payload
 });
 
 export const goPrevError = () => ({
@@ -62,8 +69,8 @@ export default function reducer(state = initialState, action){
   switch (action.type){
     case SET_STEP:
       return {
-        ...state,
-        selectedStep: steps.find((step) => payload.id === step.id)
+        ...initialState,
+        selectedStep: steps.find((step) => payload.id === step.id),
       }
     case SHOW_MODIFICATION:
       return {
@@ -76,6 +83,12 @@ export default function reducer(state = initialState, action){
         ...state,
         isModification: false,
         modificationIndex: 0
+      }
+    case SELECT_ERROR: 
+      return {
+        ...state,
+        isModification: true,
+        modificationIndex: payload.index
       }
     case GO_NEXT_ERROR:
       return {

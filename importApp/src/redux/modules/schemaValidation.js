@@ -262,7 +262,9 @@ export const validateTable = (payload) => (dispatch) => {
         const rows = await table.read({forceCast: true, relations});
         const chunkErrors = rows.filter((row) => row.errors)
         if (chunkErrors.length) {
-          chunkErrors.forEach((error) => error.rowNumber = error.rowNumber + chunk * offset -offset)
+          chunkErrors.forEach((error) => {
+            error.rowNumber = error.rowNumber + chunk * offset - offset
+          });
           errors = errors.concat(chunkErrors)
         }
       }

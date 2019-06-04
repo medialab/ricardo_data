@@ -8,9 +8,12 @@ import {
 
 class DataPrep extends React.Component {
   componentDidMount() {
-    this.props.fetchDatapackage()
-    this.props.fetchAllTables({branch:'master'})
-  }
+    const {repoData} = this.props
+    if (!repoData.tables && !repoData.datapackage) {
+      this.props.fetchDatapackage()
+      this.props.fetchAllTables({branch:'master'})
+    }
+  }  
 
   render () {
     const {repoData} = this.props

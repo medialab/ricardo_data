@@ -8,6 +8,7 @@ import FileUpload from './containers/FileUpload';
 import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
 import styles from 'design-workshop/themes/default/style.css';
+import './App.css';
 
 import { 
   setStep

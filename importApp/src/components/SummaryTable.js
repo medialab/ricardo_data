@@ -2,13 +2,15 @@ import React from 'react';
 
 import {
   HelpPin,
+  Button,
 } from 'design-workshop';
 
 const OverviewTable = ({
   className,
   groupedErrors,
+  onSelectError
 }) => {
-  const columnNames = ['', 'Field', 'Value', 'Rows']
+  const columnNames = ['', 'Field', 'Value', 'Rows', '']
 
   return (
     <div style={{position: 'relative', width: '100%', height: '70vh'}}>
@@ -29,6 +31,9 @@ const OverviewTable = ({
           {
             groupedErrors.map((item, errorIndex) => {
               const {field, errors} = item;
+              const handleSelectError = () => {
+                onSelectError(errorIndex)
+              }
               return (
                 <div key={errorIndex} className="table-row">
                   {
@@ -47,6 +52,12 @@ const OverviewTable = ({
                             </div>);
                         case 3:
                           return (<div key={columnIndex} className="table-cell">{errors.length}</div>);
+                        case 4:
+                          return (
+                            <div key={columnIndex} className="table-cell">
+                              <Button isOutlined onClick={handleSelectError} >fix error</Button>
+                            </div>
+                          )
                       }
                     })
                   }
