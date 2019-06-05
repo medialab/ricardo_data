@@ -1,5 +1,5 @@
 import React from 'react';
-
+import {isNull} from 'lodash';
 import {
   HelpPin,
   Button,
@@ -30,7 +30,7 @@ const SummaryTable = ({
         <div className={'action-table-main'}>
           {
             modificationList.map((item, errorIndex) => {
-              const {field, errors} = item;
+              const {field, errors, value, message} = item;
               const handleSelectError = () => {
                 onSelectError(errorIndex)
               }
@@ -47,8 +47,8 @@ const SummaryTable = ({
                         case 2:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              <span className="has-text-danger">{errors[0].value || 'null'}</span>
-                              <HelpPin>{errors[0].message}</HelpPin>
+                              <span className="has-text-danger">{isNull(value)? 'null' : value }</span>
+                              <HelpPin>{message}</HelpPin>
                             </div>);
                         case 3:
                           return (<div key={columnIndex} className="table-cell">{errors.length}</div>);

@@ -187,7 +187,7 @@ const getCollectedErrors = (flows, schema, errors) => {
                 errorType,
                 columnNumber: err.columnNumber,
                 field,
-                value: row[columnIndex] || 'null',
+                value: row[columnIndex],
                 message: err.message
               }
               formatErrors[field].errors.push(item)

@@ -32,7 +32,11 @@ export default createReducer(initialState, {
   },
   SUBMIT_MODIFICATION: (state, action) => {
     const {payload} = action;
-    state.modificationList[payload.index].fixed = true
+    state.modificationList[payload.index] = {
+      ...state.modificationList[payload.index],
+      fixed: true,
+      fixedValue: payload.fixedValue
+    }
   }
 })
 

@@ -10,13 +10,22 @@ const ModificationComponent = ({
   modificationIndex,
   onSubmitModification
 }) => {
-  const {errors} = modificationItem;
-  const handleSubmitModification = () => onSubmitModification(modificationIndex)
+  const handleSubmitModification = (fixedValue) => {
+    return onSubmitModification({
+      fixedValue,
+      index: modificationIndex
+    })
+  }
 
   return (
     <div style={{height: '70vh'}}>
       <div>
-        <CorrectionForm schema={schema} modificationItem={modificationItem} onSubmitForm={handleSubmitModification} /> 
+        <CorrectionForm 
+          schema={schema} 
+          modificationItem={modificationItem}
+          modificationIndex={modificationIndex}
+          onSubmitForm={handleSubmitModification} 
+        /> 
         <ContextTable flows={flows} modificationItem={modificationItem} />
       </div>
     </div>

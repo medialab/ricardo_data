@@ -14,13 +14,12 @@ import {
   goPrevError
 } from '../../redux/modules/ui';
 
-import {startModification, submitModification} from '../../redux/modules/modification';
+import {submitModification} from '../../redux/modules/modification';
 
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
 
 import {getSchema} from '../../redux/modules/schemaValidation';
-import { stat } from 'fs';
 
 class DataModification extends React.Component {
   
@@ -53,11 +52,12 @@ class DataModification extends React.Component {
       })
     }
 
-    const handleSubmitModification = (index) => {
+    const handleSubmitModification = ({fixedValue, index}) => {
       this.props.submitModification({
+        fixedValue,
         index
       });
-      if ( index+1 < modificationList.length) {
+      if ( index+1 < modificationList.length && nonFixedList.length > 0) {
         handleSelectError(index+1)
       }
       else {
