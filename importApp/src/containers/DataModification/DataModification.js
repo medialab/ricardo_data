@@ -1,64 +1,68 @@
 import React from 'react';
 import {connect} from 'react-redux';
 
-import {groupBy, sortBy, values} from 'lodash';
 
 import {
   Button,
 } from 'design-workshop';
 
-import {RANKED_FIELDS} from '../../constants';
 import {
   setStep,
-  showModification, 
   hideModification,
   selectError,
   goNextError,
   goPrevError
 } from '../../redux/modules/ui';
+
+import {startModification, submitModification} from '../../redux/modules/modification';
+
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
 
 import {getSchema} from '../../redux/modules/schemaValidation';
+import { stat } from 'fs';
 
 class DataModification extends React.Component {
   
   render() {
-    const {flows, schema, schemaFeedback, isModification, modificationIndex} = this.props;
-    const re = /row\s\d*/;
+    const {flows, schema, isModification, modificationIndex, modificationList} = this.props;
+    const nonFixedList = modificationList.filter((item) => item.fixed === false)
 
-    let orderedErrors;
-    if (schemaFeedback.collectedErrors) {
-      const errorsList = values(schemaFeedback.collectedErrors).reduce((res, item) => {
-        return res.concat(item.errors)
-      },[])
-      const groupedErrorsList = values(groupBy(errorsList, (v) => v.field + v.value))
-                                .map((errors)=> {
-                                  return {
-                                    field: errors[0].field,
-                                    errorType: errors[0].errorType,
-                                    message: errors[0].message.replace(re, `${errors.length} rows`),
-                                    value: errors[0].value,
-                                    errors
-                                  }
-                                })
-      orderedErrors = sortBy(groupedErrorsList, (field) => {
-        return RANKED_FIELDS[field.name]
-      });
-    }
     const handlePrevStep = () => this.props.setStep({id: '1'})
+    const handleNextStep = () => this.props.setStep({id: '3'})
 
     const handlePrevError = () => {
       if (modificationIndex > 0) this.props.goPrevError();
     }
 
     const handleNextError = () => {
-      if (modificationIndex < orderedErrors.length - 1) this.props.goNextError();
+      if (modificationIndex < modificationList.length - 1) this.props.goNextError();
     }
+
     const handleSelectError = (index) => {
+      if (index < modificationList.length) {
+        this.props.selectError({
+          index
+        })
+      }
+    }
+
+    const handleSelectFirstError = () => {
       this.props.selectError({
-        index
+        index: nonFixedList[0].index
       })
+    }
+
+    const handleSubmitModification = (index) => {
+      this.props.submitModification({
+        index
+      });
+      if ( index+1 < modificationList.length) {
+        handleSelectError(index+1)
+      }
+      else {
+        this.props.hideModification()
+      }
     }
     return (
       <div>
@@ -66,12 +70,12 @@ class DataModification extends React.Component {
           !isModification &&
             <div>
               {
-                orderedErrors.length > 0 &&
-                <div className="has-text-danger has-text-weight-bold">{orderedErrors.length} different errors need to modify</div>
+                modificationList.length > 0 &&
+                <div className="has-text-danger has-text-weight-bold">{modificationList.length} different errors need to modify</div>
               }
               {
-                orderedErrors && 
-                <SummaryTable groupedErrors={orderedErrors} onSelectError={handleSelectError} />
+                modificationList && 
+                <SummaryTable modificationList={modificationList} onSelectError={handleSelectError} />
               }
               <div style={{
                 display: 'flex',
@@ -82,10 +86,15 @@ class DataModification extends React.Component {
                   onClick={handlePrevStep}>
                     Previous Step
                 </Button>
-
-                <Button isColor="info" onClick={this.props.showModification}>
-                  Start fix error
-                </Button>
+                {
+                  nonFixedList.length === 0 ?
+                    <Button isColor="info" onClick={handleNextStep}>
+                      Ready to publish
+                    </Button> :
+                    <Button isColor="info" onClick={handleSelectFirstError}>
+                      Start fix error
+                    </Button>
+                }
               </div>
             </div>
         }
@@ -95,7 +104,9 @@ class DataModification extends React.Component {
             <ModificationComponent 
               flows={flows}
               schema={schema}
-              modificationItem={orderedErrors[modificationIndex]} />
+              modificationIndex={modificationIndex}
+              modificationItem={modificationList[modificationIndex]} 
+              onSubmitModification={handleSubmitModification} />
             <div style={{
               display: 'flex',
               justifyContent: 'space-between'
@@ -105,7 +116,7 @@ class DataModification extends React.Component {
                   Back to summary
                 </Button>
               </div>
-              <span className="has-text-danger has-text-weight-bold">{modificationIndex + 1} / {orderedErrors.length }</span>
+              <span className="has-text-danger has-text-weight-bold">{modificationIndex + 1} / {modificationList.length }</span>
               <div>
                 {
                   modificationIndex !==0 &&
@@ -115,7 +126,7 @@ class DataModification extends React.Component {
                     </Button>
                 }
                 {
-                  modificationIndex !== (orderedErrors.length-1) &&
+                  modificationIndex !== (modificationList.length-1) &&
                     <Button isColor="info" style={{marginLeft: '10px'}}
                       onClick={handleNextError}>
                       Next Error
@@ -134,15 +145,16 @@ const mapStateToProps = state => ({
   flows: state.flows.data,
   schema: state.schemaValidation.descriptor && getSchema(state),
   schemaFeedback: state.schemaValidation.schemaFeedback,
+  modificationList: state.modification.modificationList,
   isModification: state.ui.isModification,
   modificationIndex: state.ui.modificationIndex
 })
 
 export default connect(mapStateToProps, {
   setStep,
-  showModification,
   hideModification,
   selectError,
   goNextError,
-  goPrevError
+  goPrevError,
+  submitModification
 })(DataModification);

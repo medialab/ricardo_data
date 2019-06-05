@@ -1,10 +1,13 @@
 import React from 'react';
 import {connect} from 'react-redux';
+import {groupBy, sortBy, values} from 'lodash';
+import {RANKED_FIELDS} from '../../constants';
 
 import {Button} from 'design-workshop';
 import { 
   setStep
 } from '../../redux/modules/ui';
+import {startModification} from '../../redux/modules/modification';
 
 // import FeedbackTable from '../../components/FeedbackTable';
 // import AggregatedTable from '../../components/AggregatedTable';
@@ -20,9 +23,38 @@ class SchemaValidation extends React.Component {
     }
   }
   render() {
-    const { schemaFeedback} = this.props;
+    const {schemaFeedback, modificationList} = this.props;
+    const re = /row\s\d*/;
+
+    const getOrderedErrors = (collectedErrors) => {
+      const errorsList = values(collectedErrors).reduce((res, item) => {
+        return res.concat(item.errors)
+      },[])
+      const groupedErrorsList = values(groupBy(errorsList, (v) => v.field + v.value))
+                                .map((errors, index)=> {
+                                  return {
+                                    index,
+                                    field: errors[0].field,
+                                    errorType: errors[0].errorType,
+                                    fixed: false,
+                                    message: errors[0].message.replace(re, `${errors.length} rows`),
+                                    value: errors[0].value,
+                                    errors
+                                  }
+                                })
+      return sortBy(groupedErrorsList, (field) => {
+        return RANKED_FIELDS[field.name]
+      });
+    }
+
     const handlePrevStep = () => this.props.setStep({id: '0'})
-    const handleNextStep = () => this.props.setStep({id: '2'})
+    const handleNextStep = () => {
+      if (!modificationList) {
+        const orderedErrors = getOrderedErrors(schemaFeedback.collectedErrors);
+        this.props.startModification(orderedErrors)
+      }
+      this.props.setStep({id: '2'});
+    }
 
     return (
       <div>
@@ -68,10 +100,12 @@ const mapStateToProps = state => ({
   schema: state.schemaValidation.descriptor && getSchema(state),
   relations: state.schemaValidation.descriptor && getRelations(state),
   foreignKeys: state.schemaValidation.descriptor && getForeignKeys(state),
-  schemaFeedback: state.schemaValidation.schemaFeedback
+  schemaFeedback: state.schemaValidation.schemaFeedback,
+  modificationList: state.modification.modificationList
 })
 
 export default connect(mapStateToProps, {
   validateTable,
   setStep,
+  startModification,
 })(SchemaValidation);

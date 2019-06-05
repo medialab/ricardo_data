@@ -5,9 +5,9 @@ import {
   Button,
 } from 'design-workshop';
 
-const OverviewTable = ({
+const SummaryTable = ({
   className,
-  groupedErrors,
+  modificationList,
   onSelectError
 }) => {
   const columnNames = ['', 'Field', 'Value', 'Rows', '']
@@ -29,7 +29,7 @@ const OverviewTable = ({
         </div>
         <div className={'action-table-main'}>
           {
-            groupedErrors.map((item, errorIndex) => {
+            modificationList.map((item, errorIndex) => {
               const {field, errors} = item;
               const handleSelectError = () => {
                 onSelectError(errorIndex)
@@ -55,7 +55,7 @@ const OverviewTable = ({
                         case 4:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              <Button isOutlined onClick={handleSelectError} >fix error</Button>
+                              <Button isOutlined isColor={item.fixed? 'success': 'info'} onClick={handleSelectError}>{item.fixed ? 'fixed': 'fix error'}</Button>
                             </div>
                           )
                       }
@@ -72,4 +72,4 @@ const OverviewTable = ({
   );
 }
 
-export default OverviewTable
+export default SummaryTable

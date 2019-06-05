@@ -1,21 +1,23 @@
+import {
+  START_MODIFICATION,
+  SUBMIT_MODIFICATION
+} from './modification';
+
 export const SET_STEP = 'SET_STEP';
-export const SHOW_MODIFICATION = 'SHOW_MODIFICATION';
+
+// export const SHOW_MODIFICATION = 'SHOW_MODIFICATION';
 export const HIDE_MODIFICATION = 'HIDE_MODIFICATION';
 
 export const GO_NEXT_ERROR = 'GO_NEXT_ERROR';
 export const GO_PREV_ERROR = 'GO_PREV_ERROR';
 export const SELECT_ERROR = 'SELECT_ERROR';
 
-
-
 export const setStep = (payload) => ({
   type: SET_STEP,
   payload
 });
 
-export const showModification = () => ({
-  type: SHOW_MODIFICATION,
-});
+
 
 export const hideModification = () => ({
   type: HIDE_MODIFICATION,
@@ -50,18 +52,19 @@ const steps = [
     name: 'Error Fixing',
     title: 'Fix errors by fields'
   },
-  // {
-  //   id: '3',
-  //   name: 'Export/Publish Data',
-  //   title: 'Export or Publish your data to Github'
-  // }
+  {
+    id: '3',
+    name: 'Export/Publish Data',
+    title: 'Export or Publish your data to Github'
+  }
 ];
 
 const initialState = {
   steps, 
   selectedStep: steps[0],
   isModification: false,
-  modificationIndex: 0
+  modificationIndex: 0,
+  fixedIndex: []
 }
 
 export default function reducer(state = initialState, action){
@@ -72,7 +75,7 @@ export default function reducer(state = initialState, action){
         ...initialState,
         selectedStep: steps.find((step) => payload.id === step.id),
       }
-    case SHOW_MODIFICATION:
+    case START_MODIFICATION:
       return {
         ...state,
         isModification: true,

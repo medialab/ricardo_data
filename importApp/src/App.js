@@ -4,9 +4,12 @@ import {connect} from 'react-redux'
 
 import DataPrep from './containers/DataPrep';
 import DataModification from './containers/DataModification';
+import DataPublish from './containers/DataPublish';
+
 import FileUpload from './containers/FileUpload';
 import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
+
 import styles from 'design-workshop/themes/default/style.css';
 import './App.css';
 
@@ -30,6 +33,8 @@ const App = ({
         return <SchemaValidation />;
       case '2':
         return <DataModification />;
+      case '3':
+        return <DataPublish />;
     }
   }
   

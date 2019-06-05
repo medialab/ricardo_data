@@ -10,7 +10,7 @@ const ContextTable = ({
 
   return (
     <div style={{position: 'relative', width: '100%', height: '20vh'}}>
-      <div className="has-text-danger">total {errors.length} affected rows</div>
+      <div className="has-text-danger">total {errors.length} rows affected</div>
       <div className={`action-table ${className}`}>
         <div className={'action-table-header'}>
           {
