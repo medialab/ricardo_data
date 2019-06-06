@@ -14,6 +14,8 @@ import {
   goPrevError
 } from '../../redux/modules/ui';
 
+import {updateFlows} from '../../redux/modules/flows';
+
 import {submitModification} from '../../redux/modules/modification';
 
 import SummaryTable from '../../components/SummaryTable';
@@ -52,11 +54,10 @@ class DataModification extends React.Component {
       })
     }
 
-    const handleSubmitModification = ({fixedValue, index}) => {
-      this.props.submitModification({
-        fixedValue,
-        index
-      });
+    const handleSubmitModification = (payload) => {
+      const {index} = payload;
+      this.props.submitModification(payload);
+      this.props.updateFlows(payload);
       if ( index+1 < modificationList.length && nonFixedList.length > 0) {
         handleSelectError(index+1)
       }
@@ -152,6 +153,7 @@ const mapStateToProps = state => ({
 
 export default connect(mapStateToProps, {
   setStep,
+  updateFlows,
   hideModification,
   selectError,
   goNextError,

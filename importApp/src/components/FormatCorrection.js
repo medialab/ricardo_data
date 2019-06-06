@@ -47,8 +47,9 @@ class FormatCorrection extends React.Component {
   validateField = (value) => {
     const {fieldSchema} = this.state;
     try {
-      fieldSchema.castValue(value)
+      const fixedValue = fieldSchema.castValue(value)
       this.setState({
+        fixedValue,
         fieldError: null
       })
     } catch(error) {
@@ -100,6 +101,10 @@ class FormatCorrection extends React.Component {
                   {
                     fieldError && <Help isColor="danger">{fieldError.message}</Help>
                   }
+                  {
+                    !isSubmitDisabled &&
+                      <Help isColor="success">change {value} to {this.state.fixedValue}, total {errors.length} rows affected</Help>
+                  }
                 </FieldContainer>
               }
               
@@ -117,6 +122,10 @@ class FormatCorrection extends React.Component {
                         })
                       }
                     </Select>
+                    {
+                      !isSubmitDisabled &&
+                        <Help isColor="success">change {value} to {this.state.fixedValue}, total {errors.length} rows affected</Help>
+                    }
                   </Control>
                 </FieldContainer>
               }
@@ -130,10 +139,6 @@ class FormatCorrection extends React.Component {
           </Columns>
   
         </form>    
-        {
-          !isSubmitDisabled &&
-            <span>change {value} to {this.state.fixedValue}, total {errors.length} rows affected</span>
-        }
       </div>
     )
   }

@@ -13,6 +13,7 @@ const ModificationComponent = ({
 }) => {
   const handleSubmitModification = (fixedValue) => {
     return onSubmitModification({
+      ...modificationItem,
       fixedValue,
       index: modificationIndex
     })

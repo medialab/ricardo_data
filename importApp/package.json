@@ -11,6 +11,7 @@
     "d3-dsv": "^1.1.1",
     "datapackage": "^1.1.1",
     "design-workshop": "git+https://github.com/medialab/design-workshop.git",
+    "file-saver": "^2.0.2",
     "js-base64": "^2.5.1",
     "localforage": "^1.7.3",
     "lodash": "^4.17.11",

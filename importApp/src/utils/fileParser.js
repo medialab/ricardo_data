@@ -34,13 +34,17 @@ export function parseSheet( file ) {
     // Handle errors loadrABS
     reader.onload = ( event ) => {
       const bstr = event.target.result;
-      const wb = XLSX.read(bstr, {type: 'binary'});
+      const wb = XLSX.read(bstr, {
+        type: 'binary', 
+        // raw: true //If true, plain text parsing will not parse values **
+      }); 
 			// Get first worksheet
 			const wsname = wb.SheetNames[0];
 			const ws = wb.Sheets[wsname];
 			// Convert to "2D Array"
       const data = XLSX.utils.sheet_to_json(ws, {
         header: 1, 
+        // raw: false, // use raw values (true) or formatted strings (false)
         defval: '', // set null and undefined to empty string for validation
         blankrows: false // skip blank rows
       });

@@ -1,4 +1,5 @@
 import { createReducer } from 'redux-starter-kit';
+
 import {SET_STEP} from './ui';
 
 export const SUBMIT_MODIFICATION = 'SUBMIT_MODIFICATION';
