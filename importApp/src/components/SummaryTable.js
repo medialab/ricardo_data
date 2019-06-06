@@ -51,7 +51,10 @@ const SummaryTable = ({
                               <HelpPin>{message}</HelpPin>
                             </div>);
                         case 3:
-                          return (<div key={columnIndex} className="table-cell">{errors.length}</div>);
+                          return (
+                            <div key={columnIndex} className="table-cell">
+                              <span className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed && 'rows affected'}</span>
+                            </div>);
                         case 4:
                           return (
                             <div key={columnIndex} className="table-cell">

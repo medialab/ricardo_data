@@ -1,9 +1,11 @@
 import React from 'react';
+import {Field, Schema} from 'tableschema';
+
 import {
   Columns,
   Column,
   Button,
-  Field,
+  Field as FieldContainer,
   Label,
   Control,
   Input,
@@ -11,87 +13,99 @@ import {
   Select
 } from 'design-workshop'
 
-class CorrectionForm extends React.Component {
+class FormatCorrection extends React.Component {
   constructor(props) {
     super(props);
     this.state = this.hydrateState()
   }
+
   componentDidUpdate (prevProps) {
    if (this.props.modificationIndex !== prevProps.modificationIndex) {
       const state = this.hydrateState()
       this.setState({
-        fixedValue: state.fixedValue
+        ...state
       })
    }
   }
 
   hydrateState = () => {
-    const {modificationItem, schema} = this.props;
+    const {modificationItem, descriptor} = this.props;
+    const fieldSchema = new Field(descriptor);
+
     let fixedValue = '';
     if (modificationItem.fixedValue) fixedValue = modificationItem.fixedValue;
-    else if (schema.constraints && schema.constraints.enum) {
-      fixedValue = schema.constraints.enum[0];
+    else if (fieldSchema.constraints && fieldSchema.constraints.enum) {
+      fixedValue = fieldSchema.constraints.enum[0];
     }
     return {
-      fixedValue
+      fieldSchema,
+      fixedValue,
+      fieldError: null
+    }
+  }
+
+  validateField = (value) => {
+    const {fieldSchema} = this.state;
+    try {
+      fieldSchema.castValue(value)
+      this.setState({
+        fieldError: null
+      })
+    } catch(error) {
+      this.setState({
+        fieldError: error
+      })
     }
   }
 
   handleChange = (event) => {
     this.setState({
       fixedValue: event.target.value
-    })
+    });
+    this.validateField(event.target.value);
   }
 
   handleSubmitForm = () => {
-    const {fixedValue} = this.state;
-    if(!fixedValue || fixedValue.length === 0) return
+    const {fixedValue, fieldError} = this.state;
+    if(!fixedValue || fixedValue.length === 0 || fieldError) return;
     this.props.onSubmitForm(fixedValue);
   }
 
   render() {
-    const {modificationItem, schema} = this.props;
-    const {field, errorType, value, message, errors}= modificationItem;
-    let fieldSchema = schema.fields.find((f) => f.name === field)
-    // if (errorType === 'ERROR_FORMAT') {
-    //   fieldSchema = schema.fields.find((f) => f.name === field)
-    // }
-    if (errorType === 'ERROR_FOREIGN_KEY') {
-      const foreignKeys = schema.foreignKeys.find((f) => f.fields.indexOf(field) !==-1)
-      fieldSchema = {
-        ...fieldSchema,
-        foreignKeys
-      }
-    }
+    const {modificationItem} = this.props;
+    const {value, message, errors}= modificationItem;
+    const {fieldSchema, fixedValue, fieldError} = this.state;
+    const isSubmitDisabled = !fixedValue || fixedValue.length === 0 || fieldError;
 
     return (
-      <div style={{height: '40vh'}}>
+      <div style={{height: '60vh'}}>
         <form>
           <Columns>
             <Column isSize='1/2'>
-              <Field>
+              <FieldContainer>
                 <Label>Original value of "{fieldSchema.name}":</Label>
-                <strong className="has-text-danger">{value}</strong>
+                {/* <Input value={value} disabled /> */}
+                <div className="has-text-danger">{value}</div>
                 <Help isColor="danger">{message}</Help>
-              </Field>
-            </Column>
-            <Column isSize='1/2'>
+              </FieldContainer>
               {
                 (!fieldSchema.constraints || !fieldSchema.constraints.enum) &&
-                <Field>
+                <FieldContainer>
                   <Label>Input a new value of "{fieldSchema.name}"</Label>
                   <Control>
-                    <Input placeholder="input" 
+                    <Input
                       value={this.state.fixedValue}
                       onChange={this.handleChange} />
                   </Control>
-                  {/* <Help isColor="success"></Help> */}
-                </Field>
+                  {
+                    fieldError && <Help isColor="danger">{fieldError.message}</Help>
+                  }
+                </FieldContainer>
               }
               
               {
                 fieldSchema.constraints && fieldSchema.constraints.enum &&
-                <Field>
+                <FieldContainer>
                   <Label>Select a value of "{fieldSchema.name}" from:</Label>
                   <Control>
                     <Select value={this.state.fixedValue} onChange={this.handleChange}>
@@ -104,20 +118,20 @@ class CorrectionForm extends React.Component {
                       }
                     </Select>
                   </Control>
-                </Field>
+                </FieldContainer>
               }
   
-              <Field>
+              <FieldContainer>
                 <Control>
-                  <Button isColor="info" onClick={this.handleSubmitForm}>Confirm this fix</Button>
+                  <Button isColor="info" isDisabled={isSubmitDisabled} onClick={this.handleSubmitForm}>Confirm this fix</Button>
                 </Control>
-              </Field>
+              </FieldContainer>
             </Column>
           </Columns>
   
         </form>    
         {
-          this.state.fixedValue.length > 0 &&
+          !isSubmitDisabled &&
             <span>change {value} to {this.state.fixedValue}, total {errors.length} rows affected</span>
         }
       </div>
@@ -125,4 +139,4 @@ class CorrectionForm extends React.Component {
   }
 }
 
-export default CorrectionForm;
+export default FormatCorrection;
