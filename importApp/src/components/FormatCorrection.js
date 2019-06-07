@@ -16,7 +16,7 @@ import {
 class FormatCorrection extends React.Component {
   constructor(props) {
     super(props);
-    this.state = this.hydrateState()
+    this.state = this.hydrateState();
   }
 
   componentDidUpdate (prevProps) {
@@ -32,7 +32,7 @@ class FormatCorrection extends React.Component {
     const {modificationItem, descriptor} = this.props;
     const fieldSchema = new Field(descriptor);
 
-    let fixedValue = '';
+    let fixedValue = modificationItem.value;
     if (modificationItem.fixedValue) fixedValue = modificationItem.fixedValue;
     else if (fieldSchema.constraints && fieldSchema.constraints.enum) {
       fixedValue = fieldSchema.constraints.enum[0];
@@ -40,44 +40,48 @@ class FormatCorrection extends React.Component {
     return {
       fieldSchema,
       fixedValue,
-      fieldError: null
+      fieldValid: null
     }
   }
 
   validateField = (value) => {
     const {fieldSchema} = this.state;
     try {
-      const fixedValue = fieldSchema.castValue(value)
+      fieldSchema.castValue(value);
       this.setState({
-        fixedValue,
-        fieldError: null
+        fixedValue: value,
+        fieldValid: {
+          valid: true
+        }
       })
     } catch(error) {
       this.setState({
-        fieldError: error
+        fixedValue: value,
+        fieldValid: {
+          valid: false,
+          error
+        }
       })
     }
   }
 
   handleChange = (event) => {
-    this.setState({
-      fixedValue: event.target.value
-    });
-    this.validateField(event.target.value);
+    this.validateField(event.target.value)
   }
 
   handleSubmitForm = () => {
-    const {fixedValue, fieldError} = this.state;
-    if(!fixedValue || fixedValue.length === 0 || fieldError) return;
+    const {fixedValue, fieldValid} = this.state;
+    if(!fixedValue || fixedValue.length === 0 || fieldValid) return;
     this.props.onSubmitForm(fixedValue);
   }
 
   render() {
     const {modificationItem} = this.props;
     const {value, message, errors}= modificationItem;
-    const {fieldSchema, fixedValue, fieldError} = this.state;
-    const isSubmitDisabled = !fixedValue || fixedValue.length === 0 || fieldError;
-
+    const {fieldSchema, fixedValue, fieldValid} = this.state;
+    const isSubmitDisabled = !fieldValid || !fieldValid.valid
+    const printValue = fixedValue.length === 0 ? 'null' : fixedValue;
+    
     return (
       <div style={{height: '60vh'}}>
         <form>
@@ -99,11 +103,11 @@ class FormatCorrection extends React.Component {
                       onChange={this.handleChange} />
                   </Control>
                   {
-                    fieldError && <Help isColor="danger">{fieldError.message}</Help>
+                    fieldValid!==null && !fieldValid.valid && <Help isColor="danger">{fieldValid.error.message}</Help>
                   }
                   {
-                    !isSubmitDisabled &&
-                      <Help isColor="success">change {value} to {this.state.fixedValue}, total {errors.length} rows affected</Help>
+                    !isSubmitDisabled && fieldValid!==null && fieldValid.valid &&
+                      <Help isColor="success">change {value} to {printValue}, total {errors.length} rows affected</Help>
                   }
                 </FieldContainer>
               }
@@ -124,7 +128,7 @@ class FormatCorrection extends React.Component {
                     </Select>
                     {
                       !isSubmitDisabled &&
-                        <Help isColor="success">change {value} to {this.state.fixedValue}, total {errors.length} rows affected</Help>
+                        <Help isColor="success">change {value} to {printValue}, total {errors.length} rows affected</Help>
                     }
                   </Control>
                 </FieldContainer>
