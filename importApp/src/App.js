@@ -55,7 +55,10 @@ const App = ({
   }
 
   const handleSetStep = (step) => {
-    const fixed = modificationList.filter((item) => item.fixed)
+    let fixed
+    if (modificationList) {
+      const fixed = modificationList.filter((item) => item.fixed)
+    }
     if(fixed && step.id === '0') showModal();
     else setStep(step)
   }
