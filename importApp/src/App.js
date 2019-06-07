@@ -5,25 +5,37 @@ import {connect} from 'react-redux'
 import DataPrep from './containers/DataPrep';
 import DataModification from './containers/DataModification';
 import DataPublish from './containers/DataPublish';
-
 import FileUpload from './containers/FileUpload';
+
+import ConfirmationModal from './components/ConfirmationModal';
+
 import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
+
+import {downloadFile} from './utils/fileExporter';
 
 import styles from 'design-workshop/themes/default/style.css';
 import './App.css';
 
 import { 
-  setStep
+  setStep,
+  showModal,
+  hideModal
 } from './redux/modules/ui';
 
 const App = ({
   steps,
+  isModalDisplay,
   selectedStep,
   repoData,
+  flows,
+  modificationList,
   //actions
-  setStep
+  setStep,
+  showModal,
+  hideModal
 }) => {
+
   const renderChildren = () => {
     switch(selectedStep.id) {
       case '0':
@@ -37,6 +49,16 @@ const App = ({
         return <DataPublish />;
     }
   }
+  const handleExport = () => {
+    const {file, data} = flows;
+    downloadFile(data, file.name, 'xlsx')
+  }
+
+  const handleSetStep = (step) => {
+    const fixed = modificationList.filter((item) => item.fixed)
+    if(fixed && step.id === '0') showModal();
+    else setStep(step)
+  }
   
   return (
     <div className="App">
@@ -45,10 +67,15 @@ const App = ({
         <Layout 
           steps={steps}
           selectedStep={selectedStep}
-          onSetStep={setStep}>
+          onSetStep={handleSetStep}>
           {renderChildren()}
         </Layout>
       }
+      <ConfirmationModal 
+        isActive={isModalDisplay}
+        onSelectDiscard={() => setStep(steps[0])}
+        onSelectDownload={handleExport}
+        closeModal={hideModal} />
     </div>
   );
 }
@@ -56,10 +83,15 @@ const App = ({
 
 const mapStateToProps = state => ({
   steps: state.ui.steps,
+  isModalDisplay: state.ui.isModalDisplay,
+  flows: state.flows,
   selectedStep: state.ui.selectedStep,
+  modificationList: state.modification.modificationList,
   repoData: state.repoData
  })
  
  export default connect(mapStateToProps, {
+  showModal,
+  hideModal,
   setStep
  })(App);

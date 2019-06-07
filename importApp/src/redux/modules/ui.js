@@ -1,6 +1,5 @@
 import {
   START_MODIFICATION,
-  SUBMIT_MODIFICATION
 } from './modification';
 
 export const SET_STEP = 'SET_STEP';
@@ -12,12 +11,21 @@ export const GO_NEXT_ERROR = 'GO_NEXT_ERROR';
 export const GO_PREV_ERROR = 'GO_PREV_ERROR';
 export const SELECT_ERROR = 'SELECT_ERROR';
 
+export const SHOW_CONFIRMATION_MODAL = 'SHOW_CONFIRMATION_MODAL';
+export const HIDE_CONFIRMATION_MODAL = 'HIDE_CONFIRMATION_MODAL';
+
 export const setStep = (payload) => ({
   type: SET_STEP,
   payload
 });
 
+export const showModal = () => ({
+  type: SHOW_CONFIRMATION_MODAL
+})
 
+export const hideModal = () => ({
+  type: HIDE_CONFIRMATION_MODAL
+})
 
 export const hideModification = () => ({
   type: HIDE_MODIFICATION,
@@ -61,6 +69,7 @@ const steps = [
 
 const initialState = {
   steps, 
+  isModalDisplay: false,
   selectedStep: steps[0],
   isModification: false,
   modificationIndex: 0,
@@ -74,6 +83,16 @@ export default function reducer(state = initialState, action){
       return {
         ...initialState,
         selectedStep: steps.find((step) => payload.id === step.id),
+      }
+    case SHOW_CONFIRMATION_MODAL:
+      return {
+        ...state,
+        isModalDisplay: true
+      }
+    case HIDE_CONFIRMATION_MODAL:
+      return {
+        ...state,
+        isModalDisplay: false
       }
     case START_MODIFICATION:
       return {
