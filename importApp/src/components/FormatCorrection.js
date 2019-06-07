@@ -71,7 +71,7 @@ class FormatCorrection extends React.Component {
 
   handleSubmitForm = () => {
     const {fixedValue, fieldValid} = this.state;
-    if(!fixedValue || fixedValue.length === 0 || fieldValid) return;
+    if(!fixedValue || fixedValue.length === 0 || !fieldValid.valid) return;
     this.props.onSubmitForm(fixedValue);
   }
 
