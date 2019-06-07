@@ -1,6 +1,7 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {groupBy, sortBy, values} from 'lodash';
+import {groupBy, sortBy, values, max, min} from 'lodash';
+
 import {RANKED_FIELDS} from '../../constants';
 
 import {Button} from 'design-workshop';
@@ -29,19 +30,34 @@ class SchemaValidation extends React.Component {
     const getOrderedErrors = (collectedErrors) => {
       const errorsList = values(collectedErrors).reduce((res, item) => {
         return res.concat(item.errors)
-      },[])
-      const groupedErrorsList = values(groupBy(errorsList, (v) => v.field + v.value))
-                                .map((errors, index)=> {
-                                  return {
-                                    index,
-                                    field: errors[0].field,
-                                    errorType: errors[0].errorType,
-                                    fixed: false,
-                                    message: errors[0].message.replace(re, `${errors.length} rows`),
-                                    value: errors[0].value,
-                                    errors
-                                  }
-                                })
+      },[]);
+      
+      const groupedErrorsList = 
+        values(groupBy(errorsList,(v) => {
+          if (v.field !== 'currency|year|reporting') return (v.field + v.value)
+          else {
+            const groupedValue = v.value.split('|')[0] + v.value.split('|')[2]
+            return v.field + groupedValue
+          }
+        }))
+        .map((errors, index)=> {
+          const fieldName = errors[0].field;
+          let yearRange;
+          if (fieldName === 'currency|year|reporting') {
+            const years = errors.map((error) => error.value.split('|')[1]);
+            yearRange = years.length > 0 ? `${min(years)}-${max(years)}` : years[0]
+          }
+          const value = fieldName !== 'currency|year|reporting' ? errors[0].value : `${errors[0].value.split('|')[0]}|${yearRange}|${errors[0].value.split('|')[2]}`
+          return {
+            index,
+            field: errors[0].field,
+            errorType: errors[0].errorType,
+            fixed: false,
+            message: errors[0].message.replace(re, `${errors.length} rows`),
+            value, 
+            errors
+          }
+        });
       return sortBy(groupedErrorsList, (field) => {
         return RANKED_FIELDS[field.name]
       });
