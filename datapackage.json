@@ -470,11 +470,7 @@
               "description": "The translated currency name"
             }
         ],
-        "foreignKeys": [
-          {
-            "fields": "reporting",
-            "reference": {"resource": "entity_names", "fields": "original_name"}
-          },
+        "foreignKeys": [  
           {
             "fields": ["modified_currency", "year"],
             "reference": {"resource": "exchange_rates", "fields": ["modified_currency", "year"]}
