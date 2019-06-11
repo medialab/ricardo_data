@@ -1,6 +1,6 @@
 import { createSelector } from 'reselect'
 
-import {Package} from 'datapackage';
+import {Package, Resource} from 'datapackage';
 import {Table} from 'tableschema';
 import {Base64} from 'js-base64';
 
@@ -19,6 +19,7 @@ import {
   FETCH_DATAPACKAGE_SUCCESS,
 } from './repoData';
 
+
 export const VALIDATE_RESOURCE_REQUEST = 'VALIDATE_RESOURCE_REQUEST';
 export const VALIDATE_RESOURCE_SUCCESS = 'VALIDATE_RESOURCE_SUCCESS';
 export const VALIDATE_RESOURCE_FAILURE = 'VALIDATE_RESOURCE_FAILURE';
@@ -33,12 +34,14 @@ export const VALIDATE_HEADER_FAILURE = 'VALIDATE_HEADER_FAILURE';
 
 // not used yet
 export const validateResource = (payload) => (dispatch) => {
-  const {descriptor, relations} = payload;
+  const {descriptor} = payload;
   dispatch(async () => {
     let resource;
     try {
-      const dataPackage = await Package.load(descriptor, {basePath: repoUrl});
-      resource = dataPackage.getResource('flows');
+      // const dataPackage = await Package.load(descriptor);
+      // resource = dataPackage.getResource(resourceName);
+      resource = Resource.load(descriptor);
+      await resource.read()
       
       dispatch({
         type: VALIDATE_RESOURCE_SUCCESS,
@@ -47,6 +50,7 @@ export const validateResource = (payload) => (dispatch) => {
         }
       })
     } catch (error) {
+      console.log(error)
       if (error.multiple) {
         dispatch({
           type: VALIDATE_RESOURCE_FAILURE,
@@ -242,6 +246,7 @@ const getCollectedErrors = (flows, schema, errors) => {
 
 export const validateTable = (payload) => (dispatch) => {
   const {source, schema, relations} = payload;
+  console.log(relations)
   dispatch(async() => {
     try {
       const tableLength = source.length;
@@ -305,9 +310,10 @@ export const validateTable = (payload) => (dispatch) => {
  */
 
 const initialState = {
-  tableValidated: 'flows',
+  resourceName: 'flows',
   schemaFeedback: null,
   headerFeedback: null,
+  descriptor: null,
   tables: null
 }
 
@@ -322,57 +328,40 @@ export default function reducer(state = initialState, action){
           headerFeedback: null,
         }
       }
-      return state
-    case FETCH_TABLES_SUCCESS:
-      const tables = {}
-      Object.keys(payload).forEach((id) => {
-        tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
-          if (d.year) {
-            return {
-              ...d,
-              year: +d.year
-            }
-          }
-          return d
-        })
-      })
-      return {
-        ...state,
-        tables
-      }
+      return state;
+    // case INIT_TABLES:
+    // case FETCH_TABLES_SUCCESS:
+    //   const tables = {}
+    //   Object.keys(payload).forEach((id) => {
+    //     tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
+    //       if (d.year) {
+    //         return {
+    //           ...d,
+    //           year: +d.year
+    //         }
+    //       }
+    //       return d
+    //     })
+    //   })
+    //   return {
+    //     ...state,
+    //     tables
+    //   }
     case FETCH_DATAPACKAGE_SUCCESS:
       return {
         ...state,
         descriptor: JSON.parse(Base64.decode(payload.content))
       }
-    // case IMPORT_FLOWS:
-    //   newDescriptor = {...state.descriptor};
-    //   // newDescriptor.resources.forEach((resource)=> {
-    //   //   resource.path = `${repoUrl}/${resource.path}`
-    //   // });
-    //   delete newDescriptor.resources[0].path
-    //   // newDescriptor.resources[0].dialect = {
-    //   //   delimiter: ';',
-    //   //   header: true
-    //   // }
-    //   newDescriptor.resources[0].data = payload.data
+    // case UPDATE_TABLE:
+    //   const {row, resourceName} = payload;
+    //   const newTable = state.tables[resourceName].slice();
+    //   newTable.splice(newTable.length, 0, row);
+    //   delete state.tables[resourceName]      
     //   return {
     //     ...state,
-    //     descriptor: newDescriptor
-    //   }
-    // case VALIDATE_RESOURCE_SUCCESS:
-    //   return {
-    //     ...state,
-    //     schemaFeedback: {
-    //       valid: true
-    //     }
-    //   }
-    // case VALIDATE_RESOURCE_FAILURE:
-    //   return {
-    //     ...state,
-    //     schemaFeedback: {
-    //       valid: false,
-    //       ...payload
+    //     tables: {
+    //       ...state.tables,
+    //       [resourceName]: newTable
     //     }
     //   }
     case VALIDATE_HEADER_REQUEST: 
@@ -398,25 +387,29 @@ export default function reducer(state = initialState, action){
 * SELECTORS
 */
 
-export const getSchema = (state) => {
-  const {tableValidated} = state.schemaValidation;
-  const resource = state.schemaValidation.descriptor.resources.find((resource) => resource.name === tableValidated);
-  return resource.schema
-}
+const getResourceName = state => state.schemaValidation.resourceName;
+const getResources = state => state.schemaValidation.descriptor.resources;
+const getTables = state => state.tables.tables;
 
-export const getRelations = (state) => {
-  const foreignKeys = getForeignKeys(state)
-  const relations = {};
-  foreignKeys.forEach((key) => {
-    const tableName = key.reference.resource;
-    relations[tableName] = state.schemaValidation.tables[tableName]
-  });
-  return relations;
-}
+export const getResourceSchema = createSelector(
+  getResourceName,
+  getResources,
+  (resourceName, resources) => {
+    const selectedResource = resources.find((resource) => resource.name === resourceName);
+    return selectedResource.schema
+})
 
-export const getForeignKeys = (state) => {
-  const {tableValidated} = state.schemaValidation;
-  const resource = state.schemaValidation.descriptor.resources.find((resource) => resource.name === tableValidated);
-  const {foreignKeys} = resource.schema;
-  return foreignKeys
-}
+export const getRelations = createSelector(
+  getResourceName,
+  getResources,
+  getTables,
+  (resourceName, resources, tables) => {
+    const selectedResource = resources.find((resource) => resource.name === resourceName);
+    const relations = {};
+    selectedResource.schema.foreignKeys.forEach((key) => {
+      const tableName = key.reference.resource;
+      relations[tableName] = tables[tableName]
+      console.log(tables)
+    });
+    return relations;
+})

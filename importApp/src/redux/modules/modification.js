@@ -17,6 +17,8 @@ export const submitModification = (payload) => ({
 
 
 const initialState = {
+  foreignKeyField: null,
+  modificationIndex: 0,
   modificationList: null
 }
 
@@ -30,14 +32,44 @@ export default createReducer(initialState, {
   START_MODIFICATION: (state, action) => {
     const {payload} = action;
     state.modificationList = payload
+    state.modificationIndex = 0
+  },
+  HIDE_MODIFICATION: (state, action) => {
+    state.modificationIndex = 0
+  },
+  SELECT_ERROR: (state, action) => {
+    const {payload} = action;
+    state.modificationIndex = payload.index;
+    // if (state.modificationList[payload.index].errorType === 'ERROR_FOREIGN_KEY') {
+    //   state.foreignKeyField = state.modificationList[payload.index].field
+    // }
+    // else {
+    //   state.foreignKeyField = null
+    // }
+  },
+  GO_NEXT_ERROR: (state, action) => {
+    state.modificationIndex = state.modificationIndex + 1
+  },
+  GO_PREV_ERROR: (state, action) => {
+    if (state.modificationIndex > 0) {
+      state.modificationIndex = state.modificationIndex - 1
+    }
   },
   SUBMIT_MODIFICATION: (state, action) => {
     const {payload} = action;
     state.modificationList[payload.index] = {
       ...state.modificationList[payload.index],
-      fixed: true,
-      fixedValue: payload.fixedValue
+      ...payload,
+      fixed: true
     }
   }
 })
 
+// SELECTORS
+// const getModificationIndex = state => state.ui.modificationIndex;
+
+// const getReferenceResource = state => state.modification.referenceResource;
+
+// export const getTable = createSelector(
+  
+// )

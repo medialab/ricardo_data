@@ -12,8 +12,9 @@ import {
 
 import {
   validateHeader, 
-  getSchema
+  getResourceSchema
 } from '../../redux/modules/schemaValidation';
+import DataPrep from '../DataPrep';
 
 import HeaderValidation from '../../components/HeaderValidation';
 
@@ -22,6 +23,7 @@ import { MAXIMUM_FILE_SIZE } from '../../constants';
 
 const FileUpload = ({
   schema,
+  tables,
   flows,
   headerFeedback,
   setStep,
@@ -40,7 +42,10 @@ const FileUpload = ({
         });
         validateHeader({source: data, schema})
       })
-      .catch((error) => console.error('fail to parse file'))
+      .catch((error) => {
+        console.error(error)
+        console.error('fail to parse file')
+      })
     }
     else {
       parseTable(file)
@@ -62,13 +67,17 @@ const FileUpload = ({
   const handleNextStep = () => setStep({id: '1'})
   return (
     <div>
-      <DropZone
-        maxSize={MAXIMUM_FILE_SIZE}
-        onDrop={handleDrop}
-        onDropRejected={handleDropRejected}
-        isSize="small">
-        <span className="tech-info">Drag and drop .xlsx, .csv file here(maximum 10MB)</span>
-      </DropZone>
+      <DataPrep />
+      {
+        tables &&
+        <DropZone
+          maxSize={MAXIMUM_FILE_SIZE}
+          onDrop={handleDrop}
+          onDropRejected={handleDropRejected}
+          isSize="small">
+          <span className="tech-info">Drag and drop .xlsx, .csv file here(maximum 10MB)</span>
+        </DropZone>
+      }
       {
         headerFeedback && headerFeedback.status === 'loading' &&
         <span>Validating Headers</span>
@@ -105,8 +114,9 @@ const FileUpload = ({
 
 
 const mapStateToProps = state => ({
-  schema: state.schemaValidation.descriptor && getSchema(state),
+  schema: state.repoData.descriptor && getResourceSchema(state),
   flows: state.flows,
+  tables: state.repoData.tables,
   headerFeedback: state.schemaValidation.headerFeedback
  })
  

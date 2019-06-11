@@ -72,7 +72,7 @@ const initialState = {
   isModalDisplay: false,
   selectedStep: steps[0],
   isModification: false,
-  modificationIndex: 0,
+  // modificationIndex: 0,
   fixedIndex: []
 }
 
@@ -98,31 +98,31 @@ export default function reducer(state = initialState, action){
       return {
         ...state,
         isModification: true,
-        modificationIndex: 0
+        // modificationIndex: 0
       }
     case HIDE_MODIFICATION:
       return {
         ...state,
         isModification: false,
-        modificationIndex: 0
+        // modificationIndex: 0
       }
     case SELECT_ERROR: 
       return {
         ...state,
         isModification: true,
-        modificationIndex: payload.index
+        // modificationIndex: payload.index
       }
-    case GO_NEXT_ERROR:
-      return {
-        ...state,
-        modificationIndex: state.modificationIndex + 1
-      }
-    case GO_PREV_ERROR:
-      if (state.modificationIndex === 0) return;
-      return {
-        ...state,
-        modificationIndex: state.modificationIndex - 1
-      }
+    // case GO_NEXT_ERROR:
+    //   return {
+    //     ...state,
+    //     modificationIndex: state.modificationIndex + 1
+    //   }
+    // case GO_PREV_ERROR:
+    //   if (state.modificationIndex === 0) return;
+    //   return {
+    //     ...state,
+    //     modificationIndex: state.modificationIndex - 1
+    //   }
     default:
      return state
   }

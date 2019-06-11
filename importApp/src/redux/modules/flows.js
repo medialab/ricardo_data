@@ -36,10 +36,13 @@ export default createReducer(initialState, {
   },
   UPDATE_FLOWS: (state, action) => {
     const {payload} = action;
-    const {errors, field, fixedValue} = payload;
-    const columnNumber = state.data[0].indexOf(field);
+    const {errors, fixedValues} = payload;
+    const fieldList = Object.keys(fixedValues)
     errors.forEach((error) => {
-      state.data[error.rowNumber -1][columnNumber] = fixedValue;
+      fieldList.forEach((field) => {
+        const columnNumber = state.data[0].indexOf(field);
+        state.data[error.rowNumber -1][columnNumber] = fixedValues[field];
+      })
     })
   }
 })

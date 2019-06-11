@@ -1,5 +1,5 @@
 import {get} from 'axios';
-import {apiUri, repoUrl} from '../../config/default';
+import {apiUri, branchUri} from '../../config/default';
 import { Base64 } from 'js-base64';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
@@ -14,7 +14,11 @@ export const FETCH_TABLES_REQUEST = 'FETCH_TABLES_REQUEST';
 export const FETCH_TABLES_SUCCESS = 'FETCH_TABLES_SUCCESS';
 export const FETCH_TABLES_FAILURE = 'FETCH_TABLES_FAILURE';
 
+export const FETCH_BRANCHES_REQUEST = 'FETCH_BRANCHES_REQUEST';
+export const FETCH_BRANCHES_SUCCESS = 'FETCH_BRANCHES_SUCCESS';
+export const FETCH_BRANCHES_FAILURE = 'FETCH_BRANCHES_FAILURE';
 
+export const SELECT_BRANCH = 'SELECT_BRANCH';
 
 export const tablesList = [
   {
@@ -50,7 +54,34 @@ export const tablesList = [
 /**
  * ACTIONS
  */
- export const fetchTable = (payload) => (dispatch) => {
+
+export const selectBranch = (payload) => ({
+  type: SELECT_BRANCH,
+  payload
+})
+
+export const fetchBranches = (payload) => (dispatch) => {
+  dispatch({
+    type: FETCH_BRANCHES_REQUEST,
+    payload
+  });
+  return get(branchUri)
+  .then((res) => {
+    return dispatch({
+      type: FETCH_BRANCHES_SUCCESS,
+      payload: {
+        ...payload,
+        branches: res.data
+      }
+    })
+  }).catch((error) => dispatch({
+    type: FETCH_BRANCHES_FAILURE,
+    payload,
+    error
+  }))
+}
+
+export const fetchTable = (payload) => (dispatch) => {
   const {branch, table} = payload
   dispatch({
     type: FETCH_TABLE_REQUEST,
@@ -115,19 +146,14 @@ export const fetchDatapackage = () => (dispatch) => {
  * REDUCER
  */
 
-const initialState = {}
+const initialState = {
+  selectedBranch: 'master'
+}
 
 export default function reducer(state = initialState, action){
   const {payload} = action;
   switch (action.type){
     case FETCH_TABLES_SUCCESS:
-      // newDescriptor = {...state.descriptor};
-      // newDescriptor.resources.forEach((resource)=> {
-      //   if (payload[resource.name]) {
-      //     delete resource.path;
-      //     resource.data = csvParseRows(atob(payload[resource.name].content))
-      //   }
-      // });
       return {
         ...state,
         tables: payload
@@ -137,6 +163,17 @@ export default function reducer(state = initialState, action){
         ...state,
         datapackage: payload,
         descriptor: JSON.parse(Base64.decode(payload.content))
+      }
+    case FETCH_BRANCHES_SUCCESS:
+      return {
+        ...state,
+        branches: payload.branches
+      }
+    case SELECT_BRANCH:
+      return {
+        ...state,
+        selectedBranch: payload.branch,
+        tables: null
       }
     default:
       return state

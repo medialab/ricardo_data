@@ -1,54 +1,85 @@
 import React from 'react';
+import {connect} from 'react-redux';
+
+import {isEqual} from 'lodash';
+
 import ContextTable from '../../components/ContextTable'
 import FormatCorrection from '../../components/FormatCorrection';
 import ForeignkeyCorrection from '../../components/ForeignkeyCorrection';
 
+import {updateTable} from '../../redux/modules/tables';
+
 const ModificationComponent = ({
   className,
   flows,
+  tables,
+  descriptor,
   schema,
   modificationItem,
   modificationIndex,
-  onSubmitModification
+  onSubmitModification,
+  updateTable,
 }) => {
-  const handleSubmitModification = (fixedValue) => {
+  const handleSubmitModification = (payload) => {
+    const {fixedValues, fixedReferenceTable} = payload;
+    console.log(payload)
     return onSubmitModification({
       ...modificationItem,
-      fixedValue,
+      fixedValues,
+      fixedReferenceTable,
       index: modificationIndex
     })
   }
-  const getDescriptor = () => {
+
+  const getFieldDescriptor = () => {
     const {field}= modificationItem;
     const descriptor = schema.fields.find((f) => f.name === field)
     return descriptor;
   }
 
+  const getForeignKeyField = () => {
+    let foreignKeyField;
+    if (modificationItem.field.indexOf('|') !== -1) {
+      const fieldList = modificationItem.field.split('|');
+      foreignKeyField = schema.foreignKeys.find((f) => isEqual(f.fields, fieldList));
+    }
+    else {
+      foreignKeyField = schema.foreignKeys.find((f) => f.fields === modificationItem.field);
+    }
+    return foreignKeyField;
+  }  
   return (
     <div>
-      <div>
-        {
-          modificationItem.errorType === 'ERROR_FORMAT' &&
-          <FormatCorrection 
-            descriptor={getDescriptor()} 
-            modificationItem={modificationItem}
-            modificationIndex={modificationIndex}
-            onSubmitForm={handleSubmitModification} 
-          /> 
-        }
-         {
-          modificationItem.errorType === 'ERROR_FOREIGN_KEY' &&
-          <ForeignkeyCorrection 
-            descriptor={getDescriptor()} 
-            modificationItem={modificationItem}
-            modificationIndex={modificationIndex}
-            onSubmitForm={handleSubmitModification} 
-          /> 
-        }
-        <ContextTable flows={flows} modificationItem={modificationItem} />
-      </div>
+      {
+        modificationItem.errorType === 'ERROR_FORMAT' &&
+        <FormatCorrection 
+          fieldDescriptor={getFieldDescriptor()} 
+          modificationItem={modificationItem}
+          modificationIndex={modificationIndex}
+          onSubmitForm={handleSubmitModification} 
+        /> 
+      }
+      {
+        modificationItem.errorType === 'ERROR_FOREIGN_KEY' &&
+        <ForeignkeyCorrection 
+          schema={schema}
+          descriptor={descriptor}
+          foreignKeyField={getForeignKeyField()}
+          tables={tables}
+          modificationItem={modificationItem}
+          modificationIndex={modificationIndex}
+          onUpdateTable={updateTable}
+          onSubmitForm={handleSubmitModification} 
+        /> 
+      }
+      <ContextTable flows={flows} modificationItem={modificationItem} />
     </div>
   );
 }
 
-export default ModificationComponent;
+const mapStateToProps = state => ({
+  descriptor: state.schemaValidation.descriptor,
+  tables: state.tables.tables
+});
+
+export default connect(mapStateToProps, {updateTable})(ModificationComponent);

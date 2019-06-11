@@ -2,7 +2,6 @@
 import React from 'react';
 import {connect} from 'react-redux'
 
-import DataPrep from './containers/DataPrep';
 import DataModification from './containers/DataModification';
 import DataPublish from './containers/DataPublish';
 import FileUpload from './containers/FileUpload';
@@ -23,6 +22,8 @@ import {
   hideModal
 } from './redux/modules/ui';
 
+import { initTables } from './redux/modules/tables';
+
 const App = ({
   steps,
   isModalDisplay,
@@ -31,6 +32,7 @@ const App = ({
   flows,
   modificationList,
   //actions
+  initTables,
   setStep,
   showModal,
   hideModal
@@ -57,26 +59,28 @@ const App = ({
   const handleSetStep = (step) => {
     let fixed
     if (modificationList) {
-      const fixed = modificationList.filter((item) => item.fixed)
+      fixed = modificationList.filter((item) => item.fixed)
     }
     if(fixed && step.id === '0') showModal();
     else setStep(step)
   }
+
+  const handleDiscard = () => {
+    initTables(repoData.tables);
+    setStep(steps[0]);
+  }
   
   return (
     <div className="App">
-      <DataPrep />
-      { repoData.descriptor &&
-        <Layout 
-          steps={steps}
-          selectedStep={selectedStep}
-          onSetStep={handleSetStep}>
-          {renderChildren()}
-        </Layout>
-      }
+      <Layout 
+        steps={steps}
+        selectedStep={selectedStep}
+        onSetStep={handleSetStep}>
+        {renderChildren()}
+      </Layout>
       <ConfirmationModal 
         isActive={isModalDisplay}
-        onSelectDiscard={() => setStep(steps[0])}
+        onSelectDiscard={handleDiscard}
         onSelectDownload={handleExport}
         closeModal={hideModal} />
     </div>
@@ -94,6 +98,7 @@ const mapStateToProps = state => ({
  })
  
  export default connect(mapStateToProps, {
+  initTables,
   showModal,
   hideModal,
   setStep

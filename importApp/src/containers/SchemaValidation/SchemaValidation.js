@@ -14,7 +14,7 @@ import {startModification} from '../../redux/modules/modification';
 // import AggregatedTable from '../../components/AggregatedTable';
 import OverviewTable from '../../components/OverviewTable';
 
-import {validateTable, getRelations, getForeignKeys, getSchema} from '../../redux/modules/schemaValidation';
+import {validateTable, getRelations, getResourceSchema} from '../../redux/modules/schemaValidation';
 
 class SchemaValidation extends React.Component {
   componentDidMount () {
@@ -113,9 +113,8 @@ class SchemaValidation extends React.Component {
 }
 const mapStateToProps = state => ({
   flows: state.flows.data,
-  schema: state.schemaValidation.descriptor && getSchema(state),
-  relations: state.schemaValidation.descriptor && getRelations(state),
-  foreignKeys: state.schemaValidation.descriptor && getForeignKeys(state),
+  schema: getResourceSchema(state),
+  relations: getRelations(state),
   schemaFeedback: state.schemaValidation.schemaFeedback,
   modificationList: state.modification.modificationList
 })

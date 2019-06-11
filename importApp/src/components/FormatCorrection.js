@@ -29,11 +29,11 @@ class FormatCorrection extends React.Component {
   }
 
   hydrateState = () => {
-    const {modificationItem, descriptor} = this.props;
-    const fieldSchema = new Field(descriptor);
+    const {modificationItem, fieldDescriptor} = this.props;
+    const fieldSchema = new Field(fieldDescriptor);
 
     let fixedValue = modificationItem.value;
-    if (modificationItem.fixedValue) fixedValue = modificationItem.fixedValue;
+    if (modificationItem.fixedValues) fixedValue = modificationItem.fixedValues[fieldSchema.name];
     else if (fieldSchema.constraints && fieldSchema.constraints.enum) {
       fixedValue = fieldSchema.constraints.enum[0];
     }
@@ -70,9 +70,13 @@ class FormatCorrection extends React.Component {
   }
 
   handleSubmitForm = () => {
+    const {modificationItem} = this.props;
     const {fixedValue, fieldValid} = this.state;
     if(!fixedValue || fixedValue.length === 0 || !fieldValid.valid) return;
-    this.props.onSubmitForm(fixedValue);
+    const fixedValues = {
+      [modificationItem.field]: fixedValue
+    }
+    this.props.onSubmitForm({fixedValues});
   }
 
   render() {
@@ -81,7 +85,7 @@ class FormatCorrection extends React.Component {
     const {fieldSchema, fixedValue, fieldValid} = this.state;
     const isSubmitDisabled = !fieldValid || !fieldValid.valid
     const printValue = fixedValue.length === 0 ? 'null' : fixedValue;
-    
+
     return (
       <div style={{height: '60vh'}}>
         <form>
@@ -96,7 +100,7 @@ class FormatCorrection extends React.Component {
               {
                 (!fieldSchema.constraints || !fieldSchema.constraints.enum) &&
                 <FieldContainer>
-                  <Label>Input a new value of "{fieldSchema.name}"</Label>
+                  <Label>Fix with a new input</Label>
                   <Control>
                     <Input
                       value={this.state.fixedValue}
@@ -106,8 +110,8 @@ class FormatCorrection extends React.Component {
                     fieldValid!==null && !fieldValid.valid && <Help isColor="danger">{fieldValid.error.message}</Help>
                   }
                   {
-                    !isSubmitDisabled && fieldValid!==null && fieldValid.valid &&
-                      <Help isColor="success">change {value} to {printValue}, total {errors.length} rows affected</Help>
+                    !isSubmitDisabled &&
+                    <Help isColor="success">change {value} to {printValue}, total {errors.length} rows affected</Help>
                   }
                 </FieldContainer>
               }

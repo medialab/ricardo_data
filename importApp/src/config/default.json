@@ -1,4 +1,5 @@
 {
   "repoUrl": "https://raw.githubusercontent.com/medialab/ricardo_data/master",
-  "apiUri": "https://api.github.com/repos/medialab/ricardo_data/contents"
+  "apiUri": "https://api.github.com/repos/medialab/ricardo_data/contents",
+  "branchUri": "https://api.github.com/repos/medialab/ricardo_data/branches"
 }

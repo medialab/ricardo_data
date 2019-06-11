@@ -21,7 +21,7 @@ import {submitModification} from '../../redux/modules/modification';
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
 
-import {getSchema} from '../../redux/modules/schemaValidation';
+import {getResourceSchema} from '../../redux/modules/schemaValidation';
 
 class DataModification extends React.Component {
   
@@ -144,11 +144,11 @@ class DataModification extends React.Component {
 
 const mapStateToProps = state => ({
   flows: state.flows.data,
-  schema: state.schemaValidation.descriptor && getSchema(state),
+  schema: getResourceSchema(state),
   schemaFeedback: state.schemaValidation.schemaFeedback,
   modificationList: state.modification.modificationList,
   isModification: state.ui.isModification,
-  modificationIndex: state.ui.modificationIndex
+  modificationIndex: state.modification.modificationIndex
 })
 
 export default connect(mapStateToProps, {
