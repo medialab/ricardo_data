@@ -32,11 +32,11 @@ const ContextTable = ({
                       columnNames.map((columnName, columnIndex) => {
                         const errorColumn = field.split('|').indexOf(columnName) !== -1 ? true : false
                         let fixedValue;
-                        let originalValue
+                        let originalValue = value;
                         if (fixedValues && errorColumn) {
-                          const errorColumnIndex = field.split('|').indexOf(columnName)
-                          fixedValue = fixedValues[columnName]
-                          originalValue = value.split('|')[errorColumnIndex]
+                          const errorColumnIndex = field.split('|').indexOf(columnName);
+                          fixedValue = fixedValues[columnName].length === 0 ? 'none' : fixedValues[columnName];
+                          originalValue = (''+value).split('|')[errorColumnIndex]
                         }
                       return (
                         <div key={columnIndex} className="table-cell" style={{ wordBreak: 'break-all' }}>
@@ -45,7 +45,7 @@ const ContextTable = ({
                           </span>
                           {
                             fixedValue && 
-                            <span  className="has-text-success">->{fixedValue}</span>
+                              <span  className="has-text-success">->{fixedValue}</span>
                           }
                         </div>
                       );

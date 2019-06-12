@@ -1,5 +1,5 @@
 import React from 'react';
-import {isNull} from 'lodash';
+import {isNull, values} from 'lodash';
 import {
   HelpPin,
   Button,
@@ -30,7 +30,8 @@ const SummaryTable = ({
         <div className={'action-table-main'}>
           {
             modificationList.map((item, errorIndex) => {
-              const {field, errors, value, message} = item;
+              const {field, errors, value, message, fixed, fixedValues} = item;
+              const fixedValue = values(fixedValues).join('|');
               const handleSelectError = () => {
                 onSelectError(errorIndex)
               }
@@ -47,13 +48,19 @@ const SummaryTable = ({
                         case 2:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              <span className="has-text-danger">{isNull(value)? 'null' : value }</span>
+                              <span className="has-text-danger">{isNull(value)? 'none' : value }</span>
+                              {fixed && <span className="has-text-success">->{fixedValue === ''?'none': fixedValue}</span>}
                               <HelpPin>{message}</HelpPin>
                             </div>);
                         case 3:
                           return (
                             <div key={columnIndex} className="table-cell">
                               <span className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed && 'rows affected'}</span>
+                              <br/>
+                              {
+                                item.fixedReferenceTable && 
+                                <span className="has-text-success">new row added to "{item.fixedReferenceTable}" table</span>
+                              }
                             </div>);
                         case 4:
                           return (

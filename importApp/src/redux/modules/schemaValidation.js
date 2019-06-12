@@ -246,7 +246,6 @@ const getCollectedErrors = (flows, schema, errors) => {
 
 export const validateTable = (payload) => (dispatch) => {
   const {source, schema, relations} = payload;
-  console.log(relations)
   dispatch(async() => {
     try {
       const tableLength = source.length;
@@ -409,7 +408,6 @@ export const getRelations = createSelector(
     selectedResource.schema.foreignKeys.forEach((key) => {
       const tableName = key.reference.resource;
       relations[tableName] = tables[tableName]
-      console.log(tables)
     });
     return relations;
 })

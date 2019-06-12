@@ -22,7 +22,6 @@ const ModificationComponent = ({
 }) => {
   const handleSubmitModification = (payload) => {
     const {fixedValues, fixedReferenceTable} = payload;
-    console.log(payload)
     return onSubmitModification({
       ...modificationItem,
       fixedValues,
