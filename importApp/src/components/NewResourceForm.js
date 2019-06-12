@@ -12,43 +12,40 @@ import {
   Select
 } from 'design-workshop'
 
+import {getEnumOptions} from '../utils/formUtils';
+
+const nonChangableFields = ['slug', 'export_import', 'special_general']
+const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
+
 class FieldInput extends React.Component {
   constructor(props) {
     super(props);
     this.state = this.getStateFromProps();
   }
 
-  getStateFromProps = () => {
+  componentDidUpdate (prevProps) {
     const {fieldDescriptor, fieldValue} = this.props;
-    const fieldSchema = new Field(fieldDescriptor);
-
-    let value;
-    let options;
-    if (fieldValue) value = fieldValue
-    else if (fieldSchema.constraints && fieldSchema.constraints.enum) {
-      options = this.getOptions(fieldSchema.constraints.enum)
-      value = options[0].value
-    }
-    return {
-      fieldSchema,
-      value,
-      fieldValid: null,
-      options
+    if (fieldDescriptor.name === 'slug' && fieldValue !== prevProps.fieldValue ) {
+      this.validateField(fieldValue)
     }
   }
 
-  getOptions = (enumList) => {
-    const options = enumList.map((e) => {
-      return {
-        label: e,
-        value: e
-      }
-    })
-    options.unshift({
-      value: '',
-      label: 'none'
-    })
-    return options
+  getStateFromProps = () => {
+    const {fieldDescriptor, fieldValue} = this.props;
+    const fieldSchema = new Field(fieldDescriptor);
+    
+    let options;
+    if (fieldSchema.constraints && fieldSchema.constraints.enum) {
+      options = getEnumOptions(fieldSchema.constraints.enum, fieldSchema.constraints.required)
+    }
+    return {
+      fieldSchema,
+      value: fieldValue,
+      fieldValid: {
+        valid: false
+      },
+      options
+    }
   }
 
   validateField = (value) => {
@@ -88,29 +85,24 @@ class FieldInput extends React.Component {
   }
 
   render() {
-    const {fieldSchema, fieldValid,value} = this.state;
+    const {fieldSchema, fieldValid, value} = this.state;
 
     return (
-      <div>
-        {
-          (!fieldSchema.constraints || !fieldSchema.constraints.enum) &&
-          <FieldContainer>
-            <Label>{fieldSchema.name}</Label>
-            <Control>
-              <Input
-                value={value}
-                onChange={this.handleChange} />
-            </Control>
+      <FieldContainer>
+        <Label>
+          {fieldSchema.name}
+          {
+            fieldSchema.constraints && fieldSchema.constraints.required &&
+            <span>*</span>
+          }
+        </Label>
+        { (nonChangableFields.indexOf(fieldSchema.name) !==-1) ?
+          <Control>
+            <span>{this.props.fieldValue}</span>
+          </Control> :
+          <Control>
             {
-              fieldValid!==null && !fieldValid.valid && <Help isColor="danger">{fieldValid.error.message}</Help>
-            }
-          </FieldContainer>
-        }  
-        {
-          fieldSchema.constraints && fieldSchema.constraints.enum &&
-          <FieldContainer>
-            <Label>{fieldSchema.name}</Label>
-            <Control>
+              fieldSchema.constraints && fieldSchema.constraints.enum ?
               <Select value={value} onChange={this.handleChange}>
                 {
                   this.state.options.map((item, index) => {
@@ -119,28 +111,33 @@ class FieldInput extends React.Component {
                     )
                   })
                 }
-              </Select>
-            </Control>
-          </FieldContainer>
+              </Select>:
+              <Input
+                value={value}
+                onChange={this.handleChange} />
+            }
+          </Control>}
+        {
+          fieldValid && fieldValid.message && <Help isColor="danger">{fieldValid.error.message}</Help>
         }
-      </div>
+      </FieldContainer> 
     )
   }
 }
 
 const FieldSlug = ({fieldDescriptor, field}) => {
-  console.log(field)
   return (
     <FieldContainer>
-      <Label>slug</Label>
+      <Label>{fieldDescriptor.name}*</Label>
       <Control>
         <span>{field.value}</span>
       </Control>
+      {
+        !field.value &&<Help isColor="danger">slug is required</Help>
+      }
     </FieldContainer>
   )
 }
-
-const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
 
 class NewResourceForm extends React.Component {
   
@@ -149,17 +146,33 @@ class NewResourceForm extends React.Component {
     this.state = this.getStateFromProps()
   }
 
-  // componentDidUpdate (prevProps) {
-  //   this.state = this.getStateFromProps()
-  // }
-
   getStateFromProps = () => {
-    const {resourceDescriptor} = this.props;
+    const {resourceDescriptor, originalValue} = this.props;
     const {schema} = resourceDescriptor;
     const fields = schema.fields.reduce((res, field) => {
+      let value = '';
+      let valid = true;
+      if (field.constraints && field.constraints.enum) {
+        const enumList = field.constraints.enum
+        value = enumList[0]
+      }
+      if(field.name === 'export_import') {
+        value = originalValue.split('|')[0]
+      }
+      if(field.name === 'special_general') {
+        value = originalValue.split('|')[1]
+      }
+      if (field.constraints && field.constraints.required && !field.constraints.enum ) {
+        valid = false
+      }
       return {
         ...res,
-        [field.name]: {}
+        [field.name]: {
+          value,
+          fieldValid: {
+            valid
+          }
+        }
       }
     }, {});
     return {
@@ -198,18 +211,17 @@ class NewResourceForm extends React.Component {
       fields: {
         ...this.state.fields,
         [payload.fieldName]: payload
-      },  
-
+      }
     })
   }
 
   render() {
     const {resourceDescriptor} = this.props;
     const {schema} = resourceDescriptor;
-    const fieldsValid = values(this.state.fields).filter((field) => field.fieldValid && !field.fieldValid.valid);
+    const fieldsInvalid = values(this.state.fields).filter((field) => field.fieldValid && !field.fieldValid.valid);
 
     const handleAddNew = () => {
-      const data = mapValues(this.state.fields, (item) => item.value || '')
+      const data = mapValues(this.state.fields, (item) => item.value || '');
       this.props.onAddNew(data)
     }
     return (
@@ -217,12 +229,13 @@ class NewResourceForm extends React.Component {
         <div style={{height: '40vh', overflow:'auto'}}>
           <h3>Add a new row to "{resourceDescriptor.name}" table</h3>
           {
-            schema.fields.map((field) => {
-              if (field.name === 'slug') {
-                return <FieldSlug fieldDescriptor={field} field={this.state.fields['slug']} />
-              }
+            schema.fields.map((field, index) => {
               return (
-                <FieldInput fieldDescriptor={field} onChange={this.handleFieldChange} />
+                <FieldInput 
+                key={index}
+                fieldDescriptor={field} 
+                fieldValue={this.state.fields[field.name].value}
+                onChange={this.handleFieldChange} />
               )
           })
           }
@@ -232,7 +245,8 @@ class NewResourceForm extends React.Component {
             <Button isColor="info" onClick={this.props.onCancel}>Cancel</Button>
           </Control>
           <Control>
-            <Button isColor="info" isDisabled={fieldsValid.length>0} onClick={handleAddNew}>Add new</Button>
+            {/* TODO: add resource validation for all field */}
+            <Button isColor="info" isDisabled={fieldsInvalid.length>0} onClick={handleAddNew}>Add new</Button>
           </Control>
         </FieldContainer>
       </div>

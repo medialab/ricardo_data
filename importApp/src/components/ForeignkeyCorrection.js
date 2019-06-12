@@ -1,8 +1,7 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {values, isNil} from 'lodash'
+import {values} from 'lodash'
 
-import {Field, Schema} from 'tableschema';
 import Select from 'react-select';
 
 import {
@@ -12,7 +11,6 @@ import {
   Field as FieldContainer,
   Label,
   Control,
-  Input,
   Help,
 } from 'design-workshop';
 
@@ -58,6 +56,7 @@ class ForeignKeyCorrection extends React.Component {
       fixedValues,
       showNewForm: false,
       newRow: null,
+      showSolving: !modificationItem.fixed,
     }
   }
 
@@ -81,7 +80,8 @@ class ForeignKeyCorrection extends React.Component {
     const fixedValues = this.initFixedValues()
     this.setState({
       fixedValues,
-      showNewForm: true
+      showNewForm: true,
+      newRow: null
     })
   }
 
@@ -131,13 +131,45 @@ class ForeignKeyCorrection extends React.Component {
     }
   }
 
-  render() {
-    const {newRow, fixedValues} = this.state;
-    const {modificationItem, schema, foreignKeyField, tables, descriptor} = this.props;
-    const {value, message, errors, field, fixedReferenceTable}= modificationItem;
+  handleShowSolving = () => {
+    this.setState({
+      showSolving: true
+    })
+  }
+
+  handleHideSolving = () => {
+    this.setState({
+      showSolving: false
+    })
+  }
+
+  renderFixed() {
+    const {modificationItem, foreignKeyField} = this.props;
+    const {fixedValues}= modificationItem;
+    const fixedValue = values(fixedValues).join('|');
+    const printValue = fixedValue.length ? 'none': fixedValue;
     const resourceName = foreignKeyField.reference.resource;  
-    const referenceFieldResource = descriptor.resources.find((resource) => resource.name === resourceName);
-    const referenceField = foreignKeyField.reference.fields
+
+    return (
+      <FieldContainer>
+        <Label className="has-text-success">Fixed with value</Label>
+        <strong className="has-text-success">{printValue}</strong>
+        <Help isColor="success">
+          <li>total {modificationItem.errors.length} rows affected</li>
+          <li>new row will be added to "{resourceName}" table</li>
+        </Help>
+        <br/>
+        <Button isColor="info" onClick={this.handleShowSolving}>Change this fix</Button>
+      </FieldContainer>
+    )
+  }
+
+  renderSolving() {
+    const {modificationItem, foreignKeyField, tables} = this.props;
+    const {field, fixedReferenceTable}= modificationItem;
+
+    const resourceName = foreignKeyField.reference.resource;  
+    const referenceField = foreignKeyField.reference.fields;
 
     const generateValue = (value) => {
       return {
@@ -145,7 +177,8 @@ class ForeignKeyCorrection extends React.Component {
         label: value
       }
     }
-    const fixedValueSelected = this.state.newRow ? generateValue(''): generateValue(fixedValues[field])
+    
+    const fixedValueSelected = this.state.newRow ? generateValue(''): generateValue(this.state.fixedValues[field])
 
     const getOptions = () => {
       const table = tables[resourceName];
@@ -156,8 +189,63 @@ class ForeignKeyCorrection extends React.Component {
         }
       })
     }
+    return (
+      <div>
+        {
+          modificationItem.field === 'source' &&
+          <FieldContainer>
+            <Label>Select from exist sources</Label>
+            <Select 
+              isSearchable={true}
+              isClearable={true}
+              value={fixedValueSelected}
+              onChange={this.handleSelectExist}
+              options={getOptions()} />
+            {
+              fixedValueSelected.value !== '' && !fixedReferenceTable &&
+                <Help isColor="success">
+                  <li>change "{modificationItem.value}" to "{values(this.state.fixedValues).join("|")}"</li>
+                  <li>total {modificationItem.errors.length} rows affected</li>
+                </Help>
+            }
+          </FieldContainer>
+        }  
+        <FieldContainer>
+          <Control>
+            <Label>Not found one</Label>
+            <Button isColor="info" onClick={this.handleClickCreate}>Create new item</Button>
+            {
+              (this.state.newRow) &&
+              <Help isColor="success">
+                <li>change "{modificationItem.value}" to "{values(this.state.fixedValues).join("|")}"</li>
+                <li>total {modificationItem.errors.length} rows affected</li>
+                <li>new row will be added to "{resourceName}" table</li>
+              </Help>
+            }
+          </Control>
+        </FieldContainer>  
+      </div>
+    )
+    
+  }
 
-    const isSubmitDisabled= !this.state.newRow && fixedValueSelected.value === '';
+  render() {
+    const {newRow, fixedValues} = this.state;
+    const {modificationItem, foreignKeyField,descriptor} = this.props;
+    const {value, message, field}= modificationItem;
+    const resourceName = foreignKeyField.reference.resource;  
+    const referenceFieldResource = descriptor.resources.find((resource) => resource.name === resourceName);
+    // const referenceField = foreignKeyField.reference.fields
+
+    const generateValue = (value) => {
+      return {
+        value,
+        label: value
+      }
+    }
+    const fixedValueSelected = this.state.newRow ? generateValue(''): generateValue(fixedValues[field])
+
+    const isSubmitEnabled= this.state.newRow || fixedValueSelected.value;
 
     return (
       <div style={{height: '60vh'}}>
@@ -170,67 +258,36 @@ class ForeignKeyCorrection extends React.Component {
                 <div className="has-text-danger">{value}</div>
                 <Help isColor="danger">{message}</Help>
               </FieldContainer>
-              {
-                modificationItem.field === 'source' &&
-                <FieldContainer>
-                  <Label>Select from exist sources</Label>
-                  <Select 
-                    isSearchable={true}
-                    isClearable={true}
-                    value={fixedValueSelected}
-                    onChange={this.handleSelectExist}
-                    options={getOptions()} />
-                  {
-                    fixedValueSelected.value !== '' && !fixedReferenceTable &&
-                      <Help isColor="success">
-                        <li>change "{modificationItem.value}" to "{values(fixedValues).join("|")}"</li>
-                        <li>total {modificationItem.errors.length} rows affected</li>
-                      </Help>
-                  }
-                </FieldContainer>
-              }
-
-              <FieldContainer>
-                <Control>
-                  <Label>Not found one</Label>
-                  <Button isColor="info" onClick={this.handleClickCreate}>Create new item</Button>
-                  {
-                    (this.state.newRow) &&
-                    <Help isColor="success">
-                      <li>change "{modificationItem.value}" to "{values(fixedValues).join("|")}"</li>
-                      <li>total {modificationItem.errors.length} rows affected</li>
-                      <li>new row will be added to "{resourceName}" table</li>
-                    </Help>
-                  }
-                </Control>
-              </FieldContainer>
+              {!this.state.showSolving && this.renderFixed()}
+              {this.state.showSolving && this.renderSolving()}
             </Column>
-
             {
               this.state.showNewForm && 
               (modificationItem.field === 'source'|| modificationItem.field === 'export_import|special_general') &&
               <Column isSize='1/2' className='new-resource-form' style={{flex: 'auto'}}>
                 <NewResourceForm 
+                  originalValue={modificationItem.value}
                   resourceDescriptor={referenceFieldResource} 
                   onCancel={this.handleCancel}
                   onAddNew={this.handleAddNewRow} />
               </Column>
             }
           </Columns>
-          <FieldContainer>
-            <Control>
-              <Button isColor="info" isDisabled={isSubmitDisabled} onClick={this.handleSubmitForm}>Confirm this fix</Button>
-              {
-                fixedReferenceTable &&
-                  <Help isColor="success">
-                    <li>fixed "{modificationItem.value}" with "{values(fixedValues).join("|")}"</li>
-                    <li>total {modificationItem.errors.length} rows affected</li>
-                    <li>new row is added to "{resourceName}" table</li>
-                  </Help>
-              }
-            </Control>
-          </FieldContainer>
-  
+          {
+            this.state.showSolving &&
+            <FieldContainer isGrouped>  
+              <Control>
+                <Button isColor="info" onClick={this.handleHideSolving}>Cancel</Button>
+              </Control>
+              <Control>
+                {
+                  isSubmitEnabled &&
+                    <Button isColor="info" onClick={this.handleSubmitForm}>Confirm this fix</Button>
+                }
+              </Control>
+            </FieldContainer>
+          }
+
         </form>
       </div>
     )
