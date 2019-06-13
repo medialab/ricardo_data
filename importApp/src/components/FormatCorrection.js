@@ -113,13 +113,13 @@ class FormatCorrection extends React.Component {
 
   renderFixed() {
     const {modificationItem} = this.props;
-    const {fixedValues, field}= modificationItem;
+    const {fixedValues, field, errors}= modificationItem;
     const printValue = fixedValues[field].length === 0 ? 'none' : fixedValues[field];
     return (
       <FieldContainer>
         <Label className="has-text-success">Fixed with value</Label>
         <strong className="has-text-success">{printValue}</strong>
-        <br/>
+        <Help isColor="success">total {errors.length} rows affected</Help>
         <Button isColor="info" onClick={this.handleShowSolving}>Change this fix</Button>
       </FieldContainer>
     )

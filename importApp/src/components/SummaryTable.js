@@ -10,7 +10,8 @@ const SummaryTable = ({
   modificationList,
   onSelectError
 }) => {
-  const columnNames = ['', 'Field', 'Value', 'Rows', '']
+  const columnNames = ['', 'Field', 'Value', 'Rows', ''];
+  const isYearFormatError = modificationList.find((item)=> item.field === 'year' && !item.fixed)
 
   return (
     <div style={{position: 'relative', width: '100%', height: '70vh'}}>
@@ -35,6 +36,9 @@ const SummaryTable = ({
               const handleSelectError = () => {
                 onSelectError(errorIndex)
               }
+
+              const isCurrencyFixDisabled = item.field === 'currency|year|reporting' && isYearFormatError;
+
               return (
                 <div key={errorIndex} className="table-row">
                   {
@@ -65,7 +69,7 @@ const SummaryTable = ({
                         case 4:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              <Button isOutlined isColor={item.fixed? 'success': 'info'} onClick={handleSelectError}>{item.fixed ? 'fixed': 'fix error'}</Button>
+                              <Button isDisabled={isCurrencyFixDisabled} isOutlined isColor={item.fixed? 'success': 'info'} onClick={handleSelectError}>{item.fixed ? 'fixed': 'fix error'}</Button>
                             </div>
                           )
                       }

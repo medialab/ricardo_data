@@ -7,7 +7,6 @@ const ContextTable = ({
 }) => {
   const columnNames = flows[0];
   const {errors, field, value, fixedValues} = modificationItem;
-
   return (
     <div style={{position: 'relative', width: '100%', height: '20vh'}}>
       <div className={`action-table ${className}`}>
@@ -32,11 +31,13 @@ const ContextTable = ({
                       columnNames.map((columnName, columnIndex) => {
                         const errorColumn = field.split('|').indexOf(columnName) !== -1 ? true : false
                         let fixedValue;
-                        let originalValue = value;
+                        const errorColumnIndex = field.split('|').indexOf(columnName);
+                        let originalValue = (''+value).split('|')[errorColumnIndex];
+                        if (columnName === 'year' && errorColumnIndex===1) {
+                          originalValue = flows[error.rowNumber - 1][columnIndex]
+                        }
                         if (fixedValues && errorColumn) {
-                          const errorColumnIndex = field.split('|').indexOf(columnName);
                           fixedValue = fixedValues[columnName].length === 0 ? 'none' : fixedValues[columnName];
-                          originalValue = (''+value).split('|')[errorColumnIndex]
                         }
                       return (
                         <div key={columnIndex} className="table-cell" style={{ wordBreak: 'break-all' }}>

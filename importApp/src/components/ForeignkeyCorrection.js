@@ -147,7 +147,7 @@ class ForeignKeyCorrection extends React.Component {
     const {modificationItem, foreignKeyField} = this.props;
     const {fixedValues}= modificationItem;
     const fixedValue = values(fixedValues).join('|');
-    const printValue = fixedValue.length ? 'none': fixedValue;
+    const printValue = fixedValue.length ? fixedValue: 'none';
     const resourceName = foreignKeyField.reference.resource;  
 
     return (

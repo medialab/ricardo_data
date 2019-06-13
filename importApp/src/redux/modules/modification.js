@@ -1,5 +1,5 @@
 import { createReducer } from 'redux-starter-kit';
-
+import {values} from 'lodash'
 import {SET_STEP} from './ui';
 
 export const SUBMIT_MODIFICATION = 'SUBMIT_MODIFICATION';
@@ -34,6 +34,45 @@ export default createReducer(initialState, {
     state.modificationList = payload
     state.modificationIndex = 0
   },
+  REVALIDATE_ROWS_SUCCESS: (state, action) => {
+    const {payload} = action;
+    const {fixedValues, orderedErrors} = payload;
+    const updatedValues = orderedErrors.map((item)=> (''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
+    state.modificationList.forEach((item, index) => {
+      const indexFind = updatedValues.indexOf((''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
+      if (indexFind !== -1) {
+        state.modificationList[index] = {
+          ...payload.orderedErrors[indexFind],
+          index
+        }
+      }
+      else if (item.field === 'currency|year|reporting') {
+        state.modificationList[index] = {
+          ...state.modificationList[index],
+          fixed: true,
+          fixedValues: {
+            'currency': item.value.split('|')[0],
+            'year': fixedValues['year'],
+            'reporting': item.value.split('|')[1]
+          }
+        }
+      }
+    });
+  },
+  REVALIDATE_ROWS_FAILURE: (state, action) => {
+    const {payload} = action;
+    const updatedValues = payload.orderedErrors.map((item)=> (''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
+
+    state.modificationList.forEach((item, index) => {
+      const indexFind = updatedValues.indexOf((''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
+      if (indexFind !== -1) {
+        state.modificationList[index] = {
+          ...payload.orderedErrors[indexFind],
+          index
+        }
+      }
+    });
+  },
   HIDE_MODIFICATION: (state, action) => {
     state.modificationIndex = 0
   },
@@ -65,11 +104,3 @@ export default createReducer(initialState, {
   }
 })
 
-// SELECTORS
-// const getModificationIndex = state => state.ui.modificationIndex;
-
-// const getReferenceResource = state => state.modification.referenceResource;
-
-// export const getTable = createSelector(
-  
-// )

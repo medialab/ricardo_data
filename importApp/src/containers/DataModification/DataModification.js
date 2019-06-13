@@ -15,7 +15,7 @@ import {
 } from '../../redux/modules/ui';
 
 import {updateFlows} from '../../redux/modules/flows';
-
+import {revalidateRows} from '../../redux/modules/schemaValidation';
 import {submitModification} from '../../redux/modules/modification';
 
 import SummaryTable from '../../components/SummaryTable';
@@ -26,7 +26,7 @@ import {getResourceSchema} from '../../redux/modules/schemaValidation';
 class DataModification extends React.Component {
   
   render() {
-    const {flows, schema, isModification, modificationIndex, modificationList} = this.props;
+    const {flows, schema, isModification, modificationIndex, modificationList, schemaFeedback} = this.props;
     const nonFixedList = modificationList.filter((item) => item.fixed === false)
 
     const handlePrevStep = () => this.props.setStep({id: '1'})
@@ -55,9 +55,30 @@ class DataModification extends React.Component {
     }
 
     const handleSubmitModification = (payload) => {
-      const {index} = payload;
+      const {schema, flows, tables} = this.props;
+      const {index, errors} = payload;
       this.props.submitModification(payload);
       this.props.updateFlows(payload);
+
+      if(payload.field === 'year') {
+        const rowNumbers = errors.map((e) => e.rowNumber)
+        const columnIndex = flows[0].indexOf('year');
+        const source = [flows[0]].concat(errors.map((e) => {
+          const row = flows[e.rowNumber]
+          row[columnIndex] = payload.fixedValues['year']
+          return row
+        }));
+        const relations = {currencies: tables['currencies']}
+        const prevErrors = schemaFeedback.collectedErrors['currency|year|reporting'].errors
+        this.props.revalidateRows({
+          fixedValues: payload.fixedValues,
+          rowNumbers,
+          source,
+          schema,
+          relations,
+          prevErrors
+        });
+      }
       if ( index+1 < modificationList.length && nonFixedList.length > 0) {
         handleSelectError(index+1)
       }
@@ -144,6 +165,7 @@ class DataModification extends React.Component {
 
 const mapStateToProps = state => ({
   flows: state.flows.data,
+  tables: state.tables.tables,
   schema: getResourceSchema(state),
   schemaFeedback: state.schemaValidation.schemaFeedback,
   modificationList: state.modification.modificationList,
@@ -154,6 +176,7 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps, {
   setStep,
   updateFlows,
+  revalidateRows,
   hideModification,
   selectError,
   goNextError,
