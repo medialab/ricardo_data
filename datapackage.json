@@ -299,7 +299,8 @@
               "type": "string",
               "description": "name of the RICentities (unique identifier)",
               "constraints":{
-                "unique":true
+                "unique":true,
+                "required":true
               }
             },
             {
@@ -338,7 +339,8 @@
               "type": "string",
               "description": "name of a reportnig and/or partner as found in source.s (unique identifier)",
               "constraints":{
-                "unique":true
+                "unique":true,
+                "required":true
               }
             },
             {
@@ -349,7 +351,10 @@
             {
               "name": "RICname",
               "type": "string",
-              "description": "the RICname this original name is translated into"
+              "description": "the RICname this original name is translated into",
+              "constraints":{
+                "required":true
+              }
             } 
           ],
           "foreignKeys": [
