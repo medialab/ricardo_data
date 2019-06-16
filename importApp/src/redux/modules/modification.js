@@ -50,10 +50,11 @@ export default createReducer(initialState, {
         state.modificationList[index] = {
           ...state.modificationList[index],
           fixed: true,
+          unchangable: true,
           fixedValues: {
             'currency': item.value.split('|')[0],
             'year': fixedValues['year'],
-            'reporting': item.value.split('|')[1]
+            'reporting': item.value.split('|')[2]
           }
         }
       }
@@ -61,15 +62,33 @@ export default createReducer(initialState, {
   },
   REVALIDATE_ROWS_FAILURE: (state, action) => {
     const {payload} = action;
-    const updatedValues = payload.orderedErrors.map((item)=> (''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
+    const {orderedErrors, successValues, fixedValues} = payload;
+    const updatedValues = orderedErrors.map((item)=> (''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
 
     state.modificationList.forEach((item, index) => {
-      const indexFind = updatedValues.indexOf((''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
+      const itemValue = (''+item.value).split("|")[0] + (''+item.value).split("|")[2]
+      const indexFind = updatedValues.indexOf(itemValue);
       if (indexFind !== -1) {
         state.modificationList[index] = {
           ...payload.orderedErrors[indexFind],
           index
         }
+      }
+      if (successValues) {
+        const successIndex = successValues.indexOf(itemValue);
+        if (successIndex !== -1) {
+          state.modificationList[index] = {
+            ...state.modificationList[index],
+            fixed: true,
+            unchangable: true,
+            fixedValues: {
+              'currency': item.value.split('|')[0],
+              'year': fixedValues['year'],
+              'reporting': item.value.split('|')[2]
+            }
+          }
+        }
+
       }
     });
   },

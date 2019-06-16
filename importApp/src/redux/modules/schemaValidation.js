@@ -1,6 +1,6 @@
 import { createSelector } from 'reselect'
 
-import {groupBy, sortBy, values, max, min} from 'lodash';
+import {groupBy, sortBy, values, max, min,difference, keys, uniq} from 'lodash';
 import {Package, Resource} from 'datapackage';
 import {Table} from 'tableschema';
 import {Base64} from 'js-base64';
@@ -253,7 +253,7 @@ export const validateHeader = (payload) => (dispatch) => {
 }
 
 export const revalidateRows = (payload) => (dispatch) => {
-  const {rowNumbers,fixedValues, source, schema, relations, prevErrors} = payload;
+  const {rowNumbers, fixedValues, source, schema, relations, prevErrors} = payload;
   dispatch({
     type: REVALIDATE_ROWS_REQUEST,
     payload: {
@@ -265,28 +265,43 @@ export const revalidateRows = (payload) => (dispatch) => {
     let table;
     try {
       table = await Table.load(source, {schema});
-      const rows = await table.read({forceCast: true, relations});
+      const rows = await table.read({keyed:true, forceCast: true, relations});
+      let successRows = [];
+      let successValues;
       rows.forEach((row, index) => {
         if (row.errors) {
           row.originalRowNumber = rowNumbers[index]
         }
+        else successRows.push(row)
       });
+
+      if(successRows.length > 0) {
+        successValues = keys(groupBy(successRows, (v)=> v.currency + v.reporting))
+      };
+
       const errors = rows.filter((row) => row.errors);
       let newErrors;
       let orderedErrors;
 
       const collectedErrors = getCollectedErrors(source, schema, errors);
+
       if (collectedErrors && collectedErrors['currency|year|reporting']) {
         collectedErrors['currency|year|reporting'].errors.forEach((error) => error.rowNumber = error.originalRowNumber);
         const updatedErrors = collectedErrors['currency|year|reporting'].errors;
+
         const updatedRowNumbers = updatedErrors.map((e)=> e.rowNumber);
-        newErrors = prevErrors.map((error)=> {
+        const successRowNumbers = difference(rowNumbers, updatedRowNumbers);
+        
+        newErrors = prevErrors
+          .filter((error) => successRowNumbers.indexOf(error.rowNumber) === -1)
+          .map((error)=> {
           if (updatedRowNumbers.indexOf(error.rowNumber) !== -1) {
             const updatedError = updatedErrors.find((e)=> e.rowNumber === error.rowNumber);
             return updatedError;
           }
           return error;
         });
+
         orderedErrors = getOrderedErrors({
           'currency|year|reporting': {
             ...collectedErrors['currency|year|reporting'],
@@ -298,6 +313,8 @@ export const revalidateRows = (payload) => (dispatch) => {
           payload: {
             status: 'done',
             valid: false,
+            fixedValues,
+            successValues,
             newErrors,
             orderedErrors
           }
@@ -514,8 +531,8 @@ export const getOrderedErrors = (collectedErrors) => {
       const fieldName = errors[0].field;
       let yearRange;
       if (fieldName === 'currency|year|reporting') {
-        const years = errors.map((error) => error.value.split('|')[1]);
-        yearRange = years.length > 0 ? `${min(years)}-${max(years)}` : years[0]
+        const years = uniq(errors.map((error) => error.value.split('|')[1]));
+        yearRange = years.length > 1 ? `${min(years)}-${max(years)}` : years[0]
       }
       const value = fieldName !== 'currency|year|reporting' ? errors[0].value : `${errors[0].value.split('|')[0]}|${yearRange}|${errors[0].value.split('|')[2]}`
       return {
