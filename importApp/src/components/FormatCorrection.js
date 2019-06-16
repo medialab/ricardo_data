@@ -177,9 +177,12 @@ class FormatCorrection extends React.Component {
         }
 
         <FieldContainer isGrouped>  
-          <Control>
-            <Button isColor="info" onClick={this.handleHideSolving}>Cancel</Button>
-          </Control>
+          {
+             modificationItem.fixed &&
+            <Control>
+              <Button isColor="info" onClick={this.handleHideSolving}>Cancel</Button>
+            </Control>
+          }
           <Control>
             <Button isColor="info" isDisabled={isSubmitDisabled} onClick={this.handleSubmitForm}>Confirm this fix</Button>
           </Control>

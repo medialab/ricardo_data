@@ -25,10 +25,10 @@ export const tablesList = [
     name: 'sources',
     path: 'data/sources.csv'
   },
-  // {
-  //   name: 'RICentities',
-  //   path: 'data/RICentities.csv'
-  // },
+  {
+    name: 'RICentities',
+    path: 'data/RICentities.csv'
+  },
   // {
   //   name: 'RICentities_groups',
   //   path: 'data/RICentities_groups.csv'
@@ -41,10 +41,10 @@ export const tablesList = [
     name: 'entity_names',
     path: 'data/entity_names.csv'
   },
-  // {
-  //   name: 'exchange_rates',
-  //   path: 'data/exchange_rates.csv'
-  // },
+  {
+    name: 'exchange_rates',
+    path: 'data/exchange_rates.csv'
+  },
   {
     name: 'expimp_spegen',
     path: 'data/expimp_spegen.csv'

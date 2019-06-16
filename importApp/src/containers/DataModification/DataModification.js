@@ -14,6 +14,8 @@ import {
   goPrevError
 } from '../../redux/modules/ui';
 
+import {nonChangableFields} from '../../constants'
+
 import {updateFlows} from '../../redux/modules/flows';
 import {revalidateRows} from '../../redux/modules/schemaValidation';
 import {submitModification} from '../../redux/modules/modification';
@@ -58,7 +60,9 @@ class DataModification extends React.Component {
       const {schema, flows, tables} = this.props;
       const {index, errors} = payload;
       this.props.submitModification(payload);
-      this.props.updateFlows(payload);
+      if (nonChangableFields.indexOf(payload.field) === -1) {
+        this.props.updateFlows(payload);
+      }
 
       if(payload.field === 'year') {
         const rowNumbers = errors.map((e) => e.rowNumber)

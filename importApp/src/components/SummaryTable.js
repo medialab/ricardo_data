@@ -1,9 +1,11 @@
 import React from 'react';
-import {isNull, values} from 'lodash';
+import {isNull, values, difference} from 'lodash';
 import {
   HelpPin,
   Button,
 } from 'design-workshop';
+import {nonChangableFields} from '../constants'
+
 
 const SummaryTable = ({
   className,
@@ -33,6 +35,9 @@ const SummaryTable = ({
             modificationList.map((item, errorIndex) => {
               const {field, errors, value, message, fixed, fixedValues} = item;
               const fixedValue = values(fixedValues).join('|');
+
+              const isNonchangableField = difference(nonChangableFields, field.split('|')).length < nonChangableFields.length
+
               const handleSelectError = () => {
                 onSelectError(errorIndex)
               }
@@ -59,11 +64,20 @@ const SummaryTable = ({
                         case 3:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              <span className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed && 'rows affected'}</span>
+                              <span className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed &&!isNonchangableField && 'rows affected'}</span>
                               <br/>
                               {
-                                item.fixedReferenceTable && 
-                                <span className="has-text-success">new row added to "{item.fixedReferenceTable}" table</span>
+                                item.fixedReferenceTable && item.fixedReferenceTable.length &&
+                                <div>
+                                  { 
+                                    item.fixedReferenceTable.map((table, index)=> {
+                                      return (
+                                        <span key={index} className="has-text-success">new row added to "{table}" table</span>
+                                      )
+                                    })
+                                  }
+                                </div>
+                                
                               }
                             </div>);
                         case 4:

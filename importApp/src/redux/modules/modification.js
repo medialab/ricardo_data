@@ -79,12 +79,6 @@ export default createReducer(initialState, {
   SELECT_ERROR: (state, action) => {
     const {payload} = action;
     state.modificationIndex = payload.index;
-    // if (state.modificationList[payload.index].errorType === 'ERROR_FOREIGN_KEY') {
-    //   state.foreignKeyField = state.modificationList[payload.index].field
-    // }
-    // else {
-    //   state.foreignKeyField = null
-    // }
   },
   GO_NEXT_ERROR: (state, action) => {
     state.modificationIndex = state.modificationIndex + 1

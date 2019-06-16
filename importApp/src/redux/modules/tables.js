@@ -59,9 +59,9 @@ export default createReducer(initialState, {
     state.tables = tables
   },
   UPDATE_TABLE: (state, {payload}) => {
-    const {row, resourceName} = payload;
+    const {data, resourceName} = payload;
     const newTable = state.tables[resourceName].slice();
-    newTable.splice(newTable.length, 0, row)
+    newTable.splice(newTable.length, 0, data)
     state.tables[resourceName] = newTable
   },
 })

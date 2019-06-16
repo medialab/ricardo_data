@@ -1,143 +1,17 @@
 import React from 'react';
 
-import {Field, Schema} from 'tableschema';
 import {values, mapValues, capitalize} from 'lodash';
 import {
   Button,
   Field as FieldContainer,
-  Label,
   Control,
-  Input,
-  Help,
-  Select
-} from 'design-workshop'
+} from 'design-workshop';
 
-import {getEnumOptions} from '../utils/formUtils';
+import FieldInput from './FieldInput';
+// import {getEnumOptions} from '../utils/formUtils';
 
-const nonChangableFields = ['slug', 'export_import', 'special_general']
 const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
 
-class FieldInput extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = this.getStateFromProps();
-  }
-
-  componentDidUpdate (prevProps) {
-    const {fieldDescriptor, fieldValue} = this.props;
-    if (fieldDescriptor.name === 'slug' && fieldValue !== prevProps.fieldValue ) {
-      this.validateField(fieldValue)
-    }
-  }
-
-  getStateFromProps = () => {
-    const {fieldDescriptor, fieldValue} = this.props;
-    const fieldSchema = new Field(fieldDescriptor);
-    
-    let options;
-    if (fieldSchema.constraints && fieldSchema.constraints.enum) {
-      options = getEnumOptions(fieldSchema.constraints.enum, fieldSchema.constraints.required)
-    }
-    return {
-      fieldSchema,
-      value: fieldValue,
-      fieldValid: {
-        valid: false
-      },
-      options
-    }
-  }
-
-  validateField = (value) => {
-    const {fieldSchema} = this.state;
-    let payload
-    try {
-      fieldSchema.castValue(value);
-      payload  = {
-        value,
-        fieldValid: {
-          valid: true
-        }
-      }
-      this.setState(payload)
-      this.props.onChange({
-        fieldName: this.state.fieldSchema.name,
-        ...payload
-      })
-    } catch(error) {
-      payload = {
-        value,
-        fieldValid: {
-          valid: false,
-          error
-        }
-      }
-      this.setState(payload)
-      this.props.onChange({
-        fieldName: this.state.fieldSchema.name,
-        ...payload
-      });
-    }
-  }
-
-  handleChange = (event) => {
-    this.validateField(event.target.value);
-  }
-
-  render() {
-    const {fieldSchema, fieldValid, value} = this.state;
-
-    return (
-      <FieldContainer>
-        <Label>
-          {fieldSchema.name}
-          {
-            fieldSchema.constraints && fieldSchema.constraints.required &&
-            <span>*</span>
-          }
-        </Label>
-        { (nonChangableFields.indexOf(fieldSchema.name) !==-1) ?
-          <Control>
-            <span>{this.props.fieldValue}</span>
-          </Control> :
-          <Control>
-            {
-              fieldSchema.constraints && fieldSchema.constraints.enum ?
-              <Select value={value} onChange={this.handleChange}>
-                {
-                  this.state.options.map((item, index) => {
-                    return (
-                      <option key={index} value={item.value}>{item.label}</option>
-                    )
-                  })
-                }
-              </Select>:
-              <Input
-                value={value}
-                onChange={this.handleChange} />
-            }
-          </Control>}
-        {
-          fieldValid && fieldValid.message && <Help isColor="danger">{fieldValid.error.message}</Help>
-        }
-      </FieldContainer> 
-    )
-  }
-}
-
-const FieldSlug = ({fieldDescriptor, field}) => {
-  return (
-    <FieldContainer>
-      <Label>{fieldDescriptor.name}*</Label>
-      <Control>
-        <span>{field.value}</span>
-      </Control>
-      {
-        !field.value &&<Help isColor="danger">slug is required</Help>
-      }
-    </FieldContainer>
-  )
-}
 
 class NewResourceForm extends React.Component {
   
@@ -221,21 +95,26 @@ class NewResourceForm extends React.Component {
     const fieldsInvalid = values(this.state.fields).filter((field) => field.fieldValid && !field.fieldValid.valid);
 
     const handleAddNew = () => {
-      const data = mapValues(this.state.fields, (item) => item.value || '');
-      this.props.onAddNew(data)
+      const payload = {
+        newResource: {
+          resourceName: resourceDescriptor.name,
+          data: mapValues(this.state.fields, (item) => item.value || '')
+        }
+      }
+      this.props.onAddNew(payload)
     }
     return (
       <div>
         <div style={{height: '40vh', overflow:'auto'}}>
-          <h3>Add a new row to "{resourceDescriptor.name}" table</h3>
+          <h3>New row to "{resourceDescriptor.name}" table</h3>
           {
             schema.fields.map((field, index) => {
               return (
                 <FieldInput 
-                key={index}
-                fieldDescriptor={field} 
-                fieldValue={this.state.fields[field.name].value}
-                onChange={this.handleFieldChange} />
+                  key={index}
+                  fieldDescriptor={field} 
+                  fieldValue={this.state.fields[field.name].value}
+                  onChange={this.handleFieldChange} />
               )
           })
           }
