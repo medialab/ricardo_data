@@ -8,7 +8,6 @@ import {
 } from 'design-workshop';
 
 import FieldInput from './FieldInput';
-// import {getEnumOptions} from '../utils/formUtils';
 
 const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
 

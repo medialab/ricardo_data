@@ -1,5 +1,4 @@
 import React from 'react';
-import {Field, Schema} from 'tableschema';
 
 import {
   Columns,
@@ -8,12 +7,10 @@ import {
   Field as FieldContainer,
   Label,
   Control,
-  Input,
   Help,
-  Select
 } from 'design-workshop'  
 
-import {getEnumOptions} from '../utils/formUtils' 
+import FieldInput from './FieldInput';
 
 class FormatCorrection extends React.Component {
   constructor(props) {
@@ -31,50 +28,23 @@ class FormatCorrection extends React.Component {
   }
 
   hydrateState = () => {
-    const {modificationItem, fieldDescriptor} = this.props;
-    const fieldSchema = new Field(fieldDescriptor);
+    const {modificationItem} = this.props;
 
-    let fixedValue = modificationItem.value;
-    let options;
-    if (modificationItem.fixedValues) fixedValue = modificationItem.fixedValues[fieldSchema.name];
-    if (fieldSchema.constraints && fieldSchema.constraints.enum) {
-      options = getEnumOptions(fieldSchema.constraints.enum, fieldSchema.constraints.required);
-      // fixedValue = options[0].value;
-    }
     return {
-      fieldSchema,
-      fixedValue,
-      options,
+      fixedValue: null,
       showSolving: !modificationItem.fixed,
       fieldValid: null
     }
   }
 
-  validateField = (value) => {
-    const {fieldSchema} = this.state;
-    try {
-      fieldSchema.castValue(value);
-      this.setState({
-        fixedValue: value,
-        fieldValid: {
-          valid: true
-        }
-      })
-    } catch(error) {
-      this.setState({
-        fixedValue: value,
-        fieldValid: {
-          valid: false,
-          error
-        }
-      })
-    }
+  handleFieldChange = (payload) => {
+    const {value, fieldValid} = payload;
+    this.setState({
+      fixedValue: value,
+      fieldValid
+    })
   }
 
-  handleChange = (event) => {
-    event.preventDefault()
-    this.validateField(event.target.value)
-  }
 
   handleSubmitForm = () => {
     const {modificationItem} = this.props;
@@ -126,56 +96,18 @@ class FormatCorrection extends React.Component {
   }
 
   renderInput() {
-    const {modificationItem} = this.props;
-    const {value, errors}= modificationItem;
-    const {fieldSchema, fixedValue, fieldValid} = this.state;
+    const {modificationItem, fieldDescriptor} = this.props;
+    const {fieldValid} = this.state;
     const isSubmitDisabled = !fieldValid || !fieldValid.valid
-    const printValue = fixedValue.length === 0 ? 'none' : fixedValue;
 
     return (
       <div>
-        {
-          (!fieldSchema.constraints || !fieldSchema.constraints.enum) &&
-          <FieldContainer>
-            <Label>Fix with a new input</Label>
-            <Control>
-              <Input
-                value={this.state.fixedValue}
-                onChange={this.handleChange} />
-            </Control>
-            {
-              fieldValid!==null && !fieldValid.valid && <Help isColor="danger">{fieldValid.error.message}</Help>
-            }
-            {
-              !isSubmitDisabled &&
-              <Help isColor="success">change {value} to {printValue}, total {errors.length} rows affected</Help>
-            }
-          </FieldContainer>
-        }
-        
-        {
-          fieldSchema.constraints && fieldSchema.constraints.enum &&
-          <FieldContainer>
-            <Label>Select a value of "{fieldSchema.name}" from:</Label>
-            <Control>
-              <Select value={this.state.fixedValue} onChange={this.handleChange}>
-                {
-                  this.state.options
-                    .map((item, index) => {
-                    return (
-                      <option key={index} value={item.value}>{item.label}</option>
-                    )
-                  })
-                }
-              </Select>
-              {
-                !isSubmitDisabled &&
-                  <Help isColor="success">change {value} to {printValue}, total {errors.length} rows affected</Help>
-              }
-            </Control>
-          </FieldContainer>
-        }
-
+        <Label>Fix with a new input</Label>
+        <FieldInput 
+          fieldDescriptor={fieldDescriptor} 
+          fieldValue={modificationItem.value}
+          onChange={this.handleFieldChange} />
+          
         <FieldContainer isGrouped>  
           {
              modificationItem.fixed &&
