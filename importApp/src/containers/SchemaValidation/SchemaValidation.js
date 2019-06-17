@@ -20,7 +20,11 @@ class SchemaValidation extends React.Component {
   }
   render() {
     const {schemaFeedback, modificationList} = this.props;
-
+    let isNextStepDisabled = false;
+    if (schemaFeedback && schemaFeedback.collectedErrors) {
+      isNextStepDisabled = (schemaFeedback.collectedErrors['reporting'] && schemaFeedback.collectedErrors['reporting'].errorType === 'ERROR_FORMAT') || 
+                            (schemaFeedback.collectedErrors['partner'] && schemaFeedback.collectedErrors['partner'].errorType === 'ERROR_FORMAT')
+    }
     const handlePrevStep = () => this.props.setStep({id: '0'})
     const handleNextStep = () => {
       if (!modificationList) {
@@ -29,7 +33,6 @@ class SchemaValidation extends React.Component {
       }
       this.props.setStep({id: '2'});
     }
-
     return (
       <div>
         {
@@ -40,8 +43,8 @@ class SchemaValidation extends React.Component {
           schemaFeedback && !schemaFeedback.valid && schemaFeedback.collectedErrors &&
           <div>
             <span className="has-text-danger has-text-weight-bold">
-              {/* Found format errors in {Object.keys(schemaFeedback.collectedErrors.formatErrors).length} columns, ForeignKey errors in {Object.keys(schemaFeedback.collectedErrors.foreignKeyErrors).length} columns, {schemaFeedback.errors.length} rows */}
               Found errors in {schemaFeedback.errors.length} rows of {Object.keys(schemaFeedback.collectedErrors).length} fields
+              {isNextStepDisabled && <span>, value of required field is missing, please fix it locally first</span>}
             </span>
             <OverviewTable collectedErrors={schemaFeedback.collectedErrors} />
             <div style={{
@@ -55,6 +58,7 @@ class SchemaValidation extends React.Component {
               </Button>
               <Button 
                 isColor="info"
+                isDisabled= {isNextStepDisabled}
                 onClick={handleNextStep}>
                   Review Errors
               </Button>

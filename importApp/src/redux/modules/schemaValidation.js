@@ -55,6 +55,7 @@ const getCollectedErrors = (flows, schema, errors) => {
 
   const allFields = fields.map((field)=> field.name);
   // const foreignKeysList = getForeignKeyFields(foreignKeys.map((d) => d.fields));
+  // TODO: hardcoded
   const foreignKeysList = ["source", "export_import", "special_general", "currency"];
 
   const formatFields = fields.filter((field) => foreignKeysList.indexOf(field.name) === -1)
@@ -150,7 +151,9 @@ const getCollectedErrors = (flows, schema, errors) => {
       delete foreignKeyErrors[columnName]
     }
   });
-  
+  if (formatErrors['reporting'] || formatErrors['partner']) {
+    return formatErrors
+  }
   return {
     ...formatErrors,
     ...foreignKeyErrors
