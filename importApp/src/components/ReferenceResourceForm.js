@@ -196,6 +196,7 @@ class ReferenceResourceForm extends React.Component {
                 return (
                   <FieldInput 
                     key={index}
+                    isFormatInput={false}
                     fieldDescriptor={field}
                     foreignKeys={schema.foreignKeys}
                     referenceTables={referenceTables}

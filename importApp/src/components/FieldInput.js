@@ -107,7 +107,7 @@ class FieldInput extends React.Component {
 
 
   renderField() {
-    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference} = this.props;
+    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isFormatInput} = this.props;
     const {fieldSchema, fieldValid, value} = this.state;
     
     let isReferenceField = false;
@@ -143,7 +143,7 @@ class FieldInput extends React.Component {
     }
 
 
-    if (nonChangableFields.indexOf(fieldSchema.name) !==-1) {
+    if (nonChangableFields.indexOf(fieldSchema.name) !==-1 && !isFormatInput) {
       return (<span>{fieldValue}</span>)
     }
     else if (isReferenceField) {

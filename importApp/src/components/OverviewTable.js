@@ -40,7 +40,7 @@ const OverviewTable = ({
                       let cellValue;
                       if(columnIndex === 0) cellValue = field.name;
                       else if(columnIndex === 1) cellValue = field.errorType;
-                      else cellValue = `${totalErrors} rows affected in total, ${distinctErrors} different invalid values`
+                      else cellValue = `${distinctErrors} different invalid values, ${totalErrors} rows affected in total`
                       return (<div key={columnIndex} className="table-cell">{cellValue}</div>)
                     })
                   }

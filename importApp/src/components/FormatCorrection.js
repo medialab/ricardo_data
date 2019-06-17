@@ -104,6 +104,7 @@ class FormatCorrection extends React.Component {
       <div>
         <Label>Fix with a new input</Label>
         <FieldInput 
+          isFormatInput={true}
           fieldDescriptor={fieldDescriptor} 
           fieldValue={modificationItem.value}
           onChange={this.handleFieldChange} />
