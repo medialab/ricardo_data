@@ -95,9 +95,13 @@ class FieldInput extends React.Component {
   }
 
   handleClickCreate = () => {
+    const field = this.props.foreignKeys.find((f) => f.fields === this.state.fieldSchema.name);
     this.handleChange('');
     this.props.onClickCreate({
-      referenceField: this.state.fieldSchema.name
+      referenceMap: {
+        field: this.state.fieldSchema.name,
+        referenceField: field ? field.reference.fields : this.state.fieldSchema.name
+      }
     })
   }
 
@@ -126,11 +130,10 @@ class FieldInput extends React.Component {
       })
     }
     
-    if (findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name) !== -1) {
-      const index = findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name)
+    if (findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name || item.fields.indexOf(fieldSchema.name) !== -1) !== -1) {
+      const index = findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name || item.fields.indexOf(fieldSchema.name) !== -1)
       const resourceName = foreignKeys[index].reference.resource;
       const referenceField = foreignKeys[index].reference.fields;
-      
       isReferenceField = true;
       options = getOptions({
         tables: referenceTables,
@@ -156,7 +159,7 @@ class FieldInput extends React.Component {
           }
           {
             newReference &&
-            <div>{newReference.data[fieldSchema.name]}</div>
+            <div>{fieldValue}</div>
           }
           <Button isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
         </div>

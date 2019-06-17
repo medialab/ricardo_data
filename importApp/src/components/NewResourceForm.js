@@ -9,8 +9,9 @@ import {
 
 import FieldInput from './FieldInput';
 
-const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
+import {nonChangableFields} from '../constants'
 
+const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
 
 class NewResourceForm extends React.Component {
   
@@ -20,7 +21,7 @@ class NewResourceForm extends React.Component {
   }
 
   getStateFromProps = () => {
-    const {resourceDescriptor, originalValue} = this.props;
+    const {resourceDescriptor, originalValues} = this.props;
     const {schema} = resourceDescriptor;
     const fields = schema.fields.reduce((res, field) => {
       let value = '';
@@ -29,12 +30,10 @@ class NewResourceForm extends React.Component {
         const enumList = field.constraints.enum
         value = enumList[0]
       }
-      if(field.name === 'export_import') {
-        value = originalValue.split('|')[0]
-      }
-      if(field.name === 'special_general') {
-        value = originalValue.split('|')[1]
-      }
+      if(nonChangableFields.indexOf(field.name) !== -1) {
+          value = originalValues[field.name];
+          valid = true;
+        }
       if (field.constraints && field.constraints.required && !field.constraints.enum ) {
         valid = false
       }

@@ -1,7 +1,7 @@
 export const MAXIMUM_FILE_SIZE = 10000000;
 export const DEFAULT_CHUNK_SIZE = 100;
 
-export const nonChangableFields = ['slug', 'export_import', 'special_general', 'reporting', 'partner', 'original_name', 'currency']
+export const nonChangableFields = ['slug', 'export_import', 'special_general', 'reporting', 'partner', 'original_name', 'currency', 'year']
 
 export const RANKED_FIELDS = {
   "id": 0,

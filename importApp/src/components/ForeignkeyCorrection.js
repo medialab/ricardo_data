@@ -59,12 +59,13 @@ class ForeignKeyCorrection extends React.Component {
       showNewForm: false,
       newResource: null,
       newReference: null,
+      newRefReference: null,
       showSolving: !modificationItem.fixed,
     }
   }
 
   handleSubmitForm = () => {
-    const {fixedValues, newResource, newReference} = this.state;
+    const {fixedValues, newResource, newReference, newRefReference} = this.state;
     // if(!fixedValue || fixedValue.length === 0) return;
     let fixedReferenceTable = []
     if (newResource) {
@@ -75,7 +76,10 @@ class ForeignKeyCorrection extends React.Component {
       fixedReferenceTable.push(newReference.resourceName);
       this.props.onUpdateTable(newReference);
     }
-
+    if (newRefReference) {
+      fixedReferenceTable.push(newRefReference.resourceName);
+      this.props.onUpdateTable(newRefReference);
+    }
 
     this.props.onSubmitForm({
       fixedValues,
@@ -105,7 +109,7 @@ class ForeignKeyCorrection extends React.Component {
     // delete referenceFieldResource.path
     // referenceFieldResource.data = tables[resourceName].push(values);
     // this.props.validateResource(referenceFieldResource)
-    const {newResource, newReference} = payload;
+    const {newResource, newReference, newRefReference} = payload;
     const {modificationItem, foreignKeyField} = this.props;
 
     const fieldList = modificationItem.field.split('|');
@@ -118,6 +122,7 @@ class ForeignKeyCorrection extends React.Component {
     this.setState({
       newResource,
       newReference,
+      newRefReference,
       fixedValues,
       showNewForm: false
     })
@@ -127,7 +132,8 @@ class ForeignKeyCorrection extends React.Component {
     this.setState({
       showNewForm: false,
       newResource: null,
-      newReference: null
+      newReference: null,
+      newRefReference: null
     })
   }
 
@@ -154,7 +160,8 @@ class ForeignKeyCorrection extends React.Component {
     this.setState({
       showSolving: true,
       newResource: null,
-      newReference: null
+      newReference: null,
+      newRefReference: null
     })
   }
 
@@ -163,7 +170,8 @@ class ForeignKeyCorrection extends React.Component {
       showSolving: false,
       showNewForm: false,
       newResource: null,
-      newReference: null
+      newReference: null,
+      newRefReference: null
     })
   }
 
@@ -264,19 +272,14 @@ class ForeignKeyCorrection extends React.Component {
     const {value, message, field}= modificationItem;
     const resourceName = foreignKeyField.reference.resource;  
     const referenceFieldResource = descriptor.resources.find((resource) => resource.name === resourceName);
-    let nextReferenceFieldResource;
-    if (resourceName === 'entity_names') {
-      nextReferenceFieldResource = descriptor.resources.find((resource) => resource.name === 'RICentities');
-    }
-
-    // TODO: hardcoded
-    // const referenceTables = pick(tables, ['entity_names', 'RICentities', 'currencies', 'exchange_rates']);
     
     const getLayoutColumns = (field) => {
       switch(field) {
         case 'reporting':
         case 'partner':
           return '1/3'
+        case 'currency|year|reporting':
+          return '1/4'
         default:
           return '1/2'
       }
@@ -287,6 +290,15 @@ class ForeignKeyCorrection extends React.Component {
         return invalidValue.length > 0;
       } else return !this.state.fixedValues[field];
     }
+    const mapFieldValue = (field, value) => {
+      return field.split('|').reduce((res, f, index) => {
+        return {
+          ...res,
+          [f]: value.split('|')[index]
+        }
+      }, {})
+    }
+    const originalValues = mapFieldValue(field, value);
 
     const layoutColumn = getLayoutColumns(modificationItem.field);
 
@@ -307,22 +319,11 @@ class ForeignKeyCorrection extends React.Component {
               {this.state.showSolving && this.renderSolving()}
             </Column>
             { this.state.showNewForm && 
-              (modificationItem.field === 'source'|| modificationItem.field === 'export_import|special_general') &&
-              <Column className='new-resource-form' style={{flex: 'auto'}}>
-                <NewResourceForm 
-                  originalValue={modificationItem.value}
-                  resourceDescriptor={referenceFieldResource} 
-                  onCancel={this.handleCancel}
-                  onAddNew={this.handleAddNewResource} />
-              </Column>
-            }
-            { this.state.showNewForm && 
-              (modificationItem.field === 'reporting' || modificationItem.field === 'partner' || modificationItem.field === 'currency|year|reporting') &&
               <Column className='new-resource-form' style={{flex: 'auto'}}>
                 <ReferenceResourceForm 
-                  originalValue={modificationItem.value}
+                  originalValues={originalValues}
+                  descriptor={descriptor}
                   resourceDescriptor={referenceFieldResource}
-                  referenceDescriptor={nextReferenceFieldResource}
                   referenceTables={tables}
                   onCancel={this.handleCancel}
                   onAddNew={this.handleAddNewResource} />
@@ -339,6 +340,12 @@ class ForeignKeyCorrection extends React.Component {
               this.state.newReference && 
               <Column>
                 <NewResourceRow resource={this.state.newReference}/>
+              </Column>
+            }
+            {
+              this.state.newRefReference && 
+              <Column>
+                <NewResourceRow resource={this.state.newRefReference}/>
               </Column>
             }
           </Columns>
