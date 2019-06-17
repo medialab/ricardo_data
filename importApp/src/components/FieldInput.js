@@ -2,7 +2,7 @@
 import React from 'react';
 
 import {Field} from 'tableschema';
-import {values, findIndex} from 'lodash';
+import {values, findIndex, uniq} from 'lodash';
 
 import Select from 'react-select';
 import {
@@ -121,11 +121,11 @@ class FieldInput extends React.Component {
     }
 
     const getOptions = ({tables, resourceName, referenceField}) => {
-      const table = tables[resourceName]
+      const table = uniq(tables[resourceName].map((item) => item[referenceField]))
       return table.map((item) => {
         return {
-          value: item[referenceField],
-          label: item[referenceField]
+          value: item,
+          label: item
         }
       })
     }
@@ -135,10 +135,11 @@ class FieldInput extends React.Component {
       const resourceName = foreignKeys[index].reference.resource;
       const referenceField = foreignKeys[index].reference.fields;
       isReferenceField = true;
+      
       options = getOptions({
         tables: referenceTables,
         resourceName,
-        referenceField
+        referenceField: typeof(referenceField) === 'object' ? referenceField[0]: referenceField
       });
     }
 
