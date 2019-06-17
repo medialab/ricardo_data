@@ -143,7 +143,6 @@ class FieldInput extends React.Component {
       });
     }
 
-
     if (nonChangableFields.indexOf(fieldSchema.name) !==-1 && !isFormatInput) {
       return (<span>{fieldValue}</span>)
     }

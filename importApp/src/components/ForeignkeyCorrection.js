@@ -288,12 +288,14 @@ class ForeignKeyCorrection extends React.Component {
       } else return !this.state.fixedValues[field];
     }
     const mapFieldValue = (field, value) => {
-      return field.split('|').reduce((res, f, index) => {
-        return {
-          ...res,
-          [f]: value.split('|')[index]
+      return field.split('|').map((f, index) => {
+        return  {
+          value: value.split('|')[index],
+          field: f,
+          referenceField: typeof(foreignKeyField.reference.fields) === 'string' ?
+            foreignKeyField.reference.fields:foreignKeyField.reference.fields[index]
         }
-      }, {})
+      })
     }
     const originalValues = mapFieldValue(field, value);
 

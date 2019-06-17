@@ -32,12 +32,11 @@ class ReferenceResourceForm extends React.Component {
         const enumList = field.constraints.enum
         value = enumList[0]
       }
-
       if (field.constraints && field.constraints.required && !field.constraints.enum ) {
         valid = false
       }
-      if(nonChangableFields.indexOf(field.name) !== -1) {
-        value = originalValues[field.name];
+      if(originalValues && originalValues.find((item) => item.referenceField=== field.name) && field.name !== 'slug') {
+        value = originalValues.find((item) => item.referenceField=== field.name).value;
         valid = true;
       }
       return {
@@ -214,7 +213,7 @@ class ReferenceResourceForm extends React.Component {
             {this.state.showNewReference &&
               <ReferenceResourceForm
                 descriptor={descriptor}
-                originalValues={pick(originalValues, nonChangableFields)}
+                originalValues={originalValues.filter((item)=> item.field === 'year')}
                 resourceDescriptor={getReferenceDescriptor()} 
                 referenceTables={referenceTables}
                 onCancel={this.handleHideNew}
