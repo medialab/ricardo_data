@@ -72,7 +72,7 @@ const SummaryTable = ({
                                   { 
                                     item.fixedReferenceTable.map((table, index)=> {
                                       return (
-                                        <span key={index} className="has-text-success">new row added to "{table}" table</span>
+                                        <span key={index} className="has-text-success">new row added to "{table.resourceName}" table</span>
                                       )
                                     })
                                   }

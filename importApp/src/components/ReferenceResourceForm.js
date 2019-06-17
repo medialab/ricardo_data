@@ -1,4 +1,3 @@
-
 import React from 'react';
 
 import {values, mapValues, capitalize, pick} from 'lodash';
@@ -12,7 +11,6 @@ import {
 } from 'design-workshop';
 import {nonChangableFields} from '../constants'
 
-import NewResourceForm from './NewResourceForm';
 import FieldInput from './FieldInput';
 import NewResourceRow from './NewResourceRow';
 

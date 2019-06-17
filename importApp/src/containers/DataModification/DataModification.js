@@ -1,6 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-
+import {uniq} from 'lodash';
 
 import {
   Button,
@@ -14,16 +14,15 @@ import {
   goPrevError
 } from '../../redux/modules/ui';
 
-import {nonChangableFields} from '../../constants'
-
 import {updateFlows} from '../../redux/modules/flows';
 import {revalidateRows} from '../../redux/modules/schemaValidation';
 import {submitModification} from '../../redux/modules/modification';
+import {getResourceSchema} from '../../redux/modules/schemaValidation';
+import {updateTable} from '../../redux/modules/tables';
 
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
 
-import {getResourceSchema} from '../../redux/modules/schemaValidation';
 
 class DataModification extends React.Component {
   
@@ -58,12 +57,32 @@ class DataModification extends React.Component {
 
     const handleSubmitModification = (payload) => {
       const {schema, flows, tables} = this.props;
-      const {index, errors} = payload;
-      this.props.submitModification(payload);
-      if (nonChangableFields.indexOf(payload.field) === -1) {
+      const {index, errors, errorType, fixedReferenceTable} = payload;      
+      
+      // TODO: hardcoded
+      if (payload.field === 'currency|year|reporting') {
+        const columnIndex = flows[0].indexOf('year');
+        const years = uniq(errors.map((error) => flows[error.rowNumber -1][columnIndex]));
+        fixedReferenceTable.forEach((table) => {
+          if (table.resourceName === 'currencies' || table.resourceName === 'exchange_rates') {
+            years.forEach((year) => {
+              const updatedTable = {
+                ...table,
+                data: {
+                  ...table.data, 
+                  year
+                }
+              };
+              this.props.updateTable(updatedTable)
+            });
+            
+          }
+        })
+      }
+      if (errorType === 'ERROR_FORMAT' || payload.field === 'source') {
         this.props.updateFlows(payload);
       }
-
+      
       if(payload.field === 'year') {
         const rowNumbers = errors.map((e) => e.rowNumber)
         const columnIndex = flows[0].indexOf('year');
@@ -83,6 +102,9 @@ class DataModification extends React.Component {
           prevErrors
         });
       }
+
+      this.props.submitModification(payload);
+
       if ( index+1 < modificationList.length && nonFixedList.length > 0) {
         handleSelectError(index+1)
       }
@@ -90,6 +112,7 @@ class DataModification extends React.Component {
         this.props.hideModification()
       }
     }
+
     return (
       <div>
         {
@@ -180,6 +203,7 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps, {
   setStep,
   updateFlows,
+  updateTable,
   revalidateRows,
   hideModification,
   selectError,

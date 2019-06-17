@@ -69,16 +69,13 @@ class ForeignKeyCorrection extends React.Component {
     // if(!fixedValue || fixedValue.length === 0) return;
     let fixedReferenceTable = []
     if (newResource) {
-      fixedReferenceTable.push(newResource.resourceName);
-      this.props.onUpdateTable(newResource);
+      fixedReferenceTable.push(newResource);
     }
     if (newReference) {
-      fixedReferenceTable.push(newReference.resourceName);
-      this.props.onUpdateTable(newReference);
+      fixedReferenceTable.push(newReference);
     }
     if (newRefReference) {
-      fixedReferenceTable.push(newRefReference.resourceName);
-      this.props.onUpdateTable(newRefReference);
+      fixedReferenceTable.push(newRefReference);
     }
 
     this.props.onSubmitForm({
@@ -191,7 +188,7 @@ class ForeignKeyCorrection extends React.Component {
           {
             fixedReferenceTable && fixedReferenceTable.map((table)=> {
               return (
-                <li>new row is added to "{table}" table</li>
+                <li>new row is added to "{table.resourceName}" table</li>
               )
             })
           }

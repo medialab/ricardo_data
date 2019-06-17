@@ -7,8 +7,6 @@ import ContextTable from '../../components/ContextTable'
 import FormatCorrection from '../../components/FormatCorrection';
 import ForeignkeyCorrection from '../../components/ForeignkeyCorrection';
 
-import {updateTable} from '../../redux/modules/tables';
-
 const ModificationComponent = ({
   className,
   flows,
@@ -18,7 +16,6 @@ const ModificationComponent = ({
   modificationItem,
   modificationIndex,
   onSubmitModification,
-  updateTable,
 }) => {
   const handleSubmitModification = (payload) => {
     const {fixedValues, fixedReferenceTable} = payload;
@@ -67,7 +64,6 @@ const ModificationComponent = ({
           tables={tables}
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}
-          onUpdateTable={updateTable}
           onSubmitForm={handleSubmitModification} 
         /> 
       }
@@ -81,4 +77,4 @@ const mapStateToProps = state => ({
   tables: state.tables.tables
 });
 
-export default connect(mapStateToProps, {updateTable})(ModificationComponent);
+export default connect(mapStateToProps)(ModificationComponent);
