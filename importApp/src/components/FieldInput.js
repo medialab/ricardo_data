@@ -109,7 +109,7 @@ class FieldInput extends React.Component {
   renderField() {
     const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isFormatInput} = this.props;
     const {fieldSchema, fieldValid, value} = this.state;
-    
+
     let isReferenceField = false;
     let options;
 
@@ -161,7 +161,10 @@ class FieldInput extends React.Component {
             newReference &&
             <div>{fieldValue}</div>
           }
-          <Button isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
+          {
+            !this.state.value &&
+            <Button isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
+          } 
         </div>
       )
     }

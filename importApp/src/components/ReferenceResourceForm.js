@@ -1,11 +1,13 @@
 import React from 'react';
+import {Table} from 'tableschema';
 
-import {values, mapValues, capitalize, pick} from 'lodash';
+import {keys, values, mapValues, capitalize, pick} from 'lodash';
 
 import {
   Button,
   Field as FieldContainer,
   Control,
+  Help,
   Columns,
   Column
 } from 'design-workshop';
@@ -118,6 +120,9 @@ class ReferenceResourceForm extends React.Component {
     const {field, referenceField} = referenceMap;
     this.setState({
       showNewReference: true,
+      resourceValid: {
+        valid: true
+      },
       referenceMap,
       newReference: null,
       newResource: {
@@ -174,7 +179,8 @@ class ReferenceResourceForm extends React.Component {
       }
       return;
     }
-    const handleAddNew = () => {
+    
+    const handleAddNew = async () =>{
       const payload = {
         newResource: {
           resourceName: resourceDescriptor.name,
@@ -183,8 +189,44 @@ class ReferenceResourceForm extends React.Component {
         newReference: this.state.newReference,
         newRefReference: this.state.newRefReference
       }
-      this.props.onAddNew(payload)
+
+      // TODO: hardcoded
+      if (resourceDescriptor.name === 'currencies' && !this.state.newReference) {
+        const source = [keys(payload.newResource.data)].concat([values(payload.newResource.data)]);
+        const relations = {
+          exchange_rates: referenceTables['exchange_rates']
+        }
+        let table;
+        try {
+          table = await Table.load(source, {schema});
+          const rows = await table.read({forceCast: true, relations});
+          const errors = rows.filter((row) => row.errors);
+          if (errors.length) {
+            this.setState({
+              resourceValid: {
+                valid: false,
+                message: errors[0].errors[0].errors[0].message
+              }
+            });
+          } else {
+            this.setState({
+              resourceValid: {valid: true}
+            })
+            this.props.onAddNew(payload)
+          }
+        } catch (error) {
+          this.setState({
+            resourceValid: {
+              valid: false,
+              message: error.message || 'validation fail'
+            }
+          });
+          console.error(error)
+        }
+      }
+      else this.props.onAddNew(payload)
     }
+
     return (
       <div>
         <Columns>
@@ -206,6 +248,12 @@ class ReferenceResourceForm extends React.Component {
                     onChange={this.handleFieldChange} />
                 )
               })
+            }
+            {
+              this.state.resourceValid && this.state.resourceValid.message &&
+              <FieldContainer>
+                <Help isColor="danger">{this.state.resourceValid.message}</Help>
+              </FieldContainer>
             }
           </Column>
           {schema.foreignKeys && 
