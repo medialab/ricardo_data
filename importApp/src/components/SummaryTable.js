@@ -13,7 +13,9 @@ const SummaryTable = ({
   onSelectError
 }) => {
   const columnNames = ['', 'Field', 'Value', 'Rows', ''];
-  const isYearFormatError = modificationList.find((item)=> item.field === 'year' && !item.fixed)
+  const yearFormatValues = modificationList
+                            .filter((item)=> item.field === 'year' && !item.fixed)
+                            .map((item) => ''+item.value);
 
   return (
     <div style={{position: 'relative', width: '100%', height: '70vh'}}>
@@ -41,13 +43,16 @@ const SummaryTable = ({
               const handleSelectError = () => {
                 onSelectError(errorIndex)
               }
-
-              const isCurrencyFixDisabled = item.field === 'currency|year|reporting' && isYearFormatError;
+              let isCurrencyFixDisabled = false;
+              if (item.field === 'currency|year|reporting' && yearFormatValues.indexOf(item.value.split('|')[1]) !== -1) {
+                isCurrencyFixDisabled = true
+              }
 
               return (
                 <div key={errorIndex} className="table-row">
                   {
                     columnNames.map((columnName, columnIndex) => {
+
                       switch (columnIndex) {
                         case 0:
                         default:
