@@ -88,18 +88,17 @@ class DataModification extends React.Component {
         const columnIndex = flows[0].indexOf('year');
         const source = [flows[0]].concat(errors.map((e) => {
           const row = flows[e.rowNumber -1]
-          row[columnIndex] = payload.fixedValues['year']
-          return row
+          row[columnIndex] = payload.fixedValues['year'];
+          return row;
         }));
         const relations = {currencies: tables['currencies']}
-        const prevErrors = schemaFeedback.collectedErrors['currency|year|reporting'].errors
         this.props.revalidateRows({
+          originalValue: payload.value,
           fixedValues: payload.fixedValues,
           rowNumbers,
           source,
           schema,
           relations,
-          prevErrors
         });
       }
 

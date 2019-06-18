@@ -256,7 +256,8 @@ export const validateHeader = (payload) => (dispatch) => {
 }
 
 export const revalidateRows = (payload) => (dispatch) => {
-  const {rowNumbers, fixedValues, source, schema, relations, prevErrors} = payload;
+  const {rowNumbers, originalValue, fixedValues, source, schema, relations} = payload;
+
   dispatch({
     type: REVALIDATE_ROWS_REQUEST,
     payload: {
@@ -268,93 +269,31 @@ export const revalidateRows = (payload) => (dispatch) => {
     let table;
     try {
       table = await Table.load(source, {schema});
-      const rows = await table.read({keyed:true, forceCast: true, relations});
-      let successRows = [];
-      let successValues;
-      rows.forEach((row, index) => {
-        if (row.errors) {
-          row.originalRowNumber = rowNumbers[index]
-        }
-        else successRows.push(row)
-      });
-
-      if(successRows.length > 0) {
-        successValues = keys(groupBy(successRows, (v)=> v.currency + v.reporting))
-      };
-
+      const rows = await table.read({forceCast: true, relations});
       const errors = rows.filter((row) => row.errors);
-      let newErrors;
-      let orderedErrors;
 
-      const collectedErrors = getCollectedErrors(source, schema, errors);
-
-      if (collectedErrors && collectedErrors['currency|year|reporting']) {
-        collectedErrors['currency|year|reporting'].errors.forEach((error) => error.rowNumber = error.originalRowNumber);
-        const updatedErrors = collectedErrors['currency|year|reporting'].errors;
-
-        const updatedRowNumbers = updatedErrors.map((e)=> e.rowNumber);
-        const successRowNumbers = difference(rowNumbers, updatedRowNumbers);
-        
-        newErrors = prevErrors
-          .filter((error) => successRowNumbers.indexOf(error.rowNumber) === -1)
-          .map((error)=> {
-          if (updatedRowNumbers.indexOf(error.rowNumber) !== -1) {
-            const updatedError = updatedErrors.find((e)=> e.rowNumber === error.rowNumber);
-            return updatedError;
-          }
-          return error;
-        });
-
-        orderedErrors = getOrderedErrors({
-          'currency|year|reporting': {
-            ...collectedErrors['currency|year|reporting'],
-            errors: newErrors
-          }
-        });
+      if (errors.length) {
         dispatch({
           type: REVALIDATE_ROWS_FAILURE,
           payload: {
             status: 'done',
             valid: false,
-            fixedValues,
-            successValues,
-            newErrors,
-            orderedErrors
+            rowNumbers,
+            originalValue,
+            fixedValues
           }
         })
-      }
-      else {
-        newErrors = prevErrors.filter((error) => rowNumbers.indexOf(error.rowNumber) === -1);
-        orderedErrors = getOrderedErrors({
-          'currency|year|reporting': {
-            errors: newErrors
+      } else {
+        dispatch({
+          type: REVALIDATE_ROWS_SUCCESS,
+          payload: {
+            status: 'done',
+            valid: true,
+            rowNumbers,
+            originalValue,
+            fixedValues
           }
-        });
-        if (newErrors.length) {
-          dispatch({
-            type: REVALIDATE_ROWS_SUCCESS,
-            payload: {
-              status: 'done',
-              valid: false,
-              fixedValues,
-              newErrors,
-              orderedErrors
-            }
-          })
-        }
-        else {
-          dispatch({
-            type: REVALIDATE_ROWS_SUCCESS,
-            payload: {
-              rowNumbers,
-              status: 'done',
-              valid: true,
-              fixedValues,
-              newErrors,
-              orderedErrors
-            }
-          })
-        }
+        })
       }
     } catch (error) {
       console.error(error)
@@ -366,7 +305,6 @@ export const revalidateRows = (payload) => (dispatch) => {
           error
         }
       })
-
     }
   })
 }
@@ -460,35 +398,6 @@ export default function reducer(state = initialState, action){
         ...state,
         descriptor: JSON.parse(Base64.decode(payload.content))
       }
-    case REVALIDATE_ROWS_SUCCESS:
-      // newErrors = state.schemaFeedback.collectedErrors['currency|year|reporting'].errors
-      //                   .filter((error) => payload.rowNumbers.indexOf(error.rowNumber) === -1);
-      return {
-        ...state,
-        schemaFeedback: {
-          ...state.schemaFeedback,
-          collectedErrors: {
-            ...state.schemaFeedback.collectedErrors,
-            'currency|year|reporting': null
-          }
-        }
-      }
-    case REVALIDATE_ROWS_FAILURE:
-      if (payload.newErrors) {
-        return {
-          ...state,
-          schemaFeedback: {
-            ...state.schemaFeedback,
-            collectedErrors: {
-              ...state.schemaFeedback.collectedErrors,
-              'currency|year|reporting': {
-                errors: payload.newErrors
-              }
-            }
-          }
-        }
-      }
-      return state;
     case VALIDATE_HEADER_REQUEST: 
     case VALIDATE_HEADER_FAILURE:
     case VALIDATE_HEADER_SUCCESS:
@@ -523,28 +432,22 @@ export const getOrderedErrors = (collectedErrors) => {
   },[]);
 
   const groupedErrorsList = 
-    values(groupBy(errorsList,(v) => {
-      if (v.field !== 'currency|year|reporting') return (v.field + v.value)
-      else {
-        const groupedValue = v.value.split('|')[0] + v.value.split('|')[2]
-        return v.field + groupedValue
-      }
-    }))
+    values(groupBy(errorsList,(v) => v.field + v.value))
     .map((errors, index)=> {
-      const fieldName = errors[0].field;
-      let yearRange;
-      if (fieldName === 'currency|year|reporting') {
-        const years = uniq(errors.map((error) => error.value.split('|')[1]));
-        yearRange = years.length > 1 ? `${min(years)}-${max(years)}` : years[0]
-      }
-      const value = fieldName !== 'currency|year|reporting' ? errors[0].value : `${errors[0].value.split('|')[0]}|${yearRange}|${errors[0].value.split('|')[2]}`
+      // const fieldName = errors[0].field;
+      // let yearRange;
+      // if (fieldName === 'currency|year|reporting') {
+      //   const years = uniq(errors.map((error) => error.value.split('|')[1]));
+      //   yearRange = years.length > 1 ? `${min(years)}-${max(years)}` : years[0]
+      // }
+      // const value = fieldName !== 'currency|year|reporting' ? errors[0].value : `${errors[0].value.split('|')[0]}|${yearRange}|${errors[0].value.split('|')[2]}`
       return {
         index,
         field: errors[0].field,
         errorType: errors[0].errorType,
         fixed: false,
         message: errors[0].message.replace(re, `${errors.length} rows`),
-        value, 
+        value: errors[0].value, 
         errors
       }
     });

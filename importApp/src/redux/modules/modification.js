@@ -35,18 +35,12 @@ export default createReducer(initialState, {
     state.modificationIndex = 0
   },
   REVALIDATE_ROWS_SUCCESS: (state, action) => {
+    // case 1: only year format error, no foreignkey error
     const {payload} = action;
-    const {fixedValues, orderedErrors} = payload;
-    const updatedValues = orderedErrors.map((item)=> (''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
-    state.modificationList.forEach((item, index) => {
-      const indexFind = updatedValues.indexOf((''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
-      if (indexFind !== -1) {
-        state.modificationList[index] = {
-          ...payload.orderedErrors[indexFind],
-          index
-        }
-      }
-      else if (item.field === 'currency|year|reporting') {
+    const {originalValue, fixedValues} = payload;
+    state.modificationList
+    .forEach((item, index) => {
+      if (item.field === 'currency|year|reporting' && item.value.split("|")[1] === ''+originalValue) {
         state.modificationList[index] = {
           ...state.modificationList[index],
           fixed: true,
@@ -58,25 +52,18 @@ export default createReducer(initialState, {
           }
         }
       }
-    });
+    })
   },
   REVALIDATE_ROWS_FAILURE: (state, action) => {
+    // case 2,3: voilation relations
     const {payload} = action;
-    const {orderedErrors, successValues, fixedValues} = payload;
-    const updatedValues = orderedErrors.map((item)=> (''+item.value).split("|")[0] + (''+item.value).split("|")[2]);
-
-    state.modificationList.forEach((item, index) => {
-      const itemValue = (''+item.value).split("|")[0] + (''+item.value).split("|")[2]
-      const indexFind = updatedValues.indexOf(itemValue);
-      if (indexFind !== -1) {
-        state.modificationList[index] = {
-          ...payload.orderedErrors[indexFind],
-          index
-        }
-      }
-      if (successValues) {
-        const successIndex = successValues.indexOf(itemValue);
-        if (successIndex !== -1) {
+    const {originalValue, fixedValues} = payload;
+    state.modificationList
+    .forEach((item, index) => {
+      if (item.field === 'currency|year|reporting' && item.value.split("|")[1] === '' +originalValue) {
+        const fixedValue = item.value.split("|")[0] + '|' + fixedValues['year'] + '|' + item.value.split("|")[2];
+        if (state.modificationList.find((item) => item.value === fixedValue)) {
+          // case 2: fixed formatted year rows values of (currency|year|reporting) are same with other rows
           state.modificationList[index] = {
             ...state.modificationList[index],
             fixed: true,
@@ -87,10 +74,21 @@ export default createReducer(initialState, {
               'reporting': item.value.split('|')[2]
             }
           }
-        }
-
+        } else {
+          // case 3: fixed formatted year rows are new combo of (currency|year|reporting)
+          state.modificationList[index] = {
+            ...state.modificationList[index],
+            fixed: false,
+            unchangable: false,
+            // fixedValues: {
+            //   'currency': item.value.split('|')[0],
+            //   'year': fixedValues['year'],
+            //   'reporting': item.value.split('|')[2]
+            // }
+          }
+        } 
       }
-    });
+    })
   },
   HIDE_MODIFICATION: (state, action) => {
     state.modificationIndex = 0
