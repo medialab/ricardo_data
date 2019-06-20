@@ -29,10 +29,10 @@ export const tablesList = [
     name: 'RICentities',
     path: 'data/RICentities.csv'
   },
-  // {
-  //   name: 'RICentities_groups',
-  //   path: 'data/RICentities_groups.csv'
-  // },
+  {
+    name: 'RICentities_groups',
+    path: 'data/RICentities_groups.csv'
+  },
   {
     name: 'currencies',
     path: 'data/currencies.csv'

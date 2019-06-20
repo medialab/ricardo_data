@@ -58,27 +58,7 @@ class DataModification extends React.Component {
     const handleSubmitModification = (payload) => {
       const {schema, flows, tables} = this.props;
       const {index, errors, errorType, fixedReferenceTable} = payload;      
-      
-      // TODO: hardcoded
-      if (payload.field === 'currency|year|reporting') {
-        const columnIndex = flows[0].indexOf('year');
-        const years = uniq(errors.map((error) => flows[error.rowNumber -1][columnIndex]));
-        fixedReferenceTable.forEach((table) => {
-          if (table.resourceName === 'currencies' || table.resourceName === 'exchange_rates') {
-            years.forEach((year) => {
-              const updatedTable = {
-                ...table,
-                data: {
-                  ...table.data, 
-                  year
-                }
-              };
-              this.props.updateTable(updatedTable)
-            });
-            
-          }
-        })
-      }
+    
       if (errorType === 'ERROR_FORMAT' || payload.field === 'source') {
         this.props.updateFlows(payload);
       }
@@ -100,6 +80,13 @@ class DataModification extends React.Component {
           schema,
           relations,
         });
+      }
+
+      if (errorType === 'ERROR_FOREIGN_KEY') {
+        const {fixedReferenceTable} = payload;
+        fixedReferenceTable.forEach((table) => {
+          this.props.updateTable(table)
+        })
       }
 
       this.props.submitModification(payload);

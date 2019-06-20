@@ -2,7 +2,7 @@
 import React from 'react';
 
 import {Field} from 'tableschema';
-import {values, findIndex, uniq} from 'lodash';
+import {values, findIndex, uniq, groupBy, orderBy} from 'lodash';
 
 import Select from 'react-select';
 import {
@@ -15,8 +15,8 @@ import {
   Select as SimpleSelect
 } from 'design-workshop'
 
-import {nonChangableFields} from '../constants'
-import {getEnumOptions} from '../utils/formUtils';
+
+import {getEnumOptions, getOptions} from '../utils/formUtils';
 
 class FieldInput extends React.Component {
   constructor(props) {
@@ -82,15 +82,19 @@ class FieldInput extends React.Component {
   }
 
   handleChange = (event) => {
+    let value;
     if(!event) {
-      const value = '';
+      value = '';
       this.validateField(value);
     }
-    else if(event.value) {
+    else if(event && event.value) {
       this.validateField(event.value);
     }
-    else {
+    else if (event && event.target) {
       this.validateField(event.target.value);
+    }
+    else {
+      this.validateField('')
     }
   }
 
@@ -107,7 +111,7 @@ class FieldInput extends React.Component {
 
 
   renderField() {
-    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isFormatInput} = this.props;
+    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isNonchangable} = this.props;
     const {fieldSchema, fieldValid, value} = this.state;
 
     let isReferenceField = false;
@@ -120,15 +124,6 @@ class FieldInput extends React.Component {
       }
     }
 
-    const getOptions = ({tables, resourceName, referenceField}) => {
-      const table = uniq(tables[resourceName].map((item) => item[referenceField]))
-      return table.map((item) => {
-        return {
-          value: item,
-          label: item
-        }
-      })
-    }
     
     if (findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name || item.fields.indexOf(fieldSchema.name) !== -1) !== -1) {
       const index = findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name || item.fields.indexOf(fieldSchema.name) !== -1)
@@ -143,7 +138,7 @@ class FieldInput extends React.Component {
       });
     }
 
-    if (nonChangableFields.indexOf(fieldSchema.name) !==-1 && !isFormatInput) {
+    if (isNonchangable) {
       return (<span>{fieldValue}</span>)
     }
     else if (isReferenceField) {

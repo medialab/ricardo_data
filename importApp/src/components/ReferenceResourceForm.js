@@ -11,10 +11,11 @@ import {
   Columns,
   Column
 } from 'design-workshop';
-import {nonChangableFields} from '../constants'
 
 import FieldInput from './FieldInput';
 import NewResourceRow from './NewResourceRow';
+import NewRICentityForm from './NewRICentityForm';
+import {nonChangableFields} from '../constants';
 
 const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
 class ReferenceResourceForm extends React.Component {
@@ -73,6 +74,8 @@ class ReferenceResourceForm extends React.Component {
   }
 
   handleFieldChange = (payload) => {
+    const {resourceDescriptor} = this.props;
+
     if (this.state.newResource['slug'] && slugFields.indexOf(payload.fieldName) !== -1) {
       const slug = this.getSlug(payload);
       this.setState({
@@ -84,6 +87,11 @@ class ReferenceResourceForm extends React.Component {
       });
       return;
     }
+    
+    if (resourceDescriptor.name === 'RICentities' && payload.fieldName === 'type' && payload.value === 'group') {
+      this.props.onSelectGroup()
+    }
+
     this.setState({
       newResource: {
         ...this.state.newResource,
@@ -105,6 +113,7 @@ class ReferenceResourceForm extends React.Component {
       showNewReference: false,
       newReference: null,
       referenceMap: null,
+      isRICentityGroup: false,
       newResource: {
         ...this.state.newResource,
         [field]: {
@@ -146,7 +155,7 @@ class ReferenceResourceForm extends React.Component {
         ...this.state.newResource,
         [field]: {
           fieldValid: {valid: true},
-          value: newResource.data[referenceField]
+          value: newResource.data[0][referenceField]
         }
       }
     })
@@ -157,6 +166,7 @@ class ReferenceResourceForm extends React.Component {
     const {field} = referenceMap;
     this.setState({
       newReference: null,
+      newRefReference: null,
       showNewReference: true,
       newResource: {
         ...this.state.newResource,
@@ -165,6 +175,12 @@ class ReferenceResourceForm extends React.Component {
           value: ''
         }
       }
+    })
+  }
+
+  handleSelectGroup = () => {
+    this.setState({
+      isRICentityGroup: true
     })
   }
 
@@ -184,7 +200,7 @@ class ReferenceResourceForm extends React.Component {
       const payload = {
         newResource: {
           resourceName: resourceDescriptor.name,
-          data: mapValues(this.state.newResource, (item) => item.value || ''),
+          data: [mapValues(this.state.newResource, (item) => item.value || '')]
         },
         newReference: this.state.newReference,
         newRefReference: this.state.newRefReference
@@ -195,7 +211,7 @@ class ReferenceResourceForm extends React.Component {
         const source = [keys(payload.newResource.data)].concat([values(payload.newResource.data)]);
         const relations = {
           exchange_rates: referenceTables['exchange_rates']
-        }
+        };
         let table;
         try {
           table = await Table.load(source, {schema});
@@ -226,7 +242,6 @@ class ReferenceResourceForm extends React.Component {
       }
       else this.props.onAddNew(payload)
     }
-
     return (
       <div>
         <Columns>
@@ -237,11 +252,11 @@ class ReferenceResourceForm extends React.Component {
                 return (
                   <FieldInput 
                     key={index}
-                    isFormatInput={false}
+                    isNonchangable={nonChangableFields.indexOf(field.name) !==-1}
                     fieldDescriptor={field}
                     foreignKeys={schema.foreignKeys}
                     referenceTables={referenceTables}
-                    fieldValue={this.state.newResource[field.name].value}
+                    fieldValue={(this.state.newResource[field.name] && this.state.newResource[field.name].value) || ''}
                     showNewReference={this.state.showNewReference}
                     newReference={this.state.newReference}
                     onClickCreate={this.handleCreateNewReference}
@@ -258,14 +273,23 @@ class ReferenceResourceForm extends React.Component {
           </Column>
           {schema.foreignKeys && 
           <Column>
-            {this.state.showNewReference &&
+            {this.state.showNewReference && 
+            (this.state.isRICentityGroup ?
+              <NewRICentityForm
+                descriptor={descriptor}
+                resourceDescriptor={getReferenceDescriptor()} 
+                referenceTables={referenceTables}
+                onCancel={this.handleHideNew}
+                onAddNew={this.handleAddNewReference} /> :
               <ReferenceResourceForm
                 descriptor={descriptor}
                 originalValues={originalValues.filter((item)=> item.field === 'year')}
                 resourceDescriptor={getReferenceDescriptor()} 
                 referenceTables={referenceTables}
+                onSelectGroup={this.handleSelectGroup}
                 onCancel={this.handleHideNew}
                 onAddNew={this.handleAddNewReference} />
+            )
             }
             {this.state.newReference && 
               <div>
@@ -274,6 +298,11 @@ class ReferenceResourceForm extends React.Component {
               </div>
             }
           </Column>}
+          {schema.foreignKeys && this.state.newRefReference && 
+            <Column>
+              <NewResourceRow resource={this.state.newRefReference} />
+            </Column>
+          }
         </Columns>
         <FieldContainer isGrouped>
           <Control>

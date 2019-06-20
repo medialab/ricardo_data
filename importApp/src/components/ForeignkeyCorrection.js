@@ -113,7 +113,7 @@ class ForeignKeyCorrection extends React.Component {
     const fixedValues = fieldList.reduce((res, field, index) => {
       return {
         ...res,
-        [field]: fieldList.length > 1 ? newResource.data[foreignKeyField.reference.fields[index]] : newResource.data[foreignKeyField.reference.fields]
+        [field]: fieldList.length > 1 ? newResource.data[0][foreignKeyField.reference.fields[index]] : newResource.data[0][foreignKeyField.reference.fields]
       }
     }, {})
     this.setState({
@@ -184,11 +184,11 @@ class ForeignKeyCorrection extends React.Component {
         <Label className="has-text-success">{!isNonchangableField ? "Fixed with value": "Keep original value"}</Label>
         <p className="has-text-success">{printValue}</p>
         <Help isColor="success">
-          {!isNonchangableField && <li>total {modificationItem.errors.length} rows affected</li>}
+          {!isNonchangableField && <li>total {modificationItem.errors.length} rows updated</li>}
           {
             fixedReferenceTable && fixedReferenceTable.map((table)=> {
               return (
-                <li>new row is added to "{table.resourceName}" table</li>
+                <li>{table.data.length} row(s) added to "{table.resourceName}" table</li>
               )
             })
           }
@@ -248,14 +248,6 @@ class ForeignKeyCorrection extends React.Component {
         <FieldContainer>
           <Control>
             <Button isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
-            {/* {
-              (this.state.newResource) &&
-              <Help isColor="success">
-                <li>change "{modificationItem.value}" to "{values(this.state.fixedValues).join("|")}"</li>
-                <li>total {modificationItem.errors.length} rows affected</li>
-                <li>new row will be added to "{resourceName}" table</li>
-              </Help>
-            } */}
           </Control>
         </FieldContainer>  
       </div>
@@ -274,7 +266,6 @@ class ForeignKeyCorrection extends React.Component {
       switch(field) {
         case 'reporting':
         case 'partner':
-          return '1/3'
         case 'currency|year|reporting':
           return '1/4'
         default:

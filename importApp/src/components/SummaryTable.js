@@ -63,26 +63,22 @@ const SummaryTable = ({
                           return (
                             <div key={columnIndex} className="table-cell">
                               <span className="has-text-danger">{isNull(value)? 'none' : value }</span>
-                              {fixed && <span className="has-text-success">->{fixedValue === ''?'none': fixedValue}</span>}
+                              {fixed && <span className="has-text-success"> ->{fixedValue === ''?'none': fixedValue}</span>}
                               <HelpPin>{message}</HelpPin>
                             </div>);
                         case 3:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              <span className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed &&!isNonchangableField && 'rows affected'}</span>
-                              <br/>
+                              <p className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed && !isNonchangableField ? 'rows updated' : ''}</p>
                               {
                                 item.fixedReferenceTable && item.fixedReferenceTable.length &&
-                                <div>
-                                  { 
+                                  (
                                     item.fixedReferenceTable.map((table, index)=> {
                                       return (
-                                        <span key={index} className="has-text-success">new row added to "{table.resourceName}" table</span>
+                                        <p key={index} className="has-text-success">{table.data.length} row(s) added to "{table.resourceName}" table</p>
                                       )
                                     })
-                                  }
-                                </div>
-                                
+                                  )
                               }
                             </div>);
                         case 4:
