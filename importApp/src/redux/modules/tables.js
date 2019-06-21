@@ -14,9 +14,8 @@ import {
 export const UPDATE_TABLE = 'UPDATE_TABLE';
 export const INIT_TABLES = 'INIT_TABLES';
 
-export const initTables = (payload) => ({
+export const initTables = () => ({
   type: INIT_TABLES,
-  payload
 })
 
 export const updateTable = (payload) => ({
@@ -28,23 +27,28 @@ const initialState = {};
 
 
 export default createReducer(initialState, {
-  INIT_TABLES: (state, {payload}) => {
-    const tables = {}
-    Object.keys(payload).forEach((id) => {
-      tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
-        if (d.year) {
-          return {
-            ...d,
-            year: +d.year
-          }
-        }
-        return d
-      })
-    })
-    state.tables = tables
+  INIT_TABLES: (state) => {
+    return initialState;
+    // const tables = {}
+    // const originalLength = {}
+    // Object.keys(payload).forEach((id) => {
+    //   tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
+    //     if (d.year) {
+    //       return {
+    //         ...d,
+    //         year: +d.year
+    //       }
+    //     }
+    //     return d
+    //   })
+    //   originalLength[id] = tables[id].length
+    // })
+    // state.tables = tables
+    // state.originalLength = originalLength
   },
   FETCH_TABLES_SUCCESS: (state, {payload}) => {
     const tables = {}
+    const originalLength = {}
     Object.keys(payload).forEach((id) => {
       tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
         if (d.year) {
@@ -55,8 +59,10 @@ export default createReducer(initialState, {
         }
         return d
       })
+      originalLength[id] = tables[id].length
     })
     state.tables = tables
+    state.originalLength = originalLength
   },
   UPDATE_TABLE: (state, {payload}) => {
     const {data, resourceName} = payload;

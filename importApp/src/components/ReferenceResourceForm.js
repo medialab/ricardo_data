@@ -208,7 +208,7 @@ class ReferenceResourceForm extends React.Component {
 
       // TODO: hardcoded
       if (resourceDescriptor.name === 'currencies' && !this.state.newReference) {
-        const source = [keys(payload.newResource.data)].concat([values(payload.newResource.data)]);
+        const source = [keys(payload.newResource.data[0])].concat([values(payload.newResource.data[0])]);
         const relations = {
           exchange_rates: referenceTables['exchange_rates']
         };

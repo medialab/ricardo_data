@@ -30,6 +30,7 @@ const App = ({
   selectedStep,
   repoData,
   flows,
+  tables,
   modificationList,
   //actions
   initTables,
@@ -66,7 +67,7 @@ const App = ({
   }
 
   const handleDiscard = () => {
-    initTables(repoData.tables);
+    initTables();
     setStep(steps[0]);
   }
   
@@ -79,6 +80,7 @@ const App = ({
         {renderChildren()}
       </Layout>
       <ConfirmationModal 
+        tables={tables}
         isActive={isModalDisplay}
         onSelectDiscard={handleDiscard}
         onSelectDownload={handleExport}
@@ -92,6 +94,7 @@ const mapStateToProps = state => ({
   steps: state.ui.steps,
   isModalDisplay: state.ui.isModalDisplay,
   flows: state.flows,
+  tables: state.tables,
   selectedStep: state.ui.selectedStep,
   modificationList: state.modification.modificationList,
   repoData: state.repoData

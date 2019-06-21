@@ -11,9 +11,11 @@ import {
   ModalCardFooter,
   ModalClose
 } from 'design-workshop';
+import ModificationSummary from './ModificationSummary';
 
 const ConfirmationModal = ({
   flows,
+  tables,
   onSelectDiscard, 
   onSelectDownload,
   isActive,
@@ -39,6 +41,7 @@ const ConfirmationModal = ({
           <Modal isActive={isActive}>
             <ModalBackground onClick={closeModal} />
             <ModalContent>
+              {/* {tables.tables && <ModificationSummary referenceTables={tables} />} */}
               <Card 
                 // title="Modal title" 
                 bodyContent="Leave this step, you might lost your modification?"

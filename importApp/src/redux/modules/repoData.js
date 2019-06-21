@@ -1,6 +1,8 @@
-import {get} from 'axios';
-import {apiUri, branchUri} from '../../config/default';
+import axios,{get, put, post} from 'axios';
+import {apiUri, branchUri, referenceUri} from '../../config/default';
 import { Base64 } from 'js-base64';
+
+import {INIT_TABLES} from './tables';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
@@ -17,6 +19,14 @@ export const FETCH_TABLES_FAILURE = 'FETCH_TABLES_FAILURE';
 export const FETCH_BRANCHES_REQUEST = 'FETCH_BRANCHES_REQUEST';
 export const FETCH_BRANCHES_SUCCESS = 'FETCH_BRANCHES_SUCCESS';
 export const FETCH_BRANCHES_FAILURE = 'FETCH_BRANCHES_FAILURE';
+
+export const CREATE_BRANCH_REQUEST = 'CREATE_BRANCH_REQUEST';
+export const CREATE_BRANCH_SUCCESS = 'CREATE_BRANCH_SUCCESS';
+export const CREATE_BRANCH_FAILURE = 'CREATE_BRANCH_FAILURE';
+
+export const UPDATE_REMOTE_FILE_REQUEST = 'UPDATE_REMOTE_FILE_REQUEST';
+export const UPDATE_REMOTE_FILE_SUCCESS = 'UPDATE_REMOTE_FILE_SUCCESS';
+export const UPDATE_REMOTE_FILE_FAILURE = 'UPDATE_REMOTE_FILE_FAILURE';
 
 export const SELECT_BRANCH = 'SELECT_BRANCH';
 
@@ -141,18 +151,55 @@ export const fetchDatapackage = () => (dispatch) => {
     }))
 }
 
+export const updateRemoteFile = (payload) => (dispatch) => {
+  dispatch({
+    type: UPDATE_REMOTE_FILE_REQUEST,
+  });
+}
+
+export const createBranch = (payload) => (dispatch) => {
+  dispatch({
+    type: CREATE_BRANCH_REQUEST
+  });
+
+  const {auth, branch, reference} = payload;
+  const data = {
+    "ref": `refs/heads/${branch}`,
+    "sha": reference.sha
+  };
+  
+  return post(`${referenceUri}`, data, {
+    auth: {
+      username: auth.username,
+      password: auth.token
+    }
+  })
+  .then((res) => dispatch({
+    type: CREATE_BRANCH_SUCCESS,
+    payload: {
+      name: auth.username,
+      ref: res.data
+    }
+  })).catch((error) => dispatch({
+    type: CREATE_BRANCH_FAILURE,
+    error
+  }))
+}
 
 /**
  * REDUCER
  */
 
-const initialState = {
-  selectedBranch: 'master'
-}
+const initialState = {}
 
 export default function reducer(state = initialState, action){
   const {payload} = action;
   switch (action.type){
+    case INIT_TABLES:
+      return {
+        ...state,
+        tables: null
+      }
     case FETCH_TABLES_SUCCESS:
       return {
         ...state,
@@ -169,11 +216,27 @@ export default function reducer(state = initialState, action){
         ...state,
         branches: payload.branches
       }
-    case SELECT_BRANCH:
+    case CREATE_BRANCH_SUCCESS:
       return {
         ...state,
-        selectedBranch: payload.branch,
-        tables: null
+        selectedBranch: payload,
+        branchToCreated: null
+      }
+    case SELECT_BRANCH:
+      const selectedBranch = state.branches.find((branch) => branch.name === payload.branch);
+      if (selectedBranch) {
+        return {
+          ...state,
+          selectedBranch,
+          tables: null
+        }
+      } else {
+        return {
+          ...state,
+          branchToCreated: payload.branch,
+          selectedBranch: null,
+          tables: null
+        }
       }
     default:
       return state
