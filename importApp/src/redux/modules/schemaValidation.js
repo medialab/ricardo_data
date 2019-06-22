@@ -417,16 +417,12 @@ export default function reducer(state = initialState, action){
   }
 }
 
-/** 
-* SELECTORS
-*/
-
 const getResourceName = state => state.schemaValidation.resourceName;
 const getResources = state => state.schemaValidation.descriptor.resources;
 const getTables = state => state.referenceTables.referenceTables;
 
 const re = /row\s\d*/;
-export const getOrderedErrors = (collectedErrors) => {
+export const getGroupedErrors = (collectedErrors) => {
   const errorsList = values(collectedErrors).reduce((res, item) => {
     return res.concat(item.errors)
   },[]);
@@ -455,6 +451,11 @@ export const getOrderedErrors = (collectedErrors) => {
     return RANKED_FIELDS[field.name]
   });
 }
+
+/** 
+* SELECTORS
+*/
+
 
 export const getResourceSchema = createSelector(
   getResourceName,

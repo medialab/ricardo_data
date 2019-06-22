@@ -9,7 +9,7 @@ import {startModification} from '../../redux/modules/modification';
 
 import OverviewTable from '../../components/OverviewTable';
 
-import {validateTable, getRelations, getResourceSchema, getOrderedErrors} from '../../redux/modules/schemaValidation';
+import {validateTable, getRelations, getResourceSchema, getGroupedErrors} from '../../redux/modules/schemaValidation';
 
 class SchemaValidation extends React.Component {
   componentDidMount () {
@@ -28,8 +28,8 @@ class SchemaValidation extends React.Component {
     const handlePrevStep = () => this.props.setStep({id: '0'})
     const handleNextStep = () => {
       if (!modificationList) {
-        const orderedErrors = getOrderedErrors(schemaFeedback.collectedErrors);
-        this.props.startModification(orderedErrors)
+        const groupedErrors = getGroupedErrors(schemaFeedback.collectedErrors);
+        this.props.startModification(groupedErrors)
       }
       this.props.setStep({id: '2'});
     }
