@@ -22,7 +22,7 @@ import {
   hideModal
 } from './redux/modules/ui';
 
-import { initTables } from './redux/modules/tables';
+import { initTables } from './redux/modules/referenceTables';
 
 const App = ({
   steps,
@@ -30,7 +30,7 @@ const App = ({
   selectedStep,
   repoData,
   flows,
-  tables,
+  referenceTables,
   modificationList,
   //actions
   initTables,
@@ -80,7 +80,7 @@ const App = ({
         {renderChildren()}
       </Layout>
       <ConfirmationModal 
-        tables={tables}
+        referenceTables={referenceTables}
         isActive={isModalDisplay}
         onSelectDiscard={handleDiscard}
         onSelectDownload={handleExport}
@@ -94,7 +94,7 @@ const mapStateToProps = state => ({
   steps: state.ui.steps,
   isModalDisplay: state.ui.isModalDisplay,
   flows: state.flows,
-  tables: state.tables,
+  referenceTables: state.referenceTables,
   selectedStep: state.ui.selectedStep,
   modificationList: state.modification.modificationList,
   repoData: state.repoData

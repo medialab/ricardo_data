@@ -18,7 +18,7 @@ import {updateFlows} from '../../redux/modules/flows';
 import {revalidateRows} from '../../redux/modules/schemaValidation';
 import {submitModification} from '../../redux/modules/modification';
 import {getResourceSchema} from '../../redux/modules/schemaValidation';
-import {updateTable} from '../../redux/modules/tables';
+import {updateTable} from '../../redux/modules/referenceTables';
 
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
@@ -56,7 +56,7 @@ class DataModification extends React.Component {
     }
 
     const handleSubmitModification = (payload) => {
-      const {schema, flows, tables} = this.props;
+      const {schema, flows, referenceTables} = this.props;
       const {index, errors, errorType, fixedReferenceTable} = payload;      
     
       if (errorType === 'ERROR_FORMAT' || payload.field === 'source') {
@@ -71,7 +71,7 @@ class DataModification extends React.Component {
           row[columnIndex] = payload.fixedValues['year'];
           return row;
         }));
-        const relations = {currencies: tables['currencies']}
+        const relations = {currencies: referenceTables['currencies']}
         this.props.revalidateRows({
           originalValue: payload.value,
           fixedValues: payload.fixedValues,
@@ -178,7 +178,7 @@ class DataModification extends React.Component {
 
 const mapStateToProps = state => ({
   flows: state.flows.data,
-  tables: state.tables.tables,
+  referenceTables: state.referenceTables.referenceTables,
   schema: getResourceSchema(state),
   schemaFeedback: state.schemaValidation.schemaFeedback,
   modificationList: state.modification.modificationList,

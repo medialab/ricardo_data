@@ -423,7 +423,7 @@ export default function reducer(state = initialState, action){
 
 const getResourceName = state => state.schemaValidation.resourceName;
 const getResources = state => state.schemaValidation.descriptor.resources;
-const getTables = state => state.tables.tables;
+const getTables = state => state.referenceTables.referenceTables;
 
 const re = /row\s\d*/;
 export const getOrderedErrors = (collectedErrors) => {
@@ -468,12 +468,12 @@ export const getRelations = createSelector(
   getResourceName,
   getResources,
   getTables,
-  (resourceName, resources, tables) => {
+  (resourceName, resources, referenceTables) => {
     const selectedResource = resources.find((resource) => resource.name === resourceName);
     const relations = {};
     selectedResource.schema.foreignKeys.forEach((key) => {
       const tableName = key.reference.resource;
-      relations[tableName] = tables[tableName]
+      relations[tableName] = referenceTables[tableName]
     });
     return relations;
 })

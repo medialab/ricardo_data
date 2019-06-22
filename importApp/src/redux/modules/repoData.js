@@ -2,7 +2,7 @@ import axios,{get, put, post} from 'axios';
 import {apiUri, branchUri, referenceUri} from '../../config/default';
 import { Base64 } from 'js-base64';
 
-import {INIT_TABLES} from './tables';
+import {INIT_TABLES} from './referenceTables';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
@@ -24,9 +24,9 @@ export const CREATE_BRANCH_REQUEST = 'CREATE_BRANCH_REQUEST';
 export const CREATE_BRANCH_SUCCESS = 'CREATE_BRANCH_SUCCESS';
 export const CREATE_BRANCH_FAILURE = 'CREATE_BRANCH_FAILURE';
 
-export const UPDATE_REMOTE_FILE_REQUEST = 'UPDATE_REMOTE_FILE_REQUEST';
-export const UPDATE_REMOTE_FILE_SUCCESS = 'UPDATE_REMOTE_FILE_SUCCESS';
-export const UPDATE_REMOTE_FILE_FAILURE = 'UPDATE_REMOTE_FILE_FAILURE';
+export const UPDATE_REMOTE_FILES_REQUEST = 'UPDATE_REMOTE_FILES_REQUEST';
+export const UPDATE_REMOTE_FILES_SUCCESS = 'UPDATE_REMOTE_FILES_SUCCESS';
+export const UPDATE_REMOTE_FILES_FAILURE = 'UPDATE_REMOTE_FILES_FAILURE';
 
 export const SELECT_BRANCH = 'SELECT_BRANCH';
 
@@ -151,9 +151,9 @@ export const fetchDatapackage = () => (dispatch) => {
     }))
 }
 
-export const updateRemoteFile = (payload) => (dispatch) => {
+export const updateRemoteFiles = (payload) => (dispatch) => {
   dispatch({
-    type: UPDATE_REMOTE_FILE_REQUEST,
+    type: UPDATE_REMOTE_FILES_REQUEST,
   });
 }
 

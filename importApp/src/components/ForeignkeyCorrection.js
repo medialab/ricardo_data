@@ -104,7 +104,7 @@ class ForeignKeyCorrection extends React.Component {
 
   handleAddNewResource = (payload) => {
     // delete referenceFieldResource.path
-    // referenceFieldResource.data = tables[resourceName].push(values);
+    // referenceFieldResource.data = referenceTables[resourceName].push(values);
     // this.props.validateResource(referenceFieldResource)
     const {newResource, newReference, newRefReference} = payload;
     const {modificationItem, foreignKeyField} = this.props;
@@ -200,7 +200,7 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   renderSolving() {
-    const {modificationItem, foreignKeyField, tables} = this.props;
+    const {modificationItem, foreignKeyField, referenceTables} = this.props;
     const {field, fixedReferenceTable}= modificationItem;
 
     const resourceName = foreignKeyField.reference.resource;  
@@ -216,7 +216,7 @@ class ForeignKeyCorrection extends React.Component {
     const fixedValueSelected = generateValue(this.state.fixedValues[field])
 
     const getOptions = () => {
-      const table = tables[resourceName];
+      const table = referenceTables[resourceName];
       return table.map((item) => {
         return {
           value: item[referenceField],
@@ -257,7 +257,7 @@ class ForeignKeyCorrection extends React.Component {
 
   render() {
     const {newResource, fixedValues} = this.state;
-    const {modificationItem, foreignKeyField, descriptor, tables} = this.props;
+    const {modificationItem, foreignKeyField, descriptor, referenceTables} = this.props;
     const {value, message, field}= modificationItem;
     const resourceName = foreignKeyField.reference.resource;  
     const referenceFieldResource = descriptor.resources.find((resource) => resource.name === resourceName);
@@ -314,7 +314,7 @@ class ForeignKeyCorrection extends React.Component {
                   originalValues={originalValues}
                   descriptor={descriptor}
                   resourceDescriptor={referenceFieldResource}
-                  referenceTables={tables}
+                  referenceTables={referenceTables}
                   onCancel={this.handleCancel}
                   onAddNew={this.handleAddNewResource} />
               </Column>

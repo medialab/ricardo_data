@@ -10,7 +10,7 @@ import ForeignkeyCorrection from '../../components/ForeignkeyCorrection';
 const ModificationComponent = ({
   className,
   flows,
-  tables,
+  referenceTables,
   descriptor,
   schema,
   modificationItem,
@@ -61,7 +61,7 @@ const ModificationComponent = ({
           schema={schema}
           descriptor={descriptor}
           foreignKeyField={getForeignKeyField()}
-          tables={tables}
+          referenceTables={referenceTables}
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}
           onSubmitForm={handleSubmitModification} 
@@ -74,7 +74,7 @@ const ModificationComponent = ({
 
 const mapStateToProps = state => ({
   descriptor: state.schemaValidation.descriptor,
-  tables: state.tables.tables
+  referenceTables: state.referenceTables.referenceTables
 });
 
 export default connect(mapStateToProps)(ModificationComponent);

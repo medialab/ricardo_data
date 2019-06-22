@@ -29,28 +29,12 @@ const initialState = {};
 export default createReducer(initialState, {
   INIT_TABLES: (state) => {
     return initialState;
-    // const tables = {}
-    // const originalLength = {}
-    // Object.keys(payload).forEach((id) => {
-    //   tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
-    //     if (d.year) {
-    //       return {
-    //         ...d,
-    //         year: +d.year
-    //       }
-    //     }
-    //     return d
-    //   })
-    //   originalLength[id] = tables[id].length
-    // })
-    // state.tables = tables
-    // state.originalLength = originalLength
   },
   FETCH_TABLES_SUCCESS: (state, {payload}) => {
-    const tables = {}
+    const referenceTables = {}
     const originalLength = {}
     Object.keys(payload).forEach((id) => {
-      tables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
+      referenceTables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
         if (d.year) {
           return {
             ...d,
@@ -59,15 +43,15 @@ export default createReducer(initialState, {
         }
         return d
       })
-      originalLength[id] = tables[id].length
+      originalLength[id] = referenceTables[id].length
     })
-    state.tables = tables
+    state.referenceTables = referenceTables;
     state.originalLength = originalLength
   },
   UPDATE_TABLE: (state, {payload}) => {
     const {data, resourceName} = payload;
-    const newTable = state.tables[resourceName].slice();
+    const newTable = state.referenceTables[resourceName].slice();
     newTable.splice(newTable.length, 0, ...data)
-    state.tables[resourceName] = newTable
+    state.referenceTables[resourceName] = newTable
   },
 })

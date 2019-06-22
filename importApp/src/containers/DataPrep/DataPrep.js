@@ -2,10 +2,7 @@ import React from 'react';
 import {connect} from 'react-redux'
 
 import {
-  Label,
   Button,
-  Columns,
-  Column,
   Help,
   Select
 } from 'design-workshop';
@@ -101,27 +98,23 @@ class DataPrep extends React.Component {
   
     return (
       <div>
-          {branches && 
-            <div>
-              {/* <Label>Get tables from {selectedBranch} branch</Label>
-              <Select value={selectedBranch} onChange={handleSelectBranch}>
-                {
-                  branches.map((item, index) => {
-                    return (
-                      <option key={index}>{item.name}</option>
-                    )
-                  })
-                }
-              </Select>
-              <Button isColor="info" onClick={handleGetTables}>Fetch</Button> */}
-              <Button onClick={this.handleShowLogin}>
-                <span>{isLogined ? "Re-Login" : "Login"} to get branch</span>
-              </Button>
-              {isLogined && this.renderFetchTable()}
-              {tables &&
-                <p className="has-text-success">tables from {selectedBranch.name} branch are loaded</p>
-              }
-            </div>
+        {/* <Label>Get tables from {selectedBranch} branch</Label>
+          <Select value={selectedBranch} onChange={handleSelectBranch}>
+            {
+              branches.map((item, index) => {
+                return (
+                  <option key={index}>{item.name}</option>
+                )
+              })
+            }
+          </Select>
+          <Button isColor="info" onClick={handleGetTables}>Fetch</Button> */}
+          <Button onClick={this.handleShowLogin}>
+            <span>{isLogined ? "Re-Login" : "Login"} to get branch</span>
+          </Button>
+          {isLogined && this.renderFetchTable()}
+          {tables &&
+            <p className="has-text-success">tables from {selectedBranch.name} branch are loaded</p>
           }
           <LoginModal isActive={this.state.isModalShow} closeModal={this.handleCloseModal} onSubmitLogin={this.handleLogin}/>
       </div>

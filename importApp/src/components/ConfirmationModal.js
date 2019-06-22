@@ -15,7 +15,7 @@ import ModificationSummary from './ModificationSummary';
 
 const ConfirmationModal = ({
   flows,
-  tables,
+  referenceTables,
   onSelectDiscard, 
   onSelectDownload,
   isActive,
@@ -41,7 +41,7 @@ const ConfirmationModal = ({
           <Modal isActive={isActive}>
             <ModalBackground onClick={closeModal} />
             <ModalContent>
-              {/* {tables.tables && <ModificationSummary referenceTables={tables} />} */}
+              {/* {referenceTables.referenceTables && <ModificationSummary referenceTables={referenceTables} />} */}
               <Card 
                 // title="Modal title" 
                 bodyContent="Leave this step, you might lost your modification?"
