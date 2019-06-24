@@ -16,7 +16,7 @@ import {
 } from '../../redux/modules/repoData';
 
 import {loginGithub} from '../../redux/modules/auth';
-import LoginModal from '../../components/LoginModal';
+import GithubAuthModal from '../../components/GithubAuthModal';
 
 
 class DataPrep extends React.Component {
@@ -56,6 +56,7 @@ class DataPrep extends React.Component {
   handleCreateBranch = () => {
     const {auth, repoData} = this.props;
     const {branches, branchToCreated} = repoData;
+    // TODO: hardcoded
     const refBranch = branches.find((branch) => branch.name === 'master');
     if (refBranch) {
       this.props.createBranch({
@@ -68,8 +69,8 @@ class DataPrep extends React.Component {
     }
   }
   renderFetchTable() {
-    const {repoData, auth, isLogined} = this.props;
-    const {selectedBranch, branchToCreated, tables} = repoData;
+    const {repoData, auth} = this.props;
+    const {selectedBranch, branchToCreated, tables, isBranchCreated} = repoData;
 
     const handleGetTables = () => {
       this.props.fetchAllTables({branch: selectedBranch.name});
@@ -77,16 +78,23 @@ class DataPrep extends React.Component {
 
     return (
       <div>
-        <p>you are logined</p>
         {branchToCreated &&
           <div>
-            <p>No previous working branch</p>
-            <Button onClick={this.handleCreateBranch}>Create a new branch</Button>
+            <Help isColor="danger">No previous working branch</Help>
+            <Button isColor="info" onClick={this.handleCreateBranch}>Create a new branch</Button>
           </div>
+        }
+        {isBranchCreated ? 
+          <Help isColor="success">branch "{selectedBranch.name}" is created</Help> : 
+          <Help isColor="danger">could not create branch "{branchToCreated}"</Help>
         }
         {
           selectedBranch && !tables &&
           <Button isColor="info" onClick={handleGetTables}>Fetch table from branch {selectedBranch.name}</Button>
+        }
+        {selectedBranch && (tables ?
+          <Help isColor="success">tables from {selectedBranch.name} branch are loaded</Help>:
+          <Help isColor="danger">tables from {selectedBranch.name} branch are not loaded</Help>)
         }
       </div>
     )
@@ -98,7 +106,7 @@ class DataPrep extends React.Component {
   
     return (
       <div>
-        {/* <Label>Get tables from {selectedBranch} branch</Label>
+        {/* <Label>Get tables from {selectedBranch.name} branch</Label>
           <Select value={selectedBranch} onChange={handleSelectBranch}>
             {
               branches.map((item, index) => {
@@ -109,14 +117,19 @@ class DataPrep extends React.Component {
             }
           </Select>
           <Button isColor="info" onClick={handleGetTables}>Fetch</Button> */}
-          <Button onClick={this.handleShowLogin}>
+          <Button isColor="info" onClick={this.handleShowLogin}>
             <span>{isLogined ? "Re-Login" : "Login"} to get branch</span>
           </Button>
-          {isLogined && this.renderFetchTable()}
-          {tables &&
-            <p className="has-text-success">tables from {selectedBranch.name} branch are loaded</p>
+          {isLogined ? 
+            <Help isColor="success">you are logined</Help> :
+            <Help isColor="danger">you are  not logined</Help> 
           }
-          <LoginModal isActive={this.state.isModalShow} closeModal={this.handleCloseModal} onSubmitLogin={this.handleLogin}/>
+          {isLogined && this.renderFetchTable()}
+          <GithubAuthModal 
+            isActive={this.state.isModalShow}
+            isCommit={false}
+            closeModal={this.handleCloseModal} 
+            onSubmitAuth={this.handleLogin} />
       </div>
     )
   }

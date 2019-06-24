@@ -19,7 +19,7 @@ import {updateRemoteFiles} from '../../redux/modules/repoData';
 
 import {downloadFile} from '../../utils/fileExporter';
 import ModificationSummary from '../../components/ModificationSummary';
-import LoginModal from '../../components/LoginModal';
+import GithubAuthModal from '../../components/GithubAuthModal';
 
 class DataPublish extends React.Component {
   constructor(props) {
@@ -39,25 +39,26 @@ class DataPublish extends React.Component {
 
   render () {
     const {flows, repoData, referenceTables, originalLength} = this.props;
-    const {selectedBranch, remoteFilesUpdated, remoteReponse} = repoData;
+    const {selectedBranch, remoteUpdateStatus, remoteResponse} = repoData;
     const repoTables = repoData.tables;
-    const status = remoteReponse.map((response) => {
-      if (response.error) {
-        return {
-          requestSuccess: false,
-          statusText: response.error.response.statusText,
-          url: response.error.config.url,
-          message: response.error.response.data.message 
+    let status;
+    if (remoteResponse) {
+      status = remoteResponse.map((response) => {
+        if (response.error) {
+          return {
+            requestSuccess: false,
+            statusText: response.error.response.statusText,
+            url: response.error.config.url,
+            message: response.error.response.data.message 
+          }
+        } else {
+          return {
+            requestSuccess: true,
+            url: response.config.url
+          }
         }
-        // return pick(response.error.response, ['data', 'status', 'statusText'])
-      } else {
-        return {
-          requestSuccess: true,
-          url: response.config.url
-        }
-        // return pick(response, ['data', 'status', 'statusText'])
-      }
-    })
+      })
+    }
 
     let updatedTables = [];
 
@@ -113,7 +114,8 @@ class DataPublish extends React.Component {
           </Control>
         </Field>
         <Field>
-          {remoteFilesUpdated && status.map((d) => {
+          {remoteUpdateStatus === 'loading' && <Help isColor='success'>updating files on github...</Help>}
+          {status && status.map((d) => {
               return(
                 d.requestSuccess ? 
                 <Help isColor='success'>{d.url}</Help> :
@@ -121,7 +123,12 @@ class DataPublish extends React.Component {
               )
           }) }
         </Field>
-        <LoginModal isActive={this.state.isModalShow} closeModal={this.handleCloseModal} onSubmitLogin={handleUpdateRemoteFiles} />
+        <GithubAuthModal 
+          isActive={this.state.isModalShow}
+          isCommit={true}
+          closeModal={this.handleCloseModal}
+          onSubmitAuth={handleUpdateRemoteFiles}
+        />
       </div>
     )
   }

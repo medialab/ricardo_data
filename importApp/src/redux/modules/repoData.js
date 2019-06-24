@@ -8,6 +8,7 @@ import {
 } from 'd3-dsv';
 
 import {INIT_TABLES} from './referenceTables';
+import { SET_STEP } from './ui';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
@@ -66,6 +67,7 @@ export const tablesList = [
   }
 ];
 
+const DEFAULT_MESSAGE = 'update data'
 /**
  * ACTIONS
  */
@@ -165,7 +167,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
   
   const requests = files.map((file) => {
     const data = {
-      message: 'test update',
+      message: auth.message || DEFAULT_MESSAGE,
       content: Base64.encode(csvFormat(file.data)),
       sha: file.sha,
       branch
@@ -242,7 +244,9 @@ export default function reducer(state = initialState, action){
     case INIT_TABLES:
       return {
         ...state,
-        tables: null
+        tables: null,
+        remoteUpdateStatus: null,
+        remoteResponse: null
       }
     case FETCH_TABLES_SUCCESS:
       return {
@@ -264,7 +268,14 @@ export default function reducer(state = initialState, action){
       return {
         ...state,
         selectedBranch: payload,
+        isBranchCreated: true,
         branchToCreated: null
+      }
+    case CREATE_BRANCH_FAILURE:
+      return {
+        ...state,
+        selectedBranch: null,
+        isBranchCreated: false
       }
     case SELECT_BRANCH:
       const selectedBranch = state.branches.find((branch) => branch.name === payload.branch);
@@ -272,27 +283,34 @@ export default function reducer(state = initialState, action){
         return {
           ...state,
           selectedBranch,
+          isBranchCreated: true,
           tables: null
         }
       } else {
         return {
           ...state,
           branchToCreated: payload.branch,
+          isBranchCreated: false,
           selectedBranch: null,
           tables: null
         }
+      }
+    case UPDATE_REMOTE_FILES_REQUEST:
+      return {
+        ...state,
+        remoteUpdateStatus: 'loading'
       }
     case UPDATE_REMOTE_FILES_SUCCESS:
       const {responses} = payload;
       return {
         ...state,
-        remoteFilesUpdated: "updated",
-        remoteReponse: responses
+        remoteUpdateStatus: "updated",
+        remoteResponse: responses
       }
     case UPDATE_REMOTE_FILES_FAILURE:
       return {
         ...state,
-        remoteFilesUpdated: "fail"
+        remoteUpdateStatus: "fail"
       }
     default:
       return state

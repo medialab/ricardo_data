@@ -1,4 +1,7 @@
+.modal-card-body {
+  background-color: #f2f2f2;
+}
 
-.action-table-main{
-  height: 100% !important;
+.table-cell {
+  word-break: break-all;
 }
