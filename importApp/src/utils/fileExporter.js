@@ -1,11 +1,12 @@
 import XLSX from 'xlsx';
 import {
   csvFormatRows,
+  csvFormat
 } from 'd3-dsv';
 
 import FileSaver from 'file-saver';
 
-export function downloadFile ( array, fileName, ext) {
+export function downloadFlow (array, fileName, ext) {
   let file;
   const header = array[0]
   switch(ext) {
@@ -13,7 +14,7 @@ export function downloadFile ( array, fileName, ext) {
       const csvString = csvFormatRows(array)
       file = new File(
         [csvString],
-        fileName,
+        `${fileName}.${ext}`,
         { type: 'text/csv;charset=utf-8' }
       )
       FileSaver.saveAs(file)
@@ -25,6 +26,23 @@ export function downloadFile ( array, fileName, ext) {
       const wb = XLSX.utils.book_new();
       XLSX.utils.book_append_sheet(wb, sheet, 'SheetJS');
       XLSX.writeFile(wb, fileName);
+      break
+    }
+  }
+}
+
+export function downloadTable (array, fileName, ext) {
+  let file;
+  switch(ext) {
+    case 'csv': 
+    default:{
+      const csvString = csvFormat(array)
+      file = new File(
+        [csvString],
+        `${fileName}.${ext}`,
+        { type: 'text/csv;charset=utf-8' }
+      )
+      FileSaver.saveAs(file)
       break
     }
   }

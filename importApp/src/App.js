@@ -11,7 +11,7 @@ import ConfirmationModal from './components/ConfirmationModal';
 import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
 
-import {downloadFile} from './utils/fileExporter';
+import {downloadFlow} from './utils/fileExporter';
 
 import styles from 'design-workshop/themes/default/style.css';
 import './App.css';
@@ -54,7 +54,7 @@ const App = ({
   }
   const handleExport = () => {
     const {file, data} = flows;
-    downloadFile(data, file.name, 'xlsx')
+    downloadFlow(data, file.name, 'xlsx')
   }
 
   const handleSetStep = (step) => {
