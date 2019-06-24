@@ -88,9 +88,11 @@ class ForeignKeyCorrection extends React.Component {
     const fixedValues = this.initFixedValues()
     this.setState({
       fixedValues,
+      showSolving: true,
       showNewForm: true,
       newResource: null,
-      newReference: null
+      newReference: null,
+      newRefReference: null
     })
   }
 
@@ -194,7 +196,7 @@ class ForeignKeyCorrection extends React.Component {
           }
         </Help>
         <br/>
-        <Button isColor="info" isDisabled={unchangable} onClick={this.handleShowSolving}>Change this fix</Button>
+        <Button isColor="info" isDisabled={unchangable} onClick={this.handleClickCreate}>Change this fix</Button>
       </FieldContainer>
     )
   }

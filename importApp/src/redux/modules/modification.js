@@ -1,5 +1,5 @@
 import { createReducer } from 'redux-starter-kit';
-import {values} from 'lodash'
+import {values, isEqual} from 'lodash'
 import {SET_STEP} from './ui';
 
 export const SUBMIT_MODIFICATION = 'SUBMIT_MODIFICATION';
@@ -57,12 +57,14 @@ export default createReducer(initialState, {
   REVALIDATE_ROWS_FAILURE: (state, action) => {
     // case 2,3: voilation relations
     const {payload} = action;
-    const {originalValue, fixedValues} = payload;
+    const {fixedValues, rowNumbers} = payload;
     state.modificationList
     .forEach((item, index) => {
-      if (item.field === 'currency|year|reporting' && item.value.split("|")[1] === '' +originalValue) {
+      const errorRowNumbers = item.errors.map((err) => err.rowNumber);
+      if (item.field === 'currency|year|reporting' && isEqual(errorRowNumbers, rowNumbers)) {
         const fixedValue = item.value.split("|")[0] + '|' + fixedValues['year'] + '|' + item.value.split("|")[2];
-        if (state.modificationList.find((item) => item.value === fixedValue)) {
+        const existItem = state.modificationList.find((item) => item.value === fixedValue)
+        if ( existItem && existItem.index !== index) {
           // case 2: fixed formatted year rows values of (currency|year|reporting) are same with other rows
           state.modificationList[index] = {
             ...state.modificationList[index],
@@ -80,11 +82,8 @@ export default createReducer(initialState, {
             ...state.modificationList[index],
             fixed: false,
             unchangable: false,
-            // fixedValues: {
-            //   'currency': item.value.split('|')[0],
-            //   'year': fixedValues['year'],
-            //   'reporting': item.value.split('|')[2]
-            // }
+            value: fixedValue,
+            fixedValues: null
           }
         } 
       }

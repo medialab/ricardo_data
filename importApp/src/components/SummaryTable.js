@@ -35,7 +35,7 @@ const SummaryTable = ({
         <div className={'action-table-main'}>
           {
             modificationList.map((item, errorIndex) => {
-              const {field, errors, value, message, fixed, fixedValues} = item;
+              const {field, errors,originalValue, value, message, fixed, fixedValues} = item;
               const fixedValue = values(fixedValues).join('|');
 
               const isNonchangableField = difference(nonChangableFields, field.split('|')).length < nonChangableFields.length
@@ -62,6 +62,7 @@ const SummaryTable = ({
                         case 2:
                           return (
                             <div key={columnIndex} className="table-cell">
+                              {originalValue !== value && <span className="has-text-danger">{originalValue} -></span>}
                               <span className="has-text-danger">{isNull(value)? 'none' : value }</span>
                               {fixed && <span className="has-text-success"> ->{fixedValue === ''?'none': fixedValue}</span>}
                               <HelpPin>{message}</HelpPin>
