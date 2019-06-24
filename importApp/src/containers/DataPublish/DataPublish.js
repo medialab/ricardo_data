@@ -39,26 +39,8 @@ class DataPublish extends React.Component {
 
   render () {
     const {flows, repoData, referenceTables, originalLength} = this.props;
-    const {selectedBranch, remoteUpdateStatus, remoteResponse} = repoData;
+    const {selectedBranch, remoteUpdateStatus} = repoData;
     const repoTables = repoData.tables;
-    let status;
-    if (remoteResponse) {
-      status = remoteResponse.map((response) => {
-        if (response.error) {
-          return {
-            requestSuccess: false,
-            statusText: response.error.response.statusText,
-            url: response.error.config.url,
-            message: response.error.response.data.message 
-          }
-        } else {
-          return {
-            requestSuccess: true,
-            url: response.config.url
-          }
-        }
-      })
-    }
 
     let updatedTables = [];
 
@@ -126,13 +108,8 @@ class DataPublish extends React.Component {
         </Field>
         <Field>
           {remoteUpdateStatus === 'loading' && <Help isColor='success'>updating files on github...</Help>}
-          {status && status.map((d) => {
-              return(
-                d.requestSuccess ? 
-                <Help isColor='success'>{d.url}</Help> :
-                <Help isColor='danger'>{d.url} - {d.statusText} - {d.message}</Help>
-              )
-          }) }
+          {remoteUpdateStatus === 'updated' && <Help isColor='success'>files are updated on github</Help>}
+          {remoteUpdateStatus === 'fail' && <Help isColor='danger'>fail to update files on github</Help>}
         </Field>
         <GithubAuthModal 
           isActive={this.state.isModalShow}

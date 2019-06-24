@@ -1,6 +1,6 @@
 import {all, get, put, post, spread} from 'axios';
-import {apiUri, branchUri, referenceUri} from '../../config/default';
-import {pick} from 'lodash';
+import {apiUri, branchUri, referenceUri, owner, repoName} from '../../config/default';
+import Octokat from 'octokat';
 
 import { Base64 } from 'js-base64';
 import {
@@ -159,47 +159,50 @@ export const fetchDatapackage = () => (dispatch) => {
 }
 
 export const updateRemoteFiles = (payload) => (dispatch) => {
-  dispatch({
-    type: UPDATE_REMOTE_FILES_REQUEST,
-    payload
-  });
   const {files, branch, auth} = payload;
-  
-  const requests = files.map((file) => {
-    const data = {
-      message: auth.message || DEFAULT_MESSAGE,
-      content: Base64.encode(csvFormat(file.data)),
-      sha: file.sha,
-      branch
-    }
-    return put(`${apiUri}/data/${file.fileName}`, data, {
-      auth: {
-        username: auth.username,
-        password: auth.token
-      }
-    })
-    .catch((error) => ({error})) 
-  })
 
-  all(requests)
-  .then((res) => {
-    console.log(res)
-    // const responses = res.map((response) => {
-    //   if(response.error) {
-    //     return response.error.response
-    //   } else return response
-    // })
-    dispatch({
-      type: UPDATE_REMOTE_FILES_SUCCESS,
-      payload: {responses: res}
-    });
-  })
-  .catch((error) => {
-    console.error(error);
-    dispatch({
-      type: UPDATE_REMOTE_FILES_FAILURE,
-      error
-    });
+  const github = new Octokat({
+    username: auth.username,
+    password: auth.token
+  });
+
+  dispatch(async () => {
+    try {
+      let repo = await github.repos(owner, repoName).fetch();
+      let baseReference = await repo.git.refs(`heads/${branch}`).fetch();
+      let treeItems = [];
+      for (let file of files) {
+        let fileGit = await repo.git.blobs.create({content: Base64.encode(csvFormat(file.data)), encoding: 'base64'});
+        let filePath = `data/${file.fileName}`;
+        treeItems.push({
+          path: filePath,
+          sha: fileGit.sha,
+          mode: "100644",
+          type: "blob"
+        })
+      } 
+  
+      let tree = await repo.git.trees.create({
+        tree: treeItems,
+        base_tree: baseReference.object.sha
+      });
+      let commit = await repo.git.commits.create({
+        message: auth.message || DEFAULT_MESSAGE,
+        tree: tree.sha,
+        parents: [baseReference.object.sha]
+      });
+  
+      baseReference.update({sha: commit.sha});
+      dispatch({
+        type: UPDATE_REMOTE_FILES_SUCCESS,
+      });
+    } catch(err) {
+      console.error(err);
+      dispatch({
+        type: UPDATE_REMOTE_FILES_FAILURE,
+        err
+      });
+    }
   })
 }
 
@@ -301,11 +304,9 @@ export default function reducer(state = initialState, action){
         remoteUpdateStatus: 'loading'
       }
     case UPDATE_REMOTE_FILES_SUCCESS:
-      const {responses} = payload;
       return {
         ...state,
         remoteUpdateStatus: "updated",
-        remoteResponse: responses
       }
     case UPDATE_REMOTE_FILES_FAILURE:
       return {
