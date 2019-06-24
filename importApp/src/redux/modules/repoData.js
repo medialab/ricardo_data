@@ -1,6 +1,11 @@
-import axios,{get, put, post} from 'axios';
+import {all, get, put, post, spread} from 'axios';
 import {apiUri, branchUri, referenceUri} from '../../config/default';
+import {pick} from 'lodash';
+
 import { Base64 } from 'js-base64';
+import {
+  csvFormat
+} from 'd3-dsv';
 
 import {INIT_TABLES} from './referenceTables';
 
@@ -154,7 +159,46 @@ export const fetchDatapackage = () => (dispatch) => {
 export const updateRemoteFiles = (payload) => (dispatch) => {
   dispatch({
     type: UPDATE_REMOTE_FILES_REQUEST,
+    payload
   });
+  const {files, branch, auth} = payload;
+  
+  const requests = files.map((file) => {
+    const data = {
+      message: 'test update',
+      content: Base64.encode(csvFormat(file.data)),
+      sha: file.sha,
+      branch
+    }
+    return put(`${apiUri}/data/${file.fileName}`, data, {
+      auth: {
+        username: auth.username,
+        password: auth.token
+      }
+    })
+    .catch((error) => ({error})) 
+  })
+
+  all(requests)
+  .then((res) => {
+    console.log(res)
+    // const responses = res.map((response) => {
+    //   if(response.error) {
+    //     return response.error.response
+    //   } else return response
+    // })
+    dispatch({
+      type: UPDATE_REMOTE_FILES_SUCCESS,
+      payload: {responses: res}
+    });
+  })
+  .catch((error) => {
+    console.error(error);
+    dispatch({
+      type: UPDATE_REMOTE_FILES_FAILURE,
+      error
+    });
+  })
 }
 
 export const createBranch = (payload) => (dispatch) => {
@@ -168,7 +212,7 @@ export const createBranch = (payload) => (dispatch) => {
     "sha": reference.sha
   };
   
-  return post(`${referenceUri}`, data, {
+  return post(referenceUri, data, {
     auth: {
       username: auth.username,
       password: auth.token
@@ -237,6 +281,18 @@ export default function reducer(state = initialState, action){
           selectedBranch: null,
           tables: null
         }
+      }
+    case UPDATE_REMOTE_FILES_SUCCESS:
+      const {responses} = payload;
+      return {
+        ...state,
+        remoteFilesUpdated: "updated",
+        remoteReponse: responses
+      }
+    case UPDATE_REMOTE_FILES_FAILURE:
+      return {
+        ...state,
+        remoteFilesUpdated: "fail"
       }
     default:
       return state

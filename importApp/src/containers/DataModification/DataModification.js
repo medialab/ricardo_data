@@ -18,7 +18,7 @@ import {updateFlows} from '../../redux/modules/flows';
 import {revalidateRows} from '../../redux/modules/schemaValidation';
 import {submitModification} from '../../redux/modules/modification';
 import {getResourceSchema} from '../../redux/modules/schemaValidation';
-import {updateTable} from '../../redux/modules/referenceTables';
+import {addTableRow, deleteTableRow} from '../../redux/modules/referenceTables';
 
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
@@ -27,8 +27,11 @@ import ModificationComponent from './ModificationComponent';
 class DataModification extends React.Component {
   
   render() {
-    const {flows, schema, isModification, modificationIndex, modificationList, schemaFeedback} = this.props;
-    const nonFixedList = modificationList.filter((item) => item.fixed === false)
+    const {flows, schema, isModification, modificationIndex, modificationList, referenceTables} = this.props;
+    const nonFixedList = modificationList.filter((item) => item.fixed === false);
+
+    const modificationItem = modificationList[modificationIndex]
+
 
     const handlePrevStep = () => this.props.setStep({id: '1'})
     const handleNextStep = () => this.props.setStep({id: '3'})
@@ -56,7 +59,6 @@ class DataModification extends React.Component {
     }
 
     const handleSubmitModification = (payload) => {
-      const {schema, flows, referenceTables} = this.props;
       const {index, errors, errorType, fixedReferenceTable} = payload;      
     
       if (errorType === 'ERROR_FORMAT' || payload.field === 'source') {
@@ -83,9 +85,14 @@ class DataModification extends React.Component {
       }
 
       if (errorType === 'ERROR_FOREIGN_KEY') {
-        const {fixedReferenceTable} = payload;
+        const prevFixedReferenceTable = modificationItem.fixedReferenceTable;
+        if (prevFixedReferenceTable) {
+          prevFixedReferenceTable.forEach((table) => {
+            this.props.deleteTableRow(table);
+          })
+        }
         fixedReferenceTable.forEach((table) => {
-          this.props.updateTable(table)
+          this.props.addTableRow(table)
         })
       }
 
@@ -180,7 +187,6 @@ const mapStateToProps = state => ({
   flows: state.flows.data,
   referenceTables: state.referenceTables.referenceTables,
   schema: getResourceSchema(state),
-  schemaFeedback: state.schemaValidation.schemaFeedback,
   modificationList: state.modification.modificationList,
   isModification: state.ui.isModification,
   modificationIndex: state.modification.modificationIndex
@@ -189,7 +195,8 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps, {
   setStep,
   updateFlows,
-  updateTable,
+  addTableRow,
+  deleteTableRow,
   revalidateRows,
   hideModification,
   selectError,

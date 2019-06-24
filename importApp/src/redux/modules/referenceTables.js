@@ -5,21 +5,29 @@ import {
 } from 'd3-dsv';
 import {Base64} from 'js-base64';
 
+import {pullAll, isEqual} from 'lodash';
+
 import {
   FETCH_TABLES_SUCCESS,
   FETCH_DATAPACKAGE_SUCCESS,
 
 } from './repoData';
 
-export const UPDATE_TABLE = 'UPDATE_TABLE';
+export const ADD_TABLE_ROW = 'ADD_TABLE_ROW';
 export const INIT_TABLES = 'INIT_TABLES';
+export const DELETE_TABLE_ROW = 'DELETE_TABLE_ROW';
 
 export const initTables = () => ({
   type: INIT_TABLES,
 })
 
-export const updateTable = (payload) => ({
-  type: UPDATE_TABLE,
+export const addTableRow = (payload) => ({
+  type: ADD_TABLE_ROW,
+  payload
+})
+
+export const deleteTableRow = (payload) => ({
+  type: DELETE_TABLE_ROW,
   payload
 })
 
@@ -48,10 +56,18 @@ export default createReducer(initialState, {
     state.referenceTables = referenceTables;
     state.originalLength = originalLength
   },
-  UPDATE_TABLE: (state, {payload}) => {
+  DELETE_TABLE_ROW: (state, {payload}) => {
+    const {data, resourceName} = payload;
+    let newTable = state.referenceTables[resourceName].slice();
+    newTable = newTable.filter((row) =>{
+      return !data.some((r) => { return isEqual(row, r) })
+    });
+    state.referenceTables[resourceName] = newTable
+  },
+  ADD_TABLE_ROW: (state, {payload}) => {
     const {data, resourceName} = payload;
     const newTable = state.referenceTables[resourceName].slice();
-    newTable.splice(newTable.length, 0, ...data)
-    state.referenceTables[resourceName] = newTable
+    newTable.splice(newTable.length, 0, ...data);
+    state.referenceTables[resourceName] = newTable;
   },
 })

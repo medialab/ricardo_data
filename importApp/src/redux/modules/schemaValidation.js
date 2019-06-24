@@ -443,6 +443,7 @@ export const getGroupedErrors = (collectedErrors) => {
         errorType: errors[0].errorType,
         fixed: false,
         message: errors[0].message.replace(re, `${errors.length} rows`),
+        originalValue: errors[0].value,
         value: errors[0].value, 
         errors
       }

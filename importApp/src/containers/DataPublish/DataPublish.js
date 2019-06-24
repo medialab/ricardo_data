@@ -1,11 +1,12 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {groupBy} from 'lodash';
+import {groupBy, pick} from 'lodash';
 
 import {
   Button,
   Control,
   Field,
+  Help
 } from 'design-workshop';
 
 import {
@@ -36,16 +37,27 @@ class DataPublish extends React.Component {
     this.setState({isModalShow: false})
   }
 
-  // handleUpdateRemoteFiles= (auth) => {
-  //   const {flows, tables, repoData} = this.props;
-  //   const repoTables = repoData.tables;
-  //   console.log(repoTables);
-  // }
-
   render () {
-    const {flows, refereceTables, repoData, referenceTables, originalLength} = this.props;
-    const {selectedBranch} = repoData;
+    const {flows, repoData, referenceTables, originalLength} = this.props;
+    const {selectedBranch, remoteFilesUpdated, remoteReponse} = repoData;
     const repoTables = repoData.tables;
+    const status = remoteReponse.map((response) => {
+      if (response.error) {
+        return {
+          requestSuccess: false,
+          statusText: response.error.response.statusText,
+          url: response.error.config.url,
+          message: response.error.response.data.message 
+        }
+        // return pick(response.error.response, ['data', 'status', 'statusText'])
+      } else {
+        return {
+          requestSuccess: true,
+          url: response.config.url
+        }
+        // return pick(response, ['data', 'status', 'statusText'])
+      }
+    })
 
     let updatedTables = [];
 
@@ -65,8 +77,28 @@ class DataPublish extends React.Component {
     const parsedFlows = csvParse(flows.data.map(d => d.join(',')).join('\n'));
     const groupedFlows = groupBy(parsedFlows, (item) => item['source']);
 
-    const handleUpdateRemoteFiles = () => {
-      console.log(updatedTables);
+
+    const handleUpdateRemoteFiles= (auth) => {
+      this.handleCloseModal();
+
+      const flowFiles = Object.keys(groupedFlows).map((file) => {
+        return {
+          fileName: `${file}.csv`,
+          data: groupedFlows[file]
+        }
+      });
+      const tableFiles = updatedTables.map((table) => {
+        return {
+          fileName: `${table.name}.csv`,
+          data: referenceTables[table.name],
+          sha: repoTables[table.name].sha
+        }
+      })
+      this.props.updateRemoteFiles({
+        auth,
+        files: flowFiles.concat(tableFiles),
+        branch: selectedBranch.name
+      })
     }
 
     return (
@@ -76,11 +108,20 @@ class DataPublish extends React.Component {
           <Control>
             <Button isColor="info" onClick={handleExport}>Export fixed flows table</Button>
           </Control>
-          <Control>
+          <Control style={{}}>
             <Button isColor="info" onClick={this.handleOpenModal}>Publish tables to "{selectedBranch.name}" branch</Button>
           </Control>
         </Field>
-        <LoginModal isActive={this.state.isModalShow} closeModal={this.handleCloseModal} onSubmitLogin={handleUpdateRemoteFiles}/>
+        <Field>
+          {remoteFilesUpdated && status.map((d) => {
+              return(
+                d.requestSuccess ? 
+                <Help isColor='success'>{d.url}</Help> :
+                <Help isColor='danger'>{d.url} - {d.statusText} - {d.message}</Help>
+              )
+          }) }
+        </Field>
+        <LoginModal isActive={this.state.isModalShow} closeModal={this.handleCloseModal} onSubmitLogin={handleUpdateRemoteFiles} />
       </div>
     )
   }
