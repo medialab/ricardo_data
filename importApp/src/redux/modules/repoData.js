@@ -30,11 +30,13 @@ export const CREATE_BRANCH_REQUEST = 'CREATE_BRANCH_REQUEST';
 export const CREATE_BRANCH_SUCCESS = 'CREATE_BRANCH_SUCCESS';
 export const CREATE_BRANCH_FAILURE = 'CREATE_BRANCH_FAILURE';
 
+export const LOGIN_CREATE_BRANCH_REQUEST = 'LOGIN_CREATE_BRANCH_REQUEST';
+export const LOGIN_CREATE_BRANCH_SUCCESS = 'LOGIN_CREATE_BRANCH_SUCCESS';
+export const LOGIN_CREATE_BRANCH_FAILURE = 'LOGIN_CREATE_BRANCH_FAILURE';
+
 export const UPDATE_REMOTE_FILES_REQUEST = 'UPDATE_REMOTE_FILES_REQUEST';
 export const UPDATE_REMOTE_FILES_SUCCESS = 'UPDATE_REMOTE_FILES_SUCCESS';
 export const UPDATE_REMOTE_FILES_FAILURE = 'UPDATE_REMOTE_FILES_FAILURE';
-
-export const SELECT_BRANCH = 'SELECT_BRANCH';
 
 export const tablesList = [
   {
@@ -71,11 +73,6 @@ const DEFAULT_MESSAGE = 'update data'
 /**
  * ACTIONS
  */
-
-export const selectBranch = (payload) => ({
-  type: SELECT_BRANCH,
-  payload
-})
 
 export const fetchBranches = (payload) => (dispatch) => {
   dispatch({
@@ -235,6 +232,52 @@ export const createBranch = (payload) => (dispatch) => {
   }))
 }
 
+export const  loginCreateBranch = (payload) => (dispatch) => {
+  dispatch({
+    type: LOGIN_CREATE_BRANCH_REQUEST,
+    payload
+  })
+  const {username, token} = payload;
+
+  const github = new Octokat({
+    username: username,
+    password: token
+  });
+
+  dispatch(async () => {
+    try {
+      let repo = await github.repos(owner, repoName).fetch();
+      let branches = await repo.branches.fetch();
+      let selectedBranch = branches.items.find((branch) => branch.name === username);
+      if (!selectedBranch) {
+        const refBranch = branches.items.find((branch) => branch.name === 'master');
+        selectedBranch = await repo.git.refs.create({
+          ref: `refs/heads/${username}`,
+          sha: refBranch.commit.sha
+        })
+      }
+      dispatch({
+        type: LOGIN_CREATE_BRANCH_SUCCESS,
+        payload: {
+          name: username,
+          ref: selectedBranch
+        }
+      })
+
+    } catch(error) {
+      console.error(error)
+      dispatch({
+        type: LOGIN_CREATE_BRANCH_FAILURE,
+        payload: {
+          error
+        }
+      })
+    }
+  })
+  
+
+}
+
 /**
  * REDUCER
  */
@@ -267,36 +310,17 @@ export default function reducer(state = initialState, action){
         ...state,
         branches: payload.branches
       }
-    case CREATE_BRANCH_SUCCESS:
+    case LOGIN_CREATE_BRANCH_SUCCESS:
       return {
         ...state,
         selectedBranch: payload,
         isBranchCreated: true,
-        branchToCreated: null
       }
-    case CREATE_BRANCH_FAILURE:
+    case LOGIN_CREATE_BRANCH_FAILURE:
       return {
         ...state,
         selectedBranch: null,
         isBranchCreated: false
-      }
-    case SELECT_BRANCH:
-      const selectedBranch = state.branches.find((branch) => branch.name === payload.branch);
-      if (selectedBranch) {
-        return {
-          ...state,
-          selectedBranch,
-          isBranchCreated: true,
-          tables: null
-        }
-      } else {
-        return {
-          ...state,
-          branchToCreated: payload.branch,
-          isBranchCreated: false,
-          selectedBranch: null,
-          tables: null
-        }
       }
     case UPDATE_REMOTE_FILES_REQUEST:
       return {

@@ -8,14 +8,12 @@ import {
 } from 'design-workshop';
 
 import { 
-  selectBranch,
-  createBranch,
-  fetchBranches,
   fetchAllTables,
   fetchDatapackage
 } from '../../redux/modules/repoData';
 
-import {loginGithub} from '../../redux/modules/auth';
+import {loginCreateBranch} from '../../redux/modules/repoData';
+
 import GithubAuthModal from '../../components/GithubAuthModal';
 
 
@@ -27,16 +25,10 @@ class DataPrep extends React.Component {
     }
   }
   componentDidMount() {
-    // const {repoData} = this.props
-    // if (!repoData.tables && !repoData.datapackage) {
-    //   this.props.fetchDatapackage()
-    //   this.props.fetchAllTables({branch:'master'})
-    // }
     this.props.fetchDatapackage()
   }
    
   handleShowLogin =()=> {
-    this.props.fetchBranches()
     this.setState({
       isModalShow: true
     })
@@ -49,28 +41,13 @@ class DataPrep extends React.Component {
   }
    
   handleLogin = (payload) => {
-    this.props.loginGithub(payload);
+    this.props.loginCreateBranch(payload);
     this.handleCloseModal()
   }
 
-  handleCreateBranch = () => {
-    const {auth, repoData} = this.props;
-    const {branches, branchToCreated} = repoData;
-    // TODO: hardcoded
-    const refBranch = branches.find((branch) => branch.name === 'master');
-    if (refBranch) {
-      this.props.createBranch({
-        branch: branchToCreated,
-        auth,
-        reference: {
-          sha: refBranch.commit.sha
-        }
-      })
-    }
-  }
   renderFetchTable() {
-    const {repoData, auth} = this.props;
-    const {selectedBranch, branchToCreated, tables, isBranchCreated} = repoData;
+    const {repoData} = this.props;
+    const {selectedBranch, tables, isBranchCreated} = repoData;
 
     const handleGetTables = () => {
       this.props.fetchAllTables({branch: selectedBranch.name});
@@ -78,15 +55,9 @@ class DataPrep extends React.Component {
 
     return (
       <div>
-        {branchToCreated &&
-          <div>
-            <Help isColor="danger">No previous working branch</Help>
-            <Button isColor="info" onClick={this.handleCreateBranch}>Create a new branch</Button>
-          </div>
-        }
         {isBranchCreated ? 
           <Help isColor="success">branch "{selectedBranch.name}" is created</Help> : 
-          <Help isColor="danger">could not create branch "{branchToCreated}"</Help>
+          <Help isColor="danger">could not get branch from github, try login again</Help>
         }
         {
           selectedBranch && !tables &&
@@ -101,8 +72,8 @@ class DataPrep extends React.Component {
   }
 
   render () {
-    const {repoData, isLogined} = this.props;
-    const {branches, selectedBranch, tables} = repoData;
+    const {repoData} = this.props;
+    const {selectedBranch} = repoData;
   
     return (
       <div>
@@ -118,13 +89,9 @@ class DataPrep extends React.Component {
           </Select>
           <Button isColor="info" onClick={handleGetTables}>Fetch</Button> */}
           <Button isColor="info" onClick={this.handleShowLogin}>
-            <span>{isLogined ? "Re-Login" : "Login"} to get branch</span>
+            <span>Login to get branch</span>
           </Button>
-          {isLogined ? 
-            <Help isColor="success">you are logined</Help> :
-            <Help isColor="danger">you are  not logined</Help> 
-          }
-          {isLogined && this.renderFetchTable()}
+          {selectedBranch && this.renderFetchTable()}
           <GithubAuthModal 
             isActive={this.state.isModalShow}
             isCommit={false}
@@ -137,15 +104,11 @@ class DataPrep extends React.Component {
 
 const mapStateToProps = state => ({
  repoData: state.repoData,
- isLogined: state.auth.isLogined,
  auth: state.auth.auth
 })
 
 export default connect(mapStateToProps, {
-  loginGithub,
-  fetchBranches,
-  createBranch,
-  selectBranch,
+  loginCreateBranch,
   fetchAllTables,
   fetchDatapackage
 })(DataPrep);
