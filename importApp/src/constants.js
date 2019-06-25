@@ -20,3 +20,11 @@ export const RANKED_FIELDS = {
   "export_import|special_general": 13,
   "currency|year|reporting": 14
 }
+
+export const LABEL_FIELDS_FK_SOLVED = {
+  'partner': 'RICname',
+  'reporting': 'RICname',
+  'currency': 'modified_currency',
+  'export_import': 'modified_export_import',
+  'special_general': 'modified_special_general'
+}
