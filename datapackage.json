@@ -203,7 +203,8 @@
             "type": "string",
             "description": "Unique identifier generated from metadata as a slug",
             "constraints":{
-              "unique":true
+              "unique":true,
+              "required": true
             }
           },
           {
@@ -214,7 +215,10 @@
           {
             "name": "name",
             "type": "string",
-            "description": "Name of the source: title of the volume/book/research paper"
+            "description": "Name of the source: title of the volume/book/research paper",
+            "constraints":{
+              "required": true
+            }
           },
           {
             "name": "editor",
@@ -261,7 +265,8 @@
             "type": "string",
             "description": "source category: article, book, database, statistical series, website",
             "constraints":{
-              "enum":["article","book","database","statistical series","website"]
+              "enum":["article","book","database","statistical series","website"],
+              "required": true
             }
           },
           {
@@ -274,7 +279,8 @@
             "type": "string",
             "description": "Type of source: estimation, primary, secondary",
             "constraints":{
-              "enum":["estimation","primary","secondary"]
+              "enum":["estimation","primary","secondary"],
+              "required": true
             }
           }
        ]}
@@ -292,7 +298,8 @@
               "type": "string",
               "description": "name of the RICentities (unique identifier)",
               "constraints":{
-                "unique":true
+                "unique":true,
+                "required":true
               }
             },
             {
@@ -331,7 +338,8 @@
               "type": "string",
               "description": "name of a reportnig and/or partner as found in source.s (unique identifier)",
               "constraints":{
-                "unique":true
+                "unique":true,
+                "required":true
               }
             },
             {
@@ -342,7 +350,10 @@
             {
               "name": "RICname",
               "type": "string",
-              "description": "the RICname this original name is translated into"
+              "description": "the RICname this original name is translated into",
+              "constraints":{
+                "required":true
+              }
             } 
           ],
           "foreignKeys": [
@@ -463,15 +474,11 @@
               "description": "The translated currency name"
             }
         ],
-        "foreignKeys": [
-          {
-            "fields": "reporting",
-            "reference": {"resource": "entity_names", "fields": "original_name"}
-          },
+        "foreignKeys": [  
           {
             "fields": ["modified_currency", "year"],
             "reference": {"resource": "exchange_rates", "fields": ["modified_currency", "year"]}
-          },
+          }
         ]
       }
     },
@@ -498,7 +505,8 @@
               "type": "string",
               "description": "translated export/import",
               "constraints":{
-                "enum":["Exp","Exp+Imp","Imp","Re-exp","Re-imp"]
+                "enum":["Exp","Exp+Imp","Imp","Re-exp","Re-imp"],
+                "required": true
               }
             },
             {

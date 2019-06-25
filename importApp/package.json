@@ -1,0 +1,58 @@
+{
+  "name": "ricardo-data-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": ".",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.18",
+    "@fortawesome/free-solid-svg-icons": "^5.8.2",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "axios": "^0.18.0",
+    "d3-dsv": "^1.1.1",
+    "datapackage": "^1.1.1",
+    "design-workshop": "git+https://github.com/medialab/design-workshop.git",
+    "file-saver": "^2.0.2",
+    "js-base64": "^2.5.1",
+    "localforage": "^1.7.3",
+    "lodash": "^4.17.11",
+    "octokat": "^0.10.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.0.3",
+    "react-scripts": "^3.0.1",
+    "react-select": "^3.0.4",
+    "redux": "^4.0.1",
+    "redux-persist": "^5.10.0",
+    "redux-starter-kit": "^0.5.1",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0",
+    "tableschema": "git+https://github.com/mydu/tableschema-js.git",
+    "xlsx": "^0.14.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
