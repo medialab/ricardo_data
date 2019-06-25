@@ -12,7 +12,6 @@ import {
   Control,
   Input,
   Help,
-  Select as SimpleSelect
 } from 'design-workshop'
 
 
@@ -37,7 +36,7 @@ class FieldInput extends React.Component {
     
     let options;
     if (fieldSchema.constraints && fieldSchema.constraints.enum) {
-      options = getEnumOptions(fieldSchema.constraints.enum, fieldSchema.constraints.required)
+      options = getEnumOptions(fieldSchema.constraints.enum)
     }
     return {
       fieldSchema,
@@ -165,15 +164,10 @@ class FieldInput extends React.Component {
     }
     else if (fieldSchema.constraints && fieldSchema.constraints.enum) {
       return (
-        <SimpleSelect value={value} onChange={this.handleChange}>
-          {
-            this.state.options.map((item, index) => {
-              return (
-                <option key={index} value={item.value}>{item.label}</option>
-              )
-            })
-          }
-        </SimpleSelect>
+        <Select isClearable={true}
+        value= {generateValue(value)}
+        options={this.state.options}
+        onChange={this.handleChange} />
       )
     }
     else {

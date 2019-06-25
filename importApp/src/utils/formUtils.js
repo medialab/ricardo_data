@@ -1,18 +1,12 @@
 import {uniq} from 'lodash';
 
-export const getEnumOptions = (enumList, required=false) => {
+export const getEnumOptions = (enumList) => {
   const options = enumList.map((e) => {
     return {
       label: e,
       value: e
     }
   })
-  if (!required) {
-    options.unshift({
-      value: '',
-      label: 'none'
-    })
-  }
   return options
 }
 

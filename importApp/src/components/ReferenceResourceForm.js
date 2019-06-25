@@ -1,7 +1,7 @@
 import React from 'react';
 import {Table} from 'tableschema';
 
-import {keys, values, mapValues, capitalize, pick} from 'lodash';
+import {keys, values, mapValues, capitalize, trim, pick, sortBy} from 'lodash';
 
 import {
   Button,
@@ -31,10 +31,7 @@ class ReferenceResourceForm extends React.Component {
     const newResource = schema.fields.reduce((res, field) => {
       let value = '';
       let valid = true;
-      if (field.constraints && field.constraints.enum) {
-        const enumList = field.constraints.enum
-        value = enumList[0]
-      }
+
       if (field.constraints && field.constraints.required && !field.constraints.enum ) {
         valid = false
       }
@@ -248,7 +245,8 @@ class ReferenceResourceForm extends React.Component {
           <Column style={{height: '50vh', overflow:'auto'}}>
             <h3>New row to "{resourceDescriptor.name}" table</h3>
             {
-              schema.fields.map((field, index) => {
+              sortBy(schema.fields, (field) => field.constraints && field.constraints.required)
+              .map((field, index) => {
                 return (
                   <FieldInput 
                     key={index}
