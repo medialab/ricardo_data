@@ -18,7 +18,6 @@ import {nonChangableFields} from '../constants'
 
 import {validateResource} from '../redux/modules/schemaValidation';
 
-import NewResourceForm from './NewResourceForm';
 import NewResourceRow from './NewResourceRow';
 import ReferenceResourceForm from './ReferenceResourceForm';
 
