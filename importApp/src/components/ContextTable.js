@@ -46,7 +46,7 @@ const ContextTable = ({
                           </span>
                           {
                             fixedValue && 
-                              <span  className="has-text-success"> ->{fixedValue}</span>
+                              <span  className="has-text-success">->{fixedValue}</span>
                           }
                         </div>
                       );

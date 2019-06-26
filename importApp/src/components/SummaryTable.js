@@ -62,9 +62,9 @@ const SummaryTable = ({
                         case 2:
                           return (
                             <div key={columnIndex} className="table-cell">
-                              {originalValue !== value && <span className="has-text-danger">{originalValue} -></span>}
+                              {originalValue !== value && <span className="has-text-danger">{originalValue}-></span>}
                               <span className="has-text-danger">{isNull(value)? 'none' : value }</span>
-                              {fixed && <span className="has-text-success"> ->{fixedValue === ''?'none': fixedValue}</span>}
+                              {fixed && <span className="has-text-success">->{fixedValue === ''?'none': fixedValue}</span>}
                               <HelpPin>{message}</HelpPin>
                             </div>);
                         case 3:

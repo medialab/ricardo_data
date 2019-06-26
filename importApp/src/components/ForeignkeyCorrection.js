@@ -14,7 +14,7 @@ import {
   Help,
 } from 'design-workshop';
 
-import {NON_CHANGABLE_FIELDS} from '../constants'
+import {NON_CHANGABLE_FIELDS, LABEL_FIELDS_FK_SOLVED} from '../constants'
 
 import {validateResource} from '../redux/modules/schemaValidation';
 
@@ -112,9 +112,17 @@ class ForeignKeyCorrection extends React.Component {
 
     const fieldList = modificationItem.field.split('|');
     const fixedValues = fieldList.reduce((res, field, index) => {
+      let fixedValue = fieldList.length > 1 ? newResource.data[0][foreignKeyField.reference.fields[index]]:
+                                              newResource.data[0][foreignKeyField.reference.fields]
+      if (Object.keys(LABEL_FIELDS_FK_SOLVED).indexOf(field) !== -1) {
+        // incase the value of mapping is not found
+        if (newResource.data[0][LABEL_FIELDS_FK_SOLVED[field]]) {
+          fixedValue = newResource.data[0][LABEL_FIELDS_FK_SOLVED[field]]
+        }
+      }
       return {
         ...res,
-        [field]: fieldList.length > 1 ? newResource.data[0][foreignKeyField.reference.fields[index]] : newResource.data[0][foreignKeyField.reference.fields]
+        [field]: fixedValue
       }
     }, {})
     this.setState({
@@ -182,7 +190,7 @@ class ForeignKeyCorrection extends React.Component {
 
     return (
       <FieldContainer>
-        <Label className="has-text-success">{!isNonchangableField ? "Fixed with value": "Keep original value"}</Label>
+        <Label className="has-text-success">Fixed with value</Label>
         <p className="has-text-success">{printValue}</p>
         <Help isColor="success">
           {!isNonchangableField && <li>total {modificationItem.errors.length} rows updated</li>}
