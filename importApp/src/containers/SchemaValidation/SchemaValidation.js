@@ -20,9 +20,9 @@ class SchemaValidation extends React.Component {
   }
   render() {
     const {schemaFeedback, modificationList} = this.props;
-    let isNextStepDisabled = false;
+    let isRequiredFieldMissing = false;
     if (schemaFeedback && schemaFeedback.collectedErrors) {
-      isNextStepDisabled = (schemaFeedback.collectedErrors['reporting'] && schemaFeedback.collectedErrors['reporting'].errorType === 'ERROR_FORMAT') || 
+      isRequiredFieldMissing = (schemaFeedback.collectedErrors['reporting'] && schemaFeedback.collectedErrors['reporting'].errorType === 'ERROR_FORMAT') || 
                             (schemaFeedback.collectedErrors['partner'] && schemaFeedback.collectedErrors['partner'].errorType === 'ERROR_FORMAT')
     }
     const handlePrevStep = () => this.props.setStep({id: '0'})
@@ -44,7 +44,7 @@ class SchemaValidation extends React.Component {
           <div>
             <span className="has-text-danger has-text-weight-bold">
               Found errors in {schemaFeedback.errors.length} rows of {Object.keys(schemaFeedback.collectedErrors).length} fields
-              {isNextStepDisabled && <span>, value of required field is missing, please fix it locally first</span>}
+              {isRequiredFieldMissing && <span>, value of required field is missing, please fix it locally first</span>}
             </span>
             <OverviewTable collectedErrors={schemaFeedback.collectedErrors} />
             <div style={{
@@ -58,7 +58,7 @@ class SchemaValidation extends React.Component {
               </Button>
               <Button 
                 isColor="info"
-                isDisabled= {isNextStepDisabled}
+                isDisabled= {isRequiredFieldMissing}
                 onClick={handleNextStep}>
                   Review Errors
               </Button>

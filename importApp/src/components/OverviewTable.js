@@ -2,6 +2,7 @@ import React from 'react';
 import {groupBy, sortBy} from 'lodash';
 
 import {RANKED_FIELDS} from '../constants'
+import { file } from '@babel/types';
 
 const OverviewTable = ({
   className,
@@ -37,11 +38,21 @@ const OverviewTable = ({
                 <div key={rowIndex} className="table-row">
                   {
                     columnNames.map((columnName, columnIndex) => {
-                      let cellValue;
-                      if(columnIndex === 0) cellValue = field.name;
-                      else if(columnIndex === 1) cellValue = field.errorType;
-                      else cellValue = `${distinctErrors} different invalid values, ${totalErrors} rows affected in total`
-                      return (<div key={columnIndex} className="table-cell">{cellValue}</div>)
+                      let missingRows = [];
+                      if (field.errorType === 'ERROR_FORMAT' && (field.name==='reporting' || field.name === 'partner')) {
+                        missingRows = field.errors.map((error) => error.rowNumber);
+                      }
+                      if(columnIndex === 0) return (<div key={columnIndex} className="table-cell">{field.name}</div>)
+                      else if(columnIndex === 1) return (<div key={columnIndex} className="table-cell">{field.errorType}</div>)
+                      else return (
+                        <div key={columnIndex} className="table-cell">
+                          <span>{distinctErrors} different invalid values, {totalErrors} rows affected in total</span>
+                          {missingRows.map((rowNumber)=> {
+                            return (<li className="has-text-danger">missing value in row {rowNumber}</li>)
+                          })}
+                        </div>
+                      )
+                      
                     })
                   }
                 </div>
