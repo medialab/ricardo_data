@@ -54,7 +54,7 @@ const App = ({
   }
   const handleExport = () => {
     const {file, data} = flows;
-    downloadFlow(data, file.name, 'xlsx')
+    downloadFlow(data, `${file.name}_ongoing_corrections`, 'csv')
   }
 
   const handleSetStep = (step) => {

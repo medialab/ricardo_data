@@ -36,7 +36,7 @@ const FileUpload = ({
       .then((data) => {
         importFlows({
           file: {
-            name: file.name
+            name: file.name.split('.')[0]
           },
           data
         });

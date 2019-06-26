@@ -10,7 +10,8 @@ export function downloadFlow (array, fileName, ext) {
   let file;
   const header = array[0]
   switch(ext) {
-    case 'csv': {
+    case 'csv':
+    default: {
       const csvString = csvFormatRows(array)
       file = new File(
         [csvString],
@@ -20,12 +21,11 @@ export function downloadFlow (array, fileName, ext) {
       FileSaver.saveAs(file)
       break
     }
-    case 'xlsx':
-    default: {
+    case 'xlsx': {
       const sheet = XLSX.utils.aoa_to_sheet(array, {header});
       const wb = XLSX.utils.book_new();
       XLSX.utils.book_append_sheet(wb, sheet, 'SheetJS');
-      XLSX.writeFile(wb, fileName);
+      XLSX.writeFile(wb, `${fileName}.${ext}`);
       break
     }
   }

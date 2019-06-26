@@ -55,7 +55,7 @@ class DataPublish extends React.Component {
 
     const handleExportFlow = () => {
       const {file, data} = flows;
-      downloadFlow(data, file.name, 'csv')
+      downloadFlow(data, `${file.name}_corrections`, 'csv')
     }
     
     const handleExportTables = async () => {
