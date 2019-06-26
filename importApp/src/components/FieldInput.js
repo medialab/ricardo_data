@@ -5,6 +5,9 @@ import {Field} from 'tableschema';
 import {values, findIndex, uniq, groupBy, orderBy} from 'lodash';
 
 import Select from 'react-select';
+import Autosuggest from 'react-autosuggest';
+import theme from './theme.css';
+
 import {
   Button,
   Field as FieldContainer,
@@ -16,6 +19,7 @@ import {
 
 
 import {getEnumOptions, getOptions} from '../utils/formUtils';
+
 
 class FieldInput extends React.Component {
   constructor(props) {
@@ -44,7 +48,8 @@ class FieldInput extends React.Component {
       fieldValid: {
         valid: false
       },
-      options
+      options,
+      suggestions: []
     }
   }
 
@@ -108,12 +113,58 @@ class FieldInput extends React.Component {
     })
   }
 
+  // Autosuggest will call this function every time you need to update suggestions.
+  // You already implemented this logic above, so just use it.
+  onSuggestionsFetchRequested = (value, suggestedOptions) => {
+    const getSuggestions = (value, options) => {
+      const inputValue = value.trim().toLowerCase();
+      const inputLength = inputValue.length;
+
+      return inputLength === 0 ? [] : options.filter(option =>
+        option.toLowerCase().slice(0, inputLength) === inputValue
+      );
+    };
+    this.setState({
+      suggestions: getSuggestions(value, suggestedOptions)
+    });
+  };
+
+  // Autosuggest will call this function every time you need to clear suggestions.
+  onSuggestionsClearRequested = () => {
+    this.setState({
+      suggestions: []
+    });
+  };
+
+  handleSuggestionChange =  (event, { newValue }) => {
+    this.validateField(newValue)
+  };
+
+
+  // Use your imagination to render suggestions.
+  renderSuggestion = suggestion => (
+    <div>
+      {suggestion}
+    </div>
+  );
+
 
   renderField() {
-    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isNonchangable} = this.props;
-    const {fieldSchema, fieldValid, value} = this.state;
+    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isNonchangable, suggestedOptions} = this.props;
+    const {fieldSchema, fieldValid, value, suggestions} = this.state;
+
+    // Autosuggest will pass through all these props to the input.
+    const inputProps = {
+      placeholder: '',
+      value,
+      onChange: this.handleSuggestionChange
+    };
 
     let isReferenceField = false;
+    
+    const handleSuggestionsFetchRequested = ({value}) => {
+      this.onSuggestionsFetchRequested(value, suggestedOptions)
+    }
     let options;
 
     const generateValue = (value) => {
@@ -122,17 +173,15 @@ class FieldInput extends React.Component {
         label: value
       }
     }
-
     
     if (findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name || item.fields.indexOf(fieldSchema.name) !== -1) !== -1) {
       const index = findIndex(foreignKeys, (item)=>item.fields === fieldSchema.name || item.fields.indexOf(fieldSchema.name) !== -1)
-      const resourceName = foreignKeys[index].reference.resource;
       const referenceField = foreignKeys[index].reference.fields;
       isReferenceField = true;
       
       options = getOptions({
         tables: referenceTables,
-        resourceName,
+        resourceName: foreignKeys[index].reference.resource,
         referenceField: typeof(referenceField) === 'object' ? referenceField[0]: referenceField
       });
     }
@@ -169,6 +218,15 @@ class FieldInput extends React.Component {
         options={this.state.options}
         onChange={this.handleChange} />
       )
+    }
+    else if (suggestedOptions) {
+      return <Autosuggest
+      suggestions={suggestions}
+      onSuggestionsFetchRequested={handleSuggestionsFetchRequested}
+      onSuggestionsClearRequested={this.onSuggestionsClearRequested}
+      getSuggestionValue={(value) => value}
+      renderSuggestion={this.renderSuggestion}
+      inputProps={inputProps} />
     }
     else {
       return (

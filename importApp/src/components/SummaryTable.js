@@ -4,7 +4,7 @@ import {
   HelpPin,
   Button,
 } from 'design-workshop';
-import {nonChangableFields} from '../constants'
+import {NON_CHANGABLE_FIELDS} from '../constants'
 
 
 const SummaryTable = ({
@@ -38,7 +38,7 @@ const SummaryTable = ({
               const {field, errors,originalValue, value, message, fixed, fixedValues} = item;
               const fixedValue = values(fixedValues).join('|');
 
-              const isNonchangableField = difference(nonChangableFields, field.split('|')).length < nonChangableFields.length
+              const isNonchangableField = difference(NON_CHANGABLE_FIELDS, field.split('|')).length < NON_CHANGABLE_FIELDS.length
 
               const handleSelectError = () => {
                 onSelectError(errorIndex)

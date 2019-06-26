@@ -1,8 +1,6 @@
 export const MAXIMUM_FILE_SIZE = 10000000;
 export const DEFAULT_CHUNK_SIZE = 100;
 
-export const nonChangableFields = ['slug', 'export_import', 'special_general', 'reporting', 'partner', 'original_name', 'currency', 'year']
-
 export const RANKED_FIELDS = {
   "id": 0,
   'flow': 1,
@@ -28,3 +26,8 @@ export const LABEL_FIELDS_FK_SOLVED = {
   'export_import': 'modified_export_import',
   'special_general': 'modified_special_general'
 }
+export const NON_CHANGABLE_FIELDS = ['slug', 'export_import', 'special_general', 'reporting', 'partner', 'original_name', 'currency', 'year']
+
+export const SOURCE_SLUG_FIELDS = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
+
+export const SOURCE_SUGGESTION_FIELDS = ['name', 'editor', 'country', 'volumn_number', 'shelf_number']

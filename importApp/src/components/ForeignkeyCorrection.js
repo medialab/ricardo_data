@@ -14,7 +14,7 @@ import {
   Help,
 } from 'design-workshop';
 
-import {nonChangableFields} from '../constants'
+import {NON_CHANGABLE_FIELDS} from '../constants'
 
 import {validateResource} from '../redux/modules/schemaValidation';
 
@@ -178,7 +178,7 @@ class ForeignKeyCorrection extends React.Component {
     const {field, fixedValues, fixedReferenceTable, unchangable}= modificationItem;
     const fixedValue = values(fixedValues).join('|');
     const printValue = fixedValue.length ? fixedValue: 'none';
-    const isNonchangableField = difference(nonChangableFields, field.split('|')).length < nonChangableFields.length
+    const isNonchangableField = difference(NON_CHANGABLE_FIELDS, field.split('|')).length < NON_CHANGABLE_FIELDS.length
 
     return (
       <FieldContainer>

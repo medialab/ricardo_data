@@ -1,7 +1,7 @@
 import React from 'react';
 import {Table} from 'tableschema';
 
-import {keys, values, mapValues, capitalize, trim, pick, sortBy} from 'lodash';
+import {keys, values, mapValues,capitalize, pick, sortBy, uniq} from 'lodash';
 
 import {
   Button,
@@ -15,9 +15,8 @@ import {
 import FieldInput from './FieldInput';
 import NewResourceRow from './NewResourceRow';
 import NewRICentityForm from './NewRICentityForm';
-import {nonChangableFields} from '../constants';
+import {NON_CHANGABLE_FIELDS, SOURCE_SLUG_FIELDS, SOURCE_SUGGESTION_FIELDS} from '../constants';
 
-const slugFields = ['author','name', 'country', 'volume_date', 'volume_number', 'pages'];
 class ReferenceResourceForm extends React.Component {
   
   constructor(props) {
@@ -32,7 +31,7 @@ class ReferenceResourceForm extends React.Component {
       let value = '';
       let valid = true;
 
-      if (field.constraints && field.constraints.required && !field.constraints.enum ) {
+      if (field.constraints && field.constraints.required) {
         valid = false
       }
       if(originalValues && originalValues.find((item) => item.referenceField=== field.name) && field.name !== 'slug') {
@@ -60,9 +59,10 @@ class ReferenceResourceForm extends React.Component {
       ...this.state.newResource,
       [payload.fieldName]: payload
     };
-    const value = slugFields.reduce((res, f)=> {
+    const re = /[^a-zA-Z0-9]+/g;
+    const value = SOURCE_SLUG_FIELDS.reduce((res, f)=> {
       const printValue = preFields[f].value || ''
-      return res + capitalize(printValue)
+      return res + capitalize(printValue.trim().replace(re, ''))
     }, '');
     return {
       fieldName: 'slug',
@@ -73,7 +73,7 @@ class ReferenceResourceForm extends React.Component {
   handleFieldChange = (payload) => {
     const {resourceDescriptor} = this.props;
 
-    if (this.state.newResource['slug'] && slugFields.indexOf(payload.fieldName) !== -1) {
+    if (this.state.newResource['slug'] && SOURCE_SLUG_FIELDS.indexOf(payload.fieldName) !== -1) {
       const slug = this.getSlug(payload);
       this.setState({
         newResource: {
@@ -185,6 +185,7 @@ class ReferenceResourceForm extends React.Component {
     const {descriptor, resourceDescriptor, referenceTables, originalValues} = this.props;
     const {schema} = resourceDescriptor;
     const fieldsInvalid = values(this.state.newResource).filter((field) => field.fieldValid && !field.fieldValid.valid);
+
     const getReferenceDescriptor = () => {
       if (schema.foreignKeys) {
         const {reference} = schema.foreignKeys[0];
@@ -247,13 +248,18 @@ class ReferenceResourceForm extends React.Component {
             {
               sortBy(schema.fields, (field) => field.constraints && field.constraints.required)
               .map((field, index) => {
+                let suggestedOptions;
+                if (resourceDescriptor.name === 'sources' && SOURCE_SUGGESTION_FIELDS.indexOf(field.name)!== -1) {
+                  suggestedOptions = uniq(referenceTables['sources'].map((d) => d[field.name]))
+                }
                 return (
                   <FieldInput 
                     key={index}
-                    isNonchangable={nonChangableFields.indexOf(field.name) !==-1}
+                    isNonchangable={NON_CHANGABLE_FIELDS.indexOf(field.name) !==-1}
                     fieldDescriptor={field}
                     foreignKeys={schema.foreignKeys}
                     referenceTables={referenceTables}
+                    suggestedOptions={suggestedOptions}
                     fieldValue={(this.state.newResource[field.name] && this.state.newResource[field.name].value) || ''}
                     showNewReference={this.state.showNewReference}
                     newReference={this.state.newReference}
