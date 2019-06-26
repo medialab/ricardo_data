@@ -150,7 +150,7 @@ class FieldInput extends React.Component {
 
 
   renderField() {
-    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isNonchangable, suggestedOptions} = this.props;
+    const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isNonchangable, isValidationField, suggestedOptions} = this.props;
     const {fieldSchema, fieldValid, value, suggestions} = this.state;
 
     // Autosuggest will pass through all these props to the input.
@@ -205,7 +205,7 @@ class FieldInput extends React.Component {
             <div>{fieldValue}</div>
           }
           {
-            !this.state.value &&
+            (!this.state.value || isValidationField)  &&
             <Button isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
           } 
         </div>

@@ -25,7 +25,7 @@ class ReferenceResourceForm extends React.Component {
   }
 
   getStateFromProps = () => {
-    const {resourceDescriptor, originalValues} = this.props;
+    const {resourceDescriptor, originalValues, prefixedValues} = this.props;
     const {schema} = resourceDescriptor;
     const newResource = schema.fields.reduce((res, field) => {
       let value = '';
@@ -37,6 +37,10 @@ class ReferenceResourceForm extends React.Component {
       if(originalValues && originalValues.find((item) => item.referenceField=== field.name) && field.name !== 'slug') {
         value = originalValues.find((item) => item.referenceField=== field.name).value;
         valid = true;
+      }
+      if (prefixedValues && prefixedValues[field.name]) {
+        value = prefixedValues[field.name];
+        valid = true
       }
       return {
         ...res,
@@ -111,6 +115,7 @@ class ReferenceResourceForm extends React.Component {
       newReference: null,
       referenceMap: null,
       isRICentityGroup: false,
+      prefixedValues: null,
       newResource: {
         ...this.state.newResource,
         [field]: {
@@ -182,7 +187,7 @@ class ReferenceResourceForm extends React.Component {
   }
 
   render() {
-    const {descriptor, resourceDescriptor, referenceTables, originalValues} = this.props;
+    const {descriptor, resourceDescriptor, referenceTables, originalValues, prefixedValues} = this.props;
     const {schema} = resourceDescriptor;
     const fieldsInvalid = values(this.state.newResource).filter((field) => field.fieldValid && !field.fieldValid.valid);
 
@@ -211,12 +216,16 @@ class ReferenceResourceForm extends React.Component {
           exchange_rates: referenceTables['exchange_rates']
         };
         let table;
+        const prefixedValues = {
+          "modified_currency": this.state.newResource['modified_currency'].value
+        }
         try {
           table = await Table.load(source, {schema});
           const rows = await table.read({forceCast: true, relations});
           const errors = rows.filter((row) => row.errors);
           if (errors.length) {
             this.setState({
+              prefixedValues,
               resourceValid: {
                 valid: false,
                 message: errors[0].errors[0].errors[0].message
@@ -230,6 +239,7 @@ class ReferenceResourceForm extends React.Component {
           }
         } catch (error) {
           this.setState({
+            prefixedValues,
             resourceValid: {
               valid: false,
               message: error.message || 'validation fail'
@@ -255,12 +265,13 @@ class ReferenceResourceForm extends React.Component {
                 return (
                   <FieldInput 
                     key={index}
-                    isNonchangable={NON_CHANGABLE_FIELDS.indexOf(field.name) !==-1}
+                    isNonchangable={NON_CHANGABLE_FIELDS.indexOf(field.name) !==-1 || (prefixedValues && prefixedValues[field.name])}
+                    isValidationField={this.state.prefixedValues && this.state.prefixedValues[field.name]}
                     fieldDescriptor={field}
                     foreignKeys={schema.foreignKeys}
                     referenceTables={referenceTables}
                     suggestedOptions={suggestedOptions}
-                    fieldValue={(this.state.newResource[field.name] && this.state.newResource[field.name].value) || ''}
+                    fieldValue={(this.state.newResource[field.name] && this.state.newResource[field.name].value) || (prefixedValues && prefixedValues[field.name])}
                     showNewReference={this.state.showNewReference}
                     newReference={this.state.newReference}
                     onClickCreate={this.handleCreateNewReference}
@@ -290,6 +301,7 @@ class ReferenceResourceForm extends React.Component {
                 originalValues={originalValues.filter((item)=> item.field === 'year')}
                 resourceDescriptor={getReferenceDescriptor()} 
                 referenceTables={referenceTables}
+                prefixedValues={this.state.prefixedValues}
                 onSelectGroup={this.handleSelectGroup}
                 onCancel={this.handleHideNew}
                 onAddNew={this.handleAddNewReference} />
