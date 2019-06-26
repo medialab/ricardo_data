@@ -1,5 +1,7 @@
 import {all, get, put, post, spread} from 'axios';
 import {apiUri, branchUri, referenceUri, owner, repoName} from '../../config/default';
+import {DEFAULT_REF_BRANCH} from '../../constants';
+
 import Octokat from 'octokat';
 
 import { Base64 } from 'js-base64';
@@ -156,6 +158,9 @@ export const fetchDatapackage = () => (dispatch) => {
 }
 
 export const updateRemoteFiles = (payload) => (dispatch) => {
+  dispatch({
+    type: UPDATE_REMOTE_FILES_REQUEST,
+  });
   const {files, branch, auth} = payload;
 
   const github = new Octokat({
@@ -250,7 +255,7 @@ export const  loginCreateBranch = (payload) => (dispatch) => {
       let branches = await repo.branches.fetch();
       let selectedBranch = branches.items.find((branch) => branch.name === username);
       if (!selectedBranch) {
-        const refBranch = branches.items.find((branch) => branch.name === 'master');
+        const refBranch = branches.items.find((branch) => branch.name === DEFAULT_REF_BRANCH);
         selectedBranch = await repo.git.refs.create({
           ref: `refs/heads/${username}`,
           sha: refBranch.commit.sha
@@ -291,13 +296,17 @@ export default function reducer(state = initialState, action){
       return {
         ...state,
         tables: null,
-        remoteUpdateStatus: null,
-        remoteResponse: null
+        remoteUpdateStatus: null
       }
     case FETCH_TABLES_SUCCESS:
       return {
         ...state,
         tables: payload
+      }
+    case FETCH_TABLES_FAILURE:
+      return {
+        ...state,
+        tables: null
       }
     case FETCH_DATAPACKAGE_SUCCESS:
       return {

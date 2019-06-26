@@ -1,5 +1,6 @@
 export const MAXIMUM_FILE_SIZE = 10000000;
 export const DEFAULT_CHUNK_SIZE = 100;
+export const DEFAULT_REF_BRANCH = 'master';
 
 export const RANKED_FIELDS = {
   "id": 0,

@@ -6,7 +6,6 @@ import DataModification from './containers/DataModification';
 import DataPublish from './containers/DataPublish';
 import FileUpload from './containers/FileUpload';
 
-import ConfirmationModal from './components/ConfirmationModal';
 
 import SchemaValidation from './containers/SchemaValidation';
 import Layout from './containers/Layout';
@@ -22,7 +21,7 @@ import {
   hideModal
 } from './redux/modules/ui';
 
-import { initTables } from './redux/modules/referenceTables';
+import LeaveModificationModal from './components/LeaveModificationModal';
 
 const App = ({
   steps,
@@ -31,9 +30,9 @@ const App = ({
   repoData,
   flows,
   referenceTables,
+  originalLength,
   modificationList,
   //actions
-  initTables,
   setStep,
   showModal,
   hideModal
@@ -58,16 +57,16 @@ const App = ({
   }
 
   const handleSetStep = (step) => {
+    const {remoteUpdateStatus} = repoData;
     let fixed
     if (modificationList) {
       fixed = modificationList.filter((item) => item.fixed)
     }
-    if(fixed && step.id === '0') showModal();
+    if(fixed && step.id === '0' && remoteUpdateStatus !== 'updated') showModal();
     else setStep(step)
   }
 
   const handleDiscard = () => {
-    initTables();
     setStep(steps[0]);
   }
   
@@ -79,8 +78,9 @@ const App = ({
         onSetStep={handleSetStep}>
         {renderChildren()}
       </Layout>
-      <ConfirmationModal 
+      <LeaveModificationModal
         referenceTables={referenceTables}
+        originalLength={originalLength}
         isActive={isModalDisplay}
         onSelectDiscard={handleDiscard}
         onSelectDownload={handleExport}
@@ -94,14 +94,14 @@ const mapStateToProps = state => ({
   steps: state.ui.steps,
   isModalDisplay: state.ui.isModalDisplay,
   flows: state.flows,
-  referenceTables: state.referenceTables,
+  referenceTables: state.referenceTables.referenceTables,
+  originalLength: state.referenceTables.originalLength,
   selectedStep: state.ui.selectedStep,
   modificationList: state.modification.modificationList,
   repoData: state.repoData
  })
  
  export default connect(mapStateToProps, {
-  initTables,
   showModal,
   hideModal,
   setStep

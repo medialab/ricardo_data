@@ -2,6 +2,8 @@ import {
   START_MODIFICATION,
 } from './modification';
 
+import {INIT_TABLES} from './referenceTables';
+
 export const SET_STEP = 'SET_STEP';
 
 // export const SHOW_MODIFICATION = 'SHOW_MODIFICATION';
@@ -14,10 +16,17 @@ export const SELECT_ERROR = 'SELECT_ERROR';
 export const SHOW_CONFIRMATION_MODAL = 'SHOW_CONFIRMATION_MODAL';
 export const HIDE_CONFIRMATION_MODAL = 'HIDE_CONFIRMATION_MODAL';
 
-export const setStep = (payload) => ({
-  type: SET_STEP,
-  payload
-});
+export const setStep = (payload) => (dispatch) => {
+  if (payload.id === '0') {
+    dispatch({
+      type: INIT_TABLES
+    })
+  }
+  dispatch({
+    type: SET_STEP,
+    payload
+  });
+}
 
 export const showModal = () => ({
   type: SHOW_CONFIRMATION_MODAL

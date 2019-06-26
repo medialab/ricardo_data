@@ -65,7 +65,7 @@ class DataPrep extends React.Component {
         }
         {selectedBranch && (tables ?
           <Help isColor="success">tables from {selectedBranch.name} branch are loaded</Help>:
-          <Help isColor="danger">tables from {selectedBranch.name} branch are not loaded</Help>)
+          <Help isColor="danger">tables are not loaded, please reload from {selectedBranch.name} branch</Help>)
         }
       </div>
     )

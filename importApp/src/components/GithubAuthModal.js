@@ -59,7 +59,7 @@ class GithubAuthModal extends React.Component {
     let invalidInput = !this.state.username || !this.state.token;
     
     if (isCommit) {
-      invalidInput = values(this.state).find((value) => !value)
+      invalidInput =!this.state.username || !this.state.token || !this.state.message;
     }
 
     return (

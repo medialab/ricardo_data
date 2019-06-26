@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import {connect} from 'react-redux';
 import {groupBy, pick} from 'lodash';
@@ -6,6 +7,8 @@ import {
   Button,
   Control,
   Field,
+  Columns,
+  Column,
   Help
 } from 'design-workshop';
 
@@ -14,12 +17,13 @@ import {
 } from 'd3-dsv';
 
 import {exportFlows} from '../../redux/modules/flows';
+import {setStep} from '../../redux/modules/ui';
 
 import {updateRemoteFiles} from '../../redux/modules/repoData';
 
 import {downloadFlow, downloadTable} from '../../utils/fileExporter';
-import ModificationSummary from '../../components/ModificationSummary';
 import GithubAuthModal from '../../components/GithubAuthModal';
+
 
 class DataPublish extends React.Component {
   constructor(props) {
@@ -58,13 +62,6 @@ class DataPublish extends React.Component {
       downloadFlow(data, `${file.name}_corrections`, 'csv')
     }
     
-    const handleExportTables = async () => {
-      updatedTables.forEach((table)=>{
-        downloadTable(referenceTables[table.name], table.name, 'csv')
-      });
-      await new Promise(r => setTimeout(r, 1000))
-    }
-
     const parsedFlows = csvParse(flows.data.map(d => d.join(',')).join('\n'));
     const groupedFlows = groupBy(parsedFlows, (item) => item['source']);
 
@@ -91,19 +88,51 @@ class DataPublish extends React.Component {
         branch: selectedBranch.name
       })
     }
+    const handleStartOver = () => {
+      this.props.setStep({id: '0'})
+    }
 
     return (
       <div>
-        <ModificationSummary groupedFlows={groupedFlows} updatedTables={updatedTables} />
+        <Columns>
+          <Column>
+            <strong>fixed flows table by source</strong>
+            {
+              Object.keys(groupedFlows).map((source) => {
+                return (
+                  <p>{source}.csv</p>
+                )
+              })
+            }
+          </Column>
+          <Column>
+            <div>
+              <strong>updated reference tables</strong>
+              {
+                updatedTables.map((table)=>{
+                  const handleExportTable = () => {
+                    downloadTable(referenceTables[table.name], table.name, 'csv')
+                  }
+                  return (
+                    <Control>
+                      <a href="#" onClick={handleExportTable}>{table.name} table: {table.updatedRows.length} rows added</a>
+                    </Control>
+                  )
+                })
+              }
+            </div>
+          </Column>
+        </Columns>
         <Field isGrouped>
           <Control>
-            <Button isColor="info" onClick={handleExportFlow}>Export fixed flows table</Button>
+            <Button isColor="info" onClick={handleExportFlow}>Download fixed flows</Button>
           </Control>
           <Control>
-            <Button isDisabled={!updatedTables.length} isColor="info" onClick={handleExportTables}>Export updated reference tables</Button>
-          </Control>
-          <Control>
-            <Button isColor="info" onClick={this.handleOpenModal}>Publish tables to "{selectedBranch.name}" branch</Button>
+            {
+              remoteUpdateStatus === 'updated' ? 
+              <Button isColor='success' onClick={handleStartOver}>Start a new import</Button> :
+              <Button isDisabled={remoteUpdateStatus === 'loading'} isColor="info" onClick={this.handleOpenModal}>Publish tables to "{selectedBranch.name}" branch</Button>
+            }
           </Control>
         </Field>
         <Field>
@@ -130,6 +159,7 @@ const mapStateToProps = state => ({
 })
 
 export default connect(mapStateToProps, {
+  setStep,
   exportFlows,
   updateRemoteFiles
 })(DataPublish);
