@@ -1,5 +1,6 @@
 import React from 'react'
 import {connect} from 'react-redux'
+import {findIndex} from 'lodash';
 
 import {Button, DropZone} from 'design-workshop'
 import { 
@@ -14,6 +15,7 @@ import {
   validateHeader, 
   getResourceSchema
 } from '../../redux/modules/schemaValidation';
+
 import DataPrep from '../DataPrep';
 
 import HeaderValidation from '../../components/HeaderValidation';
@@ -22,6 +24,8 @@ import {parseSheet, parseTable} from '../../utils/fileParser';
 import { MAXIMUM_FILE_SIZE } from '../../constants';
 
 const FileUpload = ({
+  steps,
+  selectedStep,
   schema,
   tables,
   flows,
@@ -64,7 +68,10 @@ const FileUpload = ({
   const handleDropRejected = (file, event) => {
     console.log("file is invalid")
   }
-  const handleNextStep = () => setStep({id: '1'})
+  const handleNextStep = () => {
+    const currentIndex = findIndex(steps, selectedStep);
+    setStep(steps[currentIndex+1])
+  }
   return (
     <div>
       <DataPrep />
@@ -114,6 +121,8 @@ const FileUpload = ({
 
 
 const mapStateToProps = state => ({
+  steps: state.ui.steps,
+  selectedStep: state.ui.selectedStep,
   schema: state.repoData.descriptor && getResourceSchema(state),
   flows: state.flows,
   tables: state.repoData.tables,

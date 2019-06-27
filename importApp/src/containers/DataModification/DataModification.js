@@ -1,6 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {uniq} from 'lodash';
+import {uniq, findIndex} from 'lodash';
 
 import {
   Button,
@@ -27,14 +27,26 @@ import ModificationComponent from './ModificationComponent';
 class DataModification extends React.Component {
   
   render() {
-    const {flows, schema, isModification, modificationIndex, modificationList, referenceTables} = this.props;
+    const {flows, schema, isModification, modificationIndex, modificationList, referenceTables, steps, selectedStep} = this.props;
     const nonFixedList = modificationList.filter((item) => item.fixed === false);
+    const yearFormatValues = modificationList
+                            .filter((item)=> item.field === 'year' && !item.fixed)
+                            .map((item) => ''+item.value);
 
     const modificationItem = modificationList[modificationIndex]
-
-
-    const handlePrevStep = () => this.props.setStep({id: '1'})
-    const handleNextStep = () => this.props.setStep({id: '3'})
+    let isCurrencyFixDisabled = false;
+    if (modificationItem.field === 'currency|year|reporting' && yearFormatValues.indexOf(modificationItem.value.split('|')[1]) !== -1) {
+      isCurrencyFixDisabled = true
+    }
+    
+    const handlePrevStep = () => {
+      const currentIndex = findIndex(steps, selectedStep)
+      this.props.setStep(steps[currentIndex-1])
+    }
+    const handleNextStep = () =>  {
+      const currentIndex = findIndex(steps, selectedStep)
+      this.props.setStep(steps[currentIndex+1])
+    }
 
     const handlePrevError = () => {
       if (modificationIndex > 0) this.props.goPrevError();
@@ -146,8 +158,9 @@ class DataModification extends React.Component {
             <ModificationComponent 
               flows={flows}
               schema={schema}
+              isCurrencyFixDisabled={isCurrencyFixDisabled}
               modificationIndex={modificationIndex}
-              modificationItem={modificationList[modificationIndex]} 
+              modificationItem={modificationItem} 
               onSubmitModification={handleSubmitModification} />
             <div style={{
               display: 'flex',
@@ -188,6 +201,8 @@ const mapStateToProps = state => ({
   referenceTables: state.referenceTables.referenceTables,
   schema: getResourceSchema(state),
   modificationList: state.modification.modificationList,
+  steps: state.ui.steps,
+  selectedStep: state.ui.selectedStep,
   isModification: state.ui.isModification,
   modificationIndex: state.modification.modificationIndex
 })

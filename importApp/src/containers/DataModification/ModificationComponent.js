@@ -13,6 +13,7 @@ const ModificationComponent = ({
   referenceTables,
   descriptor,
   schema,
+  isCurrencyFixDisabled,
   modificationItem,
   modificationIndex,
   onSubmitModification,
@@ -61,6 +62,7 @@ const ModificationComponent = ({
           schema={schema}
           descriptor={descriptor}
           foreignKeyField={getForeignKeyField()}
+          isCurrencyFixDisabled={isCurrencyFixDisabled}
           referenceTables={referenceTables}
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}

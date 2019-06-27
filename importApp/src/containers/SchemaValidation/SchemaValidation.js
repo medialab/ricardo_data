@@ -1,5 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
+import {findIndex} from 'lodash';
 
 import {Button} from 'design-workshop';
 import { 
@@ -19,19 +20,23 @@ class SchemaValidation extends React.Component {
     }
   }
   render() {
-    const {schemaFeedback, modificationList} = this.props;
+    const {schemaFeedback, modificationList, steps, selectedStep} = this.props;
     let isRequiredFieldMissing = false;
     if (schemaFeedback && schemaFeedback.collectedErrors) {
       isRequiredFieldMissing = (schemaFeedback.collectedErrors['reporting'] && schemaFeedback.collectedErrors['reporting'].errorType === 'ERROR_FORMAT') || 
                             (schemaFeedback.collectedErrors['partner'] && schemaFeedback.collectedErrors['partner'].errorType === 'ERROR_FORMAT')
     }
-    const handlePrevStep = () => this.props.setStep({id: '0'})
+    const handlePrevStep = () => {
+      const currentIndex = findIndex(steps, selectedStep)
+      this.props.setStep(steps[currentIndex-1])
+    }
     const handleNextStep = () => {
       if (!modificationList) {
         const groupedErrors = getGroupedErrors(schemaFeedback.collectedErrors);
         this.props.startModification(groupedErrors)
       }
-      this.props.setStep({id: '2'});
+      const currentIndex = findIndex(steps, selectedStep)
+      this.props.setStep(steps[currentIndex+1])
     }
     return (
       <div>
@@ -74,6 +79,8 @@ class SchemaValidation extends React.Component {
   }
 }
 const mapStateToProps = state => ({
+  steps: state.ui.steps,
+  selectedStep: state.ui.selectedStep,
   flows: state.flows.data,
   schema: getResourceSchema(state),
   relations: getRelations(state),

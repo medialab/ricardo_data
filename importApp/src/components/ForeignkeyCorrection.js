@@ -190,26 +190,29 @@ class ForeignKeyCorrection extends React.Component {
 
     return (
       <FieldContainer>
-        <Label className="has-text-success">Fixed with value</Label>
-        <p className="has-text-success">{printValue}</p>
-        <Help isColor="success">
-          {!isNonchangableField && <li>total {modificationItem.errors.length} rows updated</li>}
-          {
-            fixedReferenceTable && fixedReferenceTable.map((table)=> {
-              return (
-                <li>{table.data.length} row(s) added to "{table.resourceName}" table</li>
-              )
-            })
-          }
-        </Help>
-        <br/>
-        <Button isColor="info" isDisabled={unchangable} onClick={this.handleClickCreate}>Change this fix</Button>
+        <Control>
+
+          <Label className="has-text-success">Fixed with value</Label>
+          <p className="has-text-success">{printValue}</p>
+          <Help isColor="success">
+            {!isNonchangableField && <li>total {modificationItem.errors.length} rows updated</li>}
+            {
+              fixedReferenceTable && fixedReferenceTable.map((table)=> {
+                return (
+                  <li>{table.data.length} row(s) added to "{table.resourceName}" table</li>
+                )
+              })
+            }
+          </Help>
+          <Button isColor="info" isDisabled={unchangable} onClick={this.handleClickCreate}>Change this fix</Button>
+          {unchangable && <Help isColor="success">found same value in other error, please fix it there</Help>}
+        </Control>
       </FieldContainer>
     )
   }
 
   renderSolving() {
-    const {modificationItem, foreignKeyField, referenceTables} = this.props;
+    const {modificationItem, foreignKeyField, referenceTables, isCurrencyFixDisabled} = this.props;
     const {field, fixedReferenceTable}= modificationItem;
 
     const resourceName = foreignKeyField.reference.resource;  
@@ -256,7 +259,8 @@ class ForeignKeyCorrection extends React.Component {
         }  
         <FieldContainer>
           <Control>
-            <Button isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
+            {isCurrencyFixDisabled && <Help isColor="danger">Please fix year format error first</Help>}
+            <Button isDisabled={isCurrencyFixDisabled} isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
           </Control>
         </FieldContainer>  
       </div>
