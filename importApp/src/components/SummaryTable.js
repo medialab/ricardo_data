@@ -72,7 +72,7 @@ const SummaryTable = ({
                             <div key={columnIndex} className="table-cell">
                               <p className={item.fixed ? 'has-text-success': 'has-text-black'}>{errors.length} {item.fixed && !isNonchangableField ? 'rows updated' : ''}</p>
                               {
-                                item.fixedReferenceTable && item.fixedReferenceTable.length &&
+                                item.fixedReferenceTable && item.fixedReferenceTable.length>0 &&
                                   (
                                     item.fixedReferenceTable.map((table, index)=> {
                                       return (

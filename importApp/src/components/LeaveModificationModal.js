@@ -45,8 +45,8 @@ const LeaveModificationModal = ({
           <div style={{
           textAlign:'center'
           }}>
-              <strong>Leave this step, you might lost your modification?</strong>
-              <p>updated reference tables</p>
+              <h5 className="title is-5">Leave this step, you might lost your modification?</h5>
+              {updatedTables.length>0 && <p>updated reference tables</p>}
               {
                 updatedTables.map((table)=>{
                   const handleExportTable = () => {
