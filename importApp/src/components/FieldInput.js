@@ -43,7 +43,7 @@ class FieldInput extends React.Component {
     }
     return {
       fieldSchema,
-      value: fieldValue,
+      value: fieldValue || '',
       fieldValid: {
         valid: false
       },

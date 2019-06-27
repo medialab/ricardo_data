@@ -98,7 +98,7 @@ class DataModification extends React.Component {
 
       if (errorType === 'ERROR_FOREIGN_KEY') {
         const prevFixedReferenceTable = modificationItem.fixedReferenceTable;
-        if (prevFixedReferenceTable) {
+        if (prevFixedReferenceTable && fixedReferenceTable) {
           prevFixedReferenceTable.forEach((table) => {
             this.props.deleteTableRow(table);
           })
