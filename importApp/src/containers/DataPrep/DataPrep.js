@@ -103,8 +103,7 @@ class DataPrep extends React.Component {
 }
 
 const mapStateToProps = state => ({
- repoData: state.repoData,
- auth: state.auth.auth
+ repoData: state.repoData
 })
 
 export default connect(mapStateToProps, {

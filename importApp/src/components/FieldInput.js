@@ -6,7 +6,6 @@ import {values, findIndex, uniq, groupBy, orderBy} from 'lodash';
 
 import Select from 'react-select';
 import Autosuggest from 'react-autosuggest';
-import theme from './theme.css';
 
 import {
   Button,
