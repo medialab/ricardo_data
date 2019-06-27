@@ -78,10 +78,10 @@ class DataModification extends React.Component {
       }
       
       if(payload.field === 'year') {
-        const rowNumbers = errors.map((e) => e.rowNumber)
+        const rowNumbers = errors.map((e) => e.rowNumber);
         const columnIndex = flows[0].indexOf('year');
         const source = [flows[0]].concat(errors.map((e) => {
-          const row = flows[e.rowNumber -1]
+          const row = [...flows[e.rowNumber -1]]
           row[columnIndex] = payload.fixedValues['year'];
           return row;
         }));
