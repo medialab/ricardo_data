@@ -16,6 +16,7 @@ const ModificationComponent = ({
   isCurrencyFixDisabled,
   modificationItem,
   modificationIndex,
+  onTouch,
   onSubmitModification,
 }) => {
   const handleSubmitModification = (payload) => {
@@ -53,6 +54,7 @@ const ModificationComponent = ({
           fieldDescriptor={getFieldDescriptor()} 
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}
+          onTouch={onTouch}
           onSubmitForm={handleSubmitModification} 
         /> 
       }
@@ -66,6 +68,7 @@ const ModificationComponent = ({
           referenceTables={referenceTables}
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}
+          onTouch={onTouch}
           onSubmitForm={handleSubmitModification} 
         /> 
       }

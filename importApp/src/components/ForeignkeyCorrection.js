@@ -20,6 +20,7 @@ import {validateResource} from '../redux/modules/schemaValidation';
 
 import NewResourceRow from './NewResourceRow';
 import ReferenceResourceForm from './ReferenceResourceForm';
+import FieldInput from './FieldInput';
 
 class ForeignKeyCorrection extends React.Component {
   constructor(props) {
@@ -84,7 +85,8 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   handleClickCreate = () => {
-    const fixedValues = this.initFixedValues()
+    this.props.onTouch(true);
+    const fixedValues = this.initFixedValues();
     this.setState({
       fixedValues,
       showSolving: true,
@@ -104,9 +106,6 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   handleAddNewResource = (payload) => {
-    // delete referenceFieldResource.path
-    // referenceFieldResource.data = referenceTables[resourceName].push(values);
-    // this.props.validateResource(referenceFieldResource)
     const {newResource, newReference, newRefReference} = payload;
     const {modificationItem, foreignKeyField} = this.props;
 
@@ -145,6 +144,7 @@ class ForeignKeyCorrection extends React.Component {
 
   handleSelectExist = (item) => {
     const {modificationItem} = this.props;
+    this.props.onTouch(true)
     if (!item) {
       this.setState({
         fixedValues: {
@@ -163,7 +163,11 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   handleShowSolving = () => {
+    this.props.onTouch(true);
+    const fixedValues = this.initFixedValues();
+
     this.setState({
+      fixedValues,
       showSolving: true,
       newResource: null,
       newReference: null,
@@ -172,6 +176,7 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   handleHideSolving = () => {
+    this.props.onTouch(false)
     this.setState({
       showSolving: false,
       showNewForm: false,
@@ -182,7 +187,7 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   renderFixed() {
-    const {modificationItem, foreignKeyField} = this.props;
+    const {modificationItem} = this.props;
     const {field, fixedValues, fixedReferenceTable, unchangable}= modificationItem;
     const fixedValue = values(fixedValues).join('|');
     const printValue = fixedValue.length ? fixedValue: 'none';
@@ -204,7 +209,7 @@ class ForeignKeyCorrection extends React.Component {
               })
             }
           </Help>
-          <Button isColor="info" isDisabled={unchangable} onClick={this.handleClickCreate}>Change this fix</Button>
+          {!this.state.showSolving && <Button isColor="info" isDisabled={unchangable} onClick={this.handleShowSolving}>Change this fix</Button>}
           {unchangable && <Help isColor="success">found same value in other error, please fix it there</Help>}
         </Control>
       </FieldContainer>
@@ -212,60 +217,33 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   renderSolving() {
-    const {modificationItem, foreignKeyField, referenceTables, isCurrencyFixDisabled} = this.props;
-    const {field, fixedReferenceTable}= modificationItem;
+    const {modificationItem, referenceTables, isCurrencyFixDisabled, schema} = this.props;
 
-    const resourceName = foreignKeyField.reference.resource;  
-    const referenceField = foreignKeyField.reference.fields;
-
-    const generateValue = (value) => {
-      return {
-        value,
-        label: value
-      }
-    }
+    const fieldDescriptor = schema.fields.find((f) => f.name === modificationItem.field)
     
-    const fixedValueSelected = generateValue(this.state.fixedValues[field])
-
-    const getOptions = () => {
-      const table = referenceTables[resourceName];
-      return table.map((item) => {
-        return {
-          value: item[referenceField],
-          label: item[referenceField]
-        }
-      })
-    }
     return (
       <div>
+        {modificationItem.field === 'source' && !this.state.showNewForm && !this.state.newResource &&
+          <FieldInput 
+            isNonchangable={false}
+            foreignKeys={schema.foreignKeys}
+            fieldDescriptor={fieldDescriptor} 
+            referenceTables={referenceTables}
+            fieldValue={this.state.fixedValues[modificationItem.field]}
+            onClickCreate={this.handleClickCreate}
+            onChange={this.handleSelectExist} />
+        }
         {
-          modificationItem.field === 'source' && !this.state.showNewForm && !this.state.newResource &&
+          modificationItem.field !== 'source' &&
           <FieldContainer>
-            <Label>Select from exist sources</Label>
-            <Select 
-              isSearchable={true}
-              isClearable={true}
-              value={fixedValueSelected}
-              onChange={this.handleSelectExist}
-              options={getOptions()} />
-            {
-              this.state.fixedValues[field] &&
-                <Help isColor="success">
-                  <li>change "{modificationItem.value}" to "{values(this.state.fixedValues).join("|")}"</li>
-                  <li>total {modificationItem.errors.length} rows affected</li>
-                </Help>
-            }
-          </FieldContainer>
-        }  
-        <FieldContainer>
-          <Control>
-            {isCurrencyFixDisabled && <Help isColor="danger">Please fix year format error first</Help>}
-            <Button isDisabled={isCurrencyFixDisabled} isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
-          </Control>
-        </FieldContainer>  
+            <Control>
+              {isCurrencyFixDisabled && <Help isColor="danger">Please fix year format error first</Help>}
+              <Button isDisabled={isCurrencyFixDisabled} isColor='info' onClick={this.handleClickCreate}>Create new item</Button>
+            </Control>
+          </FieldContainer>  
+        }
       </div>
-    )
-    
+      )
   }
 
   render() {

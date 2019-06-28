@@ -39,6 +39,7 @@ class FormatCorrection extends React.Component {
 
   handleFieldChange = (payload) => {
     const {value, fieldValid} = payload;
+    this.props.onTouch(true)
     this.setState({
       fixedValue: value,
       fieldValid
@@ -57,12 +58,14 @@ class FormatCorrection extends React.Component {
   }
 
   handleShowSolving = () => {
+    this.props.onTouch(true)
     this.setState({
       showSolving: true
     })
   }
 
   handleHideSolving = () => {
+    this.props.onTouch(false)
     this.setState({
       showSolving: false
     })

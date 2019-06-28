@@ -22,9 +22,34 @@ import {addTableRow, deleteTableRow} from '../../redux/modules/referenceTables';
 
 import SummaryTable from '../../components/SummaryTable';
 import ModificationComponent from './ModificationComponent';
-
+import AlertModal from '../../components/AlertModal';
 
 class DataModification extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      showAlert: false,
+      isModificationTouched: false
+    }
+  }
+
+  handleTouchModification = (touched) => {
+    this.setState({
+      isModificationTouched: touched
+    })
+  }
+
+  handleShowAlert = () => {
+    this.setState({
+      showAlert: true
+    })
+  }
+
+  handleHideAlert = () => {
+    this.setState({
+      showAlert: false
+    })
+  }
   
   render() {
     const {flows, schema, isModification, modificationIndex, modificationList, referenceTables, steps, selectedStep} = this.props;
@@ -49,13 +74,29 @@ class DataModification extends React.Component {
     }
 
     const handlePrevError = () => {
+      if (this.state.isModificationTouched) {
+        this.handleShowAlert();
+        return;
+      }
       if (modificationIndex > 0) this.props.goPrevError();
     }
 
     const handleNextError = () => {
+      if (this.state.isModificationTouched) {
+        this.handleShowAlert();
+        return;
+      }
       if (modificationIndex < modificationList.length - 1) this.props.goNextError();
     }
 
+    const handleHideModification = () => {
+      if (this.state.isModificationTouched) {
+        this.handleShowAlert();
+        return;
+      }
+      this.props.hideModification();
+    }
+    
     const handleSelectError = (index) => {
       if (index < modificationList.length) {
         this.props.selectError({
@@ -110,6 +151,10 @@ class DataModification extends React.Component {
 
       this.props.submitModification(payload);
 
+      this.setState({
+        isModificationTouched: false
+      });
+
       if ( index+1 < modificationList.length && nonFixedList.length > 0) {
         handleSelectError(index+1)
       }
@@ -161,17 +206,20 @@ class DataModification extends React.Component {
               isCurrencyFixDisabled={isCurrencyFixDisabled}
               modificationIndex={modificationIndex}
               modificationItem={modificationItem} 
+              onTouch={this.handleTouchModification}
               onSubmitModification={handleSubmitModification} />
+            
             <div style={{
               display: 'flex',
               justifyContent: 'space-between'
             }}>
               <div>
-                <Button isColor="info" onClick={this.props.hideModification}>
+                <Button isColor="info" onClick={handleHideModification}>
                   Back to summary
                 </Button>
               </div>
               <span className="has-text-danger has-text-weight-bold">{modificationIndex + 1} / {modificationList.length }</span>
+              <span>{(this.state.showAlert).toString()}</span>
               <div>
                 {
                   modificationIndex !==0 &&
@@ -189,6 +237,7 @@ class DataModification extends React.Component {
                 }
               </div>
             </div>
+            <AlertModal isActive={this.state.showAlert} closeModal={this.handleHideAlert} />
           </div>
         }
       </div>
