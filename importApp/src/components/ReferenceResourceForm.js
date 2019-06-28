@@ -1,7 +1,7 @@
 import React from 'react';
 import {Table} from 'tableschema';
 
-import {keys, values, mapValues,capitalize, pick, sortBy, uniq} from 'lodash';
+import {keys, values, mapValues,capitalize, pick, sortBy, uniq, deburr} from 'lodash';
 
 import {
   Button,
@@ -64,10 +64,14 @@ class ReferenceResourceForm extends React.Component {
       [payload.fieldName]: payload
     };
     const re = /[^a-zA-Z0-9]+/g;
-    const value = SOURCE_SLUG_FIELDS.reduce((res, f)=> {
-      const printValue = preFields[f].value || ''
-      return res + capitalize(printValue.trim().replace(re, ''))
-    }, '');
+    const value = SOURCE_SLUG_FIELDS.map( f => {
+      if (preFields[f] && preFields[f].value){
+        return deburr(preFields[f].value).trim().split(' ').map(w => capitalize(w.replace(re, ''))).join('')
+      }
+      else
+        return null;
+      
+    }, '').filter(e => e).join('_');
     return {
       fieldName: 'slug',
       value
