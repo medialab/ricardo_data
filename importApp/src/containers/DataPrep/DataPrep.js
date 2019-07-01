@@ -12,7 +12,7 @@ import {
   fetchDatapackage
 } from '../../redux/modules/repoData';
 
-import {loginCreateBranch} from '../../redux/modules/repoData';
+import {loginCreateBranch, logoutUser} from '../../redux/modules/repoData';
 
 import GithubAuthModal from '../../components/GithubAuthModal';
 
@@ -73,7 +73,7 @@ class DataPrep extends React.Component {
 
   render () {
     const {repoData} = this.props;
-    const {selectedBranch} = repoData;
+    const {selectedBranch, isLogined} = repoData;
   
     return (
       <div>
@@ -88,9 +88,17 @@ class DataPrep extends React.Component {
             }
           </Select>
           <Button isColor="info" onClick={handleGetTables}>Fetch</Button> */}
-          <Button isColor="info" onClick={this.handleShowLogin}>
+          { !isLogined &&
+            <Button isColor="info" onClick={this.handleShowLogin}>
             <span>Login to get branch</span>
-          </Button>
+            </Button>
+          }
+          {
+            isLogined &&
+            <Button isColor="info" onClick={this.props.logoutUser}>
+              <span>Logout</span>
+            </Button>
+          }
           {selectedBranch && this.renderFetchTable()}
           <GithubAuthModal 
             isActive={this.state.isModalShow}
@@ -107,6 +115,7 @@ const mapStateToProps = state => ({
 })
 
 export default connect(mapStateToProps, {
+  logoutUser,
   loginCreateBranch,
   fetchAllTables,
   fetchDatapackage

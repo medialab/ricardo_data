@@ -32,6 +32,8 @@ export const CREATE_BRANCH_REQUEST = 'CREATE_BRANCH_REQUEST';
 export const CREATE_BRANCH_SUCCESS = 'CREATE_BRANCH_SUCCESS';
 export const CREATE_BRANCH_FAILURE = 'CREATE_BRANCH_FAILURE';
 
+export const LOGOUT_USER = "LOGOUT_USER";
+
 export const LOGIN_CREATE_BRANCH_REQUEST = 'LOGIN_CREATE_BRANCH_REQUEST';
 export const LOGIN_CREATE_BRANCH_SUCCESS = 'LOGIN_CREATE_BRANCH_SUCCESS';
 export const LOGIN_CREATE_BRANCH_FAILURE = 'LOGIN_CREATE_BRANCH_FAILURE';
@@ -237,6 +239,11 @@ export const createBranch = (payload) => (dispatch) => {
   }))
 }
 
+export const logoutUser = () => ({
+  type: LOGOUT_USER
+})
+
+
 export const  loginCreateBranch = (payload) => (dispatch) => {
   dispatch({
     type: LOGIN_CREATE_BRANCH_REQUEST,
@@ -287,11 +294,21 @@ export const  loginCreateBranch = (payload) => (dispatch) => {
  * REDUCER
  */
 
-const initialState = {}
+const initialState = {
+
+}
 
 export default function reducer(state = initialState, action){
   const {payload} = action;
   switch (action.type){
+    case LOGOUT_USER:
+      return {
+        ...state,
+        isLogined: false,
+        tables: null,
+        selectedBranch:null,
+        isBranchCreated: false
+      }
     case INIT_TABLES:
       return {
         ...state,
@@ -322,12 +339,14 @@ export default function reducer(state = initialState, action){
     case LOGIN_CREATE_BRANCH_SUCCESS:
       return {
         ...state,
+        isLogined: true,
         selectedBranch: payload,
         isBranchCreated: true,
       }
     case LOGIN_CREATE_BRANCH_FAILURE:
       return {
         ...state,
+        isLogined: false,
         selectedBranch: null,
         isBranchCreated: false
       }
