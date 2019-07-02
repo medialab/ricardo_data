@@ -206,7 +206,9 @@ class DataModification extends React.Component {
               isCurrencyFixDisabled={isCurrencyFixDisabled}
               modificationIndex={modificationIndex}
               modificationItem={modificationItem} 
+              isModificationTouched={this.state.isModificationTouched}
               onTouch={this.handleTouchModification}
+              onDiscard={this.props.goNextError}
               onSubmitModification={handleSubmitModification} />
             
             <div style={{

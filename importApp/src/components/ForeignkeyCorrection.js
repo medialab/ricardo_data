@@ -186,6 +186,21 @@ class ForeignKeyCorrection extends React.Component {
     })
   }
 
+  handleDiscard = () => {
+    const {modificationItem} = this.props;
+    this.props.onTouch(false);
+    const fixedValues = this.initFixedValues();
+    this.setState({
+      fixedValues,
+      showSolving: modificationItem.fixed ? false : true,
+      showNewForm: false,
+      newResource: null,
+      newReference: null,
+      newRefReference: null
+    });
+    this.props.onDiscard()
+  }
+  
   renderFixed() {
     const {modificationItem} = this.props;
     const {field, fixedValues, fixedReferenceTable, unchangable}= modificationItem;
@@ -229,6 +244,7 @@ class ForeignKeyCorrection extends React.Component {
             foreignKeys={schema.foreignKeys}
             fieldDescriptor={fieldDescriptor} 
             referenceTables={referenceTables}
+            fixedValue={this.state.fixedValues[modificationItem.field]}
             fieldValue={this.state.fixedValues[modificationItem.field]}
             onClickCreate={this.handleClickCreate}
             onChange={this.handleSelectExist} />
@@ -247,8 +263,7 @@ class ForeignKeyCorrection extends React.Component {
   }
 
   render() {
-    const {newResource, fixedValues} = this.state;
-    const {modificationItem, foreignKeyField, descriptor, referenceTables} = this.props;
+    const {modificationItem, foreignKeyField, descriptor, referenceTables, isModificationTouched} = this.props;
     const {value, message, field}= modificationItem;
     const resourceName = foreignKeyField.reference.resource;  
     const referenceFieldResource = descriptor.resources.find((resource) => resource.name === resourceName);
@@ -333,10 +348,16 @@ class ForeignKeyCorrection extends React.Component {
           {
             this.state.showSolving &&
             <FieldContainer isGrouped>
-              {
+              {/* {
                 modificationItem.fixed &&
                 <Control>
                   <Button isColor="info" onClick={this.handleHideSolving}>Cancel</Button>
+                </Control>
+              } */}
+              {
+                isModificationTouched &&
+                <Control>
+                  <Button isColor="info" onClick={this.handleDiscard}>Discard modification</Button>
                 </Control>
               }
               <Control>
