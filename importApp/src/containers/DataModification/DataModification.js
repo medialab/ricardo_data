@@ -89,6 +89,15 @@ class DataModification extends React.Component {
       if (modificationIndex < modificationList.length - 1) this.props.goNextError();
     }
 
+    const handleDiscard = () => {
+      if ( modificationIndex < modificationList.length - 1 && nonFixedList.length > 0) {
+        this.props.goNextError();
+      }
+      else {
+        this.props.hideModification()
+      }
+    }
+
     const handleHideModification = () => {
       if (this.state.isModificationTouched) {
         this.handleShowAlert();
@@ -155,8 +164,8 @@ class DataModification extends React.Component {
         isModificationTouched: false
       });
 
-      if ( index+1 < modificationList.length && nonFixedList.length > 0) {
-        handleSelectError(index+1)
+      if ( modificationIndex < modificationList.length - 1 && nonFixedList.length > 0) {
+        this.props.goNextError()
       }
       else {
         this.props.hideModification()
@@ -208,7 +217,7 @@ class DataModification extends React.Component {
               modificationItem={modificationItem} 
               isModificationTouched={this.state.isModificationTouched}
               onTouch={this.handleTouchModification}
-              onDiscard={this.props.goNextError}
+              onDiscard={handleDiscard}
               onSubmitModification={handleSubmitModification} />
             
             <div style={{

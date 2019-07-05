@@ -44,6 +44,7 @@ export default createReducer(initialState, {
         state.modificationList[index] = {
           ...state.modificationList[index],
           fixed: true,
+          fixedStatus: 'autoFixed',
           unchangable: true,
           fixedValues: {
             'currency': item.value.split('|')[0],
@@ -69,6 +70,7 @@ export default createReducer(initialState, {
           state.modificationList[index] = {
             ...state.modificationList[index],
             fixed: true,
+            fixedStatus: 'fixInOther',
             unchangable: true,
             fixedValues: {
               'currency': item.value.split('|')[0],
@@ -81,6 +83,7 @@ export default createReducer(initialState, {
           state.modificationList[index] = {
             ...state.modificationList[index],
             fixed: false,
+            fixedStatus: 'notFixed',
             unchangable: false,
             value: fixedValue,
             fixedValues: null

@@ -77,6 +77,7 @@ class FormatCorrection extends React.Component {
     this.setState({
       ...state
     });
+    this.props.onDiscard()
   }
 
   renderOriginal() {
@@ -122,12 +123,12 @@ class FormatCorrection extends React.Component {
           onChange={this.handleFieldChange} />
           
         <FieldContainer isGrouped>  
-          {
+          {/*
              modificationItem.fixed &&
             <Control>
               <Button isColor="info" onClick={this.handleHideSolving}>Cancel</Button>
             </Control>
-          }
+          */}
           {
             isModificationTouched &&
             <Control>

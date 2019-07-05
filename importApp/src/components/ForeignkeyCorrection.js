@@ -203,7 +203,7 @@ class ForeignKeyCorrection extends React.Component {
   
   renderFixed() {
     const {modificationItem} = this.props;
-    const {field, fixedValues, fixedReferenceTable, unchangable}= modificationItem;
+    const {field, fixedValues, fixedReferenceTable, unchangable, fixedStatus}= modificationItem;
     const fixedValue = values(fixedValues).join('|');
     const printValue = fixedValue.length ? fixedValue: 'none';
     const isNonchangableField = difference(NON_CHANGABLE_FIELDS, field.split('|')).length < NON_CHANGABLE_FIELDS.length
@@ -225,7 +225,8 @@ class ForeignKeyCorrection extends React.Component {
             }
           </Help>
           {!this.state.showSolving && <Button isColor="info" isDisabled={unchangable} onClick={this.handleShowSolving}>Change this fix</Button>}
-          {unchangable && <Help isColor="success">found same value in other error, please fix it there</Help>}
+          {unchangable && fixedStatus === 'fixInOther' &&<Help isColor="success">found same value in other error, please fix it there</Help>}
+          {unchangable && fixedStatus === 'autoFixed' &&<Help isColor="success">this foreign key error is auto fixed by previous format modification</Help>}
         </Control>
       </FieldContainer>
     )

@@ -136,7 +136,7 @@ class DataPublish extends React.Component {
           </Control>
         </Field>
         <Field>
-          {remoteUpdateStatus === 'loading' && <Help isColor='success'>updating files on github...</Help>}
+          {remoteUpdateStatus === 'loading' && <Help isColor='success'>updating files on github, please wait...</Help>}
           {remoteUpdateStatus === 'updated' && <Help isColor='success'>files are updated on github</Help>}
           {remoteUpdateStatus === 'fail' && <Help isColor='danger'>fail to update files on github</Help>}
         </Field>
