@@ -27,9 +27,15 @@ class FieldInput extends React.Component {
   }
 
   componentDidUpdate (prevProps) {
-    const {fieldDescriptor, fieldValue} = this.props;
-    if (fieldDescriptor.name === 'slug' && fieldValue !== prevProps.fieldValue ) {
+    const {fieldDescriptor, fieldValue, fixedValue} = this.props;
+    if (fieldDescriptor.name === 'slug' && fieldValue !== prevProps.fieldValue) {
       this.validateField(fieldValue)
+    }
+    if (fixedValue !== prevProps.fixedValue && !fixedValue) {
+      const state = this.getStateFromProps();
+      this.setState({
+        ...state
+      })
     }
   }
 

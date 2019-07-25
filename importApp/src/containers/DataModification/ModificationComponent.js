@@ -14,8 +14,10 @@ const ModificationComponent = ({
   descriptor,
   schema,
   isCurrencyFixDisabled,
+  isModificationTouched,
   modificationItem,
   modificationIndex,
+  onDiscard,
   onTouch,
   onSubmitModification,
 }) => {
@@ -54,6 +56,8 @@ const ModificationComponent = ({
           fieldDescriptor={getFieldDescriptor()} 
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}
+          isModificationTouched={isModificationTouched}
+          onDiscard={onDiscard}
           onTouch={onTouch}
           onSubmitForm={handleSubmitModification} 
         /> 
@@ -65,9 +69,11 @@ const ModificationComponent = ({
           descriptor={descriptor}
           foreignKeyField={getForeignKeyField()}
           isCurrencyFixDisabled={isCurrencyFixDisabled}
+          isModificationTouched={isModificationTouched}
           referenceTables={referenceTables}
           modificationItem={modificationItem}
           modificationIndex={modificationIndex}
+          onDiscard={onDiscard}
           onTouch={onTouch}
           onSubmitForm={handleSubmitModification} 
         /> 

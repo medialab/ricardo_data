@@ -71,6 +71,15 @@ class FormatCorrection extends React.Component {
     })
   }
 
+  handleDiscard = () => {
+    this.props.onTouch(false);
+    const state = this.hydrateState()
+    this.setState({
+      ...state
+    });
+    this.props.onDiscard()
+  }
+
   renderOriginal() {
     const {modificationItem} = this.props;
     const {value, message, field}= modificationItem;
@@ -99,7 +108,7 @@ class FormatCorrection extends React.Component {
   }
 
   renderInput() {
-    const {modificationItem, fieldDescriptor} = this.props;
+    const {modificationItem, fieldDescriptor, isModificationTouched} = this.props;
     const {fieldValid} = this.state;
     const isSubmitDisabled = !fieldValid || !fieldValid.valid
 
@@ -110,13 +119,20 @@ class FormatCorrection extends React.Component {
           isNonchangable={false}
           fieldDescriptor={fieldDescriptor} 
           fieldValue={modificationItem.value}
+          fixedValue={this.state.fixedValue}
           onChange={this.handleFieldChange} />
           
         <FieldContainer isGrouped>  
-          {
+          {/*
              modificationItem.fixed &&
             <Control>
               <Button isColor="info" onClick={this.handleHideSolving}>Cancel</Button>
+            </Control>
+          */}
+          {
+            isModificationTouched &&
+            <Control>
+              <Button isColor="info" onClick={this.handleDiscard}>Discard modification</Button>
             </Control>
           }
           <Control>
