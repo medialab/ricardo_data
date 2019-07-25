@@ -7,8 +7,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4,Hawaii,1898,1960,Became colony of,2
 4,Hawaii,1960,2016,Became part of,2
 5,Virgin Islands,1816,1917,Became colony of,390
-5,Virgin Islands,1917,2016,Became colony of,2git diff
-
+5,Virgin Islands,1917,2016,Became colony of,2
 6,Puerto Rico,1816,1821,Became part of,1070
 6,Puerto Rico,1821,1898,Became colony of,230
 6,Puerto Rico,1898,1952,Became colony of,2
