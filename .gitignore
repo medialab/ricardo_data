@@ -105,3 +105,6 @@ database_scripts/*.json
 data_old
 #deprecated
 database_scripts_old
+# binaries...
+*.xlsx
+*.zip
