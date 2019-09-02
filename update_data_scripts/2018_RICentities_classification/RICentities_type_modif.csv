@@ -1,0 +1,79 @@
+RICname,RICtype
+Aden & Arabia,group - geographical_area
+Adriatic Ports,group - geographical_area
+Africa & Azores (Western Isles),group - geographical_area
+Africa & Cape Colony,group - geographical_area
+Africa Coast & Algiers & Barbary Coast,group - geographical_area
+Africa Coast & Barbary Coast,group - geographical_area
+Africa Ports (other),group - geographical_area
+Africa Ports (other) & Asia Ports (other),group - geographical_area
+America (other) & Europe (other),group - geographical_area
+American America Is. & British America Is. & French America Is.,group - geographical_area
+Amur River Ports,group - city/part_of
+Antilles & Central America,group - geographical_area
+Antilles & Central America & Mexico,group - geographical_area
+Antilles & East Indies,group - geographical_area
+Antilles & Mauritius & Reunion,group - geographical_area
+Antilles & Mexico,group - geographical_area
+Antilles & Other countries,group - geographical_area
+Antilles & Southern America,group - geographical_area
+Antilles (other) & Cuba,group - geographical_area
+Antilles (other) & Pacific Islands,group - geographical_area
+Antilles (other) & Spanish America,group - geographical_area
+Antilles Ports (other),group - geographical_area
+Arabia & Hejaz Sultanate & Iraq (Mesopotamia),group - geographical_area
+Arabia & Persian Gulf Ports,group - geographical_area
+Arabia & Persian Gulf Ports & Red Sea,group - geographical_area
+Arabia (sea) & Persian Gulf Ports,group - geographical_area
+Arctic & Greenland & North Sea,group - geographical_area
+Argentina & Brazil & Southern America,group - geographical_area
+Argentina & Southern America (other),group - geographical_area
+Argentina Ports,group - city/part_of
+Asia (other) & China (People's Republic of China) & India & Indonesia (Dutch East Indies),group - geographical_area
+Asia (other) & East Indies,group - geographical_area
+Asia Ports (other),group - geographical_area
+Australia & Oceania,group - geographical_area
+Australia & Pacific Islands,group - geographical_area
+Australia & Polynesia,group - geographical_area
+Azores (Western Isles) & Africa Coast (West),group - geographical_area
+Baltic Ports,group - geographical_area
+Baltic Ports & Belgium & Germany,group - geographical_area
+Barbary Coast & Egypt/United Arab Republic,group - geographical_area
+Barbary Coast (other) & Libya (Tripolitania Cyrenaica Fezzan),group - geographical_area
+Bengal,geographical_area - city/part_of
+Black Sea European Ports & Mediterranean European Ports,group - geographical_area
+Brazil Ports,group - city/part_of
+British Ports,group - city/part_of
+Canada & Central America & South America & United States of America,group - geographical_area
+Canada & Central America & United States of America,group - geographical_area
+Canada & Other countries & Southern America,group - geographical_area
+Canada & Southern America & United States of America,group - geographical_area
+Central America & Guatemala,group - geographical_area
+Central America & Mexico,group - geographical_area
+Central America & Mexico & Panama,group - geographical_area
+Central America & Southern America,group - geographical_area
+Central America & Spanish America,group - geographical_area
+East Africa Ports (other),city/part_of - geographical_area
+East Indies & Thailand (Siam),group - geographical_area
+Europe & European Russia,group - geographical_area
+Europe (other) & Levant,group - geographical_area
+European Ports,city/part_of - geographical_area
+"Germany (Zollverein, other)",geographical_area - city/part_of
+Iran (Persia) & Middle-East & Asian Turkey,group - geographical_area
+Kurdistan ,geographical_area - city/part_of
+Levant,geographical_area - city/part_of
+Levant & Europe,group - geographical_area
+Levant & Turkey,group - geographical_area
+Mecca & Persian Gulf,group - geographical_area
+Mediterranean Ports,city/part_of - geographical_area
+New Zealand & Pacific Islands,group - geographical_area
+Pacific Islands & Peru,group - geographical_area
+Pacific Islands & Vanuatu (New Hebrides),group - geographical_area
+Pacific Ports,city/part_of - geographical_area
+Red Sea Ports in Africa,city/part_of - geographical_area
+Red Sea Ports in Arabia,city/part_of - geographical_area
+South Sea Islands & Pacific Islands,group - geographical_area
+Southern America & Central America & Antilles (other),group - geographical_area
+Southern America & United States of America,group - geographical_area
+Spain & Italy & Europe (other),group - geographical_area
+West Africa & Africa (other),group - geographical_area
