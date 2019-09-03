@@ -57,8 +57,10 @@ CREATE TABLE `RICentities`
 	`RICname`			TEXT PRIMARY KEY,
 	`type`				TEXT,
 	`continent`			TEXT,
-	`COW_code` 			INTEGER,
-	`slug`				TEXT
+	`COW_code` 			TEXT,
+	`slug`				TEXT,
+	`part_of_country`	TEXT,
+	FOREIGN KEY (part_of_country) 	REFERENCES RICentities(RICname)
 );
 
 --territorial entities
@@ -78,6 +80,19 @@ CREATE TABLE `RICentities_groups`
 	FOREIGN KEY (RICname_part) 	REFERENCES RICentities(RICname),
 	FOREIGN KEY (RICname_group) REFERENCES RICentities(RICname)
 );
+
+CREATE TABLE `RICentities_links`
+(
+	`COW_code`				TEXT,
+	`COW_name`				TEXT,
+	`start_year`			INTEGER,
+	`end_year`				INTEGER,
+	`link_type`				TEXT,
+	`sovereign_COW_name`	TEXT,
+	`sovereign_COW_code`	TEXT,
+	PRIMARY KEY (`COW_code`, `start_year`, `end_year`,`link_type`,`sovereign_COW_code`)
+);
+
 
 --flows data
 CREATE TABLE `flows`

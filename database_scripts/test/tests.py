@@ -11,7 +11,7 @@ except :
 	print "couldn't load config.json database"
 	exit(1)
 
-mdb_sqlite_filename=os.path.join("../../","sqlite_data",conf["sqlite_filename"])
+mdb_sqlite_filename=os.path.join("../../","sqlite_data",conf["sqlite_viz"])
 conn=sqlite3.connect(mdb_sqlite_filename)
 
 cursor=conn.cursor()
