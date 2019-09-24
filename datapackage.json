@@ -1,5 +1,5 @@
 {
-  "name": "RICardo",
+  "name": "ricardo",
   "datapackage_version": "1.0-beta",
   "title": "RICardo, Research on International Commerce: trade between Nations from c. 1800 to 1938",
   "description": "RICardo (Research on International Commerce) is a project dedicated to trade between nations over a period spanning the beginning of the Industrial Revolution to the eve of the Second World War. It combines a historical trade database covering all of the world’s countries and a website which invites to an exploration of the history of international trade through data visualizations.",
@@ -8,34 +8,35 @@
    "created": "2017-12-05T10:03:50.52Z",
   "licenses": [{
     "url": "http://opendatacommons.org/licenses/odbl/",
-    "name": "Open Data Commons Open Database License",
+    "title": "Open Data Commons Open Database License",
     "version": "1.0",
-    "id": "odc-odbl"
+    "name": "odc-odbl"
   }],
   "sources": [{
-    "name": "This dataset has been built using many different sources.",
+    "title": "Trade historical archives",
+    "name": "This dataset has been built using many different archival sources all documented in the source data resource.",
     "web": "http://ricardo.medialab.sciences-po.fr/sources.csv"
   }],
   "contributors":[ {
-    "name": "Béatrice Dedinger",
+    "title": "Béatrice Dedinger",
     "email": "beatrice.dedinger@sciencespo.fr",
     "web": "http://sciencespo.fr/chsp",
     "organization": "Sciences Po, Centre d'Histoire",
     "role": "author"
   }, {
-    "name": "Paul Girard",
+    "title": "Paul Girard",
     "email": "paul.girard@sciencespo.fr",
     "web": "http://www.medialab.sciences-po.fr/people/paul-girard/",
     "organization": "Sciences Po, médialab",
     "role": "author"
   }, {
-    "name": "Karine Onfroy",
+    "title": "Karine Onfroy",
     "email": "karine.onfroy@u-bordeaux.fr",
     "web": "www.gretha.u-bordeaux.fr/fr",
     "organization": "Université de Bordeaux, G.R.E.T.h.A (UMR CNRS 5113)",
     "role": "contributor"
   }, {
-    "name": "Jung-Hyun Ahn",
+    "title": "Jung-Hyun Ahn",
     "email": "Jung-Hyun.AHN@neoma-bs.fr",
     "web": "www.neoma-bs.fr",
     "organization": "Neoma Business School",
@@ -53,15 +54,8 @@
     "format":"csv",
     "encoding":"utf-8",
     "path": "data/flows.csv",
+    "profile": "tabular-data-resource",
     "schema": {"fields": [
-          {
-            "name": "id",
-            "type": "integer",
-            "description": "Unique identifier autoincremented on insert",
-            "constraints":{
-              "unique":true
-            }
-          },
           {
             "name": "source",
             "type": "string",
@@ -197,6 +191,7 @@
     "format":"csv",
     "encoding":"utf-8",
     "path": "data/sources.csv",
+    "profile": "tabular-data-resource",
     "schema": {"fields": [
           {
             "name": "slug",
@@ -286,12 +281,13 @@
        ]}
     },
     {
-      "name":"RICentities",
+      "name":"ricentities",
       "title":"RICentites",
       "description":"RICentites are the unified nomencalture of trade reporting and partner names.",
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/RICentities.csv",
+      "profile": "tabular-data-resource",
       "schema": {"fields": [
             {
               "name": "RICname",
@@ -337,6 +333,7 @@
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/entity_names.csv",
+      "profile": "tabular-data-resource",
       "schema": {"fields": [
             {
               "name": "original_name",
@@ -370,12 +367,13 @@
       }
     },
     {
-      "name":"RICentities_groups",
+      "name":"ricentities_groups",
       "title":"RICentities groups",
       "description":"Some RICentities are of type 'group'. This table show which entities are part of RICentities groups",
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/RICentities_groups.csv",
+      "profile": "tabular-data-resource",
       "schema": {"fields": [
             {
               "name": "id",
@@ -415,6 +413,7 @@
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/exchange_rates.csv",
+      "profile": "tabular-data-resource",
       "schema": {"fields": [
             {
               "name": "year",
@@ -457,6 +456,7 @@
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/currencies.csv",
+      "profile": "tabular-data-resource",
       "schema": {"fields": [
             {
               "name": "currency",
@@ -494,6 +494,7 @@
       "format":"csv",
       "encoding":"utf-8",
       "path": "data/expimp_spegen.csv",
+      "profile": "tabular-data-resource",
       "schema": {"fields": [
             {
               "name": "export_import",
