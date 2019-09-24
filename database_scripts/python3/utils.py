@@ -1,5 +1,5 @@
 import re
-
+from unidecode import unidecode
 
 # source slug generation
 nonLetters = re.compile(r'\W', re.UNICODE)
@@ -14,4 +14,4 @@ def source_slugify(source):
     return _generic_source_slugify(source, source_fields_slug(source))
 
 def source_filename(source):
-    return _generic_source_slugify(source, source_fields_filename(source))
+    return unidecode(_generic_source_slugify(source, source_fields_filename(source)))
