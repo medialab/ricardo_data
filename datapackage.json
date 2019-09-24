@@ -361,7 +361,7 @@
           "foreignKeys": [
             {
               "fields": "RICname",
-              "reference": {"resource": "RICentities", "fields": "RICname"}
+              "reference": {"resource": "ricentities", "fields": "RICname"}
             }
           ]
       }
@@ -397,11 +397,11 @@
         "foreignKeys": [
           {
             "fields": "RICname_group",
-            "reference": {"resource": "RICentities", "fields": "RICname"}
+            "reference": {"resource": "ricentities", "fields": "RICname"}
           },
           {
             "fields": "RICname_part",
-            "reference": {"resource": "RICentities", "fields": "RICname"}
+            "reference": {"resource": "ricentities", "fields": "RICname"}
           }
         ]
       }
