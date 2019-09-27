@@ -27,14 +27,9 @@ class GithubAuthModal extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      username: '',
       token: '',
       message: ''
     };
-  }
-
-  handleChangeUser = (event) => {
-    this.setState({username: event.target.value});
   }
 
   handleChangeToken = (event) => {
@@ -56,10 +51,10 @@ class GithubAuthModal extends React.Component {
 
   render() {
     const {isActive, isCommit, closeModal} = this.props;
-    let invalidInput = !this.state.username || !this.state.token;
+    let invalidInput = !this.state.token;
     
     if (isCommit) {
-      invalidInput =!this.state.username || !this.state.token || !this.state.message;
+      invalidInput = !this.state.token || !this.state.message;
     }
 
     return (
@@ -67,12 +62,6 @@ class GithubAuthModal extends React.Component {
         <ModalBackground onClick={closeModal} />
         <ModalCard>
           <ModalCardBody>
-            <Field>
-              <Label>username*:</Label>
-              <Control>
-                <Input value={this.state.username} onChange={this.handleChangeUser} />
-              </Control>
-            </Field>
             <Field>
               <Label>personal access token*:</Label>
               <Control>

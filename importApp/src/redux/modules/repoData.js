@@ -249,15 +249,17 @@ export const  loginCreateBranch = (payload) => (dispatch) => {
     type: LOGIN_CREATE_BRANCH_REQUEST,
     payload
   })
-  const {username, token} = payload;
+  const {token} = payload;
 
   const github = new Octokat({
-    username: username,
-    password: token
+    token: token
   });
+  console.log(token);
 
   dispatch(async () => {
     try {
+      let userInfo = await github.user.fetch();
+      const username = userInfo.login;
       let repo = await github.repos(owner, repoName).fetch();
       let branches = await repo.branches.fetch();
       let selectedBranch = branches.items.find((branch) => branch.name === username);
