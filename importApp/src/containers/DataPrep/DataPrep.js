@@ -9,7 +9,6 @@ import {
 
 import { 
   fetchAllTables,
-  fetchDatapackage
 } from '../../redux/modules/repoData';
 
 import {loginCreateBranch, logoutUser} from '../../redux/modules/repoData';
@@ -23,9 +22,6 @@ class DataPrep extends React.Component {
     this.state = {
       isModalShow: false 
     }
-  }
-  componentDidMount() {
-    this.props.fetchDatapackage()
   }
    
   handleShowLogin =()=> {
@@ -60,7 +56,7 @@ class DataPrep extends React.Component {
           <Help isColor="danger">could not get branch from github, try login again</Help>
         }
         {
-          selectedBranch && !tables &&
+          selectedBranch && !tables && 
           <Button isColor="info" onClick={handleGetTables}>Fetch table from branch {selectedBranch.name}</Button>
         }
         {selectedBranch && (tables ?
@@ -117,6 +113,5 @@ const mapStateToProps = state => ({
 export default connect(mapStateToProps, {
   logoutUser,
   loginCreateBranch,
-  fetchAllTables,
-  fetchDatapackage
+  fetchAllTables
 })(DataPrep);

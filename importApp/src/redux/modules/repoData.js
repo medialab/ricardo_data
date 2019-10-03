@@ -1,5 +1,5 @@
 import {all, get, put, post, spread} from 'axios';
-import {apiUri, branchUri, referenceUri, owner, repoName} from '../../config/default';
+import {apiUri, branchUri, referenceUri, owner, repoName, repoRawContent} from '../../config/default';
 import {DEFAULT_REF_BRANCH} from '../../constants';
 
 import Octokat from 'octokat';
@@ -42,36 +42,6 @@ export const UPDATE_REMOTE_FILES_REQUEST = 'UPDATE_REMOTE_FILES_REQUEST';
 export const UPDATE_REMOTE_FILES_SUCCESS = 'UPDATE_REMOTE_FILES_SUCCESS';
 export const UPDATE_REMOTE_FILES_FAILURE = 'UPDATE_REMOTE_FILES_FAILURE';
 
-export const tablesList = [
-  {
-    name: 'sources',
-    path: 'data/sources.csv'
-  },
-  {
-    name: 'RICentities',
-    path: 'data/RICentities.csv'
-  },
-  {
-    name: 'RICentities_groups',
-    path: 'data/RICentities_groups.csv'
-  },
-  {
-    name: 'currencies',
-    path: 'data/currencies.csv'
-  },
-  {
-    name: 'entity_names',
-    path: 'data/entity_names.csv'
-  },
-  {
-    name: 'exchange_rates',
-    path: 'data/exchange_rates.csv'
-  },
-  {
-    name: 'expimp_spegen',
-    path: 'data/expimp_spegen.csv'
-  }
-];
 
 const DEFAULT_MESSAGE = 'update data'
 /**
@@ -121,42 +91,53 @@ export const fetchTable = (payload) => (dispatch) => {
 
 export const fetchAllTables = (payload) => (dispatch) => {
   const {branch} = payload;
-  dispatch({
-    type: FETCH_TABLES_REQUEST,
-  });
-  Promise.all(tablesList.map((table) => {
-    return get(`${apiUri}/${table.path}?ref=${branch}`)
-  }))
-  .then((res) => {
-    let tables = {}
-    res.forEach((item) => {
-      const id = item.data.name.split('.')[0]
-      tables[id] = item.data
-    })
-    dispatch({
-      type: FETCH_TABLES_SUCCESS,
-      payload: tables
-    })
-  })
-  .catch((error) => dispatch({
-    type: FETCH_TABLES_FAILURE,
-    payload,
-    error
-  }))
-}
-
-export const fetchDatapackage = () => (dispatch) => {
+  // let's get the datapackage from the branch
   dispatch({
     type: FETCH_DATAPACKAGE_REQUEST,
   });
-  return get(`${apiUri}/datapackage.json?ref=master`)
-    .then((res) => dispatch({
-      type: FETCH_DATAPACKAGE_SUCCESS,
-      payload: res.data
-    })).catch((error) => dispatch({
+  try {
+    get(`${repoRawContent}/${branch}/datapackage.json`,{ responseType: 'json', responseEncoding: 'utf8'}).then(res => {
+      const tablesList = res.data.resources.filter(r => !r.group && r.name !== 'flows');
+      console.log(tablesList);
+      dispatch({
+        type: FETCH_DATAPACKAGE_SUCCESS,
+        payload: res.data
+      });
+      // now we can get tables
+      dispatch({
+        type: FETCH_TABLES_REQUEST,
+      });
+      Promise.all(tablesList.map((table) => {
+        return get(`${repoRawContent}/${branch}/${table.path}`, {responseType: 'text', responseEncoding: 'utf8'}).then(res => {
+          return {...table, data: res.data}; 
+        });
+      }))
+      .then((res) => {
+        let tables = {};
+        res.forEach((t) => {
+          tables[t.name] = t.data
+        });
+        dispatch({
+          type: FETCH_TABLES_SUCCESS,
+          payload: tables
+        });
+      })
+      .catch((error) => { 
+        console.log(error); 
+        dispatch({
+          type: FETCH_TABLES_FAILURE,
+          payload,
+          error
+        });});
+    });
+  }
+  catch(error){ 
+    console.log(error);
+    dispatch({
       type: FETCH_DATAPACKAGE_FAILURE,
       error
-    }))
+    });
+  }
 }
 
 export const updateRemoteFiles = (payload) => (dispatch) => {
@@ -254,7 +235,6 @@ export const  loginCreateBranch = (payload) => (dispatch) => {
   const github = new Octokat({
     token: token
   });
-  console.log(token);
 
   dispatch(async () => {
     try {
@@ -276,8 +256,7 @@ export const  loginCreateBranch = (payload) => (dispatch) => {
           name: username,
           ref: selectedBranch
         }
-      })
-
+      });
     } catch(error) {
       console.error(error)
       dispatch({
@@ -330,8 +309,7 @@ export default function reducer(state = initialState, action){
     case FETCH_DATAPACKAGE_SUCCESS:
       return {
         ...state,
-        datapackage: payload,
-        descriptor: JSON.parse(Base64.decode(payload.content))
+        descriptor: payload
       }
     case FETCH_BRANCHES_SUCCESS:
       return {
