@@ -15,7 +15,10 @@ import {
 import FieldInput from './FieldInput';
 import NewResourceRow from './NewResourceRow';
 import NewRICentityForm from './NewRICentityForm';
-import {NON_CHANGABLE_FIELDS, SOURCE_SLUG_FIELDS, SOURCE_SUGGESTION_FIELDS} from '../constants';
+import {NON_CHANGABLE_FIELDS, SOURCE_SLUG_FIELDS, SOURCE_SLUGIFY, SOURCE_SUGGESTION_FIELDS} from '../constants';
+
+const castFormObject = (formObject) =>  mapValues(formObject, (v => v.value));
+
 
 class ReferenceResourceForm extends React.Component {
   
@@ -59,19 +62,12 @@ class ReferenceResourceForm extends React.Component {
   }
 
   getSlug = (payload) => {
-    const preFields = {
+    let preFields = {
       ...this.state.newResource,
       [payload.fieldName]: payload
     };
-    const re = /[^a-zA-Z0-9]+/g;
-    const value = SOURCE_SLUG_FIELDS.map( f => {
-      if (preFields[f] && preFields[f].value){
-        return deburr(preFields[f].value).trim().split(' ').map(w => capitalize(w.replace(re, ''))).join('')
-      }
-      else
-        return null;
-      
-    }, '').filter(e => e).join('_');
+    // remove field data structure to mimic source object
+    const value = SOURCE_SLUGIFY(castFormObject(preFields)) ;
     return {
       fieldName: 'slug',
       value
@@ -81,7 +77,7 @@ class ReferenceResourceForm extends React.Component {
   handleFieldChange = (payload) => {
     const {resourceDescriptor} = this.props;
 
-    if (this.state.newResource['slug'] && SOURCE_SLUG_FIELDS.indexOf(payload.fieldName) !== -1) {
+    if (this.state.newResource['slug']) {
       const slug = this.getSlug(payload);
       this.setState({
         newResource: {
