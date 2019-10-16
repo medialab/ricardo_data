@@ -6,11 +6,11 @@ import Octokat from 'octokat';
 
 import { Base64 } from 'js-base64';
 import {
-  csvFormat
+  csvFormat,
+  csvParse
 } from 'd3-dsv';
 
 import {INIT_TABLES} from './referenceTables';
-import { SET_STEP } from './ui';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
@@ -39,6 +39,7 @@ export const LOGIN_CREATE_BRANCH_SUCCESS = 'LOGIN_CREATE_BRANCH_SUCCESS';
 export const LOGIN_CREATE_BRANCH_FAILURE = 'LOGIN_CREATE_BRANCH_FAILURE';
 
 export const UPDATE_REMOTE_FILES_REQUEST = 'UPDATE_REMOTE_FILES_REQUEST';
+export const UPDATE_REMOTE_FILES_LOG = 'UPDATE_REMOTE_FILES_LOG';
 export const UPDATE_REMOTE_FILES_SUCCESS = 'UPDATE_REMOTE_FILES_SUCCESS';
 export const UPDATE_REMOTE_FILES_FAILURE = 'UPDATE_REMOTE_FILES_FAILURE';
 
@@ -147,8 +148,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
   const {files, branch, auth} = payload;
 
   const github = new Octokat({
-    username: auth.username,
-    password: auth.token
+    token: auth.token
   });
 
   dispatch(async () => {
@@ -157,6 +157,25 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
       let baseReference = await repo.git.refs(`heads/${branch}`).fetch();
       let treeItems = [];
       for (let file of files) {
+        
+        if (!file.sha && file.fileName.includes('flows')){
+          //new file flow ?
+          //check if file already exists
+          dispatch({
+            type: UPDATE_REMOTE_FILES_LOG,
+            payload: `downloading existing flows file ${file.fileName}`
+          });
+          const exists = await get(`${repoRawContent}/${branch}/data/${file.fileName}`,{ responseType: 'text', responseEncoding: 'utf8'})
+          if (exists.status === 200) {
+            // append new rows at end of the existing file
+            file.data = csvParse(exists.data).concat(file.data) 
+          }
+          // else it's a new file nothing to do
+        }
+        dispatch({
+          type: UPDATE_REMOTE_FILES_LOG,
+          payload: `uploading ${file.fileName}`
+        });
         let fileGit = await repo.git.blobs.create({content: Base64.encode(csvFormat(file.data)), encoding: 'base64'});
         let filePath = `data/${file.fileName}`;
         treeItems.push({
@@ -166,10 +185,17 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
           type: "blob"
         })
       } 
-  
+      dispatch({
+        type: UPDATE_REMOTE_FILES_LOG,
+        payload: `creating tree`
+      });
       let tree = await repo.git.trees.create({
         tree: treeItems,
         base_tree: baseReference.object.sha
+      });
+      dispatch({
+        type: UPDATE_REMOTE_FILES_LOG,
+        payload: `creating commit`
       });
       let commit = await repo.git.commits.create({
         message: auth.message || DEFAULT_MESSAGE,
@@ -180,6 +206,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
       baseReference.update({sha: commit.sha});
       dispatch({
         type: UPDATE_REMOTE_FILES_SUCCESS,
+        payload: commit.sha
       });
     } catch(err) {
       console.error(err);
@@ -333,12 +360,21 @@ export default function reducer(state = initialState, action){
     case UPDATE_REMOTE_FILES_REQUEST:
       return {
         ...state,
-        remoteUpdateStatus: 'loading'
+        remoteUpdateStatus: 'loading',
+        lastCommit: null,
+        remoteUpdateMessage: null
       }
+    case UPDATE_REMOTE_FILES_LOG:
+        return {
+          ...state,
+          remoteUpdateStatus: 'loading',
+          remoteUpdateMessage: payload 
+        }
     case UPDATE_REMOTE_FILES_SUCCESS:
       return {
         ...state,
         remoteUpdateStatus: "updated",
+        lastCommit: payload
       }
     case UPDATE_REMOTE_FILES_FAILURE:
       return {

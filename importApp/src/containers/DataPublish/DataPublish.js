@@ -25,6 +25,7 @@ import {downloadFlow, downloadTable} from '../../utils/fileExporter';
 import GithubAuthModal from '../../components/GithubAuthModal';
 
 import {SOURCE_SLUG_FILENAME} from '../../constants';
+import {owner, repoName} from '../../config/default';
 
 
 class DataPublish extends React.Component {
@@ -45,7 +46,7 @@ class DataPublish extends React.Component {
 
   render () {
     const {flows, repoData, referenceTables, originalLength} = this.props;
-    const {selectedBranch, remoteUpdateStatus} = repoData;
+    const {selectedBranch, remoteUpdateStatus, lastCommit, remoteUpdateMessage} = repoData;
     const repoTables = repoData.tables;
 
     let updatedTables = [];
@@ -68,16 +69,15 @@ class DataPublish extends React.Component {
     // we need to source metadata to generate source filename
     const sources = keyBy(referenceTables.sources, s => s.slug);
     const parsedFlows = csvParse(flows.data.map(d => d.join(',')).join('\n'));
-    console.log(sources);
     const groupedFlows = groupBy(parsedFlows, (item) => SOURCE_SLUG_FILENAME(sources[item['source']]));
-    console.log(groupedFlows);
+
 
     const handleUpdateRemoteFiles= (auth) => {
       this.handleCloseModal();
 
       const flowFiles = Object.keys(groupedFlows).map((file) => {
         return {
-          fileName: `${file}.csv`,
+          fileName: `flows/${file}.csv`,
           data: groupedFlows[file]
         }
       });
@@ -142,8 +142,8 @@ class DataPublish extends React.Component {
           </Control>
         </Field>
         <Field>
-          {remoteUpdateStatus === 'loading' && <Help isColor='success'>updating files on github, please wait...</Help>}
-          {remoteUpdateStatus === 'updated' && <Help isColor='success'>files are updated on github</Help>}
+          {remoteUpdateStatus === 'loading' && <Help isColor='success'>updating files on github: {remoteUpdateMessage}...</Help>}
+          {remoteUpdateStatus === 'updated' && <Help isColor='success'>files have been commited on github see <a href={`https://github.com/${owner}/${repoName}/commit/${lastCommit}`}>commit details</a></Help>}
           {remoteUpdateStatus === 'fail' && <Help isColor='danger'>fail to update files on github</Help>}
         </Field>
         <GithubAuthModal 
