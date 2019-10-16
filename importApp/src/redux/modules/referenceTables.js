@@ -3,15 +3,9 @@ import { createReducer } from 'redux-starter-kit';
 import {
   csvParse,
 } from 'd3-dsv';
-import {Base64} from 'js-base64';
 
-import {pullAll, isEqual} from 'lodash';
+import {isEqual} from 'lodash';
 
-import {
-  FETCH_TABLES_SUCCESS,
-  FETCH_DATAPACKAGE_SUCCESS,
-
-} from './repoData';
 
 export const ADD_TABLE_ROW = 'ADD_TABLE_ROW';
 export const INIT_TABLES = 'INIT_TABLES';
@@ -42,7 +36,7 @@ export default createReducer(initialState, {
     const referenceTables = {}
     const originalLength = {}
     Object.keys(payload).forEach((id) => {
-      referenceTables[id] = csvParse(Base64.decode(payload[id].content), (d) => {
+      referenceTables[id] = csvParse(payload[id], (d) => {
         if (d.year) {
           return {
             ...d,

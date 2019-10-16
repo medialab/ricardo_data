@@ -15,3 +15,7 @@ def source_slugify(source):
 
 def source_filename(source):
     return unidecode(_generic_source_slugify(source, source_fields_filename(source)))
+
+def source_label(source, with_pages=True):
+    fields = source_fields_slug(source) if not with_pages else source_fields_slug(source) + ['pages']
+    return ', '.join([source[f] for f in (source_fields_slug(source)) if f in source and source[f] and source[f] != ''])

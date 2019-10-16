@@ -396,7 +396,7 @@ export default function reducer(state = initialState, action){
     case FETCH_DATAPACKAGE_SUCCESS:
       return {
         ...state,
-        descriptor: JSON.parse(Base64.decode(payload.content))
+        descriptor: payload
       }
     case VALIDATE_HEADER_REQUEST: 
     case VALIDATE_HEADER_FAILURE:

@@ -1,7 +1,7 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
 import {connect} from 'react-redux';
-import {groupBy, pick} from 'lodash';
+import {groupBy, keyBy} from 'lodash';
 
 import {
   Button,
@@ -23,6 +23,8 @@ import {updateRemoteFiles} from '../../redux/modules/repoData';
 
 import {downloadFlow, downloadTable} from '../../utils/fileExporter';
 import GithubAuthModal from '../../components/GithubAuthModal';
+
+import {SOURCE_SLUG_FILENAME} from '../../constants';
 
 
 class DataPublish extends React.Component {
@@ -62,9 +64,13 @@ class DataPublish extends React.Component {
       downloadFlow(data, `${file.name}_corrections`, 'csv')
     }
     
+    // group flows by source filename
+    // we need to source metadata to generate source filename
+    const sources = keyBy(referenceTables.sources, s => s.slug);
     const parsedFlows = csvParse(flows.data.map(d => d.join(',')).join('\n'));
-    const groupedFlows = groupBy(parsedFlows, (item) => item['source']);
-
+    console.log(sources);
+    const groupedFlows = groupBy(parsedFlows, (item) => SOURCE_SLUG_FILENAME(sources[item['source']]));
+    console.log(groupedFlows);
 
     const handleUpdateRemoteFiles= (auth) => {
       this.handleCloseModal();
