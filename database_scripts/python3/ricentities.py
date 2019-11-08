@@ -31,7 +31,7 @@ def geolocalize_RICentities(datadir = '../../data', group= False, replace = True
                         print('error,%s,%s,%s'%(entity['RICname'],entity['wikidata'],e))
                     #throttle
                     time.sleep(0.6)
-            if entity['lat'] == '' and entity['type'] == 'group':
+            if entity['type'] == 'group':
                 # group to be geolocalized
                 group_entities.append(entity)
             entities_index[entity['RICname']] = entity
@@ -41,17 +41,18 @@ def geolocalize_RICentities(datadir = '../../data', group= False, replace = True
                 subentities = entity['RICname'].split(' & ')
                 # filter only those which has coordinates
                 try:
-                    geoloc_subentities = [(wgs84(float(entities_index[s]['lat']), float(entities_index[s]['lng']), errcheck=True)) for s in subentities if s in entities_index and entities_index[s]['lat'] != '']
+                    geoloc_subentities = [(wgs84(float(entities_index[s]['lng']), float(entities_index[s]['lat']), errcheck=True)) for s in subentities if s in entities_index and entities_index[s]['lat'] != '']
                     if len(geoloc_subentities) > 0:
                         # calculate centroid of subentities polygon
-                        centroid = MultiPoint(geoloc_subentities).centroid
-                        entity['lat'], entity['lng'] = wgs84(centroid.x, centroid.y, inverse=True)
+                        centroid = MultiPoint(geoloc_subentities).convex_hull.centroid
+                        entity['lng'], entity['lat'] = wgs84(centroid.x, centroid.y, inverse=True)
                         print('ok,%s,,%s/%s from %s on %s subs'%(entity['RICname'],entity['lat'], entity['lng'], len(geoloc_subentities), len(subentities)))
                     else:
                         print('error,%s,,%s geoloc on %s subs'%(entity['RICname'], len(geoloc_subentities), len(subentities)))
                 except Exception as e:
                     print(entity['RICname'])
                     print(e)
+                    print([(float(entities_index[s]['lat']), float(entities_index[s]['lng'])) for s in subentities if s in entities_index and entities_index[s]['lat'] != ''])
         # write to output file
         entities_geoloc.writerows(entities_index.values())
     # replace file
@@ -78,4 +79,4 @@ def geolocalize_RICentities(datadir = '../../data', group= False, replace = True
 #         new_entities.writerows(entities_filtered)
 #         print("wrote %s entities in RICentities.csv"%len(entities_filtered))
 
-geolocalize_RICentities(datadir='../../data/', group=False, replace = False)
+geolocalize_RICentities(datadir='../../data/', group=True, replace = False)
