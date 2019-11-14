@@ -14,4 +14,4 @@ with open('../../data/RICentities.csv', 'r', encoding='utf8') as f, open('./SAGE
         'wikidata':e['wikidata']
     }
     sageo_nodes.writeheader()
-    sageo_nodes.writerows(translate(e) for e in entities if 'lat' != '')
+    sageo_nodes.writerows(translate(e) for e in entities if e['lat'] != '')
