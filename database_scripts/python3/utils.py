@@ -1,4 +1,5 @@
 import re
+import os
 from unidecode import unidecode
 
 # source slug generation
@@ -19,3 +20,16 @@ def source_filename(source):
 def source_label(source, with_pages=True):
     fields = source_fields_slug(source) if not with_pages else source_fields_slug(source) + ['pages']
     return ', '.join([source[f] for f in (source_fields_slug(source)) if f in source and source[f] and source[f] != ''])
+
+
+def join_flows(data_dir = '../../data'):
+    with open(os.path.join(data_dir, 'flows.csv'), 'w', encoding='utf8') as flow_one_f:
+        headers_wrote = False
+        for path, dirs, flow_files in os.walk(os.path.join(data_dir, 'flows')):
+            for flow_file in flow_files:
+                with open(os.path.join(path,flow_file), 'r', encoding='utf8') as f:
+                    if headers_wrote:
+                        # remove headers
+                        f.readline()
+                    flow_one_f.write(f.read())
+                    headers_wrote = True
