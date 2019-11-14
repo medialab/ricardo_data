@@ -174,7 +174,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
     if reporting not in RICentities:
       print 'undocumented RIC %s'%reporting
       RICentities[reporting]={'RICname':reporting, 'nb_flows_as_reporting': nb_flows, 'nb_flows_as_partner': 0}
-    # y'a un problème avec nb_flows_as_reporting
+    # y'a un probleme avec nb_flows_as_reporting
     RICentities[reporting][str(year)] = "ft_reporting" if ft else "reporting"
     
   select_partners="""
@@ -196,7 +196,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
       RICentities[partner]={'RICname': partner, 'nb_flows_as_reporting': 0, 'nb_flows_as_partner': nb_flows}
     if str(year) not in RICentities[partner]:
       RICentities[partner][str(year)] = "ft_partner_only" if ft else "partner_only"
-      # y'a un bug là !!
+      # y'a un bug la !!
       RICentities[partner]['nb_flows_as_partner'] = nb_flows
 
 

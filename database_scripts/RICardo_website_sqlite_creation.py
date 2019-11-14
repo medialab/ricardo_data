@@ -7,7 +7,6 @@ import json
 import itertools
 import utils
 import re
-import FedericoTena
 import custom_exports
 
 try :
@@ -31,8 +30,6 @@ utils.csv2sqlite("../data/*.csv",database_filename,conf["sqlite_schema"])
 conn=sqlite3.connect(database_filename)
 c=conn.cursor()
 
-# print "importing Federico Tena from csv"
-FedericoTena.import_federicotena(c)
 
 ################################################################################
 ##			UPDATE OR CREATE RICentities slug
@@ -194,7 +191,7 @@ c.execute("""SELECT count(*) as nb,group_concat(notes,'|'),group_concat(ID,'|'),
 
 ids_to_remove=[]
 for n,notes,ids,sources in c :
-	if n==2:
+	if n==2 and notes:
 		i=notes.split("|").index("Valeur officielle")
 		id=ids.split("|")[i]
 		#print sources.split("|")[i].encode("UTF8")
