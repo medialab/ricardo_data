@@ -9,7 +9,7 @@
     "@fortawesome/react-fontawesome": "^0.1.4",
     "axios": "^0.18.0",
     "d3-dsv": "^1.1.1",
-    "datapackage": "^1.1.1",
+    "datapackage": "^1.1.7",
     "design-workshop": "git+https://github.com/medialab/design-workshop.git",
     "file-saver": "^2.0.2",
     "js-base64": "^2.5.1",

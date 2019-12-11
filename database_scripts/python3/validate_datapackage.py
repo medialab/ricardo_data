@@ -11,13 +11,14 @@ if not p.valid:
         print(error)
 resources_outside_group = (r.name for r in p.resources if not r.group)
 for resource in p.resources:
-    print(resource.name)
+    #print(resource.name)
     if not resource.valid:
         for error in resource.errors:
             print(error)
     try:
         if resource.name in resources_outside_group:
-            print("relations")
+            print("%s relations"%resource.name)
+            resource.read()
             resource.check_relations()
             # relations are kept in the resource object => memory leak
             resource.drop_relations()
@@ -25,6 +26,8 @@ for resource in p.resources:
         if exception.multiple:
             for error in exception.errors:
                 print(error)
+        else:
+            print(exception)
 
 flows_group = p.get_group('flows')
 try:

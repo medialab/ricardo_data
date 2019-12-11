@@ -462,7 +462,7 @@ export const getResourceSchema = createSelector(
   getResourceName,
   getResources,
   (resourceName, resources) => {
-    const selectedResource = resources.find((resource) => resource.name === resourceName);
+    const selectedResource = resources.find((resource) => resource.name === resourceName || resource.group === resourceName);
     return selectedResource.schema
 })
 

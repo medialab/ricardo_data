@@ -89,7 +89,7 @@ class ReferenceResourceForm extends React.Component {
       return;
     }
     
-    if (resourceDescriptor.name === 'RICentities' && payload.fieldName === 'type' && payload.value === 'group') {
+    if (resourceDescriptor.name === 'ricentities' && payload.fieldName === 'type' && payload.value === 'group') {
       this.props.onSelectGroup()
     }
 

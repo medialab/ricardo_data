@@ -1,0 +1,3297 @@
+COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
+2,United States of America,1816,2019,Sovereign,
+3,Alaska,1816,1867,Became colony of,365
+3,Alaska,1867,1959,Became colony of,2
+3,Alaska,1959,2019,Became part of,2
+4,Hawaii,1816,1898,Sovereign (unrecognised),
+4,Hawaii,1898,1960,Became colony of,2
+4,Hawaii,1960,2019,Became part of,2
+5,Virgin Islands,1816,1917,Became colony of,390
+5,Virgin Islands,1917,2019,Became colony of,2
+6,Puerto Rico,1816,1821,Became part of,1070
+6,Puerto Rico,1821,1898,Became colony of,230
+6,Puerto Rico,1898,1952,Became colony of,2
+6,Puerto Rico,1952,2019,Became dependency of,2
+7,Texas,1816,1836,Became part of,70
+7,Texas,1836,1845,Sovereign,
+7,Texas,1845,1861,Became part of,2
+7,Texas,1861,1865,Became part of,1002
+7,Texas,1865,2019,Became part of,2
+10,Greenland,1816,1953,Became colony of,390
+10,Greenland,1941,1945,Occupied by,2
+10,Greenland,1953,1979,Became part of,390
+10,Greenland,1979,2019,Became dependency of,390
+11,Faeroe Is.,1816,1947,Became colony of,390
+11,Faeroe Is.,1940,1945,Occupied by,200
+11,Faeroe Is.,1947,2019,Became dependency of,390
+20,Canada (Province of Canada),1841,1920,Became colony of,200
+20,Canada (Province of Canada),1920,2019,Sovereign,
+21,Newfoundland,1816,1949,Became colony of,200
+21,Newfoundland,1949,2019,Became part of,20
+30,Bermuda,1816,2019,Became colony of,200
+31,Bahamas,1816,1973,Became colony of,200
+31,Bahamas,1973,2019,Sovereign,
+40,Cuba,1816,1821,Became part of,1070
+40,Cuba,1816,1898,Became colony of,230
+40,Cuba,1898,1902,Occupied by,2
+40,Cuba,1906,1909,Occupied by,2
+40,Cuba,1902,2019,Sovereign,
+41,Haiti,1915,1934,Occupied by,2
+41,Haiti,1816,1915,Sovereign,
+41,Haiti,1934,2019,Sovereign,
+42,Dominican Republic (Santo Domingo),1816,1821,Became colony of,230
+42,Dominican Republic (Santo Domingo),1816,1821,Became part of,1070
+42,Dominican Republic (Santo Domingo),1822,1844,Occupied by,41
+42,Dominican Republic (Santo Domingo),1844,1861,Sovereign,
+42,Dominican Republic (Santo Domingo),1861,1865,Became colony of,230
+42,Dominican Republic (Santo Domingo),1916,1924,Occupied by,2
+42,Dominican Republic (Santo Domingo),1965,1966,Occupied by,2
+42,Dominican Republic (Santo Domingo),1865,1916,Sovereign,
+42,Dominican Republic (Santo Domingo),1924,2019,Sovereign,
+50,West Indies Federation,1958,1962,Became colony of,200
+51,Jamaica,1816,1958,Became colony of,200
+51,Jamaica,1958,1962,Became part of,50
+51,Jamaica,1962,2019,Sovereign,
+52,Trinidad and Tobago,1816,1958,Became colony of,200
+52,Trinidad and Tobago,1958,1962,Became part of,50
+52,Trinidad and Tobago,1962,2019,Sovereign,
+53,Barbados,1816,1833,Became colony of,200
+53,Barbados,1833,1885,Became part of,1055
+53,Barbados,1885,1958,Became colony of,200
+53,Barbados,1958,1962,Became part of,50
+53,Barbados,1962,1966,Became colony of,200
+53,Barbados,1966,2019,Sovereign,
+54,Dominica,1816,1871,Became colony of,200
+54,Dominica,1871,1940,Became part of,1063
+54,Dominica,1940,1958,Became part of,1055
+54,Dominica,1958,1962,Became part of,50
+54,Dominica,1962,1967,Became colony of,200
+54,Dominica,1967,1978,Became associated state of,200
+54,Dominica,1978,2019,Sovereign,
+55,Grenada,1816,1833,Became colony of,200
+55,Grenada,1833,1958,Became part of,1055
+55,Grenada,1958,1962,Became part of,50
+55,Grenada,1962,1967,Became colony of,200
+55,Grenada,1967,1974,Became associated state of,200
+55,Grenada,1983,1985,Occupied by,2
+55,Grenada,1974,2019,Sovereign,
+56,St. Lucia,1816,1833,Became colony of,200
+56,St. Lucia,1833,1958,Became part of,1055
+56,St. Lucia,1958,1962,Became part of,50
+56,St. Lucia,1962,1967,Became colony of,200
+56,St. Lucia,1967,1979,Became associated state of,200
+56,St. Lucia,1979,2019,Sovereign,
+57,St. Vincent and the Grenadines,1816,1833,Became colony of,200
+57,St. Vincent and the Grenadines,1833,1958,Became part of,1055
+57,St. Vincent and the Grenadines,1958,1962,Became part of,50
+57,St. Vincent and the Grenadines,1962,1969,Became colony of,200
+57,St. Vincent and the Grenadines,1969,1979,Became associated state of,200
+57,St. Vincent and the Grenadines,1979,2019,Sovereign,
+58,Antigua & Barbuda,1816,1833,Became colony of,200
+58,Antigua & Barbuda,1833,1956,Became part of,1063
+58,Antigua & Barbuda,1956,1958,Became colony of,200
+58,Antigua & Barbuda,1958,1962,Became part of,50
+58,Antigua & Barbuda,1962,1967,Became colony of,200
+58,Antigua & Barbuda,1967,1981,Became associated state of,200
+58,Antigua & Barbuda,1981,2019,Sovereign,
+59,Montserrat,1816,1833,Became colony of,200
+59,Montserrat,1833,1956,Became part of,1063
+59,Montserrat,1956,1958,Became colony of,200
+59,Montserrat,1958,1962,Became part of,50
+59,Montserrat,1962,2019,Became colony of,200
+60,St. Kitts-Nevis,1882,1956,Became part of,1063
+60,St. Kitts-Nevis,1956,1958,Became colony of,200
+60,St. Kitts-Nevis,1958,1962,Became part of,50
+60,St. Kitts-Nevis,1962,1967,Became colony of,200
+60,St. Kitts-Nevis,1967,1983,Became associated state of,200
+60,St. Kitts-Nevis,1983,2019,Sovereign,
+65,Guadeloupe,1816,1816,Occupied by,200
+65,Guadeloupe,1816,1947,Became colony of,220
+65,Guadeloupe,1947,2019,Became part of,200
+66,Martinique,1816,1947,Became colony of,220
+66,Martinique,1947,2019,Became part of,200
+68,Netherlands Antilles,1828,1954,Became colony of,210
+68,Netherlands Antilles,1954,2010,Became dependency of,210
+70,Mexico,1816,1821,Became colony of,1070
+70,Mexico,1847,1848,Occupied by,2
+70,Mexico,1863,1867,Occupied by,220
+70,Mexico,1821,2019,Sovereign,
+80,Belize (British Honduras),1816,1862,Became colony of,200
+80,Belize (British Honduras),1862,1884,Became part of,51
+80,Belize (British Honduras),1884,1981,Became colony of,200
+80,Belize (British Honduras),1981,2019,Sovereign,
+89,United States of Central America,1816,1821,Became part of,1070
+89,United States of Central America,1816,1821,Became colony of,230
+89,United States of Central America,1822,1823,Became part of,70
+89,United States of Central America,1823,1841,Sovereign,
+90,Guatemala,1816,1821,Became part of,1070
+90,Guatemala,1821,1823,Became part of,70
+90,Guatemala,1823,1839,Became part of,89
+90,Guatemala,1839,2019,Sovereign,
+91,Honduras,1816,1821,Became part of,1070
+91,Honduras,1821,1823,Became part of,70
+91,Honduras,1823,1838,Became part of,89
+91,Honduras,1838,2019,Sovereign,
+92,El Salvador,1816,1821,Became part of,1070
+92,El Salvador,1821,1823,Became part of,70
+92,El Salvador,1823,1841,Became part of,89
+92,El Salvador,1841,2019,Sovereign,
+93,Nicaragua,1816,1821,Became part of,1070
+93,Nicaragua,1821,1823,Became part of,70
+93,Nicaragua,1823,1838,Became part of,89
+93,Nicaragua,1912,1925,Occupied by,2
+93,Nicaragua,1927,1933,Occupied by,2
+93,Nicaragua,1838,2019,Sovereign,
+94,Costa Rica,1816,1821,Became part of,1070
+94,Costa Rica,1821,1823,Became part of,70
+94,Costa Rica,1823,1838,Became part of,89
+94,Costa Rica,1838,2019,Sovereign,
+95,Panama,1816,1821,Became colony of,230
+95,Panama,1821,1903,Became part of,100
+95,Panama,1989,1990,Occupied by,2
+95,Panama,1903,2019,Sovereign,
+96,Panama Canal Zone,1816,1903,Became part of,100
+96,Panama Canal Zone,1903,1979,Leased to,2
+96,Panama Canal Zone,1979,2019,Became part of,95
+100,Colombia (Gran Colombia),1816,1819,Became colony of,230
+100,Colombia (Gran Colombia),1819,2019,Sovereign,
+101,Venezuela,1816,1819,Became colony of,230
+101,Venezuela,1819,1830,Became part of,100
+101,Venezuela,1830,2019,Sovereign,
+110,Guyana (Br. Guiana),1831,1966,Became colony of,200
+110,Guyana (Br. Guiana),1966,2019,Sovereign,
+115,Surinam,1816,1828,Became colony of,210
+115,Surinam,1828,1845,Became part of,68
+115,Surinam,1845,1954,Became colony of,210
+115,Surinam,1954,1975,Became dependency of,210
+115,Surinam,1975,2019,Sovereign,
+120,French Guyana,1816,1817,Occupied by,235
+120,French Guyana,1817,1947,Became colony of,220
+120,French Guyana,1947,2019,Became part of,220
+130,Ecuador,1816,1819,Became colony of,230
+130,Ecuador,1819,1830,Became part of,100
+130,Ecuador,1830,2019,Sovereign,
+135,Peru,1816,1821,Became part of,1135
+135,Peru,1821,1836,Sovereign,
+135,Peru,1836,1839,Became part of,136
+135,Peru,1880,1883,Occupied by,155
+135,Peru,1839,2019,Sovereign,
+136,Bolivia-Peru Confederation,1836,1839,Sovereign (unrecognised),
+140,Brazil,1816,1822,Became colony of,235
+140,Brazil,1822,2019,Sovereign,
+145,Bolivia,1816,1816,Became part of,1160
+145,Bolivia,1816,1825,Became colony of,230
+145,Bolivia,1836,1839,Became part of,136
+145,Bolivia,1825,1836,Sovereign,
+145,Bolivia,1839,2019,Sovereign,
+150,Paraguay,1870,1876,Occupied by,140
+150,Paraguay,1816,2019,Sovereign,
+155,Chile,1816,1817,Became part of,1135
+155,Chile,1818,2019,Sovereign,
+160,Argentina,1816,1816,Became part of,1160
+160,Argentina,1816,2019,Sovereign,
+165,Uruguay,1816,1816,Became part of,1160
+165,Uruguay,1816,1828,Became part of,140
+165,Uruguay,1828,2019,Sovereign,
+200,United Kingdom,1816,2019,Sovereign,
+205,Ireland,1816,1922,Became part of,200
+205,Ireland,1922,2019,Sovereign,
+210,Netherlands,1940,1945,Occupied by,255
+210,Netherlands,1816,1940,Sovereign,
+210,Netherlands,1945,2019,Sovereign,
+211,Belgium,1816,1830,Became part of,210
+211,Belgium,1914,1918,Occupied by,255
+211,Belgium,1940,1945,Occupied by,255
+211,Belgium,1830,1940,Sovereign,
+211,Belgium,1945,2019,Sovereign,
+212,Luxemburg,1816,1890,Became part of,210
+212,Luxemburg,1890,1914,Sovereign,
+212,Luxemburg,1914,1918,Occupied by,255
+212,Luxemburg,1918,1940,Sovereign,
+212,Luxemburg,1940,1944,Occupied by,255
+212,Luxemburg,1944,2019,Sovereign,
+220,France,1816,1818,Occupied by,200
+220,France,1871,1873,Occupied by,255
+220,France,1914,1918,Occupied by,255
+220,France,1942,1944,Occupied by,255
+220,France,1816,1942,Sovereign,
+220,France,1944,2019,Sovereign,
+221,Monaco,1816,1861,Became protectorate of,324
+221,Monaco,1861,1940,Sovereign,
+221,Monaco,1940,1943,Occupied by,325
+221,Monaco,1943,1944,Occupied by,255
+221,Monaco,1944,2019,Sovereign,
+223,Liechtenstein,1816,1867,Sovereign (limited),
+223,Liechtenstein,1867,1918,Became part of,300
+223,Liechtenstein,1918,1921,Unknown,
+223,Liechtenstein,1921,1990,Sovereign (limited),
+223,Liechtenstein,1990,2019,Sovereign,
+225,Switzerland,1816,2019,Sovereign,
+230,Spain,1816,2019,Sovereign,
+231,Gibraltar,1816,2019,Became colony of,200
+232,Andorra,1816,1993,Became part of,220
+232,Andorra,1993,2019,Sovereign,
+235,Portugal,1816,2019,Sovereign,
+239,Prussia,1816,1871,Sovereign,
+239,Prussia,1871,1945,Became part of,255
+239,Prussia,1945,1947,Occupied by,365
+240,Hanover,1816,1837,Became part of,200
+240,Hanover,1837,1867,Sovereign (limited),
+240,Hanover,1867,1871,Became part of,239
+241,Anhalt Dessau,1816,1863,Sovereign (limited),
+241,Anhalt Dessau,1863,1867,Became part of,249
+242,Anhalt Köthen,1816,1847,Sovereign (limited),
+242,Anhalt Köthen,1847,1863,Became part of,241
+243,Anhalt Bernburg,1816,1863,Sovereign (limited),
+243,Anhalt Bernburg,1863,1867,Became part of,241
+244,Brunswick,1816,1871,Sovereign (limited),
+244,Brunswick,1871,1945,Became part of,255
+245,Bavaria,1816,1871,Sovereign (limited),
+245,Bavaria,1871,1945,Became part of,255
+245,Bavaria,1945,1949,Occupied by,2
+245,Bavaria,1949,1990,Became part of,260
+245,Bavaria,1990,2019,Became part of,255
+246,Bremen,1816,1867,Sovereign,
+246,Bremen,1867,1945,Became part of,255
+246,Bremen,1947,1949,Occupied by,2
+246,Bremen,1949,1990,Became part of,260
+246,Bremen,1990,2019,Became part of,255
+247,Frankfurt,1816,1867,Sovereign,
+247,Frankfurt,1867,1871,Became part of,239
+248,Hamburg,1816,1867,Sovereign,
+248,Hamburg,1867,1945,Became part of,255
+248,Hamburg,1945,1949,Occupied by,200
+248,Hamburg,1949,1990,Became part of,260
+248,Hamburg,1990,2019,Became part of,255
+249,Saxony Anhalt (Anhalt),1863,1867,Sovereign (limited),
+249,Saxony Anhalt (Anhalt),1867,1945,Became part of,255
+249,Saxony Anhalt (Anhalt),1945,1947,Occupied by,365
+249,Saxony Anhalt (Anhalt),1947,1952,Became part of,265
+249,Saxony Anhalt (Anhalt),1990,2019,Became part of,255
+250,Hohenzollern Hechingen,1816,1849,Sovereign (limited),
+250,Hohenzollern Hechingen,1849,1871,Became part of,239
+251,Hohenzollern Sigmaringen,1816,1849,Sovereign (limited),
+251,Hohenzollern Sigmaringen,1849,1871,Became part of,239
+252,Lippe,1816,1867,Sovereign (limited),
+252,Lippe,1867,1945,Became part of,255
+253,Mecklenburg Strelitz,1816,1867,Sovereign (limited),
+253,Mecklenburg Strelitz,1867,1945,Became part of,255
+253,Mecklenburg Strelitz,1945,1952,Became part of,279
+254,Nassau,1816,1867,Sovereign (limited),
+254,Nassau,1867,1871,Became part of,239
+255,Germany,1816,1867,Informal,
+255,Germany,1867,1871,Sovereign (limited),
+255,Germany,1871,1945,Sovereign,
+255,Germany,1945,1990,Became part of,260
+255,Germany,1945,1990,Became part of,265
+255,Germany,1990,2019,Sovereign,
+256,Saar,1816,1871,Became part of,245
+256,Saar,1871,1920,Became part of,255
+256,Saar,1920,1935,Mandated to,0
+256,Saar,1935,1945,Became part of,255
+256,Saar,1945,1947,Occupied by,220
+256,Saar,1947,1957,Became protectorate of,220
+256,Saar,1957,1990,Became part of,260
+256,Saar,1990,2019,Became part of,255
+257,Oldenburg,1816,1867,Sovereign (limited),
+257,Oldenburg,1867,1945,Became part of,255
+258,"Reuss, Older Line",1816,1867,Sovereign (limited),
+258,"Reuss, Older Line",1867,1945,Became part of,255
+259,"Reuss, Younger Line",1816,1867,Sovereign (limited),
+259,"Reuss, Younger Line",1867,1945,Became part of,255
+260,German Federal Republic,1945,1949,Occupied by,2
+260,German Federal Republic,1949,1990,Sovereign,
+260,German Federal Republic,1990,2019,Became part of,255
+261,Saxe Weimar,1816,1867,Sovereign (limited),
+261,Saxe Weimar,1867,1918,Became part of,255
+262,Saxe Altenburg,1816,1826,Became part of,263
+262,Saxe Altenburg,1826,1867,Became part of,2661
+263,Saxe Gotha,1816,1826,Sovereign (limited),
+263,Saxe Gotha,1826,1867,Became part of,264
+264,Saxe Coburg,1816,1867,Sovereign (limited),
+264,Saxe Coburg,1867,1920,Became part of,255
+265,German Democratic Republic,1945,1949,Occupied by,365
+265,German Democratic Republic,1949,1990,Sovereign,
+265,German Democratic Republic,1990,2019,Became part of,255
+266,Saxe Meiningen,1816,1867,Sovereign (limited),
+266,Saxe Meiningen,1867,1918,Became part of,255
+267,Baden,1816,1871,Sovereign (limited),
+267,Baden,1871,1945,Became part of,255
+267,Baden,1945,1952,Occupied by,2
+267,Baden,1945,1952,Occupied by,220
+267,Baden,1952,2019,Became part of,2606
+268,Schwartzburg Sonderhausen,1816,1867,Sovereign (limited),
+268,Schwartzburg Sonderhausen,1867,1918,Became part of,255
+269,Saxony,1816,1867,Sovereign (limited),
+269,Saxony,1867,1945,Became part of,255
+269,Saxony,1945,1949,Occupied by,365
+269,Saxony,1949,1990,Became part of,265
+269,Saxony,1990,2019,Became part of,255
+270,Schwartzburg Rodolstadt,1816,1867,Sovereign (limited),
+270,Schwartzburg Rodolstadt,1867,1918,Became part of,255
+271,Wuerttemberg,1816,1871,Sovereign (limited),
+271,Wuerttemberg,1871,1945,Became part of,255
+271,Wuerttemberg,1945,1952,Occupied by,2
+271,Wuerttemberg,1945,1952,Occupied by,220
+271,Wuerttemberg,1952,2019,Became part of,2606
+272,Waldeck,1816,1867,Sovereign (limited),
+272,Waldeck,1867,1921,Became part of,255
+273,Hesse Electoral,1816,1867,Sovereign (limited),
+273,Hesse Electoral,1867,1945,Became part of,239
+274,Schaumburg Lippe,1816,1867,Sovereign (limited),
+274,Schaumburg Lippe,1867,1945,Became part of,255
+275,Hesse Grand Ducal,1816,1867,Sovereign (limited),
+275,Hesse Grand Ducal,1867,1945,Became part of,239
+276,Lübeck,1816,1867,Sovereign,
+276,Lübeck,1867,1945,Became part of,255
+280,Mecklenburg Schwerin,1816,1867,Sovereign (limited),
+280,Mecklenburg Schwerin,1867,1945,Became part of,255
+280,Mecklenburg Schwerin,1945,1952,Became part of,279
+290,Poland,1816,1918,Became part of,365
+290,Poland,1816,1867,Became part of,305
+290,Poland,1867,1918,Became part of,300
+290,Poland,1816,1918,Became part of,239
+290,Poland,1918,1939,Sovereign,
+290,Poland,1939,1945,Occupied by,255
+290,Poland,1939,1941,Occupied by,365
+290,Poland,1944,1949,Occupied by,365
+290,Poland,1945,2019,Sovereign,
+291,Danzig,1816,1920,Became part of,239
+291,Danzig,1920,1939,Mandated to,0
+291,Danzig,1939,1945,Became part of,255
+291,Danzig,1945,2019,Became part of,290
+300,Austria-Hungary,1867,1918,Sovereign,
+305,Austria,1816,1867,Sovereign,
+305,Austria,1867,1918,Became part of,300
+305,Austria,1918,1938,Sovereign,
+305,Austria,1938,1945,Became part of,255
+305,Austria,1945,1955,Occupied by,365
+305,Austria,1955,2019,Sovereign,
+310,Hungary,1816,1867,Became part of,305
+310,Hungary,1867,1918,Became part of,300
+310,Hungary,1918,2019,Sovereign,
+310,Hungary,1944,1945,Occupied by,255
+310,Hungary,1945,1949,Occupied by,365
+310,Hungary,1956,1957,Occupied by,365
+315,Czechoslovakia,1918,1939,Sovereign,
+315,Czechoslovakia,1939,1945,Occupied by,255
+315,Czechoslovakia,1945,1945,Occupied by,365
+315,Czechoslovakia,1945,1992,Sovereign,
+315,Czechoslovakia,1968,1969,Occupied by,365
+316,Czech Republic,1816,1867,Became part of,305
+316,Czech Republic,1867,1918,Became part of,300
+316,Czech Republic,1918,1992,Became part of,315
+316,Czech Republic,1993,2019,Sovereign,
+317,Slovakia,1816,1867,Became part of,305
+317,Slovakia,1867,1918,Became part of,300
+317,Slovakia,1918,1992,Became part of,315
+317,Slovakia,1993,2019,Sovereign,
+324,Kingdom of Sardinia,1816,1861,Sovereign,
+324,Kingdom of Sardinia,1861,1861,Became part of,325
+325,Italy,1816,1861,Informal,
+325,Italy,1861,2019,Sovereign,
+325,Italy,1943,1946,Occupied by,2
+325,Italy,1943,1945,Occupied by,255
+326,Trieste,1816,1867,Became part of,305
+326,Trieste,1867,1918,Became part of,300
+326,Trieste,1918,1943,Became part of,325
+326,Trieste,1943,1947,Occupied by,2
+326,Trieste,1947,1954,Mandated to,1
+326,Trieste,1954,2019,Became part of,325
+327,Papal States,1816,1861,Sovereign,
+327,Papal States,1861,1870,Became part of,325
+328,Vatican City,1816,1870,Became part of,327
+328,Vatican City,1870,1929,Became part of,325
+328,Vatican City,1929,2019,Sovereign,
+329,Two Sicilies,1816,1860,Sovereign,
+329,Two Sicilies,1860,1861,Became part of,324
+331,San Marino,1816,1992,Sovereign,
+331,San Marino,1992,2019,Sovereign,
+332,Modena,1816,1859,Became part of,305
+332,Modena,1859,1861,Became part of,324
+332,Modena,1861,2019,Became part of,325
+335,Parma,1816,1860,Sovereign,
+335,Parma,1860,1861,Became part of,324
+335,Parma,1861,2019,Became part of,325
+336,Lucca,1816,1847,Became part of,335
+336,Lucca,1847,1860,Became part of,337
+336,Lucca,1860,1861,Became part of,324
+336,Lucca,1861,2019,Became part of,325
+337,Tuscany,1861,2019,Became part of,325
+337,Tuscany,1816,1861,Sovereign,
+338,Malta,1816,1964,Became colony of,200
+338,Malta,1964,2019,Sovereign,
+339,Albania,1816,1912,Became part of,640
+339,Albania,1912,1939,Sovereign,
+339,Albania,1914,1919,Occupied by,325
+339,Albania,1914,1918,Occupied by,300
+339,Albania,1939,1943,Occupied by,325
+339,Albania,1939,1944,Occupied by,255
+339,Albania,1944,2019,Sovereign,
+341,Montenegro,1816,1878,Became colony of,640
+341,Montenegro,1878,1915,Sovereign,
+341,Montenegro,1915,1918,Occupied by,300
+341,Montenegro,1918,2006,Became part of,345
+341,Montenegro,2006,2019,Sovereign,
+343,"Macedonia, Former Yugoslav Republic of",1816,1912,Became part of,640
+343,"Macedonia, Former Yugoslav Republic of",1912,1993,Became part of,345
+343,"Macedonia, Former Yugoslav Republic of",1993,2019,Sovereign,
+344,Croatia,1816,1918,Became part of,640
+344,Croatia,1918,1941,Became part of,345
+344,Croatia,1941,1945,Occupied by,325
+344,Croatia,1945,1992,Became part of,345
+344,Croatia,1992,2019,Sovereign,
+345,Yugoslavia/Serbia,1816,1878,Became part of,640
+345,Yugoslavia/Serbia,1878,1941,Sovereign,
+345,Yugoslavia/Serbia,1914,1918,Occupied by,300
+345,Yugoslavia/Serbia,1941,1944,Occupied by,255
+345,Yugoslavia/Serbia,1944,2019,Sovereign,
+346,Bosnia-Herzegovina,1816,1878,Became part of,640
+346,Bosnia-Herzegovina,1878,1908,Occupied by,300
+346,Bosnia-Herzegovina,1908,1918,Became part of,300
+346,Bosnia-Herzegovina,1918,1991,Became part of,345
+346,Bosnia-Herzegovina,1992,2019,Sovereign,
+347,Kosovo,1816,1912,Became part of,640
+347,Kosovo,1912,1918,Unknown,
+347,Kosovo,1918,2008,Became part of,345
+347,Kosovo,2008,2019,Sovereign (unrecognised),
+349,Slovenia,1918,1991,Became part of,345
+349,Slovenia,1992,2019,Sovereign,
+350,Greece,1816,1828,Became part of,640
+350,Greece,1828,1941,Sovereign,
+350,Greece,1941,1943,Occupied by,325
+350,Greece,1941,1944,Occupied by,255
+350,Greece,1944,2019,Sovereign,
+351,Crete,1816,1913,Became part of,640
+351,Crete,1898,1913,Occupied by,200
+351,Crete,1913,2019,Became part of,350
+352,Cyprus,1816,1878,Became part of,640
+352,Cyprus,1878,1914,Occupied by,200
+352,Cyprus,1914,1960,Became colony of,200
+352,Cyprus,1960,2019,Sovereign,
+355,Bulgaria,1816,1908,Became part of,640
+355,Bulgaria,1878,1878,Occupied by,365
+355,Bulgaria,1918,1919,Occupied by,200
+355,Bulgaria,1944,1947,Occupied by,365
+355,Bulgaria,1908,2019,Sovereign,
+359,Moldova (Bessarabia) (Moldavian Republic),1816,1917,Became part of,365
+359,Moldova (Bessarabia) (Moldavian Republic),1918,1940,Became part of,360
+359,Moldova (Bessarabia) (Moldavian Republic),1940,1991,Became part of,365
+359,Moldova (Bessarabia) (Moldavian Republic),1991,2019,Sovereign,
+360,Romania,1816,1859,Became part of,3361
+360,Romania,1816,1859,Became part of,3362
+360,Romania,1859,1878,Became part of,640
+360,Romania,1878,2019,Sovereign,
+360,Romania,1916,1918,Occupied by,255
+360,Romania,1944,1949,Occupied by,365
+365,Russia/USSR,1915,1918,Occupied by,255
+365,Russia/USSR,1941,1943,Occupied by,255
+365,Russia/USSR,1816,2019,Sovereign,
+366,Estonia,1816,1918,Became part of,365
+366,Estonia,1940,1941,Became part of,365
+366,Estonia,1941,1943,Occupied by,255
+366,Estonia,1943,1991,Became part of,365
+366,Estonia,1918,1940,Sovereign,
+366,Estonia,1991,2019,Sovereign,
+367,Latvia,1816,1918,Became part of,365
+367,Latvia,1940,1941,Became part of,365
+367,Latvia,1941,1943,Occupied by,255
+367,Latvia,1943,1991,Became part of,365
+367,Latvia,1918,1940,Sovereign,
+367,Latvia,1991,2019,Sovereign,
+368,Lithuania,1816,1918,Became part of,365
+368,Lithuania,1940,1941,Became part of,365
+368,Lithuania,1941,1943,Occupied by,255
+368,Lithuania,1943,1991,Became part of,365
+368,Lithuania,1918,1940,Sovereign,
+368,Lithuania,1991,2019,Sovereign,
+369,Ukraine,1816,1918,Became part of,365
+369,Ukraine,1918,1920,Sovereign,
+369,Ukraine,1920,1941,Became part of,365
+369,Ukraine,1941,1943,Occupied by,255
+369,Ukraine,1943,1991,Became part of,365
+369,Ukraine,1991,2019,Sovereign,
+370,Byelorussia (Belarus),1816,1917,Became part of,365
+370,Byelorussia (Belarus),1918,1941,Became part of,365
+370,Byelorussia (Belarus),1941,1943,Occupied by,255
+370,Byelorussia (Belarus),1943,1991,Became part of,365
+370,Byelorussia (Belarus),1991,2019,Sovereign,
+371,Armenia,1816,1918,Became part of,365
+371,Armenia,1918,1920,Sovereign,
+371,Armenia,1920,1991,Became part of,365
+371,Armenia,1991,2019,Sovereign,
+372,Georgia,1816,1918,Became part of,365
+372,Georgia,1918,1920,Sovereign,
+372,Georgia,1920,1991,Became part of,365
+372,Georgia,1991,2019,Sovereign,
+373,Azerbaijan,1816,1918,Became part of,365
+373,Azerbaijan,1918,1920,Sovereign,
+373,Azerbaijan,1920,1991,Became part of,365
+373,Azerbaijan,1991,2019,Sovereign,
+374,Transcaucasia,1816,1917,Became part of,365
+374,Transcaucasia,1918,1920,Became part of,371
+375,Finland,1816,1917,Became part of,365
+375,Finland,1917,2019,Sovereign,
+376,Chechen-Ingush Republic,1859,1991,Became part of,365
+3761,Chechen Republic,1991,2019,Became part of,365
+3762,"Ingushetia, Republic of",1991,2019,Became part of,365
+380,Sweden,1816,2019,Sovereign,
+385,Norway,1816,1905,Became part of,380
+385,Norway,1940,1945,Occupied by,255
+385,Norway,1905,1940,Sovereign,
+385,Norway,1945,2019,Sovereign,
+390,Denmark,1940,1945,Occupied by,255
+390,Denmark,1816,1940,Sovereign,
+390,Denmark,1945,2019,Sovereign,
+395,Iceland,1816,1918,Became colony of,390
+395,Iceland,1918,1944,Sovereign,
+395,Iceland,1940,1941,Occupied by,200
+395,Iceland,1941,1944,Occupied by,2
+395,Iceland,1944,2019,Sovereign,
+400,Azores (Western Isles),1816,1831,Became colony of,235
+400,Azores (Western Isles),1831,1976,Became part of,235
+400,Azores (Western Isles),1976,2019,Became dependency of,235
+401,Madeira Isles,1816,1834,Became colony of,235
+401,Madeira Isles,1834,1976,Became part of,235
+401,Madeira Isles,1976,2019,Became dependency of,235
+402,Cape Verde,1816,1975,Became colony of,235
+402,Cape Verde,1975,2019,Sovereign,
+403,Sao Tome-Principe,1816,1975,Became colony of,235
+403,Sao Tome-Principe,1975,2019,Sovereign,
+404,Guinea-Bissau (Portuguese Guinea),1816,1852,Became part of,4041
+404,Guinea-Bissau (Portuguese Guinea),1816,1879,Became part of,402
+404,Guinea-Bissau (Portuguese Guinea),1879,1974,Became colony of,235
+404,Guinea-Bissau (Portuguese Guinea),1974,2019,Sovereign,
+410,Canary Is.,1816,1821,Became colony of,230
+410,Canary Is.,1821,2019,Became part of,230
+411,Equatorial Guinea (Spanish Guinea),1858,1960,Became colony of,230
+411,Equatorial Guinea (Spanish Guinea),1960,1968,Became part of,412
+411,Equatorial Guinea (Spanish Guinea),1968,2019,Sovereign,
+412,Rio Muni,1858,1960,Became part of,411
+412,Rio Muni,1960,1968,Became colony of,230
+412,Rio Muni,1968,2019,Became part of,411
+413,Fernando Po (Bioko),1816,1829,Became colony of,230
+413,Fernando Po (Bioko),1829,1843,Leased to,200
+413,Fernando Po (Bioko),1843,1960,Became part of,411
+413,Fernando Po (Bioko),1960,1968,Became colony of,230
+413,Fernando Po (Bioko),1968,2019,Became part of,411
+420,Gambia,1816,1821,Became colony of,200
+420,Gambia,1821,1843,Became part of,451
+420,Gambia,1843,1866,Became colony of,200
+420,Gambia,1866,1888,Became part of,451
+420,Gambia,1888,1965,Became colony of,200
+420,Gambia,1894,1965,Became protectorate of,200
+420,Gambia,1965,2019,Sovereign,
+430,French West Africa,1895,1958,Became colony of,220
+431,Mali Federation,1959,1960,Became associated state of,220
+432,Mali (French Sudan) (Upper Senegal and Niger),1904,1958,Became part of,430
+432,Mali (French Sudan) (Upper Senegal and Niger),1959,1960,Became part of,431
+432,Mali (French Sudan) (Upper Senegal and Niger),1960,2019,Sovereign,
+433,Senegal,1816,1817,Became colony of,200
+433,Senegal,1817,1895,Became colony of,220
+433,Senegal,1895,1958,Became part of,430
+433,Senegal,1959,1960,Became part of,431
+433,Senegal,1960,2019,Sovereign,
+434,Benin (Dahomey),1816,1894,Became part of,4341
+434,Benin (Dahomey),1894,1899,Became colony of,220
+434,Benin (Dahomey),1899,1958,Became part of,430
+434,Benin (Dahomey),1958,1960,Became associated state of,220
+434,Benin (Dahomey),1960,2019,Sovereign,
+435,Mauritania,1816,1904,Became part of,600
+435,Mauritania,1904,1920,Became protectorate of,220
+435,Mauritania,1920,1958,Became part of,430
+435,Mauritania,1958,1960,Became associated state of,220
+435,Mauritania,1960,2019,Sovereign,
+436,Niger,1816,1904,Became part of,4361
+436,Niger,1904,1922,Occupied by,220
+436,Niger,1922,1958,Became part of,430
+436,Niger,1958,1960,Became associated state of,220
+436,Niger,1960,2019,Sovereign,
+437,Ivory Coast,1816,1843,Became part of,4371
+437,Ivory Coast,1816,1843,Became part of,4372
+437,Ivory Coast,1816,1843,Became part of,4373
+437,Ivory Coast,1843,1893,Became protectorate of,220
+437,Ivory Coast,1893,1904,Became colony of,220
+437,Ivory Coast,1904,1958,Became part of,430
+437,Ivory Coast,1958,1960,Became associated state of,220
+437,Ivory Coast,1960,2019,Sovereign,
+438,Guinea (French Guinea) (Rivieres du Sud),1816,1893,Became part of,4381
+438,Guinea (French Guinea) (Rivieres du Sud),1843,1893,Became protectorate of,220
+438,Guinea (French Guinea) (Rivieres du Sud),1893,1895,Became colony of,220
+438,Guinea (French Guinea) (Rivieres du Sud),1895,1958,Became part of,430
+438,Guinea (French Guinea) (Rivieres du Sud),1958,2019,Sovereign,
+439,Burkina Faso (Upper Volta),1816,1895,Became part of,4391
+439,Burkina Faso (Upper Volta),1870,1895,Became part of,4393
+439,Burkina Faso (Upper Volta),1895,1919,Became part of,432
+439,Burkina Faso (Upper Volta),1895,1958,Became part of,430
+439,Burkina Faso (Upper Volta),1919,1932,Became colony of,220
+439,Burkina Faso (Upper Volta),1932,1947,Became part of,432
+439,Burkina Faso (Upper Volta),1947,1958,Became colony of,220
+439,Burkina Faso (Upper Volta),1958,1960,Became associated state of,220
+439,Burkina Faso (Upper Volta),1960,2019,Sovereign,
+450,Liberia,1847,2019,Sovereign,
+451,Sierra Leone,1816,1961,Became colony of,200
+451,Sierra Leone,1896,1961,Became protectorate of,200
+451,Sierra Leone,1961,2019,Sovereign,
+452,Ghana (Gold Coast),1816,1821,Became colony of,200
+452,Ghana (Gold Coast),1821,1843,Became part of,451
+452,Ghana (Gold Coast),1843,1866,Became colony of,200
+452,Ghana (Gold Coast),1866,1874,Became part of,451
+452,Ghana (Gold Coast),1874,1957,Became colony of,200
+452,Ghana (Gold Coast),1957,2019,Sovereign,
+460,German Togoland,1884,1916,Became colony of,255
+460,German Togoland,1916,1922,Occupied by,200
+460,German Togoland,1922,2019,Became part of,461
+460,German Togoland,1922,1956,Became part of,462
+461,Togo (French Togoland),1922,1960,Mandated to,220
+461,Togo (French Togoland),1960,2019,Sovereign,
+462,British Togoland,1922,1956,Mandated to,200
+462,British Togoland,1956,2019,Became part of,452
+470,Kamerun,1884,1916,Became colony of,255
+470,Kamerun,1916,1922,Occupied by,200
+470,Kamerun,1916,1922,Occupied by,220
+470,Kamerun,1922,1960,Became part of,471
+470,Kamerun,1922,1961,Became part of,472
+471,Cameroun (French Cameroons),1919,1922,Occupied by,220
+471,Cameroun (French Cameroons),1922,1960,Mandated to,220
+471,Cameroun (French Cameroons),1960,2019,Sovereign,
+472,British Cameroons,1919,1922,Occupied by,200
+472,British Cameroons,1922,1961,Mandated to,200
+472,British Cameroons,1961,2019,Became part of,471
+475,Nigeria,1899,1914,Became part of,4783
+475,Nigeria,1899,1914,Became part of,4784
+475,Nigeria,1914,1960,Became colony of,200
+475,Nigeria,1960,2019,Sovereign,
+480,French Equatorial Africa,1910,1958,Became colony of,220
+481,Gabon,1839,1886,Became protectorate of,220
+481,Gabon,1886,1888,Became colony of,220
+481,Gabon,1888,1904,Became part of,484
+481,Gabon,1904,1910,Became colony of,220
+481,Gabon,1910,1958,Became part of,480
+481,Gabon,1958,1960,Became associated state of,220
+481,Gabon,1960,2019,Sovereign,
+482,Central African Republic (Ubangi Shari),1904,1910,Became part of,484
+482,Central African Republic (Ubangi Shari),1910,1958,Became part of,480
+482,Central African Republic (Ubangi Shari),1958,1960,Became associated state of,220
+482,Central African Republic (Ubangi Shari),1960,2019,Sovereign,
+483,Chad,1900,1910,Became protectorate of,220
+483,Chad,1910,1958,Became part of,480
+483,Chad,1958,1960,Became associated state of,220
+483,Chad,1960,2019,Sovereign,
+484,Congo (Brazzaville) (French Congo) (Middle Congo),1882,1910,Became colony of,220
+484,Congo (Brazzaville) (French Congo) (Middle Congo),1910,1958,Became part of,480
+484,Congo (Brazzaville) (French Congo) (Middle Congo),1958,1960,Became associated state of,220
+484,Congo (Brazzaville) (French Congo) (Middle Congo),1960,2019,Sovereign,
+490,Zaire (Kinshasa) (Belgian Congo),1885,1960,Became colony of,211
+490,Zaire (Kinshasa) (Belgian Congo),1960,2019,Sovereign,
+500,Uganda,1894,1962,Became protectorate of,200
+500,Uganda,1962,2019,Sovereign,
+501,Kenya (British East Africa Protectorate),1895,1920,Became protectorate of,200
+501,Kenya (British East Africa Protectorate),1920,1963,Became colony of,200
+501,Kenya (British East Africa Protectorate),1963,2019,Sovereign,
+510,Tanzania (Tanganyika) (German East Africa),1891,1916,Became colony of,255
+510,Tanzania (Tanganyika) (German East Africa),1916,1922,Occupied by,200
+510,Tanzania (Tanganyika) (German East Africa),1922,1961,Mandated to,200
+510,Tanzania (Tanganyika) (German East Africa),1961,2019,Sovereign,
+511,Zanzibar,1816,1856,Became colony of,698
+511,Zanzibar,1856,1890,Sovereign,
+511,Zanzibar,1891,1894,Occupied by,200
+511,Zanzibar,1895,1963,Became protectorate of,200
+511,Zanzibar,1964,2019,Became part of,510
+511,Zanzibar,1963,1964,Sovereign,
+515,Rwanda-Urundi,1891,1922,Became part of,510
+515,Rwanda-Urundi,1922,1962,Mandated to,211
+516,Burundi,1891,1962,Became part of,515
+516,Burundi,1962,2019,Sovereign,
+517,Rwanda,1891,1962,Became part of,515
+517,Rwanda,1962,2019,Sovereign,
+520,Somalia,1884,1960,Became part of,521
+520,Somalia,1889,1960,Became part of,5200
+520,Somalia,1960,2019,Sovereign,
+521,British Somaliland (Somaliland Republic),1884,1940,Became protectorate of,200
+521,British Somaliland (Somaliland Republic),1940,1941,Occupied by,325
+521,British Somaliland (Somaliland Republic),1941,1960,Became colony of,200
+521,British Somaliland (Somaliland Republic),1960,1991,Became part of,520
+521,British Somaliland (Somaliland Republic),1991,2019,Sovereign (unrecognised),
+522,Djibouti (Afar and Issas) (French Somaliland),1884,1977,Became colony of,220
+522,Djibouti (Afar and Issas) (French Somaliland),1977,2019,Sovereign,
+530,Ethiopia (Abyssinia),1816,1855,Became part of,5301
+530,Ethiopia (Abyssinia),1855,1936,Sovereign,
+530,Ethiopia (Abyssinia),1936,1941,Occupied by,325
+530,Ethiopia (Abyssinia),1941,2019,Sovereign,
+531,Eritrea,1882,1936,Became colony of,325
+531,Eritrea,1936,1941,Became part of,5201
+531,Eritrea,1941,1945,Occupied by,200
+531,Eritrea,1945,1952,Became protectorate of,1
+531,Eritrea,1952,1993,Became part of,530
+531,Eritrea,1993,2019,Sovereign,
+540,Angola,1816,1975,Became colony of,235
+540,Angola,1975,2019,Sovereign,
+541,Mozambique,1816,1975,Became colony of,235
+541,Mozambique,1975,2019,Sovereign,
+550,Federation of Rhodesia and Nyasaland,1953,1963,Became colony of,200
+551,Zambia (Northern Rhodesia),1889,1899,Became part of,552
+551,Zambia (Northern Rhodesia),1899,1911,Became part of,5518
+551,Zambia (Northern Rhodesia),1911,1953,Became colony of,200
+551,Zambia (Northern Rhodesia),1953,1963,Became part of,550
+551,Zambia (Northern Rhodesia),1964,2019,Sovereign,
+552,Zimbabwe (Rhodesia) (Southern Rhodesia),1889,1953,Became colony of,200
+552,Zimbabwe (Rhodesia) (Southern Rhodesia),1953,1963,Became part of,550
+552,Zimbabwe (Rhodesia) (Southern Rhodesia),1964,1965,Became colony of,200
+552,Zimbabwe (Rhodesia) (Southern Rhodesia),1979,1980,Became colony of,200
+552,Zimbabwe (Rhodesia) (Southern Rhodesia),1965,2019,Sovereign,
+553,Malawi (Nyasaland),1891,1953,Became protectorate of,200
+553,Malawi (Nyasaland),1953,1963,Became part of,550
+553,Malawi (Nyasaland),1964,2019,Sovereign,
+560,South Africa,1910,1920,Became colony of,200
+560,South Africa,1920,2019,Sovereign,
+561,Cape Colony,1816,1910,Became colony of,200
+561,Cape Colony,1910,2019,Became part of,560
+562,Natal,1843,1844,Became colony of,200
+562,Natal,1844,1856,Became part of,561
+562,Natal,1856,1910,Became colony of,200
+562,Natal,1910,2019,Became part of,560
+563,Transvaal,1852,1902,Sovereign,200
+563,Transvaal,1902,1910,Became colony of,200
+563,Transvaal,1910,2019,Became part of,560
+564,Orange Free State (Orange River Colony),1848,1854,Became colony of,200
+564,Orange Free State (Orange River Colony),1854,1900,Sovereign,
+564,Orange Free State (Orange River Colony),1900,1910,Became colony of,200
+564,Orange Free State (Orange River Colony),1910,2019,Became part of,560
+565,South West Africa (German West Africa)(Namibia),1885,1915,Became colony of,255
+565,South West Africa (German West Africa)(Namibia),1915,1922,Occupied by,560
+565,South West Africa (German West Africa)(Namibia),1922,1966,Mandated to,560
+565,South West Africa (German West Africa)(Namibia),1966,1990,Became colony of,560
+565,South West Africa (German West Africa)(Namibia),1990,2019,Sovereign,
+566,Transkei,1910,1976,Became part of,560
+566,Transkei,1976,1994,Sovereign (unrecognised),
+566,Transkei,1994,2019,Became part of,560
+567,Bophuthatswana,1910,1977,Became part of,560
+567,Bophuthatswana,1977,1994,Sovereign (unrecognised),
+567,Bophuthatswana,1994,2019,Became part of,560
+568,Venda,1910,1979,Became part of,560
+568,Venda,1979,1994,Sovereign (unrecognised),
+568,Venda,1994,2019,Became part of,560
+569,Ciskei,1910,1981,Became part of,560
+569,Ciskei,1981,1994,Sovereign (unrecognised),
+569,Ciskei,1994,2019,Became part of,560
+570,Lesotho (Basutoland),1868,1871,Became protectorate of,200
+570,Lesotho (Basutoland),1871,1884,Became part of,561
+570,Lesotho (Basutoland),1884,1966,Became colony of,200
+570,Lesotho (Basutoland),1966,2019,Sovereign,
+571,Botswana (Bechuanaland),1885,1966,Became protectorate of,200
+571,Botswana (Bechuanaland),1966,2019,Sovereign,
+572,Swaziland,1894,1902,Became colony of,563
+572,Swaziland,1902,1968,Became colony of,200
+572,Swaziland,1968,2019,Sovereign,
+580,Malagasy Republic (Madagascar),1882,1896,Became protectorate of,220
+580,Malagasy Republic (Madagascar),1896,1960,Became colony of,220
+580,Malagasy Republic (Madagascar),1960,2019,Sovereign,
+581,Comoros,1886,1892,Became protectorate of,220
+581,Comoros,1892,1912,Became colony of,220
+581,Comoros,1912,1946,Became part of,580
+581,Comoros,1946,1975,Became dependency of,220
+581,Comoros,1975,2019,Sovereign,
+585,Reunion,1816,1947,Became colony of,220
+585,Reunion,1947,2019,Became part of,220
+590,Mauritius,1816,1968,Became colony of,200
+590,Mauritius,1968,2019,Sovereign,
+591,Seychelles,1816,1903,Became part of,590
+591,Seychelles,1903,1976,Became colony of,200
+591,Seychelles,1976,2019,Sovereign,
+600,Morocco,1816,1912,Sovereign,
+600,Morocco,1912,1956,Became protectorate of,220
+600,Morocco,1956,2019,Sovereign,
+601,Tangier,1816,1911,Became part of,600
+601,Tangier,1911,1923,Became part of,602
+601,Tangier,1923,1940,Mandated to,0
+601,Tangier,1940,1945,Occupied by,230
+601,Tangier,1945,1956,Mandated to,1
+601,Tangier,1956,2019,Became part of,600
+602,Spanish Morocco,1816,1912,Became part of,600
+602,Spanish Morocco,1912,1946,Became protectorate of,230
+602,Spanish Morocco,1946,1956,Became part of,610
+602,Spanish Morocco,1956,2019,Became part of,600
+605,Ifni,1816,1934,Became part of,600
+605,Ifni,1934,1952,Became colony of,230
+605,Ifni,1952,1958,Became part of,610
+605,Ifni,1958,1969,Became colony of,230
+605,Ifni,1969,2019,Became part of,600
+609,Western Sahara (Spanish Sahara),1884,1958,Became protectorate of,230
+609,Western Sahara (Spanish Sahara),1946,1958,Became part of,610
+609,Western Sahara (Spanish Sahara),1958,1975,Became colony of,230
+609,Western Sahara (Spanish Sahara),1975,1975,Occupied by,600
+609,Western Sahara (Spanish Sahara),1976,1979,Occupied by,435
+609,Western Sahara (Spanish Sahara),1975,2019,Became colony of,600
+609,Western Sahara (Spanish Sahara),1976,2019,Claimed by,609
+610,Spanish West Africa,1946,1958,Became colony of,230
+615,Algeria,1816,1831,Became part of,640
+615,Algeria,1831,1962,Became colony of,220
+615,Algeria,1962,2019,Sovereign,
+616,Tunisia,1816,1881,Became part of,640
+616,Tunisia,1881,1956,Became protectorate of,220
+616,Tunisia,1956,2019,Sovereign,
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1816,1912,Became part of,640
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1912,1919,Became colony of,325
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1919,1928,Became part of,6202
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1928,1942,Became colony of,325
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1942,1946,Occupied by,200
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1946,1952,Mandated to,200
+620,"Libya (Tripolitania, Cyrenaica, Fezzan)",1951,2019,Sovereign,
+625,Sudan (Anglo-Egyptian),1821,1881,Became part of,651
+625,Sudan (Anglo-Egyptian),1882,1898,Became part of,6254
+625,Sudan (Anglo-Egyptian),1898,1956,Became colony of,200
+625,Sudan (Anglo-Egyptian),1956,2019,Sovereign,
+626,South Sudan,2011,2019,Sovereign,
+630,Iran (Persia),1816,2019,Sovereign,
+630,Iran (Persia),1911,1919,Occupied by,200
+630,Iran (Persia),1911,1917,Occupied by,365
+630,Iran (Persia),1941,1945,Occupied by,200
+640,Turkey (Ottoman Empire),1816,2019,Sovereign,
+645,Iraq (Mesopotamia),1816,1917,Became part of,640
+645,Iraq (Mesopotamia),1917,1920,Occupied by,200
+645,Iraq (Mesopotamia),1920,1932,Mandated to,200
+645,Iraq (Mesopotamia),1932,2019,Sovereign,
+651,Egypt/United Arab Republic,1816,1882,Became part of,640
+651,Egypt/United Arab Republic,1882,1914,Became colony of,200
+651,Egypt/United Arab Republic,1914,1922,Became protectorate of,200
+651,Egypt/United Arab Republic,1922,2019,Sovereign,
+652,Syria,1816,1832,Became part of,640
+652,Syria,1832,1840,Occupied by,651
+652,Syria,1840,1918,Became part of,640
+652,Syria,1918,1920,Occupied by,200
+652,Syria,1920,1923,Occupied by,220
+652,Syria,1923,1946,Mandated to,220
+652,Syria,1958,1961,Became part of,651
+652,Syria,1946,1958,Sovereign,
+652,Syria,1961,2019,Sovereign,
+660,Lebanon,1816,1918,Became part of,640
+660,Lebanon,1918,1923,Occupied by,220
+660,Lebanon,1923,1946,Mandated to,220
+660,Lebanon,1976,1990,Occupied by,652
+660,Lebanon,1946,2019,Sovereign,
+663,Jordan (Transjordan),1816,1918,Became part of,640
+663,Jordan (Transjordan),1918,1923,Occupied by,200
+663,Jordan (Transjordan),1923,1946,Mandated to,200
+663,Jordan (Transjordan),1946,2019,Sovereign,
+665,Palestine,1816,1918,Became part of,640
+665,Palestine,1918,1923,Occupied by,200
+665,Palestine,1923,1948,Mandated to,200
+665,Palestine,1948,1950,Occupied by,663
+665,Palestine,1948,1967,Occupied by,651
+665,Palestine,1950,1967,Became part of,663
+665,Palestine,1948,2019,Became part of,666
+665,Palestine,2012,2019,Sovereign,
+666,Israel,1816,1918,Became part of,640
+666,Israel,1918,1923,Occupied by,200
+666,Israel,1923,1948,Mandated to,200
+666,Israel,1948,2019,Sovereign,
+670,Saudi Arabia (Nejd Wahabbid Empire),1818,1823,Occupied by,651
+670,Saudi Arabia (Nejd Wahabbid Empire),1823,1891,Occupied by,651
+670,Saudi Arabia (Nejd Wahabbid Empire),1891,1902,Occupied by,674
+670,Saudi Arabia (Nejd Wahabbid Empire),1902,1926,Unknown,
+670,Saudi Arabia (Nejd Wahabbid Empire),1926,2019,Sovereign,
+671,Hejaz Sultanate,1818,1841,Became part of,651
+671,Hejaz Sultanate,1841,1916,Became part of,640
+671,Hejaz Sultanate,1916,1925,Sovereign,
+671,Hejaz Sultanate,1926,2019,Became part of,670
+672,Asir,1818,1840,Occupied by,651
+672,Asir,1840,1871,Unknown,
+672,Asir,1871,1914,Occupied by,640
+672,Asir,1914,1926,Sovereign (unrecognised),
+672,Asir,1926,1934,Became protectorate of,670
+672,Asir,1934,2019,Became part of,670
+673,Al Hasa,1818,1830,Became part of,640
+673,Al Hasa,1830,1871,Became part of,670
+673,Al Hasa,1871,1913,Occupied by,640
+673,Al Hasa,1913,2019,Became part of,670
+674,Jabal Shammar,1836,1921,Sovereign,
+674,Jabal Shammar,1921,2019,Became part of,670
+678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1816,1871,Sovereign,
+678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1871,1918,Became part of,640
+678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1918,1990,Sovereign,
+678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1990,2019,Became part of,679
+679,Yemen,1990,2019,Sovereign,
+680,Yemen People's Republic (South Yemen),1816,1967,Became part of,681
+680,Yemen People's Republic (South Yemen),1967,1990,Sovereign,
+680,Yemen People's Republic (South Yemen),1990,2019,Became part of,679
+681,Aden,1816,1838,Became part of,6821
+681,Aden,1838,1937,Became part of,750
+681,Aden,1937,1962,Became colony of,200
+681,Aden,1962,1967,Became part of,6801
+681,Aden,1967,1990,Became part of,680
+690,Kuwait,1899,1961,Became protectorate of,200
+690,Kuwait,1990,1991,Occupied by,645
+690,Kuwait,1961,2019,Sovereign,
+692,Bahrain,1820,1971,Became protectorate of,200
+692,Bahrain,1971,2019,Sovereign,
+694,Qatar,1816,1871,Sovereign,
+694,Qatar,1871,1916,Became part of,640
+694,Qatar,1896,1971,Became protectorate of,200
+694,Qatar,1971,2019,Sovereign,
+696,United Arab Emirates (Trucial Oman),1820,1892,Sovereign (unrecognised),
+696,United Arab Emirates (Trucial Oman),1892,1971,Became protectorate of,200
+696,United Arab Emirates (Trucial Oman),1971,2019,Sovereign,
+698,Oman (Sultanate of Muscat and Oman),1816,2019,Sovereign,
+700,Afghanistan,1819,1855,Became part of,7001
+700,Afghanistan,1855,1907,Occupied by,365
+700,Afghanistan,1907,1919,Became protectorate of,200
+700,Afghanistan,1979,1989,Occupied by,365
+700,Afghanistan,1919,2019,Sovereign,
+701,Turkmenistan,1877,1991,Became part of,365
+701,Turkmenistan,1991,2019,Sovereign,
+702,Tajikistan,1868,1991,Became part of,365
+702,Tajikistan,1991,2019,Sovereign,
+703,Kyrgyzstan,1873,1991,Became part of,365
+703,Kyrgyzstan,1991,2019,Sovereign,
+704,Uzbekistan,1865,1991,Became part of,365
+704,Uzbekistan,1991,2019,Sovereign,
+705,Kazakhstan,1848,1991,Became part of,365
+705,Kazakhstan,1991,2019,Sovereign,
+710,People's Republic of China (China),1937,1945,Occupied by,740
+710,People's Republic of China (China),1816,2019,Sovereign,
+711,Manchukuo,1932,1945,Occupied by,740
+711,Manchukuo,1945,2019,Became part of,710
+712,Mongolia,1816,1911,Became part of,710
+712,Mongolia,1911,1919,Sovereign,
+712,Mongolia,1919,1921,Occupied by,710
+712,Mongolia,1921,1924,Occupied by,365
+712,Mongolia,1921,2019,Sovereign,
+713,Republic of China (Taiwan) (Formosa),1816,1895,Became part of,710
+713,Republic of China (Taiwan) (Formosa),1895,1945,Became colony of,740
+713,Republic of China (Taiwan) (Formosa),1945,1949,Became part of,710
+713,Republic of China (Taiwan) (Formosa),1949,2019,Sovereign (unrecognised),
+720,Hong Kong,1816,1839,Became part of,710
+720,Hong Kong,1839,1841,Occupied by,200
+720,Hong Kong,1841,1942,Became colony of,200
+720,Hong Kong,1942,1945,Occupied by,740
+720,Hong Kong,1945,1997,Became colony of,200
+720,Hong Kong,1997,2019,Became dependency of,710
+721,Macao,1816,1999,Became colony of,235
+721,Macao,1999,2019,Became dependency of,710
+730,Korea (Chosen),1816,1895,Became part of,710
+730,Korea (Chosen),1895,1905,Sovereign,
+730,Korea (Chosen),1905,1907,Occupied by,740
+730,Korea (Chosen),1907,1910,Became protectorate of,740
+730,Korea (Chosen),1910,1945,Became colony of,740
+730,Korea (Chosen),1945,1948,Occupied by,365
+730,Korea (Chosen),1948,2019,Became part of,731
+730,Korea (Chosen),1948,2019,Became part of,732
+731,North Korea (Democratic People's Republic of Korea),1945,1948,Occupied by,365
+731,North Korea (Democratic People's Republic of Korea),1948,2019,Sovereign,
+732,South Korea (Republic of South Korea),1945,1948,Occupied by,2
+732,South Korea (Republic of South Korea),1948,2019,Sovereign,
+735,Far Eastern Republic,1860,1920,Became part of,365
+735,Far Eastern Republic,1920,1922,Unknown,
+735,Far Eastern Republic,1922,2019,Became part of,365
+740,Japan,1816,1945,Sovereign,
+740,Japan,1945,1952,Occupied by,2
+740,Japan,1952,2019,Sovereign,
+741,Ryukyu Is.,1816,1879,Became protectorate of,740
+741,Ryukyu Is.,1879,1945,Became part of,740
+741,Ryukyu Is.,1945,1951,Occupied by,2
+741,Ryukyu Is.,1951,1972,Became colony of,2
+741,Ryukyu Is.,1972,2019,Became part of,740
+750,India,1816,1947,Became colony of,200
+750,India,1947,2019,Sovereign,
+751,French India,1816,1954,Became colony of,220
+751,French India,1816,1816,Occupied by,200
+751,French India,1954,2019,Became part of,750
+752,"Portuguese India (incl. Goa, Diu, Daman)",1816,1961,Became colony of,235
+752,"Portuguese India (incl. Goa, Diu, Daman)",1961,1962,Occupied by,750
+752,"Portuguese India (incl. Goa, Diu, Daman)",1962,2019,Became part of,750
+760,Bhutan,1816,1865,Became part of,7910
+760,Bhutan,1865,1949,Became protectorate of,200
+760,Bhutan,1949,1971,Became protectorate of,750
+760,Bhutan,1971,2019,Sovereign,
+761,Sikkim,1816,1861,Became part of,7910
+761,Sikkim,1861,1949,Became protectorate of,200
+761,Sikkim,1949,1975,Became protectorate of,750
+761,Sikkim,1975,2019,Became part of,750
+770,Pakistan,1849,1947,Became part of,750
+770,Pakistan,1947,2019,Sovereign,
+771,Bangladesh,1947,1971,Became part of,770
+771,Bangladesh,1971,2019,Sovereign,
+775,Burma (Myanmar),1816,1886,Sovereign,
+775,Burma (Myanmar),1886,1937,Became part of,750
+775,Burma (Myanmar),1937,1942,Became colony of,200
+775,Burma (Myanmar),1942,1945,Occupied by,740
+775,Burma (Myanmar),1945,1948,Became colony of,200
+775,Burma (Myanmar),1948,2019,Sovereign,
+780,Sri Lanka (Ceylon),1816,1833,Became part of,750
+780,Sri Lanka (Ceylon),1833,1948,Became colony of,200
+780,Sri Lanka (Ceylon),1948,2019,Sovereign,
+781,Maldive Islands,1816,1887,Became protectorate of,200
+781,Maldive Islands,1887,1965,Became protectorate of,200
+781,Maldive Islands,1965,2019,Sovereign,
+790,Nepal,1816,1923,Became protectorate of,200
+790,Nepal,1923,2019,Sovereign,
+800,Thailand (Siam),1941,1945,Occupied by,740
+800,Thailand (Siam),1816,2019,Sovereign,
+810,French Indochina,1867,1887,Became part of,8151
+810,French Indochina,1883,1887,Became part of,8153
+810,French Indochina,1883,1887,Became part of,8152
+810,French Indochina,1884,1887,Became part of,811
+810,French Indochina,1887,1941,Became colony of,220
+810,French Indochina,1941,1945,Occupied by,740
+810,French Indochina,1945,1946,Occupied by,220
+810,French Indochina,1946,1949,Became colony of,220
+810,French Indochina,1949,1954,Became part of,815
+810,French Indochina,1949,1954,Became part of,812
+810,French Indochina,1949,1954,Became part of,811
+811,Kampuchea (Cambodia),1833,1863,Occupied by,815
+811,Kampuchea (Cambodia),1863,1887,Became colony of,220
+811,Kampuchea (Cambodia),1887,1945,Became part of,810
+811,Kampuchea (Cambodia),1945,1949,Became part of,810
+811,Kampuchea (Cambodia),1949,1953,Became colony of,220
+811,Kampuchea (Cambodia),1979,1989,Occupied by,816
+811,Kampuchea (Cambodia),1953,2019,Sovereign,
+812,Laos,1816,1893,Became part of,800
+812,Laos,1893,1949,Became part of,810
+812,Laos,1949,1953,Became colony of,220
+812,Laos,1975,1989,Occupied by,816
+812,Laos,1954,2019,Sovereign,
+815,Vietnam,1816,1887,Sovereign,
+815,Vietnam,1887,1949,Became part of,810
+815,Vietnam,1945,1946,Occupied by,710
+815,Vietnam,1949,1954,Became colony of,220
+815,Vietnam,1954,1975,Became part of,816
+815,Vietnam,1954,1975,Became part of,817
+815,Vietnam,1975,2019,Sovereign,
+816,"Vietnam, Democratic Rep.",1954,1975,Sovereign,
+816,"Vietnam, Democratic Rep.",1975,2019,Became part of,815
+817,Republic of Vietnam,1975,2019,Became part of,815
+817,Republic of Vietnam,1954,1975,Sovereign,
+820,Malaysia (Malaya),1946,1948,Became colony of,200
+820,Malaysia (Malaya),1948,1957,Became colony of,200
+820,Malaysia (Malaya),1957,2019,Sovereign,
+821,Federated Malay States,1816,1896,Became part of,8201
+821,Federated Malay States,1816,1896,Became part of,8210
+821,Federated Malay States,1816,1896,Became part of,8202
+821,Federated Malay States,1816,1896,Became part of,8203
+821,Federated Malay States,1896,1942,Became colony of,200
+821,Federated Malay States,1942,1945,Occupied by,740
+821,Federated Malay States,1945,1946,Became colony of,200
+821,Federated Malay States,1946,2019,Became part of,820
+823,Sabah (North Borneo),1816,1888,Became part of,835
+823,Sabah (North Borneo),1888,1942,Became protectorate of,200
+823,Sabah (North Borneo),1942,1945,Occupied by,740
+823,Sabah (North Borneo),1945,1963,Became colony of,200
+823,Sabah (North Borneo),1963,2019,Became part of,820
+823,Sabah (North Borneo),1963,2019,Claimed by,840
+824,Sarawak,1816,1841,Became part of,835
+824,Sarawak,1841,1888,Sovereign,
+824,Sarawak,1888,1941,Became protectorate of,200
+824,Sarawak,1941,1945,Occupied by,740
+824,Sarawak,1945,1963,Became colony of,200
+824,Sarawak,1963,2019,Became part of,820
+827,Straits Settlements,1826,1942,Became colony of,200
+827,Straits Settlements,1826,1867,Became part of,750
+827,Straits Settlements,1942,1945,Occupied by,740
+827,Straits Settlements,1945,1946,Became colony of,200
+827,Straits Settlements,1946,2019,Became part of,820
+830,Singapore,1826,1946,Became part of,827
+830,Singapore,1946,1963,Became colony of,200
+830,Singapore,1963,1965,Became part of,820
+830,Singapore,1965,2019,Sovereign,
+835,Brunei,1888,1941,Became protectorate of,200
+835,Brunei,1941,1945,Occupied by,740
+835,Brunei,1945,1983,Became protectorate of,200
+835,Brunei,1984,2019,Sovereign,
+840,Philippines,1816,1821,Became part of,1070
+840,Philippines,1821,1898,Became colony of,230
+840,Philippines,1898,1942,Became colony of,2
+840,Philippines,1942,1945,Occupied by,740
+840,Philippines,1945,1946,Became colony of,2
+840,Philippines,1946,2019,Sovereign,
+850,Indonesia (Dutch East Indies),1816,1816,Occupied by,200
+850,Indonesia (Dutch East Indies),1816,1949,Became colony of,210
+850,Indonesia (Dutch East Indies),1942,1945,Occupied by,740
+850,Indonesia (Dutch East Indies),1949,2019,Sovereign,
+851,West Irian (Dutch New Guinea),1828,1942,Became part of,850
+851,West Irian (Dutch New Guinea),1942,1945,Occupied by,740
+851,West Irian (Dutch New Guinea),1945,1949,Became part of,850
+851,West Irian (Dutch New Guinea),1949,1962,Became colony of,210
+851,West Irian (Dutch New Guinea),1962,1963,Became protectorate of,1
+851,West Irian (Dutch New Guinea),1963,1969,Occupied by,850
+851,West Irian (Dutch New Guinea),1969,2019,Became dependency of,850
+860,East Timor (Portuguese Timor),1816,1942,Became colony of,235
+860,East Timor (Portuguese Timor),1942,1945,Occupied by,740
+860,East Timor (Portuguese Timor),1945,1975,Became colony of,235
+860,East Timor (Portuguese Timor),1975,1976,Occupied by,850
+860,East Timor (Portuguese Timor),1976,2002,Became part of,850
+860,East Timor (Portuguese Timor),2002,2019,Sovereign,
+900,Australia,1816,1901,Informal,
+900,Australia,1901,1919,Became colony of,200
+900,Australia,1920,2019,Sovereign,
+901,New South Wales,1816,1901,Became colony of,200
+901,New South Wales,1901,2019,Became part of,900
+902,Western Australia,1829,1901,Became colony of,200
+902,Western Australia,1901,2019,Became part of,900
+903,South Australia,1836,1901,Became colony of,200
+903,South Australia,1901,2019,Became part of,900
+904,Victoria,1816,1851,Became part of,901
+904,Victoria,1851,1901,Became colony of,200
+904,Victoria,1901,2019,Became part of,900
+905,Queensland,1816,1859,Became part of,901
+905,Queensland,1859,1901,Became colony of,200
+905,Queensland,1901,2019,Became part of,900
+906,Tasmania,1816,1825,Became part of,901
+906,Tasmania,1825,1901,Became colony of,200
+906,Tasmania,1901,2019,Became part of,900
+910,Papua New Guinea,1949,1975,Mandated to,900
+910,Papua New Guinea,1975,2019,Sovereign,
+911,Papua,1883,1884,Became part of,905
+911,Papua,1884,1888,Became protectorate of,200
+911,Papua,1888,1920,Became colony of,200
+911,Papua,1920,1949,Became colony of,900
+911,Papua,1949,2019,Became part of,910
+912,New Guinea (German New Guinea) (Kaiser Wilhelmsland),1884,1914,Became colony of,255
+912,New Guinea (German New Guinea) (Kaiser Wilhelmsland),1914,1921,Occupied by,900
+912,New Guinea (German New Guinea) (Kaiser Wilhelmsland),1921,1975,Mandated to,900
+912,New Guinea (German New Guinea) (Kaiser Wilhelmsland),1949,2019,Became part of,910
+920,New Zealand,1840,1920,Became colony of,200
+920,New Zealand,1920,2019,Sovereign,
+925,Cook Is.,1816,1888,Sovereign (unrecognised),
+925,Cook Is.,1888,1901,Became protectorate of,200
+925,Cook Is.,1901,1965,Became colony of,920
+925,Cook Is.,1965,1992,Sovereign (unrecognised),
+925,Cook Is.,1992,2019,Sovereign,
+930,New Caledonia and Dependencies,1816,1853,Sovereign (unrecognised),
+930,New Caledonia and Dependencies,1853,1946,Became colony of,220
+930,New Caledonia and Dependencies,1946,1986,Became dependency of,220
+930,New Caledonia and Dependencies,1986,2019,Became colony of,220
+935,Vanuatu (New Hebrides),1906,1980,Became colony of,200
+935,Vanuatu (New Hebrides),1981,2019,Sovereign,
+940,Solomon Islands,1893,1978,Became protectorate of,200
+940,Solomon Islands,1978,2019,Sovereign,
+945,Gilbert and Ellice Is.,1892,1916,Became protectorate of,200
+945,Gilbert and Ellice Is.,1916,1975,Became colony of,200
+945,Gilbert and Ellice Is.,1975,2019,Became part of,946
+946,Kiribati,1892,1975,Became part of,945
+946,Kiribati,1975,1999,Became colony of,200
+946,Kiribati,1999,2019,Sovereign,
+947,Tuvalu,1892,1975,Became part of,945
+947,Tuvalu,1975,2000,Became colony of,200
+947,Tuvalu,2000,2019,Sovereign,
+950,Fiji,1874,1970,Became colony of,200
+950,Fiji,1970,2019,Sovereign,
+955,Tonga,1816,1845,Became part of,9553
+955,Tonga,1816,1833,Became part of,9551
+955,Tonga,1845,1900,Sovereign (limited),
+955,Tonga,1900,1970,Became protectorate of,200
+955,Tonga,1970,2019,Sovereign,
+960,French Polynesia,1816,1842,Unknown,
+960,French Polynesia,1842,1903,Became protectorate of,220
+960,French Polynesia,1903,2019,Became colony of,220
+970,Nauru,1888,1914,Became part of,9830
+970,Nauru,1914,1919,Occupied by,900
+970,Nauru,1919,1942,Mandated to,900
+970,Nauru,1942,1945,Occupied by,740
+970,Nauru,1945,1968,Mandated to,900
+970,Nauru,1968,2019,Sovereign,
+980,U. S. Pacific Trust Territories,1947,1994,Mandated to,2
+983,Marshall Is.,1874,1885,Became colony of,230
+983,Marshall Is.,1885,1914,Became colony of,255
+983,Marshall Is.,1914,1920,Occupied by,740
+983,Marshall Is.,1920,1945,Mandated to,740
+983,Marshall Is.,1945,1947,Occupied by,2
+983,Marshall Is.,1947,1979,Became part of,980
+983,Marshall Is.,1979,2019,Sovereign,
+984,Northern Marianas Is.,1816,1898,Became part of,9820
+984,Northern Marianas Is.,1898,1919,Became part of,912
+984,Northern Marianas Is.,1919,1945,Mandated to,740
+984,Northern Marianas Is.,1945,1947,Occupied by,2
+984,Northern Marianas Is.,1947,1986,Became part of,980
+984,Northern Marianas Is.,1986,2019,Became dependency of,2
+985,Guam,1816,1898,Became part of,9820
+985,Guam,1898,1941,Became colony of,2
+985,Guam,1941,1944,Occupied by,740
+985,Guam,1944,2019,Became colony of,2
+986,Republic of Palau,1816,1947,Became part of,9810
+986,Republic of Palau,1947,1994,Became part of,980
+986,Republic of Palau,1994,2019,Sovereign,
+987,Federated States of Micronesia,1816,1947,Became part of,9810
+987,Federated States of Micronesia,1947,1986,Became part of,980
+987,Federated States of Micronesia,1986,1991,Became dependency of,2
+987,Federated States of Micronesia,1991,2019,Sovereign,
+990,Samoa (Western Samoa),1816,1900,Became part of,9900
+990,Samoa (Western Samoa),1900,1914,Became colony of,255
+990,Samoa (Western Samoa),1914,1920,Occupied by,920
+990,Samoa (Western Samoa),1920,1962,Mandated to,920
+990,Samoa (Western Samoa),1962,2019,Sovereign,
+991,American Samoa,1816,1900,Became part of,9900
+991,American Samoa,1900,2019,Became colony of,2
+1001,States of America,1816,1861,Became part of,2
+1001,States of America,1861,1877,Occupied by,2
+1002,Confederate States of America,1816,1861,Became part of,2
+1002,Confederate States of America,1861,1865,Sovereign (unrecognised),
+1002,Confederate States of America,1865,1877,Occupied by,2
+1003,Attu and Kiska,1816,1942,Became part of,3
+1003,Attu and Kiska,1942,1943,Occupied by,740
+1003,Attu and Kiska,1943,2019,Became part of,3
+1004,North Carolina,1816,1861,Became part of,2
+1004,North Carolina,1861,1865,Became part of,1002
+1004,North Carolina,1865,2019,Became part of,2
+1005,Virginia,1816,1861,Became part of,2
+1005,Virginia,1861,1865,Became part of,1002
+1005,Virginia,1865,2019,Became part of,2
+1006,Tennessee,1816,1861,Became part of,2
+1006,Tennessee,1861,1865,Became part of,1002
+1006,Tennessee,1865,2019,Became part of,2
+1007,Arkansas,1816,1861,Became part of,2
+1007,Arkansas,1861,1865,Became part of,1002
+1007,Arkansas,1865,2019,Became part of,2
+1008,Florida,1816,1819,Became part of,1070
+1008,Florida,1819,1861,Became part of,2
+1008,Florida,1861,1865,Became part of,1002
+1008,Florida,1865,2019,Became part of,2
+1009,South Carolina (Palmetto Republic),1816,1860,Became part of,2
+1009,South Carolina (Palmetto Republic),1861,1865,Became part of,1002
+1009,South Carolina (Palmetto Republic),1865,2019,Became part of,2
+1010,Georgia (U.S.),1816,1861,Became part of,2
+1010,Georgia (U.S.),1861,1865,Became part of,1002
+1010,Georgia (U.S.),1865,2019,Became part of,2
+1011,Alabama,1816,1861,Became part of,2
+1011,Alabama,1861,1865,Became part of,1002
+1011,Alabama,1865,2019,Became part of,2
+1012,Mississippi,1816,1861,Became part of,2
+1012,Mississippi,1861,1865,Became part of,1002
+1012,Mississippi,1865,2019,Became part of,2
+1013,Louisana,1816,1861,Became part of,2
+1013,Louisana,1861,1865,Became part of,1002
+1013,Louisana,1865,2019,Became part of,2
+1014,California (Great Bear Republic),1816,1846,Became part of,70
+1014,California (Great Bear Republic),1846,2019,Became part of,2
+1015,Cherokee,1816,2019,Became part of,2
+1016,Oregon Country,1816,1825,Claimed by,365
+1016,Oregon Country,1816,1819,Claimed by,230
+1016,Oregon Country,1816,1846,Claimed by,200
+1016,Oregon Country,1818,1846,Occupied by,200
+1016,Oregon Country,1846,1849,Became possession of,200
+1016,Oregon Country,1846,2019,Became part of,2
+1016,Oregon Country,1849,1866,Became part of,1028
+1016,Oregon Country,1858,1871,Became part of,1027
+1016,Oregon Country,1871,2019,Became part of,20
+1017,Eastern Greenland,1931,1933,Became possession of,385
+1017,Eastern Greenland,1933,2019,Became part of,10
+1018,U.S. Leased Bases in Newfoundland,1816,1940,Became part of,21
+1018,U.S. Leased Bases in Newfoundland,1940,1945,Leased to,2
+1018,U.S. Leased Bases in Newfoundland,1945,2019,Became part of,21
+1019,Rupert's Land,1816,1869,Became possession of,200
+1019,Rupert's Land,1869,2019,Became part of,20
+1020,San Juan Island,1816,1860,Claimed by,2
+1020,San Juan Island,1860,1872,Occupied by,2
+1020,San Juan Island,1872,2019,Became part of,2
+1021,Cape Breton I.,1816,1820,Became colony of,200
+1021,Cape Breton I.,1820,1867,Became part of,1022
+1021,Cape Breton I.,1867,2019,Became part of,20
+1022,Nova Scotia,1816,1867,Became colony of,200
+1022,Nova Scotia,1867,2019,Became part of,20
+1023,New Brunswick,1816,1867,Became colony of,200
+1023,New Brunswick,1867,2019,Became part of,20
+1024,Prince Edward Is.,1816,1873,Became colony of,200
+1024,Prince Edward Is.,1873,2019,Became part of,20
+1025,Quebec (Lower Canada),1816,1841,Became colony of,200
+1025,Quebec (Lower Canada),1841,2019,Became part of,20
+1026,Ontario (Upper Canada),1816,1841,Became colony of,200
+1026,Ontario (Upper Canada),1841,2019,Became part of,20
+1027,British Columbia,1818,1846,Occupied by,2
+1027,British Columbia,1818,1846,Occupied by,200
+1027,British Columbia,1858,1871,Became colony of,200
+1027,British Columbia,1871,2019,Became part of,20
+1028,Vancouver,1849,1866,Became colony of,200
+1028,Vancouver,1866,2019,Became part of,1027
+1029,St. Pierre and Miquelon,1816,1816,Occupied by,200
+1029,St. Pierre and Miquelon,1816,1985,Became colony of,220
+1029,St. Pierre and Miquelon,1985,2019,Became dependency of,220
+1030,U.S. Leased Bases in Bermuda,1816,1940,Became part of,30
+1030,U.S. Leased Bases in Bermuda,1940,1945,Leased to,2
+1030,U.S. Leased Bases in Bermuda,1945,2019,Became part of,30
+1031,Mayaguana,1816,1940,Became part of,31
+1031,Mayaguana,1940,1945,Leased to,2
+1031,Mayaguana,1945,2019,Became part of,31
+1032,Turks and Caicos Is.,1816,1848,Became part of,31
+1032,Turks and Caicos Is.,1848,1962,Became part of,51
+1032,Turks and Caicos Is.,1962,1973,Became part of,31
+1032,Turks and Caicos Is.,1973,2019,Became colony of,200
+1033,Cayman Is.,1816,1962,Became part of,51
+1033,Cayman Is.,1962,2019,Became colony of,200
+1040,Guantanamo,1816,1903,Became part of,40
+1040,Guantanamo,1903,2019,Leased to,2
+1041,North Haiti,1820,2019,Became part of,41
+1044,Navassa I.,1857,1903,Claimed by,2
+1044,Navassa I.,1874,2019,Claimed by,41
+1044,Navassa I.,1903,2019,Became dependency of,2
+1049,Tobago,1816,1871,Became colony of,200
+1049,Tobago,1833,1889,Became part of,1055
+1049,Tobago,1889,2019,Became part of,52
+1051,U.S. Leased Bases in Jamaica,1816,1940,Became part of,51
+1051,U.S. Leased Bases in Jamaica,1940,1945,Leased to,2
+1051,U.S. Leased Bases in Jamaica,1945,2019,Became part of,51
+1052,U.S. Leased Bases in Trinidad,1816,1942,Became part of,52
+1052,U.S. Leased Bases in Trinidad,1942,1945,Leased to,2
+1052,U.S. Leased Bases in Trinidad,1945,2019,Became part of,52
+1055,Windward Is.,1833,1960,Became colony of,200
+1056,Gros Islet Bay,1816,1940,Became part of,56
+1056,Gros Islet Bay,1940,1945,Leased to,2
+1056,Gros Islet Bay,1945,2019,Became part of,56
+1058,Barbuda,1816,1860,Became possession of,200
+1058,Barbuda,1860,2019,Became part of,58
+1059,U.S. Leased Bases in Antigua,1816,1941,Became part of,58
+1059,U.S. Leased Bases in Antigua,1941,1945,Leased to,2
+1059,U.S. Leased Bases in Antigua,1945,2019,Became part of,58
+1061,British Virgin Is.,1816,1833,Became colony of,200
+1061,British Virgin Is.,1833,1956,Became part of,1063
+1061,British Virgin Is.,1956,2019,Became colony of,200
+1062,Anguilla,1816,1833,Became colony of,200
+1062,Anguilla,1833,1882,Became part of,1063
+1062,Anguilla,1882,1969,Became part of,60
+1062,Anguilla,1969,2019,Became colony of,200
+1063,Leeward Is.,1833,1956,Became colony of,200
+1064,St. Barthelemy,1816,1878,Became colony of,380
+1064,St. Barthelemy,1878,2007,Became part of,65
+1064,St. Barthelemy,2007,2019,Became dependency of,220
+1065,Curacao,1816,1816,Occupied by,200
+1065,Curacao,1816,1828,Became colony of,210
+1065,Curacao,1828,2010,Became part of,68
+1065,Curacao,2010,2019,Became dependency of,210
+1066,Bonaire,1816,1828,Became colony of,210
+1066,Bonaire,1828,2010,Became part of,68
+1066,Bonaire,2010,2019,Became dependency of,210
+1067,Saba,1816,1828,Became colony of,210
+1067,Saba,1828,2010,Became part of,1074
+1067,Saba,2010,2019,Became dependency of,210
+1068,Sint Eustatius,1816,1816,Occupied by,200
+1068,Sint Eustatius,1816,1828,Became colony of,210
+1068,Sint Eustatius,1828,2010,Became part of,1074
+1068,Sint Eustatius,2010,2019,Became dependency of,210
+1069,Aruba,1816,1828,Became colony of,210
+1069,Aruba,1828,1986,Became part of,68
+1069,Aruba,1986,2019,Became dependency of,210
+1070,Viceroyalty of New Spain,1816,1821,Became colony of,230
+1071,Yucatan,1816,1823,Became part of,70
+1071,Yucatan,1823,1841,Became part of,70
+1071,Yucatan,1841,1848,Sovereign (unrecognised),
+1071,Yucatan,1848,2019,Became part of,70
+1072,Revillagigedo Is,1816,2019,Became possession of,70
+1073,Sint Martin,1816,1828,Became colony of,210
+1073,Sint Martin,1828,2010,Became part of,1074
+1073,Sint Martin,2010,2019,Became dependency of,210
+1074,Dutch Windward Is.,1828,2010,Became part of,68
+1075,St.Kitts,1816,1833,Became colony of,200
+1075,St.Kitts,1833,1882,Became part of,1063
+1075,St.Kitts,1882,2019,Became part of,60
+1076,Nevis,1816,1833,Became colony of,200
+1076,Nevis,1833,1882,Became part of,1063
+1076,Nevis,1882,2019,Became part of,60
+1077,St. Martin,1816,2007,Became part of,65
+1077,St. Martin,2007,2019,Became dependency of,220
+1081,Mosquito Coast,1816,1860,Became protectorate of,200
+1081,Mosquito Coast,1859,2019,Became part of,91
+1081,Mosquito Coast,1860,2019,Became part of,93
+1082,Bay Is.,1816,1821,Became part of,1070
+1082,Bay Is.,1821,1823,Became part of,70
+1082,Bay Is.,1823,1830,Became part of,89
+1082,Bay Is.,1830,1830,Occupied by,200
+1082,Bay Is.,1830,1839,Became part of,89
+1082,Bay Is.,1839,1841,Became part of,91
+1082,Bay Is.,1841,1852,Became part of,80
+1082,Bay Is.,1852,1860,Became colony of,200
+1082,Bay Is.,1860,2019,Became part of,91
+1087,Swan Is.,1816,1821,Became part of,1070
+1087,Swan Is.,1821,1823,Became part of,70
+1087,Swan Is.,1823,1839,Became part of,89
+1087,Swan Is.,1839,1863,Became part of,91
+1087,Swan Is.,1863,1972,Leased to,2
+1087,Swan Is.,1972,2019,Became part of,91
+1088,Corn Is.,1816,1821,Became part of,1070
+1088,Corn Is.,1821,1823,Became part of,70
+1088,Corn Is.,1823,1839,Became part of,89
+1088,Corn Is.,1839,1916,Became part of,93
+1088,Corn Is.,1916,1971,Leased to,2
+1088,Corn Is.,1971,2019,Became part of,93
+1094,Cocos I.,1816,1821,Became part of,1070
+1094,Cocos I.,1821,1823,Became part of,70
+1094,Cocos I.,1823,1839,Became part of,89
+1094,Cocos I.,1832,2019,Became possession of,94
+1097,Panama Canal Operating Area,1816,1903,Became part of,100
+1097,Panama Canal Operating Area,1903,1979,Became part of,96
+1097,Panama Canal Operating Area,1979,2019,Leased to,2
+1101,Quita Sueno Bank,1856,1981,Claimed by,2
+1101,Quita Sueno Bank,1981,2019,Became part of,100
+1102,Roncador Cay,1856,1981,Claimed by,2
+1102,Roncador Cay,1981,2019,Became part of,100
+1103,Serrana Bank,1856,1981,Claimed by,2
+1103,Serrana Bank,1981,2019,Became part of,100
+1104,Serranilla Bank,1856,1981,Claimed by,2
+1104,Serranilla Bank,1981,2019,Became part of,100
+1105,San Andres and Providincial Is.,1819,1928,Claimed by,100
+1105,San Andres and Providincial Is.,1839,1928,Claimed by,93
+1105,San Andres and Providincial Is.,1928,2019,Became part of,100
+1106,Malpelo I.,1819,2019,Became possession of,100
+1111,Aves I.,1816,1895,Claimed by,101
+1111,Aves I.,1816,1895,Claimed by,210
+1111,Aves I.,1856,1895,Claimed by,2
+1111,Aves I.,2001,2007,Claimed by,54
+1111,Aves I.,1895,2019,Became possession of,101
+1112,U.S. Leased Bases in Br. Guiana,1831,1940,Became part of,110
+1112,U.S. Leased Bases in Br. Guiana,1940,1945,Leased to,2
+1112,U.S. Leased Bases in Br. Guiana,1945,2019,Became part of,110
+1113,Demerara and Essequibo,1816,1831,Became colony of,200
+1113,Demerara and Essequibo,1831,2019,Became part of,110
+1114,Berbice,1816,1831,Became colony of,200
+1114,Berbice,1831,2019,Became part of,110
+1135,Viceroyalty of Peru,1816,1821,Became colony of,230
+1150,Free Surinam,1816,2019,Became part of,115
+1151,Easter I.,1888,1965,Became colony of,155
+1151,Easter I.,1965,2019,Became part of,155
+1152,Juan Fernandez I.,1888,1965,Became possession of,155
+1152,Juan Fernandez I.,1965,2019,Became part of,155
+1153,San Felix and San Ambrosio,1888,1965,Became possession of,155
+1153,San Felix and San Ambrosio,1965,2019,Became part of,155
+1154,Sala y Gomez,1888,1965,Became possession of,155
+1154,Sala y Gomez,1965,2019,Became part of,155
+1156,Araucania,1884,2019,Became part of,155
+1160,Viceroyalty of La Plata,1816,1816,Became colony of,200
+1160,Viceroyalty of La Plata,1816,2019,Became part of,160
+1161,Buenos Aires,1816,1852,Became part of,160
+1161,Buenos Aires,1852,1861,Sovereign (unrecognised),
+1161,Buenos Aires,1861,2019,Became part of,160
+1162,Cordoba,1816,2019,Became part of,160
+1163,Falkland Is.,1816,1833,Became possession of,160
+1163,Falkland Is.,1833,2019,Became colony of,200
+1164,South Georgia,1816,1833,Became possession of,200
+1164,South Georgia,1833,2019,Became part of,1163
+1164,South Georgia,1985,2019,Became part of,1165
+1165,South Georgia and South Sandwich Is.,1833,1985,Became part of,1163
+1165,South Georgia and South Sandwich Is.,1985,2019,Became dependency of,200
+1166,San Juan,1816,1821,Became part of,160
+1166,San Juan,1821,2019,Became part of,160
+1167,Corrientes,1816,1820,Became part of,160
+1167,Corrientes,1820,2019,Became part of,160
+1168,Martin Garcia I.,1816,1838,Became part of,160
+1168,Martin Garcia I.,1838,1840,Occupied by,220
+1168,Martin Garcia I.,1840,1845,Became part of,160
+1168,Martin Garcia I.,1845,1848,Occupied by,200
+1168,Martin Garcia I.,1848,1852,Became part of,160
+1168,Martin Garcia I.,1852,1859,Became part of,1161
+1168,Martin Garcia I.,1859,2019,Became part of,160
+1201,Inini,1816,1930,Became part of,120
+1201,Inini,1930,1946,Became colony of,220
+1201,Inini,1946,2019,Became part of,120
+1301,Galapagos Is.,1832,1832,Became colony of,130
+1301,Galapagos Is.,1832,2019,Became part of,130
+1352,Chincha Is.,1816,1817,Became part of,1135
+1352,Chincha Is.,1817,1864,Became part of,135
+1352,Chincha Is.,1864,1865,Occupied by,230
+1352,Chincha Is.,1865,2019,Became part of,135
+1401,Rio Grande do Sul,1816,1835,Became part of,140
+1401,Rio Grande do Sul,1835,2019,Became part of,140
+1402,Juliana Republic,1816,1839,Became part of,140
+1402,Juliana Republic,1839,2019,Became part of,140
+1407,Acre,1816,1903,Became part of,145
+1407,Acre,1903,2019,Became part of,140
+1408,St. Paul's Rocks,1822,2019,Became possession of,140
+1409,Trinidade Island,1895,1895,Became possession of,200
+1409,Trinidade Island,1895,2019,Became possession of,140
+2001,Rockall I.,1955,1972,Became possession of,200
+2001,Rockall I.,1972,2019,Became part of,200
+2002,Lundy,1816,2019,Became part of,200
+2051,UK Bases in Ireland,1922,1938,Became possession of,200
+2051,UK Bases in Ireland,1938,2019,Became part of,205
+2111,Moresnet,1816,1830,Became neutral or demilitarized zone of,210
+2111,Moresnet,1830,1914,Became neutral or demilitarized zone of,211
+2111,Moresnet,1914,1919,Occupied by,255
+2111,Moresnet,1919,2019,Became part of,211
+2221,Roquebrune and Menton,1816,1860,Became part of,221
+2221,Roquebrune and Menton,1860,2019,Became part of,220
+2246,Lauenburg,1816,1865,Became part of,390
+2246,Lauenburg,1865,1867,Became part of,239
+2246,Lauenburg,1867,1945,Became part of,255
+2247,Schleswig,1816,1865,Became part of,390
+2247,Schleswig,1865,1866,Occupied by,239
+2247,Schleswig,1866,1945,Became part of,239
+2248,Holstein,1816,1865,Became part of,390
+2248,Holstein,1865,1867,Occupied by,305
+2248,Holstein,1867,1945,Became part of,239
+2249,Heligoland,1816,1890,Became colony of,200
+2249,Heligoland,1890,1945,Became part of,255
+2251,Neuchatel,1816,2019,Became part of,225
+2292,Cracow,1846,1867,Became part of,305
+2292,Cracow,1867,1918,Became part of,300
+2292,Cracow,1918,2019,Became part of,290
+2311,Spain-Gibraltar Neutral Zone,1909,2019,Became neutral or demilitarized zone of,230
+2311,Spain-Gibraltar Neutral Zone,1909,2019,Became neutral or demilitarized zone of,200
+2333,Ile des Faisans,1816,2019,Became neutral or demilitarized zone of,220
+2333,Ile des Faisans,1816,2019,Became neutral or demilitarized zone of,230
+2481,Bergedorf,1816,1867,Became part of,248
+2481,Bergedorf,1867,1945,Became part of,255
+2482,Schleswig Plebiscite Zone,1866,1920,Became part of,255
+2482,Schleswig Plebiscite Zone,1920,1920,Occupied by,9999
+2482,Schleswig Plebiscite Zone,1920,1945,Became part of,255
+2482,Schleswig Plebiscite Zone,1920,1945,Became part of,390
+2551,Allenstein Plebiscite Zone,1816,1871,Became part of,239
+2551,Allenstein Plebiscite Zone,1871,1920,Became part of,255
+2551,Allenstein Plebiscite Zone,1920,1945,Became part of,255
+2551,Allenstein Plebiscite Zone,1920,1920,Occupied by,9999
+2552,Marienwerder Plebiscite Zone,1816,1871,Became part of,239
+2552,Marienwerder Plebiscite Zone,1871,1920,Became part of,255
+2552,Marienwerder Plebiscite Zone,1920,1945,Became part of,255
+2552,Marienwerder Plebiscite Zone,1920,1920,Occupied by,9999
+2553,Silesia Plebiscite Zone,1816,1871,Became part of,239
+2553,Silesia Plebiscite Zone,1871,1921,Became part of,255
+2553,Silesia Plebiscite Zone,1921,1921,Occupied by,9999
+2553,Silesia Plebiscite Zone,1921,1945,Became part of,255
+2553,Silesia Plebiscite Zone,1921,1945,Became part of,290
+2554,Brandenburg,1816,1947,Became part of,239
+2554,Brandenburg,1947,1949,Became part of,365
+2554,Brandenburg,1949,1952,Became part of,265
+2554,Brandenburg,1990,2019,Became part of,255
+2555,Schleswig Holstein,1867,1945,Became part of,239
+2555,Schleswig Holstein,1945,1949,Became part of,200
+2555,Schleswig Holstein,1949,1990,Became part of,260
+2555,Schleswig Holstein,1990,2019,Became part of,255
+2556,Rhineland,1816,1871,Became part of,239
+2556,Rhineland,1871,1919,Became part of,255
+2556,Rhineland,1919,1930,Occupied by,200
+2556,Rhineland,1930,1945,Became part of,255
+2557,Ruhr,1871,1923,Became part of,255
+2557,Ruhr,1923,1925,Occupied by,220
+2557,Ruhr,1925,1945,Became part of,255
+2558,Thuringia,1920,1945,Became part of,255
+2558,Thuringia,1945,1949,Became part of,365
+2558,Thuringia,1949,1952,Became part of,265
+2558,Thuringia,1990,2019,Became part of,255
+2601,Berlin (West Berlin),1816,1871,Became part of,239
+2601,Berlin (West Berlin),1871,1945,Became part of,255
+2601,Berlin (West Berlin),1945,1990,Occupied by,2
+2601,Berlin (West Berlin),1949,1990,Became part of,260
+2601,Berlin (West Berlin),1990,2019,Became part of,255
+2602,Hesse,1945,1949,Became part of,2
+2602,Hesse,1949,1990,Became part of,260
+2602,Hesse,1990,2019,Became part of,255
+2603,Lower Saxony,1946,1949,Became part of,200
+2603,Lower Saxony,1949,1990,Became part of,260
+2603,Lower Saxony,1990,2019,Became part of,255
+2604,North Rhine Westphalia,1946,1949,Became part of,200
+2604,North Rhine Westphalia,1949,1990,Became part of,260
+2604,North Rhine Westphalia,1990,2019,Became part of,255
+2605,Rhineland Palatinate,1946,1949,Became part of,220
+2605,Rhineland Palatinate,1949,1990,Became part of,260
+2605,Rhineland Palatinate,1990,2019,Became part of,255
+2606,Baden Wuerttemberg,1952,1990,Became part of,260
+2606,Baden Wuerttemberg,1990,2019,Became part of,255
+2661,Saxe Hildburghausen,1816,1826,Sovereign (limited),
+2661,Saxe Hildburghausen,1826,1867,Became part of,266
+3051,Klagenfurt Plebiscite Zone,1816,1867,Became part of,305
+3051,Klagenfurt Plebiscite Zone,1867,1920,Became part of,300
+3051,Klagenfurt Plebiscite Zone,1920,1945,Became part of,305
+3051,Klagenfurt Plebiscite Zone,1920,1920,Occupied by,9999
+3052,Vorarlberg,1816,1867,Became part of,305
+3052,Vorarlberg,1867,1918,Became part of,300
+3052,Vorarlberg,1918,2019,Became part of,305
+3053,Tirol,1816,1867,Became part of,305
+3053,Tirol,1867,1918,Became part of,300
+3053,Tirol,1918,1919,Became part of,305
+3053,Tirol,1919,2019,Became part of,305
+3253,Milan,1816,1848,Became part of,305
+3253,Milan,1848,1860,Became part of,305
+3261,Republic of St. Mark,1816,1848,Became part of,305
+3261,Republic of St. Mark,1848,1849,Sovereign (unrecognised),
+3261,Republic of St. Mark,1849,1866,Became part of,305
+3261,Republic of St. Mark,1866,2019,Became part of,325
+3271,Ancona,1816,1832,Became part of,327
+3271,Ancona,1832,1839,Occupied by,220
+3271,Ancona,1839,1860,Became part of,327
+3271,Ancona,1861,2019,Became part of,325
+3291,Sicily,1816,1848,Became part of,329
+3291,Sicily,1848,1861,Became part of,329
+3291,Sicily,1861,2019,Became part of,325
+3316,Carpatho-Ukraine,1918,1939,Became part of,315
+3316,Carpatho-Ukraine,1939,1945,Became part of,310
+3316,Carpatho-Ukraine,1945,1991,Became part of,365
+3316,Carpatho-Ukraine,1991,2019,Became part of,369
+3326,Venezia-Giulia,1919,1945,Became part of,325
+3326,Venezia-Giulia,1945,1947,Occupied by,2
+3326,Venezia-Giulia,1947,2019,Became part of,325
+3327,"S.M.O.M.(Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1816,1834,Became part of,327
+3340,Scutari,1816,1831,Became part of,640
+3340,Scutari,1831,1912,Became part of,640
+3340,Scutari,1912,2019,Became part of,339
+3341,Saseno,1816,1912,Became part of,640
+3341,Saseno,1912,1914,Became part of,339
+3341,Saseno,1914,1947,Occupied by,325
+3341,Saseno,1947,2019,Became part of,339
+3343,Fiume,1816,1867,Became part of,305
+3343,Fiume,1867,1918,Became part of,300
+3343,Fiume,1918,1919,Occupied by,325
+3343,Fiume,1920,1924,Sovereign,
+3343,Fiume,1924,1947,Became part of,325
+3343,Fiume,1947,1991,Became part of,345
+3343,Fiume,1992,2019,Became part of,344
+3346,Zadar (Zara),1816,1867,Became part of,305
+3346,Zadar (Zara),1867,1918,Became part of,300
+3346,Zadar (Zara),1919,1923,Occupied by,325
+3346,Zadar (Zara),1923,1947,Became part of,325
+3346,Zadar (Zara),1947,1991,Became part of,345
+3346,Zadar (Zara),1991,2019,Became part of,344
+3349,Ionian Is.,1816,1864,Became protectorate of,200
+3349,Ionian Is.,1864,1941,Became part of,350
+3349,Ionian Is.,1941,1943,Occupied by,325
+3349,Ionian Is.,1943,1944,Occupied by,255
+3349,Ionian Is.,1944,2019,Became part of,350
+3351,Corfu,1816,1864,Became part of,3349
+3351,Corfu,1864,1923,Became part of,350
+3351,Corfu,1916,1916,Occupied by,220
+3351,Corfu,1923,1941,Became part of,350
+3351,Corfu,1923,1923,Occupied by,325
+3351,Corfu,1941,1943,Occupied by,325
+3351,Corfu,1943,1944,Occupied by,255
+3351,Corfu,1944,2019,Became part of,350
+3352,Turkish Republic of Northern Cyprus,1960,1974,Became part of,352
+3352,Turkish Republic of Northern Cyprus,1974,1983,Occupied by,640
+3352,Turkish Republic of Northern Cyprus,1983,2019,Sovereign (unrecognised),
+3353,Dodecanese Is. (Aegean Is.),1816,1912,Became part of,640
+3353,Dodecanese Is. (Aegean Is.),1912,1923,Occupied by,325
+3353,Dodecanese Is. (Aegean Is.),1923,1943,Became colony of,325
+3353,Dodecanese Is. (Aegean Is.),1943,1947,Occupied by,200
+3353,Dodecanese Is. (Aegean Is.),1947,2019,Became part of,350
+3354,Janina,1822,1828,Became part of,640
+3354,Janina,1828,2019,Became part of,350
+3355,Akrotiri and Dhekelia (British Bases in Cyprus),1816,1960,Became part of,352
+3355,Akrotiri and Dhekelia (British Bases in Cyprus),1960,2019,Became dependency of,200
+3356,Castellorizo,1816,1915,Became part of,640
+3356,Castellorizo,1915,1920,Occupied by,220
+3356,Castellorizo,1920,1947,Became part of,3353
+3361,Moldavia,1816,1859,Became part of,640
+3361,Moldavia,1828,1834,Occupied by,365
+3361,Moldavia,1848,1851,Occupied by,365
+3361,Moldavia,1853,1854,Occupied by,365
+3361,Moldavia,1854,1857,Occupied by,305
+3361,Moldavia,1859,2019,Became part of,360
+3362,Wallachia,1816,1859,Became part of,640
+3362,Wallachia,1828,1834,Occupied by,365
+3362,Wallachia,1848,1851,Occupied by,365
+3362,Wallachia,1853,1854,Occupied by,365
+3362,Wallachia,1854,1857,Occupied by,305
+3362,Wallachia,1859,2019,Became part of,360
+3363,Memel,1816,1919,Became part of,239
+3363,Memel,1919,1923,Mandated to,0
+3363,Memel,1923,1939,Became part of,368
+3363,Memel,1939,1944,Occupied by,255
+3363,Memel,1944,1991,Became part of,365
+3363,Memel,1991,2019,Became part of,368
+3364,North Ingermanland,1816,1920,Became part of,365
+3364,North Ingermanland,1920,2019,Became part of,365
+3374,Batum,1816,1878,Became part of,640
+3374,Batum,1878,1918,Became part of,365
+3374,Batum,1918,1920,Occupied by,200
+3374,Batum,1920,1991,Became part of,365
+3374,Batum,1991,2019,Became part of,372
+3375,Daghestan,1816,1827,Became part of,365
+3375,Daghestan,1827,1859,Became part of,365
+3375,Daghestan,1859,2019,Became part of,365
+3376,Nakhichevan,1816,1990,Became part of,365
+3376,Nakhichevan,1991,2019,Became dependency of,373
+3377,Mountaineers' Republic of the North Caucusus,1859,1918,Became part of,365
+3377,Mountaineers' Republic of the North Caucusus,1918,1920,Sovereign,
+3377,Mountaineers' Republic of the North Caucusus,1920,2019,Became part of,365
+3378,Porkkala,1816,1917,Became part of,365
+3378,Porkkala,1917,1944,Became part of,375
+3378,Porkkala,1944,1956,Claimed by,365
+3378,Porkkala,1956,2019,Became part of,375
+3379,Aland Is.,1816,1854,Became part of,365
+3379,Aland Is.,1854,1854,Occupied by,220
+3379,Aland Is.,1854,1917,Became part of,365
+3379,Aland Is.,1917,1918,Became part of,375
+3379,Aland Is.,1918,1918,Occupied by,255
+3379,Aland Is.,1918,1921,Became part of,375
+3379,Aland Is.,1921,2019,Became dependency of,375
+3379,Aland Is.,1918,1918,Occupied by,380
+3380,Hango,1816,1917,Became part of,365
+3380,Hango,1917,1940,Became part of,375
+3380,Hango,1940,1944,Leased to,365
+3380,Hango,1944,2019,Became part of,375
+3381,Elba,1816,1860,Became part of,337
+3381,Elba,1861,1944,Became part of,325
+3381,Elba,1944,1945,Occupied by,220
+3381,Elba,1945,2019,Became part of,325
+3386,Svalbard Is.,1925,2019,Became dependency of,385
+3387,Jan Mayan Is.,1929,2019,Became dependency of,385
+3387,Jan Mayan Is.,1941,1946,Occupied by,2
+3451,Serb Republic of Krajina,1991,1995,Became part of,345
+3451,Serb Republic of Krajina,1995,2019,Became part of,344
+3452,Serb Republic of Bosnia,1992,2019,Became part of,346
+3461,Bosnia,1816,1991,Became part of,346
+3462,Herzegovina,1816,1991,Became part of,640
+3471,Novi Bazar,1816,1878,Became part of,640
+3471,Novi Bazar,1878,1908,Occupied by,300
+3471,Novi Bazar,1908,1912,Became part of,640
+3471,Novi Bazar,1912,1913,Occupied by,345
+3471,Novi Bazar,1913,1991,Became part of,345
+3481,Brda,1816,1854,Became part of,348
+3481,Brda,1855,1918,Became part of,348
+3481,Brda,1918,2019,Became part of,345
+3501,Western Thrace,1816,1919,Became part of,640
+3501,Western Thrace,1919,1920,Occupied by,200
+3501,Western Thrace,1920,2019,Became part of,350
+3502,Mount Athos,1816,1913,Became part of,640
+3502,Mount Athos,1913,2019,Became dependency of,350
+3503,New Greece,1816,1912,Became part of,640
+3503,New Greece,1912,1913,Occupied by,350
+3503,New Greece,1913,2019,Became part of,350
+3504,Samos,1816,1829,Became part of,640
+3504,Samos,1829,1832,Sovereign (unrecognised),
+3504,Samos,1832,1912,Became part of,640
+3504,Samos,1912,1913,Occupied by,350
+3504,Samos,1913,2019,Became part of,350
+3505,Lemnos,1816,1905,Became part of,640
+3505,Lemnos,1905,1905,Occupied by,200
+3505,Lemnos,1905,1913,Became part of,640
+3505,Lemnos,1913,2019,Became part of,350
+3521,UN Buffer Zone in Cyprus,1878,1974,Became part of,352
+3521,UN Buffer Zone in Cyprus,1974,2019,Became neutral or demilitarized zone of,1
+3551,Eastern Rumelia,1816,1885,Became part of,640
+3551,Eastern Rumelia,1885,2019,Became part of,355
+3591,Transdniestria,1924,1992,Became part of,359
+3591,Transdniestria,1992,2019,Sovereign (unrecognised),
+3592,Gagauzia,1816,1994,Became part of,359
+3592,Gagauzia,1994,2019,Became dependency of,359
+3601,Danube Islands Neutral Zone,1816,1826,Became neutral or demilitarized zone of,365
+3601,Danube Islands Neutral Zone,1826,1856,Became part of,365
+3651,Adygea,1922,1991,Became part of,365
+3651,Adygea,1991,2019,Became dependency of,365
+3652,Altai Republic,1816,1864,Became part of,710
+3652,Altai Republic,1864,1991,Became part of,365
+3652,Altai Republic,1991,2019,Became dependency of,365
+3653,Bashkir Republic,1816,1992,Became part of,365
+3653,Bashkir Republic,1992,2019,Became dependency of,365
+3654,Buryatia,1816,1923,Became colony of,365
+3654,Buryatia,1923,1992,Became part of,365
+3654,Buryatia,1992,2019,Became dependency of,365
+3655,Karelia Republic,1816,1941,Became part of,365
+3655,Karelia Republic,1941,1944,Occupied by,740
+3655,Karelia Republic,1944,1991,Became part of,365
+3655,Karelia Republic,1991,2019,Became dependency of,365
+3661,USSR Bases in Estonia,1939,1940,Occupied by,365
+3661,USSR Bases in Estonia,1940,1991,Became part of,365
+3671,USSR Bases in Latvia,1939,1940,Occupied by,365
+3671,USSR Bases in Latvia,1940,1991,Became part of,365
+3681,USSR Bases in Lithuania,1939,1940,Occupied by,365
+3681,USSR Bases in Lithuania,1940,1991,Became part of,365
+3691,Western Ukraine,1816,1867,Became part of,305
+3691,Western Ukraine,1867,1918,Became part of,300
+3691,Western Ukraine,1919,1939,Became part of,290
+3691,Western Ukraine,1939,1991,Became part of,365
+3691,Western Ukraine,1991,2019,Became part of,369
+3692,Northeren Russia,1816,1918,Became part of,365
+3692,Northeren Russia,1918,1919,Occupied by,2
+3692,Northeren Russia,1919,2019,Became part of,365
+3693,Republic of the Don,1816,1918,Became part of,365
+3693,Republic of the Don,1918,2019,Became part of,365
+3694,Odessa,1816,1918,Became part of,365
+3694,Odessa,1918,1919,Occupied by,220
+3694,Odessa,1919,1991,Became part of,365
+3694,Odessa,1991,2019,Became part of,369
+3695,Crimea,1816,1954,Became part of,365
+3695,Crimea,1954,1991,Became part of,369
+3695,Crimea,1991,2014,Became dependency of,369
+3695,Crimea,2014,2019,Became dependency of,365
+3696,Novorossiya,1816,1829,Became part of,640
+3696,Novorossiya,1829,1917,Became part of,365
+3696,Novorossiya,1917,2014,Became part of,369
+3696,Novorossiya,2014,2019,Became dependency of,369
+3712,Artsakh (Republic of Karabakh),1991,1992,Became part of,373
+3712,Artsakh (Republic of Karabakh),1992,2019,Sovereign (unrecognised),
+3721,Abkhazia,1816,1864,Became part of,640
+3721,Abkhazia,1864,1918,Became part of,365
+3721,Abkhazia,1918,1992,Became part of,372
+3721,Abkhazia,1992,2019,Sovereign (unrecognised),
+3722,South Ossetia,1816,1918,Became part of,365
+3722,South Ossetia,1918,1992,Became part of,372
+3722,South Ossetia,1992,2019,Sovereign (unrecognised),
+3723,Adjara,1816,1878,Became part of,640
+3723,Adjara,1878,1918,Became part of,365
+3723,Adjara,1918,1920,Occupied by,200
+3723,Adjara,1921,1991,Became part of,372
+3723,Adjara,1991,2019,Became dependency of,372
+3805,Sweden-Norway Neutral Zone,1816,1905,Became part of,380
+3805,Sweden-Norway Neutral Zone,1905,1993,Became neutral or demilitarized zone of,380
+3901,Bornholm I.,1816,2019,Became part of,390
+3901,Bornholm I.,1945,1946,Occupied by,365
+4031,Principe,1816,1995,Became part of,403
+4031,Principe,1995,2019,Became dependency of,403
+4041,Cacheu,1816,1852,Became part of,402
+4041,Cacheu,1816,1852,Became possession of,235
+4041,Cacheu,1852,1879,Became part of,4042
+4041,Cacheu,1879,2019,Became part of,404
+4042,Bissau,1816,1879,Became possession of,235
+4042,Bissau,1816,1879,Became part of,402
+4042,Bissau,1879,2019,Became part of,404
+4043,Oio,1905,2019,Became part of,404
+4050,St. Helena,1816,2019,Became colony of,200
+4051,Longwood,1816,2019,Became part of,4050
+4051,Longwood,1858,2019,Became possession of,220
+4060,Tristan da Cunha,1816,1938,Became possession of,200
+4060,Tristan da Cunha,1938,2019,Became part of,4050
+4070,Ascension I.,1816,1922,Became possession of,200
+4070,Ascension I.,1922,2019,Became part of,4050
+4111,Annobon I.,1816,1827,Became possession of,230
+4111,Annobon I.,1827,1855,Leased to,200
+4111,Annobon I.,1855,2019,Became part of,411
+4112,Corisco I.,1816,1858,Became possession of,230
+4112,Corisco I.,1858,2019,Became part of,411
+4201,Gambia Protectorate,1894,1965,Became protectorate of,200
+4201,Gambia Protectorate,1894,2019,Became part of,420
+4321,Tokolor Empire,1816,1848,Became part of,4324
+4321,Tokolor Empire,1816,1854,Became part of,4325
+4321,Tokolor Empire,1816,1852,Became part of,4323
+4321,Tokolor Empire,1848,1893,Sovereign (unrecognised),
+4321,Tokolor Empire,1893,1895,Occupied by,220
+4321,Tokolor Empire,1895,1958,Became part of,430
+4322,Timbuctu,1827,1861,Became part of,4326
+4323,Bambuk,1852,1893,Became part of,4321
+4324,Dinguiray,1848,1893,Became part of,4321
+4325,Kaarta,1854,1893,Became part of,4321
+4326,Macina,1816,1818,Became part of,4327
+4326,Macina,1818,1862,Sovereign (unrecognised),
+4326,Macina,1862,1893,Became part of,4321
+4326,Macina,1893,1895,Occupied by,220
+4326,Macina,1895,1958,Became part of,430
+4327,Segu,1816,1861,Sovereign (unrecognised),
+4327,Segu,1861,1890,Became part of,4321
+4327,Segu,1890,1895,Occupied by,220
+4327,Segu,1895,1958,Became part of,430
+4328,Sikasso,1898,1958,Became part of,430
+4331,Futa Toro,1816,1861,Sovereign (unrecognised),
+4331,Futa Toro,1857,1895,Occupied by,220
+4331,Futa Toro,1895,1958,Became part of,430
+4332,Futa Bondu,1816,1845,Sovereign (unrecognised),
+4332,Futa Bondu,1845,1895,Occupied by,220
+4332,Futa Bondu,1895,1958,Became part of,430
+4333,Cayor,1816,1879,Sovereign (unrecognised),
+4333,Cayor,1879,1895,Occupied by,220
+4333,Cayor,1895,1958,Became part of,430
+4334,Rip,1816,1867,Sovereign (unrecognised),
+4334,Rip,1867,1887,Unknown,
+4334,Rip,1887,1895,Occupied by,220
+4334,Rip,1895,1958,Became part of,430
+4335,Saloum,1816,1887,Sovereign (unrecognised),
+4335,Saloum,1887,1895,Occupied by,220
+4335,Saloum,1895,1958,Became part of,430
+4336,Sine,1816,1867,Sovereign (unrecognised),
+4336,Sine,1867,1895,Occupied by,220
+4336,Sine,1895,1958,Became part of,430
+4337,Walo,1816,1855,Sovereign (unrecognised),
+4337,Walo,1855,1895,Occupied by,220
+4337,Walo,1895,1958,Became part of,430
+4338,Goree,1817,1854,Became part of,433
+4338,Goree,1854,1859,Became possession of,220
+4338,Goree,1854,1859,Became part of,481
+4338,Goree,1859,2019,Became part of,433
+4341,Old Dahomey,1816,1894,Sovereign (unrecognised),
+4341,Old Dahomey,1894,1895,Became part of,434
+4341,Old Dahomey,1895,1958,Became part of,430
+4342,Gun,1871,1894,Occupied by,220
+4342,Gun,1894,1895,Became part of,434
+4342,Gun,1895,1958,Became part of,430
+4343,Ketu,1816,1886,Sovereign (unrecognised),
+4343,Ketu,1886,1894,Occupied by,220
+4343,Ketu,1894,1895,Became part of,434
+4343,Ketu,1895,1958,Became part of,430
+4344,Grand Popo,1857,1894,Became possession of,220
+4344,Grand Popo,1894,1895,Became part of,434
+4344,Grand Popo,1895,1958,Became part of,430
+4345,Ouidah,1843,1894,Became possession of,220
+4345,Ouidah,1894,1895,Became part of,434
+4345,Ouidah,1895,1958,Became part of,430
+4346,Anecho,1885,1894,Became possession of,220
+4346,Anecho,1894,1895,Became part of,434
+4346,Anecho,1895,1958,Became part of,430
+4347,Cotonou,1851,1894,Became possession of,220
+4347,Cotonou,1894,1895,Became part of,434
+4347,Cotonou,1895,1958,Became part of,430
+4348,Porto Novo,1816,1863,Sovereign (unrecognised),
+4348,Porto Novo,1863,1883,Became protectorate of,220
+4348,Porto Novo,1883,1894,Became part of,4341
+4348,Porto Novo,1894,1895,Became part of,434
+4348,Porto Novo,1895,1958,Became part of,430
+4349,Ajuda,1816,1961,Became part of,403
+4349,Ajuda,1816,1961,Became possession of,235
+4349,Ajuda,1961,2019,Became part of,434
+4351,Adrar,1909,2019,Became part of,435
+4352,Brakna,1904,2019,Became part of,435
+4353,Tagant,1905,2019,Became part of,435
+4354,Trarza,1902,2019,Became part of,435
+4361,Aïr,1893,1904,Occupied by,220
+4361,Aïr,1904,1958,Became part of,430
+4362,Zinder,1893,1904,Occupied by,220
+4362,Zinder,1904,1958,Became part of,430
+4371,Odienne,1880,1898,Became part of,4393
+4372,Grand Bassam,1843,1871,Became possession of,220
+4373,Assini,1843,1871,Became possession of,220
+4381,Futa Djallon,1896,1958,Became part of,430
+4382,Kankan,1880,1893,Occupied by,220
+4382,Kankan,1893,1895,Became part of,438
+4382,Kankan,1895,1958,Became part of,430
+4391,Gurma,1895,1958,Became part of,430
+4392,Kong,1895,1958,Became part of,430
+4393,Mandinka Empire,1878,1898,Sovereign (unrecognised),
+4393,Mandinka Empire,1898,1958,Became part of,430
+4394,Mamprussi,1895,1958,Became part of,430
+4395,Ouga Dougou,1896,1958,Became part of,430
+4396,Yatenga,1895,1958,Became part of,430
+4397,Busuma,1895,1958,Became part of,430
+4398,Riziam,1895,1958,Became part of,430
+4501,Maryland,1857,2019,Became part of,450
+4511,Sierra Leone Protectorate,1816,1896,Became colony of,200
+4511,Sierra Leone Protectorate,1896,1961,Became protectorate of,200
+4511,Sierra Leone Protectorate,1896,2019,Became part of,451
+4512,Aku,1880,2019,Became part of,451
+4513,Banana Island,1820,2019,Became part of,451
+4514,Bumpe,1888,2019,Became part of,451
+4515,Koya-Temne,1896,2019,Became part of,451
+4516,Shenge (Plantation Island),1888,2019,Became part of,451
+4521,Asante,1816,1896,Sovereign (unrecognised),
+4521,Asante,1896,1901,Occupied by,200
+4521,Asante,1901,2019,Became part of,452
+4522,Adansi,1816,1886,Became part of,4521
+4522,Adansi,1886,2019,Became part of,452
+4523,Akwamu,1816,1874,Became part of,4521
+4523,Akwamu,1874,2019,Became part of,452
+4524,Akwapim,1816,1873,Became part of,4521
+4524,Akwapim,1873,1874,Occupied by,200
+4524,Akwapim,1874,2019,Became part of,452
+4525,Akyem,1816,1873,Became part of,4521
+4525,Akyem,1873,1874,Occupied by,200
+4525,Akyem,1874,2019,Became part of,452
+4526,Dagomba,1897,2019,Became part of,452
+4527,Denkyira,1816,1873,Became part of,4521
+4527,Denkyira,1873,1874,Occupied by,200
+4527,Denkyira,1874,2019,Became part of,452
+4528,Fante,1816,1873,Became part of,4521
+4528,Fante,1873,1874,Occupied by,200
+4528,Fante,1874,2019,Became part of,452
+4529,Ga,1816,1873,Became part of,4521
+4529,Ga,1873,1874,Occupied by,200
+4529,Ga,1874,2019,Became part of,452
+4531,Gonja,1897,2019,Became part of,452
+4532,Gyamen,1895,2019,Became part of,452
+4533,Wassa,1816,1873,Became part of,4521
+4533,Wassa,1873,1874,Occupied by,200
+4533,Wassa,1874,2019,Became part of,452
+4534,Danish Posts (Gold Coast),1816,1850,Became possession of,390
+4534,Danish Posts (Gold Coast),1850,2019,Became part of,452
+4535,Dutch Posts (Gold Coast),1816,1871,Became possession of,210
+4535,Dutch Posts (Gold Coast),1871,2019,Became part of,452
+4536,Northern Territories,1897,1957,Became protectorate of,200
+4536,Northern Territories,1901,2019,Became part of,452
+4559,Gold Coast-Togoland (Neutral Zone),1887,1899,Became neutral or demilitarized zone of,200
+4711,Bamum (Bamoun),1890,1919,Became part of,470
+4711,Bamum (Bamoun),1919,1992,Became part of,471
+4735,Kontagora,1901,2019,Became part of,475
+4736,Keana,1900,2019,Became part of,475
+4737,Fika,1899,2019,Became part of,475
+4738,Doma (Gara),1901,2019,Became part of,475
+4741,Abuja,1902,2019,Became part of,475
+4742,Igala,1901,2019,Became part of,475
+4744,Kwararafa,1901,2019,Became part of,475
+4746,Yauri,1903,2019,Became part of,475
+4751,Sokoto,1903,2019,Became part of,475
+4752,Adamawa,1902,2019,Became part of,475
+4753,Bauchi,1902,2019,Became part of,475
+4754,Gwandu,1902,2019,Became part of,475
+4755,Hadejia,1902,2019,Became part of,475
+4756,Ilorin,1897,2019,Became part of,475
+4757,Kano,1898,2019,Became part of,475
+4758,Katsina,1902,2019,Became part of,475
+4759,Katagum,1902,2019,Became part of,475
+4761,Nupe,1902,2019,Became part of,475
+4762,Zaria,1902,2019,Became part of,475
+4763,Bornu,1816,1892,Became part of,4764
+4764,Kanem,1892,1900,Became part of,4766
+4765,Mandara,1892,1900,Became part of,4766
+4766,Rabeh,1816,1892,Became part of,4763
+4766,Rabeh,1900,2019,Became part of,475
+4768,Egba,1893,2019,Became part of,475
+4769,Ibadan,1893,2019,Became part of,475
+4771,Ife,1867,1893,Became part of,4769
+4772,Ijaye,1867,1893,Became part of,4769
+4773,Ijebu,1893,2019,Became part of,475
+4774,Ilesha,1867,1893,Became part of,4769
+4775,New Oyo,1867,1893,Became part of,4769
+4776,Benin,1897,2019,Became part of,475
+4781,Lagos,1861,1866,Became colony of,200
+4781,Lagos,1866,1874,Became part of,451
+4781,Lagos,1874,1886,Became part of,452
+4781,Lagos,1886,1906,Became colony of,200
+4781,Lagos,1906,1914,Became part of,4783
+4781,Lagos,1914,2019,Became part of,475
+4782,Oil Rivers Protectorate,1885,1899,Became protectorate of,200
+4782,Oil Rivers Protectorate,1899,1914,Became part of,4783
+4782,Oil Rivers Protectorate,1914,2019,Became part of,475
+4783,Southern Nigeria,1899,1914,Became protectorate of,200
+4783,Southern Nigeria,1914,2019,Became part of,475
+4784,Northern Nigeria,1899,1914,Became protectorate of,200
+4784,Northern Nigeria,1914,2019,Became part of,475
+4790,Biafra,1914,1967,Became part of,475
+4790,Biafra,1967,1970,Sovereign (unrecognised),
+4790,Biafra,1970,2019,Became part of,475
+4791,Bonny,1885,1899,Became part of,4782
+4792,0ld Calabar (Efik),1885,1899,Became part of,4782
+4793,New Calabar (Kalabari),1885,1899,Became part of,4782
+4794,Opobo,1816,1870,Became part of,4791
+4794,Opobo,1870,1885,Sovereign (unrecognised),
+4794,Opobo,1885,1899,Became part of,4782
+4795,Nembe (Brass),1885,1899,Became part of,4782
+4796,Okrika,1885,1899,Became part of,4782
+4821,Bangassou,1890,1906,Occupied by,220
+4821,Bangassou,1906,2019,Became part of,482
+4821,Bangassou,1910,1958,Became part of,480
+4822,Rafai,1890,1906,Occupied by,220
+4822,Rafai,1906,2019,Became part of,482
+4822,Rafai,1910,1958,Became part of,480
+4823,Zemio,1890,1906,Occupied by,220
+4823,Zemio,1906,2019,Became part of,482
+4823,Zemio,1910,1958,Became part of,480
+4831,Bagirmi,1892,1900,Became part of,4766
+4832,Wadai,1913,1958,Became part of,480
+4832,Wadai,1920,2019,Became part of,483
+4841,Bateke (Anzico),1882,2019,Became part of,484
+4841,Bateke (Anzico),1910,1958,Became part of,480
+4842,Loango,1882,2019,Became part of,484
+4842,Loango,1910,1958,Became part of,480
+4901,Tibbu Tip Empire,1894,2019,Became part of,490
+4902,Mwata Yamvo,1895,2019,Became part of,490
+4903,Kalagne,1885,2019,Became part of,490
+4904,Baluba,1892,2019,Became part of,490
+4905,Katanga,1885,1960,Became part of,490
+4905,Katanga,1963,2019,Became part of,490
+4906,Kasai,1816,1960,Became part of,490
+4906,Kasai,1961,2019,Became part of,490
+4907,Msiri,1816,1862,Became part of,5517
+4907,Msiri,1862,1891,Unknown,
+4907,Msiri,1891,1899,Became part of,5517
+4907,Msiri,1899,2019,Became part of,490
+4908,Azande,1895,2019,Became part of,490
+4909,Mangbetu,1895,2019,Became part of,490
+4910,Kuba,1910,2019,Became part of,490
+5001,Buganda,1893,1894,Occupied by,200
+5001,Buganda,1894,2019,Became part of,500
+5002,Ankole,1894,2019,Became part of,500
+5003,Bunyoro,1899,2019,Became part of,500
+5004,Busoga,1894,2019,Became part of,500
+5005,Butoro,1894,2019,Became part of,500
+5006,Rwenzururu,1894,1962,Became part of,500
+5006,Rwenzururu,1962,1969,Unknown,
+5006,Rwenzururu,1969,2019,Became part of,500
+5011,Kenya Protectorate,1816,1887,Became part of,511
+5011,Kenya Protectorate,1887,1920,Leased to,200
+5011,Kenya Protectorate,1920,1963,Became protectorate of,200
+5011,Kenya Protectorate,1920,2019,Became part of,501
+5012,Mombassa,1824,1826,Occupied by,200
+5012,Mombassa,1826,1837,Unknown,
+5012,Mombassa,1837,1856,Became part of,698
+5012,Mombassa,1856,1887,Became part of,511
+5013,Pate,1824,1856,Became part of,698
+5013,Pate,1856,1887,Became part of,511
+5017,Vumbu Kuu,1840,1856,Became part of,698
+5018,Wanga,1887,2019,Became part of,501
+5101,Ha,1898,2019,Became part of,510
+5102,Haya,1898,2019,Became part of,510
+5103,Hehe,1898,2019,Became part of,510
+5104,Karaqwe,1898,2019,Became part of,510
+5105,Urambo,1891,2019,Became part of,510
+5106,Gwangara,1821,1848,Became part of,5531
+5106,Gwangara,1860,1898,Became part of,5107
+5107,North Gwangara,1848,1860,Became part of,5106
+5107,North Gwangara,1898,2019,Became part of,510
+5108,South Gwangara,1848,1860,Became part of,5106
+5108,South Gwangara,1898,2019,Became part of,510
+5200,Italian Somaliland,1889,1905,Became part of,5203
+5200,Italian Somaliland,1905,1936,Became colony of,325
+5200,Italian Somaliland,1936,1941,Became part of,5201
+5200,Italian Somaliland,1941,1950,Occupied by,200
+5200,Italian Somaliland,1950,1960,Mandated to,325
+5200,Italian Somaliland,1960,2019,Became part of,520
+5201,Italian East Africa,1855,1936,Became part of,530
+5201,Italian East Africa,1889,1936,Became part of,5200
+5201,Italian East Africa,1936,1941,Became colony of,325
+5201,Italian East Africa,1941,1960,Became part of,5200
+5201,Italian East Africa,1960,2019,Became part of,520
+5202,Oltre Giuba,1889,1895,Leased to,200
+5202,Oltre Giuba,1895,1925,Became part of,501
+5202,Oltre Giuba,1925,1926,Became colony of,325
+5202,Oltre Giuba,1926,1992,Became part of,5200
+5203,Alula (Mijerteyn),1889,1905,Became protectorate of,325
+5203,Alula (Mijerteyn),1905,1960,Became part of,5200
+5203,Alula (Mijerteyn),1960,2019,Became part of,520
+5204,Obbia,1889,1905,Became protectorate of,325
+5204,Obbia,1905,1960,Became part of,5200
+5204,Obbia,1960,2019,Became part of,520
+5205,Somali Coast Leased Territory,1816,1889,Became part of,511
+5205,Somali Coast Leased Territory,1889,1905,Leased to,325
+5205,Somali Coast Leased Territory,1905,1960,Became part of,5200
+5205,Somali Coast Leased Territory,1960,2019,Became part of,520
+5206,Puntland,1889,1905,Became protectorate of,325
+5206,Puntland,1905,1960,Became part of,5200
+5206,Puntland,1960,1998,Became part of,520
+5206,Puntland,1998,2019,Became dependency of,520
+5207,Mogadishu,1842,1856,Became part of,698
+5208,Merka,1842,1856,Became part of,698
+5209,Brava,1842,1856,Became part of,698
+5211,Warsheikh,1842,1856,Became part of,698
+5221,Tadjoura,1881,2019,Became part of,522
+5222,Obock,1816,1862,Became part of,5221
+5222,Obock,1862,1884,Became possession of,220
+5222,Obock,1884,2019,Became part of,522
+5301,Amhara,1855,2019,Became part of,530
+5302,Gondar,1855,2019,Became part of,530
+5303,Shoa,1855,2019,Became part of,530
+5304,Tigre,1855,2019,Became part of,530
+5305,Gojjam,1855,2019,Became part of,530
+5306,Harar,1816,1875,Sovereign (unrecognised),
+5306,Harar,1875,1884,Became protectorate of,651
+5306,Harar,1884,1887,Sovereign (unrecognised),
+5306,Harar,1887,2019,Became part of,530
+5307,Jijega Reserve Areas and Haud,1887,1942,Became part of,530
+5307,Jijega Reserve Areas and Haud,1942,1954,Occupied by,200
+5307,Jijega Reserve Areas and Haud,1954,2019,Became part of,530
+5309,Kaffa,1885,1991,Became part of,530
+5321,Enarya (Limmu),1885,2019,Became part of,530
+5322,Jimma-Kakka (Jimma Abba Jifar),1885,2019,Became part of,530
+5323,Gera,1885,2019,Became part of,530
+5324,Goma,1885,2019,Became part of,530
+5325,Guma,1885,2019,Became part of,530
+5331,Assab,1869,1882,Became possession of,325
+5331,Assab,1882,1936,Became part of,531
+5332,Awsa Sultanate,1885,2019,Became part of,530
+5401,Chokwe,1917,2019,Became part of,540
+5402,Ovimbundu,1903,2019,Became part of,540
+5411,Kionga,1891,1916,Became part of,510
+5411,Kionga,1916,1919,Occupied by,235
+5411,Kionga,1919,2019,Became part of,541
+5511,Citimukulu Bemba,1900,1911,Became part of,5518
+5512,Mwamba Bemba,1900,1911,Became part of,5518
+5513,Barotse,1838,1863,Became part of,5514
+5513,Barotse,1863,1898,Sovereign (unrecognised),
+5513,Barotse,1898,1899,Became part of,552
+5513,Barotse,1899,1911,Became part of,5519
+5515,Maseko Ngoni,1899,2019,Became part of,541
+5516,Shangane (Gaza Empire),1900,2019,Became part of,541
+5517,Kazembe,1816,1899,Sovereign (unrecognised),
+5517,Kazembe,1899,1911,Became part of,5518
+5518,Northeastern Rhodesia,1889,1899,Became part of,552
+5518,Northeastern Rhodesia,1899,1911,Became colony of,200
+5518,Northeastern Rhodesia,1911,1953,Became part of,551
+5518,Northeastern Rhodesia,1953,1964,Became part of,550
+5518,Northeastern Rhodesia,1964,2019,Became part of,551
+5519,Northwestern Rhodesia,1889,1899,Became part of,552
+5519,Northwestern Rhodesia,1899,1911,Became colony of,200
+5519,Northwestern Rhodesia,1911,1953,Became part of,551
+5519,Northwestern Rhodesia,1953,1964,Became part of,550
+5519,Northwestern Rhodesia,1964,2019,Became part of,551
+5521,Rozwi,1830,1898,Became part of,5531
+5522,Ndebele,1893,2019,Became part of,552
+5523,Mashona,1838,1870,Became part of,5522
+5523,Mashona,1890,2019,Became part of,552
+5524,Mbelwa Ngoni,1821,1848,Became part of,5531
+5525,Mpezeni Ngoni,1821,1848,Became part of,5531
+5525,Mpezeni Ngoni,1848,1898,Unknown,
+5525,Mpezeni Ngoni,1898,2019,Became part of,553
+5526,Kamanga,1823,1898,Became part of,5524
+5526,Kamanga,1898,2019,Became part of,553
+5531,Zwangendaba Ngoni,1848,1898,Became part of,5524
+5531,Zwangendaba Ngoni,1848,1860,Became part of,5106
+5532,Ciwere (Chewa),1821,1848,Became part of,5531
+5532,Ciwere (Chewa),1891,2019,Became part of,553
+5601,Zulu,1880,1883,Became part of,5630
+5601,Zulu,1883,1887,Unknown,
+5601,Zulu,1887,1910,Became part of,5630
+5602,Ndandwe,1818,1910,Became part of,5601
+5603,Mtetwa,1818,1910,Became part of,5601
+5606,Prince Edward and Marion Is.,1816,1919,Became possession of,200
+5606,Prince Edward and Marion Is.,1919,1991,Became possession of,560
+5611,"Griqualand, West",1871,1880,Became colony of,200
+5611,"Griqualand, West",1880,1910,Became part of,561
+5611,"Griqualand, West",1910,2019,Became part of,560
+5612,British Bechuanaland,1885,1895,Became colony of,200
+5612,British Bechuanaland,1895,1910,Became part of,561
+5612,British Bechuanaland,1910,2019,Became part of,560
+5613,Goshen,1883,1885,Became part of,5605
+5613,Goshen,1885,1895,Became part of,5612
+5613,Goshen,1895,1910,Became part of,561
+5613,Goshen,1910,2019,Became part of,560
+5614,British Kaffraria,1847,1866,Became colony of,200
+5614,British Kaffraria,1866,1910,Became part of,561
+5614,British Kaffraria,1910,2019,Became part of,560
+5615,Lydenburg Republic,1860,1877,Became part of,563
+5618,Zoutpansberg,1858,1877,Became part of,563
+5621,Zululand,1887,1897,Became colony of,200
+5621,Zululand,1887,1910,Became part of,562
+5621,Zululand,1910,2019,Became part of,560
+5622,New Republic,1888,1910,Became part of,562
+5622,New Republic,1910,2019,Became part of,560
+5641,"Griqualand, East",1874,1900,Became part of,561
+5642,Winburg Republic,1848,1910,Became part of,564
+5651,Walvis Bay,1878,1884,Became possession of,200
+5651,Walvis Bay,1884,1910,Became part of,561
+5651,Walvis Bay,1910,1922,Became part of,560
+5651,Walvis Bay,1922,1977,Became part of,565
+5651,Walvis Bay,1977,2019,Became part of,560
+5711,Bamangwato,1895,2019,Became part of,571
+5796,Ambohimanga (Merina),1896,1960,Became colony of,220
+5797,Menabe,1821,2019,Became part of,5796
+5798,Antemoro,1823,2019,Became part of,5796
+5799,Boina,1824,2019,Became part of,5796
+5801,Nossi Be,1840,1896,Became colony of,220
+5801,Nossi Be,1896,2019,Became part of,580
+5802,Diego Suarez,1885,1896,Became colony of,220
+5802,Diego Suarez,1896,2019,Became part of,580
+5803,St. Marie de Madagascar,1819,1896,Became possession of,220
+5803,St. Marie de Madagascar,1819,1843,Became part of,585
+5803,St. Marie de Madagascar,1843,1853,Became part of,5812
+5803,St. Marie de Madagascar,1853,1878,Became colony of,220
+5803,St. Marie de Madagascar,1878,1896,Became part of,585
+5803,St. Marie de Madagascar,1896,2019,Became part of,580
+5804,Tromelin I.,1816,1954,Became part of,591
+5804,Tromelin I.,1954,2019,Became possession of,220
+5804,Tromelin I.,1959,2019,Claimed by,590
+5805,Bassas Da India I.,1897,2019,Became possession of,220
+5805,Bassas Da India I.,1972,2019,Claimed by,580
+5806,Europa I.,1897,2019,Became possession of,220
+5807,Juan de Nova I.,1897,2019,Became possession of,220
+5808,Glorioso I.,1892,2019,Became possession of,220
+5808,Glorioso I.,1972,2019,Claimed by,580
+5808,Glorioso I.,1975,2019,Claimed by,581
+5809,Fort Dauphin,1816,1825,Became possession of,220
+5809,Fort Dauphin,1825,2019,Became part of,580
+5811,Grand Comoro,1816,1886,Sovereign (unrecognised),
+5811,Grand Comoro,1886,1975,Became part of,581
+5811,Grand Comoro,1975,2019,Became part of,581
+5811,Mayotte,1816,1832,Sovereign (unrecognised),
+5811,Mayotte,1832,1841,Became possession of,580
+5811,Mayotte,1832,1841,Became possession of,5813
+5811,Mayotte,1832,1841,Became possession of,5814
+5812,Mayotte,1841,1848,Became possession of,220
+5812,Mayotte,1848,1886,Became part of,220
+5812,Mayotte,1886,1975,Became part of,581
+5812,Mayotte,1975,2011,Became dependency of,220
+5812,Mayotte,2011,2019,Became part of,220
+5812,Mayotte,1974,2019,Claimed by,581
+5813,Anjouan,1816,1886,Sovereign (unrecognised),
+5813,Anjouan,1886,1975,Became part of,581
+5813,Anjouan,1975,1997,Became part of,581
+5813,Anjouan,1997,1998,Sovereign (unrecognised),
+5813,Anjouan,1998,2019,Became part of,581
+5814,Moheli,1816,1830,Became part of,5813
+5814,Moheli,1830,1886,Sovereign (unrecognised),
+5814,Moheli,1886,1975,Became part of,581
+5814,Moheli,1975,1997,Became part of,581
+5814,Moheli,1997,1998,Sovereign (unrecognised),
+5814,Moheli,1998,2019,Became part of,581
+5815,Andruna,1852,1914,Became part of,5812
+5901,Rodrigues I.,1816,2002,Became possession of,590
+5901,Rodrigues I.,2002,2019,Became dependency of,590
+5902,Agalega Is.,1816,2019,Became possession of,590
+5903,Cargados Carajos Shoals,1816,2019,Became possession of,590
+5920,British Indian Ocean Territory,1816,1965,Became part of,590
+5920,British Indian Ocean Territory,1965,1983,Became colony of,200
+5920,British Indian Ocean Territory,1983,2019,Became dependency of,200
+6001,Udja,1816,1907,Became part of,600
+6001,Udja,1907,1910,Occupied by,220
+6001,Udja,1910,2019,Became part of,600
+6021,Southern zone of Spanish Morocco,1816,1912,Became part of,600
+6021,Southern zone of Spanish Morocco,1912,1956,Became part of,602
+6021,Southern zone of Spanish Morocco,1956,1958,Became protectorate of,230
+6021,Southern zone of Spanish Morocco,1958,2019,Became part of,600
+6023,Republic of the Rif,1912,1923,Became part of,602
+6023,Republic of the Rif,1923,1926,Sovereign (unrecognised),
+6023,Republic of the Rif,1926,1956,Became part of,602
+6030,Tetuan,1816,1860,Became part of,600
+6030,Tetuan,1860,1862,Became colony of,230
+6030,Tetuan,1862,2019,Became part of,600
+6061,Alhucemas,1816,1847,Became part of,6064
+6061,Alhucemas,1847,1913,Became part of,6067
+6061,Alhucemas,1913,1956,Became part of,602
+6061,Alhucemas,1956,2019,Became dependency of,230
+6062,Ceuta,1816,1847,Became colony of,230
+6062,Ceuta,1847,1913,Became part of,6067
+6062,Ceuta,1913,1956,Became part of,602
+6062,Ceuta,1956,2019,Became dependency of,230
+6063,Chafarinas,1816,1847,Became part of,6064
+6063,Chafarinas,1847,1913,Became part of,6067
+6063,Chafarinas,1913,1956,Became part of,602
+6063,Chafarinas,1956,2019,Became dependency of,230
+6064,Melilla,1816,1847,Became colony of,230
+6064,Melilla,1847,1913,Became part of,6067
+6064,Melilla,1913,1956,Became part of,602
+6064,Melilla,1956,2019,Became dependency of,230
+6065,Penon de Velez,1816,1847,Became part of,6064
+6065,Penon de Velez,1847,1913,Became part of,6067
+6065,Penon de Velez,1913,1956,Became part of,602
+6065,Penon de Velez,1956,2019,Became dependency of,230
+6066,Morocco-Melilla Neutral Zone,1860,1912,Became neutral or demilitarized zone of,600
+6066,Morocco-Melilla Neutral Zone,1912,1956,Became part of,602
+6067,Captaincy-general of north Africa,1816,1847,Became part of,6062
+6067,Captaincy-general of north Africa,1847,1913,Became colony of,230
+6067,Captaincy-general of north Africa,1913,1956,Became part of,602
+6067,Captaincy-general of north Africa,1956,2019,Became part of,230
+6151,Kaderist Algeria,1816,1830,Became part of,615
+6151,Kaderist Algeria,1830,1847,Unknown,
+6151,Kaderist Algeria,1847,2019,Became part of,615
+6152,Kabylie,1830,1847,Became part of,6151
+6152,Kabylie,1847,1857,Unknown,
+6152,Kabylie,1857,2019,Became part of,615
+6153,Leased Posts in Algeria,1816,1830,Leased to,220
+6153,Leased Posts in Algeria,1830,2019,Became part of,615
+6161,Bizerte,1816,2019,Became part of,616
+6161,Bizerte,1956,1963,Occupied by,220
+6201,Sanussid Cyrenaica,1835,1879,Became part of,640
+6201,Sanussid Cyrenaica,1931,2019,Became part of,620
+6202,Cyrenaica,1912,1919,Became part of,620
+6202,Cyrenaica,1919,1928,Became colony of,325
+6202,Cyrenaica,1928,2019,Became part of,620
+6203,Tripolitania,1912,1919,Became part of,620
+6203,Tripolitania,1919,1928,Became colony of,325
+6203,Tripolitania,1928,2019,Became part of,620
+6251,Darfur,1874,1882,Became part of,651
+6252,Funj Sultanate,1821,1882,Became part of,651
+6253,Kordofan,1816,1821,Became part of,6252
+6254,Mahdist Empire,1821,1885,Became part of,651
+6254,Mahdist Empire,1885,1898,Sovereign (unrecognised),
+6254,Mahdist Empire,1898,2019,Became part of,625
+6255,Shilluk,1841,1882,Became part of,651
+6301,Mahabad,1816,1946,Became part of,630
+6301,Mahabad,1946,2019,Became part of,630
+6302,Iranian Azerbaijan,1816,1945,Became part of,630
+6302,Iranian Azerbaijan,1945,1946,Occupied by,365
+6302,Iranian Azerbaijan,1946,2019,Became part of,630
+6303,Gilan,1816,1920,Became part of,630
+6303,Gilan,1920,1921,Occupied by,365
+6303,Gilan,1921,2019,Became part of,630
+6304,Khuzestan,1925,2019,Became part of,630
+6305,Bushire,1816,1915,Became part of,630
+6305,Bushire,1915,1915,Occupied by,200
+6305,Bushire,1915,2019,Became part of,630
+6306,Bandar Abbas,1816,1868,Leased to,698
+6306,Bandar Abbas,1868,2019,Became part of,630
+6309,Kharg I.,1816,1838,Became part of,630
+6309,Kharg I.,1838,1838,Occupied by,200
+6309,Kharg I.,1838,2019,Became part of,630
+6401,Cilicia,1816,1918,Became part of,640
+6401,Cilicia,1918,1923,Occupied by,220
+6401,Cilicia,1923,2019,Became part of,640
+6402,Western Anatolia,1816,1918,Became part of,640
+6402,Western Anatolia,1918,1923,Occupied by,350
+6402,Western Anatolia,1923,2019,Became part of,640
+6403,Hatay (Alexandretta),1920,1938,Became part of,652
+6403,Hatay (Alexandretta),1923,1936,Became colony of,220
+6403,Hatay (Alexandretta),1938,1939,Occupied by,640
+6403,Hatay (Alexandretta),1939,1992,Became part of,640
+6404,Adalia,1816,1919,Became part of,640
+6404,Adalia,1919,1921,Occupied by,325
+6404,Adalia,1921,2019,Became part of,640
+6405,Dardanelles-Istanbul,1816,1919,Became part of,640
+6405,Dardanelles-Istanbul,1919,1921,Occupied by,200
+6405,Dardanelles-Istanbul,1921,2019,Became part of,640
+6451,Iraq-Saudi Arabia Neutral Zone,1920,1922,Claimed by,670
+6451,Iraq-Saudi Arabia Neutral Zone,1920,1922,Claimed by,645
+6451,Iraq-Saudi Arabia Neutral Zone,1922,1991,Became neutral or demilitarized zone of,645
+6452,Iraq Occupation Zone,1920,1991,Became part of,645
+6452,Iraq Occupation Zone,1991,1991,Occupied by,2
+6452,Iraq Occupation Zone,1991,2019,Became part of,645
+6453,Iraq-Kuwait Demilitarized Zone,1920,1991,Became part of,645
+6453,Iraq-Kuwait Demilitarized Zone,1991,2019,Became neutral or demilitarized zone of,645
+6454,Kurdistan Occupation Zone,1920,1991,Became part of,645
+6454,Kurdistan Occupation Zone,1991,1991,Occupied by,2
+6454,Kurdistan Occupation Zone,1991,2019,Became dependency of,645
+6511,Gaza,1816,1918,Became part of,640
+6511,Gaza,1918,1948,Became part of,665
+6511,Gaza,1948,1967,Occupied by,651
+6511,Gaza,1967,2005,Occupied by,666
+6512,Sinai,1816,1956,Became part of,651
+6512,Sinai,1956,1967,Became part of,651
+6512,Sinai,1956,1956,Occupied by,666
+6512,Sinai,1967,1979,Occupied by,666
+6512,Sinai,1979,2019,Became part of,651
+6513,Sinai Demilitarized Zones,1967,1975,Occupied by,666
+6513,Sinai Demilitarized Zones,1975,1982,Became neutral or demilitarized zone of,651
+6513,Sinai Demilitarized Zones,1982,2019,Became part of,651
+6514,Suez Canal Zone,1816,2019,Became part of,651
+6514,Suez Canal Zone,1936,1956,Occupied by,200
+6521,Golan Heights,1816,1967,Became part of,652
+6521,Golan Heights,1967,1981,Occupied by,666
+6521,Golan Heights,1981,2019,Became part of,666
+6522,Golan Heights Demilitarized Zone,1967,1974,Occupied by,666
+6522,Golan Heights Demilitarized Zone,1974,2019,Became neutral or demilitarized zone of,666
+6523,Rouad I.,1816,1916,Became part of,640
+6523,Rouad I.,1916,1920,Occupied by,220
+6523,Rouad I.,1920,2019,Became part of,652
+6524,Damascus,1816,1920,Became part of,640
+6524,Damascus,1920,1925,Became colony of,220
+6524,Damascus,1920,2019,Became part of,652
+6525,Aleppo,1816,1920,Became part of,640
+6525,Aleppo,1920,1925,Became colony of,220
+6525,Aleppo,1920,2019,Became part of,652
+6526,Latakia (Alaouites),1816,1920,Became part of,640
+6526,Latakia (Alaouites),1920,2019,Became part of,652
+6526,Latakia (Alaouites),1922,1936,Became colony of,220
+6527,Jebel Druze,1816,1920,Became part of,640
+6527,Jebel Druze,1920,2019,Became part of,652
+6527,Jebel Druze,1921,1936,Became colony of,220
+6601,South Lebanon Security Zone (Free State of South Lebanon),1923,1982,Became part of,660
+6601,South Lebanon Security Zone (Free State of South Lebanon),1982,2000,Occupied by,666
+6631,West Bank,1918,1948,Became part of,665
+6631,West Bank,1948,1950,Occupied by,663
+6631,West Bank,1950,1967,Became part of,663
+6631,West Bank,1967,2019,Occupied by,666
+6632,Israel-Jordan Neutral Zone,1923,1949,Became part of,665
+6632,Israel-Jordan Neutral Zone,1949,1967,Became neutral or demilitarized zone of,663
+6632,Israel-Jordan Neutral Zone,1967,2019,Became part of,666
+6661,Al Auja,1923,1949,Became part of,665
+6661,Al Auja,1949,1955,Became neutral or demilitarized zone of,651
+6661,Al Auja,1955,2019,Became part of,666
+6800,Socotra I.,1816,1967,Became possession of,6846
+6800,Socotra I.,1967,1990,Became possession of,680
+6800,Socotra I.,1990,2019,Became possession of,679
+6801,Federation of South Arabia,1959,1967,Became colony of,200
+6801,Federation of South Arabia,1967,1990,Became part of,680
+6802,Perim I.,1857,1937,Became possession of,200
+6802,Perim I.,1937,1963,Became part of,681
+6811,West Aden Protectorate,1839,1963,Became protectorate of,200
+6811,West Aden Protectorate,1963,1967,Became part of,6801
+6811,West Aden Protectorate,1967,1990,Became part of,680
+6812,East Aden Protectorate,1937,1963,Became protectorate of,200
+6812,East Aden Protectorate,1963,1967,Became part of,6801
+6812,East Aden Protectorate,1967,1990,Became part of,680
+6821,Lahej,1816,1839,Sovereign,
+6821,Lahej,1839,1914,Became part of,6811
+6821,Lahej,1914,1918,Occupied by,640
+6821,Lahej,1918,1963,Became part of,6811
+6821,Lahej,1963,1967,Became part of,6801
+6821,Lahej,1967,1990,Became part of,680
+6821,Lahej,1990,2019,Became part of,679
+6822,Aqrabi,1937,1967,Became protectorate of,6811
+6822,Aqrabi,1967,1990,Became part of,680
+6823,Dhala,1937,1967,Became protectorate of,6811
+6823,Dhala,1967,1990,Became part of,680
+6824,Radfan,1937,1967,Became protectorate of,6811
+6824,Radfan,1967,1990,Became part of,680
+6825,Alawi,1937,1967,Became protectorate of,6811
+6825,Alawi,1967,1990,Became part of,680
+6826,Haushabi,1937,1967,Became protectorate of,6811
+6826,Haushabi,1967,1990,Became part of,680
+6827,Maflahi,1937,1967,Became protectorate of,6811
+6827,Maflahi,1967,1990,Became part of,680
+6828,Shaibi,1937,1967,Became protectorate of,6811
+6828,Shaibi,1967,1990,Became part of,680
+6829,Upper Yafai,1937,1967,Became protectorate of,6811
+6829,Upper Yafai,1967,1990,Became part of,680
+6831,Lower Yafai,1937,1967,Became protectorate of,6811
+6831,Lower Yafai,1967,1990,Became part of,680
+6832,Fadhli,1937,1967,Became protectorate of,6811
+6832,Fadhli,1967,1990,Became part of,680
+6833,Beihan,1937,1967,Became protectorate of,6811
+6833,Beihan,1967,1990,Became part of,680
+6834,Audhali,1937,1967,Became protectorate of,6811
+6834,Audhali,1967,1990,Became part of,680
+6835,Upper Aulaqi (Sultanate),1937,1967,Became protectorate of,6811
+6835,Upper Aulaqi (Sultanate),1967,1990,Became part of,680
+6836,Upper Aulaqi (Sheikhdom),1937,1967,Became protectorate of,6811
+6836,Upper Aulaqi (Sheikhdom),1967,1990,Became part of,680
+6837,Lower Aulaqi,1937,1967,Became protectorate of,6811
+6837,Lower Aulaqi,1967,1990,Became part of,680
+6838,Dathina Confederation,1937,1967,Became protectorate of,6811
+6838,Dathina Confederation,1967,1990,Became part of,680
+6841,Wahidi,1937,1967,Became protectorate of,6812
+6841,Wahidi,1967,1990,Became part of,680
+6842,Haura,1937,1967,Became protectorate of,6812
+6842,Haura,1967,1990,Became part of,680
+6843,Irqa,1937,1967,Became protectorate of,6812
+6843,Irqa,1967,1990,Became part of,680
+6844,Kathiri of Saiun,1937,1967,Became protectorate of,6812
+6844,Kathiri of Saiun,1967,1990,Became part of,680
+6845,Quaiti of Shihr and Mukalla,1937,1967,Became protectorate of,6812
+6845,Quaiti of Shihr and Mukalla,1967,1990,Became part of,680
+6846,Mahri of Qishn and Socotra,1937,1967,Became protectorate of,6812
+6846,Mahri of Qishn and Socotra,1967,1990,Became part of,680
+6901,Neutral Zone (Kuwait-Saudi Arabia),1920,1922,Claimed by,690
+6901,Neutral Zone (Kuwait-Saudi Arabia),1922,1969,Became neutral or demilitarized zone of,690
+6901,Neutral Zone (Kuwait-Saudi Arabia),1969,2019,Became part of,690
+6959,Buraimi Neutral Zone,1949,1954,Claimed by,670
+6959,Buraimi Neutral Zone,1954,1971,Became neutral or demilitarized zone of,670
+6959,Buraimi Neutral Zone,1971,1974,Became neutral or demilitarized zone of,670
+6959,Buraimi Neutral Zone,1974,2019,Became part of,696
+6961,Abu Dhabi,1816,1820,Unknown,
+6961,Abu Dhabi,1820,1971,Became protectorate of,200
+6961,Abu Dhabi,1820,1971,Became part of,696
+6961,Abu Dhabi,1971,2019,Became part of,696
+6962,Dubai,1816,1833,Became part of,6961
+6962,Dubai,1892,1971,Became protectorate of,200
+6962,Dubai,1835,1971,Became part of,696
+6962,Dubai,1971,2019,Became part of,696
+6963,Sharjah,1816,1820,Became part of,640
+6963,Sharjah,1820,1971,Became protectorate of,200
+6963,Sharjah,1820,1971,Became part of,696
+6963,Sharjah,1971,2019,Became part of,696
+6964,Kalba,1936,1951,Became part of,696
+6964,Kalba,1952,2019,Became part of,6963
+6965,Ajman,1816,1820,Became part of,640
+6965,Ajman,1820,1971,Became protectorate of,200
+6965,Ajman,1820,1971,Became part of,696
+6965,Ajman,1971,2019,Became part of,696
+6966,Umm al Qawain,1816,1820,Became part of,640
+6966,Umm al Qawain,1820,1971,Became protectorate of,200
+6966,Umm al Qawain,1820,1971,Became part of,696
+6966,Umm al Qawain,1971,2019,Became part of,696
+6967,Ras al Khaimah,1816,1869,Became part of,6963
+6967,Ras al Khaimah,1869,1900,Became part of,696
+6967,Ras al Khaimah,1900,1921,Became part of,6963
+6967,Ras al Khaimah,1921,1972,Became part of,696
+6967,Ras al Khaimah,1822,1972,Became protectorate of,200
+6967,Ras al Khaimah,1972,2019,Became part of,696
+6968,Fujairah,1816,1886,Became part of,6963
+6968,Fujairah,1886,1971,Became protectorate of,200
+6968,Fujairah,1952,1971,Became part of,696
+6968,Fujairah,1971,2019,Became part of,696
+6969,Abu Dhabi-Dubai Neutral Zone,1961,1971,Became neutral or demilitarized zone of,6962
+6969,Abu Dhabi-Dubai Neutral Zone,1961,1971,Became neutral or demilitarized zone of,6961
+6969,Abu Dhabi-Dubai Neutral Zone,1971,2019,Became part of,696
+6971,Abu Musa I.,1816,1971,Became part of,6963
+6971,Abu Musa I.,1971,1992,Became part of,696
+6971,Abu Musa I.,1992,2019,Became part of,630
+6981,Inner Oman,1816,1913,Became part of,698
+6981,Inner Oman,1913,1955,Became part of,698
+6981,Inner Oman,1955,2019,Became part of,698
+6982,Kuria Muria Is.,1816,1854,Became part of,698
+6982,Kuria Muria Is.,1854,1967,Became possession of,200
+6982,Kuria Muria Is.,1967,2019,Became part of,698
+6983,Oman-Sharjah Neutral Zone,1969,2019,Became neutral or demilitarized zone of,696
+6983,Oman-Sharjah Neutral Zone,1969,2019,Became neutral or demilitarized zone of,698
+7001,Kabul,1816,1819,Became part of,700
+7001,Kabul,1839,1841,Occupied by,200
+7001,Kabul,1855,2019,Became part of,700
+7002,Kandahar,1816,1819,Became part of,700
+7002,Kandahar,1839,1841,Occupied by,200
+7002,Kandahar,1855,2019,Became part of,700
+7003,Herat,1816,1819,Became part of,700
+7003,Herat,1863,2019,Became part of,700
+7004,Badakhshan,1881,2019,Became part of,700
+7010,Kokand,1816,1867,Sovereign (unrecognised),
+7010,Kokand,1867,1991,Became part of,365
+7010,Kokand,1991,2019,Became part of,704
+7020,Bokhara,1816,1867,Sovereign (unrecognised),
+7020,Bokhara,1867,1920,Became protectorate of,365
+7020,Bokhara,1920,1991,Became part of,365
+7020,Bokhara,1991,2019,Became part of,704
+7021,Gorno Badakhshan,1925,1929,Became part of,365
+7021,Gorno Badakhshan,1929,1992,Became part of,702
+7021,Gorno Badakhshan,1992,2019,Became dependency of,702
+7030,Khiva,1816,1873,Sovereign (unrecognised),
+7030,Khiva,1873,1920,Became protectorate of,365
+7030,Khiva,1920,1991,Became part of,365
+7030,Khiva,1991,2019,Became part of,704
+7031,Karakalpakstan,1816,1873,Became part of,7030
+7031,Karakalpakstan,1873,1936,Became part of,365
+7031,Karakalpakstan,1936,1991,Became part of,704
+7031,Karakalpakstan,1991,2019,Became dependency of,704
+7040,Kazakh Lesser Horde,1816,1824,Became protectorate of,365
+7040,Kazakh Lesser Horde,1824,1991,Became part of,365
+7040,Kazakh Lesser Horde,1991,2019,Became part of,705
+7050,Kazakh Middle Horde,1816,1822,Became protectorate of,365
+7050,Kazakh Middle Horde,1822,1991,Became part of,365
+7050,Kazakh Middle Horde,1991,2019,Became part of,705
+7060,Kazakh Horde of Bukey,1845,1991,Became part of,365
+7060,Kazakh Horde of Bukey,1991,2019,Became part of,705
+7070,Kazakh Greater Horde,1816,1848,Became protectorate of,365
+7070,Kazakh Greater Horde,1848,1991,Became part of,365
+7070,Kazakh Greater Horde,1991,2019,Became part of,705
+7100,Spratley Is.,1933,1939,Occupied by,220
+7100,Spratley Is.,1940,1945,Occupied by,740
+7100,Spratley Is.,1949,2019,Occupied by,713
+7100,Spratley Is.,1949,1988,Claimed by,710
+7100,Spratley Is.,1954,1975,Claimed by,816
+7100,Spratley Is.,1954,1974,Claimed by,817
+7100,Spratley Is.,1965,2019,Occupied by,820
+7100,Spratley Is.,1974,1975,Occupied by,817
+7100,Spratley Is.,1975,2019,Occupied by,815
+7100,Spratley Is.,1976,2019,Occupied by,840
+7100,Spratley Is.,1985,2019,Claimed by,835
+7100,Spratley Is.,1988,2019,Occupied by,710
+7101,Ping-nan,1816,1855,Became part of,710
+7101,Ping-nan,1873,2019,Became part of,710
+7102,Jungaria,1816,1863,Became part of,710
+7102,Jungaria,1876,2019,Became part of,710
+7103,Kashgaria,1816,1863,Became part of,710
+7103,Kashgaria,1878,2019,Became part of,710
+7104,Kwangtung Territory (Leased),1816,1898,Became part of,710
+7104,Kwangtung Territory (Leased),1898,1905,Leased to,365
+7104,Kwangtung Territory (Leased),1905,1945,Leased to,740
+7104,Kwangtung Territory (Leased),1945,1950,Leased to,365
+7104,Kwangtung Territory (Leased),1950,2019,Became part of,710
+7105,Weihaiwei,1816,1898,Became part of,710
+7105,Weihaiwei,1898,1930,Leased to,200
+7105,Weihaiwei,1930,2019,Became part of,710
+7106,Tientsin,1816,2019,Became part of,710
+7106,Tientsin,1860,1947,Became concession of,9998
+7106,Tientsin,1937,1945,Occupied by,740
+7107,Anhwei-Fukien,1816,1917,Became part of,710
+7107,Anhwei-Fukien,1920,1928,Became part of,7111
+7108,Yangtze Valley,1816,1917,Became part of,710
+7108,Yangtze Valley,1928,2019,Became part of,710
+7109,Yunnan,1816,1917,Became part of,710
+7109,Yunnan,1928,2019,Became part of,710
+7110,Kwanchowan,1816,1898,Became part of,710
+7110,Kwanchowan,1898,1943,Leased to,220
+7110,Kwanchowan,1898,1946,Became part of,810
+7110,Kwanchowan,1943,1945,Occupied by,740
+7110,Kwanchowan,1945,1946,Leased to,220
+7110,Kwanchowan,1946,2019,Became part of,710
+7111,Manchuria,1816,1900,Became part of,710
+7111,Manchuria,1900,1907,Occupied by,365
+7111,Manchuria,1907,1917,Became part of,710
+7111,Manchuria,1905,1932,Occupied by,740
+7111,Manchuria,1932,1945,Became part of,711
+7111,Manchuria,1945,2019,Became part of,710
+7112,Szechwan (Sichuan),1816,1917,Became part of,710
+7112,Szechwan (Sichuan),1937,2019,Became part of,710
+7113,Chinghai (Tsinghai),1816,1917,Became part of,710
+7113,Chinghai (Tsinghai),1940,2019,Became part of,710
+7114,Xinjiang (Sinkiang),1816,1937,Became part of,710
+7114,Xinjiang (Sinkiang),1937,1949,Occupied by,365
+7114,Xinjiang (Sinkiang),1949,1955,Became part of,710
+7114,Xinjiang (Sinkiang),1955,2019,Became dependency of,710
+7115,Provisional Government of the Republic of China,1937,1940,Occupied by,740
+7115,Provisional Government of the Republic of China,1940,1945,Became part of,7117
+7116,Reformed Government of China,1938,1940,Occupied by,740
+7116,Reformed Government of China,1940,1945,Became part of,7117
+7117,Reorganized National Government of the Republic of China,1940,1945,Occupied by,740
+7118,Ningxia,1958,2019,Became dependency of,710
+7121,Inner Mongolia,1816,1937,Became part of,710
+7121,Inner Mongolia,1937,1945,Occupied by,740
+7121,Inner Mongolia,1945,1947,Became part of,710
+7121,Inner Mongolia,1947,2019,Became dependency of,710
+7131,Diaoyu (Senkaku) Is.,1895,1945,Occupied by,740
+7131,Diaoyu (Senkaku) Is.,1945,1972,Occupied by,2
+7131,Diaoyu (Senkaku) Is.,1972,2019,Became possession of,740
+7131,Diaoyu (Senkaku) Is.,1972,2019,Claimed by,713
+7131,Diaoyu (Senkaku) Is.,1972,2019,Claimed by,710
+7220,Kiauchau,1816,1898,Became part of,710
+7220,Kiauchau,1898,1914,Leased to,255
+7220,Kiauchau,1914,1922,Occupied by,740
+7220,Kiauchau,1922,2019,Became part of,710
+7301,Ko-mun I.,1816,1885,Became part of,730
+7301,Ko-mun I.,1885,1887,Occupied by,200
+7301,Ko-mun I.,1887,1905,Became part of,730
+7302,Kaesong,1816,1945,Became part of,730
+7302,Kaesong,1945,1953,Became part of,732
+7302,Kaesong,1953,2019,Became dependency of,731
+7311,Sinuiju,2002,2019,Became dependency of,731
+7312,Kumgangsan,1998,2019,Became dependency of,731
+7330,Korean Demilitarized Zone,1945,1953,Became part of,731
+7330,Korean Demilitarized Zone,1953,2019,Became neutral or demilitarized zone of,731
+7330,Korean Demilitarized Zone,1953,2019,Became neutral or demilitarized zone of,732
+7351,Southern Sakhalin I.,1845,1875,Claimed by,740
+7351,Southern Sakhalin I.,1853,1875,Claimed by,365
+7351,Southern Sakhalin I.,1875,1905,Became part of,365
+7351,Southern Sakhalin I.,1905,1946,Became colony of,740
+7351,Southern Sakhalin I.,1946,2019,Became part of,365
+7352,Vladivostok,1860,1917,Became part of,365
+7352,Vladivostok,1917,1922,Occupied by,740
+7352,Vladivostok,1922,2019,Became part of,365
+7360,Tuvinian People's Republic,1816,1912,Became part of,710
+7360,Tuvinian People's Republic,1914,1918,Became part of,365
+7360,Tuvinian People's Republic,1918,1922,Became part of,710
+7360,Tuvinian People's Republic,1944,2019,Became part of,365
+7399,Takeshima (Dokko) I.,1905,1954,Became part of,740
+7399,Takeshima (Dokko) I.,1954,2019,Occupied by,732
+7399,Takeshima (Dokko) I.,1954,2019,Claimed by,740
+7411,Bonin Is.,1862,1876,Occupied by,740
+7411,Bonin Is.,1876,1945,Became part of,740
+7411,Bonin Is.,1945,1968,Occupied by,2
+7411,Bonin Is.,1968,2019,Became part of,740
+7412,Volcano Is.,1876,1945,Became part of,740
+7412,Volcano Is.,1945,1968,Occupied by,2
+7412,Volcano Is.,1968,2019,Became part of,740
+7413,Marcus I.,1876,1945,Became part of,740
+7413,Marcus I.,1945,1968,Occupied by,2
+7413,Marcus I.,1968,2019,Became part of,740
+7414,Parece Vela I.,1931,1945,Became part of,740
+7414,Parece Vela I.,1945,1968,Occupied by,2
+7414,Parece Vela I.,1968,2019,Became part of,740
+7415,Tsushima Is.,1816,1861,Became part of,740
+7415,Tsushima Is.,1861,1861,Occupied by,365
+7415,Tsushima Is.,1861,2019,Became part of,740
+7501,Andaman and Nicobar Is.,1816,1942,Became part of,750
+7501,Andaman and Nicobar Is.,1942,1945,Occupied by,740
+7501,Andaman and Nicobar Is.,1945,2019,Became part of,750
+7502,Nicobar Is.,1816,1869,Became part of,7504
+7502,Nicobar Is.,1816,1869,Became possession of,390
+7502,Nicobar Is.,1869,1942,Became part of,750
+7502,Nicobar Is.,1942,1945,Occupied by,740
+7502,Nicobar Is.,1945,2019,Became part of,750
+7503,Coromandel Coast Posts,1816,1818,Occupied by,200
+7503,Coromandel Coast Posts,1818,1825,Became colony of,210
+7503,Coromandel Coast Posts,1825,2019,Became part of,750
+7504,Tranquebar and Serampore,1816,1845,Became colony of,390
+7504,Tranquebar and Serampore,1845,2019,Became part of,750
+7505,Hyderabad,1816,1947,Became part of,750
+7505,Hyderabad,1948,2019,Became part of,750
+7507,Kashmir,1846,1947,Became part of,750
+7507,Kashmir,1947,2019,Became part of,750
+7511,Bikaner,1818,2019,Became part of,750
+7512,Jaipur,1818,2019,Became part of,750
+7513,Udaipur,1817,2019,Became part of,750
+7514,Kishangarh,1818,2019,Became part of,750
+7515,Lawa,1818,2019,Became part of,750
+7516,Jodhpur,1818,2019,Became part of,750
+7517,Jaisalmer,1818,2019,Became part of,750
+7518,Dholpur,1818,2019,Became part of,750
+7519,Karauli,1817,2019,Became part of,750
+7521,Kotah,1817,2019,Became part of,750
+7522,Banswara,1818,2019,Became part of,750
+7523,Dungarpur,1818,2019,Became part of,750
+7524,Dartabgarh,1818,2019,Became part of,750
+7525,Kushalgar,1818,2019,Became part of,750
+7526,Bundi,1818,2019,Became part of,750
+7527,Tonk,1818,2019,Became part of,750
+7528,Partabgarh,1818,2019,Became part of,750
+7529,Shahpura,1818,2019,Became part of,750
+7531,Katiawar,1818,2019,Became part of,750
+7532,Holkar,1819,2019,Became part of,750
+7533,Bhopal,1819,2019,Became part of,750
+7534,Dhar,1819,2019,Became part of,750
+7535,Dewas,1818,2019,Became part of,750
+7536,Taora,1817,2019,Became part of,750
+7537,Samptar,1817,2019,Became part of,750
+7538,Rewa,1819,2019,Became part of,750
+7539,Sawant-Wari,1818,2019,Became part of,750
+7541,Bilaspur,1819,2019,Became part of,750
+7542,Loharu,1819,2019,Became part of,750
+7543,Malerkotla,1819,2019,Became part of,750
+7544,Sirmur,1819,2019,Became part of,750
+7545,Suket,1819,2019,Became part of,750
+7546,Garwahl,1819,2019,Became part of,750
+7547,Indore,1819,2019,Became part of,750
+7548,Baghelkand,1819,2019,Became part of,750
+7549,Bundelkand,1819,2019,Became part of,750
+7551,Malwah,1819,2019,Became part of,750
+7552,Khaipur,1818,2019,Became part of,750
+7553,Idar,1818,2019,Became part of,750
+7554,Saugor,1818,2019,Became part of,750
+7555,Damoh,1818,2019,Became part of,750
+7556,Berar,1818,2019,Became part of,750
+7557,Khandesh,1818,2019,Became part of,750
+7558,Nasik,1818,2019,Became part of,750
+7559,Ahmadnagar,1818,2019,Became part of,750
+7561,Poona,1818,2019,Became part of,750
+7562,Sholapur,1818,2019,Became part of,750
+7563,Ratnagiri,1818,2019,Became part of,750
+7564,Bijapur,1818,2019,Became part of,750
+7566,Travancore,1816,1947,Became part of,750
+7566,Travancore,1947,2019,Became part of,750
+7570,Junagadh,1816,1947,Became part of,750
+7570,Junagadh,1947,2019,Became part of,750
+7571,Sirohi,1823,2019,Became part of,750
+7572,Assam,1826,2019,Became part of,750
+7573,Kapurthala,1826,2019,Became part of,750
+7574,Chota Nagpur,1833,2019,Became part of,750
+7575,Coorg,1834,2019,Became part of,750
+7576,Carnul,1847,2019,Became part of,750
+7577,Sambalpur,1848,2019,Became part of,750
+7578,Satara,1848,2019,Became part of,750
+7579,Gwalior (Sindhia),1849,2019,Became part of,750
+7581,Jhansi,1853,2019,Became part of,750
+7582,Raipur,1853,2019,Became part of,750
+7583,Jubbelpore,1854,2019,Became part of,750
+7584,Balagha,1854,2019,Became part of,750
+7585,Nagpur,1854,2019,Became part of,750
+7586,Oudh,1856,2019,Became part of,750
+7587,Manipur,1890,2019,Became part of,750
+7588,Baluchistan (Kalat),1895,2019,Became part of,750
+7691,Lahore (Sikhs),1849,1947,Became part of,750
+7692,Peshawar,1836,1849,Became part of,7701
+7693,Sind,1843,1947,Became part of,750
+7693,Sind,1947,2019,Became part of,770
+7694,Bahawalpur,1838,1947,Became part of,750
+7694,Bahawalpur,1947,2019,Became part of,770
+7701,Swat,1890,1947,Became protectorate of,200
+7701,Swat,1947,1969,Became protectorate of,770
+7701,Swat,1969,2019,Became part of,770
+7702,Hunza,1891,1947,Became protectorate of,200
+7702,Hunza,1947,1969,Became protectorate of,770
+7702,Hunza,1969,2019,Became part of,770
+7703,Nagar,1891,1947,Became protectorate of,200
+7703,Nagar,1947,1969,Became protectorate of,770
+7703,Nagar,1969,2019,Became part of,770
+7704,Chitral,1895,1947,Became protectorate of,200
+7704,Chitral,1947,1969,Became protectorate of,770
+7704,Chitral,1969,2019,Became part of,770
+7705,Dir,1895,1947,Became protectorate of,200
+7705,Dir,1947,1969,Became protectorate of,770
+7705,Dir,1969,2019,Became part of,770
+7706,Amb,1895,1947,Became protectorate of,200
+7706,Amb,1947,1969,Became protectorate of,770
+7706,Amb,1969,2019,Became part of,770
+7707,Gwadar,1816,1958,Became possession of,698
+7707,Gwadar,1958,2019,Became part of,770
+7708,Azad Kashmir,1846,1947,Became part of,750
+7708,Azad Kashmir,1947,1949,Occupied by,770
+7708,Azad Kashmir,1947,1947,Became part of,7507
+7708,Azad Kashmir,1949,2019,Became dependency of,770
+7709,Gilgit Baltistan (Northern Areas),1846,1947,Became part of,750
+7709,Gilgit Baltistan (Northern Areas),1947,1947,Became part of,7507
+7709,Gilgit Baltistan (Northern Areas),1947,1949,Occupied by,770
+7709,Gilgit Baltistan (Northern Areas),1949,2009,Became protectorate of,770
+7709,Gilgit Baltistan (Northern Areas),2009,2019,Became dependency of,770
+7709,Gilgit Baltistan (Northern Areas),1947,2019,Claimed by,750
+7712,Tin Bigha,1947,1992,Became part of,750
+7712,Tin Bigha,1992,2019,Leased to,771
+7745,Kantarawadi,1886,1948,Became protectorate of,200
+7745,Kantarawadi,1886,2019,Became part of,775
+7746,Bawlake,1886,1948,Became protectorate of,200
+7746,Bawlake,1886,2019,Became part of,775
+7747,Kyebogyi,1886,1948,Became protectorate of,200
+7747,Kyebogyi,1886,2019,Became part of,775
+7748,Nawng Palai,1886,1948,Became protectorate of,200
+7748,Nawng Palai,1886,2019,Became part of,775
+7749,Nammekon,1886,1948,Became protectorate of,200
+7749,Nammekon,1886,2019,Became part of,775
+7751,Hsipaw,1890,2019,Became part of,775
+7751,Hsipaw,1890,1948,Became protectorate of,200
+7752,Tawngpeng,1890,2019,Became part of,775
+7752,Tawngpeng,1890,1948,Became protectorate of,200
+7753,North Hsen Wi,1890,1948,Became protectorate of,200
+7753,North Hsen Wi,1890,2019,Became part of,775
+7754,South Hsen Wi,1890,1948,Became protectorate of,200
+7754,South Hsen Wi,1890,2019,Became part of,775
+7755,Manglum,1890,2019,Became part of,775
+7755,Manglum,1890,1948,Became protectorate of,200
+7756,Hsamonghkam,1890,1948,Became protectorate of,200
+7756,Hsamonghkam,1890,2019,Became part of,775
+7757,Kyawkku,1890,1948,Became protectorate of,200
+7757,Kyawkku,1890,2019,Became part of,775
+7758,Kyong,1890,1948,Became protectorate of,200
+7758,Kyong,1890,2019,Became part of,775
+7759,Loi Ai,1890,1948,Became protectorate of,200
+7759,Loi Ai,1890,2019,Became part of,775
+7760,Loi Long,1890,2019,Became part of,775
+7760,Loi Long,1890,1948,Became protectorate of,200
+7761,Loi Maw,1890,1948,Became protectorate of,200
+7761,Loi Maw,1890,2019,Became part of,775
+7762,Maw,1890,1948,Became protectorate of,200
+7762,Maw,1890,2019,Became part of,775
+7763,Mawnang,1890,1948,Became protectorate of,200
+7763,Mawnang,1890,2019,Became part of,775
+7764,Mawson,1890,1948,Became protectorate of,200
+7764,Mawson,1890,2019,Became part of,775
+7765,Namhkai,1890,1948,Became part of,200
+7765,Namhkai,1890,2019,Became part of,775
+7766,Namtok,1890,1948,Became protectorate of,200
+7766,Namtok,1890,2019,Became part of,775
+7767,Pangmi,1890,1948,Became protectorate of,200
+7767,Pangmi,1890,2019,Became part of,775
+7768,Pangtara,1890,1948,Became protectorate of,200
+7768,Pangtara,1890,2019,Became part of,775
+7769,Pwela,1890,1948,Became protectorate of,200
+7769,Pwela,1890,2019,Became part of,775
+7770,Yengan,1890,1948,Became protectorate of,200
+7770,Yengan,1890,2019,Became part of,775
+7771,Yawnghwe,1890,1948,Became protectorate of,200
+7771,Yawnghwe,1890,2019,Became part of,775
+7772,Lawksawk,1890,1948,Became protectorate of,200
+7772,Lawksawk,1890,2019,Became part of,775
+7773,Wanyin,1890,1948,Became protectorate of,200
+7773,Wanyin,1890,2019,Became part of,775
+7774,Samka,1890,1948,Became protectorate of,200
+7774,Samka,1890,2019,Became part of,775
+7775,Hsahtung,1890,2019,Became part of,775
+7775,Hsahtung,1890,1948,Became protectorate of,200
+7776,Hopong,1890,1948,Became protectorate of,200
+7776,Hopong,1890,2019,Became part of,775
+7777,Namhkok,1890,1948,Became protectorate of,200
+7777,Namhkok,1890,2019,Became part of,775
+7778,Mong Pai,1890,1948,Became protectorate of,200
+7778,Mong Pai,1890,2019,Became part of,775
+7779,Nawng Wawn,1890,1948,Became protectorate of,200
+7779,Nawng Wawn,1890,2019,Became part of,775
+7780,Sakoi,1890,1948,Became protectorate of,200
+7780,Sakoi,1890,2019,Became part of,775
+7781,Lai Hka,1890,1948,Became protectorate of,200
+7781,Lai Hka,1890,2019,Became part of,775
+7782,Mong Kung,1890,2019,Became part of,775
+7782,Mong Kung,1890,1948,Became protectorate of,200
+7783,Mong Nai,1890,1948,Became protectorate of,200
+7783,Mong Nai,1890,2019,Became part of,775
+7784,Mawkmai,1890,1948,Became protectorate of,200
+7784,Mawkmai,1890,2019,Became part of,775
+7785,Mong Pawn,1890,2019,Became part of,775
+7785,Mong Pawn,1890,1948,Became protectorate of,200
+7786,Mong Sit,1890,1948,Became protectorate of,200
+7786,Mong Sit,1890,2019,Became part of,775
+7787,Mong Pan,1890,1948,Became protectorate of,200
+7787,Mong Pan,1890,2019,Became part of,775
+7788,Kenghkam,1890,1948,Became protectorate of,200
+7788,Kenghkam,1890,2019,Became part of,775
+7789,Mong Nawng,1890,1948,Became protectorate of,200
+7789,Mong Nawng,1890,2019,Became part of,775
+7790,Kehsi Mansam,1890,2019,Became part of,775
+7790,Kehsi Mansam,1890,1948,Became protectorate of,200
+7791,Keng Lon,1890,1948,Became protectorate of,200
+7791,Keng Lon,1890,2019,Became part of,775
+7792,Mong Hsu,1890,1948,Became protectorate of,200
+7792,Mong Hsu,1890,2019,Became part of,775
+7793,Keng Tung,1890,1948,Became protectorate of,200
+7793,Keng Tung,1890,2019,Became part of,775
+7794,Hswanghsup,1890,1948,Became protectorate of,200
+7794,Hswanghsup,1890,2019,Became part of,775
+7795,Singkaling Hkamti,1890,1948,Became protectorate of,200
+7795,Singkaling Hkamti,1890,2019,Became part of,775
+7796,Mong Mit,1890,1948,Became protectorate of,200
+7796,Mong Mit,1890,2019,Became part of,775
+7797,Hkamti Long,1890,2019,Became part of,775
+7797,Hkamti Long,1890,1948,Became protectorate of,200
+7798,Karen-ni West,1875,2019,Became part of,775
+7799,Karen-ni East,1885,2019,Became part of,775
+7806,Jaffna Peninsula,1948,1987,Became part of,780
+7910,Tibet,1816,1910,Became part of,710
+7910,Tibet,1910,1912,Occupied by,710
+7910,Tibet,1912,1951,Became protectorate of,710
+7910,Tibet,1951,2019,Became dependency of,710
+8001,Chiang Mai (Lan-na),1874,2019,Became part of,800
+8002,Pattani,1817,2019,Became part of,800
+8121,Vientiane,1828,1893,Became part of,800
+8121,Vientiane,1893,1949,Became part of,810
+8121,Vientiane,1949,2019,Became part of,812
+8122,Luang Prabang (Lan Sang),1885,1893,Became part of,800
+8122,Luang Prabang (Lan Sang),1893,1949,Became part of,810
+8122,Luang Prabang (Lan Sang),1949,2019,Became part of,812
+8123,Chien Khouang,1832,1893,Became part of,815
+8123,Chien Khouang,1893,1949,Became part of,810
+8123,Chien Khouang,1949,2019,Became part of,812
+8124,Champassak,1885,1949,Became part of,810
+8124,Champassak,1949,2019,Became part of,812
+8151,Cochin China,1816,1867,Became part of,815
+8151,Cochin China,1867,1887,Became colony of,220
+8151,Cochin China,1887,1949,Became part of,810
+8151,Cochin China,1949,1954,Became part of,815
+8151,Cochin China,1954,1975,Became part of,817
+8151,Cochin China,1975,2019,Became part of,816
+8152,Annam,1816,1883,Became part of,815
+8152,Annam,1883,1887,Became protectorate of,220
+8152,Annam,1887,1949,Became part of,810
+8152,Annam,1949,1954,Became part of,815
+8152,Annam,1954,1975,Became part of,817
+8152,Annam,1975,2019,Became part of,816
+8153,Tonkin,1816,1883,Became part of,815
+8153,Tonkin,1883,1887,Became protectorate of,220
+8153,Tonkin,1887,1949,Became part of,810
+8153,Tonkin,1949,1954,Became part of,815
+8153,Tonkin,1954,2019,Became part of,816
+8171,Paracel Is.,1909,1954,Claimed by,710
+8171,Paracel Is.,1931,1954,Claimed by,220
+8171,Paracel Is.,1947,1949,Occupied by,710
+8171,Paracel Is.,1954,2019,Occupied by,710
+8171,Paracel Is.,1954,1974,Occupied by,817
+8171,Paracel Is.,1975,2019,Claimed by,815
+8171,Paracel Is.,1999,2019,Claimed by,713
+8201,Perak,1874,1942,Became colony of,200
+8201,Perak,1896,1946,Became part of,821
+8201,Perak,1942,1945,Occupied by,740
+8201,Perak,1945,1946,Occupied by,200
+8201,Perak,1946,2019,Became part of,820
+8202,Selangore,1875,1942,Became colony of,200
+8202,Selangore,1896,1946,Became part of,821
+8202,Selangore,1942,1945,Occupied by,740
+8202,Selangore,1945,1946,Became colony of,200
+8202,Selangore,1946,2019,Became part of,820
+8203,Pahang,1888,1946,Became colony of,200
+8203,Pahang,1896,1946,Became part of,821
+8203,Pahang,1942,1945,Occupied by,740
+8203,Pahang,1945,1946,Became colony of,200
+8203,Pahang,1946,2019,Became part of,820
+8210,Negri Sembilan,1895,1946,Became colony of,200
+8210,Negri Sembilan,1896,1946,Became part of,821
+8210,Negri Sembilan,1942,1945,Occupied by,740
+8210,Negri Sembilan,1945,1946,Became colony of,200
+8210,Negri Sembilan,1946,2019,Became part of,820
+8211,Songei Ujong,1874,1946,Became part of,8210
+8211,Songei Ujong,1946,2019,Became part of,820
+8212,Rambau,1889,1946,Became part of,8210
+8212,Rambau,1946,2019,Became part of,820
+8213,Sri Menati,1878,1946,Became part of,8210
+8213,Sri Menati,1946,2019,Became part of,820
+8214,Ulu Muar,1878,1946,Became part of,8210
+8214,Ulu Muar,1946,2019,Became part of,820
+8215,Jempol,1878,1946,Became part of,8210
+8215,Jempol,1946,2019,Became part of,820
+8216,Johol,1878,1946,Became part of,8210
+8216,Johol,1946,2019,Became part of,820
+8217,Tampin,1889,1946,Became part of,8210
+8217,Tampin,1946,2019,Became part of,820
+8221,Johore,1819,1942,Became protectorate of,200
+8221,Johore,1942,1945,Occupied by,740
+8221,Johore,1945,1946,Became colony of,200
+8221,Johore,1946,2019,Became part of,820
+8222,Kedah,1821,1909,Became part of,800
+8222,Kedah,1909,1942,Became protectorate of,200
+8222,Kedah,1942,1945,Occupied by,740
+8222,Kedah,1945,1946,Became colony of,200
+8222,Kedah,1946,2019,Became part of,820
+8223,Kelantan,1816,1909,Claimed by,800
+8223,Kelantan,1909,1942,Became protectorate of,200
+8223,Kelantan,1942,1945,Occupied by,740
+8223,Kelantan,1945,1946,Became colony of,200
+8223,Kelantan,1946,2019,Became part of,820
+8224,Perlis,1816,1843,Became part of,800
+8224,Perlis,1843,1909,Sovereign (unrecognised),
+8224,Perlis,1909,1942,Became protectorate of,200
+8224,Perlis,1942,1945,Occupied by,740
+8224,Perlis,1945,1946,Became colony of,200
+8224,Perlis,1946,2019,Became part of,820
+8225,Trengganu,1816,1909,Became part of,800
+8225,Trengganu,1909,1942,Became protectorate of,200
+8225,Trengganu,1942,1945,Occupied by,740
+8225,Trengganu,1945,1946,Became colony of,200
+8225,Trengganu,1946,2019,Became part of,820
+8231,Labuan I.,1816,1846,Became part of,835
+8231,Labuan I.,1846,1889,Became colony of,200
+8231,Labuan I.,1889,1907,Became part of,823
+8231,Labuan I.,1907,1946,Became part of,827
+8231,Labuan I.,1946,2019,Became part of,823
+8271,Malacca,1816,1818,Occupied by,200
+8271,Malacca,1818,1825,Became colony of,210
+8271,Malacca,1825,1826,Became possession of,200
+8271,Malacca,1826,1946,Became part of,827
+8271,Malacca,1946,2019,Became part of,820
+8272,Penang,1816,1826,Became possession of,200
+8272,Penang,1826,1946,Became part of,827
+8272,Penang,1946,2019,Became part of,820
+8401,Sulu Sultanate,1878,2019,Became part of,840
+8402,Bohol,1829,2019,Became part of,840
+8403,Mindanao,1816,1977,Became part of,840
+8403,Mindanao,1977,2019,Became dependency of,840
+8525,Sambas,1818,2019,Became part of,850
+8531,Atjeh,1903,2019,Became part of,850
+8532,Deli,1872,2019,Became part of,850
+8533,Siak,1858,2019,Became part of,850
+8534,Menangkabau,1837,2019,Became part of,850
+8535,Bkulen,1824,2019,Became part of,850
+8536,Jambi,1834,2019,Became part of,850
+8537,Palembang,1822,2019,Became part of,850
+8538,Kutei,1844,2019,Became part of,850
+8539,Torjaja,1907,2019,Became part of,850
+8541,Bali,1856,2019,Became part of,850
+8542,Lombok,1894,2019,Became part of,850
+8543,Banjermassin,1817,1861,Occupied by,210
+8543,Banjermassin,1861,2019,Became part of,850
+8544,Riau,1818,1844,Occupied by,210
+8544,Riau,1844,2019,Became part of,850
+8545,Angkola,1832,2019,Became part of,850
+8546,Mandailing,1832,2019,Became part of,850
+8547,Tapanuli,1840,2019,Became part of,850
+8548,Lampong,1856,2019,Became part of,850
+8549,Buni,1859,2019,Became part of,850
+8551,Indrapuna,1861,2019,Became part of,850
+8552,Bone,1905,2019,Became part of,850
+8553,Gowa,1911,2019,Became part of,850
+8554,Luwu,1861,2019,Became part of,850
+8555,Bencoolen,1816,1825,Became possession of,200
+8555,Bencoolen,1816,1825,Became part of,750
+8555,Bencoolen,1825,2019,Became part of,850
+8560,Buleleng,1856,2019,Became part of,850
+8561,Jembrana,1856,2019,Became part of,850
+9001,Christmas I.,1888,1942,Became part of,827
+9001,Christmas I.,1942,1945,Occupied by,740
+9001,Christmas I.,1945,1946,Became part of,827
+9001,Christmas I.,1946,1958,Became part of,830
+9001,Christmas I.,1958,2019,Became dependency of,900
+9002,Cocos (Keeling) Is.,1857,1878,Became possession of,200
+9002,Cocos (Keeling) Is.,1878,1882,Became part of,780
+9002,Cocos (Keeling) Is.,1882,1942,Became part of,827
+9002,Cocos (Keeling) Is.,1942,1946,Became part of,780
+9002,Cocos (Keeling) Is.,1946,1955,Became part of,830
+9002,Cocos (Keeling) Is.,1955,1984,Became possession of,900
+9002,Cocos (Keeling) Is.,1984,2019,Became dependency of,900
+9003,Coral Sea Is.,1901,1969,Became part of,900
+9003,Coral Sea Is.,1969,2019,Became dependency of,900
+9004,Norfolk I.,1816,1920,Became colony of,200
+9004,Norfolk I.,1920,1979,Became colony of,900
+9004,Norfolk I.,1979,2019,Became dependency of,900
+9005,Heard and McDonald Is.,1947,2019,Became dependency of,900
+9006,Macquarie I.,1816,1890,Became possession of,901
+9006,Macquarie I.,1890,1901,Became possession of,906
+9006,Macquarie I.,1901,2019,Became possession of,900
+9007,Lord Howe I.,1816,1919,Became possession of,200
+9007,Lord Howe I.,1919,2019,Became possession of,900
+9008,Ashmore and Cartier Is,1878,1931,Became possession of,200
+9008,Ashmore and Cartier Is,1931,1978,Became possession of,900
+9008,Ashmore and Cartier Is,1978,2019,Became dependency of,900
+9101,Republic of the Northern Solomons,1949,1975,Became part of,910
+9101,Republic of the Northern Solomons,1976,2019,Became part of,910
+9102,Bougainville,1885,1914,Became part of,912
+9102,Bougainville,1914,1918,Occupied by,900
+9102,Bougainville,1918,1942,Mandated to,0
+9102,Bougainville,1942,1943,Occupied by,740
+9102,Bougainville,1945,1975,Mandated to,900
+9102,Bougainville,1975,2002,Became part of,910
+9102,Bougainville,2002,2019,Became dependency of,910
+9201,Tokelau Is.,1877,1916,Became protectorate of,200
+9201,Tokelau Is.,1916,1925,Became part of,945
+9201,Tokelau Is.,1925,2019,Became colony of,920
+9202,Kermadec Is.,1883,2019,Became possession of,920
+9203,Chatham Is.,1816,1842,Claimed by,200
+9203,Chatham Is.,1842,2019,Became possession of,920
+9204,Bounty Is.,1919,2019,Became possession of,920
+9205,Auckland Is.,1816,1842,Claimed by,200
+9205,Auckland Is.,1842,2019,Became possession of,920
+9206,Campbell I.,1816,2019,Became possession of,920
+9251,Rarotonga,1816,2019,Became part of,925
+9252,Northern Cook Is.,1901,2019,Became possession of,925
+9253,Niue I.,1900,1901,Became protectorate of,200
+9253,Niue I.,1901,1904,Became part of,925
+9253,Niue I.,1904,1974,Became colony of,920
+9253,Niue I.,1974,1994,Sovereign (unrecognised),
+9253,Niue I.,1994,2019,Sovereign,
+9301,Chesterfield Is.,1816,1878,Unknown,
+9301,Chesterfield Is.,1878,2019,Became part of,930
+9321,Wallis and Futuna Is.,1816,1887,Became part of,9322
+9321,Wallis and Futuna Is.,1887,1961,Became protectorate of,220
+9321,Wallis and Futuna Is.,1887,1961,Became part of,930
+9321,Wallis and Futuna Is.,1961,2019,Became dependency of,220
+9322,Uvea,1816,1887,Unknown,
+9322,Uvea,1887,2019,Became part of,9321
+9323,Tua (Singave),1842,2019,Became part of,9321
+9324,Alo,1842,2019,Became part of,9321
+9351,Vemarana (Espiritu Santo),1906,1980,Became part of,935
+9351,Vemarana (Espiritu Santo),1980,2019,Became part of,935
+9401,German Solomon Is.,1885,1899,Became protectorate of,255
+9401,German Solomon Is.,1899,2019,Became part of,940
+9401,German Solomon Is.,1899,1975,Became part of,912
+9451,Ocean I.,1900,1916,Became possession of,200
+9451,Ocean I.,1916,1975,Became part of,945
+9451,Ocean I.,1975,2019,Became part of,946
+9452,Christmas Is.,1888,1916,Became possession of,200
+9452,Christmas Is.,1916,1975,Became part of,945
+9452,Christmas Is.,1975,2019,Became part of,946
+9453,Fanning I.,1888,1916,Became possession of,200
+9453,Fanning I.,1916,1975,Became part of,945
+9453,Fanning I.,1975,2019,Became part of,946
+9454,Washington I.,1888,1916,Became possession of,200
+9454,Washington I.,1916,1975,Became part of,945
+9454,Washington I.,1975,2019,Became part of,946
+9461,Canton and Enderbury Is.,1939,1979,Became possession of,200
+9461,Canton and Enderbury Is.,1979,2019,Became part of,946
+9462,Malden I.,1856,1979,Claimed by,2
+9462,Malden I.,1979,2019,Became part of,946
+9463,Starbuck I.,1856,1979,Claimed by,2
+9463,Starbuck I.,1979,2019,Became part of,946
+9464,Vostok I.,1856,1979,Claimed by,2
+9464,Vostok I.,1979,2019,Became part of,946
+9465,Flint I.,1856,1979,Claimed by,2
+9465,Flint I.,1979,2019,Became part of,946
+9466,Caroline I.,1856,1979,Claimed by,2
+9466,Caroline I.,1979,2019,Became part of,946
+9501,Rotuma I.,1881,1988,Became part of,950
+9501,Rotuma I.,1988,2019,Became part of,950
+9551,Vava'u,1833,2019,Became part of,955
+9552,Tongatapu,1845,2019,Became part of,955
+9553,Ha'apai,1845,2019,Became part of,955
+9601,Society Is.,1844,1880,Became protectorate of,220
+9601,Society Is.,1880,1903,Became colony of,220
+9601,Society Is.,1903,2019,Became part of,960
+9602,Marquesas Is.,1844,1881,Became protectorate of,220
+9602,Marquesas Is.,1881,1903,Became colony of,220
+9602,Marquesas Is.,1903,2019,Became part of,960
+9603,Tuamotu Is.,1844,1881,Became protectorate of,220
+9603,Tuamotu Is.,1881,1903,Became colony of,220
+9603,Tuamotu Is.,1903,2019,Became part of,960
+9604,Gambier Is.,1881,1903,Became colony of,220
+9604,Gambier Is.,1903,2019,Became part of,960
+9605,Tubuai Is. (Austral Is.),1850,1880,Became protectorate of,220
+9605,Tubuai Is. (Austral Is.),1880,1903,Became colony of,220
+9605,Tubuai Is. (Austral Is.),1903,2019,Became part of,960
+9606,Tahiti,1842,1903,Became part of,9601
+9606,Tahiti,1903,2019,Became part of,960
+9610,Clipperton I.,1856,1897,Claimed by,2
+9610,Clipperton I.,1858,1931,Became possession of,220
+9610,Clipperton I.,1897,1931,Occupied by,70
+9610,Clipperton I.,1944,1945,Occupied by,2
+9610,Clipperton I.,1931,2007,Became possession of,220
+9610,Clipperton I.,2007,2019,Became dependency of,220
+9620,Pitcairn Is.,1839,2019,Became colony of,200
+9621,Ducie I.,1816,1903,Became possession of,200
+9621,Ducie I.,1903,2019,Became part of,9620
+9720,Wake I.,1898,1941,Became colony of,2
+9720,Wake I.,1941,1944,Occupied by,740
+9720,Wake I.,1944,2019,Became dependency of,2
+9730,Midway Is.,1859,2019,Became dependency of,2
+9740,Palmyra Is.,1859,1862,Claimed by,2
+9740,Palmyra Is.,1862,1890,Became part of,4
+9740,Palmyra Is.,1889,1912,Became colony of,200
+9740,Palmyra Is.,1912,1960,Became part of,4
+9740,Palmyra Is.,1960,2019,Became dependency of,2
+9750,Johnston I.,1858,1934,Claimed by,2
+9750,Johnston I.,1934,2019,Became dependency of,2
+9760,Kingman Reef,1860,1922,Claimed by,2
+9760,Kingman Reef,1922,2019,Became dependency of,2
+9770,Howland I.,1856,1886,Claimed by,2
+9770,Howland I.,1886,1891,Claimed by,200
+9770,Howland I.,1935,2019,Became dependency of,2
+9771,Baker I.,1857,1886,Claimed by,2
+9771,Baker I.,1886,1935,Claimed by,200
+9771,Baker I.,1935,2019,Became dependency of,2
+9772,Jarvis I.,1857,1889,Claimed by,2
+9772,Jarvis I.,1889,1935,Claimed by,200
+9772,Jarvis I.,1935,2019,Became dependency of,2
+9810,Caroline Is.,1816,1899,Became colony of,230
+9810,Caroline Is.,1899,1914,Became colony of,255
+9810,Caroline Is.,1914,1919,Occupied by,740
+9810,Caroline Is.,1919,1945,Mandated to,740
+9810,Caroline Is.,1945,1947,Occupied by,2
+9810,Caroline Is.,1947,1986,Became part of,987
+9810,Caroline Is.,1947,1994,Became part of,986
+9820,Mariana Is.,1816,1899,Became colony of,230
+9820,Mariana Is.,1899,2019,Became part of,984
+9820,Mariana Is.,1899,2019,Became part of,985
+9900,Samoa,1889,1900,Became protectorate of,2
+9900,Samoa,1900,2019,Became part of,990
+9960,Australian Antarctic Territory,1841,1933,Claimed by,200
+9960,Australian Antarctic Territory,1933,1961,Claimed by,900
+9960,Australian Antarctic Territory,1961,2019,Became dependency of,900
+9970,French and Southern Antarctic Territories (F.S.A.T.),1955,2019,Became dependency of,220
+9971,Adelie Land,1840,1955,Claimed by,220
+9971,Adelie Land,1955,2019,Became part of,9970
+9972,St. Paul and New Amsterdam Is.,1843,1955,Became possession of,220
+9972,St. Paul and New Amsterdam Is.,1955,2019,Became part of,9970
+9973,Kerguelen Is.,1893,1955,Became possession of,220
+9973,Kerguelen Is.,1955,2019,Became part of,9970
+9974,Crozet Is.,1816,1955,Became possession of,220
+9974,Crozet Is.,1955,2019,Became part of,9970
+9980,British Antarctic Territory,1962,1983,Became possession of,200
+9980,British Antarctic Territory,1983,2019,Became dependency of,200
+9981,Palmer Antarctic Territory,1908,1962,Claimed by,1163
+9981,Palmer Antarctic Territory,1962,2019,Became part of,9980
+9982,South Orkney Is.,1821,1833,Became possession of,200
+9982,South Orkney Is.,1833,1962,Became part of,1163
+9982,South Orkney Is.,1962,2019,Became part of,9980
+9983,South Shetland Is.,1819,1833,Became possession of,200
+9983,South Shetland Is.,1833,1962,Became part of,1163
+9983,South Shetland Is.,1962,2019,Became part of,9980
+9984,South Sandwich Is.,1816,1833,Became possession of,200
+9984,South Sandwich Is.,1833,1962,Became part of,1163
+9984,South Sandwich Is.,1962,1985,Became part of,9980
+9984,South Sandwich Is.,1985,2019,Became part of,1165
+9985,Argentine Antarctica,1942,2019,Claimed by,160
+9986,Chilean Antarctica,1940,2019,Claimed by,155
+9987,Neu Schwabenland,1939,1945,Claimed by,255
+9991,Peter I I.,1931,2019,Became dependency of,385
+9992,Queen Maud Land,1939,2019,Became dependency of,385
+9993,Bouvet I.,1927,2019,Became dependency of,385
+9994,Ross Dependency,1923,2019,Became dependency of,920
+9998,Concessions in China,1846,1949,International,
+9999,Inter-Allied Commission of Control,1919,1927,International,
+0,League of Nations,1920,1946,International,
+1,United Nations,1946,2019,International,
