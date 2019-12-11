@@ -9,6 +9,8 @@ translate_link_type = {
     "Became part of" : {"slug":"part","priority":2},
     "Became colony of": {"slug":"col","priority":3},
     "Became possession of": {"slug":"poss","priority":3},
+    "Became dependency of": {"slug":"dep", "priority":3},
+    "Became concession of": {"slug":"cons", "priority":3},
     "Claimed by": {"slug":"claim","priority":0},
     "Became protectorate of": {"slug":"prot","priority":3},
     "Became associated state of": {"slug":"assoc","priority":0},
@@ -21,6 +23,8 @@ translate_link_type = {
     "Autonomous constituent country of": {"slug":"autonom","priority":0},
     "Sovereign (unrecognised)": {"slug":"SOV_U","priority":0},
     "Sovereign (limited)": {"slug":"SOV_L","priority":1},
+    "International":  {"slug":"int","priority":3},
+    "Informal":  {"slug":"inf","priority":2},
     "Protected area of": {"slug":"protected","priority":0},
     "Unknown": {"slug":"N/A","priority":0}
 }
@@ -28,38 +32,39 @@ translate_link_type = {
 
 
 minYear = 1816
-maxYear = 2016
+maxYear = 2019
                 
-with open('./COW_Entities_2019.csv', 'r', encoding='utf8') as r:
+with open('./COW_Entities_extended.csv', 'r', encoding='utf8') as r:
     COW_links = csv.DictReader(r)
 
     for link in COW_links:
-        if link['Ending Political Status'] == '':
+        print(link)
+        if link['link_type'] == '':
             continue
         link = dict((k,v.replace('\n','').strip()) for k,v in  link.items())
-        if link['Entity Number'] not in COW_entities:
-            COW_entities[link['Entity Number']]['name'] = link['Name']
-            COW_entities[link['Entity Number']]['years'] = {}
-        if link['End Year'] == '':
-            link['End Year'] = maxYear
-        if link['Begin Year'] == '':
-            link['Begin Year'] = minYear
-        if link['Begin Year'] == '?' or link['End Year'] == '?':
+        if link['COW_code'] not in COW_entities:
+            COW_entities[link['COW_code']]['name'] = link['COW_name']
+            COW_entities[link['COW_code']]['years'] = {}
+        if link['end_year'] == '':
+            link['end_year'] = maxYear
+        if link['start_year'] == '':
+            link['start_year'] = minYear
+        if link['start_year'] == '?' or link['end_year'] == '?':
             print(link)
             continue
 
-        for y in range(int(link['Begin Year']), int(link['End Year'])+1):
-            COW_types_by_year[link['Ending Political Status']][y] = COW_types_by_year[link['Ending Political Status']][y] + 1 if y in COW_types_by_year[link['Ending Political Status']] else 1
-            if y not in COW_entities[link['Entity Number']]['years']:
-                COW_entities[link['Entity Number']]['years'][y] = []
+        for y in range(int(link['start_year']), int(link['end_year'])+1):
+            COW_types_by_year[link['link_type']][y] = COW_types_by_year[link['link_type']][y] + 1 if y in COW_types_by_year[link['link_type']] else 1
+            if y not in COW_entities[link['COW_code']]['years']:
+                COW_entities[link['COW_code']]['years'][y] = []
             
-            COW_entities[link['Entity Number']]['years'][y].append({
-                "status": link['Ending Political Status'],
-                "sovereign": link['Sovereign Entity Number']
+            COW_entities[link['COW_code']]['years'][y].append({
+                "status": link['link_type'],
+                "sovereign": link['sovereign_COW_code']
                 })
             
 
-    with open('./COW_Entities_2016.json', 'w', encoding='utf8') as f:
+    with open('./COW_Entities_extended.json', 'w', encoding='utf8') as f:
         json.dump(COW_entities, f, indent=2)     
 
     with open('./COW_Entities_in_time.csv', 'w', encoding='utf8') as o:
