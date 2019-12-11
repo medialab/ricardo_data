@@ -11,6 +11,7 @@ import {
 } from 'd3-dsv';
 
 import {INIT_TABLES} from './referenceTables';
+import {Package} from 'datapackage';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
@@ -97,12 +98,12 @@ export const fetchAllTables = (payload) => (dispatch) => {
     type: FETCH_DATAPACKAGE_REQUEST,
   });
   try {
-    get(`${repoRawContent}/${branch}/datapackage.json`,{ responseType: 'json', responseEncoding: 'utf8'}).then(res => {
-      const tablesList = res.data.resources.filter(r => !r.group && r.name !== 'flows');
-      console.log(tablesList);
+    Package.load(`${repoRawContent}/${branch}/datapackage.json`,`${repoRawContent}/${branch}`).then(p => {
+      const descriptor = p.descriptor
+      const tablesList = descriptor.resources.filter(r => !r.group && r.name !== 'flows');
       dispatch({
         type: FETCH_DATAPACKAGE_SUCCESS,
-        payload: res.data
+        payload: descriptor
       });
       // now we can get tables
       dispatch({

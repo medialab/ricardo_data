@@ -74,7 +74,7 @@ class NewRICentityForm extends React.Component {
 
   handleChangeMulti = (event) => {
     const {referenceTables} = this.props;
-    const table = referenceTables['RICentities'];
+    const table = referenceTables['ricentities'];
 
     const getRICname = (list) => {
       const orderedList = orderBy(list, [item => item.value.toLowerCase()], ['asc'])
@@ -132,7 +132,7 @@ class NewRICentityForm extends React.Component {
           data: [mapValues(this.state.fields, (item) => item.value || '')]
         },
         newReference: {
-          resourceName: 'RICentities_groups',
+          resourceName: 'ricentities_groups',
           data: this.state.multiParts.map((part) => {
             return {
               'RICname_group': this.state.fields['RICname'].value,
@@ -150,7 +150,7 @@ class NewRICentityForm extends React.Component {
 
     const options = getOptions({
       tables: referenceTables,
-      resourceName: 'RICentities',
+      resourceName: 'ricentities',
       referenceField: 'RICname',
       filter: {
         field: 'type',
