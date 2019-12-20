@@ -46,8 +46,7 @@ class DataPublish extends React.Component {
 
   render () {
     const {flows, repoData, referenceTables, originalLength} = this.props;
-    const {selectedBranch, remoteUpdateStatus, lastCommit, remoteUpdateMessage} = repoData;
-    const repoTables = repoData.tables;
+    const {selectedBranch, remoteUpdateStatus, lastCommit, remoteUpdateMessage, tables} = repoData;
 
     let updatedTables = [];
 
@@ -71,7 +70,6 @@ class DataPublish extends React.Component {
     const parsedFlows = csvParse(flows.data.map(d => d.join(',')).join('\n'));
     const groupedFlows = groupBy(parsedFlows, (item) => SOURCE_SLUG_FILENAME(sources[item['source']]));
 
-
     const handleUpdateRemoteFiles= (auth) => {
       this.handleCloseModal();
 
@@ -85,7 +83,7 @@ class DataPublish extends React.Component {
         return {
           fileName: `${table.name}.csv`,
           data: referenceTables[table.name],
-          sha: repoTables[table.name].sha
+          sha: tables[table.name].sha
         }
       })
       this.props.updateRemoteFiles({
