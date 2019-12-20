@@ -172,6 +172,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
             file.data = csvParse(exists.data).concat(file.data) 
           }
           // else it's a new file nothing to do
+          // actually yes we should update datapackage see issue #70
         }
         dispatch({
           type: UPDATE_REMOTE_FILES_LOG,
