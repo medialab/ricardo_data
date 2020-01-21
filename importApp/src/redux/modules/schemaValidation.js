@@ -462,7 +462,7 @@ export const getResourceSchema = createSelector(
   getResourceName,
   getResources,
   (resourceName, resources) => {
-    const selectedResource = resources.find((resource) => resource.name === resourceName || resource.group === resourceName);
+    const selectedResource = resources.find((resource) => resource.name === resourceName || (resource.group === resourceName && resource.schema));
     return selectedResource.schema
 })
 
@@ -471,11 +471,25 @@ export const getRelations = createSelector(
   getResources,
   getTables,
   (resourceName, resources, referenceTables) => {
-    const selectedResource = resources.find((resource) => resource.name === resourceName);
+    const selectedResource = resources.find((resource) => resource.name === resourceName || (resource.group === resourceName && resource.schema));
     const relations = {};
-    selectedResource.schema.foreignKeys.forEach((key) => {
-      const tableName = key.reference.resource;
-      relations[tableName] = referenceTables[tableName]
-    });
-    return relations;
-})
+    if (!selectedResource) {
+      console.error(`the resource ${resourceName} could not be found!`)
+      return {};
+    }
+    if (selectedResource.schema) {
+      if (selectedResource.schema.foreignKeys) {
+        selectedResource.schema.foreignKeys.forEach((key) => {
+          const tableName = key.reference.resource;
+          relations[tableName] = referenceTables[tableName]
+        });
+        return relations;
+      }
+      else
+        return {};
+    }
+    else {
+      console.error(`the resource ${selectedResource.name} has no schema !`);
+      return {};
+    }
+  })
