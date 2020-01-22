@@ -1,0 +1,4 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+NewSourceToTestDatapcakgeUpdate,456456,1,livre anglaise,1859,grèce,sardaigne et toscane,imp,gen,S,,,,,
+NewSourceToTestDatapcakgeUpdate,278 145,1,livre anglaise,1859,grèce,turquie qui,import,gen,S,,,,,
+NewSourceToTestDatapcakgeUpdate,1404386,1,livre anglaise,1859,grèce,monde entier,imp,general,S,,,,total_reporting,
