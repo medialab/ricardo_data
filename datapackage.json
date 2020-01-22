@@ -577,7 +577,10 @@
           {
             "name": "species_bullions",
             "type": "string",
-            "description": "Precise wether this trade flow is a monatory flow."
+            "description": "Precise wether this trade flow is a monatory flow.",
+            "constraints":{
+              "enum":["S","NS"]
+            }
           },
           {
             "name": "transport_type",
