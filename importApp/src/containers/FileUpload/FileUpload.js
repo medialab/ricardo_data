@@ -23,6 +23,38 @@ import HeaderValidation from '../../components/HeaderValidation';
 import {parseSheet, parseTable} from '../../utils/fileParser';
 import { MAXIMUM_FILE_SIZE } from '../../constants';
 
+const prepareFlowData = (data, schema) => {
+  // lower foreignKeys
+  const FKFieldsIndices = schema.foreignKeys.map(fk => Array.isArray(fk.fields) ? fk.fields : [fk.fields]).reduce((set, fields) => {
+    //unique map results
+    fields.forEach(f => {
+      // hardcoded exception...
+      if (f !== 'source') {
+        const i = data[0].indexOf(f)
+        if (!set.includes(i))
+          set.push(i);
+        };
+      }
+    );
+    return set;
+  }, []);
+
+  // lowercase Reporting and partner + strip
+ return data.map( (d,i) => {
+    if (i !== 0) {
+      return d.map( (v,i) => {
+        // Foreign Key fields are forced lowercase and trimed to limit glue work
+        if (FKFieldsIndices.includes(i))
+          return v.toLowerCase().trim();
+        else
+          return v;
+      })
+    }
+    else // don't touch headers..
+      return d
+  })
+}
+
 const FileUpload = ({
   steps,
   selectedStep,
@@ -38,6 +70,7 @@ const FileUpload = ({
     if (file.name.split('.')[1] === 'xlsx') {
       parseSheet(file)
       .then((data) => {
+        data = prepareFlowData(data, schema);
         importFlows({
           file: {
             name: file.name.split('.')[0]
@@ -54,6 +87,7 @@ const FileUpload = ({
     else {
       parseTable(file)
       .then((data) => {
+        data = prepareFlowData(data, schema);
         importFlows({
           file: {
             name: file.name
@@ -62,7 +96,10 @@ const FileUpload = ({
         });
         validateHeader({source: data, schema})
       })
-      .catch((error) => console.error('fail to parse file'))
+      .catch((error) => {
+        console.error(error)
+        console.error('fail to parse file')
+      })
     }
   }
   const handleDropRejected = (file, event) => {
@@ -82,7 +119,7 @@ const FileUpload = ({
           onDrop={handleDrop}
           onDropRejected={handleDropRejected}
           isSize="small">
-          <span className="tech-info">Drag and drop .xlsx, .csv file here(maximum 10MB)</span>
+          <span className="tech-info">Cick here to upload or drag and drop .xlsx, .csv file here(maximum 10MB)</span>
         </DropZone>
       }
       {
