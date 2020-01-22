@@ -78,14 +78,12 @@
             "constraints": {
               "unique": true,
               "required": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "author",
             "type": "string",
-            "description": "Author.s of the source when appropriate (i.e. not for statistical series)",
-            "format": "default"
+            "description": "Author.s of the source when appropriate (i.e. not for statistical series)"
           },
           {
             "name": "name",
@@ -93,56 +91,47 @@
             "description": "Name of the source: title of the volume/book/research paper",
             "constraints": {
               "required": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "editor",
             "type": "string",
-            "description": "Editor of the source",
-            "format": "default"
+            "description": "Editor of the source"
           },
           {
             "name": "country",
             "type": "string",
-            "description": "The country targeted by the source if applicable",
-            "format": "default"
+            "description": "The country targeted by the source if applicable"
           },
           {
             "name": "volume_number",
             "type": "string",
-            "description": "Number of volume when in a serie",
-            "format": "default"
+            "description": "Number of volume when in a serie"
           },
           {
             "name": "volume_date",
             "type": "string",
-            "description": "Date.s of trade described in this source when indicated in the source name",
-            "format": "default"
+            "description": "Date.s of trade described in this source when indicated in the source name"
           },
           {
             "name": "edition_date",
             "type": "string",
-            "description": "Edition date of the source",
-            "format": "default"
+            "description": "Edition date of the source"
           },
           {
             "name": "pages",
             "type": "string",
-            "description": "The pages of the source used",
-            "format": "default"
+            "description": "The pages of the source used"
           },
           {
             "name": "shelf_number",
             "type": "string",
-            "description": "The shelf number of the source when preserved in an archive",
-            "format": "default"
+            "description": "The shelf number of the source when preserved in an archive"
           },
           {
             "name": "notes",
             "type": "string",
-            "description": "Free text notes left by the research team",
-            "format": "default"
+            "description": "Free text notes left by the research team"
           },
           {
             "name": "source_category",
@@ -157,14 +146,12 @@
                 "website"
               ],
               "required": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "URL",
             "type": "string",
-            "description": "URL where the original source is available",
-            "format": "default"
+            "description": "URL where the original source is available"
           },
           {
             "name": "type",
@@ -177,12 +164,8 @@
                 "secondary"
               ],
               "required": true
-            },
-            "format": "default"
+            }
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -203,8 +186,7 @@
             "constraints": {
               "unique": true,
               "required": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "type",
@@ -218,8 +200,7 @@
                 "geographical_area",
                 "group"
               ]
-            },
-            "format": "default"
+            }
           },
           {
             "name": "continent",
@@ -242,48 +223,38 @@
                 "Red Sea",
                 "World"
               ]
-            },
-            "format": "default"
+            }
           },
           {
             "name": "COW_code",
             "type": "string",
-            "description": "Correlates Of War (COW) identifier.",
-            "format": "default"
+            "description": "Correlates Of War (COW) identifier."
           },
           {
             "name": "slug",
             "type": "string",
-            "description": "slug",
-            "format": "default"
+            "description": "slug"
           },
           {
             "name": "part_of_country",
             "type": "string",
-            "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in a dedicated table.",
-            "format": "default"
+            "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in a dedicated table."
           },
           {
             "name": "wikidata",
             "type": "string",
-            "description": "wikidata entity ID (for country only so far)",
-            "format": "default"
+            "description": "wikidata entity ID (for country only so far)"
           },
           {
             "name": "lat",
             "type": "number",
-            "description": "geolocalisation  lon,lat retrieved from wikidata or set by hand",
-            "format": "default"
+            "description": "geolocalisation  lon,lat retrieved from wikidata or set by hand"
           },
           {
             "name": "lng",
             "type": "number",
-            "description": "wikidata entity ID",
-            "format": "default"
+            "description": "wikidata entity ID"
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -304,14 +275,12 @@
             "constraints": {
               "unique": true,
               "required": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "french_name",
             "type": "string",
-            "description": "a french translation of the original name",
-            "format": "default"
+            "description": "a french translation of the original name"
           },
           {
             "name": "RICname",
@@ -319,8 +288,7 @@
             "description": "the RICname this original name is translated into",
             "constraints": {
               "required": true
-            },
-            "format": "default"
+            }
           }
         ],
         "foreignKeys": [
@@ -331,9 +299,6 @@
               "fields": "RICname"
             }
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -353,20 +318,17 @@
             "description": "arbitrary unique identifier (autoincremented)",
             "constraints": {
               "unique": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "RICname_group",
             "type": "string",
-            "description": "the RICname group",
-            "format": "default"
+            "description": "the RICname group"
           },
           {
             "name": "RICname_part",
             "type": "string",
-            "description": "the RICname part",
-            "format": "default"
+            "description": "the RICname part"
           }
         ],
         "foreignKeys": [
@@ -384,9 +346,6 @@
               "fields": "RICname"
             }
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -403,32 +362,27 @@
           {
             "name": "year",
             "type": "year",
-            "description": "exchange rates are expressed by year",
-            "format": "default"
+            "description": "exchange rates are expressed by year"
           },
           {
             "name": "modified_currency",
             "type": "string",
-            "description": "the currency name as modified by the unification table (currencies)",
-            "format": "default"
+            "description": "the currency name as modified by the unification table (currencies)"
           },
           {
             "name": "rate_to_pounds",
             "type": "number",
-            "description": "rate to pound sterling",
-            "format": "default"
+            "description": "rate to pound sterling"
           },
           {
             "name": "source",
             "type": "string",
-            "description": "Source used to get this exchange rate",
-            "format": "default"
+            "description": "Source used to get this exchange rate"
           },
           {
             "name": "notes",
             "type": "string",
-            "description": "Free text notes left by the research team",
-            "format": "default"
+            "description": "Free text notes left by the research team"
           }
         ],
         "foreignKeys": [
@@ -439,9 +393,6 @@
               "fields": "slug"
             }
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -458,26 +409,22 @@
           {
             "name": "currency",
             "type": "string",
-            "description": "Original currency as mentionned in source.",
-            "format": "default"
+            "description": "Original currency as mentionned in source."
           },
           {
             "name": "year",
             "type": "year",
-            "description": "Curencies are translated depending on the year of the flow",
-            "format": "default"
+            "description": "Curencies are translated depending on the year of the flow"
           },
           {
             "name": "reporting",
             "type": "string",
-            "description": "Curencies are translated depending on the reporting of the flow",
-            "format": "default"
+            "description": "Curencies are translated depending on the reporting of the flow"
           },
           {
             "name": "modified_currency",
             "type": "string",
-            "description": "The translated currency name",
-            "format": "default"
+            "description": "The translated currency name"
           }
         ],
         "foreignKeys": [
@@ -494,9 +441,6 @@
               ]
             }
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -513,14 +457,12 @@
           {
             "name": "export_import",
             "type": "string",
-            "description": "export/import original name",
-            "format": "default"
+            "description": "export/import original name"
           },
           {
             "name": "special_general",
             "type": "string",
-            "description": "special/general original name",
-            "format": "default"
+            "description": "special/general original name"
           },
           {
             "name": "modified_export_import",
@@ -535,8 +477,7 @@
                 "Re-imp"
               ],
               "required": true
-            },
-            "format": "default"
+            }
           },
           {
             "name": "modified_special_general",
@@ -551,12 +492,8 @@
                 "Private Account (Merchandise)",
                 "Spe"
               ]
-            },
-            "format": "default"
+            }
           }
-        ],
-        "missingValues": [
-          ""
         ]
       }
     },
@@ -571,203 +508,9 @@
       "profile": "tabular-data-resource",
       "title": "Trade flows transcribed from various international trade statistics volumes",
       "format": "csv",
-      "schema": {
-        "fields": [
-          {
-            "name": "source",
-            "type": "string",
-            "description": "The source document this trade flow was extracted from",
-            "constraints": {
-              "required": true
-            },
-            "format": "default"
-          },
-          {
-            "name": "flow",
-            "type": "number",
-            "decimalChar": ".",
-            "constraints": {
-              "minimum": 0
-            },
-            "description": "value of the trade flow",
-            "format": "default"
-          },
-          {
-            "name": "unit",
-            "type": "integer",
-            "constraints": {
-              "minimum": 1
-            },
-            "description": "The unit the trade flow value is expressed in",
-            "format": "default"
-          },
-          {
-            "name": "currency",
-            "type": "string",
-            "description": "The currency the trade flow value is expressed in",
-            "format": "default"
-          },
-          {
-            "name": "year",
-            "type": "year",
-            "description": "The year of the trade flow ",
-            "constraints": {
-              "required": true
-            },
-            "format": "default"
-          },
-          {
-            "name": "reporting",
-            "type": "string",
-            "description": "Name of the country reporting the trade flow",
-            "constraints": {
-              "required": true
-            },
-            "format": "default"
-          },
-          {
-            "name": "partner",
-            "type": "string",
-            "description": "Name of the trade partner of the trade flow",
-            "constraints": {
-              "required": true
-            },
-            "format": "default"
-          },
-          {
-            "name": "export_import",
-            "type": "string",
-            "description": "Precise wether this trade flow is an importation or exportation.",
-            "format": "default"
-          },
-          {
-            "name": "special_general",
-            "type": "string",
-            "description": "Precise wether this trade flow is of type special or general.",
-            "format": "default"
-          },
-          {
-            "name": "species_bullions",
-            "type": "string",
-            "description": "Precise wether this trade flow is a monatory flow.",
-            "format": "default"
-          },
-          {
-            "name": "transport_type",
-            "type": "string",
-            "description": "For some flows, the transport type is precised : by land or by see for instance.",
-            "constraints": {
-              "enum": [
-                "Fleuve",
-                "Mer",
-                "Terre",
-                "Terre et Fleuves",
-                "Terre et Mer",
-                "Terre et Mer et Fleuves"
-              ]
-            },
-            "format": "default"
-          },
-          {
-            "name": "statistical_period",
-            "type": "string",
-            "description": "Some statistics are not reported by civil years. This field indicates those precising the statistical period (not normalized).",
-            "format": "default"
-          },
-          {
-            "name": "partner_sum",
-            "type": "string",
-            "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
-            "constraints": {
-              "enum": [
-                "1"
-              ]
-            },
-            "format": "default"
-          },
-          {
-            "name": "world_trade_type",
-            "type": "string",
-            "description": "Categorize the different types of Total trade calculations: total_estimated (recent estimations), total_reporting1 (total reported by the soruce), total_reporting2 (subtotals reported by the source)",
-            "constraints": {
-              "enum": [
-                "total_estimated",
-                "total_reporting",
-                "total_subreporting"
-              ]
-            },
-            "format": "default"
-          },
-          {
-            "name": "notes",
-            "type": "string",
-            "description": "Free text notes left by the research team",
-            "format": "default"
-          }
-        ],
-        "foreignKeys": [
-          {
-            "fields": "source",
-            "reference": {
-              "resource": "sources",
-              "fields": "slug"
-            }
-          },
-          {
-            "fields": "reporting",
-            "reference": {
-              "resource": "entity_names",
-              "fields": "original_name"
-            }
-          },
-          {
-            "fields": "partner",
-            "reference": {
-              "resource": "entity_names",
-              "fields": "original_name"
-            }
-          },
-          {
-            "fields": [
-              "currency",
-              "year",
-              "reporting"
-            ],
-            "reference": {
-              "resource": "currencies",
-              "fields": [
-                "currency",
-                "year",
-                "reporting"
-              ]
-            }
-          },
-          {
-            "fields": [
-              "export_import",
-              "special_general"
-            ],
-            "reference": {
-              "resource": "expimp_spegen",
-              "fields": [
-                "export_import",
-                "special_general"
-              ]
-            }
-          }
-        ],
-        "missingValues": [
-          ""
-        ]
-      },
+      "schema": "flows_schema.json",
       "dialect": {
-        "header": true,
-        "delimiter": ",",
-        "doubleQuote": true,
-        "lineTerminator": "\r\n",
-        "quoteChar": "\"",
-        "skipInitialSpace": true,
-        "caseSensitiveHeader": false
+        "header": true
       },
       "path": [
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_IndesOrientalesNeerlandaises_Fc2.csv",
