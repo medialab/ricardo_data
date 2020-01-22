@@ -1,4 +1,4 @@
-import {all, get, put, post, spread} from 'axios';
+import {get, post} from 'axios';
 import {apiUri, branchUri, referenceUri, owner, repoName, repoRawContent} from '../../config/default';
 import {DEFAULT_REF_BRANCH} from '../../constants';
 
@@ -99,11 +99,10 @@ export const fetchAllTables = (payload) => (dispatch) => {
   });
   try {
     Package.load(`${repoRawContent}/${branch}/datapackage.json`,`${repoRawContent}/${branch}`).then(p => {
-      const descriptor = p.descriptor
-      const tablesList = descriptor.resources.filter(r => !r.group && r.name !== 'flows');
+      const tablesList = p.descriptor.resources.filter(r => !r.group && r.name !== 'flows');
       dispatch({
         type: FETCH_DATAPACKAGE_SUCCESS,
-        payload: descriptor
+        payload: p.descriptor
       });
       // now we can get tables
       dispatch({
@@ -146,7 +145,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
   dispatch({
     type: UPDATE_REMOTE_FILES_REQUEST,
   });
-  const {files, branch, auth} = payload;
+  const {files, branch, auth, descriptor} = payload;
 
   const github = new Octokat({
     token: auth.token
@@ -156,6 +155,8 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
     try {
       let repo = await github.repos(owner, repoName).fetch();
       let baseReference = await repo.git.refs(`heads/${branch}`).fetch();
+      let flowRessourceMultipart =  descriptor.resources.find((r => r.name === 'flows'))
+      let flowRessourceGroup =  descriptor.resources.find((r => r.group === 'flows'));
       let treeItems = [];
       for (let file of files) {
         
@@ -166,13 +167,33 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
             type: UPDATE_REMOTE_FILES_LOG,
             payload: `downloading existing flows file ${file.fileName}`
           });
-          const exists = await get(`${repoRawContent}/${branch}/data/${file.fileName}`,{ responseType: 'text', responseEncoding: 'utf8'})
-          if (exists.status === 200) {
-            // append new rows at end of the existing file
-            file.data = csvParse(exists.data).concat(file.data) 
-          }
-          // else it's a new file nothing to do
-          // actually yes we should update datapackage see issue #70
+          try {
+            const exists = await get(`${repoRawContent}/${branch}/data/${file.fileName}`,{ responseType: 'text', responseEncoding: 'utf8'})
+            if (exists.status === 200) {
+              // append new rows at end of the existing file
+              file.data = csvParse(exists.data).concat(file.data) 
+            }
+          } catch (error) {
+            if (error.response && error.response.status === 400) {
+              // that's a 404 error which is fine
+              // it's a new file, add it to the datapackage see issue #70
+              if (flowRessourceMultipart) {
+                flowRessourceMultipart.path.push(`data/${file.fileName}`)
+              }
+              else if(flowRessourceGroup) {
+                const newRessource =  {...flowRessourceGroup};
+                newRessource.path = `/data/${file.fileName}`;
+                newRessource.title = file.source;
+                descriptor.resources.push(newRessource);
+              }
+            }
+            else
+              console.log(error);  
+              dispatch({
+                type: UPDATE_REMOTE_FILES_FAILURE,
+                error
+              });          
+          }  
         }
         dispatch({
           type: UPDATE_REMOTE_FILES_LOG,
@@ -187,6 +208,19 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
           type: "blob"
         })
       } 
+      // commit new version of the datapackage
+      dispatch({
+        type: UPDATE_REMOTE_FILES_LOG,
+        payload: `uploading datapackage`
+      });
+      let fileGit = await repo.git.blobs.create({content: Base64.encode(JSON.stringify(descriptor, null, 2)), encoding: 'base64'});
+      let filePath = `datapackage.json`;
+      treeItems.push({
+        path: filePath,
+        sha: fileGit.sha,
+        mode: "100644",
+        type: "blob"
+      })
       dispatch({
         type: UPDATE_REMOTE_FILES_LOG,
         payload: `creating tree`
