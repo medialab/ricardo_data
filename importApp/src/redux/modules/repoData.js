@@ -11,7 +11,6 @@ import {
 } from 'd3-dsv';
 
 import {INIT_TABLES} from './referenceTables';
-import {Package} from 'datapackage';
 
 export const FETCH_TABLE_REQUEST = 'FETCH_TABLE_REQUEST';
 export const FETCH_TABLE_SUCCESS = 'FETCH_TABLE_SUCCESS';
@@ -98,11 +97,12 @@ export const fetchAllTables = (payload) => (dispatch) => {
     type: FETCH_DATAPACKAGE_REQUEST,
   });
   try {
-    Package.load(`${repoRawContent}/${branch}/datapackage.json`,`${repoRawContent}/${branch}`).then(p => {
-      const tablesList = p.descriptor.resources.filter(r => !r.group && r.name !== 'flows');
+    get(`${repoRawContent}/${branch}/datapackage.json`,  {responseType: 'json', responseEncoding: 'utf8'}).then(res => {
+      const descriptor = res.data;
+      const tablesList = descriptor.resources.filter(r => !r.group && r.name !== 'flows');
       dispatch({
         type: FETCH_DATAPACKAGE_SUCCESS,
-        payload: p.descriptor
+        payload: descriptor
       });
       // now we can get tables
       dispatch({
@@ -174,7 +174,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
               file.data = csvParse(exists.data).concat(file.data) 
             }
           } catch (error) {
-            if (error.response && error.response.status === 400) {
+            if (error.response && error.response.status === 404) {
               // that's a 404 error which is fine
               // it's a new file, add it to the datapackage see issue #70
               if (flowRessourceMultipart) {
