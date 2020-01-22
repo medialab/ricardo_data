@@ -76,7 +76,8 @@ class DataPublish extends React.Component {
       const flowFiles = Object.keys(groupedFlows).map((file) => {
         return {
           fileName: `flows/${file}.csv`,
-          data: groupedFlows[file]
+          data: groupedFlows[file],
+          source: file
         }
       });
       const tableFiles = updatedTables.map((table) => {
@@ -89,7 +90,8 @@ class DataPublish extends React.Component {
       this.props.updateRemoteFiles({
         auth,
         files: flowFiles.concat(tableFiles),
-        branch: selectedBranch.name
+        branch: selectedBranch.name,
+        descriptor: this.props.repoData.descriptor
       })
     }
     const handleStartOver = () => {
