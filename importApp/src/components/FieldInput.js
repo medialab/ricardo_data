@@ -7,6 +7,8 @@ import {values, findIndex, uniq, groupBy, orderBy} from 'lodash';
 import Select from 'react-select';
 import Autosuggest from 'react-autosuggest';
 
+import matchSorter from 'match-sorter';
+
 import {
   Button,
   Field as FieldContainer,
@@ -202,8 +204,12 @@ class FieldInput extends React.Component {
             <Select isSearchable={true}
               isClearable={true}
               value={generateValue(value)}
-              options={options}
-              onChange={this.handleChange} />
+              options={this.state.options}
+              onChange={this.handleChange} 
+              onInputChange={inputValue => {
+                this.setState({ options : (matchSorter(options, inputValue, {keys: ['label']}).slice(0,50))});
+              }}
+              />
           }
           {
             newReference &&
