@@ -44,7 +44,7 @@ const prepareFlowData = (data, schema) => {
     if (i !== 0) {
       return d.map( (v,i) => {
         // Foreign Key fields are forced lowercase and trimed to limit glue work
-        if (FKFieldsIndices.includes(i))
+        if (FKFieldsIndices.includes(i) && v.toLowerCase)
           return v.toLowerCase().trim();
         else
           return v;
