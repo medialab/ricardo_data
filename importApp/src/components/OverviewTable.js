@@ -1,8 +1,7 @@
 import React from 'react';
 import {groupBy, sortBy} from 'lodash';
 
-import {RANKED_FIELDS} from '../constants'
-import { file } from '@babel/types';
+import {RANKED_FIELDS} from '../constants';
 
 const OverviewTable = ({
   className,

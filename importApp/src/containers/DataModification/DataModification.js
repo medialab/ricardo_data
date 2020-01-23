@@ -1,6 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {uniq, findIndex} from 'lodash';
+import {findIndex} from 'lodash';
 
 import {
   Button,
@@ -121,7 +121,7 @@ class DataModification extends React.Component {
     }
 
     const handleSubmitModification = (payload) => {
-      const {index, errors, errorType, fixedReferenceTable} = payload;      
+      const {errors, errorType, fixedReferenceTable} = payload;      
     
       if (errorType === 'ERROR_FORMAT' || payload.field === 'source') {
         this.props.updateFlows(payload);

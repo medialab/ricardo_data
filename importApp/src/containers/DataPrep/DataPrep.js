@@ -3,8 +3,7 @@ import {connect} from 'react-redux'
 
 import {
   Button,
-  Help,
-  Select
+  Help
 } from 'design-workshop';
 
 import { 

@@ -1,7 +1,5 @@
 import { createReducer } from 'redux-starter-kit';
 
-import {SET_STEP} from './ui';
-
 export const UPDATE_FLOWS = 'UPDATE_FLOWS';
 export const IMPORT_FLOWS = 'IMPORT_FLOWS';
 export const EXPORT_FLOWS = 'EXPORT_FLOWS';

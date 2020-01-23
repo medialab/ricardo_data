@@ -1,6 +1,6 @@
 import { createReducer } from 'redux-starter-kit';
-import {values, isEqual} from 'lodash'
-import {SET_STEP} from './ui';
+import { isEqual} from 'lodash'
+
 
 export const SUBMIT_MODIFICATION = 'SUBMIT_MODIFICATION';
 export const START_MODIFICATION = 'START_MODIFICATION';

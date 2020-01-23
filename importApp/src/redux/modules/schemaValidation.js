@@ -1,22 +1,13 @@
 import { createSelector } from 'reselect'
 
-import {groupBy, sortBy, values, max, min,difference, keys, uniq} from 'lodash';
-import {Package, Resource} from 'datapackage';
+import {groupBy, sortBy, values } from 'lodash';
+import {Resource} from 'datapackage';
 import {Table} from 'tableschema';
-import {Base64} from 'js-base64';
-
-import {
-  csvParse,
-} from 'd3-dsv';
-
-import {repoUrl} from '../../config/default';
 import {SET_STEP} from './ui';
-import {IMPORT_FLOWS} from './flows';
 
 import {DEFAULT_CHUNK_SIZE, RANKED_FIELDS} from '../../constants';
 
 import {
-  FETCH_TABLES_SUCCESS,
   FETCH_DATAPACKAGE_SUCCESS,
 } from './repoData';
 
@@ -43,12 +34,12 @@ const joinForeignKeyFields = (fields) => {
   else return fields.join('|');
 };
 
-const getForeignKeyFields = (fields) => {
-  return fields.reduce((res, field) => {
-    if (typeof(field) === 'string') return res.concat([field]);
-    else return res.concat(field)
-  }, []);
-} 
+// const getForeignKeyFields = (fields) => {
+//   return fields.reduce((res, field) => {
+//     if (typeof(field) === 'string') return res.concat([field]);
+//     else return res.concat(field)
+//   }, []);
+// } 
 
 const getCollectedErrors = (flows, schema, errors) => {
   const {fields, foreignKeys} = schema;
@@ -382,7 +373,6 @@ const initialState = {
 
 export default function reducer(state = initialState, action){
   const {payload} = action;
-  let newErrors;
   switch (action.type){
     case SET_STEP: 
       if (payload.id === '0') {

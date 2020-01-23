@@ -1,7 +1,7 @@
 import React from 'react';
 import {Table} from 'tableschema';
 
-import {keys, values, mapValues,capitalize, pick, sortBy, uniq, deburr} from 'lodash';
+import {keys, values, mapValues, sortBy, uniq} from 'lodash';
 
 import {
   Button,
@@ -15,7 +15,7 @@ import {
 import FieldInput from './FieldInput';
 import NewResourceRow from './NewResourceRow';
 import NewRICentityForm from './NewRICentityForm';
-import {NON_CHANGABLE_FIELDS, SOURCE_SLUG_FIELDS, SOURCE_SLUGIFY, SOURCE_SUGGESTION_FIELDS} from '../constants';
+import {NON_CHANGABLE_FIELDS, SOURCE_SLUGIFY, SOURCE_SUGGESTION_FIELDS} from '../constants';
 
 const castFormObject = (formObject) =>  mapValues(formObject, (v => v.value));
 
@@ -128,7 +128,7 @@ class ReferenceResourceForm extends React.Component {
 
   handleCreateNewReference = (payload) => {
     const {referenceMap} = payload
-    const {field, referenceField} = referenceMap;
+    const {field} = referenceMap;
     this.setState({
       showNewReference: true,
       resourceValid: {
