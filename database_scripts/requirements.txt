@@ -1,1 +1,2 @@
-csvkit
+csvkit==1.0.4
+parsedatetime==2.4
