@@ -3,7 +3,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 3,Alaska,1816,1867,Became colony of,365
 3,Alaska,1867,1959,Became colony of,2
 3,Alaska,1959,2020,Became part of,2
-4,Hawaii,1816,1898,Sovereign (unrecognized),
+4,Hawaii,1816,1898,Sovereign (limited),
 4,Hawaii,1898,1960,Became colony of,2
 4,Hawaii,1960,2020,Became part of,2
 5,Virgin Islands,1816,1917,Became colony of,390
@@ -14,7 +14,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6,Puerto Rico,1952,2020,Became dependency of,2
 7,Texas,1816,1821,Became part of,1070
 7,Texas,1821,1836,Became part of,70
-7,Texas,1836,1845,Sovereign (unrecognized),
+7,Texas,1836,1845,Sovereign (limited),
 7,Texas,1845,1861,Became part of,2
 7,Texas,1861,1865,Became part of,1002
 7,Texas,1865,2020,Became part of,2
@@ -190,9 +190,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 150,Paraguay,1870,1876,Occupied by,140
 155,Chile,1816,1817,Became part of,1135
 155,Chile,1818,2020,Sovereign,
-160,Argentina,1816,1816,Became part of,1160
 160,Argentina,1816,2020,Sovereign,
-165,Uruguay,1816,1816,Became part of,1160
 165,Uruguay,1816,1828,Became part of,140
 165,Uruguay,1828,2020,Sovereign,
 200,United Kingdom,1816,2020,Sovereign,
@@ -270,7 +268,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 249,Saxony Anhalt (Anhalt),1867,1945,Became part of,255
 249,Saxony Anhalt (Anhalt),1945,1947,Occupied by,365
 249,Saxony Anhalt (Anhalt),1947,1952,Became part of,265
-249,Saxony Anhalt (Anhalt),1952,1990,Dissolved into,265
+249,Saxony Anhalt (Anhalt),1952,1952,Dissolved into,265
 249,Saxony Anhalt (Anhalt),1990,2020,Became part of,255
 250,Hohenzollern Hechingen,1816,1849,Sovereign (limited),
 250,Hohenzollern Hechingen,1849,1871,Became part of,239
@@ -286,8 +284,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 255,Germany,1816,1867,Informal,
 255,Germany,1867,1871,Sovereign (limited),
 255,Germany,1871,1945,Sovereign,
-255,Germany,1945,1990,Dissolved into,260
-255,Germany,1945,1990,Dissolved into,265
+255,Germany,1945,1945,Dissolved into,260
+255,Germany,1945,1945,Dissolved into,265
 255,Germany,1990,2020,Sovereign,
 256,Saar,1816,1871,Became part of,245
 256,Saar,1871,1920,Became part of,255
@@ -332,7 +330,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 269,Saxony,1867,1945,Became part of,255
 269,Saxony,1945,1949,Occupied by,365
 269,Saxony,1949,1952,Became part of,265
-269,Saxony,1952,1990,Dissolved into,265
+269,Saxony,1952,1952,Dissolved into,265
 269,Saxony,1990,2020,Became part of,255
 270,Schwartzburg Rodolstadt,1816,1867,Sovereign (limited),
 270,Schwartzburg Rodolstadt,1867,1918,Became part of,255
@@ -359,7 +357,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 281,Mecklenburg,1945,1945,Dissolved into,282
 282,Mecklenburg Vorpommern,1945,1947,Occupied by,365
 282,Mecklenburg Vorpommern,1947,1952,Became part of,265
-282,Mecklenburg Vorpommern,1952,1990,Dissolved into,265
+282,Mecklenburg Vorpommern,1952,1952,Dissolved into,265
 282,Mecklenburg Vorpommern,1990,2020,Became part of,255
 290,Poland,1816,1918,Became part of,365
 290,Poland,1816,1867,Became part of,305
@@ -418,7 +416,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 327,Papal States,1861,1870,Became part of,325
 328,Vatican City,1816,1870,Became part of,327
 328,Vatican City,1870,1929,Became part of,325
-328,Vatican City,1929,2020,Sovereign (unrecognized),
+328,Vatican City,1929,1964,Sovereign (unrecognized),
+328,Vatican City,1964,2020,Sovereign,
 329,Two Sicilies,1816,1860,Sovereign,
 329,Two Sicilies,1860,1861,Became part of,324
 329,Two Sicilies,1861,1861,Dissolved into,325
@@ -459,7 +458,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 344,Croatia,1941,1945,Occupied by,325
 344,Croatia,1945,1992,Became part of,345
 344,Croatia,1992,2020,Sovereign,
-345,Yugoslavia/Serbia,1816,1878,Became part of,640
+345,Yugoslavia/Serbia,1816,1878,Became vassal of,640
 345,Yugoslavia/Serbia,1878,1941,Sovereign,
 345,Yugoslavia/Serbia,1914,1918,Occupied by,300
 345,Yugoslavia/Serbia,1941,1944,Occupied by,255
@@ -933,14 +932,12 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 665,Palestine,1816,1918,Became part of,640
 665,Palestine,1918,1923,Occupied by,200
 665,Palestine,1923,1948,Mandated to,200
-665,Palestine,1948,1950,Occupied by,663
-665,Palestine,1948,1967,Occupied by,651
-665,Palestine,1950,1967,Became part of,663
-665,Palestine,1948,2020,Became part of,666
-665,Palestine,2012,2020,Sovereign (unrecognized),
-666,Israel,1816,1918,Became part of,640
-666,Israel,1918,1923,Occupied by,200
-666,Israel,1923,1948,Mandated to,200
+665,Palestine,1948,1948,Dissolved into,666
+665,Palestine,1949,1967,Occupied by,651
+665,Palestine,1949,1967,Became part of,663
+665,Palestine,1967,2020,Occupied by,666
+665,Palestine,1988,2012,Sovereign (unrecognized),
+665,Palestine,2012,2020,Sovereign,
 666,Israel,1948,2020,Sovereign,
 670,Saudi Arabia (Nejd Wahabbid Empire),1816,1818,Sovereign (unrecognized),
 670,Saudi Arabia (Nejd Wahabbid Empire),1818,1824,Occupied by,651
@@ -1036,8 +1033,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 712,Mongolia,1921,2020,Sovereign,
 713,Republic of China (Taiwan) (Formosa),1816,1895,Became part of,710
 713,Republic of China (Taiwan) (Formosa),1895,1945,Became colony of,740
-713,Republic of China (Taiwan) (Formosa),1945,1949,Became part of,710
-713,Republic of China (Taiwan) (Formosa),1949,2020,Sovereign (unrecognized),
+713,Republic of China (Taiwan) (Formosa),1945,1971,Sovereign,710
+713,Republic of China (Taiwan) (Formosa),1971,2020,Sovereign (unrecognized),
 720,Hong Kong,1816,1839,Became part of,710
 720,Hong Kong,1839,1841,Occupied by,200
 720,Hong Kong,1841,1942,Became colony of,200
@@ -1129,8 +1126,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 815,Vietnam,1816,1887,Sovereign (unrecognized),
 815,Vietnam,1887,1949,Became part of,810
 815,Vietnam,1945,1946,Occupied by,710
-815,Vietnam,1945,1975,Dissolved into,816
-815,Vietnam,1949,1975,Dissolved into,817
+815,Vietnam,1945,1945,Dissolved into,816
+815,Vietnam,1949,1949,Dissolved into,817
 815,Vietnam,1975,2020,Sovereign,
 816,"Vietnam, Democratic Rep.",1945,1954,Became colony of,220
 816,"Vietnam, Democratic Rep.",1954,1975,Sovereign,
@@ -1318,7 +1315,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 990,Samoa (Western Samoa) (German Samoa),1976,2020,Sovereign,
 991,American Samoa,1816,1900,Became part of,9900
 991,American Samoa,1900,2020,Became colony of,2
-1002,Confederate States of America,1861,1865,Sovereign (unrecognized),
+1001,States of America,1861,1877,Occupied by,2
+1001,States of America,1877,1877,Dissolved into,2
+1002,Confederate States of America,1861,1865,Sovereign (limited),
 1002,Confederate States of America,1865,1877,Occupied by,2
 1002,Confederate States of America,1877,1877,Dissolved into,2
 1003,Attu and Kiska,1816,1942,Became part of,3
@@ -1576,10 +1575,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 1156,Araucania,1860,1862,Sovereign (unrecognized),
 1156,Araucania,1862,1884,Unknown,
 1156,Araucania,1884,2020,Became part of,155
-1160,Viceroyalty of La Plata,1816,1816,Became colony of,200
-1160,Viceroyalty of La Plata,1816,1835,Dissolved into,145
-1160,Viceroyalty of La Plata,1816,1835,Dissolved into,160
-1160,Viceroyalty of La Plata,1816,1835,Dissolved into,165
+1160,Viceroyalty of La Plata,1816,1816,Became colony of,230
+1160,Viceroyalty of La Plata,1816,1816,Dissolved into,145
 1161,Buenos Aires,1816,1852,Became part of,160
 1161,Buenos Aires,1852,1861,Sovereign (unrecognized),
 1161,Buenos Aires,1861,2020,Became part of,160
@@ -1686,7 +1683,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 2554,Brandenburg,1816,1947,Became part of,239
 2554,Brandenburg,1947,1949,Became part of,365
 2554,Brandenburg,1949,1952,Became part of,265
-2554,Brandenburg,1952,1990,Dissolved into,265
+2554,Brandenburg,1952,1952,Dissolved into,265
 2554,Brandenburg,1990,2020,Became part of,255
 2555,Schleswig-Holstein,1867,1945,Became part of,239
 2555,Schleswig-Holstein,1945,1949,Became part of,200
@@ -1702,7 +1699,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 2558,Thuringia,1920,1945,Became part of,255
 2558,Thuringia,1945,1949,Became part of,365
 2558,Thuringia,1949,1952,Became part of,265
-2558,Thuringia,1952,1990,Dissolved into,265
+2558,Thuringia,1952,1952,Dissolved into,265
 2558,Thuringia,1990,2020,Became part of,255
 2601,Berlin (West Berlin),1816,1871,Became part of,239
 2601,Berlin (West Berlin),1871,1945,Became part of,255
@@ -1758,8 +1755,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 3326,Venezia-Giulia,1918,1945,Became part of,325
 3326,Venezia-Giulia,1945,1947,Occupied by,2
 3326,Venezia-Giulia,1947,2020,Became part of,325
-3327,"S.M.O.M.(Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1816,1822,Became part of,327
-3327,"S.M.O.M.(Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1822,2020,Sovereign (unrecognized),
+3327,"S.M.O.M. (Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1816,1822,Became part of,327
+3327,"S.M.O.M. (Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1822,2020,Sovereign (unrecognized),
 3340,Scutari,1816,1912,Became part of,640
 3340,Scutari,1912,1914,Occupied by,339
 3340,Scutari,1914,2020,Became part of,339
@@ -1944,6 +1941,12 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 3696,Novorossiya,1829,1917,Became part of,365
 3696,Novorossiya,1917,2014,Became part of,369
 3696,Novorossiya,2014,2020,Became dependency of,369
+3697,Donetsk,1816,1918,Became part of,365
+3697,Donetsk,1918,2014,Became part of,369
+3697,Donetsk,2014,2020,Sovereign (unrecognized),
+3698,Luhansk,1816,1918,Became part of,365
+3698,Luhansk,1918,2014,Became part of,369
+3698,Luhansk,2014,2020,Sovereign (unrecognized),
 3712,Artsakh (Republic of Karabakh),1816,1918,Became part of,365
 3712,Artsakh (Republic of Karabakh),1918,1920,Claimed by,371
 3712,Artsakh (Republic of Karabakh),1918,1920,Claimed by,373
