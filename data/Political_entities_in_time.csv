@@ -12,7 +12,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6,Puerto Rico,1821,1898,Became colony of,230
 6,Puerto Rico,1898,1952,Became colony of,2
 6,Puerto Rico,1952,2020,Became dependency of,2
-7,Texas,1816,1836,Became part of,70
+7,Texas,1816,1821,Became part of,1070
+7,Texas,1821,1836,Became part of,70
 7,Texas,1836,1845,Sovereign (unrecognized),
 7,Texas,1845,1861,Became part of,2
 7,Texas,1861,1865,Became part of,1002
@@ -32,23 +33,23 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 31,Bahamas,1816,1973,Became colony of,200
 31,Bahamas,1973,2020,Sovereign,
 40,Cuba,1816,1821,Became part of,1070
-40,Cuba,1816,1898,Became colony of,230
+40,Cuba,1821,1898,Became colony of,230
 40,Cuba,1898,1902,Occupied by,2
+40,Cuba,1902,1906,Sovereign,
 40,Cuba,1906,1909,Occupied by,2
-40,Cuba,1902,2020,Sovereign,
+40,Cuba,1906,2020,Sovereign,
 41,Haiti,1816,1859,Sovereign (unrecognized),
 41,Haiti,1859,1915,Sovereign,
 41,Haiti,1915,1934,Occupied by,2
 41,Haiti,1934,2020,Sovereign,
-42,Dominican Republic (Santo Domingo),1816,1821,Became colony of,230
 42,Dominican Republic (Santo Domingo),1816,1821,Became part of,1070
 42,Dominican Republic (Santo Domingo),1822,1844,Occupied by,41
-42,Dominican Republic (Santo Domingo),1844,1861,Sovereign (unrecognized),
+42,Dominican Republic (Santo Domingo),1844,1861,Sovereign,
 42,Dominican Republic (Santo Domingo),1861,1865,Became colony of,230
-42,Dominican Republic (Santo Domingo),1916,1924,Occupied by,2
-42,Dominican Republic (Santo Domingo),1965,1966,Occupied by,2
 42,Dominican Republic (Santo Domingo),1865,1916,Sovereign,
+42,Dominican Republic (Santo Domingo),1916,1924,Occupied by,2
 42,Dominican Republic (Santo Domingo),1924,2020,Sovereign,
+42,Dominican Republic (Santo Domingo),1965,1966,Occupied by,2
 50,West Indies Federation,1958,1962,Became colony of,200
 51,Jamaica,1816,1958,Became colony of,200
 51,Jamaica,1958,1962,Became part of,50
@@ -182,8 +183,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 140,Brazil,1822,2020,Sovereign,
 145,Bolivia,1816,1816,Became part of,1160
 145,Bolivia,1816,1825,Became colony of,230
-145,Bolivia,1836,1839,Became part of,136
 145,Bolivia,1825,1836,Sovereign (unrecognized),
+145,Bolivia,1836,1839,Became part of,136
 145,Bolivia,1839,2020,Sovereign,
 150,Paraguay,1816,2020,Sovereign,
 150,Paraguay,1870,1876,Occupied by,140
@@ -197,13 +198,13 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 200,United Kingdom,1816,2020,Sovereign,
 205,Ireland,1816,1922,Became part of,200
 205,Ireland,1922,2020,Sovereign,
-210,Netherlands,1940,1945,Occupied by,255
 210,Netherlands,1816,1940,Sovereign,
+210,Netherlands,1940,1945,Occupied by,255
 210,Netherlands,1945,2020,Sovereign,
 211,Belgium,1816,1830,Became part of,210
+211,Belgium,1830,1940,Sovereign,
 211,Belgium,1914,1918,Occupied by,255
 211,Belgium,1940,1945,Occupied by,255
-211,Belgium,1830,1940,Sovereign,
 211,Belgium,1945,2020,Sovereign,
 212,Luxemburg,1816,1890,Became part of,210
 212,Luxemburg,1890,1914,Sovereign (unrecognized),
@@ -221,24 +222,25 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 221,Monaco,1861,1940,Sovereign (unrecognized),
 221,Monaco,1940,1943,Occupied by,325
 221,Monaco,1943,1944,Occupied by,255
-221,Monaco,1944,2020,Sovereign,
+221,Monaco,1944,1993,Sovereign (unrecognized),
+221,Monaco,1993,2020,Sovereign,
 223,Liechtenstein,1816,1867,Sovereign (limited),
-223,Liechtenstein,1867,1918,Became part of,300
-223,Liechtenstein,1918,1921,Unknown,
-223,Liechtenstein,1921,1990,Sovereign (unrecognized),
+223,Liechtenstein,1867,1990,Sovereign (unrecognized),
 223,Liechtenstein,1990,2020,Sovereign,
 225,Switzerland,1816,2020,Sovereign,
 230,Spain,1816,2020,Sovereign,
 231,Gibraltar,1816,2020,Became colony of,200
-232,Andorra,1816,1993,Became part of,220
+232,Andorra,1816,1993,Sovereign (unrecognized),
 232,Andorra,1993,2020,Sovereign,
 235,Portugal,1816,2020,Sovereign,
 239,Prussia,1816,1871,Sovereign,
-239,Prussia,1871,1945,Became part of,255
-239,Prussia,1945,1947,Occupied by,365
+239,Prussia,1871,1947,Became part of,255
+239,Prussia,1945,1945,Became part of,290
+239,Prussia,1947,1947,Dissolved into,260
+239,Prussia,1947,1947,Dissolved into,265
 240,Hanover,1816,1837,Became part of,200
-240,Hanover,1837,1867,Sovereign (limited),
-240,Hanover,1867,1871,Became part of,239
+240,Hanover,1837,1866,Sovereign,
+240,Hanover,1866,1871,Became part of,239
 241,Anhalt Dessau,1816,1863,Sovereign (limited),
 241,Anhalt Dessau,1863,1867,Became part of,249
 242,Anhalt Köthen,1816,1847,Sovereign (limited),
@@ -247,7 +249,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 243,Anhalt Bernburg,1863,1867,Became part of,241
 244,Brunswick,1816,1871,Sovereign (limited),
 244,Brunswick,1871,1945,Became part of,255
-245,Bavaria,1816,1871,Sovereign (limited),
+245,Bavaria,1816,1871,Sovereign,
 245,Bavaria,1871,1945,Became part of,255
 245,Bavaria,1945,1949,Occupied by,2
 245,Bavaria,1949,1990,Became part of,260
@@ -268,6 +270,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 249,Saxony Anhalt (Anhalt),1867,1945,Became part of,255
 249,Saxony Anhalt (Anhalt),1945,1947,Occupied by,365
 249,Saxony Anhalt (Anhalt),1947,1952,Became part of,265
+249,Saxony Anhalt (Anhalt),1952,1990,Dissolved into,265
 249,Saxony Anhalt (Anhalt),1990,2020,Became part of,255
 250,Hohenzollern Hechingen,1816,1849,Sovereign (limited),
 250,Hohenzollern Hechingen,1849,1871,Became part of,239
@@ -277,14 +280,14 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 252,Lippe,1867,1945,Became part of,255
 253,Mecklenburg Strelitz,1816,1867,Sovereign (limited),
 253,Mecklenburg Strelitz,1867,1934,Became part of,255
-253,Mecklenburg Strelitz,1934,1934,Became part of,281
+253,Mecklenburg Strelitz,1934,1934,Dissolved into,281
 254,Nassau,1816,1867,Sovereign (limited),
 254,Nassau,1867,1871,Became part of,239
 255,Germany,1816,1867,Informal,
 255,Germany,1867,1871,Sovereign (limited),
 255,Germany,1871,1945,Sovereign,
-255,Germany,1945,1945,Became part of,260
-255,Germany,1945,1945,Became part of,265
+255,Germany,1945,1990,Dissolved into,260
+255,Germany,1945,1990,Dissolved into,265
 255,Germany,1990,2020,Sovereign,
 256,Saar,1816,1871,Became part of,245
 256,Saar,1871,1920,Became part of,255
@@ -303,7 +306,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 260,German Federal Republic,1945,1949,Occupied by,2
 260,German Federal Republic,1949,1955,Sovereign (unrecognized),
 260,German Federal Republic,1955,1990,Sovereign,
-260,German Federal Republic,1990,1990,Became part of,255
+260,German Federal Republic,1990,1990,Dissolved into,255
 261,Saxe Weimar,1816,1867,Sovereign (limited),
 261,Saxe Weimar,1867,1918,Became part of,255
 262,Saxe Altenburg,1816,1826,Became part of,263
@@ -315,7 +318,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 265,German Democratic Republic,1945,1949,Occupied by,365
 265,German Democratic Republic,1949,1954,Sovereign (unrecognized),
 265,German Democratic Republic,1954,1990,Sovereign,
-265,German Democratic Republic,1990,1990,Became part of,255
+265,German Democratic Republic,1990,1990,Dissolved into,255
 266,Saxe Meiningen,1816,1867,Sovereign (limited),
 266,Saxe Meiningen,1867,1918,Became part of,255
 267,Baden,1816,1871,Sovereign,
@@ -329,6 +332,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 269,Saxony,1867,1945,Became part of,255
 269,Saxony,1945,1949,Occupied by,365
 269,Saxony,1949,1952,Became part of,265
+269,Saxony,1952,1990,Dissolved into,265
 269,Saxony,1990,2020,Became part of,255
 270,Schwartzburg Rodolstadt,1816,1867,Sovereign (limited),
 270,Schwartzburg Rodolstadt,1867,1918,Became part of,255
@@ -339,7 +343,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 271,Wuerttemberg,1952,2020,Became part of,2606
 272,Waldeck,1816,1867,Sovereign (limited),
 272,Waldeck,1867,1921,Became part of,255
-273,Hesse Electoral,1816,1867,Sovereign,
+273,Hesse Electoral,1816,1866,Sovereign,
 273,Hesse Electoral,1867,1945,Became part of,239
 274,Schaumburg Lippe,1816,1867,Sovereign (limited),
 274,Schaumburg Lippe,1867,1945,Became part of,255
@@ -350,11 +354,12 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 280,Mecklenburg Schwerin,1816,1843,Sovereign (limited),
 280,Mecklenburg Schwerin,1843,1867,Sovereign,
 280,Mecklenburg Schwerin,1867,1934,Became part of,255
-280,Mecklenburg Schwerin,1934,1934,Became part of,281
+280,Mecklenburg Schwerin,1934,1934,Dissolved into,281
 281,Mecklenburg,1934,1945,Became part of,255
-281,Mecklenburg,1945,1945,Became part of,282
+281,Mecklenburg,1945,1945,Dissolved into,282
 282,Mecklenburg Vorpommern,1945,1947,Occupied by,365
 282,Mecklenburg Vorpommern,1947,1952,Became part of,265
+282,Mecklenburg Vorpommern,1952,1990,Dissolved into,265
 282,Mecklenburg Vorpommern,1990,2020,Became part of,255
 290,Poland,1816,1918,Became part of,365
 290,Poland,1816,1867,Became part of,305
@@ -372,7 +377,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 300,Austria-Hungary,1867,1918,Sovereign,
 305,Austria,1816,1867,Sovereign,
 305,Austria,1867,1918,Became part of,300
-305,Austria,1918,1938,Sovereign,
+305,Austria,1919,1938,Sovereign,
 305,Austria,1938,1945,Became part of,255
 305,Austria,1945,1955,Occupied by,365
 305,Austria,1955,2020,Sovereign,
@@ -387,8 +392,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 315,Czechoslovakia,1945,1945,Occupied by,365
 315,Czechoslovakia,1945,1992,Sovereign,
 315,Czechoslovakia,1968,1969,Occupied by,365
-315,Czechoslovakia,1992,1992,Became part of,316
-315,Czechoslovakia,1992,1992,Became part of,317
+315,Czechoslovakia,1992,1992,Dissolved into,316
+315,Czechoslovakia,1992,1992,Dissolved into,317
 316,Czech Republic,1816,1867,Became part of,305
 316,Czech Republic,1867,1918,Became part of,300
 316,Czech Republic,1918,1992,Became part of,315
@@ -398,7 +403,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 317,Slovakia,1918,1992,Became part of,315
 317,Slovakia,1993,2020,Sovereign,
 324,Kingdom of Sardinia,1816,1861,Sovereign,
-324,Kingdom of Sardinia,1861,1861,Became part of,325
+324,Kingdom of Sardinia,1861,1861,Dissolved into,325
 325,Italy,1816,1861,Informal,
 325,Italy,1861,2020,Sovereign,
 325,Italy,1943,1946,Occupied by,2
@@ -413,25 +418,25 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 327,Papal States,1861,1870,Became part of,325
 328,Vatican City,1816,1870,Became part of,327
 328,Vatican City,1870,1929,Became part of,325
-328,Vatican City,1929,2020,Sovereign,
+328,Vatican City,1929,2020,Sovereign (unrecognized),
 329,Two Sicilies,1816,1860,Sovereign,
 329,Two Sicilies,1860,1861,Became part of,324
-329,Two Sicilies,1861,1861,Became part of,325
+329,Two Sicilies,1861,1861,Dissolved into,325
 331,San Marino,1816,1992,Sovereign (unrecognized),
 331,San Marino,1992,2020,Sovereign,
 332,Modena,1816,1842,Became part of,305
 332,Modena,1842,1859,Sovereign,
 332,Modena,1859,1861,Became part of,324
-332,Modena,1861,1861,Became part of,325
+332,Modena,1861,1861,Dissolved into,325
 335,Parma,1816,1851,Sovereign (unrecognized),
 335,Parma,1851,1859,Sovereign,
 335,Parma,1859,1861,Became part of,324
-335,Parma,1861,1861,Became part of,325
+335,Parma,1861,1861,Dissolved into,325
 336,Lucca,1816,1847,Became part of,335
 336,Lucca,1847,1847,Became part of,337
 337,Tuscany,1816,1859,Sovereign,
 337,Tuscany,1859,1861,Became part of,324
-337,Tuscany,1861,1861,Became part of,325
+337,Tuscany,1861,1861,Dissolved into,325
 338,Malta,1816,1964,Became colony of,200
 338,Malta,1964,2020,Sovereign,
 339,Albania,1816,1912,Became part of,640
@@ -467,15 +472,14 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 346,Bosnia-Herzegovina,1945,1992,Became part of,345
 346,Bosnia-Herzegovina,1992,2020,Sovereign,
 347,Kosovo,1816,1912,Became part of,640
-347,Kosovo,1912,1918,Unknown,
-347,Kosovo,1918,2008,Became part of,345
+347,Kosovo,1912,1999,Became part of,345
+347,Kosovo,1999,2008,Mandated to,1
 347,Kosovo,2008,2020,Sovereign (unrecognized),
 349,Slovenia,1816,1918,Became part of,305
 349,Slovenia,1918,1991,Became part of,345
 349,Slovenia,1992,2020,Sovereign,
-350,Greece,1816,1828,Became part of,640
-350,Greece,1828,1832,Became vassal of,640
-350,Greece,1832,1941,Sovereign,
+350,Greece,1816,1830,Became part of,640
+350,Greece,1830,1941,Sovereign,
 350,Greece,1941,1943,Occupied by,325
 350,Greece,1941,1944,Occupied by,255
 350,Greece,1944,2020,Sovereign,
@@ -550,15 +554,15 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 375,Finland,1816,1917,Became part of,365
 375,Finland,1917,2020,Sovereign,
 376,Chechen-Ingush Republic,1934,1991,Became part of,365
-376,Chechen-Ingush Republic,1991,1991,Became part of,
-376,Chechen-Ingush Republic,1991,1991,Became part of,
+376,Chechen-Ingush Republic,1991,1991,Dissolved into,3761
+376,Chechen-Ingush Republic,1991,1991,Dissolved into,3762
 380,Sweden,1816,2020,Sovereign,
 385,Norway,1816,1905,Became part of,380
 385,Norway,1905,1940,Sovereign,
 385,Norway,1940,1945,Occupied by,255
 385,Norway,1945,2020,Sovereign,
-390,Denmark,1940,1945,Occupied by,255
 390,Denmark,1816,1940,Sovereign,
+390,Denmark,1940,1945,Occupied by,255
 390,Denmark,1945,2020,Sovereign,
 395,Iceland,1816,1918,Became colony of,390
 395,Iceland,1918,1944,Sovereign (unrecognized),
@@ -648,8 +652,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 439,Burkina Faso (Upper Volta),1947,1958,Became colony of,220
 439,Burkina Faso (Upper Volta),1958,1960,Became associated state of,220
 439,Burkina Faso (Upper Volta),1960,2020,Sovereign,
-450,Liberia,1816,1847,Unknown,
-450,Liberia,1847,2020,Sovereign,
+450,Liberia,1822,1847,Became colony of,2
+450,Liberia,1847,1920,Sovereign (unrecognized),
+450,Liberia,1920,2020,Sovereign,
 451,Sierra Leone,1816,1961,Became colony of,200
 451,Sierra Leone,1896,1961,Became protectorate of,200
 451,Sierra Leone,1961,2020,Sovereign,
@@ -659,16 +664,14 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 452,Ghana (Gold Coast),1866,1874,Became part of,451
 452,Ghana (Gold Coast),1874,1957,Became colony of,200
 452,Ghana (Gold Coast),1957,2020,Sovereign,
-460,German Togoland,1816,1884,Unknown,
 460,German Togoland,1884,1916,Became colony of,255
 460,German Togoland,1916,1922,Occupied by,200
-460,German Togoland,1922,1922,Became part of,461
-460,German Togoland,1922,1922,Became part of,462
+460,German Togoland,1922,1922,Dissolved into,461
+460,German Togoland,1922,1922,Dissolved into,462
 461,Togo (French Togoland),1922,1960,Mandated to,220
 461,Togo (French Togoland),1960,2020,Sovereign,
 462,British Togoland,1922,1956,Mandated to,200
-462,British Togoland,1956,1956,Became part of,452
-470,Kamerun,1816,1884,Unknown,
+462,British Togoland,1956,1956,Dissolved into,452
 470,Kamerun,1884,1916,Became colony of,255
 470,Kamerun,1916,1922,Occupied by,200
 470,Kamerun,1916,1922,Occupied by,220
@@ -679,7 +682,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 471,Cameroun (French Cameroons),1960,2020,Sovereign,
 472,British Cameroons,1919,1922,Occupied by,200
 472,British Cameroons,1922,1961,Mandated to,200
-472,British Cameroons,1961,1961,Became part of,471
+472,British Cameroons,1961,1961,Dissolved into,471
 475,Nigeria,1816,1900,Became discovered,
 475,Nigeria,1900,1914,Became protectorate of,200
 475,Nigeria,1914,1960,Became colony of,200
@@ -729,8 +732,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 511,Zanzibar,1964,2020,Became part of,510
 515,Rwanda-Urundi,1891,1922,Became part of,510
 515,Rwanda-Urundi,1922,1962,Mandated to,211
-515,Rwanda-Urundi,1962,1962,Became part of,516
-515,Rwanda-Urundi,1962,1962,Became part of,517
+515,Rwanda-Urundi,1962,1962,Dissolved into,516
+515,Rwanda-Urundi,1962,1962,Dissolved into,517
 516,Burundi,1816,1891,Sovereign (unrecognized),
 516,Burundi,1891,1962,Became part of,515
 516,Burundi,1962,2020,Sovereign,
@@ -859,7 +862,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 601,Tangier,1956,2020,Became part of,600
 602,Spanish Morocco,1912,1946,Became protectorate of,230
 602,Spanish Morocco,1946,1956,Became part of,610
-602,Spanish Morocco,1956,1956,Became part of,600
+602,Spanish Morocco,1956,1956,Dissolved into,600
 605,Ifni,1816,1934,Became part of,600
 605,Ifni,1934,1952,Became colony of,230
 605,Ifni,1952,1958,Became part of,610
@@ -934,7 +937,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 665,Palestine,1948,1967,Occupied by,651
 665,Palestine,1950,1967,Became part of,663
 665,Palestine,1948,2020,Became part of,666
-665,Palestine,2012,2020,Sovereign,
+665,Palestine,2012,2020,Sovereign (unrecognized),
 666,Israel,1816,1918,Became part of,640
 666,Israel,1918,1923,Occupied by,200
 666,Israel,1923,1948,Mandated to,200
@@ -954,7 +957,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 671,Hejaz Sultanate,1925,2020,Became part of,670
 672,Asir,1816,1818,Became vassal of,670
 672,Asir,1818,1840,Occupied by,651
-672,Asir,1840,1871,Unknown,
+672,Asir,1840,1871,Sovereign (unrecognized),
 672,Asir,1871,1914,Occupied by,640
 672,Asir,1914,1926,Sovereign (unrecognized),
 672,Asir,1926,1934,Became protectorate of,670
@@ -969,18 +972,18 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1816,1871,Sovereign (unrecognized),
 678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1871,1918,Became part of,640
 678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1918,1990,Sovereign,
-678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1990,1990,Became part of,679
+678,Yemen Arab Republic (North Yemen) (Kingdom of Yemen),1990,1990,Dissolved into,679
 679,Yemen,1990,2020,Sovereign,
 680,Yemen People's Republic (South Yemen),1967,1990,Sovereign,
-680,Yemen People's Republic (South Yemen),1990,1990,Became part of,679
+680,Yemen People's Republic (South Yemen),1990,1990,Dissolved into,679
 681,Aden,1816,1838,Became part of,6821
 681,Aden,1838,1962,Became colony of,200
 681,Aden,1962,1967,Became part of,6801
 681,Aden,1967,1990,Became part of,680
 681,Aden,1990,2020,Became part of,679
-682,Aden (Protectorate),1874,1937,Became protectorate of,200
-682,Aden (Protectorate),1937,1937,Became part of,6811
-682,Aden (Protectorate),1937,1937,Became part of,6812
+682,Aden Protectorate,1872,1937,Became protectorate of,200
+682,Aden Protectorate,1937,1937,Dissolved into,6811
+682,Aden Protectorate,1937,1937,Dissolved into,6812
 690,Kuwait,1816,1899,Sovereign (unrecognized),
 690,Kuwait,1899,1961,Became protectorate of,200
 690,Kuwait,1990,1991,Occupied by,645
@@ -1049,8 +1052,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 730,Korea (Chosen),1907,1910,Became protectorate of,740
 730,Korea (Chosen),1910,1945,Became colony of,740
 730,Korea (Chosen),1945,1948,Occupied by,365
-730,Korea (Chosen),1948,1948,Became part of,731
-730,Korea (Chosen),1948,1948,Became part of,732
+730,Korea (Chosen),1948,1948,Dissolved into,731
+730,Korea (Chosen),1948,1948,Dissolved into,732
 731,North Korea (Democratic People's Republic of Korea),1945,1948,Occupied by,365
 731,North Korea (Democratic People's Republic of Korea),1948,2020,Sovereign,
 732,South Korea (Republic of South Korea),1945,1948,Occupied by,2
@@ -1108,10 +1111,10 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 810,French Indochina,1941,1945,Occupied by,740
 810,French Indochina,1945,1946,Occupied by,220
 810,French Indochina,1946,1954,Became colony of,220
-810,French Indochina,1945,1945,Became part of,7110
-810,French Indochina,1949,1949,Became part of,815
-810,French Indochina,1954,1954,Became part of,812
-810,French Indochina,1953,1953,Became part of,811
+810,French Indochina,1945,1945,Dissolved into,7110
+810,French Indochina,1949,1949,Dissolved into,815
+810,French Indochina,1954,1954,Dissolved into,812
+810,French Indochina,1953,1953,Dissolved into,811
 811,Kampuchea (Cambodia),1816,1833,Became vassal of,800
 811,Kampuchea (Cambodia),1816,1833,Became vassal of,815
 811,Kampuchea (Cambodia),1833,1863,Occupied by,815
@@ -1126,23 +1129,25 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 815,Vietnam,1816,1887,Sovereign (unrecognized),
 815,Vietnam,1887,1949,Became part of,810
 815,Vietnam,1945,1946,Occupied by,710
-815,Vietnam,1945,1975,Became part of,816
-815,Vietnam,1949,1975,Became part of,817
+815,Vietnam,1945,1975,Dissolved into,816
+815,Vietnam,1949,1975,Dissolved into,817
 815,Vietnam,1975,2020,Sovereign,
 816,"Vietnam, Democratic Rep.",1945,1954,Became colony of,220
 816,"Vietnam, Democratic Rep.",1954,1975,Sovereign,
-816,"Vietnam, Democratic Rep.",1975,1975,Became part of,815
+816,"Vietnam, Democratic Rep.",1975,1975,Dissolved into,815
 817,Republic of Vietnam,1949,1955,Became colony of,220
 817,Republic of Vietnam,1955,1975,Sovereign,
-817,Republic of Vietnam,1975,1975,Became part of,815
+817,Republic of Vietnam,1975,1975,Dissolved into,815
 820,Malaysia (Malaya),1946,1948,Became colony of,200
 820,Malaysia (Malaya),1948,1957,Became colony of,200
 820,Malaysia (Malaya),1957,2020,Sovereign,
 821,Federated Malay States,1896,1942,Became colony of,200
 821,Federated Malay States,1942,1945,Occupied by,740
 821,Federated Malay States,1945,1946,Became colony of,200
-821,Federated Malay States,1946,1946,Became part of,820
-823,Sabah (North Borneo),1816,1888,Became part of,835
+821,Federated Malay States,1946,1946,Dissolved into,820
+823,Sabah (North Borneo),1816,1878,Became part of,8401
+823,Sabah (North Borneo),1816,1878,Became part of,835
+823,Sabah (North Borneo),1878,1888,Leased to,200
 823,Sabah (North Borneo),1888,1942,Became protectorate of,200
 823,Sabah (North Borneo),1942,1945,Occupied by,740
 823,Sabah (North Borneo),1945,1963,Became colony of,200
@@ -1158,9 +1163,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 827,Straits Settlements,1826,1867,Became part of,750
 827,Straits Settlements,1942,1945,Occupied by,740
 827,Straits Settlements,1945,1946,Became colony of,200
-827,Straits Settlements,1946,1946,Became part of,820
-827,Straits Settlements,1946,1946,Became part of,823
-827,Straits Settlements,1946,1946,Became part of,830
+827,Straits Settlements,1946,1946,Dissolved into,820
+827,Straits Settlements,1946,1946,Dissolved into,823
+827,Straits Settlements,1946,1946,Dissolved into,830
 830,Singapore,1816,1826,Became colony of,200
 830,Singapore,1826,1946,Became part of,827
 830,Singapore,1946,1963,Became colony of,200
@@ -1248,8 +1253,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 940,Solomon Islands (British Solomon Islands Protectorate),1978,2020,Sovereign,
 945,Gilbert and Ellice Is.,1892,1916,Became protectorate of,200
 945,Gilbert and Ellice Is.,1916,1975,Became colony of,200
-945,Gilbert and Ellice Is.,1975,1975,Became part of,946
-945,Gilbert and Ellice Is.,1975,1975,Became part of,947
+945,Gilbert and Ellice Is.,1975,1975,Dissolved into,946
+945,Gilbert and Ellice Is.,1975,1975,Dissolved into,947
 946,Kiribati,1816,1892,Became discovered,
 946,Kiribati,1892,1975,Became part of,945
 946,Kiribati,1975,1999,Became colony of,200
@@ -1266,7 +1271,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 955,Tonga,1900,1970,Became protectorate of,200
 955,Tonga,1970,1999,Sovereign (unrecognized),
 955,Tonga,1999,2020,Sovereign,
-960,French Polynesia,1816,1842,Unknown,
+960,French Polynesia,1816,1842,Became discovered,
 960,French Polynesia,1842,1903,Became protectorate of,220
 960,French Polynesia,1903,2020,Became colony of,220
 970,Nauru,1816,1888,Sovereign (unrecognized),
@@ -1315,7 +1320,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 991,American Samoa,1900,2020,Became colony of,2
 1002,Confederate States of America,1861,1865,Sovereign (unrecognized),
 1002,Confederate States of America,1865,1877,Occupied by,2
-1002,Confederate States of America,1877,1877,Became part of,2
+1002,Confederate States of America,1877,1877,Dissolved into,2
 1003,Attu and Kiska,1816,1942,Became part of,3
 1003,Attu and Kiska,1942,1943,Occupied by,740
 1003,Attu and Kiska,1943,2020,Became part of,3
@@ -1514,24 +1519,24 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 1097,Panama Canal Operating Area,1979,2020,Leased to,2
 1101,Quita Sueno Bank,1816,1869,Became discovered,
 1101,Quita Sueno Bank,1869,1981,Claimed by,2
-1101,Quita Sueno Bank,,1981,Claimed by,100
+1101,Quita Sueno Bank,?,1981,Claimed by,100
 1101,Quita Sueno Bank,1981,2020,Became part of,100
 1101,Quita Sueno Bank,2001,2012,Claimed by,93
 1102,Roncador Cay,1816,1856,Became discovered,
 1102,Roncador Cay,1856,1981,Claimed by,2
-1102,Roncador Cay,,1981,Claimed by,100
+1102,Roncador Cay,?,1981,Claimed by,100
 1102,Roncador Cay,1981,2020,Became part of,100
 1103,Serrana Bank,1816,1856,Became discovered,
 1103,Serrana Bank,1856,1981,Claimed by,2
-1103,Serrana Bank,,1981,Claimed by,100
+1103,Serrana Bank,?,1981,Claimed by,100
 1103,Serrana Bank,1981,2020,Became part of,100
 1103,Serrana Bank,2001,2012,Claimed by,93
 1104,Serranilla Bank,1816,1879,Became discovered,
 1104,Serranilla Bank,1879,2020,Claimed by,2
-1104,Serranilla Bank,,2012,Claimed by,100
+1104,Serranilla Bank,?,2012,Claimed by,100
 1104,Serranilla Bank,2012,2020,Became part of,100
 1104,Serranilla Bank,1981,1986,Claimed by,51
-1104,Serranilla Bank,,2020,Claimed by,91
+1104,Serranilla Bank,?,2020,Claimed by,91
 1104,Serranilla Bank,2001,2020,Claimed by,93
 1105,San Andres and Providincial Is.,1816,1819,Became possession of,230
 1105,San Andres and Providincial Is.,1819,1928,Claimed by,100
@@ -1572,7 +1577,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 1156,Araucania,1862,1884,Unknown,
 1156,Araucania,1884,2020,Became part of,155
 1160,Viceroyalty of La Plata,1816,1816,Became colony of,200
-1160,Viceroyalty of La Plata,1816,2020,Became part of,160
+1160,Viceroyalty of La Plata,1816,1835,Dissolved into,145
+1160,Viceroyalty of La Plata,1816,1835,Dissolved into,160
+1160,Viceroyalty of La Plata,1816,1835,Dissolved into,165
 1161,Buenos Aires,1816,1852,Became part of,160
 1161,Buenos Aires,1852,1861,Sovereign (unrecognized),
 1161,Buenos Aires,1861,2020,Became part of,160
@@ -1581,8 +1588,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 1163,Falkland Is.,1833,2020,Became colony of,200
 1164,South Georgia,1816,1833,Became possession of,200
 1164,South Georgia,1833,1985,Became part of,1163
-1164,South Georgia,1985,2020,Became part of,1169
 1164,South Georgia,1927,1985,Claimed by,160
+1164,South Georgia,1985,2020,Became part of,1169
 1165,South Sandwich Is.,1816,1908,Became discovered,
 1165,South Sandwich Is.,1908,1985,Became part of,1163
 1165,South Sandwich Is.,1985,2020,Became part of,1169
@@ -1631,7 +1638,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 2111,Moresnet,1914,1919,Occupied by,255
 2111,Moresnet,1919,2020,Became part of,211
 2201,Alsace Lorraine,1871,1918,Became part of,255
-2201,Alsace Lorraine,1918,1918,Became part of,220
+2201,Alsace Lorraine,1918,1918,Dissolved into,220
 2221,Roquebrune and Menton,1816,1848,Became part of,221
 2221,Roquebrune and Menton,1848,1860,Became part of,324
 2221,Roquebrune and Menton,1860,2020,Became part of,220
@@ -1679,6 +1686,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 2554,Brandenburg,1816,1947,Became part of,239
 2554,Brandenburg,1947,1949,Became part of,365
 2554,Brandenburg,1949,1952,Became part of,265
+2554,Brandenburg,1952,1990,Dissolved into,265
 2554,Brandenburg,1990,2020,Became part of,255
 2555,Schleswig-Holstein,1867,1945,Became part of,239
 2555,Schleswig-Holstein,1945,1949,Became part of,200
@@ -1694,6 +1702,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 2558,Thuringia,1920,1945,Became part of,255
 2558,Thuringia,1945,1949,Became part of,365
 2558,Thuringia,1949,1952,Became part of,265
+2558,Thuringia,1952,1990,Dissolved into,265
 2558,Thuringia,1990,2020,Became part of,255
 2601,Berlin (West Berlin),1816,1871,Became part of,239
 2601,Berlin (West Berlin),1871,1945,Became part of,255
@@ -1732,7 +1741,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 3261,Republic of St. Mark,1816,1848,Became part of,305
 3261,Republic of St. Mark,1848,1849,Sovereign (unrecognized),
 3261,Republic of St. Mark,1849,1866,Became part of,305
-3261,Republic of St. Mark,1866,1866,Became part of,325
+3261,Republic of St. Mark,1866,1866,Dissolved into,325
 3271,Ancona,1816,1832,Became part of,327
 3271,Ancona,1832,1839,Occupied by,220
 3271,Ancona,1839,1861,Became part of,327
@@ -1749,7 +1758,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 3326,Venezia-Giulia,1918,1945,Became part of,325
 3326,Venezia-Giulia,1945,1947,Occupied by,2
 3326,Venezia-Giulia,1947,2020,Became part of,325
-3327,"S.M.O.M.(Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1816,1822,Unknown,
+3327,"S.M.O.M.(Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1816,1822,Became part of,327
 3327,"S.M.O.M.(Sovereign & Military Order of Jerusalem, Rhodes and Malta)",1822,2020,Sovereign (unrecognized),
 3340,Scutari,1816,1912,Became part of,640
 3340,Scutari,1912,1914,Occupied by,339
@@ -1859,7 +1868,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 3387,Jan Mayen Is.,1921,2020,Became dependency of,385
 3387,Jan Mayen Is.,1941,1946,Occupied by,2
 3451,Serb Republic of Krajina,1991,1995,Became part of,345
-3451,Serb Republic of Krajina,1995,1995,Became part of,344
+3451,Serb Republic of Krajina,1995,1995,Dissolved into,344
 3452,Serb Republic of Bosnia,1992,2020,Became part of,346
 3461,Bosnia,1816,2020,Became part of,640
 3462,Herzegovina,1816,2020,Became part of,640
@@ -1994,7 +2003,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4112,Corisco I.,1858,2020,Became part of,411
 4321,Tokolor Empire,1848,1893,Sovereign (unrecognized),
 4321,Tokolor Empire,1893,1895,Occupied by,220
-4321,Tokolor Empire,1895,2020,Became part of,432
+4321,Tokolor Empire,1895,1895,Dissolved into,432
 4322,Timbuctu,1816,1827,Became vassal of,600
 4322,Timbuctu,1827,1861,Became part of,4326
 4322,Timbuctu,1861,1892,Unknown,
@@ -2113,7 +2122,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4392,Kong,1898,1958,Became part of,430
 4393,Mandinka (Wassoulou) Empire,1816,1878,Unknown,
 4393,Mandinka (Wassoulou) Empire,1878,1898,Sovereign (unrecognized),
-4393,Mandinka (Wassoulou) Empire,1898,1958,Became part of,430
+4393,Mandinka (Wassoulou) Empire,1898,1898,Dissolved into,430
 4394,Mamprussi,1816,1895,Unknown,
 4394,Mamprussi,1895,1958,Became part of,430
 4395,Ouga Dougou,1816,1895,Unknown,
@@ -2154,9 +2163,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4527,Denkyira,1816,1868,Became vassal of,4521
 4527,Denkyira,1868,1874,Became part of,4528
 4527,Denkyira,1874,2020,Became part of,452
-4528,Fante,1816,1844,Sovereign (unrecognized),4521
+4528,Fante,1816,1844,Became part of,4521
 4528,Fante,1844,1868,Became protectorate of,200
-4528,Fante,1868,1874,Became protectorate of,200
+4528,Fante,1868,1874,Sovereign (unrecognized),
 4528,Fante,1874,2020,Became part of,452
 4529,Ga,1816,1873,Became vassal of,4521
 4529,Ga,1873,1874,Occupied by,200
@@ -2267,7 +2276,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4776,Benin (Edo),1816,1897,Sovereign (unrecognized),
 4776,Benin (Edo),1897,1914,Became part of,4783
 4776,Benin (Edo),1914,2020,Became part of,475
-4781,Lagos,1816,1897,Became vassal of,4776
+4781,Lagos,1816,1861,Became vassal of,4776
 4781,Lagos,1861,1866,Became colony of,200
 4781,Lagos,1866,1874,Became part of,451
 4781,Lagos,1874,1886,Became part of,452
@@ -2277,9 +2286,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4782,Oil Rivers Protectorate,1885,1899,Became protectorate of,200
 4782,Oil Rivers Protectorate,1899,1899,Became part of,4783
 4783,Southern Nigeria,1899,1914,Became protectorate of,200
-4783,Southern Nigeria,1914,1914,Became part of,475
+4783,Southern Nigeria,1914,1914,Dissolved into,475
 4784,Northern Nigeria,1899,1914,Became protectorate of,200
-4784,Northern Nigeria,1914,1914,Became part of,475
+4784,Northern Nigeria,1914,1914,Dissolved into,475
 4790,Biafra,1967,1970,Sovereign (unrecognized),
 4791,Bonny,1816,1885,Sovereign (unrecognized),
 4791,Bonny,1885,1899,Became part of,4782
@@ -2319,7 +2328,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 4842,Loango,1816,1882,Sovereign (unrecognized),
 4842,Loango,1882,2020,Became part of,484
 4901,Tippu Tip Empire,1860,1887,Sovereign (unrecognized),
-4901,Tippu Tip Empire,1887,2020,Became part of,490
+4901,Tippu Tip Empire,1887,1887,Dissolved into,490
 4902,Mwata Yamvo (Lunda) ,1816,1895,Sovereign (unrecognized),
 4902,Mwata Yamvo (Lunda) ,1895,2020,Became part of,490
 4903,Kalagne,1816,1885,Unknown,
@@ -2361,7 +2370,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 5011,Kenya Protectorate,1887,1895,Leased to,200
 5011,Kenya Protectorate,1895,1920,Became protectorate of,200
 5011,Kenya Protectorate,1920,1963,Became protectorate of,200
-5011,Kenya Protectorate,1963,1963,Became part of,501
+5011,Kenya Protectorate,1963,1963,Dissolved into,501
 5012,Mombassa,1816,1824,Sovereign (unrecognized),
 5012,Mombassa,1824,1826,Occupied by,200
 5012,Mombassa,1826,1837,Occupied by,698
@@ -2409,7 +2418,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 5202,Oltre Giuba,1925,1926,Became colony of,325
 5202,Oltre Giuba,1926,2020,Became part of,5200
 5203,Alula (Majeerteen),1816,1889,Sovereign (unrecognized),
-5203,Alula (Majeerteen),1889,1889,Became part of,5200
+5203,Alula (Majeerteen),1889,1889,Dissolved into,5200
 5204,Obbia,1878,1889,Sovereign (unrecognized),
 5204,Obbia,1889,1905,Became protectorate of,325
 5204,Obbia,1905,1960,Became part of,5200
@@ -2506,9 +2515,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 5517,Kazembe,1816,1899,Became discovered,
 5517,Kazembe,1899,1911,Became part of,5518
 5518,Northeastern Rhodesia,1899,1911,Became colony of,200
-5518,Northeastern Rhodesia,1911,1911,Became part of,551
+5518,Northeastern Rhodesia,1911,1911,Dissolved into,551
 5519,Northwestern Rhodesia,1899,1911,Became colony of,200
-5519,Northwestern Rhodesia,1911,1911,Became part of,551
+5519,Northwestern Rhodesia,1911,1911,Dissolved into,551
 5521,Rozwi,1816,1838,Sovereign (unrecognized),
 5521,Rozwi,1838,1838,Became part of,5522
 5522,Ndebele (Matabeleland),1838,1890,Sovereign (unrecognized),
@@ -2558,7 +2567,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 5614,British Kaffraria,1847,1860,Became part of,561
 5614,British Kaffraria,1860,1866,Became colony of,200
 5614,British Kaffraria,1866,1910,Became part of,561
-5614,British Kaffraria,1910,1910,Became part of,569
+5614,British Kaffraria,1910,1910,Dissolved into,569
 5615,Lydenburg Republic,1856,1860,Sovereign (unrecognized),
 5615,Lydenburg Republic,1860,1910,Became part of,563
 5615,Lydenburg Republic,1910,2020,Became part of,560
@@ -2567,16 +2576,16 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 5618,Zoutpansberg,1910,2020,Became part of,560
 5621,Zululand,1816,1887,Sovereign (unrecognized),
 5621,Zululand,1887,1897,Became colony of,200
-5621,Zululand,1897,1897,Became part of,562
+5621,Zululand,1897,1897,Dissolved into,562
 5622,New Republic,1884,1888,Sovereign (unrecognized),
 5622,New Republic,1888,1903,Became part of,563
-5622,New Republic,1903,1903,Became part of,562
+5622,New Republic,1903,1903,Dissolved into,562
 5641,"Griqualand, East",1816,1869,Became part of,5611
 5641,"Griqualand, East",1869,1874,Sovereign (unrecognized),
 5641,"Griqualand, East",1874,1879,Became colony of,200
 5641,"Griqualand, East",1879,1910,Became part of,561
 5642,Winburg Republic (Natalia Republic),1839,1843,Sovereign (unrecognized),
-5642,Winburg Republic (Natalia Republic),1843,1843,Became part of,564
+5642,Winburg Republic (Natalia Republic),1843,1843,Dissolved into,564
 5651,Walvis Bay,1816,1878,Became discovered,
 5651,Walvis Bay,1878,1884,Became possession of,200
 5651,Walvis Bay,1884,1910,Became part of,561
@@ -2591,7 +2600,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 5797,Menabe,1834,2020,Became part of,5796
 5798,Antaimoro,1823,2020,Became part of,5796
 5799,Boina,1816,1840,Sovereign (unrecognized),
-5799,Boina,1840,1840,Became part of,5796
+5799,Boina,1840,1840,Dissolved into,5796
 5801,Nossi Be,1816,1840,Became discovered,
 5801,Nossi Be,1840,1896,Became colony of,220
 5801,Nossi Be,1896,2020,Became part of,580
@@ -2664,10 +2673,10 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6001,Oujda,1910,2020,Became part of,600
 6021,Southern zone of Spanish Morocco,1912,1956,Became part of,602
 6021,Southern zone of Spanish Morocco,1956,1958,Became protectorate of,230
-6021,Southern zone of Spanish Morocco,1958,1958,Became part of,600
+6021,Southern zone of Spanish Morocco,1958,1958,Dissolved into,600
 6023,Republic of the Rif,1912,1921,Became part of,602
 6023,Republic of the Rif,1921,1926,Sovereign (unrecognized),
-6023,Republic of the Rif,1926,1926,Became part of,602
+6023,Republic of the Rif,1926,1926,Dissolved into,602
 6030,Tetuan,1816,1860,Became part of,600
 6030,Tetuan,1860,1862,Became colony of,230
 6030,Tetuan,1862,2020,Became part of,600
@@ -2699,7 +2708,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6067,Captaincy-general of north Africa,1956,2020,Became part of,230
 6151,Abdelkader Emirate,1816,1832,Became part of,615
 6151,Abdelkader Emirate,1832,1847,Sovereign (unrecognized),
-6151,Abdelkader Emirate,1847,1847,Became part of,615
+6151,Abdelkader Emirate,1847,1847,Dissolved into,615
 6152,Kabylie,1816,1830,Became part of,615
 6152,Kabylie,1830,1847,Became part of,6151
 6152,Kabylie,1847,2020,Became part of,615
@@ -2722,15 +2731,15 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6251,Darfur,1898,1916,Sovereign (unrecognized),
 6251,Darfur,1916,1916,Became part of,625
 6252,Funj Sultanate,1816,1821,Sovereign (unrecognized),
-6252,Funj Sultanate,1821,1821,Became part of,651
+6252,Funj Sultanate,1821,1821,Dissolved into,651
 6253,Kordofan,1816,1821,Became part of,6252
 6253,Kordofan,1821,1898,Became part of,651
 6253,Kordofan,1898,1994,Became part of,625
-6253,Kordofan,1994,1994,Became part of,6256
-6253,Kordofan,1994,1994,Became part of,6257
-6253,Kordofan,1994,1994,Became part of,6258
+6253,Kordofan,1994,1994,Dissolved into,6256
+6253,Kordofan,1994,1994,Dissolved into,6257
+6253,Kordofan,1994,1994,Dissolved into,6258
 6254,Mahdist Empire,1885,1899,Sovereign (unrecognized),
-6254,Mahdist Empire,1899,1899,Became part of,625
+6254,Mahdist Empire,1899,1899,Dissolved into,625
 6255,Shilluk,1816,1841,Sovereign (unrecognized),
 6255,Shilluk,1841,1882,Became part of,651
 6255,Shilluk,1882,2020,Became part of,626
@@ -2840,16 +2849,16 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6800,Socotra I.,1967,1990,Became possession of,680
 6800,Socotra I.,1990,2020,Became possession of,679
 6801,Federation of South Arabia,1962,1967,Became protectorate of,200
-6801,Federation of South Arabia,1967,1967,Became part of,680
+6801,Federation of South Arabia,1967,1967,Dissolved into,680
 6802,Perim I.,1816,1857,Became discovered,
 6802,Perim I.,1857,1937,Became possession of,200
 6802,Perim I.,1937,1963,Became part of,681
 6803,Federation of Arab Emirates of the South,1959,1962,Became protectorate of,200
-6803,Federation of Arab Emirates of the South,1962,1962,Became part of,6801
+6803,Federation of Arab Emirates of the South,1962,1962,Dissolved into,6801
 6811,West Aden Protectorate,1937,1963,Became protectorate of,200
-6811,West Aden Protectorate,1963,1963,Became part of,6801
+6811,West Aden Protectorate,1963,1963,Dissolved into,6801
 6812,East Aden Protectorate,1937,1963,Became protectorate of,200
-6812,East Aden Protectorate,1963,1963,Became part of,6801
+6812,East Aden Protectorate,1963,1963,Dissolved into,6801
 6821,Lahej,1816,1839,Sovereign (unrecognized),
 6821,Lahej,1839,1874,Became protectorate of,200
 6821,Lahej,1914,1918,Occupied by,640
@@ -2857,135 +2866,135 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6821,Lahej,1937,1959,Became part of,6811
 6821,Lahej,1959,1962,Became part of,6803
 6821,Lahej,1962,1967,Became part of,6801
-6821,Lahej,1967,1967,Became part of,680
+6821,Lahej,1967,1967,Dissolved into,680
 6822,Aqrabi,1816,1888,Sovereign (unrecognized),
 6822,Aqrabi,1888,1937,Became part of,682
 6822,Aqrabi,1937,1959,Became part of,6811
 6822,Aqrabi,1959,1962,Became part of,6803
 6822,Aqrabi,1962,1967,Became part of,6801
-6822,Aqrabi,1967,1967,Became part of,680
+6822,Aqrabi,1967,1967,Dissolved into,680
 6823,Dhala,1816,1904,Sovereign (unrecognized),
 6823,Dhala,1904,1937,Became part of,682
 6823,Dhala,1937,1959,Became part of,6811
 6823,Dhala,1959,1962,Became part of,6803
 6823,Dhala,1962,1967,Became part of,6801
-6823,Dhala,1967,1967,Became part of,680
+6823,Dhala,1967,1967,Dissolved into,680
 6824,Radfan,1816,1937,Unknown,
 6824,Radfan,1937,1959,Became part of,6811
 6824,Radfan,1959,1962,Became part of,6803
 6824,Radfan,1962,1967,Became part of,6801
-6824,Radfan,1967,1967,Became part of,680
+6824,Radfan,1967,1967,Dissolved into,680
 6825,Alawi,1816,1872,Became protectorate of,200
 6825,Alawi,1872,1937,Became part of,682
 6825,Alawi,1937,1959,Became part of,6811
 6825,Alawi,1959,1962,Became part of,6803
 6825,Alawi,1962,1967,Became part of,6801
-6825,Alawi,1967,1967,Became part of,680
+6825,Alawi,1967,1967,Dissolved into,680
 6826,Haushabi,1816,1895,Sovereign (unrecognized),
 6826,Haushabi,1895,1937,Became part of,682
 6826,Haushabi,1937,1959,Became part of,6811
 6826,Haushabi,1959,1962,Became part of,6803
 6826,Haushabi,1962,1967,Became part of,6801
-6826,Haushabi,1967,1967,Became part of,680
+6826,Haushabi,1967,1967,Dissolved into,680
 6827,Maflahi,1850,1962,Became part of,6829
 6827,Maflahi,1962,1967,Became part of,6801
-6827,Maflahi,1967,1967,Became part of,680
+6827,Maflahi,1967,1967,Dissolved into,680
 6828,Shaibi,1816,1874,Sovereign (unrecognized),
 6828,Shaibi,1874,1937,Became part of,682
 6828,Shaibi,1937,1959,Became part of,6811
 6828,Shaibi,1959,1962,Became part of,6803
 6828,Shaibi,1962,1967,Became part of,6801
-6828,Shaibi,1967,1967,Became part of,680
+6828,Shaibi,1967,1967,Dissolved into,680
 6829,Upper Yafai,1816,1903,Unknown,
 6829,Upper Yafai,1903,1937,Became part of,682
 6829,Upper Yafai,1937,1959,Became part of,6811
 6829,Upper Yafai,1959,1962,Became part of,6803
 6829,Upper Yafai,1962,1967,Became part of,6801
-6829,Upper Yafai,1967,1967,Became part of,680
+6829,Upper Yafai,1967,1967,Dissolved into,680
 6831,Lower Yafai,1816,1895,Unknown,
 6831,Lower Yafai,1895,1937,Became part of,682
 6831,Lower Yafai,1937,1959,Became part of,6811
 6831,Lower Yafai,1959,1962,Became part of,6803
 6831,Lower Yafai,1962,1967,Became part of,6801
-6831,Lower Yafai,1967,1967,Became part of,680
+6831,Lower Yafai,1967,1967,Dissolved into,680
 6832,Fadhli,1816,1888,Sovereign (unrecognized),
 6832,Fadhli,1888,1937,Became part of,682
 6832,Fadhli,1937,1959,Became part of,6811
 6832,Fadhli,1959,1962,Became part of,6803
 6832,Fadhli,1962,1967,Became part of,6801
-6832,Fadhli,1967,1967,Became part of,680
+6832,Fadhli,1967,1967,Dissolved into,680
 6833,Beihan,1816,1874,Sovereign (unrecognized),
 6833,Beihan,1874,1937,Became part of,682
 6833,Beihan,1937,1959,Became part of,6811
 6833,Beihan,1959,1962,Became part of,6803
 6833,Beihan,1962,1967,Became part of,6801
-6833,Beihan,1967,1967,Became part of,680
+6833,Beihan,1967,1967,Dissolved into,680
 6834,Audhali,1816,1890,Unknown,
 6834,Audhali,1890,1937,Became part of,682
 6834,Audhali,1937,1959,Became part of,6811
 6834,Audhali,1959,1962,Became part of,6803
 6834,Audhali,1962,1967,Became part of,6801
-6834,Audhali,1967,1967,Became part of,680
+6834,Audhali,1967,1967,Dissolved into,680
 6835,Upper Aulaqi (Sultanate),1816,1890,Unknown,
 6835,Upper Aulaqi (Sultanate),1890,1937,Became part of,682
 6835,Upper Aulaqi (Sultanate),1937,1959,Became part of,6811
 6835,Upper Aulaqi (Sultanate),1959,1962,Became part of,6803
 6835,Upper Aulaqi (Sultanate),1962,1967,Became part of,6801
-6835,Upper Aulaqi (Sultanate),1967,1967,Became part of,680
+6835,Upper Aulaqi (Sultanate),1967,1967,Dissolved into,680
 6836,Upper Aulaqi (Sheikhdom),1816,1890,Unknown,
 6836,Upper Aulaqi (Sheikhdom),1890,1937,Became part of,682
 6836,Upper Aulaqi (Sheikhdom),1937,1959,Became part of,6811
 6836,Upper Aulaqi (Sheikhdom),1959,1962,Became part of,6803
 6836,Upper Aulaqi (Sheikhdom),1962,1967,Became part of,6801
-6836,Upper Aulaqi (Sheikhdom),1967,1967,Became part of,680
+6836,Upper Aulaqi (Sheikhdom),1967,1967,Dissolved into,680
 6837,Lower Aulaqi,1816,1888,Unknown,
 6837,Lower Aulaqi,1888,1937,Became protectorate of,682
 6837,Lower Aulaqi,1937,1959,Became part of,6811
 6837,Lower Aulaqi,1959,1962,Became part of,6803
 6837,Lower Aulaqi,1962,1967,Became part of,6801
-6837,Lower Aulaqi,1967,1967,Became part of,680
+6837,Lower Aulaqi,1967,1967,Dissolved into,680
 6838,Dathina Confederation,1816,1874,Unknown,
 6838,Dathina Confederation,1874,1937,Became part of,682
 6838,Dathina Confederation,1937,1959,Became part of,6811
 6838,Dathina Confederation,1959,1962,Became part of,6803
 6838,Dathina Confederation,1962,1967,Became part of,6801
-6838,Dathina Confederation,1967,1967,Became part of,680
+6838,Dathina Confederation,1967,1967,Dissolved into,680
 6841,Wahidi,1830,1881,Unknown,
 6841,Wahidi,1881,1937,Became part of,682
 6841,Wahidi,1937,1959,Became part of,6812
 6841,Wahidi,1959,1962,Became part of,6803
 6841,Wahidi,1962,1967,Became part of,6801
-6841,Wahidi,1967,1967,Became part of,680
+6841,Wahidi,1967,1967,Dissolved into,680
 6842,Haura,1816,1902,Unknown,
 6842,Haura,1902,1937,Became part of,682
 6842,Haura,1937,1959,Became part of,6812
 6842,Haura,1959,1962,Became part of,6803
 6842,Haura,1962,1967,Became part of,6801
-6842,Haura,1967,1967,Became part of,680
+6842,Haura,1967,1967,Dissolved into,680
 6843,Irqa,1816,1890,Unknown,
 6843,Irqa,1890,1937,Became part of,682
 6843,Irqa,1937,1959,Became part of,6812
 6843,Irqa,1959,1962,Became part of,6803
 6843,Irqa,1962,1967,Became part of,6801
-6843,Irqa,1967,1967,Became part of,680
+6843,Irqa,1967,1967,Dissolved into,680
 6844,Kathiri of Seiyun,1816,1888,Sovereign (unrecognized),
 6844,Kathiri of Seiyun,1888,1937,Became part of,682
 6844,Kathiri of Seiyun,1937,1959,Became part of,6812
 6844,Kathiri of Seiyun,1959,1962,Became part of,6803
 6844,Kathiri of Seiyun,1962,1967,Became part of,6801
-6844,Kathiri of Seiyun,1967,1967,Became part of,680
+6844,Kathiri of Seiyun,1967,1967,Dissolved into,680
 6845,Quaiti of Shihr and Mukalla,1858,1888,Sovereign (unrecognized),
 6845,Quaiti of Shihr and Mukalla,1888,1937,Became part of,682
 6845,Quaiti of Shihr and Mukalla,1937,1959,Became part of,6812
 6845,Quaiti of Shihr and Mukalla,1959,1962,Became part of,6803
 6845,Quaiti of Shihr and Mukalla,1962,1967,Became part of,6801
-6845,Quaiti of Shihr and Mukalla,1967,1967,Became part of,680
+6845,Quaiti of Shihr and Mukalla,1967,1967,Dissolved into,680
 6846,Mahri of Qishn and Socotra,1816,1886,Sovereign (unrecognized),
 6846,Mahri of Qishn and Socotra,1886,1937,Became part of,682
 6846,Mahri of Qishn and Socotra,1937,1959,Became part of,6812
 6846,Mahri of Qishn and Socotra,1959,1962,Became part of,6803
 6846,Mahri of Qishn and Socotra,1962,1967,Became part of,6801
-6846,Mahri of Qishn and Socotra,1967,1967,Became part of,680
+6846,Mahri of Qishn and Socotra,1967,1967,Dissolved into,680
 6901,Neutral Zone (Kuwait-Saudi Arabia),1920,1922,Claimed by,690
 6901,Neutral Zone (Kuwait-Saudi Arabia),1922,1969,Became neutral or demilitarized zone of,690
 6901,Neutral Zone (Kuwait-Saudi Arabia),1969,2020,Became part of,690
@@ -3022,8 +3031,8 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 6968,Fujairah,1886,1952,Became protectorate of,200
 6968,Fujairah,1952,1971,Became part of,696
 6968,Fujairah,1971,2020,Became part of,696
-6969,Abu Dhabi-Dubai Neutral Zone,,1961,Claimed by,6962
-6969,Abu Dhabi-Dubai Neutral Zone,,1961,Claimed by,6961
+6969,Abu Dhabi-Dubai Neutral Zone,?,1961,Claimed by,6962
+6969,Abu Dhabi-Dubai Neutral Zone,?,1961,Claimed by,6961
 6969,Abu Dhabi-Dubai Neutral Zone,1961,1971,Became neutral or demilitarized zone of,6962
 6969,Abu Dhabi-Dubai Neutral Zone,1961,1971,Became neutral or demilitarized zone of,6961
 6969,Abu Dhabi-Dubai Neutral Zone,1971,2020,Became part of,696
@@ -3245,207 +3254,245 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 7504,Tranquebar and Serampore,1816,1845,Became colony of,390
 7504,Tranquebar and Serampore,1845,1947,Became part of,750
 7504,Tranquebar and Serampore,1947,2020,Became part of,750
-7505,Hyderabad,1816,1948,Became part of,750
-7505,Hyderabad,1816,1948,Became part of,750
-7507,Kashmir,1816,1846,Became vassal of,750
-7507,Kashmir,1846,1947,Became part of,750
-7507,Kashmir,1947,1957,Occupied by,750
-7507,Kashmir,1957,2020,Became part of,750
-7511,Bikaner,1818,1947,Became part of,750
+7505,Hyderabad,1816,1948,Became vassal of,750
+7505,Hyderabad,1948,2020,Became part of,750
+7507,Kashmir,1816,1819,Became part of,700
+7507,Kashmir,1819,1846,Became part of,7691
+7507,Kashmir,1846,1947,Became vassal of,750
+7507,Kashmir,1947,2020,Became part of,750
+7507,Kashmir,1947,1947,Dissolved into,7708
+7507,Kashmir,1947,1947,Dissolved into,7709
+7511,Bikaner,1816,1947,Became vassal of,750
 7511,Bikaner,1947,2020,Became part of,750
-7512,Jaipur,1818,1947,Became part of,750
+7512,Jaipur,1816,1818,Sovereign (unrecognized),
+7512,Jaipur,1818,1947,Became vassal of,750
 7512,Jaipur,1947,2020,Became part of,750
-7513,Udaipur,1817,1949,Became part of,750
+7513,Udaipur,1816,1818,Became part of,7589
+7513,Udaipur,1818,1949,Became vassal of,750
 7513,Udaipur,1949,2020,Became part of,750
-7514,Kishangarh,1818,1948,Became part of,750
+7514,Kishangarh,1816,1818,Sovereign (unrecognized),
+7514,Kishangarh,1818,1948,Became vassal of,750
 7514,Kishangarh,1948,2020,Became part of,750
-7515,Lawa,1818,1947,Became part of,750
+7515,Lawa,1816,1817,Became part of,7512
+7515,Lawa,1817,1867,Became vassal of,7527
+7515,Lawa,1867,1947,Became vassal of,750
 7515,Lawa,1947,2020,Became part of,750
-7516,Jodhpur,1818,1947,Became part of,750
+7516,Jodhpur,1816,1818,Sovereign (unrecognized),
+7516,Jodhpur,1818,1947,Became vassal of,750
 7516,Jodhpur,1947,2020,Became part of,750
-7517,Jaisalmer,1818,1947,Became part of,750
+7517,Jaisalmer,1816,1818,Sovereign (unrecognized),
+7517,Jaisalmer,1818,1947,Became vassal of,750
 7517,Jaisalmer,1947,2020,Became part of,750
-7518,Dholpur,1818,1949,Became part of,750
+7518,Dholpur,1816,1949,Became part of,750
 7518,Dholpur,1949,2020,Became part of,750
-7519,Karauli,1817,1949,Became part of,750
+7519,Karauli,1816,1817,Became part of,7589
+7519,Karauli,1817,1949,Became vassal of,750
 7519,Karauli,1949,2020,Became part of,750
-7521,Kotah,1817,1947,Became part of,750
+7521,Kotah,1816,1817,Sovereign (unrecognized),
+7521,Kotah,1817,1947,Became vassal of,750
 7521,Kotah,1947,2020,Became part of,750
-7522,Banswara,1818,1949,Became part of,750
+7522,Banswara,1816,1818,Sovereign (unrecognized),
+7522,Banswara,1818,1949,Became vassal of,750
 7522,Banswara,1949,2020,Became part of,750
-7523,Dungarpur,1818,1947,Became part of,750
+7523,Dungarpur,1816,1818,Sovereign (unrecognized),
+7523,Dungarpur,1818,1947,Became vassal of,750
 7523,Dungarpur,1947,2020,Became part of,750
 7524,Dartabgarh,1818,1947,Became part of,750
 7524,Dartabgarh,1947,2020,Became part of,750
+7525,Kushalgar,1816,1818,Unknown,
 7525,Kushalgar,1818,1947,Became part of,750
 7525,Kushalgar,1947,2020,Became part of,750
-7526,Bundi,1818,1949,Became part of,750
+7526,Bundi,1816,1817,Became vassal of,7589
+7526,Bundi,1818,1949,Became vassal of,750
 7526,Bundi,1949,2020,Became part of,750
-7527,Tonk,1818,1947,Became part of,750
+7527,Tonk,1816,1817,Became part of,7512
+7527,Tonk,1817,1947,Became vassal of,750
 7527,Tonk,1947,2020,Became part of,750
-7528,Pratapgarh,1818,1947,Became part of,750
+7528,Pratapgarh,1816,1818,Unknown,
+7528,Pratapgarh,1818,1947,Became vassal of,750
 7528,Pratapgarh,1947,2020,Became part of,750
-7529,Shahpura,1818,1949,Became part of,750
+7529,Shahpura,1816,1818,Unknown,
+7529,Shahpura,1818,1949,Became vassal of,750
 7529,Shahpura,1949,2020,Became part of,750
-7531,Katiawar,1818,1947,Became part of,750
-7531,Katiawar,1947,2020,Became part of,750
-7532,Holkar,1819,1950,Became part of,750
-7532,Holkar,1950,2020,Became part of,750
-7533,Bhopal,1819,1949,Became part of,750
+7531,Kathiawar,1819,1948,Became vassal of,750
+7531,Kathiawar,1948,2020,Became part of,750
+7532,Holkar (Indore),1816,1818,Became part of,7589
+7532,Holkar (Indore),1818,1950,Became vassal of,750
+7532,Holkar (Indore),1950,2020,Became part of,750
+7533,Bhopal,1816,1818,Became part of,7589
+7533,Bhopal,1818,1947,Became vassal of,750
+7533,Bhopal,1947,1949,Unknown,
 7533,Bhopal,1949,2020,Became part of,750
-7534,Dhar,1819,1947,Became part of,750
+7534,Dhar,1816,1819,Became part of,7589
+7534,Dhar,1819,1947,Became vassal of,750
 7534,Dhar,1947,2020,Became part of,750
-7535,Dewas,1818,1948,Became part of,750
-7535,Dewas,1948,2020,Became part of,750
-7536,Taora,1817,1947,Became part of,750
-7536,Taora,1947,2020,Became part of,750
-7537,Samptar (Datia),1817,1950,Became part of,750
+7535,Dewas,1816,1818,Became part of,7589
+7535,Dewas,1818,1947,Became vassal of,750
+7535,Dewas,1947,2020,Became part of,750
+7536,Taraon,1816,1896,Became part of,7549
+7536,Taraon,1896,1931,Became part of,7548
+7536,Taraon,1931,1948,Became part of,7549
+7536,Taraon,1948,2020,Became part of,750
+7537,Samptar (Datia),1816,1947,Became vassal of,750
+7537,Samptar (Datia),1948,1950,Unknown,
 7537,Samptar (Datia),1950,2020,Became part of,750
-7538,Rewa,1819,1947,Became part of,750
+7538,Rewa,1816,1947,Became vassal of,750
 7538,Rewa,1947,2020,Became part of,750
-7539,Sawantwadi,1818,1948,Became part of,750
+7539,Sawantwadi,1816,1948,Became vassal of,750
 7539,Sawantwadi,1948,2020,Became part of,750
-7541,Bilaspur,1819,1948,Became part of,750
+7541,Bilaspur,1816,1948,Became vassal of,750
 7541,Bilaspur,1948,2020,Became part of,750
-7542,Loharu,1819,1947,Became part of,750
+7542,Loharu,1816,1947,Became vassal of,750
 7542,Loharu,1947,2020,Became part of,750
-7543,Malerkotla,1819,1948,Became part of,750
+7543,Malerkotla,1816,1948,Became vassal of,750
 7543,Malerkotla,1948,2020,Became part of,750
-7544,Sirmur,1819,1948,Became part of,750
+7544,Sirmur,1816,1948,Became vassal of,750
 7544,Sirmur,1948,2020,Became part of,750
-7545,Suket,1819,1948,Became part of,750
+7545,Suket,1816,1948,Became vassal of,750
 7545,Suket,1948,2020,Became part of,750
-7546,Garwahl,1819,1947,Became part of,750
-7546,Garwahl,1947,2020,Became part of,750
-7547,Indore,1819,1950,Became part of,750
-7547,Indore,1950,2020,Became part of,750
-7548,Bagelkhand,1819,1947,Became part of,750
-7548,Bagelkhand,1947,2020,Became part of,750
-7549,Bundelkhand,1819,1947,Became part of,750
-7549,Bundelkhand,1947,2020,Became part of,750
-7551,Malwa,1819,1947,Became part of,750
+7546,Garwahl,1816,1949,Became vassal of,750
+7546,Garwahl,1949,2020,Became part of,750
+7548,Bagelkhand,1871,1933,Became vassal of,750
+7549,Bundelkhand,1816,1948,Became vassal of,750
+7549,Bundelkhand,1948,2020,Became part of,750
+7551,Malwa,1816,1818,Became part of,7532
+7551,Malwa,1818,1947,Became part of,750
 7551,Malwa,1947,2020,Became part of,750
-7552,Khairpur,1818,1947,Became part of,750
-7552,Khairpur,1947,1955,Became part of,770
-7552,Khairpur,1955,2020,Became part of,770
-7553,Idar,1818,1947,Became part of,750
+7552,Khairpur,1816,1838,Sovereign (unrecognized),
+7552,Khairpur,1838,1947,Became vassal of,750
+7552,Khairpur,1947,2020,Became part of,770
+7553,Idar,1816,1947,Became vassal of,750
 7553,Idar,1947,2020,Became part of,750
+7554,Saugor,1816,1818,Became part of,7589
 7554,Saugor,1818,1950,Became part of,750
 7554,Saugor,1950,2020,Became part of,750
+7555,Damoh,1816,1818,Became part of,7589
 7555,Damoh,1818,1947,Became part of,750
 7555,Damoh,1947,2020,Became part of,750
-7556,Berar,1818,1947,Became part of,750
+7556,Berar,1816,1853,Became part of,7505
+7556,Berar,1853,1947,Became part of,750
 7556,Berar,1947,2020,Became part of,750
+7557,Khandesh,1816,1818,Became part of,7589
 7557,Khandesh,1818,1947,Became part of,750
 7557,Khandesh,1947,2020,Became part of,750
+7558,Nasik,1816,1818,Became part of,7589
 7558,Nasik,1818,1947,Became part of,750
 7558,Nasik,1947,2020,Became part of,750
-7559,Ahmadnagar,1818,1947,Became part of,750
+7559,Ahmadnagar,1816,1817,Became part of,7589
+7559,Ahmadnagar,1817,1947,Became part of,750
 7559,Ahmadnagar,1947,2020,Became part of,750
+7561,Poona,1816,1818,Became part of,7589
 7561,Poona,1818,1947,Became part of,750
 7561,Poona,1947,2020,Became part of,750
+7562,Sholapur,1816,1818,Became part of,7589
 7562,Sholapur,1818,1947,Became part of,750
 7562,Sholapur,1947,2020,Became part of,750
+7563,Ratnagiri,1816,1818,Became part of,7589
 7563,Ratnagiri,1818,1947,Became part of,750
 7563,Ratnagiri,1947,2020,Became part of,750
-7564,Bijapur,1818,1947,Became part of,750
+7564,Bijapur,1816,1818,Became part of,7589
+7564,Bijapur,1818,1947,Became part of,7578
 7564,Bijapur,1947,2020,Became part of,750
 7566,Travancore,1816,1949,Became part of,750
 7566,Travancore,1949,2020,Became part of,750
-7570,Junagadh,1816,1948,Became part of,750
+7570,Junagadh,1816,1948,Became vassal of,750
 7570,Junagadh,1948,2020,Became part of,750
-7571,Sirohi,1816,1823,Unknown,
+7571,Sirohi,1816,1823,Sovereign (unrecognized),
 7571,Sirohi,1823,1949,Became part of,750
 7571,Sirohi,1949,2020,Became part of,750
-7572,Assam,1816,1826,Unknown,
+7572,Assam,1816,1826,Sovereign (unrecognized),
 7572,Assam,1826,1947,Became part of,750
 7572,Assam,1947,2020,Became part of,750
-7573,Kapurthala,1816,1947,Became part of,750
+7573,Kapurthala,1816,1947,Became vassal of,750
 7573,Kapurthala,1947,2020,Became part of,750
-7574,Chota Nagpur,1816,1947,Became part of,750
+7574,Chota Nagpur,1816,1947,Became vassal of,750
 7574,Chota Nagpur,1947,2020,Became part of,750
-7575,Kodagu (Coorg),1816,1834,Became protectorate of,200
+7575,Kodagu (Coorg),1816,1834,Became vassal of,750
 7575,Kodagu (Coorg),1834,1950,Became part of,750
 7575,Kodagu (Coorg),1950,2020,Became part of,750
 7576,Karnal,1816,1947,Became part of,750
 7576,Karnal,1947,2020,Became part of,750
-7577,Sambalpur,1817,1947,Became part of,750
+7577,Sambalpur,1816,1817,Became part of,7589
+7577,Sambalpur,1817,1947,Became vassal of,750
 7577,Sambalpur,1947,2020,Became part of,750
+7578,Satara,1816,1818,Unknown,
 7578,Satara,1818,1947,Became part of,750
 7578,Satara,1947,2020,Became part of,750
-7579,Gwalior (Sindhia),1816,1849,Unknown,
-7579,Gwalior (Sindhia),1849,1948,Became part of,750
+7579,Gwalior (Sindhia),1816,1948,Became vassal of,750
 7579,Gwalior (Sindhia),1948,2020,Became part of,750
 7581,Jhansi,1816,1853,Became vassal of,750
 7581,Jhansi,1853,1858,Became part of,750
 7581,Jhansi,1858,2020,Became part of,7579
-7582,Raipur,1816,1845,Unknown,
-7582,Raipur,1845,1947,Became part of,750
-7582,Raipur,1947,2020,Became part of,750
-7583,Jubbulpore,1816,1861,Became part of,750
+7582,Rampur,1816,1947,Became vassal of,750
+7582,Rampur,1947,2020,Became part of,750
+7583,Jubbulpore,1816,1818,Became part of,7589
+7583,Jubbulpore,1818,1861,Became part of,750
 7583,Jubbulpore,1861,2020,Became part of,7556
-7584,Balaghat,1816,1853,Unknown,
-7584,Balaghat,1853,2020,Became part of,7585
-7585,Nagpur,1818,1853,Became vassal of,750
-7585,Nagpur,1853,1947,Became part of,750
+7584,Balaghat,1816,1818,Became part of,7589
+7584,Balaghat,1818,1854,Became vassal of,750
+7584,Balaghat,1854,2020,Became part of,750
+7585,Nagpur,1816,1818,Became part of,7589
+7585,Nagpur,1818,1854,Became vassal of,750
+7585,Nagpur,1854,1947,Became part of,750
 7585,Nagpur,1947,2020,Became part of,750
 7586,Oudh,1816,1856,Became vassal of,750
 7586,Oudh,1856,1947,Became part of,750
-7587,Manipur,1816,1824,Unknown,
-7587,Manipur,1824,1890,Became protectorate of,200
-7587,Manipur,1890,1947,Became part of,750
+7587,Manipur,1816,1824,Occupied by,775
+7587,Manipur,1824,1947,Became vassal of,750
 7587,Manipur,1947,2020,Became part of,750
-7588,Baluchistan (Kalat),1816,1839,Unknown,
-7588,Baluchistan (Kalat),1839,1947,Became part of,750
-7588,Baluchistan (Kalat),1947,2020,Became part of,770
+7588,Baluchistan (Kalat),1816,1839,Sovereign (unrecognized),
+7588,Baluchistan (Kalat),1839,1947,Became vassal of,750
+7588,Baluchistan (Kalat),1947,1955,Became vassal of,770
+7588,Baluchistan (Kalat),1955,2020,Became part of,770
+7589,Maratha Empire,1816,1818,Sovereign (unrecognized),
 7691,Lahore (Sikh Empire),1816,1849,Sovereign (unrecognized),
 7691,Lahore (Sikh Empire),1849,1947,Became part of,750
 7691,Lahore (Sikh Empire),1947,2020,Became part of,770
+7692,Peshawar,1816,1818,Became part of,700
 7692,Peshawar,1818,1834,Became part of,7691
 7692,Peshawar,1834,1947,Became part of,750
 7692,Peshawar,1947,2020,Became part of,770
-7693,Sind,1843,1947,Became part of,750
-7693,Sind,1947,2020,Became part of,770
-7694,Bahawalpur,1816,1833,Unknown,
-7694,Bahawalpur,1833,1947,Became part of,750
-7694,Bahawalpur,1947,1955,Became part of,770
+7693,Sindh,1816,1843,Sovereign (unrecognized),
+7693,Sindh,1843,1947,Became part of,750
+7693,Sindh,1947,2020,Became part of,770
+7694,Bahawalpur,1816,1833,Sovereign (unrecognized),
+7694,Bahawalpur,1833,1947,Became vassal of,750
+7694,Bahawalpur,1947,1955,Became vassal of,770
 7694,Bahawalpur,1955,2020,Became part of,770
-7701,Swat,1816,1849,Unknown,
-7701,Swat,1849,1969,Became part of,770
-7701,Swat,1969,2020,Became part of,770
+7701,Swat,1849,1947,Became vassal of,750
+7701,Swat,1947,1969,Became vassal of,770
+7701,Swat,1969,1969,Dissolved into,770
 7702,Hunza,1816,1847,Sovereign (unrecognized),
 7702,Hunza,1847,1891,Became vassal of,710
-7702,Hunza,1891,1947,Became protectorate of,200
-7702,Hunza,1947,1974,Became part of,770
-7702,Hunza,1974,2020,Became part of,770
+7702,Hunza,1891,1947,Became vassal of,750
+7702,Hunza,1947,1974,Became vassal of,770
+7702,Hunza,1974,1974,Dissolved into,770
 7703,Nagar,1816,1891,Sovereign (unrecognized),
-7703,Nagar,1891,1947,Became protectorate of,200
-7703,Nagar,1947,1974,Became protectorate of,770
-7703,Nagar,1974,2020,Became part of,770
+7703,Nagar,1891,1947,Became vassal of,750
+7703,Nagar,1947,1974,Became vassal of,770
+7703,Nagar,1974,1974,Dissolved into,770
 7704,Chitral,1816,1895,Sovereign (unrecognized),
-7704,Chitral,1895,1947,Became protectorate of,200
-7704,Chitral,1947,1969,Became protectorate of,770
-7704,Chitral,1969,2020,Became part of,770
+7704,Chitral,1895,1947,Became vassal of,750
+7704,Chitral,1947,1969,Became vassal of,770
+7704,Chitral,1969,1969,Dissolved into,770
 7705,Dir,1816,1895,Unknown,
-7705,Dir,1895,1947,Became protectorate of,200
-7705,Dir,1947,1969,Became protectorate of,770
-7705,Dir,1969,2020,Became part of,770
-7706,Amb,1816,1845,Unknown,
-7706,Amb,1845,1947,Became protectorate of,200
-7706,Amb,1947,1969,Became protectorate of,770
-7706,Amb,1969,202,Became part of,770
+7705,Dir,1895,1948,Became vassal of,750
+7705,Dir,1948,1969,Became vassal of,770
+7705,Dir,1969,1969,Dissolved into,770
+7706,Amb,1816,1845,Sovereign (unrecognized),
+7706,Amb,1845,1948,Became vassal of,750
+7706,Amb,1948,1969,Became vassal of,770
+7706,Amb,1969,1969,Dissolved into,770
 7707,Gwadar,1816,1958,Became possession of,698
 7707,Gwadar,1958,2020,Became part of,770
-7708,Azad Kashmir,1816,1846,Unknown,
-7708,Azad Kashmir,1846,1947,Became part of,750
+7708,Azad Kashmir,1816,1947,Became part of,7507
 7708,Azad Kashmir,1947,1949,Occupied by,770
-7708,Azad Kashmir,1947,1947,Became part of,7507
-7708,Azad Kashmir,1949,2020,Became protectorate of,750
-7709,Gilgit Baltistan (Northern Areas),1816,1846,Unknown,
-7709,Gilgit Baltistan (Northern Areas),1846,1947,Became part of,750
-7709,Gilgit Baltistan (Northern Areas),1947,1947,Became part of,7507
+7708,Azad Kashmir,1949,2020,Became protectorate of,770
+7709,Gilgit Baltistan (Northern Areas),1816,1842,Sovereign (unrecognized),
+7709,Gilgit Baltistan (Northern Areas),1842,1846,Became part of,7691
+7709,Gilgit Baltistan (Northern Areas),1846,1947,Became part of,7507
 7709,Gilgit Baltistan (Northern Areas),1947,1949,Occupied by,770
-7709,Gilgit Baltistan (Northern Areas),1949,2020,Became protectorate of,750
+7709,Gilgit Baltistan (Northern Areas),1949,2020,Became protectorate of,770
 7712,Tin Bigha,1947,1992,Became part of,750
 7712,Tin Bigha,1992,2020,Leased to,771
 7746,Bawlake,1816,2020,Became part of,7798
@@ -3453,13 +3500,13 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 7748,Naungpale,1816,2020,Became part of,7798
 7749,Nammekon,1816,2020,Became part of,7798
 7750,Hsenwi,1816,1888,Became vassal of,775
-7750,Hsenwi,1888,1888,Became part of,7753
-7750,Hsenwi,1888,1888,Became part of,7754
-7751,Hsipaw,1816,1887,Unknown,
+7750,Hsenwi,1888,1888,Dissolved into,7753
+7750,Hsenwi,1888,1888,Dissolved into,7754
+7751,Hsipaw,1816,1887,Became vassal of,775
 7751,Hsipaw,1887,1948,Became protectorate of,200
 7751,Hsipaw,1948,1959,Became part of,775
 7751,Hsipaw,1959,2020,Became part of,775
-7752,Tawngpeng,1816,1887,Unknown,
+7752,Tawngpeng,1816,1887,Became vassal of,775
 7752,Tawngpeng,1887,1948,Became protectorate of,200
 7752,Tawngpeng,1948,1959,Became part of,775
 7752,Tawngpeng,1959,2020,Became part of,775
@@ -3477,88 +3524,91 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 7756,Hsamonghkam,1948,1959,Became part of,775
 7756,Hsamonghkam,1959,2020,Became part of,775
 7757,Kyawkku,1816,1887,Became vassal of,775
-7757,Kyawkku,1887,1922,Became part of,7769
-7758,Kyong,1816,1887,Unknown,
-7758,Kyong,1887,1948,Became protectorate of,200
+7757,Kyawkku,1887,1922,Became protectorate of,200
+7757,Kyawkku,1922,1922,Dissolved into,7769
+7758,Kyong,1816,1886,Became vassal of,775
+7758,Kyong,1886,1948,Became protectorate of,200
 7758,Kyong,1948,2020,Became part of,775
 7759,Loi Ai,1816,1930,Became part of,7771
-7759,Loi Ai,1930,1930,Became part of,7756
-7760,Loi Long,1816,1887,Unknown,
+7759,Loi Ai,1930,1930,Dissolved into,7756
+7760,Loi Long,1816,1887,Became vassal of,775
 7760,Loi Long,1887,1948,Became protectorate of,200
 7760,Loi Long,1948,2020,Became part of,775
-7761,Loi Maw,1816,1887,Unknown,
+7761,Loi Maw,1816,1887,Became part of,7771
 7761,Loi Maw,1887,1948,Became protectorate of,200
 7761,Loi Maw,1948,2020,Became part of,775
 7762,Maw,1816,1887,Became vassal of,775
 7762,Maw,1887,1934,Became protectorate of,200
-7762,Maw,1934,1934,Became part of,7756
-7763,Mawnang,1816,1887,Unknown,
+7762,Maw,1934,1934,Dissolved into,7756
+7763,Mawnang,1816,1887,Became part of,7771
 7763,Mawnang,1887,1948,Became protectorate of,200
 7763,Mawnang,1948,2020,Became part of,775
-7764,Mawson,1816,1887,Unknown,
+7764,Mawson,1816,1887,Became part of,7771
 7764,Mawson,1887,1948,Became protectorate of,200
 7764,Mawson,1948,2020,Became part of,775
 7765,Namhkam,1816,1960,Became part of,710
 7765,Namhkam,1960,2020,Became part of,775
-7766,Namtok,1816,1887,Unknown,
-7766,Namtok,1887,1948,Became protectorate of,200
-7766,Namtok,1948,2020,Became part of,775
-7767,Pangmi,1816,1887,Unknown,
+7766,Namtok,1816,1887,Became vassal of,775
+7766,Namtok,1887,1931,Became protectorate of,200
+7766,Namtok,1931,2020,Became part of,7760
+7767,Pangmi,1816,1887,Became vassal of,775
 7767,Pangmi,1887,1948,Became protectorate of,200
 7767,Pangmi,1948,2020,Became part of,775
-7768,Pangtara,1816,1887,Unknown,
+7768,Pangtara,1816,1887,Became vassal of,775
 7768,Pangtara,1887,1948,Became protectorate of,200
 7768,Pangtara,1948,2020,Became part of,775
-7769,Pwehla,1816,1887,Unknown,
+7769,Pwehla,1816,1887,Became vassal of,775
 7769,Pwehla,1887,1948,Became protectorate of,200
 7769,Pwehla,1948,2020,Became part of,775
-7770,Yengan,1816,1887,Unknown,
+7770,Yengan,1816,1887,Became vassal of,775
 7770,Yengan,1887,1948,Became protectorate of,200
 7770,Yengan,1948,2020,Became part of,775
-7771,Yawnghwe,1816,1887,Unknown,
+7771,Yawnghwe,1816,1887,Became vassal of,775
 7771,Yawnghwe,1887,1948,Became protectorate of,200
 7771,Yawnghwe,1948,1959,Became part of,775
 7771,Yawnghwe,1959,2020,Became part of,775
-7772,Lawksawk,1816,1887,Unknown,
-7772,Lawksawk,1887,1948,Became protectorate of,200
+7772,Lawksawk,1816,1881,Became vassal of,775
+7772,Lawksawk,1881,1886,Occupied by,7771
+7772,Lawksawk,1886,1948,Became protectorate of,200
 7772,Lawksawk,1948,1959,Became part of,775
 7772,Lawksawk,1959,2020,Became part of,775
-7773,Wanyin,1816,1887,Unknown,
+7773,Wanyin,1816,1887,Became vassal of,775
 7773,Wanyin,1887,1948,Became protectorate of,200
 7773,Wanyin,1948,2020,Became part of,775
-7774,Samka,1816,1887,Unknown,
+7774,Samka,1816,1887,Became vassal of,775
+7774,Samka,1872,1872,Occupied by,7750
 7774,Samka,1887,1948,Became protectorate of,200
 7774,Samka,1948,2020,Became part of,775
 7775,Hsahtung,1816,1887,Became vassal of,775
 7775,Hsahtung,1887,1948,Became protectorate of,200
-7775,Hsahtung,1948,1959,Became part of,775
-7775,Hsahtung,1959,2020,Became part of,775
-7776,Hopong,1816,1887,Unknown,
+7775,Hsahtung,1948,2020,Became part of,775
+7776,Hopong,1816,1887,Became vassal of,775
 7776,Hopong,1887,1948,Became protectorate of,200
 7776,Hopong,1948,2020,Became part of,775
-7777,Namhkok,1816,1887,Unknown,
+7777,Namhkok,1816,1887,Became vassal of,775
 7777,Namhkok,1887,1948,Became protectorate of,200
 7777,Namhkok,1948,2020,Became part of,775
-7778,Mong Pai,1816,1887,Unknown,
+7778,Mong Pai,1816,1887,Became vassal of,775
 7778,Mong Pai,1887,1948,Became protectorate of,200
 7778,Mong Pai,1948,2020,Became part of,775
-7779,Nawng Wawn,1816,1887,Unknown,
+7779,Nawng Wawn,1816,1887,Became vassal of,775
 7779,Nawng Wawn,1887,1948,Became protectorate of,200
 7779,Nawng Wawn,1948,2020,Became part of,775
-7780,Sa-koi,1816,1887,Unknown,
+7780,Sa-koi,1816,1887,Became vassal of,775
 7780,Sa-koi,1887,1948,Became protectorate of,200
 7780,Sa-koi,1948,2020,Became part of,775
 7781,Lai Hka,1816,1888,Became part of,7750
 7781,Lai Hka,1888,1948,Became protectorate of,200
-7781,Lai Hka,1948,1959,Became part of,775
-7781,Lai Hka,1959,2020,Became part of,775
-7782,Mong Kung,1816,1835,Unknown,
-7782,Mong Kung,1835,1835,Became part of,7750
-7783,Mong Nai,1816,1887,Unknown,
+7781,Lai Hka,1948,2020,Became part of,775
+7782,Mong Kung,1835,1887,Became vassal of,7750
+7782,Mong Kung,1887,1948,Became protectorate of,200
+7782,Mong Kung,1948,1959,Became part of,775
+7782,Mong Kung,1959,2020,Became part of,775
+7783,Mong Nai,1816,1887,Became vassal of,775
 7783,Mong Nai,1887,1948,Became protectorate of,200
 7783,Mong Nai,1948,1959,Became part of,775
 7783,Mong Nai,1959,2020,Became part of,775
-7784,Mawkmai,1816,1887,Unknown,
+7784,Mawkmai,1816,1887,Became vassal of,775
 7784,Mawkmai,1887,1948,Became protectorate of,200
 7784,Mawkmai,1948,1959,Became part of,775
 7784,Mawkmai,1959,2020,Became part of,775
@@ -3566,17 +3616,17 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 7785,Mong Pawn,1887,1948,Became protectorate of,200
 7785,Mong Pawn,1948,1959,Became part of,775
 7785,Mong Pawn,1959,2020,Became part of,775
-7786,Mong Sit,1816,1887,Unknown,
+7786,Mong Sit,1816,1887,Became vassal of,775
 7786,Mong Sit,1887,1948,Became protectorate of,200
 7786,Mong Sit,1948,1959,Became part of,775
 7786,Mong Sit,1959,2020,Became part of,775
-7787,Mong Pan,1816,1887,Unknown,
+7787,Mong Pan,1816,1887,Became vassal of,775
 7787,Mong Pan,1887,1948,Became protectorate of,200
 7787,Mong Pan,1948,1959,Became part of,775
 7787,Mong Pan,1959,2020,Became part of,775
 7788,Kenghkam,1816,1870,Became vassal of,775
 7788,Kenghkam,1870,1882,Occupied by,7783
-7788,Kenghkam,1882,1882,Became part of,7783
+7788,Kenghkam,1882,1882,Dissolved into,7783
 7789,Mong Nawng,1816,1851,Became part of,7750
 7789,Mong Nawng,1851,1887,Became vassal of,775
 7789,Mong Nawng,1887,1948,Became protectorate of,200
@@ -3590,7 +3640,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 7791,Keng Lon,1816,1857,Became part of,7750
 7791,Keng Lon,1857,1887,Became vassal of,775
 7791,Keng Lon,1887,1926,Became protectorate of,200
-7791,Keng Lon,1926,1926,Became part of,7790
+7791,Keng Lon,1926,1926,Dissolved into,7790
 7792,Mong Hsu,1816,1887,Became vassal of,775
 7792,Mong Hsu,1887,1948,Became protectorate of,200
 7792,Mong Hsu,1948,1959,Became part of,775
@@ -3640,7 +3690,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 8123,Xiangkhouang,1949,2020,Became part of,812
 8124,Champassak,1817,1826,Became part of,800
 8124,Champassak,1826,1904,Sovereign (unrecognized),
-8124,Champassak,1904,1904,Became part of,812
+8124,Champassak,1904,1904,Dissolved into,812
 8151,Cochin China,1816,1862,Became part of,815
 8151,Cochin China,1862,1887,Became colony of,220
 8151,Cochin China,1887,1949,Became part of,810
@@ -3743,8 +3793,11 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 8272,Penang,1816,1826,Became possession of,200
 8272,Penang,1826,1946,Became part of,827
 8272,Penang,1946,2020,Became part of,820
-8401,Sulu Sultanate,1816,1878,Sovereign (unrecognized),
-8401,Sulu Sultanate,1878,2020,Became part of,840
+8401,Sulu Sultanate,1816,1851,Sovereign (unrecognized),
+8401,Sulu Sultanate,1851,1898,Became protectorate of,230
+8401,Sulu Sultanate,1898,1903,Unknown,
+8401,Sulu Sultanate,1903,1915,Became protectorate of,2
+8401,Sulu Sultanate,1915,2020,Became part of,840
 8402,Bohol,1816,1829,Became discovered,
 8402,Bohol,1829,2020,Became part of,840
 8403,Mindanao,1816,1977,Became part of,840
@@ -3790,14 +3843,18 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 8544,Riau,1818,1844,Occupied by,210
 8544,Riau,1844,1949,Became part of,850
 8544,Riau,1949,2020,Became part of,850
+8545,Tapanuli Selatan (Angkola),1816,1832,Unknown,
 8545,Tapanuli Selatan (Angkola),1832,1949,Became part of,850
 8545,Tapanuli Selatan (Angkola),1949,2020,Became part of,850
+8546,Mandailing,1816,1832,Unknown,
 8546,Mandailing,1832,1949,Became part of,850
 8546,Mandailing,1949,2020,Became part of,850
+8547,Tapanuli,1816,1840,Unknown,
 8547,Tapanuli,1840,1949,Became part of,850
 8547,Tapanuli,1949,2020,Became part of,850
 8548,Lampung,1816,1949,Became part of,850
 8548,Lampung,1949,2020,Became part of,850
+8549,Buni,1816,1859,Unknown,
 8549,Buni,1859,1949,Became part of,850
 8549,Buni,1949,2020,Became part of,850
 8551,Indrapura,1816,1861,Sovereign (unrecognized),
@@ -3853,9 +3910,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 9008,Ashmore and Cartier Is,1931,1978,Became possession of,900
 9008,Ashmore and Cartier Is,1978,2020,Became dependency of,900
 9100,New Guinea,1816,1828,Claimed by,230
-9100,New Guinea,1828,1828,Became part of,851
-9100,New Guinea,1883,1883,Became part of,911
-9100,New Guinea,1884,1884,Became part of,912
+9100,New Guinea,1828,1828,Dissolved into,851
+9100,New Guinea,1883,1883,Dissolved into,911
+9100,New Guinea,1884,1884,Dissolved into,912
 9101,Republic of the Northern Solomons,1975,1976,Sovereign (unrecognized),
 9101,Republic of the Northern Solomons,1976,1976,Became part of,9102
 9102,Bougainville,1816,1885,Became discovered,
@@ -3899,9 +3956,9 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 9401,German Solomon Is.,1816,1885,Became discovered,
 9401,German Solomon Is.,1885,1885,Became protectorate of,255
 9401,German Solomon Is.,1885,1899,Became part of,912
-9401,German Solomon Is.,1899,1899,Became part of,940
+9401,German Solomon Is.,1899,1899,Dissolved into,940
 9401,German Solomon Is.,1899,1914,Became part of,912
-9401,German Solomon Is.,1914,1914,Became part of,9102
+9401,German Solomon Is.,1914,1914,Dissolved into,9102
 9451,Banana I. (Ocean I.),1816,1900,Became discovered,
 9451,Banana I. (Ocean I.),1900,1916,Became possession of,200
 9451,Banana I. (Ocean I.),1916,1942,Became part of,945
@@ -3923,7 +3980,7 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 9454,Teraina (Washington I.),1975,2020,Became part of,946
 9461,Canton and Enderbury Is.,1939,1979,Became possession of,2
 9461,Canton and Enderbury Is.,1939,1979,Became possession of,200
-9461,Canton and Enderbury Is.,1979,1979,Became part of,946
+9461,Canton and Enderbury Is.,1979,1979,Dissolved into,946
 9462,Malden I.,1825,1856,Became discovered,
 9462,Malden I.,1856,1979,Claimed by,2
 9462,Malden I.,1972,1979,Became part of,945
@@ -4019,16 +4076,16 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 9810,Caroline Is.,1914,1919,Occupied by,740
 9810,Caroline Is.,1919,1945,Mandated to,740
 9810,Caroline Is.,1945,1947,Occupied by,2
-9810,Caroline Is.,1947,1947,Became part of,986
-9810,Caroline Is.,1947,1947,Became part of,987
+9810,Caroline Is.,1947,1947,Dissolved into,986
+9810,Caroline Is.,1947,1947,Dissolved into,987
 9820,Mariana Is.,1816,1821,Became part of,1070
 9820,Mariana Is.,1821,1899,Became colony of,230
-9820,Mariana Is.,1899,1899,Became part of,984
-9820,Mariana Is.,1898,1898,Became part of,985
+9820,Mariana Is.,1899,1899,Dissolved into,984
+9820,Mariana Is.,1898,1898,Dissolved into,985
 9900,Samoa,1816,1889,Became discovered,
 9900,Samoa,1889,1900,Became protectorate of,2
-9900,Samoa,1900,1900,Became part of,990
-9900,Samoa,1900,1900,Became part of,991
+9900,Samoa,1900,1900,Dissolved into,990
+9900,Samoa,1900,1900,Dissolved into,991
 9960,Australian Antarctic Territory,1841,1933,Claimed by,200
 9960,Australian Antarctic Territory,1933,1961,Claimed by,900
 9960,Australian Antarctic Territory,1961,2020,Became dependency of,900
@@ -4068,5 +4125,5 @@ COW_code,COW_name,start_year,end_year,link_type,sovereign_COW_code
 9994,Ross Dependency,1923,2020,Became dependency of,920
 9998,Concessions in China,1846,1949,International,
 9999,Inter-Allied Commission of Control,1919,1927,International,
-0,League of Nations,1920,1946,International,
+0,League of Nations,1920,1945,International,
 1,United Nations,1945,2020,International,
