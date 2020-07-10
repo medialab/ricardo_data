@@ -6,30 +6,27 @@ COW_entities = defaultdict(dict)
 COW_types_by_year = defaultdict(Counter)
 
 translate_link_type = {
-    "Dissolved into":  {"slug":"dis","priority":6},
-    "Became vassal of": {"slug":"vas","priority":2},
-    "Became discovered" : {"slug":"disc","priority":0},
-    "Became part of" : {"slug":"part","priority":0},
-    "Became colony of": {"slug":"col","priority":3},
-    "Became possession of": {"slug":"poss","priority":3},
-    "Became dependency of": {"slug":"dep", "priority":3},
-    "Became concession of": {"slug":"cons", "priority":3},
-    "Claimed by": {"slug":"claim","priority":1},
-    "Became protectorate of": {"slug":"prot","priority":3},
-    "Became associated state of": {"slug":"assoc","priority":4},
-    "Occupied by": {"slug":"occ","priority":2},
-    "Leased to": {"slug":"leas","priority":2},
-    "Became neutral or demilitarized zone of": {"slug":"neut","priority":1},
-    "Mandated to": {"slug":"mand","priority":2},
-    "Sovereign": {"slug":"SOV","priority":5},
-    "Unincorporated territory": {"slug":"uninc","priority":0},
-    "Autonomous constituent country of": {"slug":"autonom","priority":0},
-    "Sovereign (unrecognized)": {"slug":"SOV_U","priority":4},
-    "Sovereign (limited)": {"slug":"SOV_L","priority":4},
-    "International":  {"slug":"int","priority":-1},
-    "Informal":  {"slug":"inf","priority":-1},
-    "Protected area of": {"slug":"protected","priority":0},
-    "Unknown": {"slug":"N/A","priority":0},
+    "Dissolved into":  {"slug":"dis" ,"priority":6, "group": "Non sovereign"},
+    "Became vassal of": {"slug":"vas","priority":2, "group": "Non sovereign"},
+    "Became discovered" : {"slug":"disc","priority":0 , "group": "miscellaneous"},
+    "Became part of" : {"slug":"part","priority":0, "group": "Non sovereign"},
+    "Became colony of": {"slug":"col","priority":3, "group": "Non sovereign"},
+    "Became possession of": {"slug":"poss","priority":3, "group": "Non sovereign"},
+    "Became dependency of": {"slug":"dep", "priority":3, "group": "Non sovereign"},
+    "Claimed by": {"slug":"claim","priority":1, "group": "Non sovereign"},
+    "Became protectorate of": {"slug":"prot","priority":3, "group": "Non sovereign"},
+    "Became associated state of": {"slug":"assoc","priority":4, "group": "sovereign (all)"},
+    "Occupied by": {"slug":"occ","priority":2, "group": "Non sovereign"},
+    "Leased to": {"slug":"leas","priority":2, "group": "Non sovereign"},
+    "Became neutral or demilitarized zone of": {"slug":"neut","priority":1, "group": "Non sovereign"},
+    "Mandated to": {"slug":"mand","priority":2, "group": "Non sovereign"},
+    "Sovereign": {"slug":"SOV","priority":5, "group": "sovereign (all)"},
+    "Unincorporated territory": {"slug":"uninc","priority":0, "group": "Non sovereign"},
+    "Sovereign (unrecognized)": {"slug":"SOV_U","priority":4, "group": "sovereign (all)"},
+    "Sovereign (limited)": {"slug":"SOV_L","priority":4, "group": "sovereign (all)"},
+    "International":  {"slug":"int","priority":-1, "group": "Non sovereign"},
+    "Informal":  {"slug":"inf","priority":-1, "group": "Non sovereign"},
+    "Unknown": {"slug":"N/A","priority":0, "group": "miscellaneous"},
 }
 
 periods = [
@@ -45,6 +42,11 @@ periods = [
     },
     {
         "start_year":1950,
+        "end_year":2019,
+        "transitions": Counter()
+    },
+    {
+        "start_year":2020,
         "end_year":2020,
         "transitions": Counter()
     }
@@ -86,11 +88,25 @@ with open('../../../data/Political_entities_in_time.csv', 'r', encoding='utf8') 
                 "sovereign": link['sovereign_COW_code']
                 })
 
+    status_stock_period = []
+    years_stock = [p['start_year'] for p in periods]
+    get_priority_status = lambda status : sorted((o['status'] for o in status), key=lambda o : -1*translate_link_type[o]['priority'])[0]
     for code,entity in COW_entities.items():            
         year_status = sorted(list(entity['years'].items()), key=lambda e :e[0])
+        ssp = {'name': entity['name']}
+        for p in periods:
+            status = '?'
+            for y,s in year_status:
+                # attribute to period
+                if y >= p['start_year'] and y <= p['end_year']:
+                    status = get_priority_status(s)
+                    break
+            ssp[p['start_year']] = status
+        status_stock_period.append(ssp) 
         for p,n in zip(year_status, year_status[1:]):
-            previous_status = sorted((o['status'] for o in p[1]), key=lambda o : -1*translate_link_type[o]['priority'])[0]
-            next_status = sorted((o['status'] for o in n[1]), key=lambda o : -1*translate_link_type[o]['priority'])[0]
+            previous_status = translate_link_type[get_priority_status(p[1])]['group']
+            next_status = translate_link_type[get_priority_status(n[1])]['group']
+            
             if previous_status != next_status:
                 # status changed
                 for p in periods:
@@ -111,6 +127,10 @@ with open('../../../data/Political_entities_in_time.csv', 'r', encoding='utf8') 
                 'period': '%s-%s'%(p['start_year'], p['end_year']),
                 'transition':t,
                 'nb':nb } for t,nb in p['transitions'].items()))
+    with open('./status_stocks_by_periods.csv', 'w', encoding='utf8') as f:
+        status_stock_csv = csv.DictWriter(f, fieldnames=['name']+years_stock)
+        status_stock_csv.writeheader()
+        status_stock_csv.writerows(status_stock_period)
 
     with open('./COW_Entities_in_time.csv', 'w', encoding='utf8') as o:
         fieldnames = ['COW_name', 'COW_id'] + list(range(minYear, maxYear+1))
