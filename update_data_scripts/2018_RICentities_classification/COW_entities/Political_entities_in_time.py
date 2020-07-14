@@ -89,6 +89,7 @@ with open('../../../data/Political_entities_in_time.csv', 'r', encoding='utf8') 
                 })
 
     status_stock_period = []
+    status_stock_period_agg = defaultdict(Counter)
     years_stock = [p['start_year'] for p in periods]
     get_priority_status = lambda status : sorted((o['status'] for o in status), key=lambda o : -1*translate_link_type[o]['priority'])[0]
     for code,entity in COW_entities.items():            
@@ -96,13 +97,26 @@ with open('../../../data/Political_entities_in_time.csv', 'r', encoding='utf8') 
         ssp = {'name': entity['name']}
         for p in periods:
             status = '?'
-            for y,s in year_status:
+
+            for y,s in sorted(year_status, key=lambda e:e[0]):
                 # attribute to period
                 if y >= p['start_year'] and y <= p['end_year']:
                     status = get_priority_status(s)
                     break
             ssp[p['start_year']] = status
         status_stock_period.append(ssp) 
+        for s_p,e_p in zip(periods, periods[1:]):
+            start_status = None
+            end_status = None
+            for y,s in sorted(year_status, key=lambda e:e[0]):
+                # attribute to period
+                if not start_status and y >= s_p['start_year'] and y <= s_p['end_year']:
+                    start_status = get_priority_status(s)
+                if not end_status and y >= e_p['start_year'] and y <= e_p['end_year']:
+                    end_status = get_priority_status(s)
+            if start_status and end_status:
+                status_stock_period_agg["%s %s-%s"%(start_status,s_p['start_year'],s_p['end_year'])]["%s %s-%s"%(end_status,e_p['start_year'],e_p['end_year'])]+=1
+            # if one status is not know the entity disapeared => no link
         for p,n in zip(year_status, year_status[1:]):
             previous_status = translate_link_type[get_priority_status(p[1])]['group']
             next_status = translate_link_type[get_priority_status(n[1])]['group']
@@ -127,10 +141,20 @@ with open('../../../data/Political_entities_in_time.csv', 'r', encoding='utf8') 
                 'period': '%s-%s'%(p['start_year'], p['end_year']),
                 'transition':t,
                 'nb':nb } for t,nb in p['transitions'].items()))
+    
     with open('./status_stocks_by_periods.csv', 'w', encoding='utf8') as f:
         status_stock_csv = csv.DictWriter(f, fieldnames=['name']+years_stock)
         status_stock_csv.writeheader()
         status_stock_csv.writerows(status_stock_period)
+    
+    with open('./status_transitions_links_periods.csv', 'w', encoding='utf8') as f:
+        transitions_csv = csv.DictWriter(f, fieldnames=['source', 'target', 'nb'])
+        transitions_csv.writeheader()
+        for source,targets in status_stock_period_agg.items():
+            transitions_csv.writerows(({
+                'source': source,
+                'target':target,
+                'nb':nb } for target,nb in targets.items()))
 
     with open('./COW_Entities_in_time.csv', 'w', encoding='utf8') as o:
         fieldnames = ['COW_name', 'COW_id'] + list(range(minYear, maxYear+1))
