@@ -1,4 +1,0 @@
-# datapackage fork with update under review upstream
--e git+git@github.com:paulgirard/datapackage-py.git@from_future#egg=datapackage
-unidecode 
-csvkit

@@ -121,7 +121,7 @@ def export_sources_csv(cursor,output_filename):
   WHERE s.slug in (SELECT distinct source from flow_joined) OR 
         s.slug in (SELECT distinct source from exchange_rates)"""
   rows = cursor.execute(sql)
-  first = next(rows)
+  first = rows.next()
   with open(output_filename,'w') as f:
     dw = csvkit.writer(f)
     dw.writerow(["bibliographic reference"] + first.keys())
@@ -172,7 +172,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
   for (reporting, year, ft, nb_flows) in cursor.execute(select_reportings):
     if reporting not in RICentities:
-      print('undocumented RIC %s'%reporting)
+      print 'undocumented RIC %s'%reporting
       RICentities[reporting]={'RICname':reporting, 'nb_flows_as_reporting': nb_flows, 'nb_flows_as_partner': 0}
     # y'a un probleme avec nb_flows_as_reporting
     RICentities[reporting][str(year)] = "ft_reporting" if ft else "reporting"
@@ -192,7 +192,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
   for (partner, year, ft, nb_flows) in cursor.execute(select_partners):
     if partner not in RICentities:
-      print('undocumented RIC %s'%partner)
+      print 'undocumented RIC %s'%partner
       RICentities[partner]={'RICname': partner, 'nb_flows_as_reporting': 0, 'nb_flows_as_partner': nb_flows}
     if str(year) not in RICentities[partner]:
       RICentities[partner][str(year)] = "ft_partner_only" if ft else "partner_only"
@@ -201,7 +201,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
 
   cursor.execute('SELECT min(year) as min_year, max(year) as max_year from %s'%table)
-  (min_year, max_year) = next(cursor)
+  (min_year, max_year) = cursor.next()
   years = [str(y) for y in range(min_year, max_year+1)]
   
   nb_entities_in_ft_and_ricardo = dict((y,0) for y in years)

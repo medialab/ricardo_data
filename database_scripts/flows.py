@@ -9,7 +9,7 @@ from flows_deduplication_pipeline import deduplicate_flows
 
 
 
-DATAPACKAGE_ROOT_DIR = "../.."
+DATAPACKAGE_ROOT_DIR = "../"
 
 # aggregate flows from datapckage
 def aggregate_flows_from_datapackage():

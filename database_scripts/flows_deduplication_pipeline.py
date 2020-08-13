@@ -8,13 +8,15 @@ import itertools
 import utils
 import re
 import custom_exports
+import shutil
 
 
 def deduplicate_flows():
 
     try :
-        conf=json.load(open("config.json","r"))
-        database_filename=os.path.join('../../sqlite_data',conf["sqlite_viz"])
+        with(open("config.json","r") as f_conf):
+            conf=json.load(f_conf)
+            database_filename=os.path.join('../sqlite_data',conf["sqlite_viz"])
     except :
         print("couldn't load config.json database")
         exit(1)
@@ -27,7 +29,7 @@ def deduplicate_flows():
         exit(1)
 
     print("building sqlite database from CSV" )
-    utils.csv2sqlite("../../data/*.csv",database_filename,os.path.join('..',conf["sqlite_schema"]))
+    utils.csv2sqlite("../data/*.csv",database_filename,conf["sqlite_schema"])
 
 
     conn=sqlite3.connect(database_filename)
@@ -565,4 +567,7 @@ def deduplicate_flows():
     print('RICentities.csv (...)')
     custom_exports.export_RICentities_csv(c,conf['RICentities_export_filename'])
     print('done')
+    print('flows_deduplicated.csv (...)')
+    utils.sqlitetables2csv(database_filename,['flow_joined'])
+    shutil.move(os.path.join('out_data', 'csv_data','flow_joined.csv'), os.path.join('out_data', 'csv_data','flows_deduplicated.csv'))
 
