@@ -1,4 +1,4 @@
-RICname,type,continent,COW_code,slug,part_of_country,wikidata,lat,lng
+RICname,type,continent,GPH_code,slug,part_of_country,wikidata,lat,lng
 Perak,country,Asia,8201,Perak,,Q188953,4.75,101
 Afghanistan & Baluchistan (Kalat),group,Asia,,Afghanistan_BaluchistanKalat,,,31.0,66.0
 St. Kitts-Nevis,country,America,60,St.Kitts-Nevis,,Q763,17.33,-62.666667
