@@ -14,7 +14,7 @@ import shutil
 def deduplicate_flows():
 
     try :
-        with(open("config.json","r") as f_conf):
+        with open("config.json", "r") as f_conf:
             conf=json.load(f_conf)
             database_filename=os.path.join('../sqlite_data',conf["sqlite_viz"])
     except :
@@ -94,9 +94,11 @@ def deduplicate_flows():
             r2.type as reporting_type,
             r2.continent as reporting_continent,
             r2.part_of_country as reporting_part_of_country,
+            r2.GPH_code as reporting_GPH_code,
             p2.type as partner_type,
             p2.continent as partner_continent,
             p2.part_of_country as partner_part_of_country,
+            p2.GPH_code as partner_GPH_code,
             transport_type,
             f.notes,
             species_bullions,
