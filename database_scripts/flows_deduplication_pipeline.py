@@ -424,7 +424,7 @@ def deduplicate_flows():
     print("World sum partners added to RICentities")
 
     c.execute("""INSERT INTO flow_joined (flow, unit, reporting, reporting_slug, year, 
-        expimp, currency, partner, partner_slug, rate, source, source_label, type, reporting_type, reporting_continent)
+        expimp, currency, partner, partner_slug, rate, source, source_label, type, reporting_type, reporting_continent, reporting_GPH_code)
                 SELECT sum(flow*unit) as flow,
                     1 as unit,
                     reporting,
@@ -439,7 +439,8 @@ def deduplicate_flows():
                     source_label,
                     type,
                     reporting_type, 
-                    reporting_continent
+                    reporting_continent,
+                    reporting_GPH_code
                     from flow_joined
                 WHERE partner not like 'world%'
                 group by reporting, expimp, year """)
@@ -457,7 +458,7 @@ def deduplicate_flows():
     print("-------------------------------------------------------------------------")
 
     c.execute("""SELECT year, expimp, partner, reporting, partner_slug, reporting_slug, 
-        flow, unit, currency, rate, source, source_label, type, reporting_type, reporting_continent
+        flow, unit, currency, rate, source, source_label, type, reporting_type, reporting_continent, reporting_GPH_code
         from flow_joined
         WHERE partner LIKE "world%"  """)
     data=list(c)
@@ -480,8 +481,8 @@ def deduplicate_flows():
             world_best_guess[4]=u"Worldbestguess"
             c.execute("""INSERT INTO flow_joined (year, expimp, partner, reporting, 
                 partner_slug, reporting_slug, flow, unit, currency, rate, source, source_label, type,
-                reporting_type, reporting_continent)
-            VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", world_best_guess)
+                reporting_type, reporting_continent, reporting_GPH_code)
+            VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""", world_best_guess)
             world_best_guess_added += 1
 
     print("World best guess added to flow_joined", world_best_guess_added)
