@@ -8,7 +8,7 @@ usage()
 
 config()
 {
-	echo `cat config.json | python -c "import sys,json; print json.load(sys.stdin)['$1']"`
+	echo `cat config.json | python -c "import sys,json; print(json.load(sys.stdin)['$1'])"`
 }
 
 ##### Main
