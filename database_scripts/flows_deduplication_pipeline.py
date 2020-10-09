@@ -572,5 +572,5 @@ def deduplicate_flows():
     print('done')
     print('flows_deduplicated.csv (...)')
     utils.sqlitetables2csv(database_filename,['flow_joined'])
-    shutil.move(os.path.join('out_data', 'csv_data','flow_joined.csv'), os.path.join('out_data', 'csv_data','flows_deduplicated.csv'))
+    shutil.move(os.path.join('out_data', 'csv_data','flow_joined.csv'), os.path.join('out_data', 'csv_data','RICardo_trade_flows_deduplicated.csv'))
 
