@@ -30,7 +30,7 @@ def source_label(source, with_pages=True):
 
 
 
-def sqlitedatabase2csv(sqlitefilename,output_dir=os.path.join("out_data","csv_data")):
+def sqlitedatabase2csv(sqlitefilename,output_dir="out_data"):
     conn=sqlite3.connect(sqlitefilename)
     c=conn.cursor()
     c.execute("""select name from sqlite_master where type='table' """)
@@ -38,7 +38,7 @@ def sqlitedatabase2csv(sqlitefilename,output_dir=os.path.join("out_data","csv_da
     return sqlitetables2csv(sqlitefilename,tablenames,output_dir)
 
 
-def sqlitetables2csv(sqlitefilename,tablenames,output_dir=os.path.join("out_data","csv_data")):
+def sqlitetables2csv(sqlitefilename,tablenames,output_dir="out_data"):
     if not os.path.exists(output_dir):
         os.mkdir(output_dir)
     for table in tablenames:
