@@ -49,7 +49,7 @@ $ python flows.py aggregate
 ```
 $ python flows.py deduplicate
 ```
-This script outputs a sqlite database and a flows_deduplicated.csv
+This script outputs a sqlite database and RICardo_trade_flows_deduplicated.csv. Those deduplicated data are the one used into our data exploration website.
 
 # Repository structure
 
