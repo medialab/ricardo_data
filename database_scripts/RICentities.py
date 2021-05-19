@@ -1,10 +1,15 @@
 import csv
 import time
 import os
+from typing import no_type_check_decorator
 import requests
-
+import re
 
 GEOPOLHIST_FOLDER = "../../GeoPolHist"
+
+
+def ricslug(RICname): return re.sub("[ ()/.,\-']",
+                                    "", re.sub("&", "_", RICname))
 
 
 def geolocalize_RICentities(datadir='../../data', group=False, replace=True):
@@ -93,7 +98,8 @@ def align_GPH_RIC_entities(apply=False):
 
     # test RICentities Political_entities_in_time crossings
     with open('../data/RICentities.csv', 'r', encoding='utf8') as o:
-        RICentities = csv.DictReader(o)
+        RICentities = list(csv.DictReader(o))
+
         RICname_to_change = []
         missing_RICentities_in_GPH = []
         RIC_by_gph_code = dict([(r['GPH_code'], dict(r))
@@ -113,18 +119,35 @@ def align_GPH_RIC_entities(apply=False):
             f"GPH not in RIC: {len(GPH_by_gph_code.keys() - RIC_by_gph_code.keys())}")
 
         if len(RICname_to_change) > 0:
+            RICname_modifications = {c['RICname']: c['GPH_name']
+                                     for c in RICname_to_change}
+            # modify groups
+            existing_RICnames_groups = set(
+                [r['RICname'] for r in RICentities if r["type"] == 'group'])
+            for group in existing_RICnames_groups:
+                new_group = " & ".join(
+                    sorted([RICname_modifications[part] if part in RICname_modifications else part for part in group.split(' & ')]))
+                if group != new_group:
+                    RICname_modifications[group] = new_group
+            # merge case management
+            existing_RICnames = set([r['RICname'] for r in RICentities])
+            for r in set(RICname_modifications.values()).intersection(existing_RICnames):
+                # to avoid duplicated RICentities we remove new_ricnames which already exists
+                # it's a merge so on top of changing one we remove one.
+                RICname_modifications[r] = None
+
             with open('RICname_to_modify_from_GPH.csv', 'w', encoding='utf8') as f:
                 output = csv.DictWriter(
-                    f, fieldnames=RICname_to_change[0].keys())
+                    f, fieldnames=["old_RICname", "new_RICname", "to_delete"])
                 output.writeheader()
-                output.writerows(RICname_to_change)
+                output.writerows(({"old_RICname": old_RICname, "new_RICname": new_RICname, "to_delete": new_RICname is None}
+                                  for old_RICname, new_RICname in RICname_modifications.items()))
             if apply:
-                change_RICnames({c['RICname']: c['GPH_name']
-                                 for c in RICname_to_change})
+                change_RICnames(RICname_modifications)
 
 
 def change_RICnames(RICname_modifications):
-    def _update_RICdatafile(filename, RICname_field):
+    def _update_RICdatafile(filename, RICname_field, remove_dups=False, update_slugs=False):
         modifications = 0
         new_lines = []
         fields = []
@@ -134,26 +157,76 @@ def change_RICnames(RICname_modifications):
             modifications = 0
             for line in lines:
                 new_line = dict(line)
+                keep_line = True
                 if line[RICname_field] in RICname_modifications:
-                    new_line[RICname_field] = RICname_modifications[line[RICname_field]]
+                    if RICname_modifications[line[RICname_field]] is not None:
+                        new_line[RICname_field] = RICname_modifications[line[RICname_field]]
+                        if update_slugs and "slug" in line:
+                            new_line["slug"] = ricslug(
+                                RICname_modifications[line[RICname_field]])
+                    else:
+                        if remove_dups:
+                            # it's a merge case => don't keep this line
+                            keep_line = False
                     modifications += 1
-                new_lines.append(new_line)
+                if keep_line:
+                    new_lines.append(new_line)
         with open(filename, "w", encoding="utf8") as f:
             lines = csv.DictWriter(f, fields)
+            lines.writeheader()
             lines.writerows(new_lines)
         return modifications
 
     # RICentities
-    modified = _update_RICdatafile("../data/RICentities.csv", "RICname")
+
+    modified = _update_RICdatafile(
+        "../data/RICentities.csv", "RICname", True, True)
     print(f"{modified} lines modified in RICentities.csv")
     # entity name
     modified = _update_RICdatafile("../data/entity_names.csv", "RICname")
     print(f"{modified} lines modified in entity_names.csv")
     # RICgroups
     modified = _update_RICdatafile(
+        "../data/RICentities_groups.csv", "RICname_group")
+    print(f"{modified} lines modified in RICname_group RICentities_groups.csv")
+    modified = _update_RICdatafile(
         "../data/RICentities_groups.csv", "RICname_part")
-    print(f"{modified} lines modified in RICentities_groups.csv")
+    print(f"{modified} lines modified in RIcname_part RICentities_groups.csv")
 
+
+def sanitize_RICentities_groups():
+    # check RIcentities group coherence
+    with open('../data/RICentities.csv', 'r', encoding='utf8') as r:
+        RICentities = list(csv.DictReader(r))
+        RICnames = [r['RICname'] for r in RICentities]
+        groups_in_RICentities = {
+            l['RICname']: l for l in RICentities if l['type'] == 'group'}
+        with open("../data/RICentities_groups.csv", "r", encoding='utf8') as g:
+            RICentities_groups = list(csv.DictReader(g))
+            missing_groups = set(groups_in_RICentities.keys(
+            )) - set((g['RICname_group'] for g in RICentities_groups))
+            print(f"{len(missing_groups)}/{len(groups_in_RICentities.keys())}")
+            missing_parts = set()
+            for g in missing_groups:
+                for part in g.split(" & "):
+                    if part not in RICnames:
+                        missing_parts.add(part)
+            if len(missing_parts) > 0:
+                print(
+                    f"missing {len(missing_parts)} parts in groups. Stopping.")
+                exit(1)
+
+        # reset RICentities_groups
+        with open("../data/RICentities_groups.csv", "w", encoding='utf8') as g:
+            groups = csv.DictWriter(
+                g, ["id", "RICname_group", "RICname_part"])
+            id = 0
+            groups.writeheader()
+            for group in groups_in_RICentities.keys():
+                for part in group.split(' & '):
+                    id += 1
+                    groups.writerow({"id": id, "RICname_group": group,
+                                     "RICname_part": part})
 
 # it's actually harder than I thought to identify deprecated RICentities, I comment that out as it may discard usefull entities
 # def filter_unused_RICentities(datadir = '../../data'):
@@ -170,6 +243,10 @@ def change_RICnames(RICname_modifications):
 #         new_entities.writeheader()
 #         new_entities.writerows(entities_filtered)
 #         print("wrote %s entities in RICentities.csv"%len(entities_filtered))
-# TODO : argparse
-align_GPH_RIC_entities()
-#geolocalize_RICentities(datadir='../../data/', group=True, replace=False)
+#
+
+
+#  TODO : argparse
+# align_GPH_RIC_entities(True)
+# sanitize_RICentities_groups()
+# geolocalize_RICentities(datadir='../../data/', group=True, replace=False)
