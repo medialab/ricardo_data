@@ -88,7 +88,7 @@ def load_GeoPolHist():
         exit(1)
 
 
-def align_GPH_RIC_entities():
+def align_GPH_RIC_entities(apply=False):
     GPH_entities = load_GeoPolHist()
 
     # test RICentities Political_entities_in_time crossings
@@ -118,6 +118,41 @@ def align_GPH_RIC_entities():
                     f, fieldnames=RICname_to_change[0].keys())
                 output.writeheader()
                 output.writerows(RICname_to_change)
+            if apply:
+                change_RICnames({c['RICname']: c['GPH_name']
+                                 for c in RICname_to_change})
+
+
+def change_RICnames(RICname_modifications):
+    def _update_RICdatafile(filename, RICname_field):
+        modifications = 0
+        new_lines = []
+        fields = []
+        with open(filename, "r", encoding="utf8") as f:
+            lines = csv.DictReader(f)
+            fields = list(lines.fieldnames)
+            modifications = 0
+            for line in lines:
+                new_line = dict(line)
+                if line[RICname_field] in RICname_modifications:
+                    new_line[RICname_field] = RICname_modifications[line[RICname_field]]
+                    modifications += 1
+                new_lines.append(new_line)
+        with open(filename, "w", encoding="utf8") as f:
+            lines = csv.DictWriter(f, fields)
+            lines.writerows(new_lines)
+        return modifications
+
+    # RICentities
+    modified = _update_RICdatafile("../data/RICentities.csv", "RICname")
+    print(f"{modified} lines modified in RICentities.csv")
+    # entity name
+    modified = _update_RICdatafile("../data/entity_names.csv", "RICname")
+    print(f"{modified} lines modified in entity_names.csv")
+    # RICgroups
+    modified = _update_RICdatafile(
+        "../data/RICentities_groups.csv", "RICname_part")
+    print(f"{modified} lines modified in RICentities_groups.csv")
 
 
 # it's actually harder than I thought to identify deprecated RICentities, I comment that out as it may discard usefull entities
