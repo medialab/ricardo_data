@@ -321,7 +321,7 @@ Lisbon,city/part_of,Europe,,Lisbon,Portugal,,,
 Davis Strait & Greenland,group,America,,DavisStrait_Greenland,,,72.0,-40.0
 Halifax,city/part_of,America,,Halifax,United States of America,,,
 Mumbai (Bombay) & other Ports,group,Asia,,,,,,
-Serbia,country,Europe,345S,Serbia,,Q403,43.95,20.9333333333
+Serbia,country,Europe,342,Serbia,,Q403,43.95,20.9333333333
 Cape Colony & East Indies & Mauritius,group,World,,CapeColony_EastIndies_Mauritius,,,-26.6,37.75
 German Colonies,colonial_area,World,,GermanColonies,Germany,,,
 Isle of Man,city/part_of,Europe,,,United Kingdom,,,
@@ -633,7 +633,7 @@ Crozet Is.,country,Oceania,9974,CrozetIs.,,Q201698,-46.388979,51.7053
 Naples,city/part_of,Europe,,Naples,Two Sicilies,,,
 Pacific Islands & Vanuatu (New Hebrides),geographical_area,Oceania,,PacificIslands_VanuatuNewHebrides,,,,
 Australia & Oceania,group,Oceania,,Australia_Oceania,,,-28.0,137.0
-Kingdom of Sardinia,country,Europe,325S,KingdomofSardinia,,Q165154,40.072,8.98
+Kingdom of Sardinia,country,Europe,324,KingdomofSardinia,,Q165154,40.072,8.98
 Mazatlán,city/part_of,America,,Mazatlán,Mexico,,,
 Russian Turkestan,city/part_of,Europe,,,Russia/USSR,,,
 Italy (other),city/part_of,Europe,,Italyother,Italy,,,
@@ -730,7 +730,7 @@ British Mediterranean,colonial_area,Mediterranean,,BritishMediterranean,United K
 Rhode Is.,city/part_of,America,,,United States of America,,,
 Europe (other),geographical_area,Europe,,Europeother,,,,
 Portuguese Oceania,colonial_area,Oceania,,PortugueseOceania,Portugal,,,
-Montenegro,country,Europe,348,Montenegro,,Q236,42.766667,19.216667
+Montenegro,country,Europe,341,Montenegro,,Q236,42.766667,19.216667
 Japan & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_RepublicofChinaTaiwanFormosa,,,29.500000000000004,128.5
 New South Wales & Western Australia,group,Oceania,,NewSouthWales_WesternAustralia,,,-29.000000000000004,134.0
 Lucca,country,Europe,336,Lucca,,Q13373,43.85,10.5166666667
@@ -886,7 +886,7 @@ Illyria,city/part_of,Europe,,,Austria-Hungary,,,
 Jakarta (Batavia),city/part_of,Asia,,JakartaBatavia,Indonesia (Dutch East Indies),,,
 Baluchistan (Kalat),country,Asia,7588,,,Q2336399,28,66
 Spanish East Africa,colonial_area,Africa,,SpanishEastAfrica,Spain,,,
-Germany (Zollverein),country,Europe,255Z,GermanyZollverein,,Q155707,50.932,11.265
+Germany (Zollverein),country,Europe,255,GermanyZollverein,,Q155707,50.932,11.265
 Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,,,29.500000000000004,128.5
 Central America & Southern America,geographical_area,America,,CentralAmerica_SouthernAmerica,,,,
 Tangier,country,Africa,601,,,Q126148,35.7847222222,-5.8125
@@ -1030,7 +1030,7 @@ United Arab Emirates (Trucial Oman),country,Asia,696,,,Q1852345,23.7833333333,54
 Russia and Siberia (land),city/part_of,Europe,,,Russia/USSR,,,
 Lucca & Monaco & Papal States,group,Europe,,Lucca_Monaco_PapalStates,,,43.16244444443333,10.1287777778
 Loyalty Is.,city/part_of,Oceania,,,New Caledonia and Dependencies,,,
-Prussia,country,Europe,255P,Prussia,,Q38872,52.5173,13.3889
+Prussia,country,Europe,239,Prussia,,Q38872,52.5173,13.3889
 Guadeloupe & Martinique,group,America,,Guadeloupe_Martinique,,,15.45833333335,-61.29166666665
 Dardanelles-Istanbul & Turkish Ports,group,Asia,,,,,41.01,28.9602777778
 Djibouti (Afar and Issas) (French Somaliland),country,Africa,522,DjiboutiAfarandIssasFrenchSomaliland,,Q977,11.8,42.433333
@@ -1286,7 +1286,7 @@ India (other),city/part_of,Asia,,Indiaother,India,,,
 Java & Neighbouring Islands,group,Asia,,Java_NeighbouringIslands,,,,
 Albania & Montenegro & Yugoslavia/Serbia,group,Europe,,,,,42.86240751853333,19.892963074066667
 Ceuta,country,Africa,6062,Ceuta,,Q5823,35.886667,-5.3
-Hanse Towns,country,Europe,255H,,,Q42908,53.869,10.223
+Hanse Towns,country,Europe,,,,Q42908,53.869,10.223
 Azores (Western Isles) & Madeira Isles,group,World,,AzoresWesternIsles_MadeiraIsles,,,35.625,-22.5
 St. Croix,city/part_of,America,,St.Croix,Virgin Islands (Danish West Indies),,,
 Aden,country,Asia,681,Aden,,Q131694,12.8,45.0333333333
