@@ -9,15 +9,17 @@ import utils
 import re
 import custom_exports
 import shutil
+from RICentities import ricslug
 
 
 def deduplicate_flows():
 
-    try :
+    try:
         with open("config.json", "r") as f_conf:
-            conf=json.load(f_conf)
-            database_filename=os.path.join('../sqlite_data',conf["sqlite_viz"])
-    except :
+            conf = json.load(f_conf)
+            database_filename = os.path.join(
+                '../sqlite_data', conf["sqlite_viz"])
+    except:
         print("couldn't load config.json database")
         exit(1)
 
@@ -28,38 +30,35 @@ def deduplicate_flows():
         print("couldn't delete target sqlite database file")
         exit(1)
 
-    print("building sqlite database from CSV" )
-    utils.csv2sqlite("../data/*.csv",database_filename,conf["sqlite_schema"])
+    print("building sqlite database from CSV")
+    utils.csv2sqlite("../data/*.csv", database_filename, conf["sqlite_schema"])
 
-
-    conn=sqlite3.connect(database_filename)
-    c=conn.cursor()
-
+    conn = sqlite3.connect(database_filename)
+    c = conn.cursor()
 
     ################################################################################
-    ##			UPDATE OR CREATE RICentities slug
+    # UPDATE OR CREATE RICentities slug
     ################################################################################
-    ricslug=lambda _: re.sub("[ ()/]","",re.sub("&","_",_))
     ricnames = c.execute("""SELECT RICname FROM RICentities""")
-    newricslugs = [(ricslug(ricname[0]),ricname[0])for ricname in ricnames]
-    c.executemany("""UPDATE RICentities SET slug = ? WHERE RICname = ? """,newricslugs)
-
+    newricslugs = [(ricslug(ricname[0]), ricname[0])for ricname in ricnames]
+    c.executemany(
+        """UPDATE RICentities SET slug = ? WHERE RICname = ? """, newricslugs)
 
     ################################################################################
-    ##			Update every table with uniformed attributes
+    # Update every table with uniformed attributes
     # ################################################################################
     # c.execute("""UPDATE flows SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
     # c.execute("""UPDATE sources SET slug = UPPER(SUBSTR(slug, 1, 1)) || SUBSTR(slug, 2) """)
     # c.execute("""UPDATE exchange_rates SET source= UPPER(SUBSTR(source, 1, 1)) || SUBSTR(source, 2) """)
 
     ################################################################################
-    ##			Remove dup in entities_name table
+    # Remove dup in entities_name table
     ################################################################################
     # c.execute("""delete from entity_names
     # 	   		 where original_name in ("Dutch new Guinea","Ionian islands","United states");
     # 			""")
     ################################################################################
-    ##			Create table flow_joined
+    # Create table flow_joined
     ################################################################################
 
     print("Create table flow_joined")
@@ -166,20 +165,21 @@ def deduplicate_flows():
         WHERE transport_type is not null
         GROUP BY year, expimp, reporting, partner HAVING count(*)>1
         """)
-    sub_c=conn.cursor()
-    rows_grouped=0
-    for n,flows,ids,land_seas in c :
-        if n==2:
-            land_sea=", ".join(set(land_seas.split("|")))
-            if len(set(land_seas.split("|")))>1:
+    sub_c = conn.cursor()
+    rows_grouped = 0
+    for n, flows, ids, land_seas in c:
+        if n == 2:
+            land_sea = ", ".join(set(land_seas.split("|")))
+            if len(set(land_seas.split("|"))) > 1:
                 # if notes :
                 # 	notes=", ".join(set(notes.split("|")))
                 sub_c.execute("""UPDATE `flow_joined` SET flow=%.1f,transport_type="%s"
-                    WHERE ID=%s"""%(sum(float(_) for _ in flows.split("|")),land_sea,ids.split("|")[0]))
-                sub_c.execute("""DELETE FROM `flow_joined` WHERE ID=%s"""%ids.split("|")[1])
-                rows_grouped+=2
-    if rows_grouped>0:
-        print("removing %s land/seas duplicates by suming them"%rows_grouped)
+                    WHERE ID=%s""" % (sum(float(_) for _ in flows.split("|")), land_sea, ids.split("|")[0]))
+                sub_c.execute(
+                    """DELETE FROM `flow_joined` WHERE ID=%s""" % ids.split("|")[1])
+                rows_grouped += 2
+    if rows_grouped > 0:
+        print("removing %s land/seas duplicates by suming them" % rows_grouped)
     sub_c.close()
     print("merge duplicates from land and sea done")
     print("-------------------------------------------------------------------------")
@@ -196,21 +196,23 @@ def deduplicate_flows():
             GROUP BY year,expimp,reporting,partner HAVING count(*)>1
         """)
 
-    ids_to_remove=[]
-    for n,notes,ids,sources in c :
-        if n==2 and notes:
-            i=notes.split("|").index("Valeur officielle")
-            id=ids.split("|")[i]
-            #print(sources.split("|")[i].encode("UTF8"))
+    ids_to_remove = []
+    for n, notes, ids, sources in c:
+        if n == 2 and notes:
+            i = notes.split("|").index("Valeur officielle")
+            id = ids.split("|")[i]
+            # print(sources.split("|")[i].encode("UTF8"))
             if sources.split("|")[i] == u"""TableauDécennalDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_18471856_Vol1""":
                 ids_to_remove.append(id)
             else:
                 raise Exception("missing source Tableau décennal")
         # else:
         # 	raise Exception("exception --->  ", n)
-    if len(ids_to_remove)>0:
-        print("removing %s 'Valeur officielle' noted duplicates for France between 1847 1856"%len(ids_to_remove))
-        c.execute("DELETE FROM flow_joined WHERE id IN (%s)"%",".join(ids_to_remove))
+    if len(ids_to_remove) > 0:
+        print("removing %s 'Valeur officielle' noted duplicates for France between 1847 1856" % len(
+            ids_to_remove))
+        c.execute("DELETE FROM flow_joined WHERE id IN (%s)" %
+                  ",".join(ids_to_remove))
 
     print("remove 'valeurs officielles' when duplicates with 'Valeurs actuelles' done")
     print("-------------------------------------------------------------------------")
@@ -224,21 +226,22 @@ def deduplicate_flows():
         FROM `flow_joined`
         GROUP BY year,expimp,reporting,partner HAVING count(*)>1)
         WHERE sb="S|NS"
-        """)#
-    ids_to_remove=[]
-    rps=[]
-    for n,sb,ids,r,p in c :
-        if n==2 :
-            i=sb.split("|").index("S")
-            id=ids.split("|")[i]
+        """)
+    ids_to_remove = []
+    rps = []
+    for n, sb, ids, r, p in c:
+        if n == 2:
+            i = sb.split("|").index("S")
+            id = ids.split("|")[i]
             ids_to_remove.append(id)
-            rps.append('"%s"'%"|".join((r,p)))
-    rps=set(rps)
+            rps.append('"%s"' % "|".join((r, p)))
+    rps = set(rps)
 
-    if len(ids_to_remove)>0:
+    if len(ids_to_remove) > 0:
         print("""removing %s flows S duplicated with NS for reporting|partner 
-        couples %s"""%(len(ids_to_remove),",".join(rps)))
-        c.execute("DELETE FROM flow_joined WHERE id IN (%s)"%(",".join(ids_to_remove)))
+        couples %s""" % (len(ids_to_remove), ",".join(rps)))
+        c.execute("DELETE FROM flow_joined WHERE id IN (%s)" %
+                  (",".join(ids_to_remove)))
 
     print("remove duplicates from double source primary and secondary")
     print("-------------------------------------------------------------------------")
@@ -249,10 +252,9 @@ def deduplicate_flows():
     # Y a t'il pour une même année deux sources primaires et secondaires pour un même reporting
     # Si oui il faut supprimer les flux de la source secondaire pour ce reporting pour cette année
 
-
     print("Filtering duplicated sources which describes same reportings on same years...")
     # the first query gets all sources duplications by reporting and year
-    # but duplications on total (World%) trade 
+    # but duplications on total (World%) trade
 
     c.execute("""
     SELECT reporting, year, group_concat(DISTINCT type)
@@ -262,45 +264,55 @@ def deduplicate_flows():
     HAVING count(DISTINCT source) >1 and count(DISTINCT type) > 1
     """)
 
-    sub_c=conn.cursor()
-    primarysecondaryestimation_duplicates={}
+    sub_c = conn.cursor()
+    primarysecondaryestimation_duplicates = {}
     for reporting, year, gtypes in c:
         types = sorted(gtypes.split(','))
         removed = False
         # when a secondary source cooccurres with a primary
         if "secondary" in types and "primary" in types:
             # remove the secondary
-            sub_c.execute("""DELETE FROM flow_joined WHERE type='secondary' AND reporting=? AND year=?""",(reporting, year))
+            sub_c.execute(
+                """DELETE FROM flow_joined WHERE type='secondary' AND reporting=? AND year=?""", (reporting, year))
             removed = True
             if reporting in primarysecondaryestimation_duplicates:
-                primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'secondary'))
+                primarysecondaryestimation_duplicates[reporting].append(
+                    (year, sub_c.rowcount, 'secondary'))
             else:
-                primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'secondary')]
+                primarysecondaryestimation_duplicates[reporting] = [
+                    (year, sub_c.rowcount, 'secondary')]
         # when an estimation source cooccurres with a primary
         if "estimation" in types and ("secondary" in types or "primary" in types):
             # remove the estimation
-            sub_c.execute("""DELETE FROM flow_joined WHERE type='estimation' AND partner!='World estimated' AND reporting=? AND year=?""",(reporting, year))
+            sub_c.execute(
+                """DELETE FROM flow_joined WHERE type='estimation' AND partner!='World estimated' AND reporting=? AND year=?""", (reporting, year))
             removed = True
             if reporting in primarysecondaryestimation_duplicates:
-                primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'estimation'))
+                primarysecondaryestimation_duplicates[reporting].append(
+                    (year, sub_c.rowcount, 'estimation'))
             else:
-                primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'estimation')]
+                primarysecondaryestimation_duplicates[reporting] = [
+                    (year, sub_c.rowcount, 'estimation')]
         if not removed:
-            print("/!\ duplicates on more types %s %s %s"%(types, reporting, year))
+            print("/!\ duplicates on more types %s %s %s" %
+                  (types, reporting, year))
     # logging what was done
-    for reporting,years in primarysecondaryestimation_duplicates.items():
-            nb_flows_secondary = sum(n for (y,n,t) in years if t=='secondary')
-            years_secondary = (y for (y,n,t) in years if t=='secondary')
-            years_secondary = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_secondary))
-            if nb_flows_secondary > 0 :
-                print("%s: %s secondary flows %s"%(reporting, nb_flows_secondary, years_secondary))
-            nb_flows_estimation = sum(n for (y,n,t) in years if t=='estimation')
-            years_estimation = (y for (y,n,t) in years if t=='estimation')
-            years_estimation = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_estimation))
-            if nb_flows_estimation > 0 :
-                print("%s: %s estimation flows %s"%(reporting,nb_flows_estimation,years_estimation))
-
-
+    for reporting, years in primarysecondaryestimation_duplicates.items():
+        nb_flows_secondary = sum(n for (y, n, t) in years if t == 'secondary')
+        years_secondary = (y for (y, n, t) in years if t == 'secondary')
+        years_secondary = ','.join('-'.join(str(e) for e in p)
+                                   for p in custom_exports.reduce_years_list_into_periods(years_secondary))
+        if nb_flows_secondary > 0:
+            print("%s: %s secondary flows %s" %
+                  (reporting, nb_flows_secondary, years_secondary))
+        nb_flows_estimation = sum(
+            n for (y, n, t) in years if t == 'estimation')
+        years_estimation = (y for (y, n, t) in years if t == 'estimation')
+        years_estimation = ','.join('-'.join(str(e) for e in p)
+                                    for p in custom_exports.reduce_years_list_into_periods(years_estimation))
+        if nb_flows_estimation > 0:
+            print("%s: %s estimation flows %s" %
+                  (reporting, nb_flows_estimation, years_estimation))
 
     # this second query gets duplicated 'World as reported' flows due to
     # different sources for the same reportingg / year.
@@ -314,43 +326,55 @@ def deduplicate_flows():
     WHERE partner = 'World as reported'
     GROUP by reporting, year
     HAVING count(DISTINCT source) >1 and count(DISTINCT type) > 1""")
-    sub_c=conn.cursor()
-    primarysecondaryestimation_duplicates={}
+    sub_c = conn.cursor()
+    primarysecondaryestimation_duplicates = {}
     for reporting, year, gtypes in c:
         types = sorted(gtypes.split(','))
         removed = False
         # when a secondary source cooccurres with a primary
         if "secondary" in types and "primary" in types:
             # remove the secondary
-            sub_c.execute("""DELETE FROM flow_joined WHERE type='secondary' AND partner = 'World as reported' AND reporting=? AND year=?""",(reporting, year))
+            sub_c.execute(
+                """DELETE FROM flow_joined WHERE type='secondary' AND partner = 'World as reported' AND reporting=? AND year=?""", (reporting, year))
             removed = True
             if reporting in primarysecondaryestimation_duplicates:
-                primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'secondary'))
+                primarysecondaryestimation_duplicates[reporting].append(
+                    (year, sub_c.rowcount, 'secondary'))
             else:
-                primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'secondary')]
+                primarysecondaryestimation_duplicates[reporting] = [
+                    (year, sub_c.rowcount, 'secondary')]
         # when an estimation source cooccurres with a primary
         if "estimation" in types and ("secondary" in types or "primary" in types):
             # remove the estimation
-            sub_c.execute("""DELETE FROM flow_joined WHERE type='estimation' AND partner = 'World as reported' AND reporting=? AND year=?""",(reporting, year))
+            sub_c.execute(
+                """DELETE FROM flow_joined WHERE type='estimation' AND partner = 'World as reported' AND reporting=? AND year=?""", (reporting, year))
             removed = True
             if reporting in primarysecondaryestimation_duplicates:
-                primarysecondaryestimation_duplicates[reporting].append((year,sub_c.rowcount,'estimation'))
+                primarysecondaryestimation_duplicates[reporting].append(
+                    (year, sub_c.rowcount, 'estimation'))
             else:
-                primarysecondaryestimation_duplicates[reporting]=[(year,sub_c.rowcount,'estimation')]
+                primarysecondaryestimation_duplicates[reporting] = [
+                    (year, sub_c.rowcount, 'estimation')]
         if not removed:
-            print("/!\ duplicates on more types %s %s %s"%(types, reporting, year))
+            print("/!\ duplicates on more types %s %s %s" %
+                  (types, reporting, year))
     # logging what was done
-    for reporting,years in primarysecondaryestimation_duplicates.items():
-            nb_flows_secondary = sum(n for (y,n,t) in years if t=='secondary')
-            years_secondary = (y for (y,n,t) in years if t=='secondary')
-            years_secondary = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_secondary))
-            if nb_flows_secondary > 0 :
-                print("%s: %s secondary World as reported flows %s"%(reporting, nb_flows_secondary, years_secondary))
-            nb_flows_estimation = sum(n for (y,n,t) in years if t=='estimation')
-            years_estimation = (y for (y,n,t) in years if t=='estimation')
-            years_estimation = ','.join('-'.join(str(e) for e in p) for p in custom_exports.reduce_years_list_into_periods(years_estimation))
-            if nb_flows_estimation > 0 :
-                print("%s: %s estimation World as reported flows %s"%(reporting,nb_flows_estimation,years_estimation))
+    for reporting, years in primarysecondaryestimation_duplicates.items():
+        nb_flows_secondary = sum(n for (y, n, t) in years if t == 'secondary')
+        years_secondary = (y for (y, n, t) in years if t == 'secondary')
+        years_secondary = ','.join('-'.join(str(e) for e in p)
+                                   for p in custom_exports.reduce_years_list_into_periods(years_secondary))
+        if nb_flows_secondary > 0:
+            print("%s: %s secondary World as reported flows %s" %
+                  (reporting, nb_flows_secondary, years_secondary))
+        nb_flows_estimation = sum(
+            n for (y, n, t) in years if t == 'estimation')
+        years_estimation = (y for (y, n, t) in years if t == 'estimation')
+        years_estimation = ','.join('-'.join(str(e) for e in p)
+                                    for p in custom_exports.reduce_years_list_into_periods(years_estimation))
+        if nb_flows_estimation > 0:
+            print("%s: %s estimation World as reported flows %s" %
+                  (reporting, nb_flows_estimation, years_estimation))
 
     sub_c.close()
 
@@ -364,59 +388,65 @@ def deduplicate_flows():
         FROM `flow_joined`
         GROUP BY year,`expimp`,`reporting`,`partner` HAVING count(*)>1
         """)
-    lines=c.fetchall()
-    ids_to_remove={}
-    gen_remove=0
-    for n, spe_gens, sb, ids, reporting, partner, year, e_i, f in lines :
-        local_ids_to_remove=[]
-        dup_found=True
-        if spe_gens and "Gen" in spe_gens.split("|") and "Spe" in spe_gens.split("|") :
-            spe_indeces=[k for k,v in enumerate(spe_gens.split("|")) if v =="Spe"]
-            if len(spe_indeces)>1 and sb != None:
-                #if we have more than 1 Spe as dups
-                speNS_indeces=[k for k,v in enumerate(sb.split("|")) if v =="NS" and k in spe_indeces]
-                if len(speNS_indeces)>1:
-                #if we have more than 1 NS in Spe dups
-                    dup_found=False
-                elif len(ids.split("|"))==len(sb.split("|")) and len(speNS_indeces)>1:
-                    # keep only the Spe & NS flow when duplicate and if no nulls in sb 
+    lines = c.fetchall()
+    ids_to_remove = {}
+    gen_remove = 0
+    for n, spe_gens, sb, ids, reporting, partner, year, e_i, f in lines:
+        local_ids_to_remove = []
+        dup_found = True
+        if spe_gens and "Gen" in spe_gens.split("|") and "Spe" in spe_gens.split("|"):
+            spe_indeces = [k for k, v in enumerate(
+                spe_gens.split("|")) if v == "Spe"]
+            if len(spe_indeces) > 1 and sb != None:
+                # if we have more than 1 Spe as dups
+                speNS_indeces = [k for k, v in enumerate(
+                    sb.split("|")) if v == "NS" and k in spe_indeces]
+                if len(speNS_indeces) > 1:
+                    # if we have more than 1 NS in Spe dups
+                    dup_found = False
+                elif len(ids.split("|")) == len(sb.split("|")) and len(speNS_indeces) > 1:
+                    # keep only the Spe & NS flow when duplicate and if no nulls in sb
                     # otherwise we can't figure out which ID to remove
-                    local_ids_to_remove=[v for k, v in enumerate(ids.split("|")) if k!=speNS_indeces[0]]
+                    local_ids_to_remove = [v for k, v in enumerate(
+                        ids.split("|")) if k != speNS_indeces[0]]
                 else:
-                    dup_found=False
-            elif len(ids.split("|"))==len(spe_gens.split("|")):
-                # remove the Gen flows which dups with one Spe flow and if no nulls in 
+                    dup_found = False
+            elif len(ids.split("|")) == len(spe_gens.split("|")):
+                # remove the Gen flows which dups with one Spe flow and if no nulls in
                 # spe_gens other wise we can't figure out which ID to remove
-                local_ids_to_remove=[v for k,v in enumerate(ids.split("|")) if k!=spe_indeces[0]]
+                local_ids_to_remove = [v for k, v in enumerate(
+                    ids.split("|")) if k != spe_indeces[0]]
             else:
-                dup_found=False
-            if len(local_ids_to_remove)>0:
+                dup_found = False
+            if len(local_ids_to_remove) > 0:
                 if reporting in ids_to_remove.keys():
-                    ids_to_remove[reporting]+=local_ids_to_remove
+                    ids_to_remove[reporting] += local_ids_to_remove
                 else:
-                    ids_to_remove[reporting]=local_ids_to_remove
+                    ids_to_remove[reporting] = local_ids_to_remove
         else:
-            dup_found=False
+            dup_found = False
 
         if not dup_found:
             # flows are dups but not on GEN/SPE distinction or some null values in the groupings
-            gen_remove +=1
-            #print(gen_remove, ("duplicate found :%s flows for %s,%s,%s,%s,%s,%s"%(n,year,reporting,)
+            gen_remove += 1
+            # print(gen_remove, ("duplicate found :%s flows for %s,%s,%s,%s,%s,%s"%(n,year,reporting,)
             #	partner,e_i,spe_gens,sb)).encode("utf8")
     print("-------------------------------------------------------------------------")
 
-    if gen_remove>0:
-        print("We found %s duplicate flows but not on GEN/SPE distinction..."%gen_remove)
+    if gen_remove > 0:
+        print("We found %s duplicate flows but not on GEN/SPE distinction..." % gen_remove)
 
     if ids_to_remove:
         for r, ids in ids_to_remove.items():
-            print(("removing %s General or Special duplicates for %s"%(r,len(ids))).encode("utf8"))
-            c.execute("DELETE FROM flow_joined WHERE id IN (%s)"%",".join(ids))
+            print(("removing %s General or Special duplicates for %s" %
+                   (r, len(ids))).encode("utf8"))
+            c.execute("DELETE FROM flow_joined WHERE id IN (%s)" %
+                      ",".join(ids))
 
     print("-------------------------------------------------------------------------")
 
     ################################################################################
-    ##			Create the partner World as sum of partners
+    # Create the partner World as sum of partners
     ################################################################################
     c.execute("""INSERT INTO RICentities (`RICname`, `type`, `continent`, `slug`)
         VALUES ("World sum partners", "geographical_area", "World", "Worldsumpartners")""")
@@ -461,24 +491,25 @@ def deduplicate_flows():
         flow, unit, currency, rate, source, source_label, type, reporting_type, reporting_continent, reporting_GPH_code
         from flow_joined
         WHERE partner LIKE "world%"  """)
-    data=list(c)
-    data.sort(key=lambda _:(_[3],_[0],_[1]))
+    data = list(c)
+    data.sort(key=lambda _: (_[3], _[0], _[1]))
 
     world_best_guess_added = 0
-    for g,d in itertools.groupby(data,lambda _:(_[3],_[0],_[1])):
-        dd=list(d)
+    for g, d in itertools.groupby(data, lambda _: (_[3], _[0], _[1])):
+        dd = list(d)
 
-        world_best_guess=[sd for sd in dd if sd[4]==u"Worldestimated"]
-        if len(world_best_guess)==0:
-            world_best_guess=[sd for sd in dd if sd[4]==u"Worldasreported"]
-        if len(world_best_guess)==0:
-            world_best_guess=[sd for sd in dd if sd[4]==u"Worldsumpartners"]
-        if len(world_best_guess)==0:
+        world_best_guess = [sd for sd in dd if sd[4] == u"Worldestimated"]
+        if len(world_best_guess) == 0:
+            world_best_guess = [sd for sd in dd if sd[4] == u"Worldasreported"]
+        if len(world_best_guess) == 0:
+            world_best_guess = [
+                sd for sd in dd if sd[4] == u"Worldsumpartners"]
+        if len(world_best_guess) == 0:
             pass
         else:
-            world_best_guess=list(world_best_guess[0])
-            world_best_guess[2]=u"World_best_guess"
-            world_best_guess[4]=u"Worldbestguess"
+            world_best_guess = list(world_best_guess[0])
+            world_best_guess[2] = u"World_best_guess"
+            world_best_guess[4] = u"Worldbestguess"
             c.execute("""INSERT INTO flow_joined (year, expimp, partner, reporting, 
                 partner_slug, reporting_slug, flow, unit, currency, rate, source, source_label, type,
                 reporting_type, reporting_continent, reporting_GPH_code)
@@ -489,7 +520,7 @@ def deduplicate_flows():
     print("-------------------------------------------------------------------------")
 
     ################################################################################
-    ##			Create table metadata bilateral
+    # Create table metadata bilateral
     ################################################################################
 
     # print("Create table metadata_bilateral")
@@ -536,7 +567,7 @@ def deduplicate_flows():
     print("-------------------------------------------------------------------------")
 
     ################################################################################
-    ##			Create table metadata world
+    # Create table metadata world
     ################################################################################
 
     # print("Create table metadata_world")
@@ -565,12 +596,13 @@ def deduplicate_flows():
 
     print('Creating CSV exports')
     print('source.csv (...)')
-    custom_exports.export_sources_csv(c,conf['sources_export_filename'])
+    custom_exports.export_sources_csv(c, conf['sources_export_filename'])
     print('done')
     print('RICentities.csv (...)')
-    custom_exports.export_RICentities_csv(c,conf['RICentities_export_filename'])
+    custom_exports.export_RICentities_csv(
+        c, conf['RICentities_export_filename'])
     print('done')
     print('flows_deduplicated.csv (...)')
-    utils.sqlitetables2csv(database_filename,['flow_joined'])
-    shutil.move(os.path.join('out_data','flow_joined.csv'), 'RICardo_trade_flows_deduplicated.csv')
-
+    utils.sqlitetables2csv(database_filename, ['flow_joined'])
+    shutil.move(os.path.join('out_data', 'flow_joined.csv'),
+                'RICardo_trade_flows_deduplicated.csv')
