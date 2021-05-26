@@ -623,7 +623,8 @@
               "enum": [
                 "total_estimated",
                 "total_reporting",
-                "total_subreporting"
+                "total_subreporting",
+                "total_federicotena"
               ]
             }
           },
