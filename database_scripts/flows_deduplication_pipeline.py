@@ -9,7 +9,6 @@ import utils
 import re
 import custom_exports
 import shutil
-from RICentities import ricslug
 
 
 def deduplicate_flows():
@@ -40,7 +39,8 @@ def deduplicate_flows():
     # UPDATE OR CREATE RICentities slug
     ################################################################################
     ricnames = c.execute("""SELECT RICname FROM RICentities""")
-    newricslugs = [(ricslug(ricname[0]), ricname[0])for ricname in ricnames]
+    newricslugs = [(utils.ricslug(ricname[0]), ricname[0])
+                   for ricname in ricnames]
     c.executemany(
         """UPDATE RICentities SET slug = ? WHERE RICname = ? """, newricslugs)
 

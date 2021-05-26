@@ -1,15 +1,14 @@
 import csv
+from flows import aggregate_flows_from_csv_files
 import time
 import os
 from typing import no_type_check_decorator
 import requests
 import re
+import argparse
+from utils import ricslug
 
 GEOPOLHIST_FOLDER = "../../GeoPolHist"
-
-
-def ricslug(RICname): return re.sub("[ ()/.,\-']",
-                                    "", re.sub("&", "_", RICname))
 
 
 def geolocalize_RICentities(datadir='../../data', group=False, replace=True):
@@ -228,25 +227,55 @@ def sanitize_RICentities_groups():
                     groups.writerow({"id": id, "RICname_group": group,
                                      "RICname_part": part})
 
-# it's actually harder than I thought to identify deprecated RICentities, I comment that out as it may discard usefull entities
-# def filter_unused_RICentities(datadir = '../../data'):
-#     with open(os.path.join(datadir,'RICentities.csv'), 'r+', encoding='UTF8') as f, open(os.path.join(datadir,'entity_names.csv')) as en_f:
-#         entities = csv.DictReader(f)
-#         entities_fieldnames = entities.fieldnames
-#         entities = list(entities)
-#         entity_names = csv.DictReader(en_f)
-#         unused = set(e['RICname'] for e in entities if e['COW_code'] == '')- set(en['RICname'] for en in entity_names)
-#         print("%s unused RICentities will be filtered out: %s"%(len(unused),unused))
-#         f.seek(0)
-#         entities_filtered = [e for e in entities if e['RICname'] not in unused]
-#         new_entities = csv.DictWriter(f, fieldnames = entities_fieldnames)
-#         new_entities.writeheader()
-#         new_entities.writerows(entities_filtered)
-#         print("wrote %s entities in RICentities.csv"%len(entities_filtered))
-#
 
+def remove_unused_entity_names(apply=False):
+    # aggregate flows
+    flows_csv_filename = '../data/flows.csv'
+    if not os.path.exists(flows_csv_filename):
+        aggregate_flows_from_csv_files()
+    entity_names_to_keep = []
+    entity_names_fields = []
+    with open(flows_csv_filename, 'r') as f:
+        entity_names_in_flows = set(
+            (e for l in csv.DictReader(f) for e in (l['reporting'], l['partner'])))
+        print(f"{len(entity_names_in_flows)} entity names in flows")
+        with open('../data/entity_names.csv', 'r') as ent_f:
+            entity_names = csv.DictReader(ent_f)
+            entity_names_fields = entity_names.fieldnames
+            entity_names = list(entity_names)
+        print(f"{len(entity_names)} entity names")
+        entity_names_to_keep = [
+            e for e in entity_names if e["original_name"] in entity_names_in_flows]
+        print(f"{len(entity_names) - len(entity_names_to_keep)} entity names to remove")
+        print(entity_names_to_keep[:5])
+        if apply and len(entity_names_to_keep) > 0 and len(entity_names_to_keep) - len(entity_names) != 0:
+            with open('../data/entity_names.csv', 'w') as ent_f:
+                e = csv.DictWriter(ent_f, entity_names_fields)
+                e.writeheader()
+                e.writerows(entity_names_to_keep)
 
 #  TODO : argparse
 # align_GPH_RIC_entities(True)
 # sanitize_RICentities_groups()
 # geolocalize_RICentities(datadir='../../data/', group=True, replace=False)
+
+# MAIN: launch action from arg
+
+
+ACTIONS = {
+    'align_GPH_RIC_entities': align_GPH_RIC_entities,
+    'remove_unused_entity_names': remove_unused_entity_names,
+    'sanitize_RICentities_groups': sanitize_RICentities_groups,
+    "remove_unused_entity_names": remove_unused_entity_names
+}
+
+if __name__ == "__main__":
+    # Create the parser and add arguments
+    parser = argparse.ArgumentParser()
+    # method
+    parser.add_argument(dest='action', type=str,
+                        help="Which action to perform on flows",  choices=ACTIONS.keys())
+    parser.add_argument('apply', action="store_true", default=False)
+    args = parser.parse_args()
+    if args.action:
+        ACTIONS[args.action](apply=args.apply)
