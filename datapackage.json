@@ -515,14 +515,14 @@
             "type": "string",
             "description": "The source document this trade flow was extracted from",
             "constraints": {
-              "required":true
+              "required": true
             }
           },
           {
             "name": "flow",
             "type": "number",
             "decimalChar": ".",
-            "constraints":{
+            "constraints": {
               "minimum": 0
             },
             "description": "value of the trade flow"
@@ -530,7 +530,7 @@
           {
             "name": "unit",
             "type": "integer",
-            "constraints":{
+            "constraints": {
               "minimum": 1
             },
             "description": "The unit the trade flow value is expressed in"
@@ -545,7 +545,7 @@
             "type": "year",
             "description": "The year of the trade flow ",
             "constraints": {
-              "required":true
+              "required": true
             }
           },
           {
@@ -553,7 +553,7 @@
             "type": "string",
             "description": "Name of the country reporting the trade flow",
             "constraints": {
-              "required":true
+              "required": true
             }
           },
           {
@@ -561,7 +561,7 @@
             "type": "string",
             "description": "Name of the trade partner of the trade flow",
             "constraints": {
-              "required":true
+              "required": true
             }
           },
           {
@@ -578,16 +578,26 @@
             "name": "species_bullions",
             "type": "string",
             "description": "Precise wether this trade flow is a monatory flow.",
-            "constraints":{
-              "enum":["S","NS"]
+            "constraints": {
+              "enum": [
+                "S",
+                "NS"
+              ]
             }
           },
           {
             "name": "transport_type",
             "type": "string",
             "description": "For some flows, the transport type is precised : by land or by see for instance.",
-            "constraints":{
-              "enum":["Fleuve","Mer","Terre","Terre et Fleuves","Terre et Mer","Terre et Mer et Fleuves"]
+            "constraints": {
+              "enum": [
+                "Fleuve",
+                "Mer",
+                "Terre",
+                "Terre et Fleuves",
+                "Terre et Mer",
+                "Terre et Mer et Fleuves"
+              ]
             }
           },
           {
@@ -599,16 +609,22 @@
             "name": "partner_sum",
             "type": "string",
             "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
-            "constraints":{
-              "enum":["1"]
+            "constraints": {
+              "enum": [
+                "1"
+              ]
             }
           },
           {
             "name": "world_trade_type",
             "type": "string",
             "description": "Categorize the different types of Total trade calculations: total_estimated (recent estimations), total_reporting1 (total reported by the soruce), total_reporting2 (subtotals reported by the source)",
-            "constraints":{
-              "enum":["total_estimated","total_reporting","total_subreporting"]
+            "constraints": {
+              "enum": [
+                "total_estimated",
+                "total_reporting",
+                "total_subreporting"
+              ]
             }
           },
           {
@@ -620,23 +636,52 @@
         "foreignKeys": [
           {
             "fields": "source",
-            "reference": {"resource": "sources", "fields": "slug"}
+            "reference": {
+              "resource": "sources",
+              "fields": "slug"
+            }
           },
           {
             "fields": "reporting",
-            "reference": {"resource": "entity_names", "fields": "original_name"}
+            "reference": {
+              "resource": "entity_names",
+              "fields": "original_name"
+            }
           },
           {
             "fields": "partner",
-            "reference": {"resource": "entity_names", "fields": "original_name"}
+            "reference": {
+              "resource": "entity_names",
+              "fields": "original_name"
+            }
           },
           {
-            "fields": ["currency", "year", "reporting"],
-            "reference": {"resource": "currencies", "fields": ["currency", "year", "reporting"]}
+            "fields": [
+              "currency",
+              "year",
+              "reporting"
+            ],
+            "reference": {
+              "resource": "currencies",
+              "fields": [
+                "currency",
+                "year",
+                "reporting"
+              ]
+            }
           },
           {
-            "fields": ["export_import", "special_general"],
-            "reference": {"resource": "expimp_spegen", "fields": ["export_import", "special_general"]}
+            "fields": [
+              "export_import",
+              "special_general"
+            ],
+            "reference": {
+              "resource": "expimp_spegen",
+              "fields": [
+                "export_import",
+                "special_general"
+              ]
+            }
           }
         ]
       },
@@ -1782,7 +1827,8 @@
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Autriche_Fc19.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_ColoniesAnglaisesDamerique_Fc16.csv",
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLalgerie_1916.csv",
-        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1925.csv"
+        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1925.csv",
+        "data/flows/TableauAnnuelDuCommerceDeLaBelgiqueAvecLesPaysTrangers_1920.csv"
       ]
     }
   ]
