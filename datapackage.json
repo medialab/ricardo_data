@@ -1828,7 +1828,8 @@
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_ColoniesAnglaisesDamerique_Fc16.csv",
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLalgerie_1916.csv",
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1925.csv",
-        "data/flows/TableauAnnuelDuCommerceDeLaBelgiqueAvecLesPaysTrangers_1920.csv"
+        "data/flows/TableauAnnuelDuCommerceDeLaBelgiqueAvecLesPaysTrangers_1920.csv",
+        "data/flows/StatistiqueDeLaBelgiqueTableauGnralDuCommerceAvecLesPaysTrangers_1841.csv"
       ]
     }
   ]
