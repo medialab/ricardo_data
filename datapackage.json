@@ -196,7 +196,7 @@
               "enum": [
                 "city/part_of",
                 "colonial_area",
-                "country",
+                "GPH_entity",
                 "geographical_area",
                 "group"
               ]
@@ -509,6 +509,10 @@
       "title": "Trade flows transcribed from various international trade statistics volumes",
       "format": "csv",
       "schema": {
+        "missingValues": [
+          "",
+          "?"
+        ],
         "fields": [
           {
             "name": "source",
