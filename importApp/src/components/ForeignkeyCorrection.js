@@ -1,8 +1,6 @@
 import React from 'react';
 import {connect} from 'react-redux';
-import {values, pick, isNil, difference} from 'lodash'
-
-import Select from 'react-select';
+import {values, difference} from 'lodash'
 
 import {
   Columns,
@@ -217,9 +215,9 @@ class ForeignKeyCorrection extends React.Component {
           <Help isColor="success">
             {!isNonchangableField && <li>total {modificationItem.errors.length} rows updated</li>}
             {
-              fixedReferenceTable && fixedReferenceTable.map((table)=> {
+              fixedReferenceTable && fixedReferenceTable.map((table, i)=> {
                 return (
-                  <li>{table.data.length} row(s) added to "{table.resourceName}" table</li>
+                  <li key={i}>{table.data.length} row(s) added to "{table.resourceName}" table</li>
                 )
               })
             }

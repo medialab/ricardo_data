@@ -96,6 +96,7 @@ ENV/
 #data
 data/*.xlsx
 data/*.ods
+data/flows.csv
 database_scripts/data*
 database_scripts/out_data
 database_scripts/*.csv

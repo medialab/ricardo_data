@@ -1,9 +1,6 @@
 import React from 'react';
 import {difference} from 'lodash';
 
-import {
-  HelpPin
-} from 'design-workshop';
 
 const HeaderValidation = ({
   headerNames,

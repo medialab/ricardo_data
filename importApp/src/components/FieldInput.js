@@ -2,10 +2,12 @@
 import React from 'react';
 
 import {Field} from 'tableschema';
-import {values, findIndex, uniq, groupBy, orderBy} from 'lodash';
+import {findIndex} from 'lodash';
 
 import Select from 'react-select';
 import Autosuggest from 'react-autosuggest';
+
+import matchSorter from 'match-sorter';
 
 import {
   Button,
@@ -156,7 +158,7 @@ class FieldInput extends React.Component {
 
   renderField() {
     const {fieldValue, foreignKeys, referenceTables, showNewReference, newReference, isNonchangable, isValidationField, suggestedOptions} = this.props;
-    const {fieldSchema, fieldValid, value, suggestions} = this.state;
+    const {fieldSchema, value, suggestions} = this.state;
 
     // Autosuggest will pass through all these props to the input.
     const inputProps = {
@@ -202,8 +204,12 @@ class FieldInput extends React.Component {
             <Select isSearchable={true}
               isClearable={true}
               value={generateValue(value)}
-              options={options}
-              onChange={this.handleChange} />
+              options={this.state.options}
+              onChange={this.handleChange} 
+              onInputChange={inputValue => {
+                this.setState({ options : (matchSorter(options, inputValue, {keys: ['label']}).slice(0,50))});
+              }}
+              />
           }
           {
             newReference &&
@@ -243,7 +249,7 @@ class FieldInput extends React.Component {
   }
 
   render() {
-    const {fieldSchema, fieldValid, value} = this.state;
+    const {fieldSchema, fieldValid} = this.state;
     const {showNewReference, newReference} = this.props;
     return (
       <FieldContainer>

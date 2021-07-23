@@ -3,7 +3,6 @@ import React from 'react';
 
 import {
   Button,
-  Card,
   Field,
   Control
 } from 'design-workshop';
@@ -48,12 +47,12 @@ const LeaveModificationModal = ({
               <h5 className="title is-5">Leave this step, you might lost your modification?</h5>
               {updatedTables.length>0 && <p>updated reference tables</p>}
               {
-                updatedTables.map((table)=>{
+                updatedTables.map((table, i)=>{
                   const handleExportTable = () => {
                     downloadTable(referenceTables[table.name], table.name, 'csv')
                   }
                   return (
-                    <div>
+                    <div key={i}>
                       <a href="#" onClick={handleExportTable}>{table.name} table: {table.updatedRows.length} rows added</a>
                     </div>
                   )

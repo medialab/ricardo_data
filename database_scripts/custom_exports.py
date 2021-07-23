@@ -64,7 +64,7 @@ def export_RICentities_csv(cursor, output_filename):
   cursor.execute(select_RICentities)
   RICentities = {}
   for ric in cursor:
-    RICentities[ric[0]]={'RICname':ric[0], 'RICtype': ric[1], 'continent': ric[2], 'COW code': ric[3]}
+    RICentities[ric[0]]={'RICname':ric[0], 'RICtype': ric[1], 'continent': ric[2], 'GPH code': ric[3]}
 
   select_reportings ="""
   SELECT reporting,
@@ -100,7 +100,7 @@ def export_RICentities_csv(cursor, output_filename):
       RICentities[partner[0]]['total nb flows'] = partner[4]
 
   with open(output_filename, "w") as f :
-    hs = ['RICname', 'RICtype', 'continent', 'COW code', 'total nb flows',
+    hs = ['RICname', 'RICtype', 'continent', 'GPH code', 'total nb flows',
     'nb flows (reporting)', 'nb flows (partner)',
     'names in source (reporting)', 'names in source (partner)',
     'bilateral periods (reporting)', 'bilateral periods (partner)',
@@ -121,7 +121,7 @@ def export_sources_csv(cursor,output_filename):
   WHERE s.slug in (SELECT distinct source from flow_joined) OR 
         s.slug in (SELECT distinct source from exchange_rates)"""
   rows = cursor.execute(sql)
-  first = rows.next()
+  first = next(rows)
   with open(output_filename,'w') as f:
     dw = csvkit.writer(f)
     dw.writerow(["bibliographic reference"] + first.keys())
@@ -136,7 +136,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
   cursor.row_factory = sqlite3.Row
 
   select_RICentities = """
-    SELECT RICname, type, continent, COW_code, sum(COALESCE(report.nb_flows,0)) as nb_flows_as_reporting, sum(COALESCE(partner.nb_flows,0)) as nb_flows_as_partner 
+    SELECT RICname, type, continent, GPH_code, sum(COALESCE(report.nb_flows,0)) as nb_flows_as_reporting, sum(COALESCE(partner.nb_flows,0)) as nb_flows_as_partner 
   FROM RICentities
     LEFT JOIN (SELECT count(id) as nb_flows, reporting FROM %(table)s where partner not like 'world%%' group by reporting) as report on report.reporting = RICname
     LEFT JOIN (SELECT count(id) as nb_flows, partner FROM %(table)s group by partner) as partner on partner.partner = RICname
@@ -172,7 +172,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
   for (reporting, year, ft, nb_flows) in cursor.execute(select_reportings):
     if reporting not in RICentities:
-      print 'undocumented RIC %s'%reporting
+      print('undocumented RIC %s'%reporting)
       RICentities[reporting]={'RICname':reporting, 'nb_flows_as_reporting': nb_flows, 'nb_flows_as_partner': 0}
     # y'a un probleme avec nb_flows_as_reporting
     RICentities[reporting][str(year)] = "ft_reporting" if ft else "reporting"
@@ -192,7 +192,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
   for (partner, year, ft, nb_flows) in cursor.execute(select_partners):
     if partner not in RICentities:
-      print 'undocumented RIC %s'%partner
+      print('undocumented RIC %s'%partner)
       RICentities[partner]={'RICname': partner, 'nb_flows_as_reporting': 0, 'nb_flows_as_partner': nb_flows}
     if str(year) not in RICentities[partner]:
       RICentities[partner][str(year)] = "ft_partner_only" if ft else "partner_only"
@@ -201,7 +201,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
 
   cursor.execute('SELECT min(year) as min_year, max(year) as max_year from %s'%table)
-  (min_year, max_year) = cursor.next()
+  (min_year, max_year) = next(cursor)
   years = [str(y) for y in range(min_year, max_year+1)]
   
   nb_entities_in_ft_and_ricardo = dict((y,0) for y in years)
@@ -216,7 +216,7 @@ def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joine
 
   
   with open(output_filename, "w") as f :
-    hs = ['RICname', 'type', 'continent', 'COW_code', 'nb_flows_as_reporting', 'nb_flows_as_partner'] + [y for y in years] 
+    hs = ['RICname', 'type', 'continent', 'GPH_code', 'nb_flows_as_reporting', 'nb_flows_as_partner'] + [y for y in years] 
     dw = csvkit.DictWriter(f, fieldnames= hs )
     ft_reportings_by_year['nb_flows_as_partner'] = 'nb FT reportings'
     nb_entities_in_ft_and_ricardo['nb_flows_as_partner']= 'nb in FT & RIC'

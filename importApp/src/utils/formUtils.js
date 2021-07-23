@@ -1,4 +1,4 @@
-import {uniq} from 'lodash';
+import {sortedUniq, sortBy} from 'lodash';
 
 export const getEnumOptions = (enumList) => {
   const options = enumList.map((e) => {
@@ -20,7 +20,8 @@ export const getOptions = ({tables, resourceName, referenceField, filter}) => {
   else {
     values = tables[resourceName].map((item) => item[referenceField])
   }
-  const uniqValues = uniq(values);
+
+  const uniqValues = sortedUniq(sortBy(values, v => v.length));
   return uniqValues.map((item) => {
     return {
       value: item,

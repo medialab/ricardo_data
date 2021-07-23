@@ -83,7 +83,9 @@ uitvoer uit het vrije verkeer,?,Exp,Spe
 uitvoer uit het vrije verkeer,gen,Exp,Spe
 re-exp,gen-spe,Re-exp,Gen-Spe
 exp,?,Exp,
+exp,,Exp,
 imp,?,Imp,
+imp,,Imp,
 uitvoer,gen,Exp,Gen
 re-exp,gen,Re-exp,Gen
 uitvoer uit het vrije verkeer,spe,Exp,Spe

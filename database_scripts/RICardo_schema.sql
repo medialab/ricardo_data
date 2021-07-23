@@ -57,9 +57,12 @@ CREATE TABLE `RICentities`
 	`RICname`			TEXT PRIMARY KEY,
 	`type`				TEXT,
 	`continent`			TEXT,
-	`COW_code` 			TEXT,
+	`GPH_code` 			TEXT,
 	`slug`				TEXT,
 	`part_of_country`	TEXT,
+	`wikidata`			TEXT,
+	'lat'				FLOAT,
+	'lng'				FLOAT,
 	FOREIGN KEY (part_of_country) 	REFERENCES RICentities(RICname)
 );
 

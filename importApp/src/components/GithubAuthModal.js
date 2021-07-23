@@ -11,17 +11,11 @@ import {
 import {
   Modal,
   ModalBackground,
-  ModalContent,
   ModalClose,
   ModalCard,
-  ModalCardHeader,
-  ModalCardTitle,
-  Delete,
   ModalCardBody,
-  ModalCardFooter
 } from 'bloomer';
 
-import {values} from 'lodash';
 
 class GithubAuthModal extends React.Component {
   constructor(props) {

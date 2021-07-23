@@ -46,6 +46,6 @@ const  source_generic_slugify = (source, fields) => fields.map(f => {
 export const SOURCE_SLUGIFY = source => source_generic_slugify(source, SOURCE_SLUG_FIELDS(source))
 
 export const SOURCE_SLUG_FILENAME = source => deburr(source_generic_slugify(source,
-  [ source.source_category === 'website' ? 'editor' : 'author','name', 'country', 'volume_date', 'volume_number', 'pages']));
+  [ source.source_category === 'website' ? 'editor' : 'author','name', 'country', 'volume_date', 'volume_number']));
 
 export const SOURCE_SUGGESTION_FIELDS = ['name', 'editor', 'country', 'volumn_number', 'shelf_number']

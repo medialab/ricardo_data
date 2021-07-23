@@ -1,7 +1,6 @@
 
 import XLSX from 'xlsx';
 import {
-  csvParse,
   csvParseRows,
   tsvParse,
 } from 'd3-dsv';
