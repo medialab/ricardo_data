@@ -4,7 +4,7 @@ import {
   csvParse,
 } from 'd3-dsv';
 
-import {isEqual} from 'lodash';
+import {isEqual, mapValues} from 'lodash';
 
 
 export const ADD_TABLE_ROW = 'ADD_TABLE_ROW';
@@ -36,14 +36,18 @@ export default createReducer(initialState, {
     const referenceTables = {}
     const originalLength = {}
     Object.keys(payload).forEach((id) => {
+      // TODO : use datapackage to load those data
       referenceTables[id] = csvParse(payload[id], (d) => {
-        if (d.year) {
-          return {
-            ...d,
-            year: +d.year
-          }
-        }
-        return d
+        const newD = mapValues(d, (v,k) => {
+          //cast year to integer
+          if (k === 'year')
+            return +v
+          // cast empty string to null (in datapackage '' default to missing value)
+          if (v === '')
+            return null
+          return v
+        });
+        return newD;
       })
       originalLength[id] = referenceTables[id].length
     })
