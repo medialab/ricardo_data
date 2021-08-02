@@ -12,7 +12,7 @@ const NewResourceRow = ({resource}) => {
           return (
             Object.keys(row).map((key) => {
               return (
-                <div>
+                <div key={key}>
                   <Label>{key}:</Label>
                   <p>{row[key]}</p>
                 </div>
