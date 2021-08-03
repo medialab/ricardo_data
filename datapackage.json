@@ -1840,7 +1840,12 @@
         "data/flows/AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1937.csv",
         "data/flows/AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1938.csv",
         "data/flows/AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1939.csv",
-        "data/flows/GowaJRHicks20132017.csv"
+        "data/flows/GowaJRHicks20132017.csv",
+        "data/flows/EstatisticaComercialColniaDeAngola_1938.csv",
+        "data/flows/EstatisticaComercialColniaDeAngola_1937.csv",
+        "data/flows/EstatisticaComercialColniaDeAngola_1936.csv",
+        "data/flows/EstatisticaComercialColniaDeAngola_1934.csv",
+        "data/flows/EstatisticaComercialColniaDeAngola_1933.csv"
       ]
     }
   ]
