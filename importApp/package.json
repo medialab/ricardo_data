@@ -7,7 +7,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "d3-dsv": "^1.1.1",
     "datapackage": "^1.1.7",
     "design-workshop": "git+https://github.com/medialab/design-workshop.git",
