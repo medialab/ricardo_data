@@ -1,4 +1,4 @@
-import {sortedUniq, sortBy} from 'lodash';
+import {sortedUniq, sortBy, countBy, toPairs, uniq} from 'lodash';
 
 export const getEnumOptions = (enumList) => {
   const options = enumList.map((e) => {
@@ -20,8 +20,9 @@ export const getOptions = ({tables, resourceName, referenceField, filter}) => {
   else {
     values = tables[resourceName].map((item) => item[referenceField])
   }
+  const valuesCounted = countBy(values, v => v)
+  const uniqValues = sortBy(toPairs(valuesCounted), ([k,v]) => -1*v).map(([k,v])=>k);
 
-  const uniqValues = sortedUniq(sortBy(values, v => v.length));
   return uniqValues.map((item) => {
     return {
       value: item,
