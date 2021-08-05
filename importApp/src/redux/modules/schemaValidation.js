@@ -316,7 +316,7 @@ export const validateTable = (payload) => (dispatch) => {
           type: VALIDATE_TABLE_REQUEST,
           payload: {  
             status: 'loading',
-            loader: `validating ${chunkIndex*chunkSize}/${tableLength} rows`
+            loader: `validating ${chunkIndex*chunkSize}/${tableLength-1} rows`
           }
         });
         const table = await Table.load([headers].concat(chunkedTable), {schema});
