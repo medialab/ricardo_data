@@ -41,7 +41,7 @@ class ForeignKeyCorrection extends React.Component {
     return fieldList.reduce((res, field) => {
       return {
         ...res,
-        [field]: ''
+        [field]: undefined
       }
     }, {});
   }
@@ -111,11 +111,9 @@ class ForeignKeyCorrection extends React.Component {
     const fixedValues = fieldList.reduce((res, field, index) => {
       let fixedValue = fieldList.length > 1 ? newResource.data[0][foreignKeyField.reference.fields[index]]:
                                               newResource.data[0][foreignKeyField.reference.fields]
-      if (Object.keys(LABEL_FIELDS_FK_SOLVED).indexOf(field) !== -1) {
-        // incase the value of mapping is not found
-        if (newResource.data[0][LABEL_FIELDS_FK_SOLVED[field]]) {
-          fixedValue = newResource.data[0][LABEL_FIELDS_FK_SOLVED[field]]
-        }
+      const special_field_for_label = LABEL_FIELDS_FK_SOLVED[field];
+      if (special_field_for_label && special_field_for_label in newResource.data[0]) {
+        fixedValue = newResource.data[0][special_field_for_label]
       }
       return {
         ...res,
@@ -279,9 +277,9 @@ class ForeignKeyCorrection extends React.Component {
     }
     const validateFixedValues = () => {
       if (field.split('|').length > 0) {
-        const invalidValue = values(this.state.fixedValues).filter((fixedValue) => !fixedValue);
+        const invalidValue = values(this.state.fixedValues).filter((fixedValue) => fixedValue === undefined);
         return invalidValue.length > 0;
-      } else return !this.state.fixedValues[field];
+      } else return this.state.fixedValues[field] === undefined;
     }
     const mapFieldValue = (field, value) => {
       return field.split('|').map((f, index) => {
