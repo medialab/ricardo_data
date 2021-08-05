@@ -1,6 +1,6 @@
 import { createSelector } from 'reselect'
 
-import {groupBy, sortBy, values } from 'lodash';
+import {chunk, groupBy, sortBy, values } from 'lodash';
 import {Resource} from 'datapackage';
 import {Table} from 'tableschema';
 import {SET_STEP} from './ui';
@@ -305,29 +305,32 @@ export const validateTable = (payload) => (dispatch) => {
   dispatch(async() => {
     try {
       const tableLength = source.length;
-      const chunk = DEFAULT_CHUNK_SIZE;
+      const chunkSize = DEFAULT_CHUNK_SIZE;
       let i = 0
       let errors = []
-      for(i; i < tableLength; i += chunk) {
+      const headers = source[0];
+      const chunks = chunk(source.slice(1,), chunkSize);
+      let chunkIndex = 0
+      for (const chunkedTable of chunks) {
         dispatch({
           type: VALIDATE_TABLE_REQUEST,
           payload: {  
             status: 'loading',
-            loader: `validating ${i} rows`
+            loader: `validating ${chunkIndex*chunkSize}/${tableLength} rows`
           }
-        })
-        const offset = i / chunk
-        const chunkTable = [source[0]].concat(source.slice(i+1-offset, i+chunk-offset))
-        const table = await Table.load(chunkTable, {schema});
+        });
+        const table = await Table.load([headers].concat(chunkedTable), {schema});
         const rows = await table.read({forceCast: true, relations});
         const chunkErrors = rows.filter((row) => row.errors)
         if (chunkErrors.length) {
-          chunkErrors.forEach((error) => {
-            error.rowNumber = error.rowNumber + chunk * offset - offset
-          });
-          errors = errors.concat(chunkErrors)
+          for (const error of chunkErrors){
+            error.rowNumber = error.rowNumber + chunkSize * chunkIndex;
+            errors.push(error)
+          }
         }
-      }
+        chunkIndex += 1;
+      };
+     
       // const table = await Table.load(source, {schema});
       // const rows = await table.read({forceCast: true});
       // const errors = rows.filter((row) => row.errors)
