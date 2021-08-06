@@ -81,14 +81,18 @@ class DataPublish extends React.Component {
 
       const flowFiles = Object.keys(groupedFlows).map((file) => {
         return {
-          fileName: `flows/${file}.csv`,
+          filePath: `data/flows/${file}.csv`,
           data: groupedFlows[file],
           source: file,
         };
       });
       const tableFiles = updatedTables.map((table) => {
+        const resource = this.props.repoData.descriptor.resources.find(
+        (r) => r.name === table.name);
+        if (!resource)
+          throw new Error(`Resource ${table.name} can't be found in descriptor.`);
         return {
-          fileName: `${table.name}.csv`,
+          filePath: resource.path,
           data: referenceTables[table.name],
           sha: tables[table.name].sha,
         };
@@ -117,13 +121,18 @@ class DataPublish extends React.Component {
             <div>
               <strong>updated reference tables</strong>
               {updatedTables.map((table) => {
-                const handleExportTable = () => {
-                  downloadTable(referenceTables[table.name], table.name, "csv");
+                const resource = this.props.repoData.descriptor.resources.find(
+                  (r) => r.name === table.name);
+                  if (!resource)
+                    throw new Error(`Resource ${table.name} can't be found in descriptor.`);
+                const fileName = resource.path.split(".")[0].split("/").slice(-1)[0]
+                const handleExportTable = () => {     
+                  downloadTable(referenceTables[table.name], fileName, "csv");
                 };
                 return (
                   <Control>
                     <a href="#" onClick={handleExportTable}>
-                      {table.name} table: {table.updatedRows.length} rows added
+                      {fileName} table: {table.updatedRows.length} rows added
                     </a>
                   </Control>
                 );
