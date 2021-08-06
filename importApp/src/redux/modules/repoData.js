@@ -12,7 +12,7 @@ import { DEFAULT_REF_BRANCH } from "../../constants";
 import Octokat from "octokat";
 
 import { Base64 } from "js-base64";
-import { csvFormat, csvParse } from "d3-dsv";
+import { unparse, parse } from "papaparse";
 
 import { INIT_TABLES } from "./referenceTables";
 
@@ -184,31 +184,31 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
       );
       let treeItems = [];
       for (let file of files) {
-        if (!file.sha && file.fileName.includes("flows")) {
+        if (!file.sha && file.filePath.includes("flows")) {
           //new file flow ?
           //check if file already exists
           dispatch({
             type: UPDATE_REMOTE_FILES_LOG,
-            payload: `downloading existing flows file ${file.fileName}`,
+            payload: `downloading existing flows file ${file.filePath}`,
           });
           try {
             const exists = await get(
-              `${repoRawContent}/${branch}/data/${file.fileName}`,
+              `${repoRawContent}/${branch}/${file.filePath}`,
               { responseType: "text", responseEncoding: "utf8" }
             );
             if (exists.status === 200) {
               // append new rows at end of the existing file
-              file.data = csvParse(exists.data).concat(file.data);
+              file.data = parse(exists.data).concat(file.data);
             }
           } catch (error) {
             if (error.response && error.response.status === 404) {
               // that's a 404 error which is fine
               // it's a new file, add it to the datapackage see issue #70
               if (flowRessourceMultipart) {
-                flowRessourceMultipart.path.push(`data/${file.fileName}`);
+                flowRessourceMultipart.path.push(file.filePath);
               } else if (flowRessourceGroup) {
                 const newRessource = { ...flowRessourceGroup };
-                newRessource.path = `/data/${file.fileName}`;
+                newRessource.path = file.filePath;
                 newRessource.title = file.source;
                 descriptor.resources.push(newRessource);
               }
@@ -221,15 +221,15 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
         }
         dispatch({
           type: UPDATE_REMOTE_FILES_LOG,
-          payload: `uploading ${file.fileName}`,
+          payload: `uploading ${file.filePath}`,
         });
         let fileGit = await repo.git.blobs.create({
-          content: Base64.encode(csvFormat(file.data) + "\n"),
+          // we force one final empty line
+          content: Base64.encode(unparse(file.data) + "\r\n"),
           encoding: "base64",
         });
-        let filePath = `data/${file.fileName}`;
         treeItems.push({
-          path: filePath,
+          path: file.filePath,
           sha: fileGit.sha,
           mode: "100644",
           type: "blob",

@@ -1,7 +1,7 @@
 import XLSX from "xlsx";
-import { csvFormatRows, csvFormat } from "d3-dsv";
 
 import FileSaver from "file-saver";
+import { unparse } from "papaparse";
 
 export function downloadFlow(array, fileName, ext) {
   let file;
@@ -9,7 +9,7 @@ export function downloadFlow(array, fileName, ext) {
   switch (ext) {
     case "csv":
     default: {
-      const csvString = csvFormatRows(array) + "\n";
+      const csvString = unparse(array) + "\r\n";
       file = new File([csvString], `${fileName}.${ext}`, {
         type: "text/csv;charset=utf-8",
       });
@@ -31,7 +31,7 @@ export function downloadTable(array, fileName, ext) {
   switch (ext) {
     case "csv":
     default: {
-      const csvString = csvFormat(array);
+      const csvString = unparse(array) + "\r\n";
       file = new File([csvString], `${fileName}.${ext}`, {
         type: "text/csv;charset=utf-8",
       });
