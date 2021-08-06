@@ -60,14 +60,21 @@ class DataPublish extends React.Component {
       downloadFlow(data, `${file.name}_corrections`, "csv");
     };
 
-    // group flows by source filename
-    // we need to source metadata to generate source filename
-    const sources = keyBy(referenceTables.sources, (s) => s.slug);
-    // format + parse to go from array representation to list of obejct
-    const parsedFlows = csvParse(csvFormatRows(flows.data));
-    const groupedFlows = groupBy(parsedFlows, (item) =>
-      SOURCE_SLUG_FILENAME(sources[item["source"]])
-    );
+    let groupedFlows = {};
+    try {
+      // group flows by source filename
+      // we need to source metadata to generate source filename
+      const sources = keyBy(referenceTables.sources, (s) => s.slug);
+      // format + parse to go from array representation to list of obejct
+      const parsedFlows = csvParse(csvFormatRows(flows.data));
+      groupedFlows = groupBy(parsedFlows, (item) =>
+        SOURCE_SLUG_FILENAME(sources[item["source"]])
+      );
+    } catch (e) {
+      //TODO: display error message to user
+      console.log(e);
+      setStep(2);
+    }
 
     const handleUpdateRemoteFiles = (auth) => {
       this.handleCloseModal();
