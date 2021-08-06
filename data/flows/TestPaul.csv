@@ -1,0 +1,6 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+TestPaul,82192,1000,gold kronen,1922,austria,inconnu,imp,,NS,,,,,
+TestPaul,123,1000,gold kronen,1922,austria,polen,imp,,NS,,,,,
+TestPaul,82192,1000,gold kronen,1922,austria,zeazeazze,imp,,NS,,,,,
+TestPaul,82192,1000,gold kronen,1922,austria,france,imp,,NS,,,,,
+TestPaul,82192,1000,gold kronen,1922,austria,zae opiu,imp,,NS,,,,,
