@@ -1849,7 +1849,17 @@
         "data/flows/EstadisticaGeneralDelComercioEsteriorDeLaRepblicaArgentina_1875.csv",
         "data/flows/ComercioEspecialDeBolivia_1924.csv",
         "data/flows/ComercioEspecialDeBolivia_1927.csv",
-        "data/flows/CommercioExteriorDoBrasil_19371938_I.csv"
+        "data/flows/CommercioExteriorDoBrasil_19371938_I.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1865.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1866.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDuCanada_1868.csv",
+        "data/flows/MouvementDuCommerceEtDeLaNavigationDeLaPuissanceDuCanada_1869.csv",
+        "data/flows/MouvementDuCommerceEtDeLaNavigationDeLaPuissanceDuCanada_1870.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDuCanada_1884.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDuCanada_1883.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDuCanada_1887.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDuCanada_1888.csv",
+        "data/flows/TableauxDuCommerceEtDeLaNavigationDuCanada_1893.csv"
       ]
     }
   ]
