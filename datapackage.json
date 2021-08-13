@@ -1907,7 +1907,13 @@
         "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1927.csv",
         "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1928.csv",
         "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1932.csv",
-        "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1936.csv"
+        "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1936.csv",
+        "data/flows/ServiceDesDouanesCteFranaiseDesSomalis_1938.csv",
+        "data/flows/ServiceDesDouanesCteFranaiseDesSomalis_1935.csv",
+        "data/flows/ServiceDesDouanesCteFranaiseDesSomalis_1934.csv",
+        "data/flows/ServiceDesDouanesCteFranaiseDesSomalis_1933.csv",
+        "data/flows/ServiceDesDouanesCteFranaiseDesSomalis_1932.csv",
+        "data/flows/ServiceDesDouanesCteFranaiseDesSomalis_1930.csv"
       ]
     }
   ]
