@@ -1941,7 +1941,13 @@
         "data/flows/ComercioExteriorDeLaRepublicaDeCuba_1906.csv",
         "data/flows/ComercioExteriorDeLaRepublicaDeCuba_1905.csv",
         "data/flows/ComercioExteriorDeLaRepublicaDeCuba_1903.csv",
-        "data/flows/ComercioExteriorDeLaRepublicaDeCuba_1902.csv"
+        "data/flows/ComercioExteriorDeLaRepublicaDeCuba_1902.csv",
+        "data/flows/DanmarksVareindfrselOgudfrsel_1897.csv",
+        "data/flows/DanmarksVareindfrselOgudfrsel_1896.csv",
+        "data/flows/DanmarksVareindfrselOgudfrsel_1891.csv",
+        "data/flows/DanmarksVareindfrselOgudfrsel_1884.csv",
+        "data/flows/DanmarksVareindfrselOgudfrsel_1880.csv",
+        "data/flows/DanmarksVareindfrselOgudfrsel_1875.csv"
       ]
     }
   ]
