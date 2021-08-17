@@ -2013,7 +2013,11 @@
         "data/flows/LeCommerceExtrieurDeLegypte_1900.csv",
         "data/flows/LeCommerceExtrieurDeLegypte_1899.csv",
         "data/flows/LeCommerceExtrieurDeLegypte_1880.csv",
-        "data/flows/LeCommerceExtrieurDeLegypte_18741878.csv"
+        "data/flows/LeCommerceExtrieurDeLegypte_18741878.csv",
+        "data/flows/EstadisticasDeLasExportacionesDelEcuador_19401942.csv",
+        "data/flows/EstadisticaDeImportacionExportacionRepublicaDelEcuador_1933.csv",
+        "data/flows/ComercioExteriorDelEcuador_19251926.csv",
+        "data/flows/ComercioExteriorDelEcuador_19161925.csv"
       ]
     }
   ]
