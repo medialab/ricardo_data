@@ -1,86 +1,1170 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-GowaJRHicks20132017,218366560,1,marks estoniens,1923,estonia,belgia,imp,,,,,,,
-GowaJRHicks20132017,286155440,1,marks estoniens,1923,estonia,daani,imp,,,,,,,
-GowaJRHicks20132017,383541990,1,marks estoniens,1923,estonia,danzig,imp,,,,,,,
-GowaJRHicks20132017,102583900,1,marks estoniens,1923,estonia,hollandi,imp,,,,,,,
-GowaJRHicks20132017,1840991940,1,marks estoniens,1923,estonia,inglise,imp,,,,,,,
-GowaJRHicks20132017,344838340,1,marks estoniens,1923,estonia,lati,imp,,,,,,,
-GowaJRHicks20132017,6597210,1,marks estoniens,1923,estonia,leedu,imp,,,,,,,
-GowaJRHicks20132017,9833610,1,marks estoniens,1923,estonia,norra,imp,,,,,,,
-GowaJRHicks20132017,53058080,1,marks estoniens,1923,estonia,prantsuse,imp,,,,,,,
-GowaJRHicks20132017,297683270,1,marks estoniens,1923,estonia,rootsi,imp,,,,,,,
-GowaJRHicks20132017,4760565420,1,marks estoniens,1923,estonia,saksa,imp,,,,,,,
-GowaJRHicks20132017,298348500,1,marks estoniens,1923,estonia,soome,imp,,,,,,,
-GowaJRHicks20132017,378050400,1,marks estoniens,1923,estonia,vene,imp,,,,,,,
-GowaJRHicks20132017,341322280,1,marks estoniens,1923,estonia,uhisriigid,imp,,,,,,,
-GowaJRHicks20132017,7647410,1,marks estoniens,1923,estonia,poola,imp,,,,,,,
-GowaJRHicks20132017,2695500,1,marks estoniens,1923,estonia,muud maad,imp,,,,,,,
-GowaJRHicks20132017,131687750,1,marks estoniens,1924,estonia,belgia,imp,,,,,,,
-GowaJRHicks20132017,214802010,1,marks estoniens,1924,estonia,daani,imp,,,,,,,
-GowaJRHicks20132017,93125780,1,marks estoniens,1924,estonia,danzig,imp,,,,,,,
-GowaJRHicks20132017,223355980,1,marks estoniens,1924,estonia,hollandi,imp,,,,,,,
-GowaJRHicks20132017,1147293210,1,marks estoniens,1924,estonia,inglise,imp,,,,,,,
-GowaJRHicks20132017,314544370,1,marks estoniens,1924,estonia,lati,imp,,,,,,,
-GowaJRHicks20132017,5770590,1,marks estoniens,1924,estonia,leedu,imp,,,,,,,
-GowaJRHicks20132017,71536780,1,marks estoniens,1924,estonia,norra,imp,,,,,,,
-GowaJRHicks20132017,91175640,1,marks estoniens,1924,estonia,prantsuse,imp,,,,,,,
-GowaJRHicks20132017,325696330,1,marks estoniens,1924,estonia,rootsi,imp,,,,,,,
-GowaJRHicks20132017,3003302050,1,marks estoniens,1924,estonia,saksa,imp,,,,,,,
-GowaJRHicks20132017,196065290,1,marks estoniens,1924,estonia,soome,imp,,,,,,,
-GowaJRHicks20132017,1048120540,1,marks estoniens,1924,estonia,vene,imp,,,,,,,
-GowaJRHicks20132017,1029299360,1,marks estoniens,1924,estonia,uhisriigid,imp,,,,,,,
-GowaJRHicks20132017,79745590,1,marks estoniens,1924,estonia,poola,imp,,,,,,,
-GowaJRHicks20132017,86979210,1,marks estoniens,1924,estonia,tshehho-slovak,imp,,,,,,,
-GowaJRHicks20132017,1790940,1,marks estoniens,1924,estonia,argentiina,imp,,,,,,,
-GowaJRHicks20132017,3623920,1,marks estoniens,1924,estonia,austria,imp,,,,,,,
-GowaJRHicks20132017,42273860,1,marks estoniens,1924,estonia,egiptus,imp,,,,,,,
-GowaJRHicks20132017,6158530,1,marks estoniens,1924,estonia,helveetsia,imp,,,,,,,
-GowaJRHicks20132017,7198470,1,marks estoniens,1924,estonia,hiina,imp,,,,,,,
-GowaJRHicks20132017,8490170,1,marks estoniens,1924,estonia,hispaania,imp,,,,,,,
-GowaJRHicks20132017,2034770,1,marks estoniens,1924,estonia,jaapan,imp,,,,,,,
-GowaJRHicks20132017,15975650,1,marks estoniens,1924,estonia,india,imp,,,,,,,
-GowaJRHicks20132017,9794480,1,marks estoniens,1924,estonia,itaalia,imp,,,,,,,
-GowaJRHicks20132017,3566800,1,marks estoniens,1924,estonia,kaanada,imp,,,,,,,
-GowaJRHicks20132017,2830600,1,marks estoniens,1924,estonia,persia,imp,,,,,,,
-GowaJRHicks20132017,3030330,1,marks estoniens,1924,estonia,portugal,imp,,,,,,,
-GowaJRHicks20132017,7769090,1,marks estoniens,1924,estonia,turgi,imp,,,,,,,
-GowaJRHicks20132017,27171050,1,marks estoniens,1924,estonia,muud maad,imp,,,,,,,
-GowaJRHicks20132017,9332279850,1,marks estoniens,1923,estonia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,8204209140,1,marks estoniens,1924,estonia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,513055030,1,marks estoniens,1923,estonia,belgia,exp,,,,,,,
-GowaJRHicks20132017,356513450,1,marks estoniens,1923,estonia,daani,exp,,,,,,,
-GowaJRHicks20132017,67830030,1,marks estoniens,1923,estonia,danzig,exp,,,,,,,
-GowaJRHicks20132017,38118740,1,marks estoniens,1923,estonia,hollandi,exp,,,,,,,
-GowaJRHicks20132017,1946787850,1,marks estoniens,1923,estonia,inglise,exp,,,,,,,
-GowaJRHicks20132017,460724080,1,marks estoniens,1923,estonia,lati,exp,,,,,,,
-GowaJRHicks20132017,71858850,1,marks estoniens,1923,estonia,leedu,exp,,,,,,,
-GowaJRHicks20132017,24384520,1,marks estoniens,1923,estonia,norra,exp,,,,,,,
-GowaJRHicks20132017,83422040,1,marks estoniens,1923,estonia,prantsuse,exp,,,,,,,
-GowaJRHicks20132017,574271880,1,marks estoniens,1923,estonia,rootsi,exp,,,,,,,
-GowaJRHicks20132017,614090070,1,marks estoniens,1923,estonia,saksa,exp,,,,,,,
-GowaJRHicks20132017,481013340,1,marks estoniens,1923,estonia,soome,exp,,,,,,,
-GowaJRHicks20132017,380948560,1,marks estoniens,1923,estonia,vene,exp,,,,,,,
-GowaJRHicks20132017,73152100,1,marks estoniens,1923,estonia,uhisriigid,exp,,,,,,,
-GowaJRHicks20132017,3255700,1,marks estoniens,1923,estonia,bulgaaria,exp,,,,,,,
-GowaJRHicks20132017,18228760,1,marks estoniens,1923,estonia,jaapan,exp,,,,,,,
-GowaJRHicks20132017,4301170,1,marks estoniens,1923,estonia,muud maad,exp,,,,,,,
-GowaJRHicks20132017,517294480,1,marks estoniens,1924,estonia,belgia,exp,,,,,,,
-GowaJRHicks20132017,504015210,1,marks estoniens,1924,estonia,daani,exp,,,,,,,
-GowaJRHicks20132017,28205180,1,marks estoniens,1924,estonia,danzig,exp,,,,,,,
-GowaJRHicks20132017,60254280,1,marks estoniens,1924,estonia,hollandi,exp,,,,,,,
-GowaJRHicks20132017,2632814660,1,marks estoniens,1924,estonia,inglise,exp,,,,,,,
-GowaJRHicks20132017,586563290,1,marks estoniens,1924,estonia,lati,exp,,,,,,,
-GowaJRHicks20132017,89810910,1,marks estoniens,1924,estonia,leedu,exp,,,,,,,
-GowaJRHicks20132017,20135390,1,marks estoniens,1924,estonia,norra,exp,,,,,,,
-GowaJRHicks20132017,261914060,1,marks estoniens,1924,estonia,prantsuse,exp,,,,,,,
-GowaJRHicks20132017,411087720,1,marks estoniens,1924,estonia,rootsi,exp,,,,,,,
-GowaJRHicks20132017,1773800410,1,marks estoniens,1924,estonia,saksa,exp,,,,,,,
-GowaJRHicks20132017,521566740,1,marks estoniens,1924,estonia,soome,exp,,,,,,,
-GowaJRHicks20132017,415682700,1,marks estoniens,1924,estonia,vene,exp,,,,,,,
-GowaJRHicks20132017,29377750,1,marks estoniens,1924,estonia,uhisriigid,exp,,,,,,,
-GowaJRHicks20132017,2822130,1,marks estoniens,1924,estonia,tshehho-slovak,exp,,,,,,,
-GowaJRHicks20132017,7273540,1,marks estoniens,1924,estonia,palestiina,exp,,,,,,,
-GowaJRHicks20132017,1623160,1,marks estoniens,1924,estonia,portugal,exp,,,,,,,
-GowaJRHicks20132017,1548950,1,marks estoniens,1924,estonia,muud maad,exp,,,,,,,
-GowaJRHicks20132017,5711956170,1,marks estoniens,1923,estonia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,7865790560,1,marks estoniens,1924,estonia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,151626,1,pounds,1919,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,503547,1,pounds,1919,fiji,new south wales,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,829,1,pounds,1919,fiji,queensland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,626,1,pounds,1919,fiji,tasmania,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,31972,1,pounds,1919,fiji,victoria,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,9925,1,pounds,1919,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,7248,1,pounds,1919,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,53616,1,pounds,1919,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,151662,1,pounds,1919,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,924,1,pounds,1919,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,183,1,pounds,1919,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,502,1,pounds,1919,fiji,other british,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,539,1,pounds,1919,fiji,american samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,20,1,pounds,1919,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,658,1,pounds,1919,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2428,1,pounds,1919,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,26,1,pounds,1919,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,25082,1,pounds,1919,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21,1,pounds,1919,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,443,1,pounds,1919,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,100173,1,pounds,1919,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,340,1,pounds,1919,fiji,other foreign,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,17924,1,pounds,1919,fiji,parcels post,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,240757,1,pounds,1920,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,845418,1,pounds,1920,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 10530 Australia, 10120 New Zealand"
+GowaJRHicks20132017,25915,1,pounds,1920,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,4,1,pounds,1920,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,12037,1,pounds,1920,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,96997,1,pounds,1920,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,230647,1,pounds,1920,fiji,new zealand,imp,,S,,,,,"Countries of consignment. Includes bullion: 10530 Australia, 10120 New Zealand"
+GowaJRHicks20132017,25,1,pounds,1920,fiji,norfolk island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1200,1,pounds,1920,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,51,1,pounds,1920,fiji,south africa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,506,1,pounds,1920,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,756,1,pounds,1920,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,259,1,pounds,1920,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,9000,1,pounds,1920,fiji,chile,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,627,1,pounds,1920,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1006,1,pounds,1920,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,220,1,pounds,1920,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,53,1,pounds,1920,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,601,1,pounds,1920,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21,1,pounds,1920,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,28601,1,pounds,1920,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,116,1,pounds,1920,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,158,1,pounds,1920,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,79,1,pounds,1920,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1722,1,pounds,1920,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,175099,1,pounds,1920,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1246,1,pounds,1920,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,368129,1,pounds,1921,fiji,uk,imp,,S,,,,,"Countries of consignment. Includes bullion: 24300 UK, 311 Australia, 200 New Zealand, 522 Samoa, 900 Tonga"
+GowaJRHicks20132017,692341,1,pounds,1921,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 24300 UK, 311 Australia, 200 New Zealand, 522 Samoa, 900 Tonga"
+GowaJRHicks20132017,24905,1,pounds,1921,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,48,1,pounds,1921,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,20457,1,pounds,1921,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,66958,1,pounds,1921,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,143342,1,pounds,1921,fiji,new zealand,imp,,S,,,,,"Countries of consignment. Includes bullion: 24300 UK, 311 Australia, 200 New Zealand, 522 Samoa, 900 Tonga"
+GowaJRHicks20132017,3387,1,pounds,1921,fiji,samoa,imp,,S,,,,,"Countries of consignment. Includes bullion: 24300 UK, 311 Australia, 200 New Zealand, 522 Samoa, 900 Tonga"
+GowaJRHicks20132017,15,1,pounds,1921,fiji,solomon islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21,1,pounds,1921,fiji,south africa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,451,1,pounds,1921,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3614,1,pounds,1921,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 24300 UK, 311 Australia, 200 New Zealand, 522 Samoa, 900 Tonga"
+GowaJRHicks20132017,931,1,pounds,1921,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,65,1,pounds,1921,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3513,1,pounds,1921,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,322,1,pounds,1921,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3,1,pounds,1921,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,159,1,pounds,1921,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,273,1,pounds,1921,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,28334,1,pounds,1921,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1921,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5,1,pounds,1921,fiji,new hebrides,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,47,1,pounds,1921,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,72,1,pounds,1921,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3263,1,pounds,1921,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,144759,1,pounds,1921,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,4310,1,pounds,1921,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,219920,1,pounds,1922,fiji,uk,imp,,S,,,,,"Countries of consignment. Includes bullion: 500 UK, 598 Australia, 2000 Tonga"
+GowaJRHicks20132017,422245,1,pounds,1922,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 500 UK, 598 Australia, 2000 Tonga"
+GowaJRHicks20132017,32926,1,pounds,1922,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,100,1,pounds,1922,fiji,fanning island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,34,1,pounds,1922,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,11454,1,pounds,1922,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,51650,1,pounds,1922,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,102768,1,pounds,1922,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,431,1,pounds,1922,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,71,1,pounds,1922,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3930,1,pounds,1922,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 500 UK, 598 Australia, 2000 Tonga"
+GowaJRHicks20132017,288,1,pounds,1922,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,631,1,pounds,1922,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,80,1,pounds,1922,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,305,1,pounds,1922,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,27,1,pounds,1922,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21645,1,pounds,1922,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,94,1,pounds,1922,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,265,1,pounds,1922,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,76172,1,pounds,1922,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1027,1,pounds,1922,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,279971,1,pounds,1923,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,412199,1,pounds,1923,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 831 Australia, 200 Tonga"
+GowaJRHicks20132017,54824,1,pounds,1923,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,7,1,pounds,1923,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5,1,pounds,1923,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,10182,1,pounds,1923,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,27925,1,pounds,1923,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,103855,1,pounds,1923,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1557,1,pounds,1923,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,75,1,pounds,1923,fiji,solomon islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,224,1,pounds,1923,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1444,1,pounds,1923,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 831 Australia, 200 Tonga"
+GowaJRHicks20132017,1696,1,pounds,1923,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,19,1,pounds,1923,fiji,china,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,375,1,pounds,1923,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1297,1,pounds,1923,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,44,1,pounds,1923,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,16816,1,pounds,1923,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1,1,pounds,1923,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,183,1,pounds,1923,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,33,1,pounds,1923,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,14,1,pounds,1923,fiji,scandinavia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,99,1,pounds,1923,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,75298,1,pounds,1923,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,917,1,pounds,1923,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,269231,1,pounds,1924,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,438715,1,pounds,1924,fiji,australia,imp,,S,,,,,Countries of consignment. Includes bullion: 720 Australia
+GowaJRHicks20132017,59067,1,pounds,1924,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,4,1,pounds,1924,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,177,1,pounds,1924,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8242,1,pounds,1924,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,39643,1,pounds,1924,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,127837,1,pounds,1924,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1625,1,pounds,1924,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,86,1,pounds,1924,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,767,1,pounds,1924,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,65,1,pounds,1924,fiji,austria,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,43,1,pounds,1924,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,24,1,pounds,1924,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,74,1,pounds,1924,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1217,1,pounds,1924,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,481,1,pounds,1924,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,200,1,pounds,1924,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,112,1,pounds,1924,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,14065,1,pounds,1924,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,6,1,pounds,1924,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,19,1,pounds,1924,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5,1,pounds,1924,fiji,new hebrides,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,84,1,pounds,1924,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,39,1,pounds,1924,fiji,russia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,688,1,pounds,1924,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,32,1,pounds,1924,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,103356,1,pounds,1924,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,690,1,pounds,1924,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,332080,1,pounds,1925,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,576260,1,pounds,1925,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 1649 Australia, 6000 Tonga"
+GowaJRHicks20132017,42128,1,pounds,1925,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1925,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8079,1,pounds,1925,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,25423,1,pounds,1925,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,200,1,pounds,1925,fiji,malay states,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,117413,1,pounds,1925,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,637,1,pounds,1925,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,439,1,pounds,1925,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,6615,1,pounds,1925,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 1649 Australia, 6000 Tonga"
+GowaJRHicks20132017,189,1,pounds,1925,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2061,1,pounds,1925,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,48,1,pounds,1925,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1393,1,pounds,1925,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,75,1,pounds,1925,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,13314,1,pounds,1925,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1925,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1925,fiji,new hebrides,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,26,1,pounds,1925,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,49,1,pounds,1925,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,676,1,pounds,1925,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,139,1,pounds,1925,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,143089,1,pounds,1925,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,778,1,pounds,1925,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,444047,1,pounds,1926,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,607171,1,pounds,1926,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 8968 Australia, 1500 Gilbert, 500 New Zealand, 5800 Tonga"
+GowaJRHicks20132017,59633,1,pounds,1926,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,17,1,pounds,1926,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1848,1,pounds,1926,fiji,gilbert & ellice islands,imp,,S,,,,,"Countries of consignment. Includes bullion: 8968 Australia, 1500 Gilbert, 500 New Zealand, 5800 Tonga"
+GowaJRHicks20132017,8880,1,pounds,1926,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,48161,1,pounds,1926,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,142225,1,pounds,1926,fiji,new zealand,imp,,S,,,,,"Countries of consignment. Includes bullion: 8968 Australia, 1500 Gilbert, 500 New Zealand, 5800 Tonga"
+GowaJRHicks20132017,24,1,pounds,1926,fiji,niue island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,641,1,pounds,1926,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,520,1,pounds,1926,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,6711,1,pounds,1926,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 8968 Australia, 1500 Gilbert, 500 New Zealand, 5800 Tonga"
+GowaJRHicks20132017,56,1,pounds,1926,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,186,1,pounds,1926,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,29,1,pounds,1926,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1181,1,pounds,1926,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,84,1,pounds,1926,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2089,1,pounds,1926,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,382,1,pounds,1926,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,58,1,pounds,1926,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,708,1,pounds,1926,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,30067,1,pounds,1926,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,41,1,pounds,1926,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,9,1,pounds,1926,fiji,jugoslavia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,81,1,pounds,1926,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,7,1,pounds,1926,fiji,pago pago,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,47,1,pounds,1926,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1926,fiji,portugal,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,69,1,pounds,1926,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,760,1,pounds,1926,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,300,1,pounds,1926,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2,1,pounds,1926,fiji,tahiti,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,123574,1,pounds,1926,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1032,1,pounds,1926,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,297,1,pounds,1926,fiji,ships stores,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,316824,1,pounds,1927,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,528740,1,pounds,1927,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 4095 Australia, 96 India, 3500 Tonga"
+GowaJRHicks20132017,51105,1,pounds,1927,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,22,1,pounds,1927,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,29,1,pounds,1927,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,7839,1,pounds,1927,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,45253,1,pounds,1927,fiji,india,imp,,S,,,,,"Countries of consignment. Includes bullion: 4095 Australia, 96 India, 3500 Tonga"
+GowaJRHicks20132017,124775,1,pounds,1927,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1384,1,pounds,1927,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,12,1,pounds,1927,fiji,solomon islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,123,1,pounds,1927,fiji,south africa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,30,1,pounds,1927,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,4060,1,pounds,1927,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 4095 Australia, 96 India, 3500 Tonga"
+GowaJRHicks20132017,232,1,pounds,1927,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,154,1,pounds,1927,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1927,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1967,1,pounds,1927,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,18,1,pounds,1927,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1694,1,pounds,1927,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,209,1,pounds,1927,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1233,1,pounds,1927,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,634,1,pounds,1927,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,13454,1,pounds,1927,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,50,1,pounds,1927,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1,1,pounds,1927,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,104,1,pounds,1927,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,52,1,pounds,1927,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,13,1,pounds,1927,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,220,1,pounds,1927,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,191,1,pounds,1927,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5,1,pounds,1927,fiji,tahiti,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,122470,1,pounds,1927,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,230,1,pounds,1927,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,168,1,pounds,1927,fiji,parcels post,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,404718,1,pounds,1928,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,621784,1,pounds,1928,fiji,australia,imp,,S,,,,,"Countries of consignment.Includes bullion: 17631 Australia, 26 Gilbert, 10000 New Zealand, 422 Wallis"
+GowaJRHicks20132017,70262,1,pounds,1928,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,283,1,pounds,1928,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,87,1,pounds,1928,fiji,gilbert & ellice islands,imp,,S,,,,,"Countries of consignment.Includes bullion: 17631 Australia, 26 Gilbert, 10000 New Zealand, 422 Wallis"
+GowaJRHicks20132017,11719,1,pounds,1928,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,44613,1,pounds,1928,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,50,1,pounds,1928,fiji,kenya,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,140697,1,pounds,1928,fiji,new zealand,imp,,S,,,,,"Countries of consignment.Includes bullion: 17631 Australia, 26 Gilbert, 10000 New Zealand, 422 Wallis"
+GowaJRHicks20132017,11,1,pounds,1928,fiji,norfolk island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1657,1,pounds,1928,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,26,1,pounds,1928,fiji,south africa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,288,1,pounds,1928,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,308,1,pounds,1928,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,989,1,pounds,1928,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,142,1,pounds,1928,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,87,1,pounds,1928,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1720,1,pounds,1928,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,31,1,pounds,1928,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5466,1,pounds,1928,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,804,1,pounds,1928,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,763,1,pounds,1928,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,28811,1,pounds,1928,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,122,1,pounds,1928,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,11976,1,pounds,1928,fiji,netherlands east indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,383,1,pounds,1928,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,236,1,pounds,1928,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,36,1,pounds,1928,fiji,persia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,39,1,pounds,1928,fiji,philippines,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,214,1,pounds,1928,fiji,poland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,45,1,pounds,1928,fiji,portugal,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,145,1,pounds,1928,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,744,1,pounds,1928,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,447,1,pounds,1928,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,131994,1,pounds,1928,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1472,1,pounds,1928,fiji,wallis island,imp,,S,,,,,"Countries of consignment.Includes bullion: 17631 Australia, 26 Gilbert, 10000 New Zealand, 422 Wallis"
+GowaJRHicks20132017,418570,1,pounds,1929,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,543963,1,pounds,1929,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 10091 Australia, 5000 New Zealand"
+GowaJRHicks20132017,84822,1,pounds,1929,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,59,1,pounds,1929,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1,1,pounds,1929,fiji,fanning island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,85,1,pounds,1929,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,11039,1,pounds,1929,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,69222,1,pounds,1929,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,140418,1,pounds,1929,fiji,new zealand,imp,,S,,,,,"Countries of consignment. Includes bullion: 10091 Australia, 5000 New Zealand"
+GowaJRHicks20132017,3375,1,pounds,1929,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,37,1,pounds,1929,fiji,south africa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,15993,1,pounds,1929,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,554,1,pounds,1929,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,19,1,pounds,1929,fiji,american samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,74,1,pounds,1929,fiji,austria,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1716,1,pounds,1929,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,274,1,pounds,1929,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1929,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2453,1,pounds,1929,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,25,1,pounds,1929,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,4513,1,pounds,1929,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1353,1,pounds,1929,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,660,1,pounds,1929,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,991,1,pounds,1929,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,23576,1,pounds,1929,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,64,1,pounds,1929,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,20746,1,pounds,1929,fiji,netherlands east indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,27,1,pounds,1929,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,126,1,pounds,1929,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,26,1,pounds,1929,fiji,persia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,46,1,pounds,1929,fiji,portugal,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,112,1,pounds,1929,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,887,1,pounds,1929,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,128,1,pounds,1929,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,121441,1,pounds,1929,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1206,1,pounds,1929,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,373694,1,pounds,1930,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,449845,1,pounds,1930,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 125 Australia, 113 India, 26 US"
+GowaJRHicks20132017,52,1,pounds,1930,fiji,british west indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,60076,1,pounds,1930,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,285,1,pounds,1930,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,328,1,pounds,1930,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,9469,1,pounds,1930,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,43239,1,pounds,1930,fiji,india,imp,,S,,,,,"Countries of consignment. Includes bullion: 125 Australia, 113 India, 26 US"
+GowaJRHicks20132017,102339,1,pounds,1930,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2079,1,pounds,1930,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,90,1,pounds,1930,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,399,1,pounds,1930,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,46,1,pounds,1930,fiji,american samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,189,1,pounds,1930,fiji,austria,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1597,1,pounds,1930,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,203,1,pounds,1930,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,14,1,pounds,1930,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3331,1,pounds,1930,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3,1,pounds,1930,fiji,futuna,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5954,1,pounds,1930,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,109,1,pounds,1930,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,650,1,pounds,1930,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,930,1,pounds,1930,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,17135,1,pounds,1930,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,12,1,pounds,1930,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21889,1,pounds,1930,fiji,netherlands east indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,88,1,pounds,1930,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,608,1,pounds,1930,fiji,new hebrides,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,343,1,pounds,1930,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,47,1,pounds,1930,fiji,poland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,17,1,pounds,1930,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1230,1,pounds,1930,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1109,1,pounds,1930,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,10,1,pounds,1930,fiji,tahiti,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,86224,1,pounds,1930,fiji,us,imp,,S,,,,,"Countries of consignment. Includes bullion: 125 Australia, 113 India, 26 US"
+GowaJRHicks20132017,828,1,pounds,1930,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,34723,1,pounds,1930,fiji,parcels post,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,258171,1,pounds,1931,fiji,uk,imp,,S,,,,,"Countries of consignment. Includes bullion: 1000 UK, 800 Australia, 1356 Gilbert and Ellice Islands"
+GowaJRHicks20132017,372284,1,pounds,1931,fiji,australia,imp,,S,,,,,"Countries of consignment. Includes bullion: 1000 UK, 800 Australia, 1356 Gilbert and Ellice Islands"
+GowaJRHicks20132017,40134,1,pounds,1931,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,132,1,pounds,1931,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1741,1,pounds,1931,fiji,gilbert & ellice islands,imp,,S,,,,,"Countries of consignment. Includes bullion: 1000 UK, 800 Australia, 1356 Gilbert and Ellice Islands"
+GowaJRHicks20132017,7851,1,pounds,1931,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,32622,1,pounds,1931,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,81470,1,pounds,1931,fiji,new zealand,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1370,1,pounds,1931,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,91,1,pounds,1931,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,769,1,pounds,1931,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,4,1,pounds,1931,fiji,american samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,31,1,pounds,1931,fiji,austria,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1589,1,pounds,1931,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,756,1,pounds,1931,fiji,china,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,37,1,pounds,1931,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,27,1,pounds,1931,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3256,1,pounds,1931,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3899,1,pounds,1931,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,98,1,pounds,1931,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,279,1,pounds,1931,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,322,1,pounds,1931,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,23909,1,pounds,1931,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,20115,1,pounds,1931,fiji,netherlands east indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,67,1,pounds,1931,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,31,1,pounds,1931,fiji,poland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,116,1,pounds,1931,fiji,portugal,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,46,1,pounds,1931,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,809,1,pounds,1931,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,444,1,pounds,1931,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,51789,1,pounds,1931,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,52,1,pounds,1931,fiji,wallis island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,25203,1,pounds,1931,fiji,parcels post,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,250748,1,pounds,1932,fiji,uk,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,317046,1,pounds,1932,fiji,australia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,197,1,pounds,1932,fiji,burma,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,25675,1,pounds,1932,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,189,1,pounds,1932,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,529,1,pounds,1932,fiji,gilbert & ellice islands,imp,,S,,,,,"Countries of consignment. Includes bullion: 440 Gilbert and Ellice Islands, 1300 New Zealand, 19 Samoa, 120 Tonga"
+GowaJRHicks20132017,8074,1,pounds,1932,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,33944,1,pounds,1932,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,12,1,pounds,1932,fiji,new guinea (british),imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,100255,1,pounds,1932,fiji,new zealand,imp,,S,,,,,"Countries of consignment. Includes bullion: 440 Gilbert and Ellice Islands, 1300 New Zealand, 19 Samoa, 120 Tonga"
+GowaJRHicks20132017,11,1,pounds,1932,fiji,niue island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1848,1,pounds,1932,fiji,samoa,imp,,S,,,,,"Countries of consignment. Includes bullion: 440 Gilbert and Ellice Islands, 1300 New Zealand, 19 Samoa, 120 Tonga"
+GowaJRHicks20132017,921,1,pounds,1932,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,253,1,pounds,1932,fiji,tonga,imp,,S,,,,,"Countries of consignment. Includes bullion: 440 Gilbert and Ellice Islands, 1300 New Zealand, 19 Samoa, 120 Tonga"
+GowaJRHicks20132017,12,1,pounds,1932,fiji,american samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1255,1,pounds,1932,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,895,1,pounds,1932,fiji,china,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,40,1,pounds,1932,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2889,1,pounds,1932,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,7735,1,pounds,1932,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5,1,pounds,1932,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1252,1,pounds,1932,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,446,1,pounds,1932,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,29814,1,pounds,1932,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,22633,1,pounds,1932,fiji,netherlands east indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,502,1,pounds,1932,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,105,1,pounds,1932,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1641,1,pounds,1932,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,587,1,pounds,1932,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,25937,1,pounds,1932,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21896,1,pounds,1932,fiji,parcels post,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,366151,1,pounds,1933,fiji,uk,imp,,S,,,,,"Countries of consignment.Includes bullion: 36200 UK, 400 New Zealand, 2000 Solomon Islands"
+GowaJRHicks20132017,379886,1,pounds,1933,fiji,australia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,38175,1,pounds,1933,fiji,canada,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,358,1,pounds,1933,fiji,ceylon,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8,1,pounds,1933,fiji,fanning island,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,76,1,pounds,1933,fiji,gilbert & ellice islands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,12663,1,pounds,1933,fiji,hong kong,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,39242,1,pounds,1933,fiji,india,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,88174,1,pounds,1933,fiji,new zealand,imp,,S,,,,,"Countries of consignment.Includes bullion: 36200 UK, 400 New Zealand, 2000 Solomon Islands"
+GowaJRHicks20132017,310,1,pounds,1933,fiji,samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,2000,1,pounds,1933,fiji,solomon islands,imp,,S,,,,,"Countries of consignment.Includes bullion: 36200 UK, 400 New Zealand, 2000 Solomon Islands"
+GowaJRHicks20132017,13,1,pounds,1933,fiji,south africa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1126,1,pounds,1933,fiji,straits settlements,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,161,1,pounds,1933,fiji,tonga,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,3,1,pounds,1933,fiji,american samoa,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,561,1,pounds,1933,fiji,belgium,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,858,1,pounds,1933,fiji,china,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,88,1,pounds,1933,fiji,czechoslovakia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,12,1,pounds,1933,fiji,denmark,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,5080,1,pounds,1933,fiji,france,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,8944,1,pounds,1933,fiji,germany,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,23,1,pounds,1933,fiji,hawaii,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,44,1,pounds,1933,fiji,netherlands,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,106,1,pounds,1933,fiji,italy,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,39269,1,pounds,1933,fiji,japan,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,39,1,pounds,1933,fiji,java,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,18794,1,pounds,1933,fiji,netherlands east indies,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1,1,pounds,1933,fiji,new caledonia,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,152,1,pounds,1933,fiji,norway,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,88,1,pounds,1933,fiji,poland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,31,1,pounds,1933,fiji,portugal,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,95,1,pounds,1933,fiji,spain,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1680,1,pounds,1933,fiji,sweden,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,1016,1,pounds,1933,fiji,switzerland,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,42431,1,pounds,1933,fiji,us,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,21608,1,pounds,1933,fiji,parcels post,imp,,,,,,,Countries of consignment
+GowaJRHicks20132017,362763,1,pounds,1934,fiji,uk,imp,,S,,,,,"Countries of origin. Includes bullion: 10000 UK, 195 Australia"
+GowaJRHicks20132017,261108,1,pounds,1934,fiji,australia,imp,,S,,,,,"Countries of origin. Includes bullion: 10000 UK, 195 Australia"
+GowaJRHicks20132017,69,1,pounds,1934,fiji,british guiana,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1034,1,pounds,1934,fiji,burma,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,45309,1,pounds,1934,fiji,canada,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,12249,1,pounds,1934,fiji,ceylon,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,81,1,pounds,1934,fiji,gilbert & ellice islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6807,1,pounds,1934,fiji,hong kong,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,63588,1,pounds,1934,fiji,india,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,203,1,pounds,1934,fiji,jamaica,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,29,1,pounds,1934,fiji,kenya,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,9,1,pounds,1934,fiji,nauru,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1934,fiji,newfoundland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,34343,1,pounds,1934,fiji,new zealand,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,20,1,pounds,1934,fiji,papua,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,30,1,pounds,1934,fiji,samoa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,200,1,pounds,1934,fiji,solomon islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,56,1,pounds,1934,fiji,south africa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1303,1,pounds,1934,fiji,straits settlements,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,671,1,pounds,1934,fiji,tonga,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,749,1,pounds,1934,fiji,trinidad,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,70,1,pounds,1934,fiji,zanzibar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2,1,pounds,1934,fiji,american samoa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,707,1,pounds,1934,fiji,austria,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1079,1,pounds,1934,fiji,belgium,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,8,1,pounds,1934,fiji,brazil,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7806,1,pounds,1934,fiji,china,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,66,1,pounds,1934,fiji,cuba,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,613,1,pounds,1934,fiji,czechoslovakia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,104,1,pounds,1934,fiji,denmark,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1,1,pounds,1934,fiji,finland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4229,1,pounds,1934,fiji,france,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,14192,1,pounds,1934,fiji,germany,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1934,fiji,greece,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,54,1,pounds,1934,fiji,hawaii,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,513,1,pounds,1934,fiji,netherlands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,10,1,pounds,1934,fiji,hungary,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,299,1,pounds,1934,fiji,iraq,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1401,1,pounds,1934,fiji,italy,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,29764,1,pounds,1934,fiji,japan,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2654,1,pounds,1934,fiji,java,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,8,1,pounds,1934,fiji,madagascar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6,1,pounds,1934,fiji,morocco,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,24643,1,pounds,1934,fiji,netherlands east indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,268,1,pounds,1934,fiji,norway,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1,1,pounds,1934,fiji,peru,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,235,1,pounds,1934,fiji,poland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,246,1,pounds,1934,fiji,portugal,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1,1,pounds,1934,fiji,romania,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,19,1,pounds,1934,fiji,russia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,23,1,pounds,1934,fiji,siam,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1135,1,pounds,1934,fiji,spain,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2725,1,pounds,1934,fiji,sweden,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1595,1,pounds,1934,fiji,switzerland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1934,fiji,turkey,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,86285,1,pounds,1934,fiji,us,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,23804,1,pounds,1934,fiji,parcels post,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,495992,1,pounds,1935,fiji,uk,imp,,S,,,,,"Countries of origin. Includes bullion: 13337 UK, 15 Australia"
+GowaJRHicks20132017,307387,1,pounds,1935,fiji,australia,imp,,S,,,,,"Countries of origin. Includes bullion: 13337 UK, 15 Australia"
+GowaJRHicks20132017,40,1,pounds,1935,fiji,british guiana,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,9342,1,pounds,1935,fiji,burma,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,56823,1,pounds,1935,fiji,canada,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,17597,1,pounds,1935,fiji,ceylon,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2,1,pounds,1935,fiji,cyprus,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,49,1,pounds,1935,fiji,gilbert & ellice islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6648,1,pounds,1935,fiji,hong kong,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,86755,1,pounds,1935,fiji,india,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,190,1,pounds,1935,fiji,jamaica,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,50,1,pounds,1935,fiji,kenya,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,8,1,pounds,1935,fiji,newfoundland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,45505,1,pounds,1935,fiji,new zealand,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1587,1,pounds,1935,fiji,palestine,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1935,fiji,papua,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,10,1,pounds,1935,fiji,samoa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,119,1,pounds,1935,fiji,south africa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,729,1,pounds,1935,fiji,straits settlements,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,333,1,pounds,1935,fiji,tonga,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,476,1,pounds,1935,fiji,trinidad,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,94,1,pounds,1935,fiji,zanzibar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,521,1,pounds,1935,fiji,austria,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,11,1,pounds,1935,fiji,batavia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2126,1,pounds,1935,fiji,belgium,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,711,1,pounds,1935,fiji,brazil,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1,1,pounds,1935,fiji,chile,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,9073,1,pounds,1935,fiji,china,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1313,1,pounds,1935,fiji,czechoslovakia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,128,1,pounds,1935,fiji,denmark,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,22,1,pounds,1935,fiji,finland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4755,1,pounds,1935,fiji,france,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,92,1,pounds,1935,fiji,french indo-china,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,11709,1,pounds,1935,fiji,germany,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1935,fiji,greece,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,212,1,pounds,1935,fiji,hawaii,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,960,1,pounds,1935,fiji,netherlands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,293,1,pounds,1935,fiji,iraq,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1838,1,pounds,1935,fiji,italy,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,39625,1,pounds,1935,fiji,japan,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,815,1,pounds,1935,fiji,java,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,47,1,pounds,1935,fiji,jugoslavia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,5,1,pounds,1935,fiji,madagascar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,8,1,pounds,1935,fiji,mexico,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4,1,pounds,1935,fiji,morocco,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,25755,1,pounds,1935,fiji,netherlands east indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,253,1,pounds,1935,fiji,norway,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,12,1,pounds,1935,fiji,persia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,12,1,pounds,1935,fiji,philippines,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,111,1,pounds,1935,fiji,poland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,248,1,pounds,1935,fiji,portugal,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,32,1,pounds,1935,fiji,russia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,23,1,pounds,1935,fiji,siam,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1366,1,pounds,1935,fiji,spain,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3411,1,pounds,1935,fiji,sweden,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2210,1,pounds,1935,fiji,switzerland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6,1,pounds,1935,fiji,turkey,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,95150,1,pounds,1935,fiji,us,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6,1,pounds,1935,fiji,venezuela,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,24677,1,pounds,1935,fiji,parcels post,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,526690,1,pounds,1936,fiji,uk,imp,,S,,,,,"Countries of origin. Includes bullion: 6348 UK, 123 Australia"
+GowaJRHicks20132017,420989,1,pounds,1936,fiji,australia,imp,,S,,,,,"Countries of origin. Includes bullion: 6348 UK, 123 Australia"
+GowaJRHicks20132017,120,1,pounds,1936,fiji,british guiana,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,593,1,pounds,1936,fiji,british west indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,28224,1,pounds,1936,fiji,burma,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,81777,1,pounds,1936,fiji,canada,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,21538,1,pounds,1936,fiji,ceylon,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,9,1,pounds,1936,fiji,cyprus,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,46,1,pounds,1936,fiji,fiji islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,16,1,pounds,1936,fiji,gilbert & ellice islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,16216,1,pounds,1936,fiji,hong kong,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,91997,1,pounds,1936,fiji,india,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,78,1,pounds,1936,fiji,kenya,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1936,fiji,newfoundland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,59633,1,pounds,1936,fiji,new zealand,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2962,1,pounds,1936,fiji,palestine,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1936,fiji,papua,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,653,1,pounds,1936,fiji,south africa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,619,1,pounds,1936,fiji,straits settlements,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,33,1,pounds,1936,fiji,zanzibar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,632,1,pounds,1936,fiji,austria,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2725,1,pounds,1936,fiji,belgium,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1101,1,pounds,1936,fiji,brazil,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,11619,1,pounds,1936,fiji,china,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1361,1,pounds,1936,fiji,czechoslovakia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,496,1,pounds,1936,fiji,denmark,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,5418,1,pounds,1936,fiji,france,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,11476,1,pounds,1936,fiji,germany,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1936,fiji,greece,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,105,1,pounds,1936,fiji,hawaii,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1004,1,pounds,1936,fiji,netherlands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,242,1,pounds,1936,fiji,iraq,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,388,1,pounds,1936,fiji,italy,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,50109,1,pounds,1936,fiji,japan,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1119,1,pounds,1936,fiji,java,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,20,1,pounds,1936,fiji,jugoslavia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,8,1,pounds,1936,fiji,madagascar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,34420,1,pounds,1936,fiji,netherlands east indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,412,1,pounds,1936,fiji,norway,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,163,1,pounds,1936,fiji,poland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,366,1,pounds,1936,fiji,portugal,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,41,1,pounds,1936,fiji,russia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,54,1,pounds,1936,fiji,siam,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1147,1,pounds,1936,fiji,spain,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3706,1,pounds,1936,fiji,sweden,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1259,1,pounds,1936,fiji,switzerland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,16,1,pounds,1936,fiji,turkey,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,91065,1,pounds,1936,fiji,us,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,29176,1,pounds,1936,fiji,parcels post,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,602904,1,pounds,1937,fiji,uk,imp,,S,,,,,"Countries of origin. Includes bullion: 11598 UK, 75 Australia"
+GowaJRHicks20132017,514504,1,pounds,1937,fiji,australia,imp,,S,,,,,"Countries of origin. Includes bullion: 11598 UK, 75 Australia"
+GowaJRHicks20132017,76,1,pounds,1937,fiji,british guiana,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,313,1,pounds,1937,fiji,british west indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,27000,1,pounds,1937,fiji,burma,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,105174,1,pounds,1937,fiji,canada,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,19936,1,pounds,1937,fiji,ceylon,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2,1,pounds,1937,fiji,cook islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1937,fiji,cyprus,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,43,1,pounds,1937,fiji,fiji islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6,1,pounds,1937,fiji,gilbert & ellice islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,28018,1,pounds,1937,fiji,hong kong,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,91800,1,pounds,1937,fiji,india,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,53,1,pounds,1937,fiji,kenya,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,56870,1,pounds,1937,fiji,new zealand,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,43,1,pounds,1937,fiji,ocean island,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3628,1,pounds,1937,fiji,palestine,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4,1,pounds,1937,fiji,papua,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,15,1,pounds,1937,fiji,samoa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1937,fiji,south africa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,553,1,pounds,1937,fiji,straits settlements,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,10,1,pounds,1937,fiji,sudan,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1937,fiji,tonga,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,126,1,pounds,1937,fiji,zanzibar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,514,1,pounds,1937,fiji,austria,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4436,1,pounds,1937,fiji,belgium,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,26,1,pounds,1937,fiji,brazil,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,11933,1,pounds,1937,fiji,china,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,905,1,pounds,1937,fiji,czechoslovakia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,221,1,pounds,1937,fiji,denmark,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,90,1,pounds,1937,fiji,finland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4952,1,pounds,1937,fiji,france,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,15738,1,pounds,1937,fiji,germany,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,9,1,pounds,1937,fiji,greece,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,239,1,pounds,1937,fiji,hawaii,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2284,1,pounds,1937,fiji,netherlands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,187,1,pounds,1937,fiji,iraq,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2909,1,pounds,1937,fiji,italy,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,63046,1,pounds,1937,fiji,japan,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,805,1,pounds,1937,fiji,java,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,35,1,pounds,1937,fiji,madagascar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1,1,pounds,1937,fiji,mexico,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,12,1,pounds,1937,fiji,morocco,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,33391,1,pounds,1937,fiji,netherlands east indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,299,1,pounds,1937,fiji,norway,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1937,fiji,persia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,672,1,pounds,1937,fiji,poland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,383,1,pounds,1937,fiji,portugal,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,54,1,pounds,1937,fiji,russia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1552,1,pounds,1937,fiji,spain,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,5568,1,pounds,1937,fiji,sweden,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3102,1,pounds,1937,fiji,switzerland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4,1,pounds,1937,fiji,turkey,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,120745,1,pounds,1937,fiji,us,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,35534,1,pounds,1937,fiji,parcels post,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,554871,1,pounds,1938,fiji,uk,imp,,S,,,,,"Countries of origin.Includes bullion: 6000 UK, 21 Australia"
+GowaJRHicks20132017,502452,1,pounds,1938,fiji,australia,imp,,S,,,,,"Countries of origin.Includes bullion: 6000 UK, 21 Australia"
+GowaJRHicks20132017,29,1,pounds,1938,fiji,british borneo,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,95,1,pounds,1938,fiji,british guiana,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,689,1,pounds,1938,fiji,british west indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,16993,1,pounds,1938,fiji,burma,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,102052,1,pounds,1938,fiji,canada,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,23090,1,pounds,1938,fiji,ceylon,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,18,1,pounds,1938,fiji,gilbert & ellice islands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,16160,1,pounds,1938,fiji,hong kong,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,105831,1,pounds,1938,fiji,india,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,152,1,pounds,1938,fiji,kenya,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6,1,pounds,1938,fiji,new guinea (british),imp,,,,,,,Countries of origin
+GowaJRHicks20132017,51505,1,pounds,1938,fiji,new zealand,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,43,1,pounds,1938,fiji,ocean island,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1666,1,pounds,1938,fiji,palestine,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,29,1,pounds,1938,fiji,south africa,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,472,1,pounds,1938,fiji,straits settlements,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2,1,pounds,1938,fiji,tonga,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,85,1,pounds,1938,fiji,zanzibar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2214,1,pounds,1938,fiji,belgium,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,14,1,pounds,1938,fiji,brazil,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,8480,1,pounds,1938,fiji,china,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,898,1,pounds,1938,fiji,czechoslovakia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,249,1,pounds,1938,fiji,denmark,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,38,1,pounds,1938,fiji,finland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3336,1,pounds,1938,fiji,france,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,17587,1,pounds,1938,fiji,germany,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,7,1,pounds,1938,fiji,greece,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,649,1,pounds,1938,fiji,hawaii,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2039,1,pounds,1938,fiji,netherlands,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,241,1,pounds,1938,fiji,iraq,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,5042,1,pounds,1938,fiji,italy,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,42609,1,pounds,1938,fiji,japan,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4,1,pounds,1938,fiji,jugoslavia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,18,1,pounds,1938,fiji,madagascar,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,40698,1,pounds,1938,fiji,netherlands east indies,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,13,1,pounds,1938,fiji,new hebrides,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,189,1,pounds,1938,fiji,norway,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,5,1,pounds,1938,fiji,persia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,163,1,pounds,1938,fiji,poland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,245,1,pounds,1938,fiji,portugal,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,86,1,pounds,1938,fiji,russia,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,18,1,pounds,1938,fiji,siam,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1026,1,pounds,1938,fiji,spain,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,6878,1,pounds,1938,fiji,sweden,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,2985,1,pounds,1938,fiji,switzerland,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,3,1,pounds,1938,fiji,tahiti,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,4,1,pounds,1938,fiji,turkey,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,129289,1,pounds,1938,fiji,us,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,34170,1,pounds,1938,fiji,parcels post,imp,,,,,,,Countries of origin
+GowaJRHicks20132017,1060314,1,pounds,1919,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1673121,1,pounds,1920,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1509732,1,pounds,1921,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,946063,1,pounds,1922,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,989060,1,pounds,1923,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1066594,1,pounds,1924,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1271135,1,pounds,1925,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1480945,1,pounds,1926,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1223303,1,pounds,1927,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1483169,1,pounds,1928,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1468609,1,pounds,1929,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1219184,1,pounds,1930,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,929514,1,pounds,1931,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,857346,1,pounds,1932,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,1069266,1,pounds,1933,fiji,total,imp,,,,,,total_reporting,Countries of consignment
+GowaJRHicks20132017,995204,1,pounds,1934,fiji,total,imp,,,,,,total_reporting,Countries of origin
+GowaJRHicks20132017,1257287,1,pounds,1935,fiji,total,imp,,,,,,total_reporting,Countries of origin
+GowaJRHicks20132017,1501854,1,pounds,1936,fiji,total,imp,,,,,,total_reporting,Countries of origin
+GowaJRHicks20132017,1760744,1,pounds,1937,fiji,total,imp,,,,,,total_reporting,Countries of origin
+GowaJRHicks20132017,1675437,1,pounds,1938,fiji,total,imp,,,,,,total_reporting,Countries of origin
+GowaJRHicks20132017,2804178,1,pounds,1920,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,2457851,1,pounds,1921,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1787892,1,pounds,1922,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1461518,1,pounds,1923,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1452215,1,pounds,1924,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,2107014,1,pounds,1925,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1647364,1,pounds,1926,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1930208,1,pounds,1927,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,2633238,1,pounds,1928,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1635935,1,pounds,1929,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1378371,1,pounds,1930,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,932026,1,pounds,1931,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1606349,1,pounds,1932,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1532161,1,pounds,1933,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1341678,1,pounds,1934,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,1725220,1,pounds,1935,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,2023496,1,pounds,1936,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,2121920,1,pounds,1937,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,2458797,1,pounds,1938,fiji,total,exp,,,,,,total_reporting,Countries of final destination
+GowaJRHicks20132017,23607,1,pounds,1920,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,149974,1,pounds,1920,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,510024,1,pounds,1920,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,80,1,pounds,1920,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5749,1,pounds,1920,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1608763,1,pounds,1920,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,496,1,pounds,1920,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1458,1,pounds,1920,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2515,1,pounds,1920,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,500,1,pounds,1920,fiji,china,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7,1,pounds,1920,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,497,1,pounds,1920,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,42159,1,pounds,1920,fiji,netherlands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5515,1,pounds,1920,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,13,1,pounds,1920,fiji,new caledonia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,452429,1,pounds,1920,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,123,1,pounds,1920,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,269,1,pounds,1920,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,164234,1,pounds,1921,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,210783,1,pounds,1921,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,125043,1,pounds,1921,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,76,1,pounds,1921,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,533,1,pounds,1921,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,35,1,pounds,1921,fiji,india,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1835161,1,pounds,1921,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,104,1,pounds,1921,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,472,1,pounds,1921,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,79,1,pounds,1921,fiji,china,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,15,1,pounds,1921,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5,1,pounds,1921,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1122,1,pounds,1921,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,119155,1,pounds,1921,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,990,1,pounds,1921,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,44,1,pounds,1921,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,140096,1,pounds,1922,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,66879,1,pounds,1922,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,97952,1,pounds,1922,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,160,1,pounds,1922,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1922,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1032,1,pounds,1922,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1224994,1,pounds,1922,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,965,1,pounds,1922,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,30,1,pounds,1922,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1399,1,pounds,1922,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,249,1,pounds,1922,fiji,china,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,8,1,pounds,1922,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,205532,1,pounds,1922,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,212,1,pounds,1922,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,28213,1,pounds,1922,fiji,netherlands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,8772,1,pounds,1922,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,26,1,pounds,1922,fiji,new caledonia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,11296,1,pounds,1922,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,14,1,pounds,1922,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,62,1,pounds,1922,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,55674,1,pounds,1923,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,53111,1,pounds,1923,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5908,1,pounds,1923,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7,1,pounds,1923,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,469,1,pounds,1923,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1923,fiji,india,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,937945,1,pounds,1923,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1479,1,pounds,1923,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,3111,1,pounds,1923,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2790,1,pounds,1923,fiji,belgium,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1210,1,pounds,1923,fiji,china,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,188176,1,pounds,1923,fiji,europe,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4346,1,pounds,1923,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,18,1,pounds,1923,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,77091,1,pounds,1923,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,397,1,pounds,1923,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7459,1,pounds,1923,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,52,1,pounds,1923,fiji,new caledonia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,123,1,pounds,1923,fiji,tahiti,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,121963,1,pounds,1923,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,46,1,pounds,1923,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,142,1,pounds,1923,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,20467,1,pounds,1924,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,19109,1,pounds,1924,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,108650,1,pounds,1924,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,493,1,pounds,1924,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,795,1,pounds,1924,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,791654,1,pounds,1924,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4386,1,pounds,1924,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,126,1,pounds,1924,fiji,solomon islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,35,1,pounds,1924,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5215,1,pounds,1924,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,447133,1,pounds,1924,fiji,europe,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4594,1,pounds,1924,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,20,1,pounds,1924,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,25559,1,pounds,1924,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,205,1,pounds,1924,fiji,italy,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,9613,1,pounds,1924,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1494,1,pounds,1924,fiji,tahiti,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,12408,1,pounds,1924,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,91,1,pounds,1924,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,168,1,pounds,1924,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,56379,1,pounds,1925,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,18424,1,pounds,1925,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,504984,1,pounds,1925,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,182,1,pounds,1925,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2471,1,pounds,1925,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1925,fiji,new guinea (british),exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1017499,1,pounds,1925,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,6558,1,pounds,1925,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,112,1,pounds,1925,fiji,solomon islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,430,1,pounds,1925,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4527,1,pounds,1925,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,186,1,pounds,1925,fiji,austria,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,424923,1,pounds,1925,fiji,europe,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,20037,1,pounds,1925,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,22,1,pounds,1925,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,11,1,pounds,1925,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,720,1,pounds,1925,fiji,italy,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,9626,1,pounds,1925,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,12,1,pounds,1925,fiji,pago pago,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,41,1,pounds,1925,fiji,tahiti,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,39546,1,pounds,1925,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,107,1,pounds,1925,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,216,1,pounds,1925,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,124549,1,pounds,1926,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,115646,1,pounds,1926,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,210206,1,pounds,1926,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,56,1,pounds,1926,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,778,1,pounds,1926,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2558,1,pounds,1926,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,664795,1,pounds,1926,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5437,1,pounds,1926,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,227,1,pounds,1926,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4355,1,pounds,1926,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,374325,1,pounds,1926,fiji,europe,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,10754,1,pounds,1926,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,57,1,pounds,1926,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,390,1,pounds,1926,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2581,1,pounds,1926,fiji,italy,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,12351,1,pounds,1926,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,15,1,pounds,1926,fiji,pago pago,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,127,1,pounds,1926,fiji,tahiti,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,117941,1,pounds,1926,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,207,1,pounds,1926,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,9,1,pounds,1926,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,122194,1,pounds,1927,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,33857,1,pounds,1927,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,892544,1,pounds,1927,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,23,1,pounds,1927,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,312,1,pounds,1927,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5880,1,pounds,1927,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,401865,1,pounds,1927,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5851,1,pounds,1927,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,323,1,pounds,1927,fiji,solomon islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,576,1,pounds,1927,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4226,1,pounds,1927,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,3,1,pounds,1927,fiji,czechoslovakia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,362962,1,pounds,1927,fiji,europe,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4341,1,pounds,1927,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,62,1,pounds,1927,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,348,1,pounds,1927,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5,1,pounds,1927,fiji,netherlands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1927,fiji,italy,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7064,1,pounds,1927,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,3,1,pounds,1927,fiji,new caledonia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,73,1,pounds,1927,fiji,new hebrides,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,87427,1,pounds,1927,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,267,1,pounds,1927,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1927,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,384106,1,pounds,1928,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,30440,1,pounds,1928,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1242683,1,pounds,1928,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,16,1,pounds,1928,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,794,1,pounds,1928,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,3137,1,pounds,1928,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,577298,1,pounds,1928,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7737,1,pounds,1928,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,208,1,pounds,1928,fiji,thursday island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5068,1,pounds,1928,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,213740,1,pounds,1928,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,78,1,pounds,1928,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,63889,1,pounds,1928,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,27358,1,pounds,1928,fiji,netherlands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,165,1,pounds,1928,fiji,italy,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4464,1,pounds,1928,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,19216,1,pounds,1928,fiji,spain,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,52690,1,pounds,1928,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,151,1,pounds,1928,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,409465,1,pounds,1929,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,25803,1,pounds,1929,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,546407,1,pounds,1929,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,21,1,pounds,1929,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,673,1,pounds,1929,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5597,1,pounds,1929,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,184676,1,pounds,1929,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5,1,pounds,1929,fiji,norfolk island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,6273,1,pounds,1929,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,86,1,pounds,1929,fiji,solomon islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5447,1,pounds,1929,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,97,1,pounds,1929,fiji,american samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,8569,1,pounds,1929,fiji,belgium,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1929,fiji,denmark,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,101499,1,pounds,1929,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,120,1,pounds,1929,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,42781,1,pounds,1929,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2225,1,pounds,1929,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,8982,1,pounds,1929,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,34163,1,pounds,1929,fiji,spain,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,252653,1,pounds,1929,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,387,1,pounds,1929,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5,1,pounds,1929,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,436761,1,pounds,1930,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,59999,1,pounds,1930,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,386373,1,pounds,1930,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2,1,pounds,1930,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,626,1,pounds,1930,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,17208,1,pounds,1930,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,165492,1,pounds,1930,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2,1,pounds,1930,fiji,norfolk island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7493,1,pounds,1930,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5,1,pounds,1930,fiji,solomon islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4301,1,pounds,1930,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,20,1,pounds,1930,fiji,american samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,44319,1,pounds,1930,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,151,1,pounds,1930,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4799,1,pounds,1930,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2966,1,pounds,1930,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,5175,1,pounds,1930,fiji,netherlands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,7,1,pounds,1930,fiji,italy,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4581,1,pounds,1930,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,39396,1,pounds,1930,fiji,spain,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,198319,1,pounds,1930,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,353,1,pounds,1930,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,23,1,pounds,1930,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,119955,1,pounds,1931,fiji,uk,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,19997,1,pounds,1931,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,510197,1,pounds,1931,fiji,canada,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1,1,pounds,1931,fiji,fanning island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,739,1,pounds,1931,fiji,gilbert & ellice islands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,15707,1,pounds,1931,fiji,hong kong,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,130091,1,pounds,1931,fiji,new zealand,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,6,1,pounds,1931,fiji,phoenix island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4104,1,pounds,1931,fiji,samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,2597,1,pounds,1931,fiji,tonga,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4,1,pounds,1931,fiji,american samoa,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,955,1,pounds,1931,fiji,france,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,108,1,pounds,1931,fiji,futuna,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,24130,1,pounds,1931,fiji,germany,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,1354,1,pounds,1931,fiji,hawaii,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4702,1,pounds,1931,fiji,netherlands,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,4380,1,pounds,1931,fiji,japan,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,41611,1,pounds,1931,fiji,spain,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,51166,1,pounds,1931,fiji,us,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,131,1,pounds,1931,fiji,wallis island,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,91,1,pounds,1931,fiji,ships stores,exp,,S,,,,,Countries of final destination. Includes bullion: 0
+GowaJRHicks20132017,842400,1,pounds,1932,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,17785,1,pounds,1932,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 2053 Australia
+GowaJRHicks20132017,18,1,pounds,1932,fiji,british west indies,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,530277,1,pounds,1932,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,77,1,pounds,1932,fiji,fanning island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,383,1,pounds,1932,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,8569,1,pounds,1932,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,134905,1,pounds,1932,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4988,1,pounds,1932,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,7,1,pounds,1932,fiji,solomon islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2328,1,pounds,1932,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,697,1,pounds,1932,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,6995,1,pounds,1932,fiji,france,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,28,1,pounds,1932,fiji,futuna,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,608,1,pounds,1932,fiji,germany,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,11,1,pounds,1932,fiji,hawaii,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,886,1,pounds,1932,fiji,netherlands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,16252,1,pounds,1932,fiji,italy,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4071,1,pounds,1932,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,3267,1,pounds,1932,fiji,spain,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,31740,1,pounds,1932,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,5,1,pounds,1932,fiji,wallis island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,52,1,pounds,1932,fiji,ships stores,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,736521,1,pounds,1933,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,48402,1,pounds,1933,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 13500 Australia
+GowaJRHicks20132017,501628,1,pounds,1933,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,127,1,pounds,1933,fiji,fanning island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,511,1,pounds,1933,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1336,1,pounds,1933,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1,1,pounds,1933,fiji,jamaica,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,91091,1,pounds,1933,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4399,1,pounds,1933,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,10,1,pounds,1933,fiji,solomon islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2761,1,pounds,1933,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,533,1,pounds,1933,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,114509,1,pounds,1933,fiji,europe,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1677,1,pounds,1933,fiji,germany,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,13,1,pounds,1933,fiji,hawaii,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2999,1,pounds,1933,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4349,1,pounds,1933,fiji,mexico,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,21285,1,pounds,1933,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,7,1,pounds,1933,fiji,wallis island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2,1,pounds,1933,fiji,ships stores,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,641305,1,pounds,1934,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,45171,1,pounds,1934,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 7590 Australia
+GowaJRHicks20132017,470209,1,pounds,1934,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,22,1,pounds,1934,fiji,ceylon,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,751,1,pounds,1934,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1408,1,pounds,1934,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,82385,1,pounds,1934,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,52,1,pounds,1934,fiji,ocean island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2699,1,pounds,1934,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,109,1,pounds,1934,fiji,solomon islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2213,1,pounds,1934,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,24,1,pounds,1934,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,67510,1,pounds,1934,fiji,europe,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,6981,1,pounds,1934,fiji,france,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2633,1,pounds,1934,fiji,germany,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,10,1,pounds,1934,fiji,hawaii,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,3,1,pounds,1934,fiji,italy,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2822,1,pounds,1934,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4599,1,pounds,1934,fiji,mexico,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,10746,1,pounds,1934,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,26,1,pounds,1934,fiji,ships stores,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,878833,1,pounds,1935,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,112993,1,pounds,1935,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 54019 Australia
+GowaJRHicks20132017,457273,1,pounds,1935,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,345,1,pounds,1935,fiji,fanning island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,426,1,pounds,1935,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1885,1,pounds,1935,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,29,1,pounds,1935,fiji,jamaica,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,83248,1,pounds,1935,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,3627,1,pounds,1935,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,99,1,pounds,1935,fiji,solomon islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1582,1,pounds,1935,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,85,1,pounds,1935,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,7,1,pounds,1935,fiji,china,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,81904,1,pounds,1935,fiji,europe,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,9113,1,pounds,1935,fiji,france,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,240,1,pounds,1935,fiji,germany,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,3,1,pounds,1935,fiji,hawaii,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,13052,1,pounds,1935,fiji,netherlands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2004,1,pounds,1935,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,30925,1,pounds,1935,fiji,mexico,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,200,1,pounds,1935,fiji,new hebrides,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,6715,1,pounds,1935,fiji,sweden,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,40632,1,pounds,1935,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,794649,1,pounds,1936,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,220503,1,pounds,1936,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 131746 Australia
+GowaJRHicks20132017,546764,1,pounds,1936,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,223,1,pounds,1936,fiji,fanning island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,346,1,pounds,1936,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,258,1,pounds,1936,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,105057,1,pounds,1936,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,5889,1,pounds,1936,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,37,1,pounds,1936,fiji,solomon islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2179,1,pounds,1936,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,245,1,pounds,1936,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,182565,1,pounds,1936,fiji,europe,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,17046,1,pounds,1936,fiji,france,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,7508,1,pounds,1936,fiji,germany,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,8567,1,pounds,1936,fiji,netherlands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,5275,1,pounds,1936,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,33016,1,pounds,1936,fiji,mexico,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4582,1,pounds,1936,fiji,spain,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,88787,1,pounds,1936,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,843362,1,pounds,1937,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,243663,1,pounds,1937,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 166243 Australia
+GowaJRHicks20132017,594651,1,pounds,1937,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,12,1,pounds,1937,fiji,ceylon,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,270,1,pounds,1937,fiji,cook island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,394,1,pounds,1937,fiji,fanning island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,604,1,pounds,1937,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,284,1,pounds,1937,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,5,1,pounds,1937,fiji,new guinea (british),exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,108147,1,pounds,1937,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,13,1,pounds,1937,fiji,niue island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,144,1,pounds,1937,fiji,ocean island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,5787,1,pounds,1937,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,13,1,pounds,1937,fiji,solomon islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,3051,1,pounds,1937,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,231,1,pounds,1937,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,108065,1,pounds,1937,fiji,europe,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,24854,1,pounds,1937,fiji,france,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,14,1,pounds,1937,fiji,hawaii,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,16251,1,pounds,1937,fiji,netherlands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4829,1,pounds,1937,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,20390,1,pounds,1937,fiji,mexico,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,719,1,pounds,1937,fiji,tahiti,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,146080,1,pounds,1937,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,87,1,pounds,1937,fiji,ships stores,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,829358,1,pounds,1938,fiji,uk,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,767098,1,pounds,1938,fiji,australia,exp,,S,,,,,Countries of final destination. Includes bullion: 702374 Australia
+GowaJRHicks20132017,552311,1,pounds,1938,fiji,canada,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,289,1,pounds,1938,fiji,cook island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,289,1,pounds,1938,fiji,fanning island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1320,1,pounds,1938,fiji,gilbert & ellice islands,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,182,1,pounds,1938,fiji,hong kong,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,94,1,pounds,1938,fiji,new guinea (british),exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,100267,1,pounds,1938,fiji,new zealand,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,95,1,pounds,1938,fiji,ocean island,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,4748,1,pounds,1938,fiji,samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2053,1,pounds,1938,fiji,tonga,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,315,1,pounds,1938,fiji,american samoa,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,120763,1,pounds,1938,fiji,europe,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,2009,1,pounds,1938,fiji,germany,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,5,1,pounds,1938,fiji,italy,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,1760,1,pounds,1938,fiji,japan,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,6869,1,pounds,1938,fiji,mexico,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,17,1,pounds,1938,fiji,new hebrides,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,216,1,pounds,1938,fiji,tahiti,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,68618,1,pounds,1938,fiji,us,exp,,,,,,,Countries of final destination
+GowaJRHicks20132017,121,1,pounds,1938,fiji,ships stores,exp,,,,,,,Countries of final destination
