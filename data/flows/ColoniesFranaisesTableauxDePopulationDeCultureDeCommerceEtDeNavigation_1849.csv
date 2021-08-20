@@ -1,0 +1,46 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_50,13317293,1,francs,1849,martinique,france,exp,gen,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_50,2489351,1,francs,1849,martinique,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_64,12997006,1,francs,1849,guadeloupe,france,exp,gen,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_64,1688589,1,francs,1849,guadeloupe,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_76,1317823,1,francs,1849,guyane française,france,exp,gen,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_76,773230,1,francs,1849,guyane française,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_84,15831115,1,francs,1849,réunion,france,exp,gen,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_84,4835108,1,francs,1849,réunion,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_98,2155123,1,francs,1849,sénégal. saint-louis,france,exp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_98,2623325,1,francs,1849,sénégal. saint-louis,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_108,315990,1,francs,1849,sénégal. gorée,france,exp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_108,1133226,1,francs,1849,sénégal. gorée,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_121,4269598,1,francs,1849,etablissements français dans l'inde,france,exp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_121,1326967,1,francs,1849,etablissements français dans l'inde,etranger,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_50,16689326,1,francs,1849,martinique,france,imp,spe,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_50,45505,1,francs,1849,martinique,colonies françaises,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_50,80147,1,francs,1849,martinique,etranger,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_64,10508075,1,francs,1849,guadeloupe,france,imp,spe,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_64,8447,1,francs,1849,guadeloupe,colonies françaises,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_64,1712,1,francs,1849,guadeloupe,etranger,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_76,2156217,1,francs,1849,guyane française,france,imp,spe,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_76,3000,1,francs,1849,guyane française,colonies françaises,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_76,114615,1,francs,1849,guyane française,etranger,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_84,7234371,1,francs,1849,réunion,france,imp,spe,,,,,,Valeurs actuelles
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_84,43556,1,francs,1849,réunion,colonies françaises,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_84,257821,1,francs,1849,réunion,etranger,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_98,2360187,1,francs,1849,sénégal. saint-louis,france,imp,spe,,,,,,Dans ce chiffre n'est pas comprise la valeur des exportations en numéraire ou en or brut. Il n'a été fourni à cet égard aucune indication par les douanes locales pour 1849.
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_98,70330,1,francs,1849,sénégal. saint-louis,colonies françaises,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_98,243543,1,francs,1849,sénégal. saint-louis,etranger,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_108,1042483,1,francs,1849,sénégal. gorée,france,imp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_121,402366,1,francs,1849,etablissements français dans l'inde,france,imp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_121,1135923,1,francs,1849,etablissements français dans l'inde,colonies françaises,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_121,1529701,1,francs,1849,etablissements français dans l'inde,etranger,exp,spe,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_50,1102371,1,francs,1849,martinique,colonies françaises,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_64,1475675,1,francs,1849,guadeloupe,colonies françaises,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_84,1910133,1,francs,1849,réunion,colonies françaises,imp,gen,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_98,429368,1,francs,1849,sénégal. saint-louis,colonies françaises,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_108,420169,1,francs,1849,sénégal. gorée,colonies françaises,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_116,955347,1,francs,1849,saint-pierre et miquelon,france,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_116,1488498,1,francs,1849,saint-pierre et miquelon,france,exp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_116,25855,1,francs,1849,saint-pierre et miquelon,colonies françaises,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_116,2718483,1,francs,1849,saint-pierre et miquelon,colonies françaises,exp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_116,1282074,1,francs,1849,saint-pierre et miquelon,etranger,imp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_116,334508,1,francs,1849,saint-pierre et miquelon,etranger,exp,,,,,,,
+ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1849_121,619431,1,francs,1849,etablissements français dans l'inde,colonies françaises,imp,,,,,,,
