@@ -149,9 +149,9 @@ id,RICname_group,RICname_part
 148,Assam & Bengal & Bihar & Odisha,Odisha
 149,Australia & Canada (Province of Canada),Australia
 150,Australia & Canada (Province of Canada),Canada (Province of Canada)
-151,Australia & Cape Colony & Mauritius,Australia
-152,Australia & Cape Colony & Mauritius,Cape Colony
-153,Australia & Cape Colony & Mauritius,Mauritius
+151,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Australia
+152,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Cape Colony (Cape of Good Hope)
+153,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Mauritius
 154,Australia & Hawaii (Sandwich Is.),Australia
 155,Australia & Hawaii (Sandwich Is.),Hawaii (Sandwich Is.)
 156,Australia & New Caledonia & New Zealand,Australia
@@ -225,11 +225,11 @@ id,RICname_group,RICname_part
 224,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Morocco
 225,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tripolitania
 226,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tunisia (Tunis)
-227,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Algeria (Algiers)
-228,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Morocco
-229,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tripolitania
-230,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tunisia (Tunis)
-231,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+227,Barbary Coast (Algiers & Egypt Arab Republic (Egypt) & Morocco & Tripolitania & Tunis),Algeria (Algiers)
+228,Barbary Coast (Algiers & Egypt Arab Republic (Egypt) & Morocco & Tripolitania & Tunis),Morocco
+229,Barbary Coast (Algiers & Egypt Arab Republic (Egypt) & Morocco & Tripolitania & Tunis),Tripolitania
+230,Barbary Coast (Algiers & Egypt Arab Republic (Egypt) & Morocco & Tripolitania & Tunis),Tunisia (Tunis)
+231,Barbary Coast (Algiers & Egypt Arab Republic (Egypt) & Morocco & Tripolitania & Tunis),Egypt Arab Republic (Egypt)
 232,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Algeria (Algiers)
 233,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Morocco
 234,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Tripolitania
@@ -329,13 +329,13 @@ id,RICname_group,RICname_part
 328,British Columbia & Rupert's Land,Rupert's Land
 329,British Columbia & Vancouver,British Columbia
 330,British Columbia & Vancouver,Vancouver
-331,British East Africa & Cape Colony & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),British East Africa
-332,British East Africa & Cape Colony & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Cape Colony
-333,British East Africa & Cape Colony & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Egypt Arab Republic (Egypt)
-334,British East Africa & Cape Colony & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
-335,British East Africa & Cape Colony & Madagascar (Malagasy Republic),British East Africa
-336,British East Africa & Cape Colony & Madagascar (Malagasy Republic),Cape Colony
-337,British East Africa & Cape Colony & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+331,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),British East Africa
+332,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
+333,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Egypt Arab Republic (Egypt)
+334,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+335,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),British East Africa
+336,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
+337,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
 338,British East Africa & Pemba Island & Zanzibar,British East Africa
 339,British East Africa & Pemba Island & Zanzibar,Pemba Island
 340,British East Africa & Pemba Island & Zanzibar,Zanzibar
@@ -347,11 +347,11 @@ id,RICname_group,RICname_part
 346,British North America & United States of America,United States of America
 347,British Oceania & New Zealand,British Oceania
 348,British Oceania & New Zealand,New Zealand
-349,British South Africa & Cape Colony,British South Africa
-350,British South Africa & Cape Colony,Cape Colony
-351,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),British Virgin Is.
-352,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),Puerto Rico
-353,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+349,British South Africa & Cape Colony (Cape of Good Hope),British South Africa
+350,British South Africa & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
+351,British Virgin Is. & Puerto Rico & Virgin Islands,British Virgin Is.
+352,British Virgin Is. & Puerto Rico & Virgin Islands,Puerto Rico
+353,British Virgin Is. & Puerto Rico & Virgin Islands,Virgin Islands
 354,British West Indies & United Kingdom,British West Indies
 355,British West Indies & United Kingdom,United Kingdom
 356,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,British West Indies (other)
@@ -396,11 +396,11 @@ id,RICname_group,RICname_part
 395,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland),Newfoundland and Labrador (Newfoundland)
 396,Canada (Province of Canada) & United States of America,Canada (Province of Canada)
 397,Canada (Province of Canada) & United States of America,United States of America
-398,Canary Is. & Cape Colony,Canary Is.
-399,Canary Is. & Cape Colony,Cape Colony
-400,Canary Is. & Cape Colony & Madagascar (Malagasy Republic),Canary Is.
-401,Canary Is. & Cape Colony & Madagascar (Malagasy Republic),Cape Colony
-402,Canary Is. & Cape Colony & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+398,Canary Is. & Cape Colony (Cape of Good Hope),Canary Is.
+399,Canary Is. & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
+400,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Canary Is.
+401,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
+402,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
 403,Canary Is. & Madeira Isles,Canary Is.
 404,Canary Is. & Madeira Isles,Madeira Isles
 405,Canary Is. & Spain,Canary Is.
@@ -411,23 +411,23 @@ id,RICname_group,RICname_part
 410,Canary Is. & Tenerife,Tenerife
 411,Cape Breton I. & Nova Scotia,Cape Breton I.
 412,Cape Breton I. & Nova Scotia,Nova Scotia
-413,Cape Colony & East Indies & Mauritius,Cape Colony
-414,Cape Colony & East Indies & Mauritius,East Indies
-415,Cape Colony & East Indies & Mauritius,Mauritius
-416,Cape Colony & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Cape Colony
-417,Cape Colony & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Gambia
-418,Cape Colony & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Guinea (French Guinea) (Rivieres du Sud)
-419,Cape Colony & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Mauritius
-420,Cape Colony & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Senegal
-421,Cape Colony & India,Cape Colony
-422,Cape Colony & India,India
-423,Cape Colony & Mauritius,Cape Colony
-424,Cape Colony & Mauritius,Mauritius
-425,Cape Colony & Mauritius & New South Wales,Cape Colony
-426,Cape Colony & Mauritius & New South Wales,Mauritius
-427,Cape Colony & Mauritius & New South Wales,New South Wales
-428,Cape Colony & Natal,Cape Colony
-429,Cape Colony & Natal,Natal
+413,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,Cape Colony (Cape of Good Hope)
+414,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,East Indies
+415,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,Mauritius
+416,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Cape Colony (Cape of Good Hope)
+417,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Gambia
+418,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Guinea (French Guinea) (Rivieres du Sud)
+419,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Mauritius
+420,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Senegal
+421,Cape Colony (Cape of Good Hope) & India,Cape Colony (Cape of Good Hope)
+422,Cape Colony (Cape of Good Hope) & India,India
+423,Cape Colony (Cape of Good Hope) & Mauritius,Cape Colony (Cape of Good Hope)
+424,Cape Colony (Cape of Good Hope) & Mauritius,Mauritius
+425,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,Cape Colony (Cape of Good Hope)
+426,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,Mauritius
+427,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,New South Wales
+428,Cape Colony (Cape of Good Hope) & Natal,Cape Colony (Cape of Good Hope)
+429,Cape Colony (Cape of Good Hope) & Natal,Natal
 430,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Cape Verde
 431,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",East Timor (Portuguese Timor)
 432,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Macao
@@ -633,8 +633,8 @@ id,RICname_group,RICname_part
 632,Denmark & Russia (USSR) & Sweden,Denmark
 633,Denmark & Russia (USSR) & Sweden,Russia (USSR)
 634,Denmark & Russia (USSR) & Sweden,Sweden
-637,Denmark & Virgin Islands (Danish West Indies),Denmark
-638,Denmark & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+637,Denmark & Virgin Islands,Denmark
+638,Denmark & Virgin Islands,Virgin Islands
 639,Djibouti (Afar and Issas) (French Somaliland) & Eritrea,Djibouti (Afar and Issas) (French Somaliland)
 640,Djibouti (Afar and Issas) (French Somaliland) & Eritrea,Eritrea
 641,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Djibouti (Afar and Issas) (French Somaliland)
@@ -786,11 +786,11 @@ id,RICname_group,RICname_part
 787,French West Africa & Senegal,Senegal
 788,French West Africa & Togo (French Togoland),French West Africa
 789,French West Africa & Togo (French Togoland),Togo (French Togoland)
-790,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),French West Indies
-791,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Netherlands Antilles
-792,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Spanish West Indies
-793,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),St. Barthelemy
-794,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+790,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands,French West Indies
+791,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands,Netherlands Antilles
+792,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands,Spanish West Indies
+793,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands,St. Barthelemy
+794,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands,Virgin Islands
 795,French West Indies & St. Pierre and Miquelon,French West Indies
 796,French West Indies & St. Pierre and Miquelon,St. Pierre and Miquelon
 797,Galicia & Poland & Russian provinces,Galicia
@@ -815,10 +815,10 @@ id,RICname_group,RICname_part
 816,German Colonies & Germany (Zollverein),Germany (Zollverein)
 817,German East Africa & Germany (Zollverein),German East Africa
 818,German East Africa & Germany (Zollverein),Germany (Zollverein)
-819,German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),German Ports
-820,German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
-821,German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
-822,German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck
+819,German Ports & Hamburg & Hanse Towns (Bremen & Lübeck),German Ports
+820,German Ports & Hamburg & Hanse Towns (Bremen & Lübeck),Bremen
+821,German Ports & Hamburg & Hanse Towns (Bremen & Lübeck),Hamburg
+822,German Ports & Hamburg & Hanse Towns (Bremen & Lübeck),Lübeck
 823,German Togoland & Kamerun,German Togoland
 824,German Togoland & Kamerun,Kamerun
 825,German Togoland & Kamerun & Namibia (South West Africa) (German West Africa),German Togoland
@@ -826,10 +826,10 @@ id,RICname_group,RICname_part
 827,German Togoland & Kamerun & Namibia (South West Africa) (German West Africa),Namibia (South West Africa) (German West Africa)
 828,Germany (Zollverein) & Hamburg,Germany (Zollverein)
 829,Germany (Zollverein) & Hamburg,Hamburg
-830,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Germany (Zollverein)
-831,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
-832,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
-833,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck
+830,Germany (Zollverein) & Hamburg & Hanse Towns (Bremen & Lübeck),Germany (Zollverein)
+831,Germany (Zollverein) & Hamburg & Hanse Towns (Bremen & Lübeck),Bremen
+832,Germany (Zollverein) & Hamburg & Hanse Towns (Bremen & Lübeck),Hamburg
+833,Germany (Zollverein) & Hamburg & Hanse Towns (Bremen & Lübeck),Lübeck
 834,Germany (Zollverein) & Rhine,Germany (Zollverein)
 835,Germany (Zollverein) & Rhine,Rhine
 836,Germany (Zollverein) & Saar,Germany (Zollverein)
@@ -900,14 +900,14 @@ id,RICname_group,RICname_part
 901,Haiti & Venezuela,Venezuela
 902,Hamburg & North Germany,Hamburg
 903,Hamburg & North Germany,North Germany
-904,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hanover
-905,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Bremen
-906,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hamburg
-907,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Lübeck
-908,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Heligoland
-909,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Kniphausen
-910,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
-911,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Oldenburg
+904,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Hanover
+905,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Bremen
+906,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Hamburg
+907,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Lübeck
+908,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Heligoland
+909,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Kniphausen
+910,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
+911,Hamburg & Hanover & Hanse Towns (Bremen & Heligoland & Kniphausen & Lübeck) & Mecklenburg Schwerin & Oldenburg,Oldenburg
 912,Hanover & Mecklenburg Schwerin & Oldenburg,Hanover
 913,Hanover & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
 914,Hanover & Mecklenburg Schwerin & Oldenburg,Oldenburg
@@ -916,21 +916,21 @@ id,RICname_group,RICname_part
 917,Hanover & Mecklenburg Schwerin & Prussia,Prussia
 918,Hanover & Oldenburg,Hanover
 919,Hanover & Oldenburg,Oldenburg
-920,Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
-921,Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
-922,Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck
-923,Hanse Towns (Bremen & Hamburg & Lübeck) & Hanover,Bremen
-924,Hanse Towns (Bremen & Hamburg & Lübeck) & Hanover,Hamburg
-925,Hanse Towns (Bremen & Hamburg & Lübeck) & Hanover,Lübeck
-926,Hanse Towns (Bremen & Hamburg & Lübeck) & Hanover,Hanover
-927,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Bremen
-928,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Hamburg
-929,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Lübeck
-930,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Netherlands
-931,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Bremen
-932,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Hamburg
-933,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Lübeck
-934,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Prussia
+920,Hamburg & Hanse Towns (Bremen & Lübeck),Bremen
+921,Hamburg & Hanse Towns (Bremen & Lübeck),Hamburg
+922,Hamburg & Hanse Towns (Bremen & Lübeck),Lübeck
+923,Hamburg & Hanover & Hanse Towns (Bremen & Lübeck),Bremen
+924,Hamburg & Hanover & Hanse Towns (Bremen & Lübeck),Hamburg
+925,Hamburg & Hanover & Hanse Towns (Bremen & Lübeck),Lübeck
+926,Hamburg & Hanover & Hanse Towns (Bremen & Lübeck),Hanover
+927,Hamburg & Hanse Towns (Bremen & Lübeck) & Netherlands,Bremen
+928,Hamburg & Hanse Towns (Bremen & Lübeck) & Netherlands,Hamburg
+929,Hamburg & Hanse Towns (Bremen & Lübeck) & Netherlands,Lübeck
+930,Hamburg & Hanse Towns (Bremen & Lübeck) & Netherlands,Netherlands
+931,Hamburg & Hanse Towns (Bremen & Lübeck) & Prussia,Bremen
+932,Hamburg & Hanse Towns (Bremen & Lübeck) & Prussia,Hamburg
+933,Hamburg & Hanse Towns (Bremen & Lübeck) & Prussia,Lübeck
+934,Hamburg & Hanse Towns (Bremen & Lübeck) & Prussia,Prussia
 935,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,Hawaii (Sandwich Is.)
 936,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,Puerto Rico
 937,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,United States of America
@@ -996,9 +996,9 @@ id,RICname_group,RICname_part
 997,Iraq (Mesopotamia) & Kuwait,Kuwait
 998,Ireland & United Kingdom,Ireland
 999,Ireland & United Kingdom,United Kingdom
-1000,Istanbul (Constantinople) & Greece & Levant,Istanbul (Constantinople)
-1001,Istanbul (Constantinople) & Greece & Levant,Greece
-1002,Istanbul (Constantinople) & Greece & Levant,Levant
+1000,Greece & Istanbul (Constantinople) & Levant,Istanbul (Constantinople)
+1001,Greece & Istanbul (Constantinople) & Levant,Greece
+1002,Greece & Istanbul (Constantinople) & Levant,Levant
 1003,Istanbul (Constantinople) & Izmir (Smyrna),Istanbul (Constantinople)
 1004,Istanbul (Constantinople) & Izmir (Smyrna),Izmir (Smyrna)
 1005,Istanbul (Constantinople) & Turkish Ports,Istanbul (Constantinople)
@@ -1043,9 +1043,9 @@ id,RICname_group,RICname_part
 1044,Jordan (Transjordan) & Palestine,Palestine
 1045,Karachi & Mumbai (Bombay),Karachi
 1046,Karachi & Mumbai (Bombay),Mumbai (Bombay)
-1047,Karachi & Mumbai (Bombay) & Indian Ports (other),Karachi
-1048,Karachi & Mumbai (Bombay) & Indian Ports (other),Mumbai (Bombay)
-1049,Karachi & Mumbai (Bombay) & Indian Ports (other),Indian Ports (other)
+1047,Indian Ports (other) & Karachi & Mumbai (Bombay),Karachi
+1048,Indian Ports (other) & Karachi & Mumbai (Bombay),Mumbai (Bombay)
+1049,Indian Ports (other) & Karachi & Mumbai (Bombay),Indian Ports (other)
 1050,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),Kenya (British East Africa Protectorate)
 1051,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),Malawi (Nyasaland) (British Central Africa Protectorate)
 1052,Kenya (British East Africa Protectorate) & Uganda,Kenya (British East Africa Protectorate)
@@ -1100,8 +1100,8 @@ id,RICname_group,RICname_part
 1101,Lucca & Tuscany,Tuscany
 1102,Macao & People's Republic of China (China),Macao
 1103,Macao & People's Republic of China (China),People's Republic of China (China)
-1104,Madagascar (Malagasy Republic) & Malagasy Republic (Madagascar) Dependencies,Madagascar (Malagasy Republic)
-1105,Madagascar (Malagasy Republic) & Malagasy Republic (Madagascar) Dependencies,Malagasy Republic (Madagascar) Dependencies
+1104,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,Madagascar (Malagasy Republic)
+1105,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,Madagascar (Malagasy Republic) Dependencies
 1106,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Madagascar (Malagasy Republic)
 1107,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Mayotte
 1108,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Nossi Be
@@ -1190,8 +1190,8 @@ id,RICname_group,RICname_part
 1191,Mozambique & Zambia (Northern Rhodesia),Zambia (Northern Rhodesia)
 1192,Mozambique & Zanzibar,Mozambique
 1193,Mozambique & Zanzibar,Zanzibar
-1194,Mumbai (Bombay) & Indian Ports (other),Mumbai (Bombay)
-1195,Mumbai (Bombay) & Indian Ports (other),Indian Ports (other)
+1194,Indian Ports (other) & Mumbai (Bombay),Mumbai (Bombay)
+1195,Indian Ports (other) & Mumbai (Bombay),Indian Ports (other)
 1196,Mumbai (Bombay) & Sindh,Mumbai (Bombay)
 1197,Mumbai (Bombay) & Sindh,Sindh
 1198,Myanmar (Burma) & Thailand (Siam),Myanmar (Burma)
@@ -1286,16 +1286,16 @@ id,RICname_group,RICname_part
 1287,Puerto Rico & Spanish West Indies (other),Spanish West Indies (other)
 1288,Puerto Rico & St. Thomas,Puerto Rico
 1289,Puerto Rico & St. Thomas,St. Thomas
-1290,Puerto Rico & Virgin Islands (Danish West Indies),Puerto Rico
-1291,Puerto Rico & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+1290,Puerto Rico & Virgin Islands,Puerto Rico
+1291,Puerto Rico & Virgin Islands,Virgin Islands
 1292,Republic of St. Mark & Trieste,Republic of St. Mark
 1293,Republic of St. Mark & Trieste,Trieste
 1294,Russia (Baltic Sea) & Russia (White Sea),Russia (Baltic Sea)
 1295,Russia (Baltic Sea) & Russia (White Sea),Russia (White Sea)
 1296,Russia (USSR) & Russian Colonies,Russia (USSR)
 1297,Russia (USSR) & Russian Colonies,Russian Colonies
-1298,Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Saudi Arabia (Kingdom of Hejaz and Nedj)
-1299,Saudi Arabia (Kingdom of Hejaz and Nedj) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
+1298,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Saudi Arabia (Emirate of Nejd)
+1299,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 1300,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Altenburg
 1301,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Coburg and Gotha
 1302,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Meiningen

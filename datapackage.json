@@ -255,6 +255,15 @@
             "type": "number",
             "description": "wikidata entity ID"
           }
+        ],
+        "foreignKeys": [
+          {
+            "fields": "part_of_country",
+            "reference": {
+              "resource": "ricentities",
+              "fields": "RICname"
+            }
+          }
         ]
       }
     },
