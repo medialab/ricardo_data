@@ -180,7 +180,10 @@ def change_RICnames(RICname_modifications):
 
     modified = _update_RICdatafile(
         "../data/RICentities.csv", "RICname", True, True)
-    print(f"{modified} lines modified in RICentities.csv")
+    print(f"{modified} lines modified in RICname from RICentities.csv")
+    modified = _update_RICdatafile(
+        "../data/RICentities.csv", "part_of_GPH_entity", True, True)
+    print(f"{modified} lines modified in part_of_GPH_entity from RICentities.csv")
     # entity name
     modified = _update_RICdatafile("../data/entity_names.csv", "RICname")
     print(f"{modified} lines modified in entity_names.csv")

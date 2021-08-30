@@ -43,13 +43,29 @@ def aggregate_flows_from_csv_files():
                     flow_one_f.write(data)
                     headers_wrote = True
 
-# MAIN: launch action from arg
+# control flows file are in datapackage
 
+
+def control_flow_files():
+    ricardo_package = Package(os.path.join(
+        DATAPACKAGE_ROOT_DIR, 'datapackage.json'), DATAPACKAGE_ROOT_DIR, strict=True)
+    flows_resource = ricardo_package.get_resource('flows')
+
+    for dirpath, dirnames, filenames in os.walk(os.path.join(DATAPACKAGE_ROOT_DIR, 'data', 'flows')):
+        missing_file_in_datapackage = [
+            f for f in filenames if f"data/flows/{f}" not in flows_resource.descriptor["path"]]
+        print(missing_file_in_datapackage)
+        print(
+            f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
+
+
+# MAIN: launch action from arg
 
 ACTIONS = {
     'aggregate': aggregate_flows_from_csv_files,
     'aggregate_datascape': aggregate_flows_from_datapackage,
-    'deduplicate': deduplicate_flows
+    'deduplicate': deduplicate_flows,
+    'control_flow_files': control_flow_files
 }
 
 if __name__ == "__main__":

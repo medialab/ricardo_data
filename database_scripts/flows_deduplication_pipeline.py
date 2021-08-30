@@ -92,11 +92,11 @@ def deduplicate_flows():
             f.partner as original_partner,
             r2.type as reporting_type,
             r2.continent as reporting_continent,
-            r2.part_of_country as reporting_part_of_country,
+            r2.part_of_GPH_entity as reporting_part_of_GPH_entity,
             r2.GPH_code as reporting_GPH_code,
             p2.type as partner_type,
             p2.continent as partner_continent,
-            p2.part_of_country as partner_part_of_country,
+            p2.part_of_GPH_entity as partner_part_of_GPH_entity,
             p2.GPH_code as partner_GPH_code,
             transport_type,
             f.notes,
@@ -492,10 +492,13 @@ def deduplicate_flows():
         from flow_joined
         WHERE partner LIKE "world%"  """)
     data = list(c)
-    data.sort(key=lambda _: (_[3], _[0], _[1]))
+
+    def sortByReportingYearExpImp(_): return (_[3] if _[3] is not None else "", _[
+        0] if _[0] is not None else "", _[1] if _[1] is not None else "")
+    data.sort(key=sortByReportingYearExpImp)
 
     world_best_guess_added = 0
-    for g, d in itertools.groupby(data, lambda _: (_[3], _[0], _[1])):
+    for g, d in itertools.groupby(data, key=sortByReportingYearExpImp):
         dd = list(d)
 
         world_best_guess = [sd for sd in dd if sd[4] == u"Worldestimated"]
