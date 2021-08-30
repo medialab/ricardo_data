@@ -156,12 +156,13 @@
           {
             "name": "type",
             "type": "string",
-            "description": "Type of source: estimation, primary, secondary",
+            "description": "Type of source: primary, primary_yearbook, secondary, estimation",
             "constraints": {
               "enum": [
-                "estimation",
                 "primary",
-                "secondary"
+                "primary_yearbook",
+                "secondary",
+                "estimation"
               ],
               "required": true
             }
@@ -236,29 +237,14 @@
             "description": "slug"
           },
           {
-            "name": "part_of_country",
+            "name": "part_of_GPH_entity",
             "type": "string",
-            "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in a dedicated table."
-          },
-          {
-            "name": "wikidata",
-            "type": "string",
-            "description": "wikidata entity ID (for country only so far)"
-          },
-          {
-            "name": "lat",
-            "type": "number",
-            "description": "geolocalisation  lon,lat retrieved from wikidata or set by hand"
-          },
-          {
-            "name": "lng",
-            "type": "number",
-            "description": "wikidata entity ID"
+            "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in the GeoPolHist dataset."
           }
         ],
         "foreignKeys": [
           {
-            "fields": "part_of_country",
+            "fields": "part_of_GPH_entity",
             "reference": {
               "resource": "ricentities",
               "fields": "RICname"
@@ -285,11 +271,6 @@
               "unique": true,
               "required": true
             }
-          },
-          {
-            "name": "french_name",
-            "type": "string",
-            "description": "a french translation of the original name"
           },
           {
             "name": "RICname",
