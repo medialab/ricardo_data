@@ -5429,7 +5429,6 @@ camerun francès,,Cameroun (French Cameroons)
 canárias,,Canary Is.
 baamas,,Bahamas
 colómbia,,Colombia (Gran Colombia) (New Granada)
-chipre,,Cyprus
 congo francès,,Congo (Brazzaville) (French Congo) (Middle Congo)
 costa do marfim,,Ivory Coast
 costa do ouro,,Ghana (Gold Coast)
@@ -5444,7 +5443,6 @@ guiana holandesa,,Surinam (Dutch Guiana)
 guiana inglesa,,Guyana (British Guiana)
 cós,,Kos
 gȏa,,Goa
-indo-china,,French Indochina
 léro,,Leros
 ródes,,Rhodes
 açȏres,,Azores (Western Isles)
@@ -5480,7 +5478,6 @@ colombie-britannique,,British Columbia
 ile du prince edouard,,Prince Edward Is.
 territoires du nord-ouest,,Northwest Territories
 provinces de l'a.b.n.,,British North America
-ile du prince edouard,,Prince Edward Is.
 rivière rouge,,Red River
 indes occidentales espagnoles,,Spanish West Indies
 monte video,,Montevideo
@@ -5489,13 +5486,11 @@ indes occidentales françaises,,French West Indies
 st. domingue,,Dominican Republic (Santo Domingo)
 guienne anglaise,,Guyana (British Guiana)
 ile du prince edouard et terreneuve,,Newfoundland and Labrador (Newfoundland) & Prince Edward Is.
-indes occidentales danoises,,Virgin Islands (Danish West Indies)
 isles canaries,,Canary Is.
 etats pontificaux,,Papal States
 indes occidentales allemandes,,German West Indies
 "am, autres ports",,America (other)
 iles de la société,,Society Is.
-vénézuela,,Venezuela
 suéde,,Sweden
 etats_unis,,United States of America
 possessions anglaises en chine,,British China
@@ -5526,7 +5521,6 @@ italian possessions in africa,,Italian Africa
 dutch possessions in asia,,Dutch Asia
 french possessions in asia,,French Asia
 spanish possessions in asia,,Spanish Asia
-china,,People's Republic of China (China)
 other countries of america,,America (other)
 mombassa,,Mombassa
 massawah,,Massawah
@@ -5534,7 +5528,6 @@ cilicia,,Cilicia
 sea,,World (sea)
 estados unidos de norte-américa,,United States of America
 estados unidos de colombia,,Colombia (Gran Colombia) (New Granada)
-ecuador,,Ecuador
 otros países extranjeros,,Other countries
 destino ignorado,,Unknown
 territoire du tanganyika,,Tanzania (Tanganyika) (German East Africa)
@@ -5548,7 +5541,6 @@ guinée française,,Guinea (French Guinea) (Rivieres du Sud)
 afrique orientale anglaise,,British East Africa
 colombie britannique,,British Columbia
 soudan anglo-egyptien,,North Sudan (Sudan) (Anglo-Egyptian)
-finlande,,Finland
 mauritanie,,Mauritania
 cabinda (enclave de),,Kabinda (Portuguese Congo)
 ruanda-urundi,,Ruanda-Urundi
@@ -5556,20 +5548,17 @@ afrique occidentale anglaise,,British West Africa
 enclave de cabinda,,Kabinda (Portuguese Congo)
 ile de chypre,,Cyprus
 afrique orientale allemande (occupation belge),,Ruanda-Urundi
-uganda,,Uganda
 afrique orientale allemande (occupation anglaise),,Tanzania (Tanganyika) (German East Africa)
 san thomé,,Sao Tome-Principe
 afrique sud-occidentale,,South West Africa
 guyanne hollandaise,,Surinam (Dutch Guiana)
 afrique orientale allemande,,German East Africa
-angleterre,,United Kingdom
 nyassaland,,Malawi (Nyasaland) (British Central Africa Protectorate)
 possessions portugaises (côte maritime),,Portuguese East Africa
 possessions anglaises (côte orientale d'afrique),,British East Africa
 possessions allemandes (côte orientale d'afrique),,German East Africa
 possessions françaises (haut-congo),,Congo (Brazzaville) (French Congo) (Middle Congo)
 possessions portugaises (rive gauche du congo),,Portuguese West Africa
-allemagne,,Germany (Zollverein)
 espagne (iles canaries),,Canary Is.
 possessions anglaises (côte occidentale d'afrique),,British West Africa
 possessions allemandes (côte occidentale d'afrique),,German West Africa
@@ -5601,7 +5590,6 @@ afrique orientale allem (occup anglais),,Tanzania (Tanganyika) (German East Afri
 afrique orientale allem (occup belge),,Ruanda-Urundi
 ee.uu. del norte,,United States of America
 centro américa,,Central America
-colombia,,Colombia (Gran Colombia) (New Granada)
 estados unidos del norte,,United States of America
 hispano america,,Spanish America
 varias naciones,,Other countries
@@ -5629,23 +5617,16 @@ malasia inglesa,,Malaysia (British Malaya)
 posesiones inglesas,,British Oceania
 somoa,,Samoa
 tahití,,Tahiti
-bahamas,,Bahamas
-estados unidos,,United States of America
-sumatra,,Sumatra
-posesiones holandesas,,Dutch Oceania
-nueva zelandia,,New Zealand
-filipinas,,Philippines
+posesiones holandesas in oceania,,Dutch Oceania
 otros países de américa,,America (other)
 otros países de europa,,Europe (other)
 otros países de africa,,Africa (other)
 otros países de asia,,Asia (other)
 otros países de oceania,,Oceania (other)
-egipto,,Egypt Arab Republic (Egypt)
 estados unidos a,,United States of America
 estados unidos b,,USA B
 china francesa,,French China
 oceanía,,Oceania
-haití,,Haiti
 oceania holandesa,,Dutch Oceania
 china inglesa,,British China
 oceania francesa,,French Oceania
@@ -5661,7 +5642,6 @@ africa alemana,,German Africa
 malta chipre,,Cyprus & Malta
 africa italiana,,Italian Africa
 aukland,,Auckland
-honduras,,Honduras
 islas hawaii,,Hawaii (Sandwich Is.)
 groenlandia,,Greenland
 azores é islas maderas,,Azores (Western Isles) & Madeira Isles
@@ -5670,7 +5650,6 @@ miquelon é isla san pedro,,St. Pierre and Miquelon
 países de américa,,America (other)
 países de europa,,Europe (other)
 los demás países,,Other countries
-total,,World
 islas virgenes,,Virgin Islands (Danish West Indies)
 africa espanola,,Spanish Africa
 marruecos espanol,,Spanish Morocco
@@ -5729,9 +5708,6 @@ de fremmede vestinidske øer,,West Indies (other)
 de dansk-vestindiske øer,,Virgin Islands (Danish West Indies)
 ikke øærlig anførte steder,,***NA
 syd-amerika undtagen brasilien,,Southern America (other)
-brasilien,,Brazil
-island,,Iceland
-belgien,,Belgium
 tyskland (bremen),,Bremen
 de vestindiske öer,,West Indies
 österrig,,Austria-Hungary
@@ -5775,17 +5751,11 @@ sydafrikanske union,,South Africa
 hollandsk ostindien,,Indonesia (Dutch East Indies)
 øvrige asien,,Asia (other)
 fransk bagindien,,French Indochina
-holland,,Netherlands
 svejts,,Switzerland
 auktion i frihavnen,,Free ports
 strandingsgods,,***NA
 smuglergods,,***NA
-norge,,Norway
-new zealand,,New Zealand
-ceylon,,Sri Lanka (Ceylon)
-frankrig,,France
 storbritannien;irske fristat,,Ireland & United Kingdom
-marokko,,Morocco
 øvrige afrika,,Africa (other)
 ceylon;siam,,Sri Lanka (Ceylon) & Thailand (Siam)
 litauen og memel,,Lithuania & Memel
@@ -5802,8 +5772,6 @@ kongo,,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Cong
 øvre. afrika,,Africa (other)
 "sydvestasien, undr. tyrkiet",,South West Asia
 brit. indien,,India
-letland,,Latvia
-island,,Iceland
 auktion i frihavnen;strandingsgods;smuglergods,,***NA
 øvr. asien,,Asia (other)
 portugal m. madeira og azorerne,,Azores (Western Isles) & Madeira Isles & Portugal
@@ -5824,18 +5792,12 @@ straits settlements og britiske besidd. blandt de indiske øer,,Straits Settleme
 sibirien,,Siberia
 australske forbund,,Australia
 uangivet land,,Unknown
-færøerne,,Faeroe Is.
-grækenland,,Greece
-italien,,Italy
 forenede stater,,United States of America
 øvrige asiatiske rusland,,Asian Russia (other)
 australske m. tasmanien,,Australia (other) & Tasmania
 ny zeeland,,New Zealand
-øvrige sydamerika,,Southern America (other)
-finland,,Finland
 østrig-ungarn,,Austria-Hungary
 australlandet med tasmanien,,Australia (other) & Tasmania
-japan,,Japan
 fremmed vestindien (undt. kuba og portoriko),,West Indies (other)
 tysk afrika,,German Africa
 serbien,,Serbia
@@ -5849,7 +5811,6 @@ sydasien uden nærmere angivelse,,Southern Asia
 øvr. asiatik rusland,,Asian Russia (other)
 øvr. asien; asien uden nærmere angivelse,,Asia (other)
 australien uden nærmere angivelse,,Australia (other)
-venezuela,,Venezuela
 øvr. britiske besiddelser i afrika,,British Africa (other)
 algier,,Algeria (Algiers)
 frihavnen,,Free ports
@@ -5865,11 +5826,7 @@ middelh. og sorteh. uden specif.,,Black Sea Ports & Mediterranean Ports
 vestindien m. m.,,West Indies
 sydamerika,,Southern America
 øvrige nordamerika (meksiko),,Mexico
-rusland,,Russia (USSR)
-"ostindien, kina og sydhavet",,China (People's Republic of China) & East Indies & Pacific Ports
 middelh. og sorteh. uden specif.;afrika,,Black Sea Ports & Mediterranean Ports
-siam,,Thailand (Siam)
-kuba,,Cuba
 poland-danzig,,Danzig & Poland
 u.s.s.r.,,Russia (USSR)
 britisish borneo,,British Borneo
@@ -5887,17 +5844,11 @@ other carib. cont. countries,,West Indies (other)
 other carib. insular countries,,West Indies (other)
 other countries in oceania,,Oceania (other)
 from ships,,***NA
-portugal,,Portugal
-aden,,Aden
 other west. equat. afri. count.,,Equatorial West Africa (other)
 ships' stores and bunkers,,***NA
-union of south africa,,South Africa
 other countries in north america,,Northern America (other)
-hong kong,,Hong Kong
-eritrea,,Eritrea
 union of soviet socialist reps.,,Russia (USSR)
 portuguese possession in africa,,Portuguese Africa
-tunis,,Tunisia (Tunis)
 british west indies possessions,,British West Indies
 brit. medit. possessions,,British Mediterranean
 brit. possessions in africa,,British Africa
@@ -5912,8 +5863,6 @@ poss. anglaises extr. orient,,British East Asia
 pays de l'extrême-orient,,East Asia
 pays de l'afrique,,Africa
 chine et extrême-orient,,East Asia & People's Republic of China (China)
-autres pays,,Other countries
-allemagne,,Germany (Zollverein)
 contrées diverses,,Other countries
 "indes, chine et japon",,India & Japan & People's Republic of China (China)
 french possessions in the far east,,French East Asia
@@ -5940,16 +5889,13 @@ turquia asiática,,Asian Turkey
 union sudafricana,,South Africa
 franc: martinica,,Martinique
 hol: bonaire,,Bonaire
-malta,,Malta
 establec. estrech,,Straits Settlements
 franc: guadalupe,,Guadeloupe
 franc: guayane,,French Guiana
 letonia (inclus. curlandia),,Latvia
 antillas menores,,West Indies (other)
 brit: honduras,,Belize (British Honduras)
-francia,,France
 franc: guadalupe;franc: guayane;franc: martinica,,French Guiana & Guadeloupe & Martinique
-cuba,,Cuba
 turquia europea,,European Turkey
 kordofán,,Kordofan
 totales generales,,World
@@ -6005,7 +5951,6 @@ malay states,,Malaysia (British Malaya)
 niue island,,Niue I.
 pago pago,,Pago Pago
 ships stores,,***NA
-hong kong,,Hong Kong
 new guinea (british),,Papua (British New Guinea)
 thursday island,,Thursday I.
 phoenix island,,Phoenix Is.
@@ -6070,7 +6015,6 @@ indes occidentales. amérique,,West Indies
 iles d'inde orientale,,East Indies
 iles d'inde occidentale,,West Indies
 "amérique du nord, iles d'inde occidentale, brésil",,Brazil & Northern America & West Indies
-total,,World
 amérique du nord et du sud,,Northern America & Southern America
 russie par mer,,Russia (sea)
 russie par chemin de fer et par autres voies de terre,,Russia (land)
@@ -6088,27 +6032,22 @@ holland och belgien,,Belgium & Netherlands
 spanien och portugal,,Portugal & Spain
 öfriga verldsdelar,,Other countries
 "andra länder, utan närmare uppgift",,Other countries
-danmark,,Denmark
 storbrittanien och irland,,United Kingdom
 osterrike-ungern,,Austria-Hungary
 asiatiska turkiet,,Asian Turkey
 n.a. forenta stater,,United States of America (other)
 ofver ryska gransen importerade tullpliktiga,,World (via Russia)
-algier,,Algeria (Algiers)
 kaplandet,,Cape Colony
 tyska sydvast-afrika,,German East Africa
 nikaragua,,Nicaragua
-kanada,,Canada (Province of Canada)
 tyska ost-afrika,,German East Africa
 oranje-fristaten,,Orange Free State (Orange River Colony)
 framre indien,,India
 nya syd-wales,,New South Wales
 brittiska ostafrika,,British East Africa
-spanien,,Spain
 ofriga balistka lander,,Latvia & Lithuania
 ukraina,,Ukraine
 hollandaska ostindien,,Indonesia (Dutch East Indies)
-belgien,,Belgium
 georgien,,Georgia
 ovriga kaukasiska lander,,Caucasus (other)
 franska vastafrika,,French West Africa
@@ -6118,9 +6057,6 @@ belgiska kongo,,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Con
 portugisiska vastafrika,,Portuguese West Africa
 brittiska vastafrika,,British West Africa
 franska ostafrika,,French East Africa
-syrien,,Syria
-sudan,,North Sudan (Sudan) (Anglo-Egyptian)
-bulgarien,,Bulgaria
 hedjaz och nedjd,,Saudi Arabia (Kingdom of Hejaz and Nedj)
 jemen,,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 honkong,,Hong Kong
@@ -6168,9 +6104,7 @@ gilbert och ellice oarna,,Gilbert and Ellice Is.
 kapstaden,,Cape Town
 algoa bay,,Algoa Bay
 ryska ost-asien,,East Asian Russia
-sverige,,Sweden
 senegambien,,Senegambia
-estland,,Estonia
 grusien,,Georgia
 ofriga kaukasiska lander,,Caucasus (other)
 portugisiska indien,,"Portuguese India (incl. Goa, Diu, Daman)"
@@ -6206,11 +6140,9 @@ nederländska guyana,,Surinam (Dutch Guiana)
 andra britt. öar i stilla oceanen,,British Oceania (other)
 bahrain-öarna,,Bahrain
 kap verde-öarna,,Cape Verde
-angola,,Angola
 mongoliet,,Mongolia
 italien somalilandet,,Italian Somaliland
 jungfruöarna,,Virgin Islands (Danish West Indies)
-litauen,,Lithuania
 övre volta,,Burkina Faso (Upper Volta)
 tristan da cunha,,Tristan da Cunha
 italienska somalilet,,Italian Somaliland
@@ -6219,9 +6151,5 @@ capstaden,,Cape Town
 sénégal. saint-louis,,Saint-Louis
 sénégal. gorée,,Goree
 sénégal et dépendances,,Senegal & Senegal Dependencies
-réunion,,Reunion (Bourbon I.)
 guadeloupe et dépendances,,Guadeloupe & Guadeloupe Dependencies
-saint-pierre et miquelon,,St. Pierre and Miquelon
 etranger,,Other countries
-france,,France
-colonies françaises,,French Colonies
