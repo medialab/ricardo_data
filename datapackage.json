@@ -2098,7 +2098,11 @@
         "data/flows/ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1843.csv",
         "data/flows/ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1842.csv",
         "data/flows/ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1841.csv",
-        "data/flows/ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1839.csv"
+        "data/flows/ColoniesFranaisesTableauxDePopulationDeCultureDeCommerceEtDeNavigation_1839.csv",
+        "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1915.csv",
+        "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1910.csv",
+        "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1903.csv",
+        "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1938.csv"
       ]
     }
   ]
