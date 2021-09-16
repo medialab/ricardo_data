@@ -2105,7 +2105,12 @@
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1938.csv",
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1928.csv",
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1929.csv",
-        "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1930.csv"
+        "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1930.csv",
+        "data/flows/GoldCoastColonyBlueBook_192829.csv",
+        "data/flows/GoldCoastColonyBlueBook_192930.csv",
+        "data/flows/GoldCoastColonyBlueBook_193031.csv",
+        "data/flows/GoldCoastColonyBlueBook_193132.csv",
+        "data/flows/GoldCoastColonyBlueBook_193233.csv"
       ]
     }
   ]
