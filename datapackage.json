@@ -2142,7 +2142,10 @@
         "data/flows/StatistiqueDuCommerceDeLaGrceAvecLesPaysTrangers_1891.csv",
         "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1938.csv",
         "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1937.csv",
-        "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1936.csv"
+        "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1936.csv",
+        "data/flows/HaitiAnnualReportOfTheFinancialAdvisergeneralReceiver_192324.csv",
+        "data/flows/HaitiAnnualReportOfTheFinancialAdvisergeneralReceiver_192627.csv",
+        "data/flows/HaitiAnnualReportOfTheFinancialAdvisergeneralReceiver_192930.csv"
       ]
     }
   ]
