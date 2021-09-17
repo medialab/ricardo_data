@@ -2139,7 +2139,10 @@
         "data/flows/StatistiqueDuCommerceDeLaGrceAvecLesPaysTrangers_1905.csv",
         "data/flows/StatistiqueDuCommerceDeLaGrceAvecLesPaysTrangers_1902.csv",
         "data/flows/StatistiqueDuCommerceDeLaGrceAvecLesPaysTrangers_1898.csv",
-        "data/flows/StatistiqueDuCommerceDeLaGrceAvecLesPaysTrangers_1891.csv"
+        "data/flows/StatistiqueDuCommerceDeLaGrceAvecLesPaysTrangers_1891.csv",
+        "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1938.csv",
+        "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1937.csv",
+        "data/flows/BulletinMensuelDuCommerceSpcialDeLaGrceAvecLesPaysTrangers_1936.csv"
       ]
     }
   ]
