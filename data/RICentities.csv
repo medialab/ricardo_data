@@ -1785,3 +1785,6 @@ Dutch Free Ports,city/part_of,Europe,,,Netherlands
 French Asia (other),colonial_area,Asia,,,
 Poland Free Port,city/part_of,Europe,,,Poland
 Italian Asia,colonial_area,Asia,,,
+Bohemia,GPH_entity,Europe,3150,,
+New Iberia,city/part_of,America,,,Louisiana
+Louisiana,GPH_entity,America,1013,,

@@ -7450,3 +7450,31 @@ year,modified_currency,rate_to_pounds,source,notes
 1915,austria-hungary krone,24.017,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,Parity rate
 1920,hungarian gold krone,24.017,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,Parity rate
 1921,hungarian gold krone,24.017,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,Parity rate
+1921,honduran plata,9.7332,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,1 honduran gold peso = 1 US dollar = 2 honduran plata. Parity rate
+1922,honduran gold peso,9.479984719,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1923,honduran gold peso,9.761787021,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1924,honduran gold peso,7.656274595,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1925,honduran gold peso,9.056638594,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1926,honduran gold peso,9.29889899,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1927,honduran gold peso,9.474364151,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1928,honduran gold peso,9.706511429,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1929,honduran gold peso,9.71365376,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1930,honduran gold peso,9.751517433,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1932,honduran gold peso,7.005043261,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1933,honduran gold peso,8.232301249,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1934,honduran gold peso,10.12887478,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1935,honduran gold peso,9.762562558,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1936,honduran gold peso,9.962623457,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1938,honduran lempira,9.7660578,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1920,honduran plata,9.7332,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,1 honduran gold peso = 1 us dollar = 2 honduran plata. Parity rate
+1922,honduran plata,9.7332,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,1 honduran gold peso = 1 us dollar = 2 honduran plata. Parity rate
+1925,honduran plata,9.658,StatisticalYearbookOfTheLeagueOfNations,1 us dollar = 2 honduran plata
+1928,honduran plata,9.732,StatisticalYearbookOfTheLeagueOfNations,1 us dollar = 2 honduran plata.
+1929,honduran plata,9.71365,StatisticalYearbookOfTheLeagueOfNations,1 us dollar = 2 honduran plata
+1932,honduran lempira,7.005043261,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1933,honduran lempira,8.232301249,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1934,honduran lempira,10.12887478,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1935,honduran lempira,9.762562558,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1936,honduran lempira,9.962623457,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1937,honduran lempira,9.881340102,MontevideooxfordLatinAmericanEconomicHistoryDataBase,
+1927,honduran plata,9.722,StatisticalYearbookOfTheLeagueOfNations,1 us dollar = 2 honduran plata
