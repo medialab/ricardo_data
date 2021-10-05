@@ -2191,7 +2191,10 @@
         "data/flows/HongKongBlueBook_1921.csv",
         "data/flows/HongKongBlueBook_1920.csv",
         "data/flows/HongKongBlueBook_1919.csv",
-        "data/flows/MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Ii.csv"
+        "data/flows/MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Ii.csv",
+        "data/flows/TableauDuCommerceExtrieurDeLindochine_1936.csv",
+        "data/flows/TableauDuCommerceExtrieurDeLindochine_1933.csv",
+        "data/flows/TableauDuCommerceExtrieurDeLindochine_1938.csv"
       ]
     }
   ]
