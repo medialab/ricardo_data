@@ -2218,7 +2218,18 @@
         "data/flows/HagskrslurSlandsVerslunarskrslur_1917.csv",
         "data/flows/HagskrslurSlandsVerslunarskrslur_1914.csv",
         "data/flows/HagskrslurSlandsVerslunarskrslur_1938.csv",
-        "data/flows/JnssonGMSMagnsson_HagskinnaIcelandicHistoricalStatistics.csv"
+        "data/flows/JnssonGMSMagnsson_HagskinnaIcelandicHistoricalStatistics.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1877.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1876.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1871.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1870.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1869.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1868.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1865.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1863.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1861.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1866.csv",
+        "data/flows/MovimentoCommercialeDelRegnoDitalia_1920_Ii1.csv"
       ]
     }
   ]
