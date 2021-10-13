@@ -1,0 +1,15 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+IslandOfJamaicaBlueBook_1852_263264,45659,1,£,1852,jamaica,great britain,imp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_263264,2655,1,£,1852,jamaica,british west indies,imp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_263264,89197,1,£,1852,jamaica,british north american colonies,imp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_263264,519,1,£,1852,jamaica,other british colonies,imp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_263264,243271,1,£,1852,jamaica,united states of america,imp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_263264,41131,1,£,1852,jamaica,foreign states,imp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_263264,422436,1,£,1852,jamaica,total,imp,,,,,,total_reporting,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,733271,1,£,1852,jamaica,great britain,exp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,5972,1,£,1852,jamaica,british west indies,exp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,4958,1,£,1852,jamaica,british north american colonies,exp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,22016,1,£,1852,jamaica,other british colonies,exp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,66324,1,£,1852,jamaica,united states of america,exp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,97844,1,£,1852,jamaica,foreign states,exp,,,,,,,Estimated value
+IslandOfJamaicaBlueBook_1852_285286,927377,1,£,1852,jamaica,total,exp,,,,,,total_reporting,Estimated value
