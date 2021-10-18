@@ -2341,7 +2341,12 @@
         "data/flows/AnnualReturnOfTheForeignTradeOfTheEmpireOfJapan_1925_I.csv",
         "data/flows/AnnualReturnOfTheForeignTradeOfTheEmpireOfJapan_1926_I.csv",
         "data/flows/AnnualReturnOfTheForeignTradeOfTheEmpireOfJapan_1927_I.csv",
-        "data/flows/AnnualReturnOfTheForeignTradeOfTheEmpireOfJapan_1928_I.csv"
+        "data/flows/AnnualReturnOfTheForeignTradeOfTheEmpireOfJapan_1928_I.csv",
+        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1859.csv",
+        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1852.csv",
+        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1857.csv",
+        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1855.csv",
+        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1854.csv"
       ]
     }
   ]
