@@ -2346,7 +2346,9 @@
         "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1852.csv",
         "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1857.csv",
         "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1855.csv",
-        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1854.csv"
+        "data/flows/MovimentoCommercialeDelProvincieDellItaliaSettentrionale_1854.csv",
+        "data/flows/CommerceExtrieurEtMouvementDeLaNavigationDeLaLettonie_1923.csv",
+        "data/flows/CommerceExtrieurEtMouvementDeLaNavigationDeLaLettonie_1925.csv"
       ]
     }
   ]
