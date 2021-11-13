@@ -1,290 +1,136 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-GowaJRHicks20132017,29172.9,1,balboas,1929,panama,canada,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,12999144.33,1,balboas,1929,panama,estados unidos,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,36658.33,1,balboas,1929,panama,costa rica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,37972.9,1,balboas,1929,panama,nicaragua,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,184639.66,1,balboas,1929,panama,cuba,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,9008.13,1,balboas,1929,panama,curazao,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,73346.8,1,balboas,1929,panama,jamaica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,2128.1,1,balboas,1929,panama,trinidad y tabago,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,20768.05,1,balboas,1929,panama,argentina,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,79722.12,1,balboas,1929,panama,colombia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,127702.16,1,balboas,1929,panama,chile,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,55498.35,1,balboas,1929,panama,ecuador,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,189210.47,1,balboas,1929,panama,peru,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,843,1,balboas,1929,panama,uruguay,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,995079.87,1,balboas,1929,panama,alemania,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,167714.72,1,balboas,1929,panama,belgica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,188875.92,1,balboas,1929,panama,espana,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,484088.05,1,balboas,1929,panama,francia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,1618097.7,1,balboas,1929,panama,gran bretana,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,282663.05,1,balboas,1929,panama,holanda,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,137692.36,1,balboas,1929,panama,italia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,146043.75,1,balboas,1929,panama,noruega,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,131700.04,1,balboas,1929,panama,suecia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,805914.85,1,balboas,1929,panama,china,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,144799.98,1,balboas,1929,panama,japon,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,695.5,1,balboas,1929,panama,argelia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,73835,1,balboas,1930,panama,canada,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,11159250,1,balboas,1930,panama,estados unidos,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,122852,1,balboas,1930,panama,costa rica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,200,1,balboas,1930,panama,el salvador,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,3042,1,balboas,1930,panama,guatemala,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,734,1,balboas,1930,panama,mexico,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,29939,1,balboas,1930,panama,nicaragua,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,58117,1,balboas,1930,panama,zona del canal,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,139799,1,balboas,1930,panama,cuba,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,36241.04,1,balboas,1930,panama,curazao,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,232.41,1,balboas,1930,panama,dominica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,83427,1,balboas,1930,panama,jamaica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,6609.67,1,balboas,1930,panama,trinidad y tabago,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,43053,1,balboas,1930,panama,argentina,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,542,1,balboas,1930,panama,brasil,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,72197,1,balboas,1930,panama,colombia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,147042,1,balboas,1930,panama,chile,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,77012,1,balboas,1930,panama,ecuador,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,96497,1,balboas,1930,panama,peru,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,913728,1,balboas,1930,panama,alemania,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,189735,1,balboas,1930,panama,belgica,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,208839,1,balboas,1930,panama,espana,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,549276,1,balboas,1930,panama,francia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,1660662,1,balboas,1930,panama,gran bretana,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,242054,1,balboas,1930,panama,holanda,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,285101,1,balboas,1930,panama,italia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,179014,1,balboas,1930,panama,noruega,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,88268,1,balboas,1930,panama,suecia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,11887,1,balboas,1930,panama,suiza,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,1539749,1,balboas,1930,panama,china,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,181818,1,balboas,1930,panama,japon,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,354,1,balboas,1930,panama,argelia,imp,,,,,,,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,62465,1,balboas,1931,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,8159284,1,balboas,1931,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,57795,1,balboas,1931,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,80,1,balboas,1931,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,1379,1,balboas,1931,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,2673,1,balboas,1931,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,16376,1,balboas,1931,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,58211,1,balboas,1931,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,189504,1,balboas,1931,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,78655,1,balboas,1931,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,27594,1,balboas,1931,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,390,1,balboas,1931,panama,brasil,imp,,,,,,,
-GowaJRHicks20132017,81867,1,balboas,1931,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,74904,1,balboas,1931,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,18214,1,balboas,1931,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,89610,1,balboas,1931,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,730055,1,balboas,1931,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,213441,1,balboas,1931,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,291858,1,balboas,1931,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,461706,1,balboas,1931,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,1033008,1,balboas,1931,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,222025,1,balboas,1931,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,160782,1,balboas,1931,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,181097,1,balboas,1931,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,79290,1,balboas,1931,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,4145,1,balboas,1931,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,713842,1,balboas,1931,panama,china,imp,,,,,,,
-GowaJRHicks20132017,278983,1,balboas,1931,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,35712,1,balboas,1932,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,5413404,1,balboas,1932,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,24627,1,balboas,1932,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,776,1,balboas,1932,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,1903,1,balboas,1932,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,2705,1,balboas,1932,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,4089,1,balboas,1932,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,76433,1,balboas,1932,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,114531,1,balboas,1932,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,58718,1,balboas,1932,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,15993,1,balboas,1932,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,34981,1,balboas,1932,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,59349,1,balboas,1932,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,24289,1,balboas,1932,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,28744,1,balboas,1932,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,474788,1,balboas,1932,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,75365,1,balboas,1932,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,168888,1,balboas,1932,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,213497,1,balboas,1932,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,740225,1,balboas,1932,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,93181,1,balboas,1932,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,130533,1,balboas,1932,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,59498,1,balboas,1932,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,90915,1,balboas,1932,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,9788,1,balboas,1932,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,421621,1,balboas,1932,panama,china,imp,,,,,,,
-GowaJRHicks20132017,322646,1,balboas,1932,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,78103,1,balboas,1933,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,5314347,1,balboas,1933,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,41084,1,balboas,1933,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,391,1,balboas,1933,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,3777,1,balboas,1933,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,2535,1,balboas,1933,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,3229,1,balboas,1933,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,80341,1,balboas,1933,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,93720,1,balboas,1933,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,47800,1,balboas,1933,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,21600,1,balboas,1933,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,27226,1,balboas,1933,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,61105,1,balboas,1933,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,34637,1,balboas,1933,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,44264,1,balboas,1933,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,535376,1,balboas,1933,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,65906,1,balboas,1933,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,98547,1,balboas,1933,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,405061,1,balboas,1933,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,759787,1,balboas,1933,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,71693,1,balboas,1933,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,92841,1,balboas,1933,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,51867,1,balboas,1933,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,70453,1,balboas,1933,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,9641,1,balboas,1933,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,488286,1,balboas,1933,panama,china,imp,,,,,,,
-GowaJRHicks20132017,687159,1,balboas,1933,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,88245,1,balboas,1934,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,7073758,1,balboas,1934,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,42825,1,balboas,1934,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,8493,1,balboas,1934,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,19108,1,balboas,1934,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,40513,1,balboas,1934,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,14331,1,balboas,1934,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,456500,1,balboas,1934,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,71934,1,balboas,1934,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,77768,1,balboas,1934,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,47500,1,balboas,1934,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,3,1,balboas,1934,panama,brasil,imp,,,,,,,
-GowaJRHicks20132017,42396,1,balboas,1934,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,70222,1,balboas,1934,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,59270,1,balboas,1934,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,48416,1,balboas,1934,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,465747,1,balboas,1934,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,48502,1,balboas,1934,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,141199,1,balboas,1934,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,579981,1,balboas,1934,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,956122,1,balboas,1934,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,79737,1,balboas,1934,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,98333,1,balboas,1934,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,62417,1,balboas,1934,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,57218,1,balboas,1934,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,11004,1,balboas,1934,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,691634,1,balboas,1934,panama,china,imp,,,,,,,
-GowaJRHicks20132017,1648004,1,balboas,1934,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,129355,1,balboas,1935,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,8623824,1,balboas,1935,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,46605,1,balboas,1935,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,12053,1,balboas,1935,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,9963,1,balboas,1935,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,22919,1,balboas,1935,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,20869,1,balboas,1935,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,541579,1,balboas,1935,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,136041,1,balboas,1935,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,74227,1,balboas,1935,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,50321,1,balboas,1935,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,2632,1,balboas,1935,panama,brasil,imp,,,,,,,
-GowaJRHicks20132017,52441,1,balboas,1935,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,88437,1,balboas,1935,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,56434,1,balboas,1935,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,63042,1,balboas,1935,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,635929,1,balboas,1935,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,73853,1,balboas,1935,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,172465,1,balboas,1935,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,511683,1,balboas,1935,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,1067371,1,balboas,1935,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,149028,1,balboas,1935,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,114467,1,balboas,1935,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,67291,1,balboas,1935,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,75554,1,balboas,1935,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,24368,1,balboas,1935,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,656461,1,balboas,1935,panama,china,imp,,,,,,,
-GowaJRHicks20132017,1671316,1,balboas,1935,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,105621,1,balboas,1936,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,9777674,1,balboas,1936,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,70235,1,balboas,1936,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,16430,1,balboas,1936,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,17273,1,balboas,1936,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,18554,1,balboas,1936,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,27374,1,balboas,1936,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,659452,1,balboas,1936,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,156288,1,balboas,1936,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,67878,1,balboas,1936,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,46128,1,balboas,1936,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,6337,1,balboas,1936,panama,brasil,imp,,,,,,,
-GowaJRHicks20132017,61385,1,balboas,1936,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,98884,1,balboas,1936,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,53608,1,balboas,1936,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,74142,1,balboas,1936,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,823778,1,balboas,1936,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,72734,1,balboas,1936,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,131681,1,balboas,1936,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,739457,1,balboas,1936,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,1165425,1,balboas,1936,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,190025,1,balboas,1936,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,88586,1,balboas,1936,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,76484,1,balboas,1936,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,78692,1,balboas,1936,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,30270,1,balboas,1936,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,728040,1,balboas,1936,panama,china,imp,,,,,,,
-GowaJRHicks20132017,2986536,1,balboas,1936,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,108377,1,balboas,1937,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,11359092,1,balboas,1937,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,81273,1,balboas,1937,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,25437,1,balboas,1937,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,15601,1,balboas,1937,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,27856,1,balboas,1937,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,35264,1,balboas,1937,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,625965,1,balboas,1937,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,148023,1,balboas,1937,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,71368,1,balboas,1937,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,72841,1,balboas,1937,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,3059,1,balboas,1937,panama,brasil,imp,,,,,,,
-GowaJRHicks20132017,92713,1,balboas,1937,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,128808,1,balboas,1937,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,59070,1,balboas,1937,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,64183,1,balboas,1937,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,1168818,1,balboas,1937,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,159173,1,balboas,1937,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,33908,1,balboas,1937,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,672899,1,balboas,1937,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,1275465,1,balboas,1937,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,388497,1,balboas,1937,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,144095,1,balboas,1937,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,101958,1,balboas,1937,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,104580,1,balboas,1937,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,31083,1,balboas,1937,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,886075,1,balboas,1937,panama,china,imp,,,,,,,
-GowaJRHicks20132017,3089308,1,balboas,1937,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,81153,1,balboas,1938,panama,canada,imp,,,,,,,
-GowaJRHicks20132017,10139378,1,balboas,1938,panama,estados unidos,imp,,,,,,,
-GowaJRHicks20132017,67617,1,balboas,1938,panama,costa rica,imp,,,,,,,
-GowaJRHicks20132017,12957,1,balboas,1938,panama,el salvador,imp,,,,,,,
-GowaJRHicks20132017,15527,1,balboas,1938,panama,guatemala,imp,,,,,,,
-GowaJRHicks20132017,31997,1,balboas,1938,panama,mexico,imp,,,,,,,
-GowaJRHicks20132017,19353,1,balboas,1938,panama,nicaragua,imp,,,,,,,
-GowaJRHicks20132017,633778,1,balboas,1938,panama,zona del canal,imp,,,,,,,
-GowaJRHicks20132017,127019,1,balboas,1938,panama,cuba,imp,,,,,,,
-GowaJRHicks20132017,62257,1,balboas,1938,panama,jamaica,imp,,,,,,,
-GowaJRHicks20132017,46729,1,balboas,1938,panama,argentina,imp,,,,,,,
-GowaJRHicks20132017,11912,1,balboas,1938,panama,brasil,imp,,,,,,,
-GowaJRHicks20132017,64878,1,balboas,1938,panama,colombia,imp,,,,,,,
-GowaJRHicks20132017,97759,1,balboas,1938,panama,chile,imp,,,,,,,
-GowaJRHicks20132017,46022,1,balboas,1938,panama,ecuador,imp,,,,,,,
-GowaJRHicks20132017,53682,1,balboas,1938,panama,peru,imp,,,,,,,
-GowaJRHicks20132017,1100827,1,balboas,1938,panama,alemania,imp,,,,,,,
-GowaJRHicks20132017,56196,1,balboas,1938,panama,belgica,imp,,,,,,,
-GowaJRHicks20132017,11131,1,balboas,1938,panama,espana,imp,,,,,,,
-GowaJRHicks20132017,398950,1,balboas,1938,panama,francia,imp,,,,,,,
-GowaJRHicks20132017,840934,1,balboas,1938,panama,gran bretana,imp,,,,,,,
-GowaJRHicks20132017,323475,1,balboas,1938,panama,holanda,imp,,,,,,,
-GowaJRHicks20132017,143668,1,balboas,1938,panama,italia,imp,,,,,,,
-GowaJRHicks20132017,118148,1,balboas,1938,panama,noruega,imp,,,,,,,
-GowaJRHicks20132017,59239,1,balboas,1938,panama,suecia,imp,,,,,,,
-GowaJRHicks20132017,56939,1,balboas,1938,panama,suiza,imp,,,,,,,
-GowaJRHicks20132017,535867,1,balboas,1938,panama,china,imp,,,,,,,
-GowaJRHicks20132017,1633923,1,balboas,1938,panama,japon,imp,,,,,,,
-GowaJRHicks20132017,18337579,1,balboas,1930,panama,total,imp,,,,,,total_reporting,pais de procedencia. Does not include encomiendas postales
-GowaJRHicks20132017,13492459,1,balboas,1931,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,8898894,1,balboas,1932,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,9296320,1,balboas,1933,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,13573518,1,balboas,1934,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,15636293,1,balboas,1935,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,18989846,1,balboas,1936,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,21828175,1,balboas,1937,panama,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,17651454,1,balboas,1938,panama,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,506767,1,australian pound,1920,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,661441,1,australian pound,1921,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,468711,1,australian pound,1922,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,516455,1,australian pound,1923,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,480341,1,australian pound,1924,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,2754,1,australian pound,1924,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,2081,1,australian pound,1924,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,458,1,australian pound,1924,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,470574,1,australian pound,1925,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,13019,1,australian pound,1925,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,20976,1,australian pound,1925,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,1496,1,australian pound,1925,papua,dutch new guinea,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,29394,1,australian pound,1925,papua,india,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,194,1,australian pound,1925,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,2260,1,australian pound,1925,papua,papua,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,27,1,australian pound,1925,papua,solomon islands,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,484090,1,australian pound,1926,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,24682,1,australian pound,1926,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,9555,1,australian pound,1926,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,46,1,australian pound,1926,papua,dutch new guinea,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,45942,1,australian pound,1926,papua,india,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,2848,1,australian pound,1926,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,1176,1,australian pound,1926,papua,straits settlements,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,569704,1,australian pound,1927,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,24065,1,australian pound,1927,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,15675,1,australian pound,1927,papua,burma,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,2685,1,australian pound,1927,papua,caroline islands,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,20345,1,australian pound,1927,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,28279,1,australian pound,1927,papua,straits settlements,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,725622,1,australian pound,1928,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,16910,1,australian pound,1928,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,886,1,australian pound,1928,papua,caroline islands,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,32496,1,australian pound,1928,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,14164,1,australian pound,1928,papua,germany,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,10303,1,australian pound,1928,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,11451,1,australian pound,1928,papua,straits settlements,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,327716,1,australian pound,1929,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,128045,1,australian pound,1929,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,44138,1,australian pound,1929,papua,burma,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,8917,1,australian pound,1929,papua,canada,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,34856,1,australian pound,1929,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,63491,1,australian pound,1929,papua,germany,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,51615,1,australian pound,1929,papua,india,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,18805,1,australian pound,1929,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,5280,1,australian pound,1929,papua,malaya,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,10539,1,australian pound,1929,papua,new zealand,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,132755,1,australian pound,1929,papua,uk,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,3067,1,australian pound,1929,papua,belgium,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,5851,1,australian pound,1929,papua,france,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,10984,1,australian pound,1929,papua,java/dutch east indies,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,7547,1,australian pound,1929,papua,sweden,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,17835,1,australian pound,1929,papua,other,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,292147,1,australian pound,1930,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,107667,1,australian pound,1930,papua,us,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,68338,1,australian pound,1930,papua,burma,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,1056,1,australian pound,1930,papua,canada,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,27740,1,australian pound,1930,papua,china,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,54390,1,australian pound,1930,papua,germany,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,51050,1,australian pound,1930,papua,india,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,23103,1,australian pound,1930,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,2644,1,australian pound,1930,papua,malaya,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,10082,1,australian pound,1930,papua,new zealand,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,178527,1,australian pound,1930,papua,uk,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,4378,1,australian pound,1930,papua,belgium,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,6844,1,australian pound,1930,papua,france,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,24864,1,australian pound,1930,papua,java/dutch east indies,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,5622,1,australian pound,1930,papua,sweden,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,23564,1,australian pound,1930,papua,other,imp,,,,Year ended 30th June,,,Country of origin
+GowaJRHicks20132017,506767,1,australian pound,1920,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,661441,1,australian pound,1921,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,468711,1,australian pound,1922,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,516455,1,australian pound,1923,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,485634,1,australian pound,1924,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,537940,1,australian pound,1925,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,568339,1,australian pound,1926,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,660753,1,australian pound,1927,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,811832,1,australian pound,1928,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,871441,1,australian pound,1929,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,882016,1,australian pound,1930,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
+GowaJRHicks20132017,660422,1,australian pound,1920,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,33478,1,australian pound,1920,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,155522,1,australian pound,1920,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,673992,1,australian pound,1921,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,499197,1,australian pound,1922,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,384706,1,australian pound,1923,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,246186,1,australian pound,1923,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,298606,1,australian pound,1924,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,34126,1,australian pound,1924,papua,us,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,198,1,australian pound,1924,papua,china,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,385605,1,australian pound,1924,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,268664,1,australian pound,1925,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,101705,1,australian pound,1925,papua,us,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,444,1,australian pound,1925,papua,caroline islands,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,110,1,australian pound,1925,papua,china,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,488067,1,australian pound,1925,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,437204,1,australian pound,1926,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,156400,1,australian pound,1926,papua,us,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,1780,1,australian pound,1926,papua,china,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,509249,1,australian pound,1926,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,525,1,australian pound,1926,papua,japan,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,475448,1,australian pound,1927,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,604407,1,australian pound,1927,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,512399,1,australian pound,1928,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,131628,1,australian pound,1928,papua,us,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,1884,1,australian pound,1928,papua,china,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,746211,1,australian pound,1928,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,78904,1,australian pound,1928,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,386843,1,australian pound,1929,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,251748,1,australian pound,1929,papua,us,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,13800,1,australian pound,1929,papua,china,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,9945,1,australian pound,1929,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,264602,1,australian pound,1929,papua,france,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,178328,1,australian pound,1929,papua,holland,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,40846,1,australian pound,1929,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,260513,1,australian pound,1930,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,100812,1,australian pound,1930,papua,us,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,1845,1,australian pound,1930,papua,china,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,12345,1,australian pound,1930,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,247327,1,australian pound,1930,papua,france,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,197458,1,australian pound,1930,papua,holland,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,48175,1,australian pound,1930,papua,germany,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,6500,1,australian pound,1930,papua,italy,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,18550,1,australian pound,1930,papua,spain,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,103810,1,australian pound,1930,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
+GowaJRHicks20132017,849422,1,australian pound,1920,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,673992,1,australian pound,1921,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,499197,1,australian pound,1922,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,630892,1,australian pound,1923,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,718535,1,australian pound,1924,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,858990,1,australian pound,1925,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,1105158,1,australian pound,1926,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,1079855,1,australian pound,1927,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,1471026,1,australian pound,1928,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,1146112,1,australian pound,1929,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,997335,1,australian pound,1930,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
