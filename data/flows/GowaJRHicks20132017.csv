@@ -1,955 +1,1365 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-GowaJRHicks20132017,8873,1,pesos oro,1921,paraguay,alemania,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3870731,1,pesos oro,1921,paraguay,argentina,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,21725,1,pesos oro,1921,paraguay,belgica,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,31980,1,pesos oro,1921,paraguay,brasil,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2590,1,pesos oro,1921,paraguay,chile,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,441480,1,pesos oro,1921,paraguay,espana,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,795342,1,pesos oro,1921,paraguay,us,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,88057,1,pesos oro,1921,paraguay,francia,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,129736,1,pesos oro,1921,paraguay,hollanda,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,11879,1,pesos oro,1921,paraguay,inglaterra,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,104429,1,pesos oro,1921,paraguay,italia,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,5214,1,pesos oro,1921,paraguay,japon,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,106,1,pesos oro,1921,paraguay,noruega,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,578529,1,pesos oro,1921,paraguay,uruguay,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,725,1,pesos oro,1921,paraguay,varios,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3925,1,pesos oro,1922,paraguay,alemania,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,4613590,1,pesos oro,1922,paraguay,argentina,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,24797,1,pesos oro,1922,paraguay,brasil,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,860,1,pesos oro,1922,paraguay,chile,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,41061,1,pesos oro,1922,paraguay,espana,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1239058,1,pesos oro,1922,paraguay,us,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,62755,1,pesos oro,1922,paraguay,francia,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3550,1,pesos oro,1922,paraguay,hollanda,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3662,1,pesos oro,1922,paraguay,inglaterra,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,217103,1,pesos oro,1922,paraguay,italia,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2883,1,pesos oro,1922,paraguay,japon,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,398713,1,pesos oro,1922,paraguay,uruguay,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,360,1,pesos oro,1922,paraguay,varios,exp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,441204,1,peso oro sellado,1926,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,11957427,1,peso oro sellado,1926,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,136128,1,peso oro sellado,1926,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,14147,1,peso oro sellado,1926,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,24094,1,peso oro sellado,1926,paraguay,chile,exp,,,,,,,Valor real
-GowaJRHicks20132017,78729,1,peso oro sellado,1926,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,1151955,1,peso oro sellado,1926,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,502701,1,peso oro sellado,1926,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,146915,1,peso oro sellado,1926,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,106893,1,peso oro sellado,1926,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,241478,1,peso oro sellado,1926,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,10907,1,peso oro sellado,1926,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,10359,1,peso oro sellado,1926,paraguay,suiza,exp,,,,,,,Valor real
-GowaJRHicks20132017,674567,1,peso oro sellado,1926,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,486570,1,peso oro sellado,1927,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,12079548,1,peso oro sellado,1927,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,200679,1,peso oro sellado,1927,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,245,1,peso oro sellado,1927,paraguay,bolivia,exp,,,,,,,Valor real
-GowaJRHicks20132017,7782,1,peso oro sellado,1927,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,2215,1,peso oro sellado,1927,paraguay,chile,exp,,,,,,,Valor real
-GowaJRHicks20132017,79410,1,peso oro sellado,1927,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,98835,1,peso oro sellado,1927,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,187336,1,peso oro sellado,1927,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,118835,1,peso oro sellado,1927,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,233687,1,peso oro sellado,1927,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,89254,1,peso oro sellado,1927,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,9114,1,peso oro sellado,1927,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,61270,1,peso oro sellado,1927,paraguay,russia,exp,,,,,,,Valor real
-GowaJRHicks20132017,627260,1,peso oro sellado,1927,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,226996,1,peso oro sellado,1928,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,14010416,1,peso oro sellado,1928,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,81437,1,peso oro sellado,1928,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,1820,1,peso oro sellado,1928,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,181853,1,peso oro sellado,1928,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,60450,1,peso oro sellado,1928,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,398686,1,peso oro sellado,1928,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,52710,1,peso oro sellado,1928,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,25888,1,peso oro sellado,1928,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,149114,1,peso oro sellado,1928,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,3711,1,peso oro sellado,1928,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,23460,1,peso oro sellado,1928,paraguay,russia,exp,,,,,,,Valor real
-GowaJRHicks20132017,174,1,peso oro sellado,1928,paraguay,suiza,exp,,,,,,,Valor real
-GowaJRHicks20132017,669493,1,peso oro sellado,1928,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,124517,1,peso oro sellado,1929,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,7396785,1,peso oro sellado,1929,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,4057222,1,peso oro sellado,1929,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,311574,1,peso oro sellado,1929,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,1756,1,peso oro sellado,1929,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,166566,1,peso oro sellado,1929,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,5575,1,peso oro sellado,1929,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,510702,1,peso oro sellado,1929,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,11503,1,peso oro sellado,1929,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,48521,1,peso oro sellado,1929,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,98098,1,peso oro sellado,1929,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,1632,1,peso oro sellado,1929,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,947,1,peso oro sellado,1929,paraguay,suiza,exp,,,,,,,Valor real
-GowaJRHicks20132017,723206,1,peso oro sellado,1929,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,1162,1,peso oro sellado,1929,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,221660,1,peso oro sellado,1930,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,7369521,1,peso oro sellado,1930,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,5570855,1,peso oro sellado,1930,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,107385,1,peso oro sellado,1930,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,19576,1,peso oro sellado,1930,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,26335,1,peso oro sellado,1930,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,214890,1,peso oro sellado,1930,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,34872,1,peso oro sellado,1930,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,114334,1,peso oro sellado,1930,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,600,1,peso oro sellado,1930,paraguay,russia,exp,,,,,,,Valor real
-GowaJRHicks20132017,495743,1,peso oro sellado,1930,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,682,1,peso oro sellado,1930,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,121480,1,peso oro sellado,1931,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,6398714,1,peso oro sellado,1931,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,5406107,1,peso oro sellado,1931,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,23246,1,peso oro sellado,1931,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,282,1,peso oro sellado,1931,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,1729,1,peso oro sellado,1931,paraguay,canarias,exp,,,,,,,Valor real
-GowaJRHicks20132017,1419,1,peso oro sellado,1931,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,62333,1,peso oro sellado,1931,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,157820,1,peso oro sellado,1931,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,103112,1,peso oro sellado,1931,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,13859,1,peso oro sellado,1931,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,63511,1,peso oro sellado,1931,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,390,1,peso oro sellado,1931,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,475672,1,peso oro sellado,1931,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,26911,1,peso oro sellado,1931,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,112518,1,peso oro sellado,1932,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,6633750,1,peso oro sellado,1932,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,5510713,1,peso oro sellado,1932,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,6061,1,peso oro sellado,1932,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,5640,1,peso oro sellado,1932,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,1000,1,peso oro sellado,1932,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,67508,1,peso oro sellado,1932,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,171698,1,peso oro sellado,1932,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,78058,1,peso oro sellado,1932,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,120,1,peso oro sellado,1932,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,19596,1,peso oro sellado,1932,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,248555,1,peso oro sellado,1932,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,17728,1,peso oro sellado,1932,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,49797,1,peso oro sellado,1933,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,4161530,1,peso oro sellado,1933,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,4776666,1,peso oro sellado,1933,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,69663,1,peso oro sellado,1933,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,2000,1,peso oro sellado,1933,paraguay,bolivia,exp,,,,,,,Valor real
-GowaJRHicks20132017,80,1,peso oro sellado,1933,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,5631,1,peso oro sellado,1933,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,158899,1,peso oro sellado,1933,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,157236,1,peso oro sellado,1933,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,94712,1,peso oro sellado,1933,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,3521,1,peso oro sellado,1933,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,18246,1,peso oro sellado,1933,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,215622,1,peso oro sellado,1933,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,53917,1,peso oro sellado,1933,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,101588,1,peso oro sellado,1934,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,4756701,1,peso oro sellado,1934,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,6235125,1,peso oro sellado,1934,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,17346,1,peso oro sellado,1934,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,100,1,peso oro sellado,1934,paraguay,bolivia,exp,,,,,,,Valor real
-GowaJRHicks20132017,200,1,peso oro sellado,1934,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,5050,1,peso oro sellado,1934,paraguay,chile,exp,,,,,,,Valor real
-GowaJRHicks20132017,8763,1,peso oro sellado,1934,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,138403,1,peso oro sellado,1934,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,530987,1,peso oro sellado,1934,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,77392,1,peso oro sellado,1934,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,14848,1,peso oro sellado,1934,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,12687,1,peso oro sellado,1934,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,407191,1,peso oro sellado,1934,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,71380,1,peso oro sellado,1934,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,243856,1,peso oro sellado,1935,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,3624879,1,peso oro sellado,1935,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,6266502,1,peso oro sellado,1935,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,7562,1,peso oro sellado,1935,paraguay,africa,exp,,,,,,,Valor real
-GowaJRHicks20132017,2054,1,peso oro sellado,1935,paraguay,bolivia,exp,,,,,,,Valor real
-GowaJRHicks20132017,100,1,peso oro sellado,1935,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,67371,1,peso oro sellado,1935,paraguay,checoeslovaquia,exp,,,,,,,Valor real
-GowaJRHicks20132017,267,1,peso oro sellado,1935,paraguay,chile,exp,,,,,,,Valor real
-GowaJRHicks20132017,810,1,peso oro sellado,1935,paraguay,china,exp,,,,,,,Valor real
-GowaJRHicks20132017,2196,1,peso oro sellado,1935,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,72476,1,peso oro sellado,1935,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,567172,1,peso oro sellado,1935,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,81579,1,peso oro sellado,1935,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,45644,1,peso oro sellado,1935,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,25185,1,peso oro sellado,1935,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,1459,1,peso oro sellado,1935,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,150,1,peso oro sellado,1935,paraguay,union sud africana,exp,,,,,,,Valor real
-GowaJRHicks20132017,306117,1,peso oro sellado,1935,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,79671,1,peso oro sellado,1935,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,1000,1,peso oro sellado,1935,paraguay,venezuela,exp,,,,,,,Valor real
-GowaJRHicks20132017,219149,1,peso oro sellado,1936,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,3174933,1,peso oro sellado,1936,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,5480068,1,peso oro sellado,1936,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,1001,1,peso oro sellado,1936,paraguay,africa,exp,,,,,,,Valor real
-GowaJRHicks20132017,300,1,peso oro sellado,1936,paraguay,canada,exp,,,,,,,Valor real
-GowaJRHicks20132017,3516,1,peso oro sellado,1936,paraguay,checoeslovaquia,exp,,,,,,,Valor real
-GowaJRHicks20132017,2566,1,peso oro sellado,1936,paraguay,chile,exp,,,,,,,Valor real
-GowaJRHicks20132017,93966,1,peso oro sellado,1936,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,202554,1,peso oro sellado,1936,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,16443,1,peso oro sellado,1936,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,9390,1,peso oro sellado,1936,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,1255,1,peso oro sellado,1936,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,222404,1,peso oro sellado,1936,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,4882,1,peso oro sellado,1936,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,2112988,1,peso oro sellado,1937,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,877,1,peso oro sellado,1937,paraguay,antillas inglesas,exp,,,,,,,Valor real
-GowaJRHicks20132017,2312974,1,peso oro sellado,1937,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,2822634,1,peso oro sellado,1937,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,1024,1,peso oro sellado,1937,paraguay,africa,exp,,,,,,,Valor real
-GowaJRHicks20132017,844,1,peso oro sellado,1937,paraguay,argelia,exp,,,,,,,Valor real
-GowaJRHicks20132017,490512,1,peso oro sellado,1937,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,3423,1,peso oro sellado,1937,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,54405,1,peso oro sellado,1937,paraguay,canada,exp,,,,,,,Valor real
-GowaJRHicks20132017,45781,1,peso oro sellado,1937,paraguay,checoeslovaquia,exp,,,,,,,Valor real
-GowaJRHicks20132017,9028,1,peso oro sellado,1937,paraguay,cuba,exp,,,,,,,Valor real
-GowaJRHicks20132017,8064,1,peso oro sellado,1937,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,942495,1,peso oro sellado,1937,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,2800,1,peso oro sellado,1937,paraguay,estonia,exp,,,,,,,Valor real
-GowaJRHicks20132017,145529,1,peso oro sellado,1937,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,361395,1,peso oro sellado,1937,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,980,1,peso oro sellado,1937,paraguay,indochina francesa,exp,,,,,,,Valor real
-GowaJRHicks20132017,1292751,1,peso oro sellado,1937,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,788990,1,peso oro sellado,1937,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,6986,1,peso oro sellado,1937,paraguay,japon,exp,,,,,,,Valor real
-GowaJRHicks20132017,5265,1,peso oro sellado,1937,paraguay,malta,exp,,,,,,,Valor real
-GowaJRHicks20132017,51331,1,peso oro sellado,1937,paraguay,noruega,exp,,,,,,,Valor real
-GowaJRHicks20132017,291041,1,peso oro sellado,1937,paraguay,polonia,exp,,,,,,,Valor real
-GowaJRHicks20132017,12528,1,peso oro sellado,1937,paraguay,suecia,exp,,,,,,,Valor real
-GowaJRHicks20132017,1,1,peso oro sellado,1937,paraguay,suiza,exp,,,,,,,Valor real
-GowaJRHicks20132017,73982,1,peso oro sellado,1937,paraguay,sud africa,exp,,,,,,,Valor real
-GowaJRHicks20132017,31,1,peso oro sellado,1937,paraguay,turquia,exp,,,,,,,Valor real
-GowaJRHicks20132017,227709,1,peso oro sellado,1937,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,1710355,1,peso oro sellado,1938,paraguay,alemania,exp,,,,,,,Valor real
-GowaJRHicks20132017,2567933,1,peso oro sellado,1938,paraguay,argentina,exp,,,,,,,Valor real
-GowaJRHicks20132017,3087981,1,peso oro sellado,1938,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,206,1,peso oro sellado,1938,paraguay,argelia,exp,,,,,,,Valor real
-GowaJRHicks20132017,669610,1,peso oro sellado,1938,paraguay,belgica,exp,,,,,,,Valor real
-GowaJRHicks20132017,2266,1,peso oro sellado,1938,paraguay,brasil,exp,,,,,,,Valor real
-GowaJRHicks20132017,66546,1,peso oro sellado,1938,paraguay,canada,exp,,,,,,,Valor real
-GowaJRHicks20132017,6191,1,peso oro sellado,1938,paraguay,checoeslovaquia,exp,,,,,,,Valor real
-GowaJRHicks20132017,2057,1,peso oro sellado,1938,paraguay,espana,exp,,,,,,,Valor real
-GowaJRHicks20132017,1470451,1,peso oro sellado,1938,paraguay,us,exp,,,,,,,Valor real
-GowaJRHicks20132017,90,1,peso oro sellado,1938,paraguay,finlandia,exp,,,,,,,Valor real
-GowaJRHicks20132017,241097,1,peso oro sellado,1938,paraguay,francia,exp,,,,,,,Valor real
-GowaJRHicks20132017,131088,1,peso oro sellado,1938,paraguay,hollanda,exp,,,,,,,Valor real
-GowaJRHicks20132017,1565027,1,peso oro sellado,1938,paraguay,inglaterra,exp,,,,,,,Valor real
-GowaJRHicks20132017,28865,1,peso oro sellado,1938,paraguay,italia,exp,,,,,,,Valor real
-GowaJRHicks20132017,58339,1,peso oro sellado,1938,paraguay,noruega,exp,,,,,,,Valor real
-GowaJRHicks20132017,9631,1,peso oro sellado,1938,paraguay,suecia,exp,,,,,,,Valor real
-GowaJRHicks20132017,230114,1,peso oro sellado,1938,paraguay,sud africa,exp,,,,,,,Valor real
-GowaJRHicks20132017,167731,1,peso oro sellado,1938,paraguay,uruguay,exp,,,,,,,Valor real
-GowaJRHicks20132017,1650,1,peso oro sellado,1938,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
-GowaJRHicks20132017,6091396,1,pesos oro,1921,paraguay,total,exp,,,,,,total_reporting,Valor de tarifa
-GowaJRHicks20132017,6612317,1,pesos oro,1922,paraguay,total,exp,,,,,,total_reporting,Valor de tarifa
-GowaJRHicks20132017,15497504,1,peso oro sellado,1926,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,14282040,1,peso oro sellado,1927,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,15886208,1,peso oro sellado,1928,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,13459766,1,peso oro sellado,1929,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,14176453,1,peso oro sellado,1930,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,12856585,1,peso oro sellado,1931,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,12872945,1,peso oro sellado,1932,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,9767520,1,peso oro sellado,1933,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,12377761,1,peso oro sellado,1934,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,11396050,1,peso oro sellado,1935,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,9432427,1,peso oro sellado,1936,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,12066368,1,peso oro sellado,1937,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,12017228,1,peso oro sellado,1938,paraguay,total,exp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,330379,1,pesos oro,1921,paraguay,alemania,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1932649,1,pesos oro,1921,paraguay,argentina,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,27688,1,pesos oro,1921,paraguay,belgica,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,86197,1,pesos oro,1921,paraguay,brasil,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,4848,1,pesos oro,1921,paraguay,cuba,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2429,1,pesos oro,1921,paraguay,chile,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,205906,1,pesos oro,1921,paraguay,espana,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,849453,1,pesos oro,1921,paraguay,us,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,163934,1,pesos oro,1921,paraguay,francia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,24662,1,pesos oro,1921,paraguay,hollanda,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,23667,1,pesos oro,1921,paraguay,india,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1051893,1,pesos oro,1921,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,165130,1,pesos oro,1921,paraguay,italia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,29547,1,pesos oro,1921,paraguay,japon,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2708,1,pesos oro,1921,paraguay,noruega,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1741,1,pesos oro,1921,paraguay,suecia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3801,1,pesos oro,1921,paraguay,suiza,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,107557,1,pesos oro,1921,paraguay,uruguay,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2255,1,pesos oro,1921,paraguay,varios,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,298916,1,pesos oro,1922,paraguay,alemania,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1484847,1,pesos oro,1922,paraguay,argentina,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,34071,1,pesos oro,1922,paraguay,belgica,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,176317,1,pesos oro,1922,paraguay,brasil,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2143,1,pesos oro,1922,paraguay,cuba,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2921,1,pesos oro,1922,paraguay,chile,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,120882,1,pesos oro,1922,paraguay,espana,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,902262,1,pesos oro,1922,paraguay,us,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,73313,1,pesos oro,1922,paraguay,francia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,9042,1,pesos oro,1922,paraguay,hollanda,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,79302,1,pesos oro,1922,paraguay,india,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,975133,1,pesos oro,1922,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,72388,1,pesos oro,1922,paraguay,italia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,7410,1,pesos oro,1922,paraguay,japon,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2835,1,pesos oro,1922,paraguay,noruega,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1308,1,pesos oro,1922,paraguay,suecia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3875,1,pesos oro,1922,paraguay,suiza,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,91207,1,pesos oro,1922,paraguay,uruguay,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2179,1,pesos oro,1922,paraguay,varios,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,379866,1,pesos oro,1923,paraguay,alemania,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,2267659,1,pesos oro,1923,paraguay,argentina,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,47771,1,pesos oro,1923,paraguay,belgica,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,535650,1,pesos oro,1923,paraguay,brasil,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,929,1,pesos oro,1923,paraguay,chile,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,120084,1,pesos oro,1923,paraguay,espana,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1035604,1,pesos oro,1923,paraguay,us,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,122564,1,pesos oro,1923,paraguay,francia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,51973,1,pesos oro,1923,paraguay,hollanda,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,94577,1,pesos oro,1923,paraguay,india,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1506430,1,pesos oro,1923,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,192299,1,pesos oro,1923,paraguay,italia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,25779,1,pesos oro,1923,paraguay,japon,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,7233,1,pesos oro,1923,paraguay,noruega,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3378,1,pesos oro,1923,paraguay,suecia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,12597,1,pesos oro,1923,paraguay,suiza,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,170099,1,pesos oro,1923,paraguay,uruguay,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,18749,1,pesos oro,1923,paraguay,varios,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,749100,1,pesos oro,1924,paraguay,alemania,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3471210,1,pesos oro,1924,paraguay,argentina,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,4706,1,pesos oro,1924,paraguay,austria,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,199191,1,pesos oro,1924,paraguay,belgica,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,228381,1,pesos oro,1924,paraguay,brasil,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3498,1,pesos oro,1924,paraguay,canada,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,583,1,pesos oro,1924,paraguay,ceilan,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,18206,1,pesos oro,1924,paraguay,checoeslovaquia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,8701,1,pesos oro,1924,paraguay,cuba,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3610,1,pesos oro,1924,paraguay,chile,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1016,1,pesos oro,1924,paraguay,china,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3664,1,pesos oro,1924,paraguay,dinamarca,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,212267,1,pesos oro,1924,paraguay,espana,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1306164,1,pesos oro,1924,paraguay,us,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,331764,1,pesos oro,1924,paraguay,francia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,123349,1,pesos oro,1924,paraguay,hollanda,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,320,1,pesos oro,1924,paraguay,hungria,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,66545,1,pesos oro,1924,paraguay,india,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1802314,1,pesos oro,1924,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,579651,1,pesos oro,1924,paraguay,italia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,140231,1,pesos oro,1924,paraguay,japon,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,804,1,pesos oro,1924,paraguay,java,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,13490,1,pesos oro,1924,paraguay,mexico,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,10729,1,pesos oro,1924,paraguay,noruega,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1390,1,pesos oro,1924,paraguay,polonia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,3485,1,pesos oro,1924,paraguay,portugal,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,51,1,pesos oro,1924,paraguay,russia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,12051,1,pesos oro,1924,paraguay,suecia,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,27797,1,pesos oro,1924,paraguay,suiza,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,165,1,pesos oro,1924,paraguay,sumatra,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,187311,1,pesos oro,1924,paraguay,uruguay,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,21,1,pesos oro,1924,paraguay,venezuela,imp,,,,,,,Valor de tarifa
-GowaJRHicks20132017,1273568,1,peso oro sellado,1926,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4099461,1,peso oro sellado,1926,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,56,1,peso oro sellado,1926,paraguay,australia,imp,,,,,,,Valor real
-GowaJRHicks20132017,12778,1,peso oro sellado,1926,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,91,1,peso oro sellado,1926,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,271889,1,peso oro sellado,1926,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,100737,1,peso oro sellado,1926,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,64479,1,peso oro sellado,1926,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,370,1,peso oro sellado,1926,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,103269,1,peso oro sellado,1926,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,8217,1,peso oro sellado,1926,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,396,1,peso oro sellado,1926,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,1591,1,peso oro sellado,1926,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,11104,1,peso oro sellado,1926,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,297,1,peso oro sellado,1926,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,540870,1,peso oro sellado,1926,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,1938409,1,peso oro sellado,1926,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,3226,1,peso oro sellado,1926,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,499007,1,peso oro sellado,1926,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,269,1,peso oro sellado,1926,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,149607,1,peso oro sellado,1926,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,54,1,peso oro sellado,1926,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,57971,1,peso oro sellado,1926,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,1688521,1,peso oro sellado,1926,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,96,1,peso oro sellado,1926,paraguay,irak,imp,,,,,,,Valor real
-GowaJRHicks20132017,801104,1,peso oro sellado,1926,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,242073,1,peso oro sellado,1926,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,1105,1,peso oro sellado,1926,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,268,1,peso oro sellado,1926,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,9791,1,peso oro sellado,1926,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,19435,1,peso oro sellado,1926,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,723,1,peso oro sellado,1926,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1540,1,peso oro sellado,1926,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1906,1,peso oro sellado,1926,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,6422,1,peso oro sellado,1926,paraguay,rumania,imp,,,,,,,Valor real
-GowaJRHicks20132017,920,1,peso oro sellado,1926,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,20,1,peso oro sellado,1926,paraguay,siberia,imp,,,,,,,Valor real
-GowaJRHicks20132017,25038,1,peso oro sellado,1926,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,65644,1,peso oro sellado,1926,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,201899,1,peso oro sellado,1926,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,989,1,peso oro sellado,1926,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1146757,1,peso oro sellado,1927,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4009115,1,peso oro sellado,1927,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,1376,1,peso oro sellado,1927,paraguay,australia,imp,,,,,,,Valor real
-GowaJRHicks20132017,16005,1,peso oro sellado,1927,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,105,1,peso oro sellado,1927,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,247949,1,peso oro sellado,1927,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,184589,1,peso oro sellado,1927,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,91925,1,peso oro sellado,1927,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,2848,1,peso oro sellado,1927,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,52850,1,peso oro sellado,1927,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,9678,1,peso oro sellado,1927,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,10694,1,peso oro sellado,1927,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,196,1,peso oro sellado,1927,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,8816,1,peso oro sellado,1927,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,362,1,peso oro sellado,1927,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,835271,1,peso oro sellado,1927,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,2223906,1,peso oro sellado,1927,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,13513,1,peso oro sellado,1927,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,502967,1,peso oro sellado,1927,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,195,1,peso oro sellado,1927,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,113128,1,peso oro sellado,1927,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,419,1,peso oro sellado,1927,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,79489,1,peso oro sellado,1927,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,1314461,1,peso oro sellado,1927,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,649147,1,peso oro sellado,1927,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,256944,1,peso oro sellado,1927,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,906,1,peso oro sellado,1927,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,1925,1,peso oro sellado,1927,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,47,1,peso oro sellado,1927,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,146,1,peso oro sellado,1927,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,22921,1,peso oro sellado,1927,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,1542,1,peso oro sellado,1927,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,30,1,peso oro sellado,1927,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,2936,1,peso oro sellado,1927,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,784,1,peso oro sellado,1927,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,4,1,peso oro sellado,1927,paraguay,rumania,imp,,,,,,,Valor real
-GowaJRHicks20132017,281,1,peso oro sellado,1927,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,90,1,peso oro sellado,1927,paraguay,siberia,imp,,,,,,,Valor real
-GowaJRHicks20132017,58343,1,peso oro sellado,1927,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,35770,1,peso oro sellado,1927,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,81,1,peso oro sellado,1927,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,77813,1,peso oro sellado,1927,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,1442,1,peso oro sellado,1927,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1446773,1,peso oro sellado,1928,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,5514989,1,peso oro sellado,1928,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,1157,1,peso oro sellado,1928,paraguay,australia,imp,,,,,,,Valor real
-GowaJRHicks20132017,46940,1,peso oro sellado,1928,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,195,1,peso oro sellado,1928,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,125,1,peso oro sellado,1928,paraguay,argelia,imp,,,,,,,Valor real
-GowaJRHicks20132017,336225,1,peso oro sellado,1928,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,195,1,peso oro sellado,1928,paraguay,bermudas,imp,,,,,,,Valor real
-GowaJRHicks20132017,83,1,peso oro sellado,1928,paraguay,bolivia,imp,,,,,,,Valor real
-GowaJRHicks20132017,106635,1,peso oro sellado,1928,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,129147,1,peso oro sellado,1928,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,6527,1,peso oro sellado,1928,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,31,1,peso oro sellado,1928,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,70387,1,peso oro sellado,1928,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,12576,1,peso oro sellado,1928,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,26161,1,peso oro sellado,1928,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,1370,1,peso oro sellado,1928,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,8471,1,peso oro sellado,1928,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,971,1,peso oro sellado,1928,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,607267,1,peso oro sellado,1928,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,2291358,1,peso oro sellado,1928,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,2779,1,peso oro sellado,1928,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,465755,1,peso oro sellado,1928,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,219,1,peso oro sellado,1928,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,152717,1,peso oro sellado,1928,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,399,1,peso oro sellado,1928,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,83955,1,peso oro sellado,1928,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,1629480,1,peso oro sellado,1928,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,784907,1,peso oro sellado,1928,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,339,1,peso oro sellado,1928,paraguay,jamaica,imp,,,,,,,Valor real
-GowaJRHicks20132017,308597,1,peso oro sellado,1928,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,1375,1,peso oro sellado,1928,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,559,1,peso oro sellado,1928,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,793,1,peso oro sellado,1928,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,11,1,peso oro sellado,1928,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,9934,1,peso oro sellado,1928,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,1821,1,peso oro sellado,1928,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,6142,1,peso oro sellado,1928,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1117,1,peso oro sellado,1928,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,1507,1,peso oro sellado,1928,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,37885,1,peso oro sellado,1928,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,50661,1,peso oro sellado,1928,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,410,1,peso oro sellado,1928,paraguay,sumatra,imp,,,,,,,Valor real
-GowaJRHicks20132017,142,1,peso oro sellado,1928,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,156032,1,peso oro sellado,1928,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,1307512,1,peso oro sellado,1929,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4851736,1,peso oro sellado,1929,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,334213,1,peso oro sellado,1929,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,147554,1,peso oro sellado,1929,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,66701,1,peso oro sellado,1929,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,9876,1,peso oro sellado,1929,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,35246,1,peso oro sellado,1929,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,45007,1,peso oro sellado,1929,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,492590,1,peso oro sellado,1929,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,2592827,1,peso oro sellado,1929,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,722642,1,peso oro sellado,1929,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,111101,1,peso oro sellado,1929,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,1682931,1,peso oro sellado,1929,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,710579,1,peso oro sellado,1929,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,297982,1,peso oro sellado,1929,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,995,1,peso oro sellado,1929,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,80234,1,peso oro sellado,1929,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,68214,1,peso oro sellado,1929,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,175300,1,peso oro sellado,1929,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,116855,1,peso oro sellado,1929,paraguay,varios,imp,,,,,,,Valor real
-GowaJRHicks20132017,1359642,1,peso oro sellado,1930,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4360267,1,peso oro sellado,1930,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,1971,1,peso oro sellado,1930,paraguay,australia,imp,,,,,,,Valor real
-GowaJRHicks20132017,69697,1,peso oro sellado,1930,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,44,1,peso oro sellado,1930,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,848672,1,peso oro sellado,1930,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,16,1,peso oro sellado,1930,paraguay,bolivia,imp,,,,,,,Valor real
-GowaJRHicks20132017,166149,1,peso oro sellado,1930,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,110482,1,peso oro sellado,1930,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,144249,1,peso oro sellado,1930,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,5,1,peso oro sellado,1930,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,91738,1,peso oro sellado,1930,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,8905,1,peso oro sellado,1930,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,23687,1,peso oro sellado,1930,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,7554,1,peso oro sellado,1930,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,7147,1,peso oro sellado,1930,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,2258,1,peso oro sellado,1930,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,653981,1,peso oro sellado,1930,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,2410294,1,peso oro sellado,1930,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,26893,1,peso oro sellado,1930,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,862984,1,peso oro sellado,1930,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,38,1,peso oro sellado,1930,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,160468,1,peso oro sellado,1930,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,919,1,peso oro sellado,1930,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,88758,1,peso oro sellado,1930,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,2070149,1,peso oro sellado,1930,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,818396,1,peso oro sellado,1930,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,445730,1,peso oro sellado,1930,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,1331,1,peso oro sellado,1930,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,4271,1,peso oro sellado,1930,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,2475,1,peso oro sellado,1930,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,63265,1,peso oro sellado,1930,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,9565,1,peso oro sellado,1930,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,84,1,peso oro sellado,1930,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,120,1,peso oro sellado,1930,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,422,1,peso oro sellado,1930,paraguay,panama,imp,,,,,,,Valor real
-GowaJRHicks20132017,523,1,peso oro sellado,1930,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,8606,1,peso oro sellado,1930,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,939,1,peso oro sellado,1930,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,42244,1,peso oro sellado,1930,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,5,1,peso oro sellado,1930,paraguay,siria,imp,,,,,,,Valor real
-GowaJRHicks20132017,90697,1,peso oro sellado,1930,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,70146,1,peso oro sellado,1930,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,14,1,peso oro sellado,1930,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,233271,1,peso oro sellado,1930,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,3,1,peso oro sellado,1930,paraguay,venezuela,imp,,,,,,,Valor real
-GowaJRHicks20132017,10,1,peso oro sellado,1930,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,275,1,peso oro sellado,1930,paraguay,varios,imp,,,,,,,Valor real
-GowaJRHicks20132017,257,1,peso oro sellado,1931,paraguay,arabia,imp,,,,,,,Valor real
-GowaJRHicks20132017,994225,1,peso oro sellado,1931,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,22968,1,peso oro sellado,1931,paraguay,antilla holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,2956693,1,peso oro sellado,1931,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,30170,1,peso oro sellado,1931,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,201,1,peso oro sellado,1931,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,449379,1,peso oro sellado,1931,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,78184,1,peso oro sellado,1931,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,67341,1,peso oro sellado,1931,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,5419,1,peso oro sellado,1931,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,5,1,peso oro sellado,1931,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,49955,1,peso oro sellado,1931,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,3001,1,peso oro sellado,1931,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,6118,1,peso oro sellado,1931,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,2890,1,peso oro sellado,1931,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,6175,1,peso oro sellado,1931,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,5,1,peso oro sellado,1931,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,567165,1,peso oro sellado,1931,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,1628069,1,peso oro sellado,1931,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,22068,1,peso oro sellado,1931,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,385264,1,peso oro sellado,1931,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,10,1,peso oro sellado,1931,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,124398,1,peso oro sellado,1931,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,2101,1,peso oro sellado,1931,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,142237,1,peso oro sellado,1931,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,1148,1,peso oro sellado,1931,paraguay,india holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,1244163,1,peso oro sellado,1931,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,607823,1,peso oro sellado,1931,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,355857,1,peso oro sellado,1931,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,34,1,peso oro sellado,1931,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,2453,1,peso oro sellado,1931,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,1611,1,peso oro sellado,1931,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,68314,1,peso oro sellado,1931,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,9752,1,peso oro sellado,1931,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,57,1,peso oro sellado,1931,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,65,1,peso oro sellado,1931,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,191,1,peso oro sellado,1931,paraguay,panama,imp,,,,,,,Valor real
-GowaJRHicks20132017,901,1,peso oro sellado,1931,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,1404,1,peso oro sellado,1931,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2248,1,peso oro sellado,1931,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,22929,1,peso oro sellado,1931,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,46,1,peso oro sellado,1931,paraguay,siberia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1931,paraguay,siria,imp,,,,,,,Valor real
-GowaJRHicks20132017,81126,1,peso oro sellado,1931,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,67909,1,peso oro sellado,1931,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,20,1,peso oro sellado,1931,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,67166,1,peso oro sellado,1931,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1931,paraguay,venezuela,imp,,,,,,,Valor real
-GowaJRHicks20132017,1213,1,peso oro sellado,1931,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,512031,1,peso oro sellado,1932,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,25257,1,peso oro sellado,1932,paraguay,antilla holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,2487291,1,peso oro sellado,1932,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1932,paraguay,australia,imp,,,,,,,Valor real
-GowaJRHicks20132017,22958,1,peso oro sellado,1932,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,169162,1,peso oro sellado,1932,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,72507,1,peso oro sellado,1932,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,9825,1,peso oro sellado,1932,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,8690,1,peso oro sellado,1932,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,6,1,peso oro sellado,1932,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,46386,1,peso oro sellado,1932,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,6544,1,peso oro sellado,1932,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,3671,1,peso oro sellado,1932,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,1101,1,peso oro sellado,1932,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,10811,1,peso oro sellado,1932,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,266,1,peso oro sellado,1932,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,1,1,peso oro sellado,1932,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,363757,1,peso oro sellado,1932,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,823343,1,peso oro sellado,1932,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,6990,1,peso oro sellado,1932,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,214472,1,peso oro sellado,1932,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,10,1,peso oro sellado,1932,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,65922,1,peso oro sellado,1932,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,665,1,peso oro sellado,1932,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,68722,1,peso oro sellado,1932,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,1598,1,peso oro sellado,1932,paraguay,india holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,766231,1,peso oro sellado,1932,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,323040,1,peso oro sellado,1932,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,216629,1,peso oro sellado,1932,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,1306,1,peso oro sellado,1932,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,1689,1,peso oro sellado,1932,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,41224,1,peso oro sellado,1932,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,6731,1,peso oro sellado,1932,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,16,1,peso oro sellado,1932,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,8,1,peso oro sellado,1932,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,6604,1,peso oro sellado,1932,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,176,1,peso oro sellado,1932,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1324,1,peso oro sellado,1932,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,20153,1,peso oro sellado,1932,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,22981,1,peso oro sellado,1932,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,29826,1,peso oro sellado,1932,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,49840,1,peso oro sellado,1932,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1932,paraguay,venezuela,imp,,,,,,,Valor real
-GowaJRHicks20132017,2373,1,peso oro sellado,1932,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,5505,1,peso oro sellado,1932,paraguay,varios,imp,,,,,,,Valor real
-GowaJRHicks20132017,271042,1,peso oro sellado,1933,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4391095,1,peso oro sellado,1933,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,10779,1,peso oro sellado,1933,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,806,1,peso oro sellado,1933,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,135,1,peso oro sellado,1933,paraguay,albania,imp,,,,,,,Valor real
-GowaJRHicks20132017,112661,1,peso oro sellado,1933,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,65221,1,peso oro sellado,1933,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,2142,1,peso oro sellado,1933,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,4343,1,peso oro sellado,1933,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,9160,1,peso oro sellado,1933,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2078,1,peso oro sellado,1933,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,1199,1,peso oro sellado,1933,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,1405,1,peso oro sellado,1933,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,1537,1,peso oro sellado,1933,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,65,1,peso oro sellado,1933,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,442,1,peso oro sellado,1933,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,275297,1,peso oro sellado,1933,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,377366,1,peso oro sellado,1933,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,3011,1,peso oro sellado,1933,paraguay,estonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1346,1,peso oro sellado,1933,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,110115,1,peso oro sellado,1933,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1707,1,peso oro sellado,1933,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,44424,1,peso oro sellado,1933,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,416,1,peso oro sellado,1933,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,99627,1,peso oro sellado,1933,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,651345,1,peso oro sellado,1933,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,208373,1,peso oro sellado,1933,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,361538,1,peso oro sellado,1933,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,1668,1,peso oro sellado,1933,paraguay,madagascar,imp,,,,,,,Valor real
-GowaJRHicks20132017,1722,1,peso oro sellado,1933,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,7300,1,peso oro sellado,1933,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,7427,1,peso oro sellado,1933,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,38,1,peso oro sellado,1933,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2222,1,peso oro sellado,1933,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1933,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,432,1,peso oro sellado,1933,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,420,1,peso oro sellado,1933,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,39166,1,peso oro sellado,1933,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,10,1,peso oro sellado,1933,paraguay,siam,imp,,,,,,,Valor real
-GowaJRHicks20132017,31,1,peso oro sellado,1933,paraguay,sudan,imp,,,,,,,Valor real
-GowaJRHicks20132017,27621,1,peso oro sellado,1933,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,13459,1,peso oro sellado,1933,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,384,1,peso oro sellado,1933,paraguay,sumatra,imp,,,,,,,Valor real
-GowaJRHicks20132017,1584,1,peso oro sellado,1933,paraguay,tahiti,imp,,,,,,,Valor real
-GowaJRHicks20132017,39,1,peso oro sellado,1933,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,47398,1,peso oro sellado,1933,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,13,1,peso oro sellado,1933,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,80,1,peso oro sellado,1933,paraguay,zanzibar,imp,,,,,,,Valor real
-GowaJRHicks20132017,466284,1,peso oro sellado,1934,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,6695625,1,peso oro sellado,1934,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,20,1,peso oro sellado,1934,paraguay,australia,imp,,,,,,,Valor real
-GowaJRHicks20132017,13083,1,peso oro sellado,1934,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,125195,1,peso oro sellado,1934,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,211914,1,peso oro sellado,1934,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,458,1,peso oro sellado,1934,paraguay,bulgaria,imp,,,,,,,Valor real
-GowaJRHicks20132017,4517,1,peso oro sellado,1934,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,1539,1,peso oro sellado,1934,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,90794,1,peso oro sellado,1934,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,17628,1,peso oro sellado,1934,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,748,1,peso oro sellado,1934,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,4751,1,peso oro sellado,1934,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,1894,1,peso oro sellado,1934,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,6962,1,peso oro sellado,1934,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,741,1,peso oro sellado,1934,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,5,1,peso oro sellado,1934,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,270077,1,peso oro sellado,1934,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,396478,1,peso oro sellado,1934,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,8316,1,peso oro sellado,1934,paraguay,estonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,79,1,peso oro sellado,1934,paraguay,filipinas,imp,,,,,,,Valor real
-GowaJRHicks20132017,10029,1,peso oro sellado,1934,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,161638,1,peso oro sellado,1934,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,10418,1,peso oro sellado,1934,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,53944,1,peso oro sellado,1934,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,538,1,peso oro sellado,1934,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,147563,1,peso oro sellado,1934,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,1141964,1,peso oro sellado,1934,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,207648,1,peso oro sellado,1934,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,677478,1,peso oro sellado,1934,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,1971,1,peso oro sellado,1934,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,5002,1,peso oro sellado,1934,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,775,1,peso oro sellado,1934,paraguay,madagascar,imp,,,,,,,Valor real
-GowaJRHicks20132017,227,1,peso oro sellado,1934,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,164,1,peso oro sellado,1934,paraguay,malta,imp,,,,,,,Valor real
-GowaJRHicks20132017,210,1,peso oro sellado,1934,paraguay,marruecos,imp,,,,,,,Valor real
-GowaJRHicks20132017,20066,1,peso oro sellado,1934,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,144415,1,peso oro sellado,1934,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,2291,1,peso oro sellado,1934,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1058,1,peso oro sellado,1934,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,58259,1,peso oro sellado,1934,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1934,paraguay,siam,imp,,,,,,,Valor real
-GowaJRHicks20132017,373,1,peso oro sellado,1934,paraguay,sudan,imp,,,,,,,Valor real
-GowaJRHicks20132017,41977,1,peso oro sellado,1934,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,12497,1,peso oro sellado,1934,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,7232,1,peso oro sellado,1934,paraguay,tahiti,imp,,,,,,,Valor real
-GowaJRHicks20132017,128,1,peso oro sellado,1934,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,314446,1,peso oro sellado,1934,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,1227,1,peso oro sellado,1934,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,26,1,peso oro sellado,1934,paraguay,zanzibar,imp,,,,,,,Valor real
-GowaJRHicks20132017,571202,1,peso oro sellado,1935,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,5867848,1,peso oro sellado,1935,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,50990,1,peso oro sellado,1935,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,141636,1,peso oro sellado,1935,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,221858,1,peso oro sellado,1935,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,14124,1,peso oro sellado,1935,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,1882,1,peso oro sellado,1935,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,53,1,peso oro sellado,1935,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,37379,1,peso oro sellado,1935,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,3828,1,peso oro sellado,1935,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,11349,1,peso oro sellado,1935,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,539,1,peso oro sellado,1935,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,9599,1,peso oro sellado,1935,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,8848,1,peso oro sellado,1935,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,1027,1,peso oro sellado,1935,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,116835,1,peso oro sellado,1935,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,888601,1,peso oro sellado,1935,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,9676,1,peso oro sellado,1935,paraguay,estonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,18221,1,peso oro sellado,1935,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,193855,1,peso oro sellado,1935,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,7949,1,peso oro sellado,1935,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,968,1,peso oro sellado,1935,paraguay,haiti,imp,,,,,,,Valor real
-GowaJRHicks20132017,39088,1,peso oro sellado,1935,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,979,1,peso oro sellado,1935,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,118832,1,peso oro sellado,1935,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,905505,1,peso oro sellado,1935,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,183781,1,peso oro sellado,1935,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1690205,1,peso oro sellado,1935,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,786,1,peso oro sellado,1935,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,619,1,peso oro sellado,1935,paraguay,latvia,imp,,,,,,,Valor real
-GowaJRHicks20132017,4236,1,peso oro sellado,1935,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,1414,1,peso oro sellado,1935,paraguay,madagascar,imp,,,,,,,Valor real
-GowaJRHicks20132017,709,1,peso oro sellado,1935,paraguay,malaca,imp,,,,,,,Valor real
-GowaJRHicks20132017,115,1,peso oro sellado,1935,paraguay,marruecos,imp,,,,,,,Valor real
-GowaJRHicks20132017,7275,1,peso oro sellado,1935,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,24932,1,peso oro sellado,1935,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,3,1,peso oro sellado,1935,paraguay,nueva zelandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,10,1,peso oro sellado,1935,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,70,1,peso oro sellado,1935,paraguay,panama,imp,,,,,,,Valor real
-GowaJRHicks20132017,198227,1,peso oro sellado,1935,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,10859,1,peso oro sellado,1935,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,248,1,peso oro sellado,1935,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,66371,1,peso oro sellado,1935,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,20,1,peso oro sellado,1935,paraguay,siberia,imp,,,,,,,Valor real
-GowaJRHicks20132017,534,1,peso oro sellado,1935,paraguay,sudan,imp,,,,,,,Valor real
-GowaJRHicks20132017,59919,1,peso oro sellado,1935,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,41968,1,peso oro sellado,1935,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,13558,1,peso oro sellado,1935,paraguay,tahiti,imp,,,,,,,Valor real
-GowaJRHicks20132017,158,1,peso oro sellado,1935,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,79986,1,peso oro sellado,1935,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,1601,1,peso oro sellado,1935,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,115,1,peso oro sellado,1935,paraguay,zanzibar,imp,,,,,,,Valor real
-GowaJRHicks20132017,1357924,1,peso oro sellado,1936,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4082160,1,peso oro sellado,1936,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,27403,1,peso oro sellado,1936,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,1,1,peso oro sellado,1936,paraguay,africa,imp,,,,,,,Valor real
-GowaJRHicks20132017,231819,1,peso oro sellado,1936,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1936,paraguay,bolivia,imp,,,,,,,Valor real
-GowaJRHicks20132017,125904,1,peso oro sellado,1936,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,7563,1,peso oro sellado,1936,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,930,1,peso oro sellado,1936,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,1522,1,peso oro sellado,1936,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,78828,1,peso oro sellado,1936,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2008,1,peso oro sellado,1936,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,13271,1,peso oro sellado,1936,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,588,1,peso oro sellado,1936,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,10813,1,peso oro sellado,1936,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,13993,1,peso oro sellado,1936,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,74314,1,peso oro sellado,1936,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,558299,1,peso oro sellado,1936,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,5098,1,peso oro sellado,1936,paraguay,estonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,17255,1,peso oro sellado,1936,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,135817,1,peso oro sellado,1936,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,5239,1,peso oro sellado,1936,paraguay,guatemala,imp,,,,,,,Valor real
-GowaJRHicks20132017,3379,1,peso oro sellado,1936,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,38576,1,peso oro sellado,1936,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,2600,1,peso oro sellado,1936,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,63811,1,peso oro sellado,1936,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,4934,1,peso oro sellado,1936,paraguay,india holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,939727,1,peso oro sellado,1936,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,202662,1,peso oro sellado,1936,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1361023,1,peso oro sellado,1936,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,2862,1,peso oro sellado,1936,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,1,1,peso oro sellado,1936,paraguay,lituania,imp,,,,,,,Valor real
-GowaJRHicks20132017,12306,1,peso oro sellado,1936,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,12722,1,peso oro sellado,1936,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,18861,1,peso oro sellado,1936,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,2,1,peso oro sellado,1936,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,84,1,peso oro sellado,1936,paraguay,panama,imp,,,,,,,Valor real
-GowaJRHicks20132017,110276,1,peso oro sellado,1936,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,28,1,peso oro sellado,1936,paraguay,persia,imp,,,,,,,Valor real
-GowaJRHicks20132017,8160,1,peso oro sellado,1936,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,2822,1,peso oro sellado,1936,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,124,1,peso oro sellado,1936,paraguay,rumania,imp,,,,,,,Valor real
-GowaJRHicks20132017,27544,1,peso oro sellado,1936,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,20,1,peso oro sellado,1936,paraguay,siam,imp,,,,,,,Valor real
-GowaJRHicks20132017,51430,1,peso oro sellado,1936,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,61356,1,peso oro sellado,1936,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,1021,1,peso oro sellado,1936,paraguay,tahiti,imp,,,,,,,Valor real
-GowaJRHicks20132017,77,1,peso oro sellado,1936,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,128329,1,peso oro sellado,1936,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,8173,1,peso oro sellado,1936,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,8,1,peso oro sellado,1936,paraguay,zanzibar,imp,,,,,,,Valor real
-GowaJRHicks20132017,1741759,1,peso oro sellado,1937,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,4925731,1,peso oro sellado,1937,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,18936,1,peso oro sellado,1937,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,288768,1,peso oro sellado,1937,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,157451,1,peso oro sellado,1937,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,238,1,peso oro sellado,1937,paraguay,bulgaria,imp,,,,,,,Valor real
-GowaJRHicks20132017,12469,1,peso oro sellado,1937,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,1068,1,peso oro sellado,1937,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,3084,1,peso oro sellado,1937,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,75893,1,peso oro sellado,1937,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,920,1,peso oro sellado,1937,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,11052,1,peso oro sellado,1937,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,3112,1,peso oro sellado,1937,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,11098,1,peso oro sellado,1937,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,28900,1,peso oro sellado,1937,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,3,1,peso oro sellado,1937,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,42014,1,peso oro sellado,1937,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,942623,1,peso oro sellado,1937,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,2461,1,peso oro sellado,1937,paraguay,estonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,17648,1,peso oro sellado,1937,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,144087,1,peso oro sellado,1937,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,66250,1,peso oro sellado,1937,paraguay,guatemala,imp,,,,,,,Valor real
-GowaJRHicks20132017,9113,1,peso oro sellado,1937,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,80505,1,peso oro sellado,1937,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,214,1,peso oro sellado,1937,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,80743,1,peso oro sellado,1937,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,138936,1,peso oro sellado,1937,paraguay,india holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,1107145,1,peso oro sellado,1937,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,26,1,peso oro sellado,1937,paraguay,irak,imp,,,,,,,Valor real
-GowaJRHicks20132017,311921,1,peso oro sellado,1937,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1702700,1,peso oro sellado,1937,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,2781,1,peso oro sellado,1937,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,1436,1,peso oro sellado,1937,paraguay,latvia,imp,,,,,,,Valor real
-GowaJRHicks20132017,4805,1,peso oro sellado,1937,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,43,1,peso oro sellado,1937,paraguay,madagascar,imp,,,,,,,Valor real
-GowaJRHicks20132017,15493,1,peso oro sellado,1937,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,34527,1,peso oro sellado,1937,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,4,1,peso oro sellado,1937,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,106729,1,peso oro sellado,1937,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,5698,1,peso oro sellado,1937,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,11414,1,peso oro sellado,1937,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,1639,1,peso oro sellado,1937,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,16,1,peso oro sellado,1937,paraguay,siam,imp,,,,,,,Valor real
-GowaJRHicks20132017,19,1,peso oro sellado,1937,paraguay,siberia,imp,,,,,,,Valor real
-GowaJRHicks20132017,31,1,peso oro sellado,1937,paraguay,sudan,imp,,,,,,,Valor real
-GowaJRHicks20132017,62042,1,peso oro sellado,1937,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,56428,1,peso oro sellado,1937,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,313,1,peso oro sellado,1937,paraguay,sumatra,imp,,,,,,,Valor real
-GowaJRHicks20132017,8594,1,peso oro sellado,1937,paraguay,tahiti,imp,,,,,,,Valor real
-GowaJRHicks20132017,279,1,peso oro sellado,1937,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,49,1,peso oro sellado,1937,paraguay,union sud africana,imp,,,,,,,Valor real
-GowaJRHicks20132017,159568,1,peso oro sellado,1937,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,2330,1,peso oro sellado,1937,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,134,1,peso oro sellado,1937,paraguay,zanzibar,imp,,,,,,,Valor real
-GowaJRHicks20132017,1496251,1,peso oro sellado,1938,paraguay,alemania,imp,,,,,,,Valor real
-GowaJRHicks20132017,1775,1,peso oro sellado,1938,paraguay,antilla holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,4999882,1,peso oro sellado,1938,paraguay,argentina,imp,,,,,,,Valor real
-GowaJRHicks20132017,8202,1,peso oro sellado,1938,paraguay,austria,imp,,,,,,,Valor real
-GowaJRHicks20132017,296628,1,peso oro sellado,1938,paraguay,belgica,imp,,,,,,,Valor real
-GowaJRHicks20132017,137159,1,peso oro sellado,1938,paraguay,brasil,imp,,,,,,,Valor real
-GowaJRHicks20132017,341,1,peso oro sellado,1938,paraguay,bulgaria,imp,,,,,,,Valor real
-GowaJRHicks20132017,5511,1,peso oro sellado,1938,paraguay,canada,imp,,,,,,,Valor real
-GowaJRHicks20132017,2340,1,peso oro sellado,1938,paraguay,ceilan,imp,,,,,,,Valor real
-GowaJRHicks20132017,13,1,peso oro sellado,1938,paraguay,colombia,imp,,,,,,,Valor real
-GowaJRHicks20132017,114451,1,peso oro sellado,1938,paraguay,checoeslovaquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1079,1,peso oro sellado,1938,paraguay,cuba,imp,,,,,,,Valor real
-GowaJRHicks20132017,8339,1,peso oro sellado,1938,paraguay,chile,imp,,,,,,,Valor real
-GowaJRHicks20132017,3780,1,peso oro sellado,1938,paraguay,china,imp,,,,,,,Valor real
-GowaJRHicks20132017,16237,1,peso oro sellado,1938,paraguay,dinamarca,imp,,,,,,,Valor real
-GowaJRHicks20132017,23800,1,peso oro sellado,1938,paraguay,ecuador,imp,,,,,,,Valor real
-GowaJRHicks20132017,12,1,peso oro sellado,1938,paraguay,egipto,imp,,,,,,,Valor real
-GowaJRHicks20132017,14873,1,peso oro sellado,1938,paraguay,espana,imp,,,,,,,Valor real
-GowaJRHicks20132017,1252002,1,peso oro sellado,1938,paraguay,us,imp,,,,,,,Valor real
-GowaJRHicks20132017,10130,1,peso oro sellado,1938,paraguay,estonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,27732,1,peso oro sellado,1938,paraguay,finlandia,imp,,,,,,,Valor real
-GowaJRHicks20132017,205551,1,peso oro sellado,1938,paraguay,francia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1072,1,peso oro sellado,1938,paraguay,grecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,90053,1,peso oro sellado,1938,paraguay,hollanda,imp,,,,,,,Valor real
-GowaJRHicks20132017,8200,1,peso oro sellado,1938,paraguay,hungria,imp,,,,,,,Valor real
-GowaJRHicks20132017,60989,1,peso oro sellado,1938,paraguay,india,imp,,,,,,,Valor real
-GowaJRHicks20132017,7467,1,peso oro sellado,1938,paraguay,india holandesa,imp,,,,,,,Valor real
-GowaJRHicks20132017,1259692,1,peso oro sellado,1938,paraguay,inglaterra,imp,,,,,,,Valor real
-GowaJRHicks20132017,329953,1,peso oro sellado,1938,paraguay,italia,imp,,,,,,,Valor real
-GowaJRHicks20132017,1953529,1,peso oro sellado,1938,paraguay,japon,imp,,,,,,,Valor real
-GowaJRHicks20132017,49665,1,peso oro sellado,1938,paraguay,java,imp,,,,,,,Valor real
-GowaJRHicks20132017,12844,1,peso oro sellado,1938,paraguay,latvia,imp,,,,,,,Valor real
-GowaJRHicks20132017,18347,1,peso oro sellado,1938,paraguay,luxemburgo,imp,,,,,,,Valor real
-GowaJRHicks20132017,4932,1,peso oro sellado,1938,paraguay,mexico,imp,,,,,,,Valor real
-GowaJRHicks20132017,32603,1,peso oro sellado,1938,paraguay,noruega,imp,,,,,,,Valor real
-GowaJRHicks20132017,7,1,peso oro sellado,1938,paraguay,palestina,imp,,,,,,,Valor real
-GowaJRHicks20132017,13595,1,peso oro sellado,1938,paraguay,peru,imp,,,,,,,Valor real
-GowaJRHicks20132017,1097,1,peso oro sellado,1938,paraguay,polonia,imp,,,,,,,Valor real
-GowaJRHicks20132017,22532,1,peso oro sellado,1938,paraguay,portugal,imp,,,,,,,Valor real
-GowaJRHicks20132017,6,1,peso oro sellado,1938,paraguay,rumania,imp,,,,,,,Valor real
-GowaJRHicks20132017,1071,1,peso oro sellado,1938,paraguay,russia,imp,,,,,,,Valor real
-GowaJRHicks20132017,18,1,peso oro sellado,1938,paraguay,siam,imp,,,,,,,Valor real
-GowaJRHicks20132017,7,1,peso oro sellado,1938,paraguay,siria,imp,,,,,,,Valor real
-GowaJRHicks20132017,58,1,peso oro sellado,1938,paraguay,sudan,imp,,,,,,,Valor real
-GowaJRHicks20132017,100850,1,peso oro sellado,1938,paraguay,suecia,imp,,,,,,,Valor real
-GowaJRHicks20132017,149461,1,peso oro sellado,1938,paraguay,suiza,imp,,,,,,,Valor real
-GowaJRHicks20132017,1154,1,peso oro sellado,1938,paraguay,sumatra,imp,,,,,,,Valor real
-GowaJRHicks20132017,183,1,peso oro sellado,1938,paraguay,turquia,imp,,,,,,,Valor real
-GowaJRHicks20132017,332505,1,peso oro sellado,1938,paraguay,uruguay,imp,,,,,,,Valor real
-GowaJRHicks20132017,3933,1,peso oro sellado,1938,paraguay,yugoeslavia,imp,,,,,,,Valor real
-GowaJRHicks20132017,190,1,peso oro sellado,1938,paraguay,zanzibar,imp,,,,,,,Valor real
-GowaJRHicks20132017,5016444,1,pesos oro,1921,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
-GowaJRHicks20132017,4340351,1,pesos oro,1922,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
-GowaJRHicks20132017,6593241,1,pesos oro,1923,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
-GowaJRHicks20132017,9511765,1,peso oro sellado,1924,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
-GowaJRHicks20132017,12205280,1,peso oro sellado,1926,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,11977766,1,peso oro sellado,1927,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,14305119,1,peso oro sellado,1928,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,13850095,1,peso oro sellado,1929,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,15139359,1,peso oro sellado,1930,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,10080732,1,peso oro sellado,1931,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,6417646,1,peso oro sellado,1932,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,7159691,1,peso oro sellado,1933,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,11340774,1,peso oro sellado,1934,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,11630390,1,peso oro sellado,1935,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,9813669,1,peso oro sellado,1936,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,12401240,1,peso oro sellado,1937,paraguay,total,imp,,,,,,total_reporting,Valor real
-GowaJRHicks20132017,13082101,1,peso oro sellado,1938,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,5,1,lp,1903,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,1418.1,1,lp,1915,peru,austria,exp,,,,,,,
+GowaJRHicks20132017,63,1,lp,1915,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,11691.869,1,lp,1916,peru,azores,exp,,,,,,,
+GowaJRHicks20132017,89807.324,1,lp,1919,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,167128,1,lp,1921,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,114540,1,lp,1922,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,200795,1,lp,1923,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,2460,1,lp,1923,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,567161,1,lp,1924,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,1743735,1,lp,1924,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,121168,1,lp,1924,peru,arica,exp,,,,,,,
+GowaJRHicks20132017,15665,1,lp,1924,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,238298,1,lp,1924,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,75147,1,lp,1924,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,931971,1,lp,1924,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,9143,1,lp,1924,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,37257,1,lp,1924,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,572,1,lp,1924,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,2337844,1,lp,1924,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,95571,1,lp,1924,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,28518,1,lp,1924,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,27004,1,lp,1924,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,8398114,1,lp,1924,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,153628,1,lp,1924,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,9453795,1,lp,1924,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,17060,1,lp,1924,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,52918,1,lp,1924,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,106,1,lp,1924,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,3399,1,lp,1924,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,161536,1,lp,1924,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,23650,1,lp,1924,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,59597,1,lp,1924,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,56434,1,lp,1924,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,35541,1,lp,1924,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,40022,1,lp,1924,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,60857,1,lp,1924,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,175655,1,lp,1924,peru,nueva zelanda,exp,,,,,,,
+GowaJRHicks20132017,132426,1,lp,1924,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,5555,1,lp,1924,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,33,1,lp,1924,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,1632,1,lp,1924,peru,tacna,exp,,,,,,,
+GowaJRHicks20132017,246,1,lp,1924,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,53119,1,lp,1924,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,364748,1,lp,1925,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,1675490,1,lp,1925,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,213314,1,lp,1925,peru,arica,exp,,,,,,,
+GowaJRHicks20132017,102242,1,lp,1925,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,190765,1,lp,1925,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,12936,1,lp,1925,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,1499653,1,lp,1925,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,10038,1,lp,1925,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,42019,1,lp,1925,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,12002,1,lp,1925,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,1702001,1,lp,1925,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,94400,1,lp,1925,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,34555,1,lp,1925,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,467,1,lp,1925,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,7571763,1,lp,1925,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,1846,1,lp,1925,peru,finlandia,exp,,,,,,,
+GowaJRHicks20132017,119942,1,lp,1925,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,7403059,1,lp,1925,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,600,1,lp,1925,peru,grecia,exp,,,,,,,
+GowaJRHicks20132017,19679,1,lp,1925,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,58611,1,lp,1925,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,2174,1,lp,1925,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,4661,1,lp,1925,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,116832,1,lp,1925,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,67683,1,lp,1925,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,56308,1,lp,1925,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,60883,1,lp,1925,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,31523,1,lp,1925,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,90760,1,lp,1925,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,121305,1,lp,1925,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,1290,1,lp,1925,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,50,1,lp,1925,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,13792,1,lp,1925,peru,tacna,exp,,,,,,,
+GowaJRHicks20132017,2050,1,lp,1925,peru,trinidad,exp,,,,,,,
+GowaJRHicks20132017,77,1,lp,1925,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,51173,1,lp,1925,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,386110,1,lp,1926,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,2692631,1,lp,1926,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,154064,1,lp,1926,peru,arica,exp,,,,,,,
+GowaJRHicks20132017,505382,1,lp,1926,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,228507,1,lp,1926,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,5504,1,lp,1926,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,1384896,1,lp,1926,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,27691,1,lp,1926,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,49339,1,lp,1926,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,12726,1,lp,1926,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,1850902,1,lp,1926,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,795,1,lp,1926,peru,china,exp,,,,,,,
+GowaJRHicks20132017,68527,1,lp,1926,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,57623,1,lp,1926,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,7625,1,lp,1926,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,8382982,1,lp,1926,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,277021,1,lp,1926,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,6834554,1,lp,1926,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,35410,1,lp,1926,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,681,1,lp,1926,peru,haiti,exp,,,,,,,
+GowaJRHicks20132017,182097,1,lp,1926,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,193919,1,lp,1926,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,9163,1,lp,1926,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,133448,1,lp,1926,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,28521,1,lp,1926,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,72162,1,lp,1926,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,17533,1,lp,1926,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,377,1,lp,1926,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,35866,1,lp,1926,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,42057,1,lp,1926,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,91593,1,lp,1926,peru,nueva zelanda,exp,,,,,,,
+GowaJRHicks20132017,89781,1,lp,1926,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,2100,1,lp,1926,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,252,1,lp,1926,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,65,1,lp,1926,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,58423,1,lp,1926,peru,tacna,exp,,,,,,,
+GowaJRHicks20132017,1700,1,lp,1926,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,53757,1,lp,1926,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,1623564,1,lp,1927,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,3417418,1,lp,1927,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,14473,1,lp,1927,peru,arica,exp,,,,,,,
+GowaJRHicks20132017,746128,1,lp,1927,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,295767,1,lp,1927,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,1268765,1,lp,1927,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,1436773,1,lp,1927,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,94672,1,lp,1927,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,51120,1,lp,1927,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,180553,1,lp,1927,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,2408668,1,lp,1927,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,51980,1,lp,1927,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,81131,1,lp,1927,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,711,1,lp,1927,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,8612405,1,lp,1927,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,487653,1,lp,1927,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,8825274,1,lp,1927,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,65981,1,lp,1927,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,210,1,lp,1927,peru,haiti,exp,,,,,,,
+GowaJRHicks20132017,340,1,lp,1927,peru,hawaii,exp,,,,,,,
+GowaJRHicks20132017,398896,1,lp,1927,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,1446,1,lp,1927,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,10495,1,lp,1927,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,118152,1,lp,1927,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,38854,1,lp,1927,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,40516,1,lp,1927,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,22912,1,lp,1927,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,60472,1,lp,1927,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,92046,1,lp,1927,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,65109,1,lp,1927,peru,nueva zelanda,exp,,,,,,,
+GowaJRHicks20132017,197781,1,lp,1927,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,4453,1,lp,1927,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,255117,1,lp,1927,peru,puerto rico,exp,,,,,,,
+GowaJRHicks20132017,86693,1,lp,1927,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,52722,1,lp,1927,peru,tacna,exp,,,,,,,
+GowaJRHicks20132017,3836,1,lp,1927,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,395,1,lp,1927,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,83364,1,lp,1927,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,880,1,lp,1927,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,2515505,1,lp,1928,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,3529715,1,lp,1928,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,8497,1,lp,1928,peru,arica,exp,,,,,,,
+GowaJRHicks20132017,753190,1,lp,1928,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,262616,1,lp,1928,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,1191785,1,lp,1928,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,1614685,1,lp,1928,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,180570,1,lp,1928,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,57623,1,lp,1928,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,32943,1,lp,1928,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,1781,1,lp,1928,peru,curacao,exp,,,,,,,
+GowaJRHicks20132017,2690823,1,lp,1928,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,2295,1,lp,1928,peru,china,exp,,,,,,,
+GowaJRHicks20132017,18336,1,lp,1928,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,54031,1,lp,1928,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,104235,1,lp,1928,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,2038,1,lp,1928,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,8973890,1,lp,1928,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,269405,1,lp,1928,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,7518741,1,lp,1928,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,64782,1,lp,1928,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,339,1,lp,1928,peru,haiti,exp,,,,,,,
+GowaJRHicks20132017,704471,1,lp,1928,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,160,1,lp,1928,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,9278,1,lp,1928,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,106913,1,lp,1928,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,59896,1,lp,1928,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,32771,1,lp,1928,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,145860,1,lp,1928,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,65971,1,lp,1928,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,139692,1,lp,1928,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,99981,1,lp,1928,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,2951,1,lp,1928,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,40,1,lp,1928,peru,puerto rico,exp,,,,,,,
+GowaJRHicks20132017,1191,1,lp,1928,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,144944,1,lp,1928,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,50144,1,lp,1928,peru,tacna,exp,,,,,,,
+GowaJRHicks20132017,165,1,lp,1928,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,91575,1,lp,1928,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,14948,1,lp,1928,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,2040846,1,lp,1929,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,2474431,1,lp,1929,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,12132,1,lp,1929,peru,arica,exp,,,,,,,
+GowaJRHicks20132017,94,1,lp,1929,peru,australia,exp,,,,,,,
+GowaJRHicks20132017,614743,1,lp,1929,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,220280,1,lp,1929,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,2035814,1,lp,1929,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,2428114,1,lp,1929,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,300717,1,lp,1929,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,50186,1,lp,1929,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,38063,1,lp,1929,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,5460,1,lp,1929,peru,curacao,exp,,,,,,,
+GowaJRHicks20132017,2597512,1,lp,1929,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,43401,1,lp,1929,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,69241,1,lp,1929,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,119299,1,lp,1929,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,45226,1,lp,1929,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,11157510,1,lp,1929,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,420668,1,lp,1929,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,6140547,1,lp,1929,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,79210,1,lp,1929,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,1565939,1,lp,1929,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,479,1,lp,1929,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,18193,1,lp,1929,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,227776,1,lp,1929,peru,iquique,exp,,,,,,,
+GowaJRHicks20132017,31207,1,lp,1929,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,8494,1,lp,1929,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,9957,1,lp,1929,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,2,1,lp,1929,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,84900,1,lp,1929,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,119035,1,lp,1929,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,118782,1,lp,1929,peru,nueva zelanda,exp,,,,,,,
+GowaJRHicks20132017,87774,1,lp,1929,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,3586,1,lp,1929,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,1152,1,lp,1929,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,88040,1,lp,1929,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,44497,1,lp,1929,peru,tacna,exp,,,,,,,
+GowaJRHicks20132017,67775,1,lp,1929,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,261,1,lp,1929,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,105969,1,lp,1929,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,30834,1,lp,1929,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,18237340,1,s/o,1930,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,19649439,1,s/o,1930,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,1,1,s/o,1930,peru,australia,exp,,,,,,,
+GowaJRHicks20132017,2853514,1,s/o,1930,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,1632130,1,s/o,1930,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,7461546,1,s/o,1930,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,13457071,1,s/o,1930,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,506924,1,s/o,1930,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,188999,1,s/o,1930,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,183636,1,s/o,1930,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,10770,1,s/o,1930,peru,curacao,exp,,,,,,,
+GowaJRHicks20132017,16882101,1,s/o,1930,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,1788305,1,s/o,1930,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,465972,1,s/o,1930,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,546983,1,s/o,1930,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,1884609,1,s/o,1930,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,94815475,1,s/o,1930,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,4659348,1,s/o,1930,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,44705956,1,s/o,1930,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,226684,1,s/o,1930,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,500,1,s/o,1930,peru,hawaii,exp,,,,,,,
+GowaJRHicks20132017,6524743,1,s/o,1930,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,120,1,s/o,1930,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,82556,1,s/o,1930,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,363979,1,s/o,1930,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,23822,1,s/o,1930,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,2733,1,s/o,1930,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,443498,1,s/o,1930,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,1278568,1,s/o,1930,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,635403,1,s/o,1930,peru,nueva zelanda,exp,,,,,,,
+GowaJRHicks20132017,303359,1,s/o,1930,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,52287,1,s/o,1930,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,271,1,s/o,1930,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,353088,1,s/o,1930,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,493879,1,s/o,1930,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,1060,1,s/o,1930,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,387800,1,s/o,1930,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,28781,1,s/o,1930,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,17109071,1,s/o,1931,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,11995391,1,s/o,1931,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,1847167,1,s/o,1931,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,2651444,1,s/o,1931,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,5643239,1,s/o,1931,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,14945474,1,s/o,1931,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,592877,1,s/o,1931,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,216989,1,s/o,1931,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,58135,1,s/o,1931,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,975,1,s/o,1931,peru,curacao,exp,,,,,,,
+GowaJRHicks20132017,209,1,s/o,1931,peru,checoeslovaquia,exp,,,,,,,
+GowaJRHicks20132017,13882930,1,s/o,1931,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,1001539,1,s/o,1931,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,173727,1,s/o,1931,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,565833,1,s/o,1931,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,220870,1,s/o,1931,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,71932838,1,s/o,1931,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,2733216,1,s/o,1931,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,42376150,1,s/o,1931,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,1500,1,s/o,1931,peru,grecia,exp,,,,,,,
+GowaJRHicks20132017,223027,1,s/o,1931,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,50,1,s/o,1931,peru,hawaii,exp,,,,,,,
+GowaJRHicks20132017,4696212,1,s/o,1931,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,45226,1,s/o,1931,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,2783,1,s/o,1931,peru,india inglesa,exp,,,,,,,
+GowaJRHicks20132017,200,1,s/o,1931,peru,irlanda,exp,,,,,,,
+GowaJRHicks20132017,566019,1,s/o,1931,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,24469,1,s/o,1931,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,1270,1,s/o,1931,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,493899,1,s/o,1931,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,1366407,1,s/o,1931,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,317989,1,s/o,1931,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,743682,1,s/o,1931,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,2405,1,s/o,1931,peru,puerto rico,exp,,,,,,,
+GowaJRHicks20132017,231488,1,s/o,1931,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,178840,1,s/o,1931,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,2150,1,s/o,1931,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,11003,1,s/o,1931,peru,zona del canal,exp,,,,,,,
+GowaJRHicks20132017,491020,1,s/o,1931,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,69453,1,s/o,1931,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,33737348,1,s/o,1934,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,7757569,1,s/o,1934,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,1168690,1,s/o,1934,peru,aruba,exp,,,,,,,
+GowaJRHicks20132017,8166932,1,s/o,1934,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,3430518,1,s/o,1934,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,8818918,1,s/o,1934,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,23811975,1,s/o,1934,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,15492,1,s/o,1934,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,36114,1,s/o,1934,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,10,1,s/o,1934,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,8756,1,s/o,1934,peru,curacao,exp,,,,,,,
+GowaJRHicks20132017,15791932,1,s/o,1934,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,86394,1,s/o,1934,peru,china,exp,,,,,,,
+GowaJRHicks20132017,1343381,1,s/o,1934,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,2013135,1,s/o,1934,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,875555,1,s/o,1934,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,145377,1,s/o,1934,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,43398857,1,s/o,1934,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,946108,1,s/o,1934,peru,finlandia,exp,,,,,,,
+GowaJRHicks20132017,28829368,1,s/o,1934,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,103232697,1,s/o,1934,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,439661,1,s/o,1934,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,1539809,1,s/o,1934,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,91891,1,s/o,1934,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,1389775,1,s/o,1934,peru,india inglesa,exp,,,,,,,
+GowaJRHicks20132017,1019,1,s/o,1934,peru,irlanda,exp,,,,,,,
+GowaJRHicks20132017,1590319,1,s/o,1934,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,40,1,s/o,1934,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,5084536,1,s/o,1934,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,1945,1,s/o,1934,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,547715,1,s/o,1934,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,1705882,1,s/o,1934,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,733518,1,s/o,1934,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,932,1,s/o,1934,peru,polonia,exp,,,,,,,
+GowaJRHicks20132017,5440,1,s/o,1934,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,860,1,s/o,1934,peru,puerto rico,exp,,,,,,,
+GowaJRHicks20132017,1206140,1,s/o,1934,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,3696,1,s/o,1934,peru,suiza,exp,,,,,,,
+GowaJRHicks20132017,4157332,1,s/o,1934,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,4199,1,s/o,1934,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,135902,1,s/o,1934,peru,zona del canal,exp,,,,,,,
+GowaJRHicks20132017,1153662,1,s/o,1934,peru,a la orden,exp,,,,,,,
+GowaJRHicks20132017,1644273,1,s/o,1934,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,40005,1,s/o,1934,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,40700570,1,s/o,1936,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,2361504,1,s/o,1936,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,11774032,1,s/o,1936,peru,aruba,exp,,,,,,,
+GowaJRHicks20132017,1002,1,s/o,1936,peru,australia,exp,,,,,,,
+GowaJRHicks20132017,8902510,1,s/o,1936,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,3313630,1,s/o,1936,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,7870395,1,s/o,1936,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,30763045,1,s/o,1936,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,232419,1,s/o,1936,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,66422,1,s/o,1936,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,592980,1,s/o,1936,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,17464363,1,s/o,1936,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,30,1,s/o,1936,peru,china,exp,,,,,,,
+GowaJRHicks20132017,2119384,1,s/o,1936,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,783842,1,s/o,1936,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,646343,1,s/o,1936,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,113337,1,s/o,1936,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,64801808,1,s/o,1936,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,2910,1,s/o,1936,peru,finlandia,exp,,,,,,,
+GowaJRHicks20132017,34509668,1,s/o,1936,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,75829458,1,s/o,1936,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,149038,1,s/o,1936,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,2708323,1,s/o,1936,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,262827,1,s/o,1936,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,192325,1,s/o,1936,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,1044201,1,s/o,1936,peru,india inglesa,exp,,,,,,,
+GowaJRHicks20132017,954993,1,s/o,1936,peru,irlanda,exp,,,,,,,
+GowaJRHicks20132017,2483797,1,s/o,1936,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,28,1,s/o,1936,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,14060244,1,s/o,1936,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,9385,1,s/o,1936,peru,letonia,exp,,,,,,,
+GowaJRHicks20132017,4157,1,s/o,1936,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,522633,1,s/o,1936,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,454598,1,s/o,1936,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,36,1,s/o,1936,peru,nueva zelanda,exp,,,,,,,
+GowaJRHicks20132017,351390,1,s/o,1936,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,26310,1,s/o,1936,peru,paraguay,exp,,,,,,,
+GowaJRHicks20132017,152862,1,s/o,1936,peru,polonia,exp,,,,,,,
+GowaJRHicks20132017,400,1,s/o,1936,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,60,1,s/o,1936,peru,puerto rico,exp,,,,,,,
+GowaJRHicks20132017,500,1,s/o,1936,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,33499,1,s/o,1936,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,2941608,1,s/o,1936,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,5766,1,s/o,1936,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,639069,1,s/o,1936,peru,zona del canal,exp,,,,,,,
+GowaJRHicks20132017,4728820,1,s/o,1936,peru,a la orden,exp,,,,,,,
+GowaJRHicks20132017,1231582,1,s/o,1936,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,4308,1,s/o,1936,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,49920824,1,s/o,1937,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,18537066,1,s/o,1937,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,7729556,1,s/o,1937,peru,aruba,exp,,,,,,,
+GowaJRHicks20132017,12849788,1,s/o,1937,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,4789296,1,s/o,1937,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,3047173,1,s/o,1937,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,26425831,1,s/o,1937,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,187813,1,s/o,1937,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,59364,1,s/o,1937,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,40114,1,s/o,1937,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,126498,1,s/o,1937,peru,checoeslovaquia,exp,,,,,,,
+GowaJRHicks20132017,22079173,1,s/o,1937,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,54368,1,s/o,1937,peru,china,exp,,,,,,,
+GowaJRHicks20132017,1080,1,s/o,1937,peru,chipre,exp,,,,,,,
+GowaJRHicks20132017,2109793,1,s/o,1937,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,590580,1,s/o,1937,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,1448738,1,s/o,1937,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,81039206,1,s/o,1937,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,14956,1,s/o,1937,peru,finlandia,exp,,,,,,,
+GowaJRHicks20132017,26634029,1,s/o,1937,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,83195574,1,s/o,1937,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,188176,1,s/o,1937,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,4221236,1,s/o,1937,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,1512790,1,s/o,1937,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,119555,1,s/o,1937,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,94225,1,s/o,1937,peru,india inglesa,exp,,,,,,,
+GowaJRHicks20132017,1753117,1,s/o,1937,peru,irlanda,exp,,,,,,,
+GowaJRHicks20132017,2383461,1,s/o,1937,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,200,1,s/o,1937,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,3887083,1,s/o,1937,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,2315,1,s/o,1937,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,200,1,s/o,1937,peru,mesopotamia,exp,,,,,,,
+GowaJRHicks20132017,562939,1,s/o,1937,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,469809,1,s/o,1937,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,619618,1,s/o,1937,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,80,1,s/o,1937,peru,paraguay,exp,,,,,,,
+GowaJRHicks20132017,8299,1,s/o,1937,peru,polonia,exp,,,,,,,
+GowaJRHicks20132017,2898,1,s/o,1937,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,112,1,s/o,1937,peru,puerto rico,exp,,,,,,,
+GowaJRHicks20132017,611410,1,s/o,1937,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,516331,1,s/o,1937,peru,suiza,exp,,,,,,,
+GowaJRHicks20132017,1819812,1,s/o,1937,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,59307,1,s/o,1937,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,112842,1,s/o,1937,peru,zona del canal,exp,,,,,,,
+GowaJRHicks20132017,4493904,1,s/o,1937,peru,a la orden,exp,,,,,,,
+GowaJRHicks20132017,1114942,1,s/o,1937,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,4965,1,s/o,1937,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,36089113,1,s/o,1938,peru,alemania,exp,,,,,,,
+GowaJRHicks20132017,26656802,1,s/o,1938,peru,argentina,exp,,,,,,,
+GowaJRHicks20132017,8080677,1,s/o,1938,peru,aruba,exp,,,,,,,
+GowaJRHicks20132017,871,1,s/o,1938,peru,australia,exp,,,,,,,
+GowaJRHicks20132017,12802906,1,s/o,1938,peru,belgica,exp,,,,,,,
+GowaJRHicks20132017,4304478,1,s/o,1938,peru,bolivia,exp,,,,,,,
+GowaJRHicks20132017,6609605,1,s/o,1938,peru,brazil,exp,,,,,,,
+GowaJRHicks20132017,16700392,1,s/o,1938,peru,canada,exp,,,,,,,
+GowaJRHicks20132017,248292,1,s/o,1938,peru,colombia,exp,,,,,,,
+GowaJRHicks20132017,84553,1,s/o,1938,peru,costa rica,exp,,,,,,,
+GowaJRHicks20132017,41738,1,s/o,1938,peru,cuba,exp,,,,,,,
+GowaJRHicks20132017,666138,1,s/o,1938,peru,checoeslovaquia,exp,,,,,,,
+GowaJRHicks20132017,20679441,1,s/o,1938,peru,chile,exp,,,,,,,
+GowaJRHicks20132017,45268,1,s/o,1938,peru,china,exp,,,,,,,
+GowaJRHicks20132017,1658852,1,s/o,1938,peru,dinamarca,exp,,,,,,,
+GowaJRHicks20132017,484782,1,s/o,1938,peru,ecuador,exp,,,,,,,
+GowaJRHicks20132017,1241557,1,s/o,1938,peru,el salvador,exp,,,,,,,
+GowaJRHicks20132017,1,1,s/o,1938,peru,espana,exp,,,,,,,
+GowaJRHicks20132017,91705974,1,s/o,1938,peru,united states,exp,,,,,,,
+GowaJRHicks20132017,166195,1,s/o,1938,peru,finlandia,exp,,,,,,,
+GowaJRHicks20132017,21830184,1,s/o,1938,peru,francia,exp,,,,,,,
+GowaJRHicks20132017,68401299,1,s/o,1938,peru,gran bretana,exp,,,,,,,
+GowaJRHicks20132017,130318,1,s/o,1938,peru,guatemala,exp,,,,,,,
+GowaJRHicks20132017,500,1,s/o,1938,peru,guyana holandesa,exp,,,,,,,
+GowaJRHicks20132017,3722489,1,s/o,1938,peru,holanda,exp,,,,,,,
+GowaJRHicks20132017,154392,1,s/o,1938,peru,hong kong,exp,,,,,,,
+GowaJRHicks20132017,120313,1,s/o,1938,peru,honduras,exp,,,,,,,
+GowaJRHicks20132017,45302,1,s/o,1938,peru,india inglesa,exp,,,,,,,
+GowaJRHicks20132017,1598290,1,s/o,1938,peru,irlanda,exp,,,,,,,
+GowaJRHicks20132017,858357,1,s/o,1938,peru,italia,exp,,,,,,,
+GowaJRHicks20132017,206,1,s/o,1938,peru,jamaica,exp,,,,,,,
+GowaJRHicks20132017,2034463,1,s/o,1938,peru,japon,exp,,,,,,,
+GowaJRHicks20132017,204,1,s/o,1938,peru,java,exp,,,,,,,
+GowaJRHicks20132017,1100,1,s/o,1938,peru,marruecos fr,exp,,,,,,,
+GowaJRHicks20132017,26,1,s/o,1938,peru,mexico,exp,,,,,,,
+GowaJRHicks20132017,534228,1,s/o,1938,peru,nicaragua,exp,,,,,,,
+GowaJRHicks20132017,1096466,1,s/o,1938,peru,noruega,exp,,,,,,,
+GowaJRHicks20132017,150,1,s/o,1938,peru,palestina,exp,,,,,,,
+GowaJRHicks20132017,298214,1,s/o,1938,peru,panama,exp,,,,,,,
+GowaJRHicks20132017,165039,1,s/o,1938,peru,polonia,exp,,,,,,,
+GowaJRHicks20132017,5199,1,s/o,1938,peru,portugal,exp,,,,,,,
+GowaJRHicks20132017,55,1,s/o,1938,peru,santo domingo,exp,,,,,,,
+GowaJRHicks20132017,1901772,1,s/o,1938,peru,suecia,exp,,,,,,,
+GowaJRHicks20132017,4085,1,s/o,1938,peru,suiza,exp,,,,,,,
+GowaJRHicks20132017,112,1,s/o,1938,peru,trinidad,exp,,,,,,,
+GowaJRHicks20132017,7252886,1,s/o,1938,peru,uruguay,exp,,,,,,,
+GowaJRHicks20132017,7880,1,s/o,1938,peru,venezuela,exp,,,,,,,
+GowaJRHicks20132017,653183,1,s/o,1938,peru,zona del canal,exp,,,,,,,
+GowaJRHicks20132017,1986387,1,s/o,1938,peru,a la orden,exp,,,,,,,
+GowaJRHicks20132017,1045795,1,s/o,1938,peru,consumo de naves,exp,,,,,,,
+GowaJRHicks20132017,12111,1,s/o,1938,peru,no especificada,exp,,,,,,,
+GowaJRHicks20132017,25114377,1,lp,1924,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,21750691,1,lp,1925,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,23975784,1,lp,1926,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,31197725,1,lp,1927,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,31518776,1,lp,1928,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,33508146,1,lp,1929,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,241133250,1,s/o,1930,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,197417166,1,s/o,1931,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,305093677,1,s/o,1934,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,335812411,1,s/o,1936,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,365440446,1,s/o,1937,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,342128640,1,s/o,1938,peru,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,45.6,1,lp,1906,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,121.81,1,lp,1916,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,170118.862,1,lp,1916,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,108.87,1,lp,1916,peru,china,imp,,,,,,,
+GowaJRHicks20132017,39.375,1,lp,1916,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,357620.549,1,lp,1917,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,275.8,1,lp,1917,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,271.86,1,lp,1917,peru,las palmas,imp,,,,,,,
+GowaJRHicks20132017,25011.598,1,lp,1919,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,278138.741,1,lp,1919,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,244.28,1,lp,1919,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,65303,1,lp,1921,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,12967,1,lp,1922,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,626,1,lp,1922,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,2700,1,lp,1922,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,26536,1,lp,1923,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,103,1,lp,1923,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,1174,1,lp,1923,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,319474,1,lp,1924,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,10802,1,lp,1924,peru,arica,imp,,,,,,,
+GowaJRHicks20132017,2806,1,lp,1924,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,37784,1,lp,1924,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,130480,1,lp,1924,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,59501,1,lp,1924,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,11222,1,lp,1924,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,24209,1,lp,1924,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,987367,1,lp,1924,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,94820,1,lp,1924,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,16047,1,lp,1924,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,7047041,1,lp,1924,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,18258,1,lp,1924,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,60,1,lp,1924,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,177,1,lp,1924,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,8088,1,lp,1924,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,3435,1,lp,1924,peru,tacna,imp,,,,,,,
+GowaJRHicks20132017,471,1,lp,1924,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,31100,1,lp,1924,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,68,1,lp,1924,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,1855733,1,lp,1924,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,2375,1,lp,1924,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,445365,1,lp,1924,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,21105,1,lp,1924,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,209629,1,lp,1924,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,723448,1,lp,1924,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,3373882,1,lp,1924,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,229006,1,lp,1924,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,866866,1,lp,1924,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,68305,1,lp,1924,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,6908,1,lp,1924,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,69883,1,lp,1924,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,67235,1,lp,1924,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,2413,1,lp,1924,peru,china,imp,,,,,,,
+GowaJRHicks20132017,629314,1,lp,1924,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,327915,1,lp,1924,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,199601,1,lp,1924,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,120795,1,lp,1924,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,6430,1,lp,1924,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,147740,1,lp,1925,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,34577,1,lp,1925,peru,arica,imp,,,,,,,
+GowaJRHicks20132017,4666,1,lp,1925,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,19593,1,lp,1925,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,84370,1,lp,1925,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,40864,1,lp,1925,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,23603,1,lp,1925,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,5824,1,lp,1925,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,549539,1,lp,1925,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,54231,1,lp,1925,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,7698,1,lp,1925,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,7063248,1,lp,1925,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,72,1,lp,1925,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,7265,1,lp,1925,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,381,1,lp,1925,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,59,1,lp,1925,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,24939,1,lp,1925,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,23,1,lp,1925,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,45,1,lp,1925,peru,tacna,imp,,,,,,,
+GowaJRHicks20132017,613,1,lp,1925,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,20840,1,lp,1925,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,68,1,lp,1925,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,2028574,1,lp,1925,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,3097,1,lp,1925,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,424990,1,lp,1925,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,547,1,lp,1925,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,19131,1,lp,1925,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,190679,1,lp,1925,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,663650,1,lp,1925,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,3414440,1,lp,1925,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,418046,1,lp,1925,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,806594,1,lp,1925,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,87387,1,lp,1925,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,9577,1,lp,1925,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,58288,1,lp,1925,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,50472,1,lp,1925,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,11722,1,lp,1925,peru,china,imp,,,,,,,
+GowaJRHicks20132017,639375,1,lp,1925,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,349975,1,lp,1925,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,189105,1,lp,1925,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,817072,1,lp,1925,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,89895,1,lp,1926,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,11516,1,lp,1926,peru,arica,imp,,,,,,,
+GowaJRHicks20132017,2785,1,lp,1926,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,12671,1,lp,1926,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,210262,1,lp,1926,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,19698,1,lp,1926,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,28774,1,lp,1926,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,29856,1,lp,1926,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,410652,1,lp,1926,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,55729,1,lp,1926,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,12709,1,lp,1926,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,8807113,1,lp,1926,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,31,1,lp,1926,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,13054,1,lp,1926,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,154,1,lp,1926,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,243,1,lp,1926,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,44897,1,lp,1926,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,1292,1,lp,1926,peru,tacna,imp,,,,,,,
+GowaJRHicks20132017,411,1,lp,1926,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,38720,1,lp,1926,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,170,1,lp,1926,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,1823581,1,lp,1926,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,26,1,lp,1926,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,508973,1,lp,1926,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,14005,1,lp,1926,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,166445,1,lp,1926,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,461468,1,lp,1926,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,2998428,1,lp,1926,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,45,1,lp,1926,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,232088,1,lp,1926,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,675711,1,lp,1926,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,91455,1,lp,1926,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,10457,1,lp,1926,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,184256,1,lp,1926,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,440,1,lp,1926,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,12754,1,lp,1926,peru,china,imp,,,,,,,
+GowaJRHicks20132017,662622,1,lp,1926,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,442272,1,lp,1926,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,223818,1,lp,1926,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,423794,1,lp,1926,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,2,1,lp,1926,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,299844,1,lp,1927,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,13998,1,lp,1927,peru,arica,imp,,,,,,,
+GowaJRHicks20132017,4793,1,lp,1927,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,5990,1,lp,1927,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,147953,1,lp,1927,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,712,1,lp,1927,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,22218,1,lp,1927,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,8534,1,lp,1927,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,196943,1,lp,1927,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,74884,1,lp,1927,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,15262,1,lp,1927,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,7901399,1,lp,1927,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,62,1,lp,1927,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,50161,1,lp,1927,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,160,1,lp,1927,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,931,1,lp,1927,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,3106,1,lp,1927,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,74322,1,lp,1927,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,614,1,lp,1927,peru,tacna,imp,,,,,,,
+GowaJRHicks20132017,767,1,lp,1927,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,32238,1,lp,1927,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1927,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,1893823,1,lp,1927,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,639,1,lp,1927,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,849398,1,lp,1927,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,33344,1,lp,1927,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,137952,1,lp,1927,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,188,1,lp,1927,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,464955,1,lp,1927,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,3031653,1,lp,1927,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,46,1,lp,1927,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,290034,1,lp,1927,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,40,1,lp,1927,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,674634,1,lp,1927,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,48635,1,lp,1927,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,8796,1,lp,1927,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,2,1,lp,1927,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,469450,1,lp,1927,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,911,1,lp,1927,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,1247,1,lp,1927,peru,china,imp,,,,,,,
+GowaJRHicks20132017,766995,1,lp,1927,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,327512,1,lp,1927,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,193258,1,lp,1927,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,697857,1,lp,1927,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,3481,1,lp,1927,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,217097,1,lp,1928,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,2361,1,lp,1928,peru,arica,imp,,,,,,,
+GowaJRHicks20132017,7439,1,lp,1928,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,5550,1,lp,1928,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,80027,1,lp,1928,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,803,1,lp,1928,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,23413,1,lp,1928,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,39772,1,lp,1928,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,276093,1,lp,1928,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,112478,1,lp,1928,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,17715,1,lp,1928,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,7055598,1,lp,1928,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,1076,1,lp,1928,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,1400,1,lp,1928,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,35873,1,lp,1928,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,489,1,lp,1928,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,3287,1,lp,1928,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,857,1,lp,1928,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,51712,1,lp,1928,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,1845,1,lp,1928,peru,tacna,imp,,,,,,,
+GowaJRHicks20132017,472,1,lp,1928,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,51743,1,lp,1928,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,49,1,lp,1928,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,1716798,1,lp,1928,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,217,1,lp,1928,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,653049,1,lp,1928,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,35007,1,lp,1928,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,158975,1,lp,1928,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,321,1,lp,1928,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,503125,1,lp,1928,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,2721756,1,lp,1928,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,264184,1,lp,1928,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,591678,1,lp,1928,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,67868,1,lp,1928,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,9995,1,lp,1928,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,7,1,lp,1928,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,429723,1,lp,1928,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,115,1,lp,1928,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,241,1,lp,1928,peru,china,imp,,,,,,,
+GowaJRHicks20132017,604408,1,lp,1928,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,430378,1,lp,1928,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,200601,1,lp,1928,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,465700,1,lp,1928,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,3080,1,lp,1928,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,3967,1,lp,1928,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,624490,1,lp,1929,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,1137,1,lp,1929,peru,arica,imp,,,,,,,
+GowaJRHicks20132017,10110,1,lp,1929,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,5954,1,lp,1929,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,102564,1,lp,1929,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,12600,1,lp,1929,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,29548,1,lp,1929,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,21974,1,lp,1929,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,147128,1,lp,1929,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,78481,1,lp,1929,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,7865,1,lp,1929,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,7941554,1,lp,1929,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,665,1,lp,1929,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,1035,1,lp,1929,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,24452,1,lp,1929,peru,iquique,imp,,,,,,,
+GowaJRHicks20132017,379,1,lp,1929,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,8299,1,lp,1929,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,1618,1,lp,1929,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,49532,1,lp,1929,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1929,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,2606,1,lp,1929,peru,tacna,imp,,,,,,,
+GowaJRHicks20132017,603,1,lp,1929,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,18892,1,lp,1929,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,113,1,lp,1929,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,74260,1,lp,1929,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,1901224,1,lp,1929,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,4280,1,lp,1929,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,745660,1,lp,1929,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1929,peru,bulgaria,imp,,,,,,,
+GowaJRHicks20132017,6799,1,lp,1929,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,45091,1,lp,1929,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,152024,1,lp,1929,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,160,1,lp,1929,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,772889,1,lp,1929,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,2845614,1,lp,1929,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,3503,1,lp,1929,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,275134,1,lp,1929,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,284,1,lp,1929,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,749546,1,lp,1929,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,85,1,lp,1929,peru,luxemburgo,imp,,,,,,,
+GowaJRHicks20132017,78834,1,lp,1929,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,4,1,lp,1929,peru,polonia,imp,,,,,,,
+GowaJRHicks20132017,10590,1,lp,1929,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,14,1,lp,1929,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,542673,1,lp,1929,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,72325,1,lp,1929,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1929,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,1410,1,lp,1929,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,1427,1,lp,1929,peru,china,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1929,peru,filipinas,imp,,,,,,,
+GowaJRHicks20132017,344627,1,lp,1929,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,426069,1,lp,1929,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,235602,1,lp,1929,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1929,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,1,1,lp,1929,peru,siria,imp,,,,,,,
+GowaJRHicks20132017,77,1,lp,1929,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,595732,1,lp,1929,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,2501,1,lp,1929,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,5203,1,lp,1929,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,3618912,1,s/o,1930,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,52974,1,s/o,1930,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,34940,1,s/o,1930,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,3057208,1,s/o,1930,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,72318,1,s/o,1930,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,284964,1,s/o,1930,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,72107,1,s/o,1930,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,150,1,s/o,1930,peru,curacao,imp,,,,,,,
+GowaJRHicks20132017,2870143,1,s/o,1930,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,542189,1,s/o,1930,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,64943,1,s/o,1930,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,52236198,1,s/o,1930,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,12225,1,s/o,1930,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,506,1,s/o,1930,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,1349,1,s/o,1930,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,1627,1,s/o,1930,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,28211,1,s/o,1930,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,13887,1,s/o,1930,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,43,1,s/o,1930,peru,puerto rico,imp,,,,,,,
+GowaJRHicks20132017,2865,1,s/o,1930,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,303670,1,s/o,1930,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,215,1,s/o,1930,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,1489691,1,s/o,1930,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,16845676,1,s/o,1930,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,40925,1,s/o,1930,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,4866425,1,s/o,1930,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,31498,1,s/o,1930,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,303241,1,s/o,1930,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,1183221,1,s/o,1930,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,2690,1,s/o,1930,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,198,1,s/o,1930,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,5834620,1,s/o,1930,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,23082577,1,s/o,1930,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,7,1,s/o,1930,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,2560827,1,s/o,1930,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,4925,1,s/o,1930,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,6,1,s/o,1930,peru,irlanda,imp,,,,,,,
+GowaJRHicks20132017,4977262,1,s/o,1930,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,1052,1,s/o,1930,peru,malta,imp,,,,,,,
+GowaJRHicks20132017,432575,1,s/o,1930,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,117722,1,s/o,1930,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,15,1,s/o,1930,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,4492923,1,s/o,1930,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,797983,1,s/o,1930,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,48,1,s/o,1930,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,1084,1,s/o,1930,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,14288,1,s/o,1930,peru,ceylan,imp,,,,,,,
+GowaJRHicks20132017,20498,1,s/o,1930,peru,china,imp,,,,,,,
+GowaJRHicks20132017,2295633,1,s/o,1930,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,3165060,1,s/o,1930,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,2361718,1,s/o,1930,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,26835,1,s/o,1930,peru,java,imp,,,,,,,
+GowaJRHicks20132017,69,1,s/o,1930,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,460,1,s/o,1930,peru,siria,imp,,,,,,,
+GowaJRHicks20132017,90,1,s/o,1930,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,37,1,s/o,1930,peru,marruecos espanol,imp,,,,,,,
+GowaJRHicks20132017,1957181,1,s/o,1930,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,13653,1,s/o,1930,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,66890,1,s/o,1930,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,1879,1,s/o,1931,peru,alasca,imp,,,,,,,
+GowaJRHicks20132017,4767357,1,s/o,1931,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,1501,1,s/o,1931,peru,aruba,imp,,,,,,,
+GowaJRHicks20132017,50498,1,s/o,1931,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,84637,1,s/o,1931,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,2899098,1,s/o,1931,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,58599,1,s/o,1931,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,131103,1,s/o,1931,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,137767,1,s/o,1931,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,89,1,s/o,1931,peru,curacao,imp,,,,,,,
+GowaJRHicks20132017,1537705,1,s/o,1931,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,322630,1,s/o,1931,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,68604,1,s/o,1931,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,41486431,1,s/o,1931,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,21787,1,s/o,1931,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,2283,1,s/o,1931,peru,guayana francesa,imp,,,,,,,
+GowaJRHicks20132017,517,1,s/o,1931,peru,guayana holandesa,imp,,,,,,,
+GowaJRHicks20132017,349,1,s/o,1931,peru,haiti,imp,,,,,,,
+GowaJRHicks20132017,373,1,s/o,1931,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,923,1,s/o,1931,peru,honduras britanicas,imp,,,,,,,
+GowaJRHicks20132017,5204,1,s/o,1931,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,232,1,s/o,1931,peru,martinique,imp,,,,,,,
+GowaJRHicks20132017,21458,1,s/o,1931,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,432,1,s/o,1931,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,8880,1,s/o,1931,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,41,1,s/o,1931,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,188,1,s/o,1931,peru,puerto rico,imp,,,,,,,
+GowaJRHicks20132017,8246,1,s/o,1931,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,9033,1,s/o,1931,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,1149,1,s/o,1931,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,49937,1,s/o,1931,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,9561108,1,s/o,1931,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,261,1,s/o,1931,peru,andorra,imp,,,,,,,
+GowaJRHicks20132017,144679,1,s/o,1931,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,1645748,1,s/o,1931,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,4733,1,s/o,1931,peru,bulgaria,imp,,,,,,,
+GowaJRHicks20132017,768672,1,s/o,1931,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,3321,1,s/o,1931,peru,dantzig,imp,,,,,,,
+GowaJRHicks20132017,368951,1,s/o,1931,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,940234,1,s/o,1931,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,48028,1,s/o,1931,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,166827,1,s/o,1931,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,4040424,1,s/o,1931,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,14466150,1,s/o,1931,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,19989,1,s/o,1931,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,1668459,1,s/o,1931,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,43887,1,s/o,1931,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,25662,1,s/o,1931,peru,irlanda,imp,,,,,,,
+GowaJRHicks20132017,169,1,s/o,1931,peru,islandia,imp,,,,,,,
+GowaJRHicks20132017,3250064,1,s/o,1931,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,3275,1,s/o,1931,peru,letonia,imp,,,,,,,
+GowaJRHicks20132017,5076,1,s/o,1931,peru,lituania,imp,,,,,,,
+GowaJRHicks20132017,43016,1,s/o,1931,peru,luxemburgo,imp,,,,,,,
+GowaJRHicks20132017,13276,1,s/o,1931,peru,malta,imp,,,,,,,
+GowaJRHicks20132017,178523,1,s/o,1931,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,35392,1,s/o,1931,peru,polonia,imp,,,,,,,
+GowaJRHicks20132017,92013,1,s/o,1931,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,6841,1,s/o,1931,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,399,1,s/o,1931,peru,rusia europea (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,3462138,1,s/o,1931,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,1110914,1,s/o,1931,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,234,1,s/o,1931,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,3142,1,s/o,1931,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,1705,1,s/o,1931,peru,arabia,imp,,,,,,,
+GowaJRHicks20132017,21684,1,s/o,1931,peru,borneo,imp,,,,,,,
+GowaJRHicks20132017,115924,1,s/o,1931,peru,ceylan,imp,,,,,,,
+GowaJRHicks20132017,350642,1,s/o,1931,peru,china,imp,,,,,,,
+GowaJRHicks20132017,4149,1,s/o,1931,peru,filipinas,imp,,,,,,,
+GowaJRHicks20132017,525113,1,s/o,1931,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,2946596,1,s/o,1931,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,2,1,s/o,1931,peru,indochina francesa,imp,,,,,,,
+GowaJRHicks20132017,1654906,1,s/o,1931,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,64494,1,s/o,1931,peru,java,imp,,,,,,,
+GowaJRHicks20132017,86,1,s/o,1931,peru,karikal,imp,,,,,,,
+GowaJRHicks20132017,2933,1,s/o,1931,peru,malaca,imp,,,,,,,
+GowaJRHicks20132017,2009,1,s/o,1931,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,52,1,s/o,1931,peru,persia,imp,,,,,,,
+GowaJRHicks20132017,3803,1,s/o,1931,peru,rusia asiatica (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,320353,1,s/o,1931,peru,siam,imp,,,,,,,
+GowaJRHicks20132017,11477,1,s/o,1931,peru,siria,imp,,,,,,,
+GowaJRHicks20132017,128,1,s/o,1931,peru,sumatra,imp,,,,,,,
+GowaJRHicks20132017,4154,1,s/o,1931,peru,turquia asiatica,imp,,,,,,,
+GowaJRHicks20132017,982,1,s/o,1931,peru,africa equatorial francesa,imp,,,,,,,
+GowaJRHicks20132017,670,1,s/o,1931,peru,alboran,imp,,,,,,,
+GowaJRHicks20132017,151,1,s/o,1931,peru,argelia,imp,,,,,,,
+GowaJRHicks20132017,2455,1,s/o,1931,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,994,1,s/o,1931,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,245,1,s/o,1931,peru,elobey,imp,,,,,,,
+GowaJRHicks20132017,1609,1,s/o,1931,peru,madagascar,imp,,,,,,,
+GowaJRHicks20132017,22819,1,s/o,1931,peru,marruecos espanol,imp,,,,,,,
+GowaJRHicks20132017,1967,1,s/o,1931,peru,marruecos frances,imp,,,,,,,
+GowaJRHicks20132017,6466,1,s/o,1931,peru,sudan frances,imp,,,,,,,
+GowaJRHicks20132017,424,1,s/o,1931,peru,union sudafricana,imp,,,,,,,
+GowaJRHicks20132017,4293,1,s/o,1931,peru,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,2551047,1,s/o,1931,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,482,1,s/o,1931,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,150,1,s/o,1931,peru,tahiti,imp,,,,,,,
+GowaJRHicks20132017,53081,1,s/o,1931,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,7920301,1,s/o,1934,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,45,1,s/o,1934,peru,aruba,imp,,,,,,,
+GowaJRHicks20132017,49,1,s/o,1934,peru,bermuda,imp,,,,,,,
+GowaJRHicks20132017,48164,1,s/o,1934,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,113764,1,s/o,1934,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,4766449,1,s/o,1934,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,101064,1,s/o,1934,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,111139,1,s/o,1934,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,209825,1,s/o,1934,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,50,1,s/o,1934,peru,curacao,imp,,,,,,,
+GowaJRHicks20132017,7766030,1,s/o,1934,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,551244,1,s/o,1934,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,69372,1,s/o,1934,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,46060625,1,s/o,1934,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,2153,1,s/o,1934,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,930,1,s/o,1934,peru,guayana inglesa,imp,,,,,,,
+GowaJRHicks20132017,1390,1,s/o,1934,peru,haiti,imp,,,,,,,
+GowaJRHicks20132017,18550,1,s/o,1934,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,9037,1,s/o,1934,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,21110,1,s/o,1934,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,32755,1,s/o,1934,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,55672,1,s/o,1934,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,209,1,s/o,1934,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,11,1,s/o,1934,peru,puerto rico,imp,,,,,,,
+GowaJRHicks20132017,48,1,s/o,1934,peru,saint lucia,imp,,,,,,,
+GowaJRHicks20132017,9580,1,s/o,1934,peru,santo domingo,imp,,,,,,,
+GowaJRHicks20132017,9,1,s/o,1934,peru,terranova,imp,,,,,,,
+GowaJRHicks20132017,8110,1,s/o,1934,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,4015,1,s/o,1934,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,13422,1,s/o,1934,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,13721,1,s/o,1934,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,15439290,1,s/o,1934,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,227397,1,s/o,1934,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,4397626,1,s/o,1934,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,26,1,s/o,1934,peru,bulgaria,imp,,,,,,,
+GowaJRHicks20132017,5414381,1,s/o,1934,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,125,1,s/o,1934,peru,dantzig,imp,,,,,,,
+GowaJRHicks20132017,1968335,1,s/o,1934,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,1655769,1,s/o,1934,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,42798,1,s/o,1934,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,144207,1,s/o,1934,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,14456984,1,s/o,1934,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,29579781,1,s/o,1934,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,19747,1,s/o,1934,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,1784588,1,s/o,1934,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,179046,1,s/o,1934,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,49157,1,s/o,1934,peru,irlanda,imp,,,,,,,
+GowaJRHicks20132017,3932709,1,s/o,1934,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,15337,1,s/o,1934,peru,letonia,imp,,,,,,,
+GowaJRHicks20132017,295561,1,s/o,1934,peru,luxemburgo,imp,,,,,,,
+GowaJRHicks20132017,5347,1,s/o,1934,peru,malta,imp,,,,,,,
+GowaJRHicks20132017,948239,1,s/o,1934,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,152312,1,s/o,1934,peru,polonia,imp,,,,,,,
+GowaJRHicks20132017,164882,1,s/o,1934,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,51874,1,s/o,1934,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,41453,1,s/o,1934,peru,rusia europea (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,2,1,s/o,1934,peru,sarre,imp,,,,,,,
+GowaJRHicks20132017,2891769,1,s/o,1934,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,1438987,1,s/o,1934,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,1967,1,s/o,1934,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,11460,1,s/o,1934,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,2046,1,s/o,1934,peru,arabia,imp,,,,,,,
+GowaJRHicks20132017,17063,1,s/o,1934,peru,borneo,imp,,,,,,,
+GowaJRHicks20132017,252207,1,s/o,1934,peru,ceylan,imp,,,,,,,
+GowaJRHicks20132017,642672,1,s/o,1934,peru,china,imp,,,,,,,
+GowaJRHicks20132017,3489,1,s/o,1934,peru,chipre,imp,,,,,,,
+GowaJRHicks20132017,5194,1,s/o,1934,peru,damao,imp,,,,,,,
+GowaJRHicks20132017,85879,1,s/o,1934,peru,filipinas,imp,,,,,,,
+GowaJRHicks20132017,223385,1,s/o,1934,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,4922839,1,s/o,1934,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,2440,1,s/o,1934,peru,indochina francesa,imp,,,,,,,
+GowaJRHicks20132017,10225602,1,s/o,1934,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,342811,1,s/o,1934,peru,java,imp,,,,,,,
+GowaJRHicks20132017,11,1,s/o,1934,peru,macao,imp,,,,,,,
+GowaJRHicks20132017,140227,1,s/o,1934,peru,malaca,imp,,,,,,,
+GowaJRHicks20132017,324,1,s/o,1934,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,445,1,s/o,1934,peru,persia,imp,,,,,,,
+GowaJRHicks20132017,176,1,s/o,1934,peru,rusia asiatica (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,185,1,s/o,1934,peru,siam,imp,,,,,,,
+GowaJRHicks20132017,701,1,s/o,1934,peru,siria,imp,,,,,,,
+GowaJRHicks20132017,21,1,s/o,1934,peru,socotora,imp,,,,,,,
+GowaJRHicks20132017,8679,1,s/o,1934,peru,sumatra,imp,,,,,,,
+GowaJRHicks20132017,283,1,s/o,1934,peru,turquia asiatica,imp,,,,,,,
+GowaJRHicks20132017,5037,1,s/o,1934,peru,africa equatorial francesa,imp,,,,,,,
+GowaJRHicks20132017,792,1,s/o,1934,peru,africa occidental francesa,imp,,,,,,,
+GowaJRHicks20132017,8,1,s/o,1934,peru,azores,imp,,,,,,,
+GowaJRHicks20132017,979,1,s/o,1934,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,41,1,s/o,1934,peru,congo belgia,imp,,,,,,,
+GowaJRHicks20132017,3153,1,s/o,1934,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,687,1,s/o,1934,peru,madagascar,imp,,,,,,,
+GowaJRHicks20132017,49633,1,s/o,1934,peru,marruecos espanol,imp,,,,,,,
+GowaJRHicks20132017,17149,1,s/o,1934,peru,marruecos frances,imp,,,,,,,
+GowaJRHicks20132017,43,1,s/o,1934,peru,mauricio,imp,,,,,,,
+GowaJRHicks20132017,9435,1,s/o,1934,peru,sudan frances,imp,,,,,,,
+GowaJRHicks20132017,13558,1,s/o,1934,peru,sudan anglo-egipcio,imp,,,,,,,
+GowaJRHicks20132017,239,1,s/o,1934,peru,union sudafricana,imp,,,,,,,
+GowaJRHicks20132017,11502,1,s/o,1934,peru,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,964838,1,s/o,1934,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,4316,1,s/o,1934,peru,hawaii,imp,,,,,,,
+GowaJRHicks20132017,3043,1,s/o,1934,peru,mariana,imp,,,,,,,
+GowaJRHicks20132017,826,1,s/o,1934,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,70595,1,s/o,1934,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,17202937,1,s/o,1936,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,17,1,s/o,1936,peru,aruba,imp,,,,,,,
+GowaJRHicks20132017,49,1,s/o,1936,peru,bermuda,imp,,,,,,,
+GowaJRHicks20132017,36382,1,s/o,1936,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,407446,1,s/o,1936,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,4768151,1,s/o,1936,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,7318,1,s/o,1936,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,94201,1,s/o,1936,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,205483,1,s/o,1936,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,4917916,1,s/o,1936,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,1884314,1,s/o,1936,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,78591,1,s/o,1936,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,63901121,1,s/o,1936,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,32,1,s/o,1936,peru,grenade,imp,,,,,,,
+GowaJRHicks20132017,13474,1,s/o,1936,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,6698,1,s/o,1936,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,6219,1,s/o,1936,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,580,1,s/o,1936,peru,martinique,imp,,,,,,,
+GowaJRHicks20132017,48614,1,s/o,1936,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,49660,1,s/o,1936,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,21510,1,s/o,1936,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,76,1,s/o,1936,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,12,1,s/o,1936,peru,santo domingo,imp,,,,,,,
+GowaJRHicks20132017,422,1,s/o,1936,peru,terranova,imp,,,,,,,
+GowaJRHicks20132017,7036,1,s/o,1936,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,16742,1,s/o,1936,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,3473,1,s/o,1936,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,16709,1,s/o,1936,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,38982976,1,s/o,1936,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,317727,1,s/o,1936,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,4157120,1,s/o,1936,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,6035,1,s/o,1936,peru,bulgaria,imp,,,,,,,
+GowaJRHicks20132017,1489241,1,s/o,1936,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,6,1,s/o,1936,peru,dantzig,imp,,,,,,,
+GowaJRHicks20132017,243333,1,s/o,1936,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,1186091,1,s/o,1936,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,35043,1,s/o,1936,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,231977,1,s/o,1936,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,4000762,1,s/o,1936,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,2523,1,s/o,1936,peru,gibraltar,imp,,,,,,,
+GowaJRHicks20132017,26906952,1,s/o,1936,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,48006,1,s/o,1936,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,2204931,1,s/o,1936,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,367350,1,s/o,1936,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,85348,1,s/o,1936,peru,irlanda,imp,,,,,,,
+GowaJRHicks20132017,3423521,1,s/o,1936,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,11264,1,s/o,1936,peru,letonia,imp,,,,,,,
+GowaJRHicks20132017,5568,1,s/o,1936,peru,lituania,imp,,,,,,,
+GowaJRHicks20132017,55188,1,s/o,1936,peru,luxemburgo,imp,,,,,,,
+GowaJRHicks20132017,2261,1,s/o,1936,peru,malta,imp,,,,,,,
+GowaJRHicks20132017,877,1,s/o,1936,peru,monaco,imp,,,,,,,
+GowaJRHicks20132017,741936,1,s/o,1936,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,174159,1,s/o,1936,peru,polonia,imp,,,,,,,
+GowaJRHicks20132017,191331,1,s/o,1936,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,15213,1,s/o,1936,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,21564,1,s/o,1936,peru,rusia europea (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,1725607,1,s/o,1936,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,1997447,1,s/o,1936,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,680,1,s/o,1936,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,1650,1,s/o,1936,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,8194,1,s/o,1936,peru,arabia,imp,,,,,,,
+GowaJRHicks20132017,14977,1,s/o,1936,peru,borneo,imp,,,,,,,
+GowaJRHicks20132017,260047,1,s/o,1936,peru,ceylan,imp,,,,,,,
+GowaJRHicks20132017,494917,1,s/o,1936,peru,china,imp,,,,,,,
+GowaJRHicks20132017,5689,1,s/o,1936,peru,chipre,imp,,,,,,,
+GowaJRHicks20132017,297061,1,s/o,1936,peru,filipinas,imp,,,,,,,
+GowaJRHicks20132017,481120,1,s/o,1936,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,4673682,1,s/o,1936,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,680,1,s/o,1936,peru,indochina francesa,imp,,,,,,,
+GowaJRHicks20132017,7874121,1,s/o,1936,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,255784,1,s/o,1936,peru,java,imp,,,,,,,
+GowaJRHicks20132017,178,1,s/o,1936,peru,macao,imp,,,,,,,
+GowaJRHicks20132017,82059,1,s/o,1936,peru,malaca,imp,,,,,,,
+GowaJRHicks20132017,181,1,s/o,1936,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,757,1,s/o,1936,peru,persia,imp,,,,,,,
+GowaJRHicks20132017,1231,1,s/o,1936,peru,rusia asiatica (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,3264308,1,s/o,1936,peru,siam,imp,,,,,,,
+GowaJRHicks20132017,24408,1,s/o,1936,peru,sumatra,imp,,,,,,,
+GowaJRHicks20132017,256,1,s/o,1936,peru,turquia asiatica,imp,,,,,,,
+GowaJRHicks20132017,1605,1,s/o,1936,peru,africa equatorial francesa,imp,,,,,,,
+GowaJRHicks20132017,929,1,s/o,1936,peru,argelia,imp,,,,,,,
+GowaJRHicks20132017,2020,1,s/o,1936,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,1563,1,s/o,1936,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,665,1,s/o,1936,peru,madagascar,imp,,,,,,,
+GowaJRHicks20132017,26388,1,s/o,1936,peru,marruecos espanol,imp,,,,,,,
+GowaJRHicks20132017,56335,1,s/o,1936,peru,marruecos frances,imp,,,,,,,
+GowaJRHicks20132017,75,1,s/o,1936,peru,sierra leona,imp,,,,,,,
+GowaJRHicks20132017,13753,1,s/o,1936,peru,sudan frances,imp,,,,,,,
+GowaJRHicks20132017,16887,1,s/o,1936,peru,sudan anglo-egipcio,imp,,,,,,,
+GowaJRHicks20132017,2251,1,s/o,1936,peru,union sudafricana,imp,,,,,,,
+GowaJRHicks20132017,9223,1,s/o,1936,peru,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,126457,1,s/o,1936,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,908,1,s/o,1936,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,345,1,s/o,1936,peru,tahiti,imp,,,,,,,
+GowaJRHicks20132017,172480,1,s/o,1936,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,19092769,1,s/o,1937,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,1,1,s/o,1937,peru,barbados,imp,,,,,,,
+GowaJRHicks20132017,174,1,s/o,1937,peru,bermuda,imp,,,,,,,
+GowaJRHicks20132017,32475,1,s/o,1937,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,403013,1,s/o,1937,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,5318995,1,s/o,1937,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,12144,1,s/o,1937,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,89284,1,s/o,1937,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,298191,1,s/o,1937,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,83,1,s/o,1937,peru,curacao,imp,,,,,,,
+GowaJRHicks20132017,4869029,1,s/o,1937,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,1007506,1,s/o,1937,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,58605,1,s/o,1937,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,83397470,1,s/o,1937,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,21208,1,s/o,1937,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,8,1,s/o,1937,peru,haiti,imp,,,,,,,
+GowaJRHicks20132017,6524,1,s/o,1937,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,30301,1,s/o,1937,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,68196,1,s/o,1937,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,63999,1,s/o,1937,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,15804,1,s/o,1937,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,30,1,s/o,1937,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,29,1,s/o,1937,peru,santo domingo,imp,,,,,,,
+GowaJRHicks20132017,7857,1,s/o,1937,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,165628,1,s/o,1937,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,7420,1,s/o,1937,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,8894,1,s/o,1937,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,46271449,1,s/o,1937,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,459975,1,s/o,1937,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,5817355,1,s/o,1937,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,17443,1,s/o,1937,peru,bulgaria,imp,,,,,,,
+GowaJRHicks20132017,1921062,1,s/o,1937,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,290,1,s/o,1937,peru,dantzig,imp,,,,,,,
+GowaJRHicks20132017,224592,1,s/o,1937,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,329076,1,s/o,1937,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,72298,1,s/o,1937,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,473798,1,s/o,1937,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,4831190,1,s/o,1937,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,108,1,s/o,1937,peru,gibraltar,imp,,,,,,,
+GowaJRHicks20132017,24149027,1,s/o,1937,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,37764,1,s/o,1937,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,3892551,1,s/o,1937,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,608643,1,s/o,1937,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,75689,1,s/o,1937,peru,irlanda,imp,,,,,,,
+GowaJRHicks20132017,4250798,1,s/o,1937,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,42949,1,s/o,1937,peru,letonia,imp,,,,,,,
+GowaJRHicks20132017,19672,1,s/o,1937,peru,lituania,imp,,,,,,,
+GowaJRHicks20132017,917939,1,s/o,1937,peru,luxemburgo,imp,,,,,,,
+GowaJRHicks20132017,1239746,1,s/o,1937,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,300501,1,s/o,1937,peru,polonia,imp,,,,,,,
+GowaJRHicks20132017,228396,1,s/o,1937,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,96544,1,s/o,1937,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,29821,1,s/o,1937,peru,rusia europea (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,2192254,1,s/o,1937,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,2962385,1,s/o,1937,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,13383,1,s/o,1937,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,9515,1,s/o,1937,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,1479,1,s/o,1937,peru,arabia,imp,,,,,,,
+GowaJRHicks20132017,345207,1,s/o,1937,peru,ceylan,imp,,,,,,,
+GowaJRHicks20132017,535402,1,s/o,1937,peru,china,imp,,,,,,,
+GowaJRHicks20132017,793,1,s/o,1937,peru,chipre,imp,,,,,,,
+GowaJRHicks20132017,341986,1,s/o,1937,peru,filipinas,imp,,,,,,,
+GowaJRHicks20132017,638254,1,s/o,1937,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,5032960,1,s/o,1937,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,6,1,s/o,1937,peru,indochina francesa,imp,,,,,,,
+GowaJRHicks20132017,8105241,1,s/o,1937,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,592766,1,s/o,1937,peru,java,imp,,,,,,,
+GowaJRHicks20132017,199081,1,s/o,1937,peru,malaca,imp,,,,,,,
+GowaJRHicks20132017,79,1,s/o,1937,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,812,1,s/o,1937,peru,persia,imp,,,,,,,
+GowaJRHicks20132017,458,1,s/o,1937,peru,rusia asiatica (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,1390583,1,s/o,1937,peru,siam,imp,,,,,,,
+GowaJRHicks20132017,989,1,s/o,1937,peru,siria,imp,,,,,,,
+GowaJRHicks20132017,42628,1,s/o,1937,peru,sumatra,imp,,,,,,,
+GowaJRHicks20132017,4710,1,s/o,1937,peru,africa equatorial francesa,imp,,,,,,,
+GowaJRHicks20132017,304,1,s/o,1937,peru,africa occidental francesa,imp,,,,,,,
+GowaJRHicks20132017,1819,1,s/o,1937,peru,canarias,imp,,,,,,,
+GowaJRHicks20132017,318,1,s/o,1937,peru,congo belgia,imp,,,,,,,
+GowaJRHicks20132017,5373,1,s/o,1937,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,700,1,s/o,1937,peru,madagascar,imp,,,,,,,
+GowaJRHicks20132017,7167,1,s/o,1937,peru,marruecos espanol,imp,,,,,,,
+GowaJRHicks20132017,74753,1,s/o,1937,peru,marruecos frances,imp,,,,,,,
+GowaJRHicks20132017,371,1,s/o,1937,peru,reunion,imp,,,,,,,
+GowaJRHicks20132017,25,1,s/o,1937,peru,somalia inglesa,imp,,,,,,,
+GowaJRHicks20132017,8929,1,s/o,1937,peru,sudan frances,imp,,,,,,,
+GowaJRHicks20132017,26496,1,s/o,1937,peru,sudan anglo-egipcio,imp,,,,,,,
+GowaJRHicks20132017,7,1,s/o,1937,peru,union sudafricana,imp,,,,,,,
+GowaJRHicks20132017,16406,1,s/o,1937,peru,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,1309289,1,s/o,1937,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,4787,1,s/o,1937,peru,hawaii,imp,,,,,,,
+GowaJRHicks20132017,1166,1,s/o,1937,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,2685,1,s/o,1937,peru,tahiti,imp,,,,,,,
+GowaJRHicks20132017,49644,1,s/o,1937,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,15900644,1,s/o,1938,peru,argentina,imp,,,,,,,
+GowaJRHicks20132017,1221,1,s/o,1938,peru,bermuda,imp,,,,,,,
+GowaJRHicks20132017,30753,1,s/o,1938,peru,bolivia,imp,,,,,,,
+GowaJRHicks20132017,266263,1,s/o,1938,peru,brazil,imp,,,,,,,
+GowaJRHicks20132017,4914590,1,s/o,1938,peru,canada,imp,,,,,,,
+GowaJRHicks20132017,5656,1,s/o,1938,peru,colombia,imp,,,,,,,
+GowaJRHicks20132017,261493,1,s/o,1938,peru,costa rica,imp,,,,,,,
+GowaJRHicks20132017,421704,1,s/o,1938,peru,cuba,imp,,,,,,,
+GowaJRHicks20132017,12,1,s/o,1938,peru,curacao,imp,,,,,,,
+GowaJRHicks20132017,5224698,1,s/o,1938,peru,chile,imp,,,,,,,
+GowaJRHicks20132017,4206247,1,s/o,1938,peru,ecuador,imp,,,,,,,
+GowaJRHicks20132017,73598,1,s/o,1938,peru,el salvador,imp,,,,,,,
+GowaJRHicks20132017,89227426,1,s/o,1938,peru,united states,imp,,,,,,,
+GowaJRHicks20132017,1,1,s/o,1938,peru,guadalupe,imp,,,,,,,
+GowaJRHicks20132017,2490,1,s/o,1938,peru,guatemala,imp,,,,,,,
+GowaJRHicks20132017,2474,1,s/o,1938,peru,haiti,imp,,,,,,,
+GowaJRHicks20132017,33630,1,s/o,1938,peru,honduras,imp,,,,,,,
+GowaJRHicks20132017,20083,1,s/o,1938,peru,jamaica,imp,,,,,,,
+GowaJRHicks20132017,6,1,s/o,1938,peru,martinique,imp,,,,,,,
+GowaJRHicks20132017,111022,1,s/o,1938,peru,mexico,imp,,,,,,,
+GowaJRHicks20132017,422092,1,s/o,1938,peru,nicaragua,imp,,,,,,,
+GowaJRHicks20132017,8642,1,s/o,1938,peru,panama,imp,,,,,,,
+GowaJRHicks20132017,70,1,s/o,1938,peru,paraguay,imp,,,,,,,
+GowaJRHicks20132017,15,1,s/o,1938,peru,puerto rico,imp,,,,,,,
+GowaJRHicks20132017,380,1,s/o,1938,peru,saint thomas,imp,,,,,,,
+GowaJRHicks20132017,9997,1,s/o,1938,peru,trinidad,imp,,,,,,,
+GowaJRHicks20132017,738481,1,s/o,1938,peru,uruguay,imp,,,,,,,
+GowaJRHicks20132017,2415,1,s/o,1938,peru,venezuela,imp,,,,,,,
+GowaJRHicks20132017,9308,1,s/o,1938,peru,zona del canal,imp,,,,,,,
+GowaJRHicks20132017,52823065,1,s/o,1938,peru,alemania,imp,,,,,,,
+GowaJRHicks20132017,321064,1,s/o,1938,peru,austria,imp,,,,,,,
+GowaJRHicks20132017,7228523,1,s/o,1938,peru,belgica,imp,,,,,,,
+GowaJRHicks20132017,2622,1,s/o,1938,peru,bulgaria,imp,,,,,,,
+GowaJRHicks20132017,2759603,1,s/o,1938,peru,checo-eslovaquia,imp,,,,,,,
+GowaJRHicks20132017,124,1,s/o,1938,peru,dantzig,imp,,,,,,,
+GowaJRHicks20132017,455171,1,s/o,1938,peru,dinamarca,imp,,,,,,,
+GowaJRHicks20132017,318992,1,s/o,1938,peru,espana,imp,,,,,,,
+GowaJRHicks20132017,103319,1,s/o,1938,peru,estonia,imp,,,,,,,
+GowaJRHicks20132017,287162,1,s/o,1938,peru,finlandia,imp,,,,,,,
+GowaJRHicks20132017,6968574,1,s/o,1938,peru,francia,imp,,,,,,,
+GowaJRHicks20132017,26345199,1,s/o,1938,peru,gran bretana,imp,,,,,,,
+GowaJRHicks20132017,32551,1,s/o,1938,peru,grecia,imp,,,,,,,
+GowaJRHicks20132017,5247510,1,s/o,1938,peru,holanda,imp,,,,,,,
+GowaJRHicks20132017,664011,1,s/o,1938,peru,hungria,imp,,,,,,,
+GowaJRHicks20132017,89150,1,s/o,1938,peru,irlanda,imp,,,,,,,
+GowaJRHicks20132017,6626886,1,s/o,1938,peru,italia,imp,,,,,,,
+GowaJRHicks20132017,15011,1,s/o,1938,peru,letonia,imp,,,,,,,
+GowaJRHicks20132017,3155,1,s/o,1938,peru,lituania,imp,,,,,,,
+GowaJRHicks20132017,467798,1,s/o,1938,peru,luxemburgo,imp,,,,,,,
+GowaJRHicks20132017,553,1,s/o,1938,peru,malta,imp,,,,,,,
+GowaJRHicks20132017,2,1,s/o,1938,peru,monaco,imp,,,,,,,
+GowaJRHicks20132017,1231997,1,s/o,1938,peru,noruega,imp,,,,,,,
+GowaJRHicks20132017,252036,1,s/o,1938,peru,polonia,imp,,,,,,,
+GowaJRHicks20132017,287006,1,s/o,1938,peru,portugal,imp,,,,,,,
+GowaJRHicks20132017,151142,1,s/o,1938,peru,rumania,imp,,,,,,,
+GowaJRHicks20132017,13130,1,s/o,1938,peru,rusia europea (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,2947625,1,s/o,1938,peru,suecia,imp,,,,,,,
+GowaJRHicks20132017,3508783,1,s/o,1938,peru,suiza,imp,,,,,,,
+GowaJRHicks20132017,459,1,s/o,1938,peru,turquia europea,imp,,,,,,,
+GowaJRHicks20132017,129279,1,s/o,1938,peru,yugo-eslavia,imp,,,,,,,
+GowaJRHicks20132017,1903,1,s/o,1938,peru,arabia,imp,,,,,,,
+GowaJRHicks20132017,906,1,s/o,1938,peru,celebes,imp,,,,,,,
+GowaJRHicks20132017,640425,1,s/o,1938,peru,ceylan,imp,,,,,,,
+GowaJRHicks20132017,389184,1,s/o,1938,peru,china,imp,,,,,,,
+GowaJRHicks20132017,319175,1,s/o,1938,peru,filipinas,imp,,,,,,,
+GowaJRHicks20132017,204525,1,s/o,1938,peru,hong kong,imp,,,,,,,
+GowaJRHicks20132017,4444918,1,s/o,1938,peru,india inglesa,imp,,,,,,,
+GowaJRHicks20132017,76,1,s/o,1938,peru,indochina francesa,imp,,,,,,,
+GowaJRHicks20132017,8683775,1,s/o,1938,peru,japon,imp,,,,,,,
+GowaJRHicks20132017,533715,1,s/o,1938,peru,java,imp,,,,,,,
+GowaJRHicks20132017,81282,1,s/o,1938,peru,malaca,imp,,,,,,,
+GowaJRHicks20132017,103,1,s/o,1938,peru,mesopotamia,imp,,,,,,,
+GowaJRHicks20132017,202,1,s/o,1938,peru,palestina,imp,,,,,,,
+GowaJRHicks20132017,9069,1,s/o,1938,peru,persia,imp,,,,,,,
+GowaJRHicks20132017,477,1,s/o,1938,peru,rusia asiatica (u.r.s.s.),imp,,,,,,,
+GowaJRHicks20132017,3039241,1,s/o,1938,peru,siam,imp,,,,,,,
+GowaJRHicks20132017,26,1,s/o,1938,peru,siria,imp,,,,,,,
+GowaJRHicks20132017,60411,1,s/o,1938,peru,sumatra,imp,,,,,,,
+GowaJRHicks20132017,12,1,s/o,1938,peru,turquia asiatica,imp,,,,,,,
+GowaJRHicks20132017,7734,1,s/o,1938,peru,africa equatorial francesa,imp,,,,,,,
+GowaJRHicks20132017,21,1,s/o,1938,peru,africa occidental francesa,imp,,,,,,,
+GowaJRHicks20132017,746,1,s/o,1938,peru,argelia,imp,,,,,,,
+GowaJRHicks20132017,4,1,s/o,1938,peru,cabo verde,imp,,,,,,,
+GowaJRHicks20132017,46,1,s/o,1938,peru,egipto,imp,,,,,,,
+GowaJRHicks20132017,1726,1,s/o,1938,peru,madagascar,imp,,,,,,,
+GowaJRHicks20132017,6047,1,s/o,1938,peru,marruecos espanol,imp,,,,,,,
+GowaJRHicks20132017,72425,1,s/o,1938,peru,marruecos frances,imp,,,,,,,
+GowaJRHicks20132017,580,1,s/o,1938,peru,nigeria,imp,,,,,,,
+GowaJRHicks20132017,86,1,s/o,1938,peru,reunion,imp,,,,,,,
+GowaJRHicks20132017,322,1,s/o,1938,peru,somalia inglesa,imp,,,,,,,
+GowaJRHicks20132017,15842,1,s/o,1938,peru,sudan frances,imp,,,,,,,
+GowaJRHicks20132017,32759,1,s/o,1938,peru,sudan anglo-egipcio,imp,,,,,,,
+GowaJRHicks20132017,18,1,s/o,1938,peru,union sudafricana,imp,,,,,,,
+GowaJRHicks20132017,15137,1,s/o,1938,peru,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,90442,1,s/o,1938,peru,australia,imp,,,,,,,
+GowaJRHicks20132017,60,1,s/o,1938,peru,hawaii,imp,,,,,,,
+GowaJRHicks20132017,22949,1,s/o,1938,peru,nueva zeland,imp,,,,,,,
+GowaJRHicks20132017,7428,1,s/o,1938,peru,tahiti,imp,,,,,,,
+GowaJRHicks20132017,298025,1,s/o,1938,peru,no especificada,imp,,,,,,,
+GowaJRHicks20132017,18029418,1,lp,1924,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,18272979,1,lp,1925,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,18723272,1,lp,1926,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,18749742,1,lp,1927,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,16848342,1,lp,1928,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,18985246,1,lp,1929,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,140261247,1,s/o,1930,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,102478580,1,s/o,1931,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,171252552,1,s/o,1934,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,200500404,1,s/o,1936,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,235205523,1,s/o,1937,peru,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,260158735,1,s/o,1938,peru,total,imp,,,,,,total_reporting,
