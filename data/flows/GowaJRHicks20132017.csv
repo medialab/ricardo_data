@@ -1,136 +1,955 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-GowaJRHicks20132017,506767,1,australian pound,1920,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,661441,1,australian pound,1921,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,468711,1,australian pound,1922,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,516455,1,australian pound,1923,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,480341,1,australian pound,1924,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,2754,1,australian pound,1924,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,2081,1,australian pound,1924,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,458,1,australian pound,1924,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,470574,1,australian pound,1925,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,13019,1,australian pound,1925,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,20976,1,australian pound,1925,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,1496,1,australian pound,1925,papua,dutch new guinea,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,29394,1,australian pound,1925,papua,india,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,194,1,australian pound,1925,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,2260,1,australian pound,1925,papua,papua,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,27,1,australian pound,1925,papua,solomon islands,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,484090,1,australian pound,1926,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,24682,1,australian pound,1926,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,9555,1,australian pound,1926,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,46,1,australian pound,1926,papua,dutch new guinea,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,45942,1,australian pound,1926,papua,india,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,2848,1,australian pound,1926,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,1176,1,australian pound,1926,papua,straits settlements,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,569704,1,australian pound,1927,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,24065,1,australian pound,1927,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,15675,1,australian pound,1927,papua,burma,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,2685,1,australian pound,1927,papua,caroline islands,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,20345,1,australian pound,1927,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,28279,1,australian pound,1927,papua,straits settlements,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,725622,1,australian pound,1928,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,16910,1,australian pound,1928,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,886,1,australian pound,1928,papua,caroline islands,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,32496,1,australian pound,1928,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,14164,1,australian pound,1928,papua,germany,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,10303,1,australian pound,1928,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,11451,1,australian pound,1928,papua,straits settlements,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,327716,1,australian pound,1929,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,128045,1,australian pound,1929,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,44138,1,australian pound,1929,papua,burma,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,8917,1,australian pound,1929,papua,canada,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,34856,1,australian pound,1929,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,63491,1,australian pound,1929,papua,germany,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,51615,1,australian pound,1929,papua,india,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,18805,1,australian pound,1929,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,5280,1,australian pound,1929,papua,malaya,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,10539,1,australian pound,1929,papua,new zealand,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,132755,1,australian pound,1929,papua,uk,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,3067,1,australian pound,1929,papua,belgium,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,5851,1,australian pound,1929,papua,france,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,10984,1,australian pound,1929,papua,java/dutch east indies,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,7547,1,australian pound,1929,papua,sweden,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,17835,1,australian pound,1929,papua,other,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,292147,1,australian pound,1930,papua,australia,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,107667,1,australian pound,1930,papua,us,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,68338,1,australian pound,1930,papua,burma,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,1056,1,australian pound,1930,papua,canada,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,27740,1,australian pound,1930,papua,china,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,54390,1,australian pound,1930,papua,germany,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,51050,1,australian pound,1930,papua,india,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,23103,1,australian pound,1930,papua,japan,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,2644,1,australian pound,1930,papua,malaya,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,10082,1,australian pound,1930,papua,new zealand,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,178527,1,australian pound,1930,papua,uk,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,4378,1,australian pound,1930,papua,belgium,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,6844,1,australian pound,1930,papua,france,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,24864,1,australian pound,1930,papua,java/dutch east indies,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,5622,1,australian pound,1930,papua,sweden,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,23564,1,australian pound,1930,papua,other,imp,,,,Year ended 30th June,,,Country of origin
-GowaJRHicks20132017,506767,1,australian pound,1920,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,661441,1,australian pound,1921,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,468711,1,australian pound,1922,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,516455,1,australian pound,1923,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,485634,1,australian pound,1924,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,537940,1,australian pound,1925,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,568339,1,australian pound,1926,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,660753,1,australian pound,1927,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,811832,1,australian pound,1928,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,871441,1,australian pound,1929,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,882016,1,australian pound,1930,papua,total,imp,,,,Year ended 30th June,,total_reporting,Country of origin
-GowaJRHicks20132017,660422,1,australian pound,1920,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,33478,1,australian pound,1920,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,155522,1,australian pound,1920,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,673992,1,australian pound,1921,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,499197,1,australian pound,1922,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,384706,1,australian pound,1923,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,246186,1,australian pound,1923,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,298606,1,australian pound,1924,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,34126,1,australian pound,1924,papua,us,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,198,1,australian pound,1924,papua,china,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,385605,1,australian pound,1924,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,268664,1,australian pound,1925,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,101705,1,australian pound,1925,papua,us,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,444,1,australian pound,1925,papua,caroline islands,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,110,1,australian pound,1925,papua,china,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,488067,1,australian pound,1925,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,437204,1,australian pound,1926,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,156400,1,australian pound,1926,papua,us,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,1780,1,australian pound,1926,papua,china,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,509249,1,australian pound,1926,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,525,1,australian pound,1926,papua,japan,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,475448,1,australian pound,1927,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,604407,1,australian pound,1927,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,512399,1,australian pound,1928,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,131628,1,australian pound,1928,papua,us,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,1884,1,australian pound,1928,papua,china,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,746211,1,australian pound,1928,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,78904,1,australian pound,1928,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,386843,1,australian pound,1929,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,251748,1,australian pound,1929,papua,us,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,13800,1,australian pound,1929,papua,china,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,9945,1,australian pound,1929,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,264602,1,australian pound,1929,papua,france,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,178328,1,australian pound,1929,papua,holland,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,40846,1,australian pound,1929,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,260513,1,australian pound,1930,papua,australia,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,100812,1,australian pound,1930,papua,us,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,1845,1,australian pound,1930,papua,china,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,12345,1,australian pound,1930,papua,european ports,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,247327,1,australian pound,1930,papua,france,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,197458,1,australian pound,1930,papua,holland,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,48175,1,australian pound,1930,papua,germany,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,6500,1,australian pound,1930,papua,italy,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,18550,1,australian pound,1930,papua,spain,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,103810,1,australian pound,1930,papua,united kingdom,exp,,,,Year ended 30th June,,,Country of destination
-GowaJRHicks20132017,849422,1,australian pound,1920,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,673992,1,australian pound,1921,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,499197,1,australian pound,1922,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,630892,1,australian pound,1923,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,718535,1,australian pound,1924,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,858990,1,australian pound,1925,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,1105158,1,australian pound,1926,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,1079855,1,australian pound,1927,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,1471026,1,australian pound,1928,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,1146112,1,australian pound,1929,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
-GowaJRHicks20132017,997335,1,australian pound,1930,papua,total,exp,,,,Year ended 30th June,,total_reporting,Country of destination
+GowaJRHicks20132017,8873,1,pesos oro,1921,paraguay,alemania,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3870731,1,pesos oro,1921,paraguay,argentina,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,21725,1,pesos oro,1921,paraguay,belgica,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,31980,1,pesos oro,1921,paraguay,brasil,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2590,1,pesos oro,1921,paraguay,chile,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,441480,1,pesos oro,1921,paraguay,espana,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,795342,1,pesos oro,1921,paraguay,us,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,88057,1,pesos oro,1921,paraguay,francia,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,129736,1,pesos oro,1921,paraguay,hollanda,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,11879,1,pesos oro,1921,paraguay,inglaterra,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,104429,1,pesos oro,1921,paraguay,italia,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,5214,1,pesos oro,1921,paraguay,japon,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,106,1,pesos oro,1921,paraguay,noruega,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,578529,1,pesos oro,1921,paraguay,uruguay,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,725,1,pesos oro,1921,paraguay,varios,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3925,1,pesos oro,1922,paraguay,alemania,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,4613590,1,pesos oro,1922,paraguay,argentina,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,24797,1,pesos oro,1922,paraguay,brasil,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,860,1,pesos oro,1922,paraguay,chile,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,41061,1,pesos oro,1922,paraguay,espana,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1239058,1,pesos oro,1922,paraguay,us,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,62755,1,pesos oro,1922,paraguay,francia,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3550,1,pesos oro,1922,paraguay,hollanda,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3662,1,pesos oro,1922,paraguay,inglaterra,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,217103,1,pesos oro,1922,paraguay,italia,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2883,1,pesos oro,1922,paraguay,japon,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,398713,1,pesos oro,1922,paraguay,uruguay,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,360,1,pesos oro,1922,paraguay,varios,exp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,441204,1,peso oro sellado,1926,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,11957427,1,peso oro sellado,1926,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,136128,1,peso oro sellado,1926,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,14147,1,peso oro sellado,1926,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,24094,1,peso oro sellado,1926,paraguay,chile,exp,,,,,,,Valor real
+GowaJRHicks20132017,78729,1,peso oro sellado,1926,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,1151955,1,peso oro sellado,1926,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,502701,1,peso oro sellado,1926,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,146915,1,peso oro sellado,1926,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,106893,1,peso oro sellado,1926,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,241478,1,peso oro sellado,1926,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,10907,1,peso oro sellado,1926,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,10359,1,peso oro sellado,1926,paraguay,suiza,exp,,,,,,,Valor real
+GowaJRHicks20132017,674567,1,peso oro sellado,1926,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,486570,1,peso oro sellado,1927,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,12079548,1,peso oro sellado,1927,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,200679,1,peso oro sellado,1927,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,245,1,peso oro sellado,1927,paraguay,bolivia,exp,,,,,,,Valor real
+GowaJRHicks20132017,7782,1,peso oro sellado,1927,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,2215,1,peso oro sellado,1927,paraguay,chile,exp,,,,,,,Valor real
+GowaJRHicks20132017,79410,1,peso oro sellado,1927,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,98835,1,peso oro sellado,1927,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,187336,1,peso oro sellado,1927,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,118835,1,peso oro sellado,1927,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,233687,1,peso oro sellado,1927,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,89254,1,peso oro sellado,1927,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,9114,1,peso oro sellado,1927,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,61270,1,peso oro sellado,1927,paraguay,russia,exp,,,,,,,Valor real
+GowaJRHicks20132017,627260,1,peso oro sellado,1927,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,226996,1,peso oro sellado,1928,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,14010416,1,peso oro sellado,1928,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,81437,1,peso oro sellado,1928,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,1820,1,peso oro sellado,1928,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,181853,1,peso oro sellado,1928,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,60450,1,peso oro sellado,1928,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,398686,1,peso oro sellado,1928,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,52710,1,peso oro sellado,1928,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,25888,1,peso oro sellado,1928,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,149114,1,peso oro sellado,1928,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,3711,1,peso oro sellado,1928,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,23460,1,peso oro sellado,1928,paraguay,russia,exp,,,,,,,Valor real
+GowaJRHicks20132017,174,1,peso oro sellado,1928,paraguay,suiza,exp,,,,,,,Valor real
+GowaJRHicks20132017,669493,1,peso oro sellado,1928,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,124517,1,peso oro sellado,1929,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,7396785,1,peso oro sellado,1929,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,4057222,1,peso oro sellado,1929,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,311574,1,peso oro sellado,1929,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,1756,1,peso oro sellado,1929,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,166566,1,peso oro sellado,1929,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,5575,1,peso oro sellado,1929,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,510702,1,peso oro sellado,1929,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,11503,1,peso oro sellado,1929,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,48521,1,peso oro sellado,1929,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,98098,1,peso oro sellado,1929,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,1632,1,peso oro sellado,1929,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,947,1,peso oro sellado,1929,paraguay,suiza,exp,,,,,,,Valor real
+GowaJRHicks20132017,723206,1,peso oro sellado,1929,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,1162,1,peso oro sellado,1929,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,221660,1,peso oro sellado,1930,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,7369521,1,peso oro sellado,1930,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,5570855,1,peso oro sellado,1930,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,107385,1,peso oro sellado,1930,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,19576,1,peso oro sellado,1930,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,26335,1,peso oro sellado,1930,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,214890,1,peso oro sellado,1930,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,34872,1,peso oro sellado,1930,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,114334,1,peso oro sellado,1930,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,600,1,peso oro sellado,1930,paraguay,russia,exp,,,,,,,Valor real
+GowaJRHicks20132017,495743,1,peso oro sellado,1930,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,682,1,peso oro sellado,1930,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,121480,1,peso oro sellado,1931,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,6398714,1,peso oro sellado,1931,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,5406107,1,peso oro sellado,1931,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,23246,1,peso oro sellado,1931,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,282,1,peso oro sellado,1931,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,1729,1,peso oro sellado,1931,paraguay,canarias,exp,,,,,,,Valor real
+GowaJRHicks20132017,1419,1,peso oro sellado,1931,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,62333,1,peso oro sellado,1931,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,157820,1,peso oro sellado,1931,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,103112,1,peso oro sellado,1931,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,13859,1,peso oro sellado,1931,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,63511,1,peso oro sellado,1931,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,390,1,peso oro sellado,1931,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,475672,1,peso oro sellado,1931,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,26911,1,peso oro sellado,1931,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,112518,1,peso oro sellado,1932,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,6633750,1,peso oro sellado,1932,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,5510713,1,peso oro sellado,1932,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,6061,1,peso oro sellado,1932,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,5640,1,peso oro sellado,1932,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,1000,1,peso oro sellado,1932,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,67508,1,peso oro sellado,1932,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,171698,1,peso oro sellado,1932,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,78058,1,peso oro sellado,1932,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,120,1,peso oro sellado,1932,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,19596,1,peso oro sellado,1932,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,248555,1,peso oro sellado,1932,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,17728,1,peso oro sellado,1932,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,49797,1,peso oro sellado,1933,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,4161530,1,peso oro sellado,1933,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,4776666,1,peso oro sellado,1933,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,69663,1,peso oro sellado,1933,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,2000,1,peso oro sellado,1933,paraguay,bolivia,exp,,,,,,,Valor real
+GowaJRHicks20132017,80,1,peso oro sellado,1933,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,5631,1,peso oro sellado,1933,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,158899,1,peso oro sellado,1933,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,157236,1,peso oro sellado,1933,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,94712,1,peso oro sellado,1933,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,3521,1,peso oro sellado,1933,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,18246,1,peso oro sellado,1933,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,215622,1,peso oro sellado,1933,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,53917,1,peso oro sellado,1933,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,101588,1,peso oro sellado,1934,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,4756701,1,peso oro sellado,1934,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,6235125,1,peso oro sellado,1934,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,17346,1,peso oro sellado,1934,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,100,1,peso oro sellado,1934,paraguay,bolivia,exp,,,,,,,Valor real
+GowaJRHicks20132017,200,1,peso oro sellado,1934,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,5050,1,peso oro sellado,1934,paraguay,chile,exp,,,,,,,Valor real
+GowaJRHicks20132017,8763,1,peso oro sellado,1934,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,138403,1,peso oro sellado,1934,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,530987,1,peso oro sellado,1934,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,77392,1,peso oro sellado,1934,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,14848,1,peso oro sellado,1934,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,12687,1,peso oro sellado,1934,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,407191,1,peso oro sellado,1934,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,71380,1,peso oro sellado,1934,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,243856,1,peso oro sellado,1935,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,3624879,1,peso oro sellado,1935,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,6266502,1,peso oro sellado,1935,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,7562,1,peso oro sellado,1935,paraguay,africa,exp,,,,,,,Valor real
+GowaJRHicks20132017,2054,1,peso oro sellado,1935,paraguay,bolivia,exp,,,,,,,Valor real
+GowaJRHicks20132017,100,1,peso oro sellado,1935,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,67371,1,peso oro sellado,1935,paraguay,checoeslovaquia,exp,,,,,,,Valor real
+GowaJRHicks20132017,267,1,peso oro sellado,1935,paraguay,chile,exp,,,,,,,Valor real
+GowaJRHicks20132017,810,1,peso oro sellado,1935,paraguay,china,exp,,,,,,,Valor real
+GowaJRHicks20132017,2196,1,peso oro sellado,1935,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,72476,1,peso oro sellado,1935,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,567172,1,peso oro sellado,1935,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,81579,1,peso oro sellado,1935,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,45644,1,peso oro sellado,1935,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,25185,1,peso oro sellado,1935,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,1459,1,peso oro sellado,1935,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,150,1,peso oro sellado,1935,paraguay,union sud africana,exp,,,,,,,Valor real
+GowaJRHicks20132017,306117,1,peso oro sellado,1935,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,79671,1,peso oro sellado,1935,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,1000,1,peso oro sellado,1935,paraguay,venezuela,exp,,,,,,,Valor real
+GowaJRHicks20132017,219149,1,peso oro sellado,1936,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,3174933,1,peso oro sellado,1936,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,5480068,1,peso oro sellado,1936,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,1001,1,peso oro sellado,1936,paraguay,africa,exp,,,,,,,Valor real
+GowaJRHicks20132017,300,1,peso oro sellado,1936,paraguay,canada,exp,,,,,,,Valor real
+GowaJRHicks20132017,3516,1,peso oro sellado,1936,paraguay,checoeslovaquia,exp,,,,,,,Valor real
+GowaJRHicks20132017,2566,1,peso oro sellado,1936,paraguay,chile,exp,,,,,,,Valor real
+GowaJRHicks20132017,93966,1,peso oro sellado,1936,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,202554,1,peso oro sellado,1936,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,16443,1,peso oro sellado,1936,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,9390,1,peso oro sellado,1936,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,1255,1,peso oro sellado,1936,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,222404,1,peso oro sellado,1936,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,4882,1,peso oro sellado,1936,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,2112988,1,peso oro sellado,1937,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,877,1,peso oro sellado,1937,paraguay,antillas inglesas,exp,,,,,,,Valor real
+GowaJRHicks20132017,2312974,1,peso oro sellado,1937,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,2822634,1,peso oro sellado,1937,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,1024,1,peso oro sellado,1937,paraguay,africa,exp,,,,,,,Valor real
+GowaJRHicks20132017,844,1,peso oro sellado,1937,paraguay,argelia,exp,,,,,,,Valor real
+GowaJRHicks20132017,490512,1,peso oro sellado,1937,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,3423,1,peso oro sellado,1937,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,54405,1,peso oro sellado,1937,paraguay,canada,exp,,,,,,,Valor real
+GowaJRHicks20132017,45781,1,peso oro sellado,1937,paraguay,checoeslovaquia,exp,,,,,,,Valor real
+GowaJRHicks20132017,9028,1,peso oro sellado,1937,paraguay,cuba,exp,,,,,,,Valor real
+GowaJRHicks20132017,8064,1,peso oro sellado,1937,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,942495,1,peso oro sellado,1937,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,2800,1,peso oro sellado,1937,paraguay,estonia,exp,,,,,,,Valor real
+GowaJRHicks20132017,145529,1,peso oro sellado,1937,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,361395,1,peso oro sellado,1937,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,980,1,peso oro sellado,1937,paraguay,indochina francesa,exp,,,,,,,Valor real
+GowaJRHicks20132017,1292751,1,peso oro sellado,1937,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,788990,1,peso oro sellado,1937,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,6986,1,peso oro sellado,1937,paraguay,japon,exp,,,,,,,Valor real
+GowaJRHicks20132017,5265,1,peso oro sellado,1937,paraguay,malta,exp,,,,,,,Valor real
+GowaJRHicks20132017,51331,1,peso oro sellado,1937,paraguay,noruega,exp,,,,,,,Valor real
+GowaJRHicks20132017,291041,1,peso oro sellado,1937,paraguay,polonia,exp,,,,,,,Valor real
+GowaJRHicks20132017,12528,1,peso oro sellado,1937,paraguay,suecia,exp,,,,,,,Valor real
+GowaJRHicks20132017,1,1,peso oro sellado,1937,paraguay,suiza,exp,,,,,,,Valor real
+GowaJRHicks20132017,73982,1,peso oro sellado,1937,paraguay,sud africa,exp,,,,,,,Valor real
+GowaJRHicks20132017,31,1,peso oro sellado,1937,paraguay,turquia,exp,,,,,,,Valor real
+GowaJRHicks20132017,227709,1,peso oro sellado,1937,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,1710355,1,peso oro sellado,1938,paraguay,alemania,exp,,,,,,,Valor real
+GowaJRHicks20132017,2567933,1,peso oro sellado,1938,paraguay,argentina,exp,,,,,,,Valor real
+GowaJRHicks20132017,3087981,1,peso oro sellado,1938,paraguay,argentina,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,206,1,peso oro sellado,1938,paraguay,argelia,exp,,,,,,,Valor real
+GowaJRHicks20132017,669610,1,peso oro sellado,1938,paraguay,belgica,exp,,,,,,,Valor real
+GowaJRHicks20132017,2266,1,peso oro sellado,1938,paraguay,brasil,exp,,,,,,,Valor real
+GowaJRHicks20132017,66546,1,peso oro sellado,1938,paraguay,canada,exp,,,,,,,Valor real
+GowaJRHicks20132017,6191,1,peso oro sellado,1938,paraguay,checoeslovaquia,exp,,,,,,,Valor real
+GowaJRHicks20132017,2057,1,peso oro sellado,1938,paraguay,espana,exp,,,,,,,Valor real
+GowaJRHicks20132017,1470451,1,peso oro sellado,1938,paraguay,us,exp,,,,,,,Valor real
+GowaJRHicks20132017,90,1,peso oro sellado,1938,paraguay,finlandia,exp,,,,,,,Valor real
+GowaJRHicks20132017,241097,1,peso oro sellado,1938,paraguay,francia,exp,,,,,,,Valor real
+GowaJRHicks20132017,131088,1,peso oro sellado,1938,paraguay,hollanda,exp,,,,,,,Valor real
+GowaJRHicks20132017,1565027,1,peso oro sellado,1938,paraguay,inglaterra,exp,,,,,,,Valor real
+GowaJRHicks20132017,28865,1,peso oro sellado,1938,paraguay,italia,exp,,,,,,,Valor real
+GowaJRHicks20132017,58339,1,peso oro sellado,1938,paraguay,noruega,exp,,,,,,,Valor real
+GowaJRHicks20132017,9631,1,peso oro sellado,1938,paraguay,suecia,exp,,,,,,,Valor real
+GowaJRHicks20132017,230114,1,peso oro sellado,1938,paraguay,sud africa,exp,,,,,,,Valor real
+GowaJRHicks20132017,167731,1,peso oro sellado,1938,paraguay,uruguay,exp,,,,,,,Valor real
+GowaJRHicks20132017,1650,1,peso oro sellado,1938,paraguay,uruguay,re-exp,,,,,,,Valor real. Transit
+GowaJRHicks20132017,6091396,1,pesos oro,1921,paraguay,total,exp,,,,,,total_reporting,Valor de tarifa
+GowaJRHicks20132017,6612317,1,pesos oro,1922,paraguay,total,exp,,,,,,total_reporting,Valor de tarifa
+GowaJRHicks20132017,15497504,1,peso oro sellado,1926,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,14282040,1,peso oro sellado,1927,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,15886208,1,peso oro sellado,1928,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,13459766,1,peso oro sellado,1929,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,14176453,1,peso oro sellado,1930,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,12856585,1,peso oro sellado,1931,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,12872945,1,peso oro sellado,1932,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,9767520,1,peso oro sellado,1933,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,12377761,1,peso oro sellado,1934,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,11396050,1,peso oro sellado,1935,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,9432427,1,peso oro sellado,1936,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,12066368,1,peso oro sellado,1937,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,12017228,1,peso oro sellado,1938,paraguay,total,exp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,330379,1,pesos oro,1921,paraguay,alemania,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1932649,1,pesos oro,1921,paraguay,argentina,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,27688,1,pesos oro,1921,paraguay,belgica,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,86197,1,pesos oro,1921,paraguay,brasil,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,4848,1,pesos oro,1921,paraguay,cuba,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2429,1,pesos oro,1921,paraguay,chile,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,205906,1,pesos oro,1921,paraguay,espana,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,849453,1,pesos oro,1921,paraguay,us,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,163934,1,pesos oro,1921,paraguay,francia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,24662,1,pesos oro,1921,paraguay,hollanda,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,23667,1,pesos oro,1921,paraguay,india,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1051893,1,pesos oro,1921,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,165130,1,pesos oro,1921,paraguay,italia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,29547,1,pesos oro,1921,paraguay,japon,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2708,1,pesos oro,1921,paraguay,noruega,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1741,1,pesos oro,1921,paraguay,suecia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3801,1,pesos oro,1921,paraguay,suiza,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,107557,1,pesos oro,1921,paraguay,uruguay,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2255,1,pesos oro,1921,paraguay,varios,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,298916,1,pesos oro,1922,paraguay,alemania,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1484847,1,pesos oro,1922,paraguay,argentina,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,34071,1,pesos oro,1922,paraguay,belgica,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,176317,1,pesos oro,1922,paraguay,brasil,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2143,1,pesos oro,1922,paraguay,cuba,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2921,1,pesos oro,1922,paraguay,chile,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,120882,1,pesos oro,1922,paraguay,espana,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,902262,1,pesos oro,1922,paraguay,us,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,73313,1,pesos oro,1922,paraguay,francia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,9042,1,pesos oro,1922,paraguay,hollanda,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,79302,1,pesos oro,1922,paraguay,india,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,975133,1,pesos oro,1922,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,72388,1,pesos oro,1922,paraguay,italia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,7410,1,pesos oro,1922,paraguay,japon,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2835,1,pesos oro,1922,paraguay,noruega,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1308,1,pesos oro,1922,paraguay,suecia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3875,1,pesos oro,1922,paraguay,suiza,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,91207,1,pesos oro,1922,paraguay,uruguay,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2179,1,pesos oro,1922,paraguay,varios,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,379866,1,pesos oro,1923,paraguay,alemania,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,2267659,1,pesos oro,1923,paraguay,argentina,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,47771,1,pesos oro,1923,paraguay,belgica,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,535650,1,pesos oro,1923,paraguay,brasil,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,929,1,pesos oro,1923,paraguay,chile,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,120084,1,pesos oro,1923,paraguay,espana,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1035604,1,pesos oro,1923,paraguay,us,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,122564,1,pesos oro,1923,paraguay,francia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,51973,1,pesos oro,1923,paraguay,hollanda,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,94577,1,pesos oro,1923,paraguay,india,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1506430,1,pesos oro,1923,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,192299,1,pesos oro,1923,paraguay,italia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,25779,1,pesos oro,1923,paraguay,japon,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,7233,1,pesos oro,1923,paraguay,noruega,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3378,1,pesos oro,1923,paraguay,suecia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,12597,1,pesos oro,1923,paraguay,suiza,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,170099,1,pesos oro,1923,paraguay,uruguay,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,18749,1,pesos oro,1923,paraguay,varios,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,749100,1,pesos oro,1924,paraguay,alemania,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3471210,1,pesos oro,1924,paraguay,argentina,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,4706,1,pesos oro,1924,paraguay,austria,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,199191,1,pesos oro,1924,paraguay,belgica,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,228381,1,pesos oro,1924,paraguay,brasil,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3498,1,pesos oro,1924,paraguay,canada,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,583,1,pesos oro,1924,paraguay,ceilan,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,18206,1,pesos oro,1924,paraguay,checoeslovaquia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,8701,1,pesos oro,1924,paraguay,cuba,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3610,1,pesos oro,1924,paraguay,chile,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1016,1,pesos oro,1924,paraguay,china,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3664,1,pesos oro,1924,paraguay,dinamarca,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,212267,1,pesos oro,1924,paraguay,espana,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1306164,1,pesos oro,1924,paraguay,us,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,331764,1,pesos oro,1924,paraguay,francia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,123349,1,pesos oro,1924,paraguay,hollanda,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,320,1,pesos oro,1924,paraguay,hungria,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,66545,1,pesos oro,1924,paraguay,india,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1802314,1,pesos oro,1924,paraguay,inglaterra,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,579651,1,pesos oro,1924,paraguay,italia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,140231,1,pesos oro,1924,paraguay,japon,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,804,1,pesos oro,1924,paraguay,java,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,13490,1,pesos oro,1924,paraguay,mexico,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,10729,1,pesos oro,1924,paraguay,noruega,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1390,1,pesos oro,1924,paraguay,polonia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,3485,1,pesos oro,1924,paraguay,portugal,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,51,1,pesos oro,1924,paraguay,russia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,12051,1,pesos oro,1924,paraguay,suecia,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,27797,1,pesos oro,1924,paraguay,suiza,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,165,1,pesos oro,1924,paraguay,sumatra,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,187311,1,pesos oro,1924,paraguay,uruguay,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,21,1,pesos oro,1924,paraguay,venezuela,imp,,,,,,,Valor de tarifa
+GowaJRHicks20132017,1273568,1,peso oro sellado,1926,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4099461,1,peso oro sellado,1926,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,56,1,peso oro sellado,1926,paraguay,australia,imp,,,,,,,Valor real
+GowaJRHicks20132017,12778,1,peso oro sellado,1926,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,91,1,peso oro sellado,1926,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,271889,1,peso oro sellado,1926,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,100737,1,peso oro sellado,1926,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,64479,1,peso oro sellado,1926,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,370,1,peso oro sellado,1926,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,103269,1,peso oro sellado,1926,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,8217,1,peso oro sellado,1926,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,396,1,peso oro sellado,1926,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,1591,1,peso oro sellado,1926,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,11104,1,peso oro sellado,1926,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,297,1,peso oro sellado,1926,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,540870,1,peso oro sellado,1926,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,1938409,1,peso oro sellado,1926,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,3226,1,peso oro sellado,1926,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,499007,1,peso oro sellado,1926,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,269,1,peso oro sellado,1926,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,149607,1,peso oro sellado,1926,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,54,1,peso oro sellado,1926,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,57971,1,peso oro sellado,1926,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,1688521,1,peso oro sellado,1926,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,96,1,peso oro sellado,1926,paraguay,irak,imp,,,,,,,Valor real
+GowaJRHicks20132017,801104,1,peso oro sellado,1926,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,242073,1,peso oro sellado,1926,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,1105,1,peso oro sellado,1926,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,268,1,peso oro sellado,1926,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,9791,1,peso oro sellado,1926,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,19435,1,peso oro sellado,1926,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,723,1,peso oro sellado,1926,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1540,1,peso oro sellado,1926,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1906,1,peso oro sellado,1926,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,6422,1,peso oro sellado,1926,paraguay,rumania,imp,,,,,,,Valor real
+GowaJRHicks20132017,920,1,peso oro sellado,1926,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,20,1,peso oro sellado,1926,paraguay,siberia,imp,,,,,,,Valor real
+GowaJRHicks20132017,25038,1,peso oro sellado,1926,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,65644,1,peso oro sellado,1926,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,201899,1,peso oro sellado,1926,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,989,1,peso oro sellado,1926,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1146757,1,peso oro sellado,1927,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4009115,1,peso oro sellado,1927,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,1376,1,peso oro sellado,1927,paraguay,australia,imp,,,,,,,Valor real
+GowaJRHicks20132017,16005,1,peso oro sellado,1927,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,105,1,peso oro sellado,1927,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,247949,1,peso oro sellado,1927,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,184589,1,peso oro sellado,1927,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,91925,1,peso oro sellado,1927,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,2848,1,peso oro sellado,1927,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,52850,1,peso oro sellado,1927,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,9678,1,peso oro sellado,1927,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,10694,1,peso oro sellado,1927,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,196,1,peso oro sellado,1927,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,8816,1,peso oro sellado,1927,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,362,1,peso oro sellado,1927,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,835271,1,peso oro sellado,1927,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,2223906,1,peso oro sellado,1927,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,13513,1,peso oro sellado,1927,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,502967,1,peso oro sellado,1927,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,195,1,peso oro sellado,1927,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,113128,1,peso oro sellado,1927,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,419,1,peso oro sellado,1927,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,79489,1,peso oro sellado,1927,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,1314461,1,peso oro sellado,1927,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,649147,1,peso oro sellado,1927,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,256944,1,peso oro sellado,1927,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,906,1,peso oro sellado,1927,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,1925,1,peso oro sellado,1927,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,47,1,peso oro sellado,1927,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,146,1,peso oro sellado,1927,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,22921,1,peso oro sellado,1927,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,1542,1,peso oro sellado,1927,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,30,1,peso oro sellado,1927,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,2936,1,peso oro sellado,1927,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,784,1,peso oro sellado,1927,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,4,1,peso oro sellado,1927,paraguay,rumania,imp,,,,,,,Valor real
+GowaJRHicks20132017,281,1,peso oro sellado,1927,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,90,1,peso oro sellado,1927,paraguay,siberia,imp,,,,,,,Valor real
+GowaJRHicks20132017,58343,1,peso oro sellado,1927,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,35770,1,peso oro sellado,1927,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,81,1,peso oro sellado,1927,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,77813,1,peso oro sellado,1927,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,1442,1,peso oro sellado,1927,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1446773,1,peso oro sellado,1928,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,5514989,1,peso oro sellado,1928,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,1157,1,peso oro sellado,1928,paraguay,australia,imp,,,,,,,Valor real
+GowaJRHicks20132017,46940,1,peso oro sellado,1928,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,195,1,peso oro sellado,1928,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,125,1,peso oro sellado,1928,paraguay,argelia,imp,,,,,,,Valor real
+GowaJRHicks20132017,336225,1,peso oro sellado,1928,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,195,1,peso oro sellado,1928,paraguay,bermudas,imp,,,,,,,Valor real
+GowaJRHicks20132017,83,1,peso oro sellado,1928,paraguay,bolivia,imp,,,,,,,Valor real
+GowaJRHicks20132017,106635,1,peso oro sellado,1928,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,129147,1,peso oro sellado,1928,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,6527,1,peso oro sellado,1928,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,31,1,peso oro sellado,1928,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,70387,1,peso oro sellado,1928,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,12576,1,peso oro sellado,1928,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,26161,1,peso oro sellado,1928,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,1370,1,peso oro sellado,1928,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,8471,1,peso oro sellado,1928,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,971,1,peso oro sellado,1928,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,607267,1,peso oro sellado,1928,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,2291358,1,peso oro sellado,1928,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,2779,1,peso oro sellado,1928,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,465755,1,peso oro sellado,1928,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,219,1,peso oro sellado,1928,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,152717,1,peso oro sellado,1928,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,399,1,peso oro sellado,1928,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,83955,1,peso oro sellado,1928,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,1629480,1,peso oro sellado,1928,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,784907,1,peso oro sellado,1928,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,339,1,peso oro sellado,1928,paraguay,jamaica,imp,,,,,,,Valor real
+GowaJRHicks20132017,308597,1,peso oro sellado,1928,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,1375,1,peso oro sellado,1928,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,559,1,peso oro sellado,1928,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,793,1,peso oro sellado,1928,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,11,1,peso oro sellado,1928,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,9934,1,peso oro sellado,1928,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,1821,1,peso oro sellado,1928,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,6142,1,peso oro sellado,1928,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1117,1,peso oro sellado,1928,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,1507,1,peso oro sellado,1928,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,37885,1,peso oro sellado,1928,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,50661,1,peso oro sellado,1928,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,410,1,peso oro sellado,1928,paraguay,sumatra,imp,,,,,,,Valor real
+GowaJRHicks20132017,142,1,peso oro sellado,1928,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,156032,1,peso oro sellado,1928,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,1307512,1,peso oro sellado,1929,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4851736,1,peso oro sellado,1929,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,334213,1,peso oro sellado,1929,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,147554,1,peso oro sellado,1929,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,66701,1,peso oro sellado,1929,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,9876,1,peso oro sellado,1929,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,35246,1,peso oro sellado,1929,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,45007,1,peso oro sellado,1929,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,492590,1,peso oro sellado,1929,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,2592827,1,peso oro sellado,1929,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,722642,1,peso oro sellado,1929,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,111101,1,peso oro sellado,1929,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,1682931,1,peso oro sellado,1929,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,710579,1,peso oro sellado,1929,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,297982,1,peso oro sellado,1929,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,995,1,peso oro sellado,1929,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,80234,1,peso oro sellado,1929,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,68214,1,peso oro sellado,1929,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,175300,1,peso oro sellado,1929,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,116855,1,peso oro sellado,1929,paraguay,varios,imp,,,,,,,Valor real
+GowaJRHicks20132017,1359642,1,peso oro sellado,1930,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4360267,1,peso oro sellado,1930,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,1971,1,peso oro sellado,1930,paraguay,australia,imp,,,,,,,Valor real
+GowaJRHicks20132017,69697,1,peso oro sellado,1930,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,44,1,peso oro sellado,1930,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,848672,1,peso oro sellado,1930,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,16,1,peso oro sellado,1930,paraguay,bolivia,imp,,,,,,,Valor real
+GowaJRHicks20132017,166149,1,peso oro sellado,1930,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,110482,1,peso oro sellado,1930,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,144249,1,peso oro sellado,1930,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,5,1,peso oro sellado,1930,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,91738,1,peso oro sellado,1930,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,8905,1,peso oro sellado,1930,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,23687,1,peso oro sellado,1930,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,7554,1,peso oro sellado,1930,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,7147,1,peso oro sellado,1930,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,2258,1,peso oro sellado,1930,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,653981,1,peso oro sellado,1930,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,2410294,1,peso oro sellado,1930,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,26893,1,peso oro sellado,1930,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,862984,1,peso oro sellado,1930,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,38,1,peso oro sellado,1930,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,160468,1,peso oro sellado,1930,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,919,1,peso oro sellado,1930,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,88758,1,peso oro sellado,1930,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,2070149,1,peso oro sellado,1930,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,818396,1,peso oro sellado,1930,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,445730,1,peso oro sellado,1930,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,1331,1,peso oro sellado,1930,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,4271,1,peso oro sellado,1930,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,2475,1,peso oro sellado,1930,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,63265,1,peso oro sellado,1930,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,9565,1,peso oro sellado,1930,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,84,1,peso oro sellado,1930,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,120,1,peso oro sellado,1930,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,422,1,peso oro sellado,1930,paraguay,panama,imp,,,,,,,Valor real
+GowaJRHicks20132017,523,1,peso oro sellado,1930,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,8606,1,peso oro sellado,1930,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,939,1,peso oro sellado,1930,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,42244,1,peso oro sellado,1930,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,5,1,peso oro sellado,1930,paraguay,siria,imp,,,,,,,Valor real
+GowaJRHicks20132017,90697,1,peso oro sellado,1930,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,70146,1,peso oro sellado,1930,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,14,1,peso oro sellado,1930,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,233271,1,peso oro sellado,1930,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,3,1,peso oro sellado,1930,paraguay,venezuela,imp,,,,,,,Valor real
+GowaJRHicks20132017,10,1,peso oro sellado,1930,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,275,1,peso oro sellado,1930,paraguay,varios,imp,,,,,,,Valor real
+GowaJRHicks20132017,257,1,peso oro sellado,1931,paraguay,arabia,imp,,,,,,,Valor real
+GowaJRHicks20132017,994225,1,peso oro sellado,1931,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,22968,1,peso oro sellado,1931,paraguay,antilla holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,2956693,1,peso oro sellado,1931,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,30170,1,peso oro sellado,1931,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,201,1,peso oro sellado,1931,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,449379,1,peso oro sellado,1931,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,78184,1,peso oro sellado,1931,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,67341,1,peso oro sellado,1931,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,5419,1,peso oro sellado,1931,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,5,1,peso oro sellado,1931,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,49955,1,peso oro sellado,1931,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,3001,1,peso oro sellado,1931,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,6118,1,peso oro sellado,1931,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,2890,1,peso oro sellado,1931,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,6175,1,peso oro sellado,1931,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,5,1,peso oro sellado,1931,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,567165,1,peso oro sellado,1931,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,1628069,1,peso oro sellado,1931,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,22068,1,peso oro sellado,1931,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,385264,1,peso oro sellado,1931,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,10,1,peso oro sellado,1931,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,124398,1,peso oro sellado,1931,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,2101,1,peso oro sellado,1931,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,142237,1,peso oro sellado,1931,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,1148,1,peso oro sellado,1931,paraguay,india holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,1244163,1,peso oro sellado,1931,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,607823,1,peso oro sellado,1931,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,355857,1,peso oro sellado,1931,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,34,1,peso oro sellado,1931,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,2453,1,peso oro sellado,1931,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,1611,1,peso oro sellado,1931,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,68314,1,peso oro sellado,1931,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,9752,1,peso oro sellado,1931,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,57,1,peso oro sellado,1931,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,65,1,peso oro sellado,1931,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,191,1,peso oro sellado,1931,paraguay,panama,imp,,,,,,,Valor real
+GowaJRHicks20132017,901,1,peso oro sellado,1931,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,1404,1,peso oro sellado,1931,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2248,1,peso oro sellado,1931,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,22929,1,peso oro sellado,1931,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,46,1,peso oro sellado,1931,paraguay,siberia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1931,paraguay,siria,imp,,,,,,,Valor real
+GowaJRHicks20132017,81126,1,peso oro sellado,1931,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,67909,1,peso oro sellado,1931,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,20,1,peso oro sellado,1931,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,67166,1,peso oro sellado,1931,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1931,paraguay,venezuela,imp,,,,,,,Valor real
+GowaJRHicks20132017,1213,1,peso oro sellado,1931,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,512031,1,peso oro sellado,1932,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,25257,1,peso oro sellado,1932,paraguay,antilla holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,2487291,1,peso oro sellado,1932,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1932,paraguay,australia,imp,,,,,,,Valor real
+GowaJRHicks20132017,22958,1,peso oro sellado,1932,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,169162,1,peso oro sellado,1932,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,72507,1,peso oro sellado,1932,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,9825,1,peso oro sellado,1932,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,8690,1,peso oro sellado,1932,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,6,1,peso oro sellado,1932,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,46386,1,peso oro sellado,1932,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,6544,1,peso oro sellado,1932,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,3671,1,peso oro sellado,1932,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,1101,1,peso oro sellado,1932,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,10811,1,peso oro sellado,1932,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,266,1,peso oro sellado,1932,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,1,1,peso oro sellado,1932,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,363757,1,peso oro sellado,1932,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,823343,1,peso oro sellado,1932,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,6990,1,peso oro sellado,1932,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,214472,1,peso oro sellado,1932,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,10,1,peso oro sellado,1932,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,65922,1,peso oro sellado,1932,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,665,1,peso oro sellado,1932,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,68722,1,peso oro sellado,1932,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,1598,1,peso oro sellado,1932,paraguay,india holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,766231,1,peso oro sellado,1932,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,323040,1,peso oro sellado,1932,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,216629,1,peso oro sellado,1932,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,1306,1,peso oro sellado,1932,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,1689,1,peso oro sellado,1932,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,41224,1,peso oro sellado,1932,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,6731,1,peso oro sellado,1932,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,16,1,peso oro sellado,1932,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,8,1,peso oro sellado,1932,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,6604,1,peso oro sellado,1932,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,176,1,peso oro sellado,1932,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1324,1,peso oro sellado,1932,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,20153,1,peso oro sellado,1932,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,22981,1,peso oro sellado,1932,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,29826,1,peso oro sellado,1932,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,49840,1,peso oro sellado,1932,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1932,paraguay,venezuela,imp,,,,,,,Valor real
+GowaJRHicks20132017,2373,1,peso oro sellado,1932,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,5505,1,peso oro sellado,1932,paraguay,varios,imp,,,,,,,Valor real
+GowaJRHicks20132017,271042,1,peso oro sellado,1933,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4391095,1,peso oro sellado,1933,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,10779,1,peso oro sellado,1933,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,806,1,peso oro sellado,1933,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,135,1,peso oro sellado,1933,paraguay,albania,imp,,,,,,,Valor real
+GowaJRHicks20132017,112661,1,peso oro sellado,1933,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,65221,1,peso oro sellado,1933,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,2142,1,peso oro sellado,1933,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,4343,1,peso oro sellado,1933,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,9160,1,peso oro sellado,1933,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2078,1,peso oro sellado,1933,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,1199,1,peso oro sellado,1933,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,1405,1,peso oro sellado,1933,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,1537,1,peso oro sellado,1933,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,65,1,peso oro sellado,1933,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,442,1,peso oro sellado,1933,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,275297,1,peso oro sellado,1933,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,377366,1,peso oro sellado,1933,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,3011,1,peso oro sellado,1933,paraguay,estonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1346,1,peso oro sellado,1933,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,110115,1,peso oro sellado,1933,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1707,1,peso oro sellado,1933,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,44424,1,peso oro sellado,1933,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,416,1,peso oro sellado,1933,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,99627,1,peso oro sellado,1933,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,651345,1,peso oro sellado,1933,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,208373,1,peso oro sellado,1933,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,361538,1,peso oro sellado,1933,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,1668,1,peso oro sellado,1933,paraguay,madagascar,imp,,,,,,,Valor real
+GowaJRHicks20132017,1722,1,peso oro sellado,1933,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,7300,1,peso oro sellado,1933,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,7427,1,peso oro sellado,1933,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,38,1,peso oro sellado,1933,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2222,1,peso oro sellado,1933,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1933,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,432,1,peso oro sellado,1933,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,420,1,peso oro sellado,1933,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,39166,1,peso oro sellado,1933,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,10,1,peso oro sellado,1933,paraguay,siam,imp,,,,,,,Valor real
+GowaJRHicks20132017,31,1,peso oro sellado,1933,paraguay,sudan,imp,,,,,,,Valor real
+GowaJRHicks20132017,27621,1,peso oro sellado,1933,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,13459,1,peso oro sellado,1933,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,384,1,peso oro sellado,1933,paraguay,sumatra,imp,,,,,,,Valor real
+GowaJRHicks20132017,1584,1,peso oro sellado,1933,paraguay,tahiti,imp,,,,,,,Valor real
+GowaJRHicks20132017,39,1,peso oro sellado,1933,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,47398,1,peso oro sellado,1933,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,13,1,peso oro sellado,1933,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,80,1,peso oro sellado,1933,paraguay,zanzibar,imp,,,,,,,Valor real
+GowaJRHicks20132017,466284,1,peso oro sellado,1934,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,6695625,1,peso oro sellado,1934,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,20,1,peso oro sellado,1934,paraguay,australia,imp,,,,,,,Valor real
+GowaJRHicks20132017,13083,1,peso oro sellado,1934,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,125195,1,peso oro sellado,1934,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,211914,1,peso oro sellado,1934,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,458,1,peso oro sellado,1934,paraguay,bulgaria,imp,,,,,,,Valor real
+GowaJRHicks20132017,4517,1,peso oro sellado,1934,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,1539,1,peso oro sellado,1934,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,90794,1,peso oro sellado,1934,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,17628,1,peso oro sellado,1934,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,748,1,peso oro sellado,1934,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,4751,1,peso oro sellado,1934,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,1894,1,peso oro sellado,1934,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,6962,1,peso oro sellado,1934,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,741,1,peso oro sellado,1934,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,5,1,peso oro sellado,1934,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,270077,1,peso oro sellado,1934,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,396478,1,peso oro sellado,1934,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,8316,1,peso oro sellado,1934,paraguay,estonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,79,1,peso oro sellado,1934,paraguay,filipinas,imp,,,,,,,Valor real
+GowaJRHicks20132017,10029,1,peso oro sellado,1934,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,161638,1,peso oro sellado,1934,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,10418,1,peso oro sellado,1934,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,53944,1,peso oro sellado,1934,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,538,1,peso oro sellado,1934,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,147563,1,peso oro sellado,1934,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,1141964,1,peso oro sellado,1934,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,207648,1,peso oro sellado,1934,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,677478,1,peso oro sellado,1934,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,1971,1,peso oro sellado,1934,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,5002,1,peso oro sellado,1934,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,775,1,peso oro sellado,1934,paraguay,madagascar,imp,,,,,,,Valor real
+GowaJRHicks20132017,227,1,peso oro sellado,1934,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,164,1,peso oro sellado,1934,paraguay,malta,imp,,,,,,,Valor real
+GowaJRHicks20132017,210,1,peso oro sellado,1934,paraguay,marruecos,imp,,,,,,,Valor real
+GowaJRHicks20132017,20066,1,peso oro sellado,1934,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,144415,1,peso oro sellado,1934,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,2291,1,peso oro sellado,1934,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1058,1,peso oro sellado,1934,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,58259,1,peso oro sellado,1934,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1934,paraguay,siam,imp,,,,,,,Valor real
+GowaJRHicks20132017,373,1,peso oro sellado,1934,paraguay,sudan,imp,,,,,,,Valor real
+GowaJRHicks20132017,41977,1,peso oro sellado,1934,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,12497,1,peso oro sellado,1934,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,7232,1,peso oro sellado,1934,paraguay,tahiti,imp,,,,,,,Valor real
+GowaJRHicks20132017,128,1,peso oro sellado,1934,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,314446,1,peso oro sellado,1934,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,1227,1,peso oro sellado,1934,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,26,1,peso oro sellado,1934,paraguay,zanzibar,imp,,,,,,,Valor real
+GowaJRHicks20132017,571202,1,peso oro sellado,1935,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,5867848,1,peso oro sellado,1935,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,50990,1,peso oro sellado,1935,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,141636,1,peso oro sellado,1935,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,221858,1,peso oro sellado,1935,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,14124,1,peso oro sellado,1935,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,1882,1,peso oro sellado,1935,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,53,1,peso oro sellado,1935,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,37379,1,peso oro sellado,1935,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,3828,1,peso oro sellado,1935,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,11349,1,peso oro sellado,1935,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,539,1,peso oro sellado,1935,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,9599,1,peso oro sellado,1935,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,8848,1,peso oro sellado,1935,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,1027,1,peso oro sellado,1935,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,116835,1,peso oro sellado,1935,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,888601,1,peso oro sellado,1935,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,9676,1,peso oro sellado,1935,paraguay,estonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,18221,1,peso oro sellado,1935,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,193855,1,peso oro sellado,1935,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,7949,1,peso oro sellado,1935,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,968,1,peso oro sellado,1935,paraguay,haiti,imp,,,,,,,Valor real
+GowaJRHicks20132017,39088,1,peso oro sellado,1935,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,979,1,peso oro sellado,1935,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,118832,1,peso oro sellado,1935,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,905505,1,peso oro sellado,1935,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,183781,1,peso oro sellado,1935,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1690205,1,peso oro sellado,1935,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,786,1,peso oro sellado,1935,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,619,1,peso oro sellado,1935,paraguay,latvia,imp,,,,,,,Valor real
+GowaJRHicks20132017,4236,1,peso oro sellado,1935,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,1414,1,peso oro sellado,1935,paraguay,madagascar,imp,,,,,,,Valor real
+GowaJRHicks20132017,709,1,peso oro sellado,1935,paraguay,malaca,imp,,,,,,,Valor real
+GowaJRHicks20132017,115,1,peso oro sellado,1935,paraguay,marruecos,imp,,,,,,,Valor real
+GowaJRHicks20132017,7275,1,peso oro sellado,1935,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,24932,1,peso oro sellado,1935,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,3,1,peso oro sellado,1935,paraguay,nueva zelandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,10,1,peso oro sellado,1935,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,70,1,peso oro sellado,1935,paraguay,panama,imp,,,,,,,Valor real
+GowaJRHicks20132017,198227,1,peso oro sellado,1935,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,10859,1,peso oro sellado,1935,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,248,1,peso oro sellado,1935,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,66371,1,peso oro sellado,1935,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,20,1,peso oro sellado,1935,paraguay,siberia,imp,,,,,,,Valor real
+GowaJRHicks20132017,534,1,peso oro sellado,1935,paraguay,sudan,imp,,,,,,,Valor real
+GowaJRHicks20132017,59919,1,peso oro sellado,1935,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,41968,1,peso oro sellado,1935,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,13558,1,peso oro sellado,1935,paraguay,tahiti,imp,,,,,,,Valor real
+GowaJRHicks20132017,158,1,peso oro sellado,1935,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,79986,1,peso oro sellado,1935,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,1601,1,peso oro sellado,1935,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,115,1,peso oro sellado,1935,paraguay,zanzibar,imp,,,,,,,Valor real
+GowaJRHicks20132017,1357924,1,peso oro sellado,1936,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4082160,1,peso oro sellado,1936,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,27403,1,peso oro sellado,1936,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,1,1,peso oro sellado,1936,paraguay,africa,imp,,,,,,,Valor real
+GowaJRHicks20132017,231819,1,peso oro sellado,1936,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1936,paraguay,bolivia,imp,,,,,,,Valor real
+GowaJRHicks20132017,125904,1,peso oro sellado,1936,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,7563,1,peso oro sellado,1936,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,930,1,peso oro sellado,1936,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,1522,1,peso oro sellado,1936,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,78828,1,peso oro sellado,1936,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2008,1,peso oro sellado,1936,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,13271,1,peso oro sellado,1936,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,588,1,peso oro sellado,1936,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,10813,1,peso oro sellado,1936,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,13993,1,peso oro sellado,1936,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,74314,1,peso oro sellado,1936,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,558299,1,peso oro sellado,1936,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,5098,1,peso oro sellado,1936,paraguay,estonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,17255,1,peso oro sellado,1936,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,135817,1,peso oro sellado,1936,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,5239,1,peso oro sellado,1936,paraguay,guatemala,imp,,,,,,,Valor real
+GowaJRHicks20132017,3379,1,peso oro sellado,1936,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,38576,1,peso oro sellado,1936,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,2600,1,peso oro sellado,1936,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,63811,1,peso oro sellado,1936,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,4934,1,peso oro sellado,1936,paraguay,india holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,939727,1,peso oro sellado,1936,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,202662,1,peso oro sellado,1936,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1361023,1,peso oro sellado,1936,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,2862,1,peso oro sellado,1936,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,1,1,peso oro sellado,1936,paraguay,lituania,imp,,,,,,,Valor real
+GowaJRHicks20132017,12306,1,peso oro sellado,1936,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,12722,1,peso oro sellado,1936,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,18861,1,peso oro sellado,1936,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,2,1,peso oro sellado,1936,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,84,1,peso oro sellado,1936,paraguay,panama,imp,,,,,,,Valor real
+GowaJRHicks20132017,110276,1,peso oro sellado,1936,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,28,1,peso oro sellado,1936,paraguay,persia,imp,,,,,,,Valor real
+GowaJRHicks20132017,8160,1,peso oro sellado,1936,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,2822,1,peso oro sellado,1936,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,124,1,peso oro sellado,1936,paraguay,rumania,imp,,,,,,,Valor real
+GowaJRHicks20132017,27544,1,peso oro sellado,1936,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,20,1,peso oro sellado,1936,paraguay,siam,imp,,,,,,,Valor real
+GowaJRHicks20132017,51430,1,peso oro sellado,1936,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,61356,1,peso oro sellado,1936,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,1021,1,peso oro sellado,1936,paraguay,tahiti,imp,,,,,,,Valor real
+GowaJRHicks20132017,77,1,peso oro sellado,1936,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,128329,1,peso oro sellado,1936,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,8173,1,peso oro sellado,1936,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,8,1,peso oro sellado,1936,paraguay,zanzibar,imp,,,,,,,Valor real
+GowaJRHicks20132017,1741759,1,peso oro sellado,1937,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,4925731,1,peso oro sellado,1937,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,18936,1,peso oro sellado,1937,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,288768,1,peso oro sellado,1937,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,157451,1,peso oro sellado,1937,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,238,1,peso oro sellado,1937,paraguay,bulgaria,imp,,,,,,,Valor real
+GowaJRHicks20132017,12469,1,peso oro sellado,1937,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,1068,1,peso oro sellado,1937,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,3084,1,peso oro sellado,1937,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,75893,1,peso oro sellado,1937,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,920,1,peso oro sellado,1937,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,11052,1,peso oro sellado,1937,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,3112,1,peso oro sellado,1937,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,11098,1,peso oro sellado,1937,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,28900,1,peso oro sellado,1937,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,3,1,peso oro sellado,1937,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,42014,1,peso oro sellado,1937,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,942623,1,peso oro sellado,1937,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,2461,1,peso oro sellado,1937,paraguay,estonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,17648,1,peso oro sellado,1937,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,144087,1,peso oro sellado,1937,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,66250,1,peso oro sellado,1937,paraguay,guatemala,imp,,,,,,,Valor real
+GowaJRHicks20132017,9113,1,peso oro sellado,1937,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,80505,1,peso oro sellado,1937,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,214,1,peso oro sellado,1937,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,80743,1,peso oro sellado,1937,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,138936,1,peso oro sellado,1937,paraguay,india holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,1107145,1,peso oro sellado,1937,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,26,1,peso oro sellado,1937,paraguay,irak,imp,,,,,,,Valor real
+GowaJRHicks20132017,311921,1,peso oro sellado,1937,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1702700,1,peso oro sellado,1937,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,2781,1,peso oro sellado,1937,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,1436,1,peso oro sellado,1937,paraguay,latvia,imp,,,,,,,Valor real
+GowaJRHicks20132017,4805,1,peso oro sellado,1937,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,43,1,peso oro sellado,1937,paraguay,madagascar,imp,,,,,,,Valor real
+GowaJRHicks20132017,15493,1,peso oro sellado,1937,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,34527,1,peso oro sellado,1937,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,4,1,peso oro sellado,1937,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,106729,1,peso oro sellado,1937,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,5698,1,peso oro sellado,1937,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,11414,1,peso oro sellado,1937,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,1639,1,peso oro sellado,1937,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,16,1,peso oro sellado,1937,paraguay,siam,imp,,,,,,,Valor real
+GowaJRHicks20132017,19,1,peso oro sellado,1937,paraguay,siberia,imp,,,,,,,Valor real
+GowaJRHicks20132017,31,1,peso oro sellado,1937,paraguay,sudan,imp,,,,,,,Valor real
+GowaJRHicks20132017,62042,1,peso oro sellado,1937,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,56428,1,peso oro sellado,1937,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,313,1,peso oro sellado,1937,paraguay,sumatra,imp,,,,,,,Valor real
+GowaJRHicks20132017,8594,1,peso oro sellado,1937,paraguay,tahiti,imp,,,,,,,Valor real
+GowaJRHicks20132017,279,1,peso oro sellado,1937,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,49,1,peso oro sellado,1937,paraguay,union sud africana,imp,,,,,,,Valor real
+GowaJRHicks20132017,159568,1,peso oro sellado,1937,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,2330,1,peso oro sellado,1937,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,134,1,peso oro sellado,1937,paraguay,zanzibar,imp,,,,,,,Valor real
+GowaJRHicks20132017,1496251,1,peso oro sellado,1938,paraguay,alemania,imp,,,,,,,Valor real
+GowaJRHicks20132017,1775,1,peso oro sellado,1938,paraguay,antilla holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,4999882,1,peso oro sellado,1938,paraguay,argentina,imp,,,,,,,Valor real
+GowaJRHicks20132017,8202,1,peso oro sellado,1938,paraguay,austria,imp,,,,,,,Valor real
+GowaJRHicks20132017,296628,1,peso oro sellado,1938,paraguay,belgica,imp,,,,,,,Valor real
+GowaJRHicks20132017,137159,1,peso oro sellado,1938,paraguay,brasil,imp,,,,,,,Valor real
+GowaJRHicks20132017,341,1,peso oro sellado,1938,paraguay,bulgaria,imp,,,,,,,Valor real
+GowaJRHicks20132017,5511,1,peso oro sellado,1938,paraguay,canada,imp,,,,,,,Valor real
+GowaJRHicks20132017,2340,1,peso oro sellado,1938,paraguay,ceilan,imp,,,,,,,Valor real
+GowaJRHicks20132017,13,1,peso oro sellado,1938,paraguay,colombia,imp,,,,,,,Valor real
+GowaJRHicks20132017,114451,1,peso oro sellado,1938,paraguay,checoeslovaquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1079,1,peso oro sellado,1938,paraguay,cuba,imp,,,,,,,Valor real
+GowaJRHicks20132017,8339,1,peso oro sellado,1938,paraguay,chile,imp,,,,,,,Valor real
+GowaJRHicks20132017,3780,1,peso oro sellado,1938,paraguay,china,imp,,,,,,,Valor real
+GowaJRHicks20132017,16237,1,peso oro sellado,1938,paraguay,dinamarca,imp,,,,,,,Valor real
+GowaJRHicks20132017,23800,1,peso oro sellado,1938,paraguay,ecuador,imp,,,,,,,Valor real
+GowaJRHicks20132017,12,1,peso oro sellado,1938,paraguay,egipto,imp,,,,,,,Valor real
+GowaJRHicks20132017,14873,1,peso oro sellado,1938,paraguay,espana,imp,,,,,,,Valor real
+GowaJRHicks20132017,1252002,1,peso oro sellado,1938,paraguay,us,imp,,,,,,,Valor real
+GowaJRHicks20132017,10130,1,peso oro sellado,1938,paraguay,estonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,27732,1,peso oro sellado,1938,paraguay,finlandia,imp,,,,,,,Valor real
+GowaJRHicks20132017,205551,1,peso oro sellado,1938,paraguay,francia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1072,1,peso oro sellado,1938,paraguay,grecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,90053,1,peso oro sellado,1938,paraguay,hollanda,imp,,,,,,,Valor real
+GowaJRHicks20132017,8200,1,peso oro sellado,1938,paraguay,hungria,imp,,,,,,,Valor real
+GowaJRHicks20132017,60989,1,peso oro sellado,1938,paraguay,india,imp,,,,,,,Valor real
+GowaJRHicks20132017,7467,1,peso oro sellado,1938,paraguay,india holandesa,imp,,,,,,,Valor real
+GowaJRHicks20132017,1259692,1,peso oro sellado,1938,paraguay,inglaterra,imp,,,,,,,Valor real
+GowaJRHicks20132017,329953,1,peso oro sellado,1938,paraguay,italia,imp,,,,,,,Valor real
+GowaJRHicks20132017,1953529,1,peso oro sellado,1938,paraguay,japon,imp,,,,,,,Valor real
+GowaJRHicks20132017,49665,1,peso oro sellado,1938,paraguay,java,imp,,,,,,,Valor real
+GowaJRHicks20132017,12844,1,peso oro sellado,1938,paraguay,latvia,imp,,,,,,,Valor real
+GowaJRHicks20132017,18347,1,peso oro sellado,1938,paraguay,luxemburgo,imp,,,,,,,Valor real
+GowaJRHicks20132017,4932,1,peso oro sellado,1938,paraguay,mexico,imp,,,,,,,Valor real
+GowaJRHicks20132017,32603,1,peso oro sellado,1938,paraguay,noruega,imp,,,,,,,Valor real
+GowaJRHicks20132017,7,1,peso oro sellado,1938,paraguay,palestina,imp,,,,,,,Valor real
+GowaJRHicks20132017,13595,1,peso oro sellado,1938,paraguay,peru,imp,,,,,,,Valor real
+GowaJRHicks20132017,1097,1,peso oro sellado,1938,paraguay,polonia,imp,,,,,,,Valor real
+GowaJRHicks20132017,22532,1,peso oro sellado,1938,paraguay,portugal,imp,,,,,,,Valor real
+GowaJRHicks20132017,6,1,peso oro sellado,1938,paraguay,rumania,imp,,,,,,,Valor real
+GowaJRHicks20132017,1071,1,peso oro sellado,1938,paraguay,russia,imp,,,,,,,Valor real
+GowaJRHicks20132017,18,1,peso oro sellado,1938,paraguay,siam,imp,,,,,,,Valor real
+GowaJRHicks20132017,7,1,peso oro sellado,1938,paraguay,siria,imp,,,,,,,Valor real
+GowaJRHicks20132017,58,1,peso oro sellado,1938,paraguay,sudan,imp,,,,,,,Valor real
+GowaJRHicks20132017,100850,1,peso oro sellado,1938,paraguay,suecia,imp,,,,,,,Valor real
+GowaJRHicks20132017,149461,1,peso oro sellado,1938,paraguay,suiza,imp,,,,,,,Valor real
+GowaJRHicks20132017,1154,1,peso oro sellado,1938,paraguay,sumatra,imp,,,,,,,Valor real
+GowaJRHicks20132017,183,1,peso oro sellado,1938,paraguay,turquia,imp,,,,,,,Valor real
+GowaJRHicks20132017,332505,1,peso oro sellado,1938,paraguay,uruguay,imp,,,,,,,Valor real
+GowaJRHicks20132017,3933,1,peso oro sellado,1938,paraguay,yugoeslavia,imp,,,,,,,Valor real
+GowaJRHicks20132017,190,1,peso oro sellado,1938,paraguay,zanzibar,imp,,,,,,,Valor real
+GowaJRHicks20132017,5016444,1,pesos oro,1921,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
+GowaJRHicks20132017,4340351,1,pesos oro,1922,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
+GowaJRHicks20132017,6593241,1,pesos oro,1923,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
+GowaJRHicks20132017,9511765,1,peso oro sellado,1924,paraguay,total,imp,,,,,,total_reporting,Valor de tarifa
+GowaJRHicks20132017,12205280,1,peso oro sellado,1926,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,11977766,1,peso oro sellado,1927,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,14305119,1,peso oro sellado,1928,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,13850095,1,peso oro sellado,1929,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,15139359,1,peso oro sellado,1930,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,10080732,1,peso oro sellado,1931,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,6417646,1,peso oro sellado,1932,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,7159691,1,peso oro sellado,1933,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,11340774,1,peso oro sellado,1934,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,11630390,1,peso oro sellado,1935,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,9813669,1,peso oro sellado,1936,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,12401240,1,peso oro sellado,1937,paraguay,total,imp,,,,,,total_reporting,Valor real
+GowaJRHicks20132017,13082101,1,peso oro sellado,1938,paraguay,total,imp,,,,,,total_reporting,Valor real
