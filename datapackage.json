@@ -2551,7 +2551,13 @@
         "data/flows/CommerceExtrieurDeLaRoumanie_1902.csv",
         "data/flows/CommerceExtrieurDeLaRoumanie_1901.csv",
         "data/flows/TablouGeneralIndicndComerciulRomanieiCuStateleStraine_1882.csv",
-        "data/flows/TablouGeneralIndicndComerciulRomanieiCuStateleStraine_1880.csv"
+        "data/flows/TablouGeneralIndicndComerciulRomanieiCuStateleStraine_1880.csv",
+        "data/flows/AnuarioEstadsticoDeElSalvador_1915.csv",
+        "data/flows/AnuarioEstadsticoDeElSalvador_1919.csv",
+        "data/flows/AnuarioEstadsticoDeElSalvador_1921.csv",
+        "data/flows/AnuarioEstadsticoDeElSalvador_1922.csv",
+        "data/flows/AnuarioEstadsticoDeElSalvador_1929.csv",
+        "data/flows/AnuarioEstadsticoDeElSalvador_1932.csv"
       ]
     }
   ]
