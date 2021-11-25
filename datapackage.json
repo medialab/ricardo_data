@@ -2558,7 +2558,16 @@
         "data/flows/AnuarioEstadsticoDeElSalvador_1922.csv",
         "data/flows/AnuarioEstadsticoDeElSalvador_1929.csv",
         "data/flows/AnuarioEstadsticoDeElSalvador_1932.csv",
-        "data/flows/BritishSouthAfricaAnnualStatement_1906.csv"
+        "data/flows/BritishSouthAfricaAnnualStatement_1906.csv",
+        "data/flows/CeylonBlueBook_1918.csv",
+        "data/flows/CeylonBlueBook_1919.csv",
+        "data/flows/CeylonBlueBook_1920.csv",
+        "data/flows/CeylonBlueBook_1921.csv",
+        "data/flows/CeylonBlueBook_1922.csv",
+        "data/flows/CeylonBlueBook_1923.csv",
+        "data/flows/CeylonBlueBook_1924.csv",
+        "data/flows/CeylonBlueBook_1925.csv",
+        "data/flows/CeylonBlueBook_1926.csv"
       ]
     }
   ]
