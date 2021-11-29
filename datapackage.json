@@ -2648,7 +2648,29 @@
         "data/flows/SverigesUtrikesHandelOchSjfart_1832.csv",
         "data/flows/SverigesUtrikesHandelOchSjfart_1831.csv",
         "data/flows/SverigesUtrikesHandelOchSjfart_1830.csv",
-        "data/flows/SverigesUtrikesHandelOchSjfart_1829.csv"
+        "data/flows/SverigesUtrikesHandelOchSjfart_1829.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1914.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1918.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1924.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1925.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1926.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1927.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1928.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1929.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1930.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1931.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1932.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1933.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1934.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1935.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1936.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1937.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1938.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1919.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1920.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1921.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1922.csv",
+        "data/flows/SverigesOfficiellaStatistikHandel_1923.csv"
       ]
     }
   ]
