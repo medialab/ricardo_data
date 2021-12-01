@@ -2735,7 +2735,9 @@
         "data/flows/AnnualReturnOfTheTradeOfTaiwanFormosa_1915.csv",
         "data/flows/AnnualReturnOfTheTradeOfTaiwanFormosa_1912.csv",
         "data/flows/AnnualReturnOfTheTradeOfTaiwanFormosa_1911.csv",
-        "data/flows/ReturnsOfTheForeignTradeOfTaiwanFormosa_18961910.csv"
+        "data/flows/ReturnsOfTheForeignTradeOfTaiwanFormosa_18961910.csv",
+        "data/flows/CommerceExtrieurDeLaRpubliqueTchcoslovaque_1924.csv",
+        "data/flows/CommerceExtrieurDeLaRpubliqueTchcoslovaque_1928.csv"
       ]
     }
   ]
