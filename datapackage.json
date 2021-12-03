@@ -2768,7 +2768,9 @@
         "data/flows/AnuarioEstadsticoDeLaRepblicaOrientalDelUruguay_1935.csv",
         "data/flows/AnuarioEstadsticoDeLaRepblicaOrientalDelUruguay_19411943.csv",
         "data/flows/EstadosUnidosDeVenezuelaEstadisticaMercantilYMaritima_Juldec1938.csv",
-        "data/flows/EstadisticaMercantilDeVenezuela_187374.csv"
+        "data/flows/EstadisticaMercantilDeVenezuela_187374.csv",
+        "data/flows/StatistiqueDuCommerceExtrieurDuRoyaumeDeSerbie_1911.csv",
+        "data/flows/StatistiqueDuCommerceExtrieurDuRoyaumeDeSerbie_1910.csv"
       ]
     }
   ]
