@@ -2770,7 +2770,13 @@
         "data/flows/EstadosUnidosDeVenezuelaEstadisticaMercantilYMaritima_Juldec1938.csv",
         "data/flows/EstadisticaMercantilDeVenezuela_187374.csv",
         "data/flows/StatistiqueDuCommerceExtrieurDuRoyaumeDeSerbie_1911.csv",
-        "data/flows/StatistiqueDuCommerceExtrieurDuRoyaumeDeSerbie_1910.csv"
+        "data/flows/StatistiqueDuCommerceExtrieurDuRoyaumeDeSerbie_1910.csv",
+        "data/flows/StatistiqueDuCommerceExterieurDuRoyaumeDeYougoslavie_1927.csv",
+        "data/flows/StatistiqueDuCommerceExterieurDuRoyaumeDeYougoslavie_1929.csv",
+        "data/flows/StatistiqueDuCommerceExterieurDuRoyaumeDeYougoslavie_1930.csv",
+        "data/flows/StatistiqueDuCommerceExterieurDuRoyaumeDeYougoslavie_1932.csv",
+        "data/flows/StatistiqueDuCommerceExterieurDuRoyaumeDeYougoslavie_1934.csv",
+        "data/flows/StatistiqueDuCommerceExterieurDuRoyaumeDeYougoslavie_1937.csv"
       ]
     }
   ]
