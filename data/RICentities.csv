@@ -1995,3 +1995,7 @@ French colonies (other) (French produce),city/part_of,World,,,French Colonies (o
 French Colonies (other) (Foreign produce),city/part_of,World,,,French Colonies (other)
 Central African Republic (Ubangi Shari) & Congo (Brazaville) (French Congo) (Middle Congo),group,Africa,,,
 Australia & Hong Kong & India & Myanmar (Burma) & Singapore,group,World,,,
+Central African Republic (Ubangi Shari),GPH_entity,Africa,482,,
+Chad,GPH_entity,Africa,483,,
+Central African Republic (Ubangi Shari) & Chad,group,Africa,,,
+French Europe (Foreign produce),colonial_area,Europe,,,

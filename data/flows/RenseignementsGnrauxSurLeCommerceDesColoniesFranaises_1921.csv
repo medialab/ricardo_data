@@ -1,0 +1,504 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,237789763,1,francs,1921,sénégal,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,12538914,1,francs,1921,soudan français,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,38933595,1,francs,1921,guinée française,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,43979526,1,francs,1921,côte d'ivoire,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,39255747,1,francs,1921,dahomey,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,11247953,1,francs,1921,togo (territoire à mandat),total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,22359894,1,francs,1921,gabon,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,18895051,1,francs,1921,"moyen-congo, oubangui-chari",total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,33581277,1,francs,1921,cameroun (territoire à mandat),total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,71269455,1,francs,1921,réunion,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,225921048,1,francs,1921,madagascar et dépendances,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,129618863,1,francs,1921,côte française des somalis,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,23583192,1,francs,1921,etablissements français dans l'inde,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,807729362,1,francs,1921,indochine française,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,22988803,1,francs,1921,saint-pierre et miquelon,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,78989677,1,francs,1921,guadeloupe et dépendances,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,84508370,1,francs,1921,martinique,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,48152967,1,francs,1921,guyane française,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,48565525,1,francs,1921,nouvelle-calédonie et dépendances,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,14209624,1,francs,1921,etablissements français de l'océanie,total,imp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,164331449,1,francs,1921,sénégal,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1053606,1,francs,1921,soudan français,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,15940320,1,francs,1921,guinée française,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,43425147,1,francs,1921,côte d'ivoire,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,35014208,1,francs,1921,dahomey,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,7690408,1,francs,1921,gabon,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4399090,1,francs,1921,togo (territoire à mandat),total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,14808730,1,francs,1921,"moyen-congo, oubangui-chari",total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,21108836,1,francs,1921,cameroun (territoire à mandat),total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,77342378,1,francs,1921,réunion,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,93827786,1,francs,1921,madagascar et dépendances,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,61087708,1,francs,1921,côte française des somalis,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,15195844,1,francs,1921,etablissements français dans l'inde,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1289349885,1,francs,1921,indochine française,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,16766820,1,francs,1921,saint-pierre et miquelon,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,71041774,1,francs,1921,guadeloupe et dépendances,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,69822066,1,francs,1921,martinique,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,21368182,1,francs,1921,guyane française,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,21483474,1,francs,1921,nouvelle-calédonie et dépendances,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,13948226,1,francs,1921,etablissements français de l'océanie,total,exp,,,,,,total_reporting,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,108483265,1,francs,1921,sénégal,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,9350027,1,francs,1921,soudan français,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,16863694,1,francs,1921,guinée française,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,21687232,1,francs,1921,côte d'ivoire,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,12256713,1,francs,1921,dahomey,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1364050,1,francs,1921,togo (territoire à mandat),france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,17456194,1,francs,1921,gabon,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,14095334,1,francs,1921,"moyen-congo, oubangui-chari",france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,9959836,1,francs,1921,cameroun (territoire à mandat),france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,35519656,1,francs,1921,réunion,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,167448103,1,francs,1921,madagascar et dépendances,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5125556,1,francs,1921,côte française des somalis,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1074145,1,francs,1921,etablissements français dans l'inde,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,247602029,1,francs,1921,indochine française,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,8706484,1,francs,1921,saint-pierre et miquelon,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,43146388,1,francs,1921,guadeloupe et dépendances,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,33798468,1,francs,1921,martinique,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,18630899,1,francs,1921,guyane française,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,15617852,1,francs,1921,nouvelle-calédonie et dépendances,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3195120,1,francs,1921,etablissements français de l'océanie,france (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,7567592,1,francs,1921,sénégal,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,166290,1,francs,1921,soudan français,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,376341,1,francs,1921,guinée française,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,93791,1,francs,1921,côte d'ivoire,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,97532,1,francs,1921,dahomey,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,106071,1,francs,1921,togo (territoire à mandat),colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,491694,1,francs,1921,gabon,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,84958,1,francs,1921,"moyen-congo, oubangui-chari",colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,569096,1,francs,1921,cameroun (territoire à mandat),colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,25168895,1,francs,1921,réunion,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,11608496,1,francs,1921,madagascar et dépendances,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1058892,1,francs,1921,côte française des somalis,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,88317,1,francs,1921,etablissements français dans l'inde,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,28577812,1,francs,1921,indochine française,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1276872,1,francs,1921,saint-pierre et miquelon,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,756795,1,francs,1921,guadeloupe et dépendances,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4536394,1,francs,1921,martinique,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3226375,1,francs,1921,guyane française,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,334915,1,francs,1921,nouvelle-calédonie et dépendances,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,117870,1,francs,1921,etablissements français de l'océanie,colonies françaises (marchandises françaises),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4450400,1,francs,1921,sénégal,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,161912,1,francs,1921,guinée française,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,64633,1,francs,1921,gabon,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,559396,1,francs,1921,cameroun (territoire à mandat),france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,8550406,1,francs,1921,madagascar et dépendances,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,475382,1,francs,1921,indochine française,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,291040,1,francs,1921,saint-pierre et miquelon,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4495300,1,francs,1921,guadeloupe et dépendances,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,69595,1,francs,1921,nouvelle-calédonie et dépendances,france (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2453620,1,francs,1921,madagascar et dépendances,colonies françaises (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3420,1,francs,1921,côte française des somalis,colonies françaises (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,17799,1,francs,1921,indochine française,colonies françaises (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,752085,1,francs,1921,guadeloupe et dépendances,colonies françaises (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,450,1,francs,1921,etablissements français de l'océanie,colonies françaises (marchandises étrangères),imp,,,,,,,
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1661470,1,francs,1921,sénégal,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,48937,1,francs,1921,soudan français,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,346275,1,francs,1921,guinée française,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,859476,1,francs,1921,côte d'ivoire,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,557659,1,francs,1921,dahomey,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,343366,1,francs,1921,togo (territoire à mandat),allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,115466,1,francs,1921,gabon,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,107730,1,francs,1921,"moyen-congo, oubangui-chari",allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,599149,1,francs,1921,cameroun (territoire à mandat),allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,174937,1,francs,1921,réunion,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,402766,1,francs,1921,madagascar et dépendances,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,363535,1,francs,1921,côte française des somalis,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2206687,1,francs,1921,indochine française,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,18700,1,francs,1921,guadeloupe et dépendances,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,16205,1,francs,1921,martinique,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,21008,1,francs,1921,guyane française,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,34108,1,francs,1921,etablissements français de l'océanie,allemagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,40601853,1,francs,1921,sénégal,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1868328,1,francs,1921,soudan français,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,13176440,1,francs,1921,guinée française,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,14319717,1,francs,1921,côte d'ivoire,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,14103840,1,francs,1921,dahomey,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,6124534,1,francs,1921,togo (territoire à mandat),angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2841950,1,francs,1921,gabon,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1392885,1,francs,1921,"moyen-congo, oubangui-chari",angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,16808587,1,francs,1921,cameroun (territoire à mandat),angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3240240,1,francs,1921,réunion,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,7080898,1,francs,1921,madagascar et dépendances,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1888680,1,francs,1921,côte française des somalis,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,85518,1,francs,1921,etablissements français dans l'inde,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,22935900,1,francs,1921,indochine française,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2032616,1,francs,1921,martinique,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,987376,1,francs,1921,guyane française,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,359580,1,francs,1921,nouvelle-calédonie et dépendances,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,631412,1,francs,1921,etablissements français de l'océanie,angleterre,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5376,1,francs,1921,dahomey,autriche-hongrie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,23848,1,francs,1921,madagascar et dépendances,autriche-hongrie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,99130,1,francs,1921,côte française des somalis,autriche-hongrie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,34626,1,francs,1921,indochine française,autriche-hongrie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1667,1,francs,1921,guyane française,autriche-hongrie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3202870,1,francs,1921,sénégal,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2930170,1,francs,1921,guinée française,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1812144,1,francs,1921,côte d'ivoire,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,831714,1,francs,1921,dahomey,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,201196,1,francs,1921,gabon,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,489003,1,francs,1921,"moyen-congo, oubangui-chari",belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,624370,1,francs,1921,cameroun (territoire à mandat),belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,597535,1,francs,1921,madagascar et dépendances,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1798085,1,francs,1921,côte française des somalis,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5210,1,francs,1921,etablissements français dans l'inde,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5257768,1,francs,1921,indochine française,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,362248,1,francs,1921,martinique,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,288302,1,francs,1921,guyane française,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,697620,1,francs,1921,nouvelle-calédonie et dépendances,belgique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,724334,1,francs,1921,sénégal,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,98937,1,francs,1921,guinée française,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,74556,1,francs,1921,côte d'ivoire,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,46063,1,francs,1921,dahomey,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1636,1,francs,1921,madagascar et dépendances,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,184437,1,francs,1921,indochine française,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1020,1,francs,1921,martinique,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,12682,1,francs,1921,guyane française,espagne,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1917655,1,francs,1921,sénégal,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,240627,1,francs,1921,guinée française,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,98022,1,francs,1921,côte d'ivoire,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,228923,1,francs,1921,dahomey,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,16135,1,francs,1921,togo (territoire à mandat),italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,18008,1,francs,1921,gabon,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,22354,1,francs,1921,madagascar et dépendances,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1646277,1,francs,1921,côte française des somalis,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1381605,1,francs,1921,indochine française,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,81400,1,francs,1921,guadeloupe et dépendances,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,98495,1,francs,1921,martinique,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,10581,1,francs,1921,guyane française,italie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,10703101,1,francs,1921,sénégal,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,152435,1,francs,1921,soudan français,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,803255,1,francs,1921,guinée française,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1163526,1,francs,1921,côte d'ivoire,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1814522,1,francs,1921,dahomey,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,886836,1,francs,1921,togo (territoire à mandat),pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,55512,1,francs,1921,gabon,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,165032,1,francs,1921,"moyen-congo, oubangui-chari",pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,83957,1,francs,1921,cameroun (territoire à mandat),pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,553747,1,francs,1921,madagascar et dépendances,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,12540,1,francs,1921,côte française des somalis,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,281093,1,francs,1921,indochine française,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,239700,1,francs,1921,guadeloupe et dépendances,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1080286,1,francs,1921,martinique,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,31412,1,francs,1921,guyane française,pays-bas,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,262557,1,francs,1921,sénégal,portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,24303,1,francs,1921,guinée française,portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,21107,1,francs,1921,dahomey,portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,86179,1,francs,1921,"moyen-congo, oubangui-chari",portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3055,1,francs,1921,cameroun (territoire à mandat),portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1610,1,francs,1921,côte française des somalis,portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,154170,1,francs,1921,saint-pierre et miquelon,portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,278,1,francs,1921,guyane française,portugal,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2170,1,francs,1921,indochine française,russie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1863002,1,francs,1921,sénégal,suède et norvège,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,206367,1,francs,1921,dahomey,suède et norvège,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,870,1,francs,1921,gabon,suède et norvège,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,100246,1,francs,1921,cameroun (territoire à mandat),suède et norvège,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,353837,1,francs,1921,madagascar et dépendances,suède et norvège,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5248,1,francs,1921,guyane française,suède et norvège,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,90248,1,francs,1921,soudan français,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,359858,1,francs,1921,guinée française,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,346398,1,francs,1921,côte d'ivoire,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,64758,1,francs,1921,dahomey,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,22248,1,francs,1921,togo (territoire à mandat),suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,22525,1,francs,1921,gabon,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,451528,1,francs,1921,madagascar et dépendances,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,205370,1,francs,1921,côte française des somalis,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5010324,1,francs,1921,indochine française,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,10149,1,francs,1921,guyane française,suisse,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4896,1,francs,1921,dahomey,danemark,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3596,1,francs,1921,cameroun (territoire à mandat),danemark,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,38190,1,francs,1921,dahomey,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,261646,1,francs,1921,togo (territoire à mandat),pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,689530,1,francs,1921,gabon,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,145,1,francs,1921,madagascar et dépendances,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,73016,1,francs,1921,côte française des somalis,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,903194,1,francs,1921,indochine française,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,13410,1,francs,1921,martinique,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1784,1,francs,1921,guyane française,pays divers d'europe,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,30259,1,francs,1921,madagascar et dépendances,chine,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,394430,1,francs,1921,côte française des somalis,chine,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,17961585,1,francs,1921,indochine française,chine,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,264464,1,francs,1921,réunion,japon,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,330,1,francs,1921,madagascar et dépendances,japon,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1332925,1,francs,1921,côte française des somalis,japon,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,17965869,1,francs,1921,indochine française,japon,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2662879,1,francs,1921,indochine française,siam,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,243093016,1,francs,1921,indochine française,hong kong,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,118092298,1,francs,1921,indochine française,singapour,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,147647,1,francs,1921,indochine française,autres pays divers d'asie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,63926194,1,francs,1921,côte française des somalis,abyssinie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,34494,1,francs,1921,madagascar et dépendances,egypte,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,808330,1,francs,1921,côte française des somalis,egypte,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,528693,1,francs,1921,côte française des somalis,arabie,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,997002,1,francs,1921,réunion,pays divers d'afrique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3951067,1,francs,1921,madagascar et dépendances,pays divers d'afrique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,43662509,1,francs,1921,sénégal,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,268706,1,francs,1921,soudan français,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2697425,1,francs,1921,guinée française,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3214152,1,francs,1921,côte d'ivoire,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4717005,1,francs,1921,dahomey,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,213617,1,francs,1921,gabon,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,135808,1,francs,1921,"moyen-congo, oubangui-chari",etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3798173,1,francs,1921,cameroun (territoire à mandat),etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2063468,1,francs,1921,réunion,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2479758,1,francs,1921,madagascar et dépendances,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3075385,1,francs,1921,côte française des somalis,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,7930047,1,francs,1921,etablissements français dans l'inde,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,6456306,1,francs,1921,indochine française,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1807519,1,francs,1921,saint-pierre et miquelon,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,26077542,1,francs,1921,guadeloupe et dépendances,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,36458688,1,francs,1921,martinique,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,17977683,1,francs,1921,guyane française,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1037371,1,francs,1921,nouvelle-calédonie et dépendances,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,6342975,1,francs,1921,etablissements français de l'océanie,etats-unis,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,5764,1,francs,1921,dahomey,brésil,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,252,1,francs,1921,madagascar et dépendances,brésil,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,9336,1,francs,1921,martinique,brésil,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1015299,1,francs,1921,guyane française,brésil,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,8480289,1,francs,1921,saint-pierre et miquelon,canada,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,35468,1,francs,1921,guyane française,canada,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,14480,1,francs,1921,martinique,equateur,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,400,1,francs,1921,guadeloupe et dépendances,haiti,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,901701,1,francs,1921,martinique,haiti,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,81191,1,francs,1921,guadeloupe et dépendances,panama,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,435331,1,francs,1921,martinique,panama,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1050,1,francs,1921,dahomey,république argentine,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,368937,1,francs,1921,guadeloupe et dépendances,république argentine,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4628726,1,francs,1921,sénégal,pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,402,1,francs,1921,dahomey,pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1515972,1,francs,1921,togo (territoire à mandat),pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,13458570,1,francs,1921,indochine française,pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,311737,1,francs,1921,guadeloupe et dépendances,pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,857554,1,francs,1921,martinique,pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,696025,1,francs,1921,guyane française,pays divers d'amérique,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,4948297,1,francs,1921,nouvelle-calédonie et dépendances,nouvelles-hébrides,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1335999,1,francs,1921,dahomey,colonies françaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,178,1,francs,1921,guyane française,colonies françaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,7100292,1,francs,1921,sénégal,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,794801,1,francs,1921,guinée française,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2907293,1,francs,1921,dahomey,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,577047,1,francs,1921,togo (territoire à mandat),colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,11548,1,francs,1921,gabon,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,212220,1,francs,1921,cameroun (territoire à mandat),colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2661938,1,francs,1921,réunion,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,19875969,1,francs,1921,madagascar et dépendances,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,39729877,1,francs,1921,côte française des somalis,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,14010963,1,francs,1921,etablissements français dans l'inde,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,52082876,1,francs,1921,indochine française,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,884899,1,francs,1921,saint-pierre et miquelon,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2141056,1,francs,1921,guadeloupe et dépendances,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3073677,1,francs,1921,martinique,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1618587,1,francs,1921,guyane française,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,24874795,1,francs,1921,nouvelle-calédonie et dépendances,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2524803,1,francs,1921,etablissements français de l'océanie,colonies anglaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,2063,1,francs,1921,dahomey,colonies belges,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,96038,1,francs,1921,gabon,colonies belges,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1976667,1,francs,1921,"moyen-congo, oubangui-chari",colonies belges,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,388992,1,francs,1921,etablissements français dans l'inde,indes néerlandaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,19438047,1,francs,1921,indochine française,indes néerlandaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,623836,1,francs,1921,sénégal,colonies espagnoles,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,244304,1,francs,1921,guinée française,colonies espagnoles,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,8406,1,francs,1921,dahomey,colonies espagnoles,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,10048,1,francs,1921,togo (territoire à mandat),colonies espagnoles,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,259596,1,francs,1921,cameroun (territoire à mandat),colonies espagnoles,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,9550,1,francs,1921,martinique,colonies espagnoles,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,327301,1,francs,1921,sénégal,colonies portugaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,400210,1,francs,1921,guinée française,colonies portugaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,61172,1,francs,1921,gabon,colonies portugaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,182479,1,francs,1921,"moyen-congo, oubangui-chari",colonies portugaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,7128000,1,francs,1921,côte française des somalis,colonies portugaises,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,284088,1,francs,1921,côte française des somalis,colonies italiennes,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1499443,1,francs,1921,indochine française,colonies américaines,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,35460,1,francs,1921,guadeloupe et dépendances,colonies américaines,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,134830,1,francs,1921,côte française des somalis,colonies hollandaises (autre),imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,482408,1,francs,1921,guadeloupe et dépendances,colonies hollandaises (autre),imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,808911,1,francs,1921,martinique,colonies hollandaises (autre),imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,3581966,1,francs,1921,guyane française,colonies hollandaises (autre),imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,593943,1,francs,1921,soudan français,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,306943,1,francs,1921,guinée française,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,310512,1,francs,1921,côte d'ivoire,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,75,1,francs,1921,dahomey,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,19931,1,francs,1921,gabon,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,178976,1,francs,1921,"moyen-congo, oubangui-chari",pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1198765,1,francs,1921,réunion,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,578,1,francs,1921,guadeloupe et dépendances,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,625500,1,francs,1921,nouvelle-calédonie et dépendances,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,1362886,1,francs,1921,etablissements français de l'océanie,pays divers,imp,,,,,,,Marchandises étrangères
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,131971412,1,francs,1921,sénégal,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1052984,1,francs,1921,soudan français,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,10778035,1,francs,1921,guinée française,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,18103523,1,francs,1921,côte d'ivoire,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,21267966,1,francs,1921,dahomey,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2347628,1,francs,1921,gabon,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1956194,1,francs,1921,togo (territoire à mandat),france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,9360161,1,francs,1921,"moyen-congo, oubangui-chari",france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,6968486,1,francs,1921,cameroun (territoire à mandat),france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,73258854,1,francs,1921,réunion,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,60019032,1,francs,1921,madagascar et dépendances,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,8753944,1,francs,1921,côte française des somalis,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2771315,1,francs,1921,etablissements français dans l'inde,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,170810596,1,francs,1921,indochine française,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,16137963,1,francs,1921,saint-pierre et miquelon,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,68993731,1,francs,1921,guadeloupe et dépendances,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,65964757,1,francs,1921,martinique,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,14895944,1,francs,1921,guyane française,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,9917373,1,francs,1921,nouvelle-calédonie et dépendances,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4376895,1,francs,1921,etablissements français de l'océanie,france,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,55663,1,francs,1921,sénégal,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,120,1,francs,1921,soudan français,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,18965,1,francs,1921,guinée française,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,104732,1,francs,1921,côte d'ivoire,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,19804,1,francs,1921,dahomey,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,68102,1,francs,1921,gabon,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,550,1,francs,1921,togo (territoire à mandat),colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,74874,1,francs,1921,"moyen-congo, oubangui-chari",colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,114640,1,francs,1921,cameroun (territoire à mandat),colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2404893,1,francs,1921,réunion,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,8768551,1,francs,1921,madagascar et dépendances,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,297756,1,francs,1921,côte française des somalis,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,7825075,1,francs,1921,etablissements français dans l'inde,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,3682519,1,francs,1921,indochine française,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,455540,1,francs,1921,saint-pierre et miquelon,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,629498,1,francs,1921,guadeloupe et dépendances,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,3518138,1,francs,1921,martinique,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,72279,1,francs,1921,guyane française,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,45130,1,francs,1921,nouvelle-calédonie et dépendances,colonies françaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2385454,1,francs,1921,sénégal,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1268371,1,francs,1921,guinée française,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,744602,1,francs,1921,côte d'ivoire,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2488711,1,francs,1921,dahomey,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1610945,1,francs,1921,gabon,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1166608,1,francs,1921,togo (territoire à mandat),allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2985185,1,francs,1921,cameroun (territoire à mandat),allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,546992,1,francs,1921,madagascar et dépendances,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,17426044,1,francs,1921,indochine française,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,90000,1,francs,1921,etablissements français de l'océanie,allemagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,8983625,1,francs,1921,sénégal,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,102,1,francs,1921,soudan français,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2084265,1,francs,1921,guinée française,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,17768827,1,francs,1921,côte d'ivoire,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,5812363,1,francs,1921,dahomey,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1250479,1,francs,1921,gabon,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1248618,1,francs,1921,togo (territoire à mandat),angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,119310,1,francs,1921,"moyen-congo, oubangui-chari",angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,9008798,1,francs,1921,cameroun (territoire à mandat),angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,13680051,1,francs,1921,madagascar et dépendances,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2923210,1,francs,1921,côte française des somalis,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,3006,1,francs,1921,etablissements français dans l'inde,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,10046529,1,francs,1921,indochine française,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,322683,1,francs,1921,guyane française,angleterre,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,69625,1,francs,1921,réunion,autriche-hongrie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2771067,1,francs,1921,sénégal,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,11446,1,francs,1921,guinée française,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,137499,1,francs,1921,dahomey,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,341220,1,francs,1921,gabon,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,5000,1,francs,1921,togo (territoire à mandat),belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,3492892,1,francs,1921,"moyen-congo, oubangui-chari",belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,270297,1,francs,1921,cameroun (territoire à mandat),belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,15693,1,francs,1921,madagascar et dépendances,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,349939,1,francs,1921,côte française des somalis,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,93320,1,francs,1921,etablissements français dans l'inde,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,22996577,1,francs,1921,indochine française,belgique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,13505265,1,francs,1921,sénégal,hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,47819,1,francs,1921,guinée française,hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,191200,1,francs,1921,côte d'ivoire,hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,672411,1,francs,1921,gabon,hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,22120,1,francs,1921,togo (territoire à mandat),hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,3903,1,francs,1921,"moyen-congo, oubangui-chari",hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,666399,1,francs,1921,cameroun (territoire à mandat),hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,825,1,francs,1921,madagascar et dépendances,hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,17720,1,francs,1921,côte française des somalis,hollande,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,124,1,francs,1921,côte d'ivoire,suisse,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,33704,1,francs,1921,madagascar et dépendances,suisse,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,942,1,francs,1921,"moyen-congo, oubangui-chari",portugal,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4081,1,francs,1921,madagascar et dépendances,russie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,435000,1,francs,1921,sénégal,danemark,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,31,1,francs,1921,madagascar et dépendances,danemark,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,849115,1,francs,1921,côte française des somalis,danemark,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1935885,1,francs,1921,sénégal,italie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,91762,1,francs,1921,madagascar et dépendances,italie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,490635,1,francs,1921,côte française des somalis,italie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2763,1,francs,1921,madagascar et dépendances,suède et norvège,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2357450,1,francs,1921,côte française des somalis,suède et norvège,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4648,1,francs,1921,madagascar et dépendances,espagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1227675,1,francs,1921,côte française des somalis,espagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,66210,1,francs,1921,saint-pierre et miquelon,espagne,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,63632,1,francs,1921,gabon,pays divers d'europe,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,21350,1,francs,1921,madagascar et dépendances,pays divers d'europe,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,756947,1,francs,1921,côte française des somalis,pays divers d'europe,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,23142216,1,francs,1921,indochine française,pays divers d'europe,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,12430,1,francs,1921,madagascar et dépendances,chine,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,26795,1,francs,1921,côte française des somalis,chine,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,50470063,1,francs,1921,indochine française,chine,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,480,1,francs,1921,réunion,japon,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,79327945,1,francs,1921,indochine française,japon,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,5020970,1,francs,1921,indochine française,siam,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,499083049,1,francs,1921,indochine française,hong kong,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,119119317,1,francs,1921,indochine française,singapour,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,16695407,1,francs,1921,indochine française,autres pays divers d'asie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2085297,1,francs,1921,madagascar et dépendances,egypte,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4053956,1,francs,1921,côte française des somalis,egypte,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,616576,1,francs,1921,côte française des somalis,arabie,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1500,1,francs,1921,côte d'ivoire,libéria,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4200,1,francs,1921,dahomey,libéria,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,537,1,francs,1921,guinée française,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,6510639,1,francs,1921,côte d'ivoire,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,5050,1,francs,1921,dahomey,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1049528,1,francs,1921,madagascar et dépendances,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,549950,1,francs,1921,côte française des somalis,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,15000,1,francs,1921,saint-pierre et miquelon,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1394875,1,francs,1921,guadeloupe et dépendances,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,93605,1,francs,1921,martinique,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1131640,1,francs,1921,guyane française,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,8062425,1,francs,1921,etablissements français de l'océanie,etats-unis,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,84242,1,francs,1921,sénégal,pays divers d'amérique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,10194,1,francs,1921,madagascar et dépendances,pays divers d'amérique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,12169819,1,francs,1921,indochine française,pays divers d'amérique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,13172,1,francs,1921,guadeloupe et dépendances,pays divers d'amérique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2140,1,francs,1921,martinique,pays divers d'amérique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,402,1,francs,1921,guyane française,pays divers d'amérique,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,361447,1,francs,1921,nouvelle-calédonie et dépendances,nouvelles-hébrides,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1318511,1,francs,1921,gabon,pays divers,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,128030,1,francs,1921,madagascar et dépendances,pays divers,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,15481398,1,francs,1921,indochine française,colonies américaines,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,554,1,francs,1921,guadeloupe et dépendances,colonies américaines,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,497553,1,francs,1921,sénégal,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1320306,1,francs,1921,guinée française,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4450438,1,francs,1921,dahomey,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,311928,1,francs,1921,cameroun (territoire à mandat),colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1000042,1,francs,1921,réunion,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,7356054,1,francs,1921,madagascar et dépendances,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,37334446,1,francs,1921,côte française des somalis,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4485892,1,francs,1921,etablissements français dans l'inde,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,2153916,1,francs,1921,indochine française,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,92107,1,francs,1921,saint-pierre et miquelon,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,8586,1,francs,1921,guadeloupe et dépendances,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,108518,1,francs,1921,martinique,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,846774,1,francs,1921,guyane française,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,3907495,1,francs,1921,nouvelle-calédonie et dépendances,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1381708,1,francs,1921,etablissements français de l'océanie,colonies anglaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,241723520,1,francs,1921,indochine française,indes néerlandaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,411489,1,francs,1921,côte française des somalis,colonies italiennes,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,62882,1,francs,1921,dahomey,colonies belges,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1756648,1,francs,1921,"moyen-congo, oubangui-chari",colonies belges,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,41807,1,francs,1921,sénégal,colonies espagnoles,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,41506,1,francs,1921,guinée française,colonies espagnoles,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,104315,1,francs,1921,cameroun (territoire à mandat),colonies espagnoles,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,160,1,francs,1921,martinique,colonies espagnoles,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,157167,1,francs,1921,sénégal,colonies portugaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,133912,1,francs,1921,guinée française,colonies portugaises,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,17236,1,francs,1921,etablissements français dans l'inde,colonies hollandaises (autre),exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1358,1,francs,1921,guadeloupe et dépendances,colonies hollandaises (autre),exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1300,1,francs,1921,martinique,colonies hollandaises (autre),exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,4098460,1,francs,1921,guyane française,colonies hollandaises (autre),exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,146571,1,francs,1921,dahomey,provisions de bord,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,1507309,1,francs,1921,sénégal,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,235158,1,francs,1921,guinée française,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,618724,1,francs,1921,dahomey,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,17480,1,francs,1921,gabon,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,678788,1,francs,1921,cameroun (territoire à mandat),pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,153388,1,francs,1921,martinique,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,6952029,1,francs,1921,nouvelle-calédonie et dépendances,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
+RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_176181,37198,1,francs,1921,etablissements français de l'océanie,pays non dénommés,exp,,,,,,,Marchandises du cru des colonies
