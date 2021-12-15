@@ -2804,7 +2804,16 @@
         "data/flows/FranceStatistiquesColonialesCommerce_1887.csv",
         "data/flows/FranceStatistiquesColonialesCommerce_1886.csv",
         "data/flows/FranceStatistiquesColonialesCommerce_1885.csv",
-        "data/flows/FranceStatistiquesColonialesCommerce_1884.csv"
+        "data/flows/FranceStatistiquesColonialesCommerce_1884.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1914_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1913_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1912_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1911_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1910_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1909_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1908_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1907_I.csv",
+        "data/flows/StatistiquesDuCommerceDesColoniesFranaises_1906_I.csv"
       ]
     }
   ]
