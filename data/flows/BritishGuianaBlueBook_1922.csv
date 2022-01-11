@@ -1,0 +1,45 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BritishGuianaBlueBook_1922_201202,4903527,1,$,1922,british guiana,united kingdom,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,2376883,1,$,1922,british guiana,canada,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,3,1,$,1922,british guiana,australia,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,19905,1,$,1922,british guiana,bermuda,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,525032,1,$,1922,british guiana,british west indies,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,212981,1,$,1922,british guiana,british east indies,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,10018,1,$,1922,british guiana,newfoundland,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,8942,1,$,1922,british guiana,belgium,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,2564,1,$,1922,british guiana,brazil,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,5060,1,$,1922,british guiana,denmark,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,34460,1,$,1922,british guiana,dutch guiana,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,72448,1,$,1922,british guiana,dutch west indies,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,42407,1,$,1922,british guiana,france,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,1221,1,$,1922,british guiana,french guiana,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,111,1,$,1922,british guiana,french west indies,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,115278,1,$,1922,british guiana,germany,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,189606,1,$,1922,british guiana,holland,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,1065,1,$,1922,british guiana,norway,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,25552,1,$,1922,british guiana,portugal,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,76505,1,$,1922,british guiana,portuguese posessions,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,11576,1,$,1922,british guiana,spain,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,5894,1,$,1922,british guiana,sweden,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,2221311,1,$,1922,british guiana,united states,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,25474,1,$,1922,british guiana,venezuela,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,78086,1,$,1922,british guiana,other countries,imp,,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,5577934,1,$,1922,british guiana,united kingdom,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,5029143,1,$,1922,british guiana,canada,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,13683,1,$,1922,british guiana,bermuda,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,765131,1,$,1922,british guiana,british west indies,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,12475,1,$,1922,british guiana,newfoundland,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,586616,1,$,1922,british guiana,belgium,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,600,1,$,1922,british guiana,brazil,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,48659,1,$,1922,british guiana,dutch guiana,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,6685,1,$,1922,british guiana,dutch west indies,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,25020,1,$,1922,british guiana,french guiana,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,9529,1,$,1922,british guiana,french west indies,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,341998,1,$,1922,british guiana,holland,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,773,1,$,1922,british guiana,norway,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,672,1,$,1922,british guiana,portugal,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,243,1,$,1922,british guiana,portuguese posessions,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,524513,1,$,1922,british guiana,united states,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,791,1,$,1922,british guiana,venezuela,exp,spe,NS,,,,,Country from which consigned
+BritishGuianaBlueBook_1922_201202,10965901,1,$,1922,british guiana,total,imp,,NS,,,,total_reporting,Country from which consigned
+BritishGuianaBlueBook_1922_201202,12944465,1,$,1922,british guiana,total,exp,spe,NS,,,,total_reporting,Country to which consigned
