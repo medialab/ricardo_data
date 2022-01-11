@@ -1,0 +1,55 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1928_220221,503942,1,pounds,1928,sierra leone,uk,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,16,1,pounds,1928,sierra leone,cameroons,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,82779,1,pounds,1928,sierra leone,gambia,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,1607,1,pounds,1928,sierra leone,gold coast,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,134890,1,pounds,1928,sierra leone,nigeria,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,963,1,pounds,1928,sierra leone,canada,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,420,1,pounds,1928,sierra leone,union of south africa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,23609,1,pounds,1928,sierra leone,france,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,727825,1,pounds,1928,sierra leone,germany,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,329,1,pounds,1928,sierra leone,high seas,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,5315,1,pounds,1928,sierra leone,holland,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,29655,1,pounds,1928,sierra leone,usa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,2925,1,pounds,1928,sierra leone,guinea française,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,5,1,pounds,1928,sierra leone,ivory coast,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,7373,1,pounds,1928,sierra leone,liberia,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,2709,1,pounds,1928,sierra leone,portuguese west africa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,66428,1,pounds,1928,sierra leone,senegal,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,1,1,pounds,1928,sierra leone,spanish west africa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,2158,1,pounds,1928,sierra leone,belgium,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,2,1,pounds,1928,sierra leone,canary islands,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,3624,1,pounds,1928,sierra leone,denmark,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,12782,1,pounds,1928,sierra leone,italy,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,2,1,pounds,1928,sierra leone,switzerland,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,255,1,pounds,1928,sierra leone,egypt,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1928_220221,1609614,1,pounds,1928,sierra leone,total,exp,spe,NS,,,,total_reporting,Country of final destination
+SierraLeoneBlueBook_1928_220221,1074500,1,pounds,1928,sierra leone,uk,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,6539,1,pounds,1928,sierra leone,canada,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,7650,1,pounds,1928,sierra leone,gambia,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,8118,1,pounds,1928,sierra leone,gold coast,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,24054,1,pounds,1928,sierra leone,nigeria,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,38,1,pounds,1928,sierra leone,south africa,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,3170,1,pounds,1928,sierra leone,india,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,13,1,pounds,1928,sierra leone,austria,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,41200,1,pounds,1928,sierra leone,belgium,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,25,1,pounds,1928,sierra leone,brazil,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,424,1,pounds,1928,sierra leone,congo,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,112,1,pounds,1928,sierra leone,cuba,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,221,1,pounds,1928,sierra leone,denmark,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,105996,1,pounds,1928,sierra leone,france,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,156357,1,pounds,1928,sierra leone,germany,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,79491,1,pounds,1928,sierra leone,holland,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,7687,1,pounds,1928,sierra leone,italy,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,166,1,pounds,1928,sierra leone,japan,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,2960,1,pounds,1928,sierra leone,liberia,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,157,1,pounds,1928,sierra leone,norway,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,109,1,pounds,1928,sierra leone,portugal,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,130,1,pounds,1928,sierra leone,spain,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,964,1,pounds,1928,sierra leone,sweden,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,3,1,pounds,1928,sierra leone,switzerland,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,232694,1,pounds,1928,sierra leone,usa,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,22462,1,pounds,1928,sierra leone,french possessions,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,8020,1,pounds,1928,sierra leone,spanish possessions,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,1237,1,pounds,1928,sierra leone,portuguese possessions,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1928_220221,1784497,1,pounds,1928,sierra leone,total,imp,gen,NS,,,,total_reporting,Country of origin
