@@ -1,0 +1,38 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+TrinidadAndTobagoBlueBook_1920_20330,2217883,1,pounds,1920,trinidad and tobago,uk,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,1257877,1,pounds,1920,trinidad and tobago,british north america,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,129071,1,pounds,1920,trinidad and tobago,british east indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,159110,1,pounds,1920,trinidad and tobago,british guiana,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,82090,1,pounds,1920,trinidad and tobago,british west indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,2540,1,pounds,1920,trinidad and tobago,other british possessions,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,27579,1,pounds,1920,trinidad and tobago,argentine,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,3947,1,pounds,1920,trinidad and tobago,belgium,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,2535,1,pounds,1920,trinidad and tobago,denmark,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,80536,1,pounds,1920,trinidad and tobago,france,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,10893,1,pounds,1920,trinidad and tobago,germany,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,116851,1,pounds,1920,trinidad and tobago,holland,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,9887,1,pounds,1920,trinidad and tobago,italy,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,22231,1,pounds,1920,trinidad and tobago,portugal,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,15238,1,pounds,1920,trinidad and tobago,spain,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,3473845,1,pounds,1920,trinidad and tobago,us,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,695265,1,pounds,1920,trinidad and tobago,venezuela,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,65818,1,pounds,1920,trinidad and tobago,other countries,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,113320,1,pounds,1920,trinidad and tobago,parcel post,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,8486516,1,pounds,1920,trinidad and tobago,total,imp,,NS,,,,total_reporting,Country whence consigned
+TrinidadAndTobagoBlueBook_1920_20330,3597982,1,pounds,1920,trinidad and tobago,uk,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,146223,1,pounds,1920,trinidad and tobago,british north america,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,2400,1,pounds,1920,trinidad and tobago,british east indies,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,44401,1,pounds,1920,trinidad and tobago,british guiana,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,122776,1,pounds,1920,trinidad and tobago,british west indies,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,38239,1,pounds,1920,trinidad and tobago,other british possessions,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,8400,1,pounds,1920,trinidad and tobago,denmark,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,885338,1,pounds,1920,trinidad and tobago,france,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,6659,1,pounds,1920,trinidad and tobago,germany,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,121081,1,pounds,1920,trinidad and tobago,holland,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,87956,1,pounds,1920,trinidad and tobago,italy,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,1930566,1,pounds,1920,trinidad and tobago,us,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,4189,1,pounds,1920,trinidad and tobago,venezuela,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,198638,1,pounds,1920,trinidad and tobago,other countries,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,3663,1,pounds,1920,trinidad and tobago,ships stores,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,236850,1,pounds,1920,trinidad and tobago,bunkers,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1920_20330,7435361,1,pounds,1920,trinidad and tobago,total,exp,spe,NS,,,,total_reporting,Country of final destination
