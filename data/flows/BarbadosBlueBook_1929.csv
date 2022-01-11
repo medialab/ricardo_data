@@ -1,0 +1,70 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BarbadosBlueBook_1929_227,78381,1,pounds,1929,barbados,united kingdom,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,799230,1,pounds,1929,barbados,canada,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,18407,1,pounds,1929,barbados,newfoundland,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,4193,1,pounds,1929,barbados,antigua,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,3,1,pounds,1929,barbados,bahamas,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,761,1,pounds,1929,barbados,bermuda,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,9759,1,pounds,1929,barbados,british guiana,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,935,1,pounds,1929,barbados,dominica,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,11175,1,pounds,1929,barbados,grenada,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,2176,1,pounds,1929,barbados,montserrat,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,3543,1,pounds,1929,barbados,st. kitts-nevis,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,2043,1,pounds,1929,barbados,st. lucia,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,4818,1,pounds,1929,barbados,st. vincent,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,6571,1,pounds,1929,barbados,trinidad,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,17,1,pounds,1929,barbados,turks islands,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,58221,1,pounds,1929,barbados,united states,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,73,1,pounds,1929,barbados,dutch guiana,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,1502,1,pounds,1929,barbados,dutch west indies,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,3715,1,pounds,1929,barbados,french west indies,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,151,1,pounds,1929,barbados,germany,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,5837,1,pounds,1929,barbados,holland,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,177,1,pounds,1929,barbados,italy,exp,spe,NS,,,,,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,1012167,1,pounds,1929,barbados,total,exp,spe,NS,,,,total_reporting,Produce and Manufactures of the Colony. Country of ultimate destination
+BarbadosBlueBook_1929_227,691216,1,pounds,1929,barbados,united kingdom,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,381704,1,pounds,1929,barbados,canada,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,52517,1,pounds,1929,barbados,newfoundland,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,417,1,pounds,1929,barbados,antigua,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,340,1,pounds,1929,barbados,bermuda,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,113394,1,pounds,1929,barbados,british guiana,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,1368,1,pounds,1929,barbados,ceylon,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,3241,1,pounds,1929,barbados,dominica,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,5583,1,pounds,1929,barbados,grenada,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,162,1,pounds,1929,barbados,hong kong,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,86350,1,pounds,1929,barbados,india,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,4048,1,pounds,1929,barbados,jamaica,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,4326,1,pounds,1929,barbados,montserrat,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,614,1,pounds,1929,barbados,new zealand,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,5821,1,pounds,1929,barbados,st. kitts-nevis,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,16325,1,pounds,1929,barbados,st. lucia,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,10156,1,pounds,1929,barbados,st. vincent,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,394,1,pounds,1929,barbados,straits settlement,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,53116,1,pounds,1929,barbados,trinidad,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,400289,1,pounds,1929,barbados,united states,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,129,1,pounds,1929,barbados,virgin islands (us),imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,33008,1,pounds,1929,barbados,argentina,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,2001,1,pounds,1929,barbados,belgium,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,10378,1,pounds,1929,barbados,brazil,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,723,1,pounds,1929,barbados,canal zone,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,688,1,pounds,1929,barbados,china,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,2565,1,pounds,1929,barbados,colon,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,4070,1,pounds,1929,barbados,colombia,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,1713,1,pounds,1929,barbados,denmark,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,4240,1,pounds,1929,barbados,dutch guiana,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,20406,1,pounds,1929,barbados,dutch west indies,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,30534,1,pounds,1929,barbados,france,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,3765,1,pounds,1929,barbados,french west indies,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,24047,1,pounds,1929,barbados,germany,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,374,1,pounds,1929,barbados,greece,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,46277,1,pounds,1929,barbados,holland,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,1479,1,pounds,1929,barbados,italy,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,3210,1,pounds,1929,barbados,japan,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,4301,1,pounds,1929,barbados,madeira,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,922,1,pounds,1929,barbados,portugal,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,1570,1,pounds,1929,barbados,spain,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,2613,1,pounds,1929,barbados,sweden,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,2044,1,pounds,1929,barbados,switzerland,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,68,1,pounds,1929,barbados,uruguay,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,6298,1,pounds,1929,barbados,venezuela,imp,gen,NS,,,,,Excludes transit trade. Country of consignment
+BarbadosBlueBook_1929_227,2038804,1,pounds,1929,barbados,total,imp,gen,NS,,,,total_reporting,Excludes transit trade. Country of consignment
