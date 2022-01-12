@@ -1,876 +1,1077 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-GowaJRHicks20132017,337384,1,pounds,1921,northern rhodesia,united kingdom,exp,,,,,,,
-GowaJRHicks20132017,120,1,pounds,1921,northern rhodesia,new zealand,exp,,,,,,,
-GowaJRHicks20132017,45,1,pounds,1921,northern rhodesia,kenya colony,exp,,,,,,,
-GowaJRHicks20132017,34,1,pounds,1921,northern rhodesia,s.w. africa protectorate,exp,,,,,,,
-GowaJRHicks20132017,3163,1,pounds,1921,northern rhodesia,north east rhodesia,exp,,,,,,,
-GowaJRHicks20132017,35522,1,pounds,1921,northern rhodesia,southern rhodesia,exp,,,,,,,
-GowaJRHicks20132017,48826,1,pounds,1921,northern rhodesia,union of south africa,exp,,,,,,,
-GowaJRHicks20132017,768,1,pounds,1921,northern rhodesia,nyassaland protectorate,exp,,,,,,,
-GowaJRHicks20132017,32,1,pounds,1921,northern rhodesia,belgium,exp,,,,,,,
-GowaJRHicks20132017,133025,1,pounds,1921,northern rhodesia,belgian congo,exp,,,,,,,
-GowaJRHicks20132017,35,1,pounds,1921,northern rhodesia,germany,exp,,,,,,,
-GowaJRHicks20132017,125,1,pounds,1921,northern rhodesia,portuguese east africa,exp,,,,,,,
-GowaJRHicks20132017,911,1,pounds,1921,northern rhodesia,portuguese west africa,exp,,,,,,,
-GowaJRHicks20132017,4770,1,pounds,1921,northern rhodesia,united states of america,exp,,,,,,,
-GowaJRHicks20132017,231890,1,pounds,1922,northern rhodesia,united kingdom,exp,,,,,,,
-GowaJRHicks20132017,79,1,pounds,1922,northern rhodesia,india,exp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1922,northern rhodesia,australia,exp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1922,northern rhodesia,new zealand,exp,,,,,,,
-GowaJRHicks20132017,1647,1,pounds,1922,northern rhodesia,north east rhodesia,exp,,,,,,,
-GowaJRHicks20132017,39595,1,pounds,1922,northern rhodesia,southern rhodesia,exp,,,,,,,
-GowaJRHicks20132017,45879,1,pounds,1922,northern rhodesia,union of south africa,exp,,,,,,,
-GowaJRHicks20132017,183,1,pounds,1922,northern rhodesia,nyassaland protectorate,exp,,,,,,,
-GowaJRHicks20132017,158737,1,pounds,1922,northern rhodesia,belgium,exp,,,,,,,
-GowaJRHicks20132017,110967,1,pounds,1922,northern rhodesia,belgian congo,exp,,,,,,,
-GowaJRHicks20132017,900,1,pounds,1922,northern rhodesia,germany,exp,,,,,,,
-GowaJRHicks20132017,451,1,pounds,1922,northern rhodesia,holland,exp,,,,,,,
-GowaJRHicks20132017,1416,1,pounds,1922,northern rhodesia,portuguese east africa,exp,,,,,,,
-GowaJRHicks20132017,188,1,pounds,1922,northern rhodesia,portuguese west africa,exp,,,,,,,
-GowaJRHicks20132017,7385,1,pounds,1922,northern rhodesia,united states of america,exp,,,,,,,
-GowaJRHicks20132017,131925,1,£,1926,northern rhodesia,united kingdom,exp,,,,,,,
-GowaJRHicks20132017,440,1,£,1926,northern rhodesia,australia,exp,,,,,,,
-GowaJRHicks20132017,307,1,£,1926,northern rhodesia,new zealand,exp,,,,,,,
-GowaJRHicks20132017,105,1,£,1926,northern rhodesia,hong kong,exp,,,,,,,
-GowaJRHicks20132017,5,1,£,1926,northern rhodesia,kenya colony,exp,,,,,,,
-GowaJRHicks20132017,9684,1,£,1926,northern rhodesia,north east rhodesia,exp,,,,,,,
-GowaJRHicks20132017,65543,1,£,1926,northern rhodesia,southern rhodesia,exp,,,,,,,
-GowaJRHicks20132017,161439,1,£,1926,northern rhodesia,union of south africa,exp,,,,,,,
-GowaJRHicks20132017,295,1,£,1926,northern rhodesia,nyassaland protectorate,exp,,,,,,,
-GowaJRHicks20132017,14245,1,£,1926,northern rhodesia,belgium,exp,,,,,,,
-GowaJRHicks20132017,95518,1,£,1926,northern rhodesia,belgian congo,exp,,,,,,,
-GowaJRHicks20132017,73,1,£,1926,northern rhodesia,france,exp,,,,,,,
-GowaJRHicks20132017,2112,1,£,1926,northern rhodesia,germany,exp,,,,,,,
-GowaJRHicks20132017,419,1,£,1926,northern rhodesia,portuguese east africa,exp,,,,,,,
-GowaJRHicks20132017,361,1,£,1926,northern rhodesia,united states of america,exp,,,,,,,
-GowaJRHicks20132017,263723,1,£,1927,northern rhodesia,united kingdom,exp,,,,,,,
-GowaJRHicks20132017,4,1,£,1927,northern rhodesia,canada,exp,,,,,,,
-GowaJRHicks20132017,360,1,£,1927,northern rhodesia,ceylon,exp,,,,,,,
-GowaJRHicks20132017,17,1,£,1927,northern rhodesia,australia,exp,,,,,,,
-GowaJRHicks20132017,117,1,£,1927,northern rhodesia,hong kong,exp,,,,,,,
-GowaJRHicks20132017,7396,1,£,1927,northern rhodesia,north east rhodesia,exp,,,,,,,
-GowaJRHicks20132017,77221,1,£,1927,northern rhodesia,southern rhodesia,exp,,,,,,,
-GowaJRHicks20132017,167284,1,£,1927,northern rhodesia,union of south africa,exp,,,,,,,
-GowaJRHicks20132017,12,1,£,1927,northern rhodesia,nyassaland protectorate,exp,,,,,,,
-GowaJRHicks20132017,416,1,£,1927,northern rhodesia,british west india islands,exp,,,,,,,
-GowaJRHicks20132017,48524,1,£,1927,northern rhodesia,belgium,exp,,,,,,,
-GowaJRHicks20132017,131072,1,£,1927,northern rhodesia,belgian congo,exp,,,,,,,
-GowaJRHicks20132017,9,1,£,1927,northern rhodesia,france,exp,,,,,,,
-GowaJRHicks20132017,5945,1,£,1927,northern rhodesia,germany,exp,,,,,,,
-GowaJRHicks20132017,5477,1,£,1927,northern rhodesia,holland,exp,,,,,,,
-GowaJRHicks20132017,11323,1,£,1927,northern rhodesia,italy,exp,,,,,,,
-GowaJRHicks20132017,93,1,£,1927,northern rhodesia,portuguese east africa,exp,,,,,,,
-GowaJRHicks20132017,13,1,£,1927,northern rhodesia,portuguese west africa,exp,,,,,,,
-GowaJRHicks20132017,12,1,£,1927,northern rhodesia,switzerland,exp,,,,,,,
-GowaJRHicks20132017,36,1,£,1927,northern rhodesia,united states of america,exp,,,,,,,
-GowaJRHicks20132017,366870,1,£,1928,northern rhodesia,united kingdom,exp,,,,,,,
-GowaJRHicks20132017,141,1,£,1928,northern rhodesia,india,exp,,,,,,,
-GowaJRHicks20132017,17,1,£,1928,northern rhodesia,australia,exp,,,,,,,
-GowaJRHicks20132017,172,1,£,1928,northern rhodesia,hong kong,exp,,,,,,,
-GowaJRHicks20132017,74,1,£,1928,northern rhodesia,kenya colony,exp,,,,,,,
-GowaJRHicks20132017,5392,1,£,1928,northern rhodesia,north east rhodesia,exp,,,,,,,
-GowaJRHicks20132017,77441,1,£,1928,northern rhodesia,southern rhodesia,exp,,,,,,,
-GowaJRHicks20132017,98442,1,£,1928,northern rhodesia,union of south africa,exp,,,,,,,
-GowaJRHicks20132017,1944,1,£,1928,northern rhodesia,nyassaland protectorate,exp,,,,,,,
-GowaJRHicks20132017,1,1,£,1928,northern rhodesia,austria,exp,,,,,,,
-GowaJRHicks20132017,81458,1,£,1928,northern rhodesia,belgium,exp,,,,,,,
-GowaJRHicks20132017,82015,1,£,1928,northern rhodesia,belgian congo,exp,,,,,,,
-GowaJRHicks20132017,590,1,£,1928,northern rhodesia,france,exp,,,,,,,
-GowaJRHicks20132017,60604,1,£,1928,northern rhodesia,germany,exp,,,,,,,
-GowaJRHicks20132017,10555,1,£,1928,northern rhodesia,holland,exp,,,,,,,
-GowaJRHicks20132017,29401,1,£,1928,northern rhodesia,italy,exp,,,,,,,
-GowaJRHicks20132017,178,1,£,1928,northern rhodesia,portuguese east africa,exp,,,,,,,
-GowaJRHicks20132017,17,1,£,1928,northern rhodesia,portuguese west africa,exp,,,,,,,
-GowaJRHicks20132017,19,1,£,1928,northern rhodesia,switzerland,exp,,,,,,,
-GowaJRHicks20132017,321,1,£,1928,northern rhodesia,china,exp,,,,,,,
-GowaJRHicks20132017,7377,1,£,1928,northern rhodesia,united states of america,exp,,,,,,,
-GowaJRHicks20132017,456876,1,£,1929,northern rhodesia,united kingdom,exp,,,,,,,
-GowaJRHicks20132017,5,1,£,1929,northern rhodesia,canada,exp,,,,,,,
-GowaJRHicks20132017,104,1,£,1929,northern rhodesia,new zealand,exp,,,,,,,
-GowaJRHicks20132017,366,1,£,1929,northern rhodesia,hong kong,exp,,,,,,,
-GowaJRHicks20132017,8481,1,£,1929,northern rhodesia,north east rhodesia,exp,,,,,,,
-GowaJRHicks20132017,79426,1,£,1929,northern rhodesia,southern rhodesia,exp,,,,,,,
-GowaJRHicks20132017,72548,1,£,1929,northern rhodesia,union of south africa,exp,,,,,,,
-GowaJRHicks20132017,4158,1,£,1929,northern rhodesia,nyassaland protectorate,exp,,,,,,,
-GowaJRHicks20132017,46,1,£,1929,northern rhodesia,uganda,exp,,,,,,,
-GowaJRHicks20132017,22,1,£,1929,northern rhodesia,zanzibar,exp,,,,,,,
-GowaJRHicks20132017,62231,1,£,1929,northern rhodesia,belgium,exp,,,,,,,
-GowaJRHicks20132017,75755,1,£,1929,northern rhodesia,belgian congo,exp,,,,,,,
-GowaJRHicks20132017,1120,1,£,1929,northern rhodesia,france,exp,,,,,,,
-GowaJRHicks20132017,65222,1,£,1929,northern rhodesia,germany,exp,,,,,,,
-GowaJRHicks20132017,20981,1,£,1929,northern rhodesia,holland,exp,,,,,,,
-GowaJRHicks20132017,21107,1,£,1929,northern rhodesia,italy,exp,,,,,,,
-GowaJRHicks20132017,474,1,£,1929,northern rhodesia,portuguese east africa,exp,,,,,,,
-GowaJRHicks20132017,76,1,£,1929,northern rhodesia,switzerland,exp,,,,,,,
-GowaJRHicks20132017,554,1,£,1929,northern rhodesia,china,exp,,,,,,,
-GowaJRHicks20132017,13375,1,£,1929,northern rhodesia,united states of america,exp,,,,,,,
-GowaJRHicks20132017,564760,1,pounds,1921,northern rhodesia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,599330,1,pounds,1922,northern rhodesia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,482471,1,£,1926,northern rhodesia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,719054,1,£,1927,northern rhodesia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,823029,1,£,1928,northern rhodesia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,882927,1,£,1929,northern rhodesia,total,exp,,,,,,total_reporting,
-GowaJRHicks20132017,86329,1,pounds,1912,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,1283,1,pounds,1912,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,3211,1,pounds,1912,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,224,1,pounds,1912,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,577,1,pounds,1912,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,24,1,pounds,1912,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1912,northern rhodesia,british east india islands,imp,,,,,,,
-GowaJRHicks20132017,13,1,pounds,1912,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,10,1,pounds,1912,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1912,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,625,1,pounds,1912,northern rhodesia,northern rhodesia,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1912,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,34,1,pounds,1912,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,303,1,pounds,1912,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,5032,1,pounds,1912,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,1629,1,pounds,1912,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,123,1,pounds,1912,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1995,1,pounds,1912,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1912,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,13301,1,pounds,1912,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,55,1,pounds,1912,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,1294,1,pounds,1912,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,165,1,pounds,1912,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,2379,1,pounds,1912,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,121,1,pounds,1912,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,108,1,pounds,1912,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,29,1,pounds,1912,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,93,1,pounds,1912,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,33,1,pounds,1912,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,93,1,pounds,1912,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,2046,1,pounds,1912,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,102,1,pounds,1912,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,83,1,pounds,1912,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,24,1,pounds,1912,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,1071,1,pounds,1912,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1912,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,134,1,pounds,1912,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,8,1,pounds,1912,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,6933,1,pounds,1912,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1912,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1912,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,315,1,pounds,1912,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1912,northern rhodesia,chili,imp,,,,,,,
-GowaJRHicks20132017,38,1,pounds,1912,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,70,1,pounds,1912,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,55688,1,pounds,1912,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,121070,1,pounds,1913,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,1103,1,pounds,1913,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,4893,1,pounds,1913,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,310,1,pounds,1913,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,765,1,pounds,1913,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,13,1,pounds,1913,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,18,1,pounds,1913,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,54,1,pounds,1913,northern rhodesia,northern rhodesia,imp,,,,,,,
-GowaJRHicks20132017,803,1,pounds,1913,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,32,1,pounds,1913,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,700,1,pounds,1913,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,5722,1,pounds,1913,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,3213,1,pounds,1913,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,114,1,pounds,1913,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1907,1,pounds,1913,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,algeria,imp,,,,,,,
-GowaJRHicks20132017,50,1,pounds,1913,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,16432,1,pounds,1913,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,58,1,pounds,1913,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,2048,1,pounds,1913,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,224,1,pounds,1913,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,2342,1,pounds,1913,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,289,1,pounds,1913,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,270,1,pounds,1913,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,19,1,pounds,1913,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,378,1,pounds,1913,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1913,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,148,1,pounds,1913,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,1564,1,pounds,1913,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,279,1,pounds,1913,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,90,1,pounds,1913,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,40,1,pounds,1913,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,1320,1,pounds,1913,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1913,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,230,1,pounds,1913,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,58,1,pounds,1913,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,10198,1,pounds,1913,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1913,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,costa rica,imp,,,,,,,
-GowaJRHicks20132017,14,1,pounds,1913,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,299,1,pounds,1913,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,chili,imp,,,,,,,
-GowaJRHicks20132017,50,1,pounds,1913,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,84,1,pounds,1913,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,62905,1,pounds,1913,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,100034,1,pounds,1914,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,930,1,pounds,1914,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,4117,1,pounds,1914,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,316,1,pounds,1914,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,522,1,pounds,1914,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1914,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1914,northern rhodesia,cyprus,imp,,,,,,,
-GowaJRHicks20132017,10,1,pounds,1914,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,15,1,pounds,1914,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1914,northern rhodesia,british west africa,imp,,,,,,,
-GowaJRHicks20132017,218,1,pounds,1914,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,658,1,pounds,1914,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1914,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,26,1,pounds,1914,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,402,1,pounds,1914,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,2517,1,pounds,1914,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,1167,1,pounds,1914,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,169,1,pounds,1914,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1750,1,pounds,1914,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1914,northern rhodesia,algeria,imp,,,,,,,
-GowaJRHicks20132017,6,1,pounds,1914,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,11565,1,pounds,1914,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1914,northern rhodesia,german east africa,imp,,,,,,,
-GowaJRHicks20132017,46,1,pounds,1914,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,2095,1,pounds,1914,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,88,1,pounds,1914,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,2521,1,pounds,1914,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1914,northern rhodesia,tripoli,imp,,,,,,,
-GowaJRHicks20132017,198,1,pounds,1914,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,198,1,pounds,1914,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,17,1,pounds,1914,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,855,1,pounds,1914,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1914,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,65,1,pounds,1914,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,146,1,pounds,1914,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,1657,1,pounds,1914,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,172,1,pounds,1914,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,61,1,pounds,1914,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,32,1,pounds,1914,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,929,1,pounds,1914,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1914,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,191,1,pounds,1914,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,40,1,pounds,1914,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,7276,1,pounds,1914,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,12,1,pounds,1914,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,21,1,pounds,1914,northern rhodesia,costa rica,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1914,northern rhodesia,panama,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1914,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,362,1,pounds,1914,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,43,1,pounds,1914,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,91,1,pounds,1914,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,56832,1,pounds,1914,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,81231,1,pounds,1915,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,730,1,pounds,1915,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,3103,1,pounds,1915,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,329,1,pounds,1915,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,994,1,pounds,1915,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,52,1,pounds,1915,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1915,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1915,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1915,northern rhodesia,s.w. africa protectorate,imp,,,,,,,
-GowaJRHicks20132017,25,1,pounds,1915,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,638,1,pounds,1915,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,26,1,pounds,1915,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,235,1,pounds,1915,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,1333,1,pounds,1915,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,424,1,pounds,1915,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,84,1,pounds,1915,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,other danish possessions,imp,,,,,,,
-GowaJRHicks20132017,1053,1,pounds,1915,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,2360,1,pounds,1915,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,48,1,pounds,1915,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,1424,1,pounds,1915,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,81,1,pounds,1915,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,2953,1,pounds,1915,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,tripoli,imp,,,,,,,
-GowaJRHicks20132017,221,1,pounds,1915,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,124,1,pounds,1915,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,19,1,pounds,1915,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,327,1,pounds,1915,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1915,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1915,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,79,1,pounds,1915,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,1185,1,pounds,1915,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,221,1,pounds,1915,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,63,1,pounds,1915,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,41,1,pounds,1915,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,1157,1,pounds,1915,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,133,1,pounds,1915,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1915,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,4111,1,pounds,1915,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,6,1,pounds,1915,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,76,1,pounds,1915,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,183,1,pounds,1915,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,13,1,pounds,1915,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,15,1,pounds,1915,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,48063,1,pounds,1915,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,128731,1,pounds,1916,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,1079,1,pounds,1916,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,6972,1,pounds,1916,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,406,1,pounds,1916,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,414,1,pounds,1916,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1916,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,13,1,pounds,1916,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1916,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,british central africa,imp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1916,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,411,1,pounds,1916,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,15,1,pounds,1916,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,177,1,pounds,1916,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,111,1,pounds,1916,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,1923,1,pounds,1916,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,173,1,pounds,1916,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1775,1,pounds,1916,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,algeria,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1916,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,1008,1,pounds,1916,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,62,1,pounds,1916,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,4672,1,pounds,1916,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,148,1,pounds,1916,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,2535,1,pounds,1916,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,287,1,pounds,1916,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,112,1,pounds,1916,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,11,1,pounds,1916,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,298,1,pounds,1916,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,8,1,pounds,1916,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,118,1,pounds,1916,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,1807,1,pounds,1916,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,315,1,pounds,1916,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,37,1,pounds,1916,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,59,1,pounds,1916,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,2509,1,pounds,1916,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1916,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,224,1,pounds,1916,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1916,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1916,northern rhodesia,morocco,imp,,,,,,,
-GowaJRHicks20132017,13227,1,pounds,1916,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1916,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,307,1,pounds,1916,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,45,1,pounds,1916,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,53,1,pounds,1916,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,77654,1,pounds,1916,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,136786,1,pounds,1917,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,907,1,pounds,1917,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,8599,1,pounds,1917,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,330,1,pounds,1917,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,287,1,pounds,1917,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,12,1,pounds,1917,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1917,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,6,1,pounds,1917,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,12,1,pounds,1917,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,90,1,pounds,1917,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,365,1,pounds,1917,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1917,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,30,1,pounds,1917,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,59,1,pounds,1917,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,26,1,pounds,1917,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,5163,1,pounds,1917,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,13,1,pounds,1917,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1558,1,pounds,1917,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,6,1,pounds,1917,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,462,1,pounds,1917,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1917,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,5244,1,pounds,1917,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,174,1,pounds,1917,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1522,1,pounds,1917,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,227,1,pounds,1917,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,130,1,pounds,1917,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,22,1,pounds,1917,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,1498,1,pounds,1917,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1917,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,103,1,pounds,1917,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,2083,1,pounds,1917,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,223,1,pounds,1917,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,48,1,pounds,1917,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,92,1,pounds,1917,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,3994,1,pounds,1917,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,220,1,pounds,1917,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,22,1,pounds,1917,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,11567,1,pounds,1917,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1917,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1917,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1917,northern rhodesia,costa rica,imp,,,,,,,
-GowaJRHicks20132017,30,1,pounds,1917,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,364,1,pounds,1917,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,39,1,pounds,1917,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,20,1,pounds,1917,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,91242,1,pounds,1917,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,152498,1,pounds,1918,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,1272,1,pounds,1918,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,13210,1,pounds,1918,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,523,1,pounds,1918,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,410,1,pounds,1918,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1918,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,21,1,pounds,1918,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,136,1,pounds,1918,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,507,1,pounds,1918,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,197,1,pounds,1918,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1918,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1918,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,17,1,pounds,1918,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,63,1,pounds,1918,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,10480,1,pounds,1918,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1918,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1501,1,pounds,1918,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,88,1,pounds,1918,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,291,1,pounds,1918,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,12,1,pounds,1918,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,5333,1,pounds,1918,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,423,1,pounds,1918,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1268,1,pounds,1918,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,279,1,pounds,1918,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,108,1,pounds,1918,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,44,1,pounds,1918,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,783,1,pounds,1918,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1918,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,54,1,pounds,1918,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,2698,1,pounds,1918,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,354,1,pounds,1918,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,21,1,pounds,1918,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,52,1,pounds,1918,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,7816,1,pounds,1918,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,244,1,pounds,1918,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1918,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,18214,1,pounds,1918,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1918,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,2,1,pounds,1918,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,91,1,pounds,1918,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,410,1,pounds,1918,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,54,1,pounds,1918,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1918,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,119719,1,pounds,1918,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,180217,1,pounds,1919,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,2306,1,pounds,1919,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,14165,1,pounds,1919,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,393,1,pounds,1919,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,1008,1,pounds,1919,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,11,1,pounds,1919,northern rhodesia,malta,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1919,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,118,1,pounds,1919,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1919,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,15,1,pounds,1919,northern rhodesia,north east rhodesia,imp,,,,,,,
-GowaJRHicks20132017,299,1,pounds,1919,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1919,northern rhodesia,newfoundland,imp,,,,,,,
-GowaJRHicks20132017,33,1,pounds,1919,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,43,1,pounds,1919,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,28,1,pounds,1919,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,8827,1,pounds,1919,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,19,1,pounds,1919,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,1962,1,pounds,1919,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1919,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,452,1,pounds,1919,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1919,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,2241,1,pounds,1919,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,641,1,pounds,1919,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,354,1,pounds,1919,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,272,1,pounds,1919,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,617,1,pounds,1919,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,44,1,pounds,1919,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,1797,1,pounds,1919,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,26,1,pounds,1919,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,91,1,pounds,1919,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1919,northern rhodesia,canary islands,imp,,,,,,,
-GowaJRHicks20132017,2948,1,pounds,1919,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,621,1,pounds,1919,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,13,1,pounds,1919,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,91,1,pounds,1919,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,14189,1,pounds,1919,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1919,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,130,1,pounds,1919,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,19,1,pounds,1919,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,25026,1,pounds,1919,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1919,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,96,1,pounds,1919,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,305,1,pounds,1919,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,33,1,pounds,1919,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,16,1,pounds,1919,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,151737,1,pounds,1919,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,303473,1,pounds,1920,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,3848,1,pounds,1920,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,23449,1,pounds,1920,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,1047,1,pounds,1920,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,2738,1,pounds,1920,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,11,1,pounds,1920,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,51,1,pounds,1920,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,14,1,pounds,1920,northern rhodesia,british east africa,imp,,,,,,,
-GowaJRHicks20132017,36,1,pounds,1920,northern rhodesia,british south africa,imp,,,,,,,
-GowaJRHicks20132017,12,1,pounds,1920,northern rhodesia,s.w. africa protectorate,imp,,,,,,,
-GowaJRHicks20132017,16,1,pounds,1920,northern rhodesia,north east rhodesia,imp,,,,,,,
-GowaJRHicks20132017,638,1,pounds,1920,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,59,1,pounds,1920,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,46,1,pounds,1920,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,118,1,pounds,1920,northern rhodesia,austria-hungary,imp,,,,,,,
-GowaJRHicks20132017,1210,1,pounds,1920,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,9219,1,pounds,1920,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,369,1,pounds,1920,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1920,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,3311,1,pounds,1920,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,76,1,pounds,1920,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,890,1,pounds,1920,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,36,1,pounds,1920,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,4670,1,pounds,1920,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,402,1,pounds,1920,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,760,1,pounds,1920,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,455,1,pounds,1920,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,477,1,pounds,1920,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,65,1,pounds,1920,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,1640,1,pounds,1920,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,20,1,pounds,1920,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,388,1,pounds,1920,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1920,northern rhodesia,canary islands,imp,,,,,,,
-GowaJRHicks20132017,6758,1,pounds,1920,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,747,1,pounds,1920,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,101,1,pounds,1920,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,41,1,pounds,1920,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,19908,1,pounds,1920,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,4,1,pounds,1920,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,153,1,pounds,1920,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,15,1,pounds,1920,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,38355,1,pounds,1920,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1920,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,14,1,pounds,1920,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,755,1,pounds,1920,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,95,1,pounds,1920,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,11,1,pounds,1920,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,212842,1,pounds,1920,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,350552,1,pounds,1921,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,4157,1,pounds,1921,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,13453,1,pounds,1921,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,1141,1,pounds,1921,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,4374,1,pounds,1921,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,6,1,pounds,1921,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,78,1,pounds,1921,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,137,1,pounds,1921,northern rhodesia,kenya colony,imp,,,,,,,
-GowaJRHicks20132017,218,1,pounds,1921,northern rhodesia,british south africa,imp,,,,,,,
-GowaJRHicks20132017,238,1,pounds,1921,northern rhodesia,s.w. africa protectorate,imp,,,,,,,
-GowaJRHicks20132017,1725,1,pounds,1921,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,395,1,pounds,1921,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,66,1,pounds,1921,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,424,1,pounds,1921,northern rhodesia,austria,imp,,,,,,,
-GowaJRHicks20132017,8117,1,pounds,1921,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,1064,1,pounds,1921,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,157,1,pounds,1921,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,381,1,pounds,1921,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,4885,1,pounds,1921,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1921,northern rhodesia,cochin china,imp,,,,,,,
-GowaJRHicks20132017,4881,1,pounds,1921,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,39,1,pounds,1921,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,4417,1,pounds,1921,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,507,1,pounds,1921,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1645,1,pounds,1921,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,458,1,pounds,1921,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,307,1,pounds,1921,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,73,1,pounds,1921,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,2813,1,pounds,1921,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,31,1,pounds,1921,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,261,1,pounds,1921,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,7378,1,pounds,1921,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,1059,1,pounds,1921,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,79,1,pounds,1921,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,171,1,pounds,1921,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,10017,1,pounds,1921,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,131,1,pounds,1921,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,14,1,pounds,1921,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,44545,1,pounds,1921,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,9,1,pounds,1921,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,507,1,pounds,1921,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,23,1,pounds,1921,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,55,1,pounds,1921,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,208985,1,pounds,1921,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,222432,1,pounds,1922,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,2716,1,pounds,1922,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,11950,1,pounds,1922,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,957,1,pounds,1922,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,2003,1,pounds,1922,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,61,1,pounds,1922,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1922,northern rhodesia,british east india islands,imp,,,,,,,
-GowaJRHicks20132017,6,1,pounds,1922,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,31,1,pounds,1922,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,76,1,pounds,1922,northern rhodesia,kenya colony,imp,,,,,,,
-GowaJRHicks20132017,5,1,pounds,1922,northern rhodesia,british south africa,imp,,,,,,,
-GowaJRHicks20132017,180,1,pounds,1922,northern rhodesia,mauritius,imp,,,,,,,
-GowaJRHicks20132017,461,1,pounds,1922,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,40,1,pounds,1922,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,22,1,pounds,1922,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,166,1,pounds,1922,northern rhodesia,austria,imp,,,,,,,
-GowaJRHicks20132017,7044,1,pounds,1922,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,2761,1,pounds,1922,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,541,1,pounds,1922,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,102,1,pounds,1922,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,3143,1,pounds,1922,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,21,1,pounds,1922,northern rhodesia,cochin china,imp,,,,,,,
-GowaJRHicks20132017,7829,1,pounds,1922,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,112,1,pounds,1922,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,3826,1,pounds,1922,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,295,1,pounds,1922,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1489,1,pounds,1922,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,309,1,pounds,1922,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,220,1,pounds,1922,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,15,1,pounds,1922,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,1343,1,pounds,1922,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,11,1,pounds,1922,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1922,northern rhodesia,roumania,imp,,,,,,,
-GowaJRHicks20132017,104,1,pounds,1922,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,166,1,pounds,1922,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,3710,1,pounds,1922,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,969,1,pounds,1922,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,58,1,pounds,1922,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,81,1,pounds,1922,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,6322,1,pounds,1922,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,113,1,pounds,1922,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,11,1,pounds,1922,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,32303,1,pounds,1922,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,3,1,pounds,1922,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,1,1,pounds,1922,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,10,1,pounds,1922,northern rhodesia,costa rica,imp,,,,,,,
-GowaJRHicks20132017,12,1,pounds,1922,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,382,1,pounds,1922,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,31,1,pounds,1922,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,7,1,pounds,1922,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,159836,1,pounds,1922,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,767425,1,£,1926,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,64,1,£,1926,northern rhodesia,ireland,imp,,,,,,,
-GowaJRHicks20132017,20676,1,£,1926,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,22913,1,£,1926,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,3154,1,£,1926,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,2048,1,£,1926,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,87,1,£,1926,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,16,1,£,1926,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,75,1,£,1926,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,292,1,£,1926,northern rhodesia,kenya colony,imp,,,,,,,
-GowaJRHicks20132017,1689,1,£,1926,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,1,1,£,1926,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,68,1,£,1926,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,153,1,£,1926,northern rhodesia,mesopotamia,imp,,,,,,,
-GowaJRHicks20132017,1507,1,£,1926,northern rhodesia,austria,imp,,,,,,,
-GowaJRHicks20132017,28288,1,£,1926,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,603,1,£,1926,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,4342,1,£,1926,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,250,1,£,1926,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1926,northern rhodesia,estonia,imp,,,,,,,
-GowaJRHicks20132017,1115,1,£,1926,northern rhodesia,finland,imp,,,,,,,
-GowaJRHicks20132017,9579,1,£,1926,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,13,1,£,1926,northern rhodesia,cochin china,imp,,,,,,,
-GowaJRHicks20132017,50656,1,£,1926,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,120,1,£,1926,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,14331,1,£,1926,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,5445,1,£,1926,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1,1,£,1926,northern rhodesia,hungary,imp,,,,,,,
-GowaJRHicks20132017,19262,1,£,1926,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,16,1,£,1926,northern rhodesia,latvia,imp,,,,,,,
-GowaJRHicks20132017,3611,1,£,1926,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,45,1,£,1926,northern rhodesia,poland,imp,,,,,,,
-GowaJRHicks20132017,381,1,£,1926,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,81,1,£,1926,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,1448,1,£,1926,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,1000,1,£,1926,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,560,1,£,1926,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,291,1,£,1926,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,18576,1,£,1926,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,2515,1,£,1926,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,31,1,£,1926,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,242,1,£,1926,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,14386,1,£,1926,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,12,1,£,1926,northern rhodesia,palestine,imp,,,,,,,
-GowaJRHicks20132017,3,1,£,1926,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,471,1,£,1926,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,45,1,£,1926,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,242731,1,£,1926,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,17,1,£,1926,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,1014,1,£,1926,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,878,1,£,1926,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,3,1,£,1926,northern rhodesia,chili,imp,,,,,,,
-GowaJRHicks20132017,155,1,£,1926,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,7,1,£,1926,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,5,1,£,1926,northern rhodesia,other foreign countries,imp,,,,,,,
-GowaJRHicks20132017,424885,1,£,1926,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,916879,1,£,1927,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,58,1,£,1927,northern rhodesia,ireland,imp,,,,,,,
-GowaJRHicks20132017,31047,1,£,1927,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,30187,1,£,1927,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,3887,1,£,1927,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,1672,1,£,1927,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,134,1,£,1927,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,27,1,£,1927,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,58,1,£,1927,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,305,1,£,1927,northern rhodesia,kenya colony,imp,,,,,,,
-GowaJRHicks20132017,2859,1,£,1927,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,35,1,£,1927,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,138,1,£,1927,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,124,1,£,1927,northern rhodesia,mesopotamia,imp,,,,,,,
-GowaJRHicks20132017,4692,1,£,1927,northern rhodesia,austria,imp,,,,,,,
-GowaJRHicks20132017,26915,1,£,1927,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,2218,1,£,1927,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,11706,1,£,1927,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,213,1,£,1927,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,3155,1,£,1927,northern rhodesia,finland,imp,,,,,,,
-GowaJRHicks20132017,12922,1,£,1927,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,5,1,£,1927,northern rhodesia,algeria,imp,,,,,,,
-GowaJRHicks20132017,51961,1,£,1927,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,124,1,£,1927,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,15918,1,£,1927,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,9228,1,£,1927,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,136,1,£,1927,northern rhodesia,hungary,imp,,,,,,,
-GowaJRHicks20132017,20256,1,£,1927,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,13,1,£,1927,northern rhodesia,jugoslavia,imp,,,,,,,
-GowaJRHicks20132017,28,1,£,1927,northern rhodesia,latvia,imp,,,,,,,
-GowaJRHicks20132017,4566,1,£,1927,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,81,1,£,1927,northern rhodesia,poland,imp,,,,,,,
-GowaJRHicks20132017,430,1,£,1927,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,39,1,£,1927,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,4718,1,£,1927,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,7,1,£,1927,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,140,1,£,1927,northern rhodesia,roumania,imp,,,,,,,
-GowaJRHicks20132017,696,1,£,1927,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,655,1,£,1927,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,21768,1,£,1927,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,2789,1,£,1927,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,129,1,£,1927,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,4,1,£,1927,northern rhodesia,arabia,imp,,,,,,,
-GowaJRHicks20132017,397,1,£,1927,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,23235,1,£,1927,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,92,1,£,1927,northern rhodesia,palestine,imp,,,,,,,
-GowaJRHicks20132017,27,1,£,1927,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,440,1,£,1927,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,120,1,£,1927,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,9,1,£,1927,northern rhodesia,morocco,imp,,,,,,,
-GowaJRHicks20132017,269284,1,£,1927,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1927,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,1,1,£,1927,northern rhodesia,costa rica,imp,,,,,,,
-GowaJRHicks20132017,949,1,£,1927,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,755,1,£,1927,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,450,1,£,1927,northern rhodesia,chili,imp,,,,,,,
-GowaJRHicks20132017,299,1,£,1927,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,478156,1,£,1927,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,1065335,1,£,1928,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,195,1,£,1928,northern rhodesia,ireland,imp,,,,,,,
-GowaJRHicks20132017,28886,1,£,1928,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,30572,1,£,1928,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,5863,1,£,1928,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,1063,1,£,1928,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,108,1,£,1928,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1928,northern rhodesia,cyprus,imp,,,,,,,
-GowaJRHicks20132017,39,1,£,1928,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,94,1,£,1928,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,381,1,£,1928,northern rhodesia,kenya colony,imp,,,,,,,
-GowaJRHicks20132017,2914,1,£,1928,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,105,1,£,1928,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,96,1,£,1928,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,84,1,£,1928,northern rhodesia,mesopotamia,imp,,,,,,,
-GowaJRHicks20132017,5189,1,£,1928,northern rhodesia,austria,imp,,,,,,,
-GowaJRHicks20132017,41848,1,£,1928,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,4964,1,£,1928,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,15555,1,£,1928,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,203,1,£,1928,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,10,1,£,1928,northern rhodesia,estonia,imp,,,,,,,
-GowaJRHicks20132017,3256,1,£,1928,northern rhodesia,finland,imp,,,,,,,
-GowaJRHicks20132017,16608,1,£,1928,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,66238,1,£,1928,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,97,1,£,1928,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,13180,1,£,1928,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,9738,1,£,1928,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1079,1,£,1928,northern rhodesia,hungary,imp,,,,,,,
-GowaJRHicks20132017,26671,1,£,1928,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,47,1,£,1928,northern rhodesia,latvia,imp,,,,,,,
-GowaJRHicks20132017,4404,1,£,1928,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,1293,1,£,1928,northern rhodesia,poland,imp,,,,,,,
-GowaJRHicks20132017,361,1,£,1928,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,44,1,£,1928,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,4377,1,£,1928,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,39,1,£,1928,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,1581,1,£,1928,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,466,1,£,1928,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,26581,1,£,1928,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,4898,1,£,1928,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,34,1,£,1928,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,111,1,£,1928,northern rhodesia,arabia,imp,,,,,,,
-GowaJRHicks20132017,731,1,£,1928,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,29302,1,£,1928,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,38,1,£,1928,northern rhodesia,palestine,imp,,,,,,,
-GowaJRHicks20132017,180,1,£,1928,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,463,1,£,1928,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,48,1,£,1928,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,4,1,£,1928,northern rhodesia,morocco,imp,,,,,,,
-GowaJRHicks20132017,324854,1,£,1928,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,14,1,£,1928,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,1,1,£,1928,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,1286,1,£,1928,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,5814,1,£,1928,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,1124,1,£,1928,northern rhodesia,chili,imp,,,,,,,
-GowaJRHicks20132017,471,1,£,1928,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,617378,1,£,1928,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,1532863,1,£,1929,northern rhodesia,united kingdom,imp,,,,,,,
-GowaJRHicks20132017,563,1,£,1929,northern rhodesia,ireland,imp,,,,,,,
-GowaJRHicks20132017,93308,1,£,1929,northern rhodesia,canada,imp,,,,,,,
-GowaJRHicks20132017,36182,1,£,1929,northern rhodesia,india,imp,,,,,,,
-GowaJRHicks20132017,10166,1,£,1929,northern rhodesia,ceylon,imp,,,,,,,
-GowaJRHicks20132017,2191,1,£,1929,northern rhodesia,australia,imp,,,,,,,
-GowaJRHicks20132017,101,1,£,1929,northern rhodesia,new zealand,imp,,,,,,,
-GowaJRHicks20132017,253,1,£,1929,northern rhodesia,hong kong,imp,,,,,,,
-GowaJRHicks20132017,118,1,£,1929,northern rhodesia,straits settlements,imp,,,,,,,
-GowaJRHicks20132017,677,1,£,1929,northern rhodesia,kenya colony,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1929,northern rhodesia,british west africa,imp,,,,,,,
-GowaJRHicks20132017,1667,1,£,1929,northern rhodesia,nyassaland protectorate,imp,,,,,,,
-GowaJRHicks20132017,416,1,£,1929,northern rhodesia,zanzibar,imp,,,,,,,
-GowaJRHicks20132017,223,1,£,1929,northern rhodesia,british west india islands,imp,,,,,,,
-GowaJRHicks20132017,209,1,£,1929,northern rhodesia,mesopotamia,imp,,,,,,,
-GowaJRHicks20132017,4792,1,£,1929,northern rhodesia,austria,imp,,,,,,,
-GowaJRHicks20132017,50982,1,£,1929,northern rhodesia,belgium,imp,,,,,,,
-GowaJRHicks20132017,37466,1,£,1929,northern rhodesia,belgian congo,imp,,,,,,,
-GowaJRHicks20132017,20880,1,£,1929,northern rhodesia,czecho-slovakia,imp,,,,,,,
-GowaJRHicks20132017,442,1,£,1929,northern rhodesia,denmark,imp,,,,,,,
-GowaJRHicks20132017,15452,1,£,1929,northern rhodesia,finland,imp,,,,,,,
-GowaJRHicks20132017,20990,1,£,1929,northern rhodesia,france,imp,,,,,,,
-GowaJRHicks20132017,22,1,£,1929,northern rhodesia,cochin china,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1929,northern rhodesia,madagascar,imp,,,,,,,
-GowaJRHicks20132017,121546,1,£,1929,northern rhodesia,germany,imp,,,,,,,
-GowaJRHicks20132017,120,1,£,1929,northern rhodesia,greece,imp,,,,,,,
-GowaJRHicks20132017,15636,1,£,1929,northern rhodesia,holland,imp,,,,,,,
-GowaJRHicks20132017,31827,1,£,1929,northern rhodesia,dutch east india islands,imp,,,,,,,
-GowaJRHicks20132017,1437,1,£,1929,northern rhodesia,hungary,imp,,,,,,,
-GowaJRHicks20132017,37019,1,£,1929,northern rhodesia,italy,imp,,,,,,,
-GowaJRHicks20132017,43,1,£,1929,northern rhodesia,latvia,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1929,northern rhodesia,lithuania,imp,,,,,,,
-GowaJRHicks20132017,8443,1,£,1929,northern rhodesia,norway,imp,,,,,,,
-GowaJRHicks20132017,5037,1,£,1929,northern rhodesia,poland,imp,,,,,,,
-GowaJRHicks20132017,582,1,£,1929,northern rhodesia,portugal,imp,,,,,,,
-GowaJRHicks20132017,61,1,£,1929,northern rhodesia,madeira,imp,,,,,,,
-GowaJRHicks20132017,10080,1,£,1929,northern rhodesia,portuguese east africa,imp,,,,,,,
-GowaJRHicks20132017,106,1,£,1929,northern rhodesia,portuguese west africa,imp,,,,,,,
-GowaJRHicks20132017,1831,1,£,1929,northern rhodesia,russia,imp,,,,,,,
-GowaJRHicks20132017,1151,1,£,1929,northern rhodesia,spain,imp,,,,,,,
-GowaJRHicks20132017,53025,1,£,1929,northern rhodesia,sweden,imp,,,,,,,
-GowaJRHicks20132017,8321,1,£,1929,northern rhodesia,switzerland,imp,,,,,,,
-GowaJRHicks20132017,44,1,£,1929,northern rhodesia,turkish empire,imp,,,,,,,
-GowaJRHicks20132017,2,1,£,1929,northern rhodesia,arabia,imp,,,,,,,
-GowaJRHicks20132017,838,1,£,1929,northern rhodesia,china,imp,,,,,,,
-GowaJRHicks20132017,37171,1,£,1929,northern rhodesia,japan (including formosa),imp,,,,,,,
-GowaJRHicks20132017,61,1,£,1929,northern rhodesia,palestine,imp,,,,,,,
-GowaJRHicks20132017,55,1,£,1929,northern rhodesia,persia,imp,,,,,,,
-GowaJRHicks20132017,778,1,£,1929,northern rhodesia,siam,imp,,,,,,,
-GowaJRHicks20132017,90,1,£,1929,northern rhodesia,egypt,imp,,,,,,,
-GowaJRHicks20132017,5,1,£,1929,northern rhodesia,morocco,imp,,,,,,,
-GowaJRHicks20132017,569868,1,£,1929,northern rhodesia,united states of america,imp,,,,,,,
-GowaJRHicks20132017,18,1,£,1929,northern rhodesia,philippine islands,imp,,,,,,,
-GowaJRHicks20132017,4,1,£,1929,northern rhodesia,mexico,imp,,,,,,,
-GowaJRHicks20132017,2187,1,£,1929,northern rhodesia,argentine republic,imp,,,,,,,
-GowaJRHicks20132017,964,1,£,1929,northern rhodesia,brazil,imp,,,,,,,
-GowaJRHicks20132017,1511,1,£,1929,northern rhodesia,chili,imp,,,,,,,
-GowaJRHicks20132017,320,1,£,1929,northern rhodesia,cuba,imp,,,,,,,
-GowaJRHicks20132017,8,1,£,1929,northern rhodesia,uruguay,imp,,,,,,,
-GowaJRHicks20132017,862259,1,£,1929,northern rhodesia,south african produce,imp,,,,,,,
-GowaJRHicks20132017,185667,1,pounds,1912,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,240147,1,pounds,1913,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,198402,1,pounds,1914,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,153186,1,pounds,1915,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,247742,1,pounds,1916,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,273617,1,pounds,1917,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,339261,1,pounds,1918,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,411256,1,pounds,1919,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,639356,1,pounds,1920,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,679980,1,pounds,1921,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,474290,1,pounds,1922,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,1667584,1,£,1926,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,1957138,1,£,1927,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,2366317,1,£,1928,northern rhodesia,total,imp,,,,,,total_reporting,
-GowaJRHicks20132017,3602417,1,£,1929,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,4607024,1,rs,1920,protectorate of zanzibar,united kingdom,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8151772,1,rs,1920,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5719799,1,rs,1920,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3286856,1,rs,1920,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,331393,1,rs,1920,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,521606,1,rs,1920,protectorate of zanzibar,mafia island,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,439852,1,rs,1920,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,154156,1,rs,1920,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,577576,1,rs,1920,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,682751,1,rs,1920,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,184431,1,rs,1920,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,921251,1,rs,1920,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,37246,1,rs,1920,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,235399,1,rs,1920,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,90132,1,rs,1920,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,53324,1,rs,1920,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14651,1,rs,1920,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1478,1,rs,1920,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10028,1,rs,1920,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,300744,1,rs,1920,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5081,1,rs,1920,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,538381,1,rs,1920,protectorate of zanzibar,italian east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,398157,1,rs,1920,protectorate of zanzibar,java,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,20449,1,rs,1920,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,97410,1,rs,1920,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4802482,1,rs,1921,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10487106,1,rs,1921,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5925350,1,rs,1921,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2701250,1,rs,1921,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1058260,1,rs,1921,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,544407,1,rs,1921,protectorate of zanzibar,mafia island,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,541759,1,rs,1921,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,372030,1,rs,1921,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1035753,1,rs,1921,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,23236,1,rs,1921,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,340528,1,rs,1921,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,858031,1,rs,1921,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,609698,1,rs,1921,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,186997,1,rs,1921,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,265709,1,rs,1921,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,164114,1,rs,1921,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,65499,1,rs,1921,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,23632,1,rs,1921,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,215771,1,rs,1921,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10492,1,rs,1921,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8255,1,rs,1921,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,332193,1,rs,1921,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1297,1,rs,1921,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3207,1,rs,1921,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,385,1,rs,1921,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,727728,1,rs,1921,protectorate of zanzibar,java,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,98560,1,rs,1921,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,829217,1,rs,1921,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4945217,1,rs,1922,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8188487,1,rs,1922,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5113291,1,rs,1922,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3001975,1,rs,1922,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,109630,1,rs,1922,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,70918,1,rs,1922,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,439772,1,rs,1922,protectorate of zanzibar,mafia island,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,444874,1,rs,1922,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,878318,1,rs,1922,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,770341,1,rs,1922,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,380308,1,rs,1922,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3730,1,rs,1922,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,365146,1,rs,1922,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,786104,1,rs,1922,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,454108,1,rs,1922,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,435814,1,rs,1922,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,131510,1,rs,1922,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,146484,1,rs,1922,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,77760,1,rs,1922,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,55789,1,rs,1922,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,28264,1,rs,1922,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,58745,1,rs,1922,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10891,1,rs,1922,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,588997,1,rs,1922,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4234,1,rs,1922,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2535,1,rs,1922,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,578,1,rs,1922,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,761120,1,rs,1922,protectorate of zanzibar,java,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,143240,1,rs,1922,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6000,1,rs,1922,protectorate of zanzibar,greece,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6164287,1,rs,1923,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7317178,1,rs,1923,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4731273,1,rs,1923,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2175701,1,rs,1923,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,115048,1,rs,1923,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,49248,1,rs,1923,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,416237,1,rs,1923,protectorate of zanzibar,mafia island,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,392653,1,rs,1923,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1081348,1,rs,1923,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1534600,1,rs,1923,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,119085,1,rs,1923,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3096,1,rs,1923,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,501248,1,rs,1923,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,476436,1,rs,1923,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,596969,1,rs,1923,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,850482,1,rs,1923,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,216064,1,rs,1923,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,150114,1,rs,1923,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,100972,1,rs,1923,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,98155,1,rs,1923,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,157352,1,rs,1923,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,96343,1,rs,1923,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,31412,1,rs,1923,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,455350,1,rs,1923,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6380,1,rs,1923,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,160,1,rs,1923,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,428,1,rs,1923,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1132994,1,rs,1923,protectorate of zanzibar,java,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,151286,1,rs,1923,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2037,1,rs,1923,protectorate of zanzibar,greece,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,20831,1,rs,1923,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5154930,1,rs,1924,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10895898,1,rs,1924,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3686370,1,rs,1924,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1105787,1,rs,1924,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,79247,1,rs,1924,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,47472,1,rs,1924,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,475705,1,rs,1924,protectorate of zanzibar,mafia island,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,412828,1,rs,1924,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1332007,1,rs,1924,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,956186,1,rs,1924,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,436752,1,rs,1924,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2068,1,rs,1924,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,652055,1,rs,1924,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,547110,1,rs,1924,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,288057,1,rs,1924,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,755564,1,rs,1924,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,253428,1,rs,1924,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,225459,1,rs,1924,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,129348,1,rs,1924,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,88360,1,rs,1924,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,129332,1,rs,1924,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,220790,1,rs,1924,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,49077,1,rs,1924,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,195784,1,rs,1924,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1126,1,rs,1924,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8450,1,rs,1924,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1321590,1,rs,1924,protectorate of zanzibar,java,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,164532,1,rs,1924,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,671,1,rs,1924,protectorate of zanzibar,greece,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,27474,1,rs,1924,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6746384,1,rs,1925,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8425474,1,rs,1925,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3568472,1,rs,1925,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,705720,1,rs,1925,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,60218,1,rs,1925,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,55320,1,rs,1925,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,411924,1,rs,1925,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,784371,1,rs,1925,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1478939,1,rs,1925,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,480233,1,rs,1925,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,385566,1,rs,1925,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,411722,1,rs,1925,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,797253,1,rs,1925,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,263332,1,rs,1925,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,259543,1,rs,1925,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,259514,1,rs,1925,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,76988,1,rs,1925,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,108224,1,rs,1925,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,215246,1,rs,1925,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,51031,1,rs,1925,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,109331,1,rs,1925,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2654,1,rs,1925,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5908,1,rs,1925,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,339,1,rs,1925,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,754899,1,rs,1925,protectorate of zanzibar,italian east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,858707,1,rs,1925,protectorate of zanzibar,java,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,177497,1,rs,1925,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,29,1,rs,1925,protectorate of zanzibar,greece,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,846,1,rs,1925,protectorate of zanzibar,turkey,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,54539,1,rs,1925,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5159318,1,rs,1926,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7301609,1,rs,1926,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3481292,1,rs,1926,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,600976,1,rs,1926,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,75347,1,rs,1926,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,61673,1,rs,1926,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,481650,1,rs,1926,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,751265,1,rs,1926,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1134539,1,rs,1926,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,638848,1,rs,1926,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,503946,1,rs,1926,protectorate of zanzibar,sumatra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1120154,1,rs,1926,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,545343,1,rs,1926,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,446647,1,rs,1926,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,177156,1,rs,1926,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,313636,1,rs,1926,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,230334,1,rs,1926,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,72988,1,rs,1926,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,73793,1,rs,1926,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,316628,1,rs,1926,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,71168,1,rs,1926,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,40686,1,rs,1926,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1464,1,rs,1926,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,661898,1,rs,1926,protectorate of zanzibar,italian east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,130931,1,rs,1926,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,109980,1,rs,1926,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4257929,1,rs,1927,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8197077,1,rs,1927,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2783101,1,rs,1927,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,841526,1,rs,1927,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,106132,1,rs,1927,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,95422,1,rs,1927,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,494304,1,rs,1927,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1267383,1,rs,1927,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,938613,1,rs,1927,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1480307,1,rs,1927,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,652568,1,rs,1927,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,343219,1,rs,1927,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,462324,1,rs,1927,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,134833,1,rs,1927,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,193073,1,rs,1927,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,82453,1,rs,1927,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,97490,1,rs,1927,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,102909,1,rs,1927,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,72422,1,rs,1927,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,148139,1,rs,1927,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,59431,1,rs,1927,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5351,1,rs,1927,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,418411,1,rs,1927,protectorate of zanzibar,italian east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,120309,1,rs,1927,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,260260,1,rs,1927,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4078387,1,rs,1928,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6070807,1,rs,1928,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2842989,1,rs,1928,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,540601,1,rs,1928,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,265409,1,rs,1928,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,144436,1,rs,1928,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14338,1,rs,1928,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,79708,1,rs,1928,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,86014,1,rs,1928,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1479,1,rs,1928,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6431,1,rs,1928,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1028488,1,rs,1928,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,821348,1,rs,1928,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1619167,1,rs,1928,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,186463,1,rs,1928,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1242021,1,rs,1928,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,277306,1,rs,1928,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,328020,1,rs,1928,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,158590,1,rs,1928,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,149019,1,rs,1928,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,122308,1,rs,1928,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,84974,1,rs,1928,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,79660,1,rs,1928,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,56019,1,rs,1928,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,51350,1,rs,1928,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,95063,1,rs,1928,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,35727,1,rs,1928,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,86246,1,rs,1928,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,38449,1,rs,1928,protectorate of zanzibar,french indo-china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,535,1,rs,1928,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,423995,1,rs,1928,protectorate of zanzibar,italian east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,79417,1,rs,1928,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,33850,1,rs,1928,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8169,1,rs,1928,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4124927,1,rs,1929,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8281724,1,rs,1929,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2037079,1,rs,1929,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,555304,1,rs,1929,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,232288,1,rs,1929,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,99000,1,rs,1929,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,36112,1,rs,1929,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,52464,1,rs,1929,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,91118,1,rs,1929,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,70795,1,rs,1929,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,39509,1,rs,1929,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1097209,1,rs,1929,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,608206,1,rs,1929,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1532317,1,rs,1929,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,125657,1,rs,1929,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,633417,1,rs,1929,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,473072,1,rs,1929,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,501894,1,rs,1929,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,282555,1,rs,1929,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,171632,1,rs,1929,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,148515,1,rs,1929,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,109301,1,rs,1929,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,122674,1,rs,1929,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,123654,1,rs,1929,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,66387,1,rs,1929,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,60073,1,rs,1929,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,81269,1,rs,1929,protectorate of zanzibar,siam,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,101294,1,rs,1929,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,124816,1,rs,1929,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,32395,1,rs,1929,protectorate of zanzibar,french indo-china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,40215,1,rs,1929,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1000,1,rs,1929,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,109898,1,rs,1929,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,22120,1,rs,1929,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3432673,1,rs,1930,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5473295,1,rs,1930,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1529252,1,rs,1930,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,456946,1,rs,1930,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,180181,1,rs,1930,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,70042,1,rs,1930,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,49791,1,rs,1930,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,29582,1,rs,1930,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,41945,1,rs,1930,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,40487,1,rs,1930,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,28058,1,rs,1930,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1400437,1,rs,1930,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,698154,1,rs,1930,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1093665,1,rs,1930,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,684980,1,rs,1930,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,702974,1,rs,1930,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,828023,1,rs,1930,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,700914,1,rs,1930,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,325880,1,rs,1930,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,191892,1,rs,1930,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,147855,1,rs,1930,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,139743,1,rs,1930,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,102809,1,rs,1930,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,90717,1,rs,1930,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,78994,1,rs,1930,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,42598,1,rs,1930,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,47239,1,rs,1930,protectorate of zanzibar,siam,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,91592,1,rs,1930,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,42906,1,rs,1930,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,57042,1,rs,1930,protectorate of zanzibar,french indo-china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,31325,1,rs,1930,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6827,1,rs,1930,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3106,1,rs,1930,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,16281,1,rs,1930,protectorate of zanzibar,socotra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,83652,1,rs,1930,protectorate of zanzibar,scandinavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44164,1,rs,1930,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,9686,1,rs,1930,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,397457,1,rs,1930,protectorate of zanzibar,parcel post,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2722041,1,rs,1931,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5017514,1,rs,1931,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1260516,1,rs,1931,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,347608,1,rs,1931,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,191499,1,rs,1931,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,71913,1,rs,1931,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,60286,1,rs,1931,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,56123,1,rs,1931,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,24576,1,rs,1931,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,12701,1,rs,1931,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,30988,1,rs,1931,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1125854,1,rs,1931,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,717796,1,rs,1931,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,700785,1,rs,1931,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,515914,1,rs,1931,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,476396,1,rs,1931,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,347771,1,rs,1931,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,316446,1,rs,1931,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,216347,1,rs,1931,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,120649,1,rs,1931,protectorate of zanzibar,russia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,121145,1,rs,1931,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,109303,1,rs,1931,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,99568,1,rs,1931,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,97870,1,rs,1931,protectorate of zanzibar,sweden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,95460,1,rs,1931,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,79907,1,rs,1931,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,55083,1,rs,1931,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44091,1,rs,1931,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,50454,1,rs,1931,protectorate of zanzibar,siam,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,34068,1,rs,1931,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,33581,1,rs,1931,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,25785,1,rs,1931,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,20468,1,rs,1931,protectorate of zanzibar,french indo-china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,16325,1,rs,1931,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10110,1,rs,1931,protectorate of zanzibar,norway,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7778,1,rs,1931,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3275,1,rs,1931,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6511,1,rs,1931,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,313550,1,rs,1931,protectorate of zanzibar,parcel post,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2703063,1,rs,1932,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3076950,1,rs,1932,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1337076,1,rs,1932,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,382100,1,rs,1932,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,80691,1,rs,1932,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,30779,1,rs,1932,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44904,1,rs,1932,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,19412,1,rs,1932,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,35616,1,rs,1932,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,91287,1,rs,1932,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,54476,1,rs,1932,protectorate of zanzibar,uganda,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1244,1,rs,1932,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1060978,1,rs,1932,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,547071,1,rs,1932,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,633838,1,rs,1932,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,331121,1,rs,1932,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,401470,1,rs,1932,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,326869,1,rs,1932,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,137507,1,rs,1932,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,173506,1,rs,1932,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,54246,1,rs,1932,protectorate of zanzibar,russia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,103501,1,rs,1932,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,67276,1,rs,1932,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,88062,1,rs,1932,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,95398,1,rs,1932,protectorate of zanzibar,sweden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,66625,1,rs,1932,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,101396,1,rs,1932,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,57795,1,rs,1932,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,22731,1,rs,1932,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4188,1,rs,1932,protectorate of zanzibar,siam,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,20548,1,rs,1932,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,29034,1,rs,1932,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,24000,1,rs,1932,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,9808,1,rs,1932,protectorate of zanzibar,french indo-china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14157,1,rs,1932,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,37442,1,rs,1932,protectorate of zanzibar,norway,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,12095,1,rs,1932,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1606,1,rs,1932,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10462,1,rs,1932,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7793,1,rs,1932,protectorate of zanzibar,irish free state,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4448,1,rs,1932,protectorate of zanzibar,belgian congo,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3235,1,rs,1932,protectorate of zanzibar,socotra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2627,1,rs,1932,protectorate of zanzibar,poland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4575,1,rs,1932,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,284512,1,rs,1932,protectorate of zanzibar,parcel post,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1542570,1,rs,1933,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3222545,1,rs,1933,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,990010,1,rs,1933,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,386262,1,rs,1933,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,26158,1,rs,1933,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,18616,1,rs,1933,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,13606,1,rs,1933,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14307,1,rs,1933,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,22106,1,rs,1933,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,264243,1,rs,1933,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,71153,1,rs,1933,protectorate of zanzibar,uganda,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2232,1,rs,1933,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1136396,1,rs,1933,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,538916,1,rs,1933,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,796600,1,rs,1933,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,266142,1,rs,1933,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,323100,1,rs,1933,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,210335,1,rs,1933,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,163527,1,rs,1933,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,150989,1,rs,1933,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8588,1,rs,1933,protectorate of zanzibar,russia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,148858,1,rs,1933,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44162,1,rs,1933,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,64380,1,rs,1933,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,36390,1,rs,1933,protectorate of zanzibar,sweden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,53326,1,rs,1933,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,102362,1,rs,1933,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,85271,1,rs,1933,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,32117,1,rs,1933,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1036,1,rs,1933,protectorate of zanzibar,siam,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7186,1,rs,1933,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,52227,1,rs,1933,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,15470,1,rs,1933,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7000,1,rs,1933,protectorate of zanzibar,french indo-china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,22600,1,rs,1933,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14376,1,rs,1933,protectorate of zanzibar,norway,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,13607,1,rs,1933,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3138,1,rs,1933,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,11504,1,rs,1933,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,4569,1,rs,1933,protectorate of zanzibar,irish free state,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,19566,1,rs,1933,protectorate of zanzibar,belgian congo,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44916,1,rs,1933,protectorate of zanzibar,socotra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1493,1,rs,1933,protectorate of zanzibar,poland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,12631,1,rs,1933,protectorate of zanzibar,rumania,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,12568,1,rs,1933,protectorate of zanzibar,french somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3271,1,rs,1933,protectorate of zanzibar,yugoslavia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2069,1,rs,1933,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,231400,1,rs,1933,protectorate of zanzibar,parcel post,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1729984,1,rs,1934,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2907059,1,rs,1934,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,641751,1,rs,1934,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,457249,1,rs,1934,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,21927,1,rs,1934,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3798,1,rs,1934,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,29088,1,rs,1934,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,23310,1,rs,1934,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,24739,1,rs,1934,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,143855,1,rs,1934,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,47902,1,rs,1934,protectorate of zanzibar,uganda,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2080,1,rs,1934,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1119545,1,rs,1934,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,447161,1,rs,1934,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,652504,1,rs,1934,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,161202,1,rs,1934,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,223932,1,rs,1934,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,272262,1,rs,1934,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,223325,1,rs,1934,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,105741,1,rs,1934,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3746,1,rs,1934,protectorate of zanzibar,russia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,123900,1,rs,1934,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,66272,1,rs,1934,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,48460,1,rs,1934,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,31768,1,rs,1934,protectorate of zanzibar,sweden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,37441,1,rs,1934,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,133315,1,rs,1934,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,66413,1,rs,1934,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,13692,1,rs,1934,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2226,1,rs,1934,protectorate of zanzibar,switzerland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44763,1,rs,1934,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10655,1,rs,1934,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,28190,1,rs,1934,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,10965,1,rs,1934,protectorate of zanzibar,norway,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,11847,1,rs,1934,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,783,1,rs,1934,protectorate of zanzibar,portugal,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,13662,1,rs,1934,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6680,1,rs,1934,protectorate of zanzibar,irish free state,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,94090,1,rs,1934,protectorate of zanzibar,belgian congo,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,22442,1,rs,1934,protectorate of zanzibar,socotra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,580,1,rs,1934,protectorate of zanzibar,poland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3881,1,rs,1934,protectorate of zanzibar,rumania,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1898,1,rs,1934,protectorate of zanzibar,french somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1160,1,rs,1934,protectorate of zanzibar,syria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3659,1,rs,1934,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,206274,1,rs,1934,protectorate of zanzibar,parcel post,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2732294,1,rs,1935,protectorate of zanzibar,great britain and northern ireland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,2280111,1,rs,1935,protectorate of zanzibar,india and burma,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,746390,1,rs,1935,protectorate of zanzibar,tanganyika territory,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,505775,1,rs,1935,protectorate of zanzibar,kenya colony,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14455,1,rs,1935,protectorate of zanzibar,ceylon,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7870,1,rs,1935,protectorate of zanzibar,straits settlements,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,67020,1,rs,1935,protectorate of zanzibar,canada,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,16011,1,rs,1935,protectorate of zanzibar,union of south africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,53122,1,rs,1935,protectorate of zanzibar,aden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,410350,1,rs,1935,protectorate of zanzibar,australia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,69064,1,rs,1935,protectorate of zanzibar,uganda,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6007,1,rs,1935,protectorate of zanzibar,cyprus,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,3533,1,rs,1935,protectorate of zanzibar,other british empire,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,1724294,1,rs,1935,protectorate of zanzibar,japan,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,510322,1,rs,1935,protectorate of zanzibar,holland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,806136,1,rs,1935,protectorate of zanzibar,dutch east indies,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,467594,1,rs,1935,protectorate of zanzibar,persia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,179114,1,rs,1935,protectorate of zanzibar,italian somaliland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,341954,1,rs,1935,protectorate of zanzibar,united states of america,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,312974,1,rs,1935,protectorate of zanzibar,portuguese east africa,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,165983,1,rs,1935,protectorate of zanzibar,germany,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,127260,1,rs,1935,protectorate of zanzibar,arabia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,64005,1,rs,1935,protectorate of zanzibar,france,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,58529,1,rs,1935,protectorate of zanzibar,italy,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44960,1,rs,1935,protectorate of zanzibar,sweden,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,84836,1,rs,1935,protectorate of zanzibar,belgium,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,133099,1,rs,1935,protectorate of zanzibar,china,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,44300,1,rs,1935,protectorate of zanzibar,egypt,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14738,1,rs,1935,protectorate of zanzibar,austria,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,424460,1,rs,1935,protectorate of zanzibar,siam,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,39735,1,rs,1935,protectorate of zanzibar,iraq,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,8970,1,rs,1935,protectorate of zanzibar,madagascar,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,38129,1,rs,1935,protectorate of zanzibar,czecho-slovakia,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,6759,1,rs,1935,protectorate of zanzibar,norway,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,13416,1,rs,1935,protectorate of zanzibar,spain,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,14265,1,rs,1935,protectorate of zanzibar,denmark,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,5240,1,rs,1935,protectorate of zanzibar,irish free state,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,124416,1,rs,1935,protectorate of zanzibar,belgian congo,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,38580,1,rs,1935,protectorate of zanzibar,socotra,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,38118,1,rs,1935,protectorate of zanzibar,rumania,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,7097,1,rs,1935,protectorate of zanzibar,finland,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,11084,1,rs,1935,protectorate of zanzibar,other foreign countries,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,234847,1,rs,1935,protectorate of zanzibar,parcel post,imp,,S,,,,,Country of origin
+GowaJRHicks20132017,27380947,1,rs,1920,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,32232946,1,rs,1921,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,28404180,1,rs,1922,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,29144767,1,rs,1923,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,29643457,1,rs,1924,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,27510223,1,rs,1925,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,24503269,1,rs,1926,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,23614986,1,rs,1927,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,21136783,1,rs,1928,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,22189890,1,rs,1929,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,19393164,1,rs,1930,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,15558055,1,rs,1931,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,12597518,1,rs,1932,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,11215894,1,rs,1933,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,10227176,1,rs,1934,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,12997216,1,rs,1935,protectorate of zanzibar,total,imp,,S,,,,total_reporting,Country of origin
+GowaJRHicks20132017,574224,1,rs,1934,protectorate of zanzibar,great britain and northern ireland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,1996292,1,rs,1934,protectorate of zanzibar,india and burma,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,12347,1,rs,1934,protectorate of zanzibar,tanganyika territory,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,24293,1,rs,1934,protectorate of zanzibar,kenya colony,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,6905,1,rs,1934,protectorate of zanzibar,ceylon,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,53556,1,rs,1934,protectorate of zanzibar,straits settlements,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,47432,1,rs,1934,protectorate of zanzibar,canada,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,34677,1,rs,1934,protectorate of zanzibar,union of south africa,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,31196,1,rs,1934,protectorate of zanzibar,aden,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,15970,1,rs,1934,protectorate of zanzibar,australia,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,8063,1,rs,1934,protectorate of zanzibar,new zealand,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2784,1,rs,1934,protectorate of zanzibar,mauritius,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,1181,1,rs,1934,protectorate of zanzibar,other british empire,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,11654,1,rs,1934,protectorate of zanzibar,japan,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,54270,1,rs,1934,protectorate of zanzibar,holland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2635707,1,rs,1934,protectorate of zanzibar,dutch east indies,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,17006,1,rs,1934,protectorate of zanzibar,italian somaliland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,943350,1,rs,1934,protectorate of zanzibar,united states of america,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,179237,1,rs,1934,protectorate of zanzibar,germany,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,13542,1,rs,1934,protectorate of zanzibar,arabia,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,120099,1,rs,1934,protectorate of zanzibar,france,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,844118,1,rs,1934,protectorate of zanzibar,italy,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,8619,1,rs,1934,protectorate of zanzibar,sweden,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,4419,1,rs,1934,protectorate of zanzibar,belgium,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,114139,1,rs,1934,protectorate of zanzibar,china,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,55770,1,rs,1934,protectorate of zanzibar,egypt,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,6450,1,rs,1934,protectorate of zanzibar,siam,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2740,1,rs,1934,protectorate of zanzibar,iraq,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2000,1,rs,1934,protectorate of zanzibar,norway,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,8450,1,rs,1934,protectorate of zanzibar,spain,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,9100,1,rs,1934,protectorate of zanzibar,argentine,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,16566,1,rs,1934,protectorate of zanzibar,denmark,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,7200,1,rs,1934,protectorate of zanzibar,brazil,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,7320,1,rs,1934,protectorate of zanzibar,danzig,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,5673,1,rs,1934,protectorate of zanzibar,french somaliland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,5400,1,rs,1934,protectorate of zanzibar,rumania,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2052,1,rs,1934,protectorate of zanzibar,mexico,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2558,1,rs,1934,protectorate of zanzibar,other foreign countries,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,18493,1,rs,1934,protectorate of zanzibar,ships' use,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,347501,1,rs,1935,protectorate of zanzibar,great britain and northern ireland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2531528,1,rs,1935,protectorate of zanzibar,india and burma,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,11492,1,rs,1935,protectorate of zanzibar,tanganyika territory,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,40842,1,rs,1935,protectorate of zanzibar,kenya colony,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2568,1,rs,1935,protectorate of zanzibar,ceylon,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,48242,1,rs,1935,protectorate of zanzibar,straits settlements,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,41784,1,rs,1935,protectorate of zanzibar,canada,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,37412,1,rs,1935,protectorate of zanzibar,union of south africa,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,57291,1,rs,1935,protectorate of zanzibar,aden,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,24486,1,rs,1935,protectorate of zanzibar,australia,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,6794,1,rs,1935,protectorate of zanzibar,new zealand,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,4969,1,rs,1935,protectorate of zanzibar,mauritius,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,753,1,rs,1935,protectorate of zanzibar,other british empire,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,34292,1,rs,1935,protectorate of zanzibar,japan,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,168241,1,rs,1935,protectorate of zanzibar,holland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2756358,1,rs,1935,protectorate of zanzibar,dutch east indies,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,5750,1,rs,1935,protectorate of zanzibar,persia,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,102045,1,rs,1935,protectorate of zanzibar,italian somaliland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,517639,1,rs,1935,protectorate of zanzibar,united states of america,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,252883,1,rs,1935,protectorate of zanzibar,germany,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,8940,1,rs,1935,protectorate of zanzibar,arabia,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,782369,1,rs,1935,protectorate of zanzibar,france,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,787685,1,rs,1935,protectorate of zanzibar,italy,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,5342,1,rs,1935,protectorate of zanzibar,belgium,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,33026,1,rs,1935,protectorate of zanzibar,china,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,73700,1,rs,1935,protectorate of zanzibar,egypt,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,13038,1,rs,1935,protectorate of zanzibar,siam,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,21223,1,rs,1935,protectorate of zanzibar,spain,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,1050,1,rs,1935,protectorate of zanzibar,finland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,3470,1,rs,1935,protectorate of zanzibar,danzig,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2000,1,rs,1935,protectorate of zanzibar,french somaliland,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,2202,1,rs,1935,protectorate of zanzibar,other foreign countries,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,25147,1,rs,1935,protectorate of zanzibar,ships' use,exp,spe,S,,,,,Country of destination
+GowaJRHicks20132017,7904852,1,rs,1934,protectorate of zanzibar,total,exp,spe,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,8752062,1,rs,1935,protectorate of zanzibar,total,exp,spe,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,4284191,1,rs,1920,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7288196,1,rs,1920,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6475690,1,rs,1920,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2631261,1,rs,1920,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,928787,1,rs,1920,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,290017,1,rs,1920,protectorate of zanzibar,mafia island,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,137496,1,rs,1920,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,20225,1,rs,1920,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,195253,1,rs,1920,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1044761,1,rs,1920,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,571097,1,rs,1920,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,105400,1,rs,1920,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,355994,1,rs,1920,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3068331,1,rs,1920,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,875383,1,rs,1920,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3500,1,rs,1920,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1158244,1,rs,1920,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,207675,1,rs,1920,protectorate of zanzibar,portugal,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,266248,1,rs,1920,protectorate of zanzibar,italian east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1136,1,rs,1920,protectorate of zanzibar,java,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,202910,1,rs,1920,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,30111795,1,rs,1920,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,5460616,1,rs,1921,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6330980,1,rs,1921,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6627906,1,rs,1921,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2695270,1,rs,1921,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,721440,1,rs,1921,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,258798,1,rs,1921,protectorate of zanzibar,mafia island,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,429789,1,rs,1921,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,292187,1,rs,1921,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,453186,1,rs,1921,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,267238,1,rs,1921,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1814889,1,rs,1921,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,435494,1,rs,1921,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1988154,1,rs,1921,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,511383,1,rs,1921,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3413247,1,rs,1921,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,81779,1,rs,1921,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,21145,1,rs,1921,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,399687,1,rs,1921,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,256013,1,rs,1921,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,500,1,rs,1921,protectorate of zanzibar,portugal,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,500,1,rs,1921,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3848,1,rs,1921,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,32464049,1,rs,1921,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,3561534,1,rs,1922,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6796857,1,rs,1922,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6543137,1,rs,1922,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1804801,1,rs,1922,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,578532,1,rs,1922,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,184209,1,rs,1922,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,203722,1,rs,1922,protectorate of zanzibar,mafia island,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,800226,1,rs,1922,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,380624,1,rs,1922,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,532845,1,rs,1922,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,436430,1,rs,1922,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2132450,1,rs,1922,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,510801,1,rs,1922,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,978734,1,rs,1922,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,408633,1,rs,1922,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3415674,1,rs,1922,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,438234,1,rs,1922,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,17275,1,rs,1922,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,519616,1,rs,1922,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,18070,1,rs,1922,protectorate of zanzibar,austria,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,104264,1,rs,1922,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,26089,1,rs,1922,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,9950,1,rs,1922,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,12637,1,rs,1922,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,30415344,1,rs,1922,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,8072463,1,rs,1923,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6250229,1,rs,1923,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5717361,1,rs,1923,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1758523,1,rs,1923,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,336390,1,rs,1923,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,151054,1,rs,1923,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,160652,1,rs,1923,protectorate of zanzibar,mafia island,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,116478,1,rs,1923,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,120803,1,rs,1923,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,959664,1,rs,1923,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,321772,1,rs,1923,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2498843,1,rs,1923,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,325231,1,rs,1923,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1193892,1,rs,1923,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,266392,1,rs,1923,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4306517,1,rs,1923,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,974483,1,rs,1923,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,41956,1,rs,1923,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,467550,1,rs,1923,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4480,1,rs,1923,protectorate of zanzibar,austria,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,127835,1,rs,1923,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,32000,1,rs,1923,protectorate of zanzibar,portugal,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1000,1,rs,1923,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,610,1,rs,1923,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,34206178,1,rs,1923,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,3237386,1,rs,1924,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7925183,1,rs,1924,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5194586,1,rs,1924,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1493499,1,rs,1924,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,92004,1,rs,1924,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,115225,1,rs,1924,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,149058,1,rs,1924,protectorate of zanzibar,mafia island,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,358435,1,rs,1924,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,91089,1,rs,1924,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,729570,1,rs,1924,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,430573,1,rs,1924,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2391421,1,rs,1924,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,333825,1,rs,1924,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,846048,1,rs,1924,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,312882,1,rs,1924,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4847208,1,rs,1924,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1200535,1,rs,1924,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,22668,1,rs,1924,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,522349,1,rs,1924,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,48760,1,rs,1924,protectorate of zanzibar,austria,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,93723,1,rs,1924,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,19500,1,rs,1924,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,8000,1,rs,1924,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,13015,1,rs,1924,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,30476542,1,rs,1924,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,4102638,1,rs,1925,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,8251071,1,rs,1925,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4542825,1,rs,1925,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1196426,1,rs,1925,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,176573,1,rs,1925,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,96041,1,rs,1925,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,193671,1,rs,1925,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,32917,1,rs,1925,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,671100,1,rs,1925,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,316100,1,rs,1925,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2868476,1,rs,1925,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,269762,1,rs,1925,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,454230,1,rs,1925,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,171781,1,rs,1925,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5130940,1,rs,1925,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,964182,1,rs,1925,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,52892,1,rs,1925,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,200210,1,rs,1925,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,21838,1,rs,1925,protectorate of zanzibar,austria,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,113979,1,rs,1925,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,30600,1,rs,1925,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,25385,1,rs,1925,protectorate of zanzibar,turkey,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,551648,1,rs,1925,protectorate of zanzibar,italian east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7840,1,rs,1925,protectorate of zanzibar,greece,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1270,1,rs,1925,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,30444395,1,rs,1925,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,1620853,1,rs,1926,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3232947,1,rs,1926,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4698028,1,rs,1926,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,687533,1,rs,1926,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,164926,1,rs,1926,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,97915,1,rs,1926,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,818041,1,rs,1926,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,115305,1,rs,1926,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,517642,1,rs,1926,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,693078,1,rs,1926,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2570247,1,rs,1926,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,662415,1,rs,1926,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,741382,1,rs,1926,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,204087,1,rs,1926,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5262405,1,rs,1926,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,613722,1,rs,1926,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,130725,1,rs,1926,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,214279,1,rs,1926,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,77658,1,rs,1926,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,66883,1,rs,1926,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,290587,1,rs,1926,protectorate of zanzibar,italian east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,15696,1,rs,1926,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,223888,1,rs,1926,protectorate of zanzibar,deep sea cable,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,68022,1,rs,1926,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,23788264,1,rs,1926,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,1696660,1,rs,1927,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3480728,1,rs,1927,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4321888,1,rs,1927,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,656728,1,rs,1927,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,81014,1,rs,1927,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,107717,1,rs,1927,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1344069,1,rs,1927,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,96711,1,rs,1927,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,945235,1,rs,1927,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1460075,1,rs,1927,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2059241,1,rs,1927,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,921743,1,rs,1927,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,818719,1,rs,1927,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,159807,1,rs,1927,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3707824,1,rs,1927,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1386080,1,rs,1927,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,120300,1,rs,1927,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,224215,1,rs,1927,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,17562,1,rs,1927,protectorate of zanzibar,austria,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,64801,1,rs,1927,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,57468,1,rs,1927,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,313363,1,rs,1927,protectorate of zanzibar,italian east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,9970,1,rs,1927,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,27381,1,rs,1927,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,172986,1,rs,1927,protectorate of zanzibar,deep sea cable,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,124492,1,rs,1927,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,24376777,1,rs,1927,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,1179900,1,rs,1928,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3994511,1,rs,1928,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3963562,1,rs,1928,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,455914,1,rs,1928,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,928187,1,rs,1928,protectorate of zanzibar,straits settlements,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,17960,1,rs,1928,protectorate of zanzibar,canada,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,102346,1,rs,1928,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,56919,1,rs,1928,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,52826,1,rs,1928,protectorate of zanzibar,australia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,10797,1,rs,1928,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,59731,1,rs,1928,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,261297,1,rs,1928,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1744700,1,rs,1928,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1469889,1,rs,1928,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,771472,1,rs,1928,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,354288,1,rs,1928,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,272474,1,rs,1928,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1660659,1,rs,1928,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3445264,1,rs,1928,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,30838,1,rs,1928,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,117514,1,rs,1928,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,82039,1,rs,1928,protectorate of zanzibar,egypt,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,11360,1,rs,1928,protectorate of zanzibar,austria,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1290,1,rs,1928,protectorate of zanzibar,iraq,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,67494,1,rs,1928,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,11699,1,rs,1928,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,531007,1,rs,1928,protectorate of zanzibar,italian east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,125,1,rs,1928,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,9545,1,rs,1928,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,84367,1,rs,1928,protectorate of zanzibar,deep sea cable,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,125797,1,rs,1928,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,21875741,1,rs,1928,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,1536424,1,rs,1929,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4615996,1,rs,1929,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3543074,1,rs,1929,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,437908,1,rs,1929,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,10922,1,rs,1929,protectorate of zanzibar,ceylon,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,832493,1,rs,1929,protectorate of zanzibar,straits settlements,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,38475,1,rs,1929,protectorate of zanzibar,canada,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,99259,1,rs,1929,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,114803,1,rs,1929,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,66509,1,rs,1929,protectorate of zanzibar,australia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,22627,1,rs,1929,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,97686,1,rs,1929,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,600430,1,rs,1929,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2017708,1,rs,1929,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,263526,1,rs,1929,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1482395,1,rs,1929,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,698569,1,rs,1929,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,307803,1,rs,1929,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,196774,1,rs,1929,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1265742,1,rs,1929,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3951603,1,rs,1929,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,59296,1,rs,1929,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,291319,1,rs,1929,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,176484,1,rs,1929,protectorate of zanzibar,egypt,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,33618,1,rs,1929,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,45238,1,rs,1929,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3600,1,rs,1929,protectorate of zanzibar,portugal,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5779,1,rs,1929,protectorate of zanzibar,argentine,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5295,1,rs,1929,protectorate of zanzibar,turkey,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,8926,1,rs,1929,protectorate of zanzibar,tripoli,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,10225,1,rs,1929,protectorate of zanzibar,scandinavia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,16000,1,rs,1929,protectorate of zanzibar,irish free state,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4474,1,rs,1929,protectorate of zanzibar,djibouti,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3750,1,rs,1929,protectorate of zanzibar,danzig,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5333,1,rs,1929,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,806,1,rs,1929,protectorate of zanzibar,deep sea cable,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,97102,1,rs,1929,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,22967971,1,rs,1929,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,1218406,1,rs,1930,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4170533,1,rs,1930,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3314330,1,rs,1930,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,482085,1,rs,1930,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,150,1,rs,1930,protectorate of zanzibar,ceylon,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,852001,1,rs,1930,protectorate of zanzibar,straits settlements,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,43490,1,rs,1930,protectorate of zanzibar,canada,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,69871,1,rs,1930,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,55013,1,rs,1930,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,44049,1,rs,1930,protectorate of zanzibar,australia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,27663,1,rs,1930,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,71910,1,rs,1930,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,66470,1,rs,1930,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2414345,1,rs,1930,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,189600,1,rs,1930,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1329022,1,rs,1930,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,319512,1,rs,1930,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,181468,1,rs,1930,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,195877,1,rs,1930,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2460501,1,rs,1930,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1854848,1,rs,1930,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,930,1,rs,1930,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,127034,1,rs,1930,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,47745,1,rs,1930,protectorate of zanzibar,egypt,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5134,1,rs,1930,protectorate of zanzibar,iraq,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,25086,1,rs,1930,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,17167,1,rs,1930,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2400,1,rs,1930,protectorate of zanzibar,uruguay,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2200,1,rs,1930,protectorate of zanzibar,denmark,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3000,1,rs,1930,protectorate of zanzibar,brazil,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3471,1,rs,1930,protectorate of zanzibar,french somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3000,1,rs,1930,protectorate of zanzibar,tripoli,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5074,1,rs,1930,protectorate of zanzibar,socotra,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1760,1,rs,1930,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,135423,1,rs,1930,protectorate of zanzibar,parcel post,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,69813,1,rs,1930,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,19810381,1,rs,1930,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,927635,1,rs,1931,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3029196,1,rs,1931,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1492981,1,rs,1931,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,247599,1,rs,1931,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6324,1,rs,1931,protectorate of zanzibar,ceylon,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,170396,1,rs,1931,protectorate of zanzibar,straits settlements,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,85372,1,rs,1931,protectorate of zanzibar,canada,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,55112,1,rs,1931,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,38432,1,rs,1931,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,74259,1,rs,1931,protectorate of zanzibar,australia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,14905,1,rs,1931,protectorate of zanzibar,new zealand,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5636,1,rs,1931,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,133145,1,rs,1931,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,168535,1,rs,1931,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4098756,1,rs,1931,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4542,1,rs,1931,protectorate of zanzibar,persia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,92254,1,rs,1931,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1310124,1,rs,1931,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,194916,1,rs,1931,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,390435,1,rs,1931,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,146978,1,rs,1931,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1339841,1,rs,1931,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1436921,1,rs,1931,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,85346,1,rs,1931,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,98319,1,rs,1931,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,73950,1,rs,1931,protectorate of zanzibar,egypt,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6948,1,rs,1931,protectorate of zanzibar,iraq,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,40950,1,rs,1931,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5250,1,rs,1931,protectorate of zanzibar,norway,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,22455,1,rs,1931,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,8960,1,rs,1931,protectorate of zanzibar,uruguay,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4950,1,rs,1931,protectorate of zanzibar,argentine,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4075,1,rs,1931,protectorate of zanzibar,denmark,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3042,1,rs,1931,protectorate of zanzibar,turkey,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3000,1,rs,1931,protectorate of zanzibar,brazil,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7924,1,rs,1931,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,206803,1,rs,1931,protectorate of zanzibar,parcel post,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2728,1,rs,1931,protectorate of zanzibar,deep sea cable,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,56672,1,rs,1931,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,16095666,1,rs,1931,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,821308,1,rs,1932,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2994979,1,rs,1932,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1019183,1,rs,1932,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,211190,1,rs,1932,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,121518,1,rs,1932,protectorate of zanzibar,straits settlements,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,27112,1,rs,1932,protectorate of zanzibar,canada,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,37298,1,rs,1932,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,70551,1,rs,1932,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,22964,1,rs,1932,protectorate of zanzibar,australia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5949,1,rs,1932,protectorate of zanzibar,new zealand,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4794,1,rs,1932,protectorate of zanzibar,mauritius,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2563,1,rs,1932,protectorate of zanzibar,seychelles,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2520,1,rs,1932,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,33774,1,rs,1932,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,198987,1,rs,1932,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1683098,1,rs,1932,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1500,1,rs,1932,protectorate of zanzibar,persia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,125334,1,rs,1932,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,967875,1,rs,1932,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,122509,1,rs,1932,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,319575,1,rs,1932,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,136302,1,rs,1932,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1324749,1,rs,1932,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1412518,1,rs,1932,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2375,1,rs,1932,protectorate of zanzibar,sweden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,169408,1,rs,1932,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,65184,1,rs,1932,protectorate of zanzibar,egypt,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5616,1,rs,1932,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2200,1,rs,1932,protectorate of zanzibar,norway,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,32250,1,rs,1932,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3500,1,rs,1932,protectorate of zanzibar,argentine,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4750,1,rs,1932,protectorate of zanzibar,denmark,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6900,1,rs,1932,protectorate of zanzibar,brazil,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4463,1,rs,1932,protectorate of zanzibar,socotra,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3160,1,rs,1932,protectorate of zanzibar,greece,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2275,1,rs,1932,protectorate of zanzibar,djibouti,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,8582,1,rs,1932,protectorate of zanzibar,belgian congo,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7000,1,rs,1932,protectorate of zanzibar,mexico,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7562,1,rs,1932,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,104539,1,rs,1932,protectorate of zanzibar,parcel post,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,38974,1,rs,1932,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,12136888,1,rs,1932,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination
+GowaJRHicks20132017,994374,1,rs,1933,protectorate of zanzibar,great britain and northern ireland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2803624,1,rs,1933,protectorate of zanzibar,india and burma,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,931874,1,rs,1933,protectorate of zanzibar,tanganyika territory,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,218314,1,rs,1933,protectorate of zanzibar,kenya colony,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5646,1,rs,1933,protectorate of zanzibar,ceylon,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,87602,1,rs,1933,protectorate of zanzibar,straits settlements,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,40796,1,rs,1933,protectorate of zanzibar,canada,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,51914,1,rs,1933,protectorate of zanzibar,union of south africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,48420,1,rs,1933,protectorate of zanzibar,aden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,62158,1,rs,1933,protectorate of zanzibar,australia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,7496,1,rs,1933,protectorate of zanzibar,new zealand,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,24886,1,rs,1933,protectorate of zanzibar,mauritius,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4443,1,rs,1933,protectorate of zanzibar,seychelles,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3000,1,rs,1933,protectorate of zanzibar,other british empire,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,51615,1,rs,1933,protectorate of zanzibar,japan,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,39596,1,rs,1933,protectorate of zanzibar,holland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2172927,1,rs,1933,protectorate of zanzibar,dutch east indies,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,5291,1,rs,1933,protectorate of zanzibar,persia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,120267,1,rs,1933,protectorate of zanzibar,italian somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,924468,1,rs,1933,protectorate of zanzibar,united states of america,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,70540,1,rs,1933,protectorate of zanzibar,portuguese east africa,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,216945,1,rs,1933,protectorate of zanzibar,germany,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,70749,1,rs,1933,protectorate of zanzibar,arabia,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,744261,1,rs,1933,protectorate of zanzibar,france,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1230160,1,rs,1933,protectorate of zanzibar,italy,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,10710,1,rs,1933,protectorate of zanzibar,sweden,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6126,1,rs,1933,protectorate of zanzibar,belgium,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,204524,1,rs,1933,protectorate of zanzibar,china,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,67371,1,rs,1933,protectorate of zanzibar,egypt,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,9616,1,rs,1933,protectorate of zanzibar,iraq,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,9697,1,rs,1933,protectorate of zanzibar,madagascar,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1800,1,rs,1933,protectorate of zanzibar,norway,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,14150,1,rs,1933,protectorate of zanzibar,spain,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,15170,1,rs,1933,protectorate of zanzibar,argentine,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,4850,1,rs,1933,protectorate of zanzibar,denmark,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,10925,1,rs,1933,protectorate of zanzibar,brazil,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,6679,1,rs,1933,protectorate of zanzibar,french somaliland,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3014,1,rs,1933,protectorate of zanzibar,socotra,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,2880,1,rs,1933,protectorate of zanzibar,greece,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3125,1,rs,1933,protectorate of zanzibar,danzig,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,11831,1,rs,1933,protectorate of zanzibar,belgian congo,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,3812,1,rs,1933,protectorate of zanzibar,mexico,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1156,1,rs,1933,protectorate of zanzibar,portuguese india,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,1538,1,rs,1933,protectorate of zanzibar,other foreign countries,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,89454,1,rs,1933,protectorate of zanzibar,parcel post,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,72303,1,rs,1933,protectorate of zanzibar,ships' use,exp,gen,S,,,,,Country of destination
+GowaJRHicks20132017,11482097,1,rs,1933,protectorate of zanzibar,total,exp,gen,S,,,,total_reporting,Country of destination

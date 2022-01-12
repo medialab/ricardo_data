@@ -1,0 +1,31 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ZanzibarProtectorateBlueBook_1918_S2s3,839602,1,£,1918,protectorate of zanzibar,united kingdom,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,509181,1,£,1918,protectorate of zanzibar,india and burma,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,2460,1,£,1918,protectorate of zanzibar,ceylon,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,247594,1,£,1918,protectorate of zanzibar,british east africa,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,28606,1,£,1918,protectorate of zanzibar,mafia island,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,66804,1,£,1918,protectorate of zanzibar,union of south africa,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,31860,1,£,1918,protectorate of zanzibar,mauritius,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,6564,1,£,1918,protectorate of zanzibar,australia,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,249110,1,£,1918,protectorate of zanzibar,german east africa conquered territories,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,20434,1,£,1918,protectorate of zanzibar,other british possessions,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,33485,1,£,1918,protectorate of zanzibar,france,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,19896,1,£,1918,protectorate of zanzibar,holland,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,19134,1,£,1918,protectorate of zanzibar,scandinavia,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,2215,1,£,1918,protectorate of zanzibar,italy,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,48605,1,£,1918,protectorate of zanzibar,united states of america,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,119596,1,£,1918,protectorate of zanzibar,portuguese east africa,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,6270,1,£,1918,protectorate of zanzibar,madagascar and comoro islands,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,14927,1,£,1918,protectorate of zanzibar,italian east africa,imp,gen,,,,,,
+ZanzibarProtectorateBlueBook_1918_S2s3,2366390,1,£,1918,protectorate of zanzibar,total,imp,gen,,,,,total_reporting,
+ZanzibarProtectorateBlueBook_1918_S2s3,7827,1,£,1918,protectorate of zanzibar,united kingdom,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,303091,1,£,1918,protectorate of zanzibar,india and burma,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,261921,1,£,1918,protectorate of zanzibar,union of south africa,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,35963,1,£,1918,protectorate of zanzibar,france,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,91,1,£,1918,protectorate of zanzibar,miscellaneous ports of asia,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,44350,1,£,1918,protectorate of zanzibar,united states of america,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,4934,1,£,1918,protectorate of zanzibar,portuguese east africa,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,14043,1,£,1918,protectorate of zanzibar,madagascar and comoro islands,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,1343,1,£,1918,protectorate of zanzibar,italian east africa,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,140,1,£,1918,protectorate of zanzibar,miscellaneous ports of africa,exp,spe,,,,,,Produce and manufactures of Zanzibar
+ZanzibarProtectorateBlueBook_1918_S2s3,706189,1,£,1918,protectorate of zanzibar,total,exp,spe,,,,,total_reporting,Produce and manufactures of Zanzibar
