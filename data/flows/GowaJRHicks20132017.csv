@@ -1,670 +1,876 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-GowaJRHicks20132017,202863,1,pounds,1921,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,106073,1,pounds,1921,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,940,1,pounds,1921,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,306690,1,pounds,1921,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,207761,1,pounds,1921,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,23729,1,pounds,1921,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,61419,1,pounds,1921,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,68888,1,pounds,1921,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,60236,1,pounds,1921,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,26874,1,pounds,1921,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,644,1,pounds,1921,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,13085,1,pounds,1921,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,78,1,pounds,1921,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,9800,1,pounds,1921,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,448,1,pounds,1921,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,462,1,pounds,1921,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,270535,1,pounds,1922,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,68924,1,pounds,1922,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1566,1,pounds,1922,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,238518,1,pounds,1922,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,359552,1,pounds,1922,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,3566,1,pounds,1922,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,101116,1,pounds,1922,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,105022,1,pounds,1922,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,48095,1,pounds,1922,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,25010,1,pounds,1922,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,6173,1,pounds,1922,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,12412,1,pounds,1922,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,791,1,pounds,1922,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,13368,1,pounds,1922,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,6061,1,pounds,1922,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,39374,1,pounds,1922,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,366867,1,pounds,1923,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,48107,1,pounds,1923,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,9302,1,pounds,1923,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,238976,1,pounds,1923,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,489002,1,pounds,1923,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,2041,1,pounds,1923,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,45061,1,pounds,1923,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,184973,1,pounds,1923,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,69755,1,pounds,1923,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,138904,1,pounds,1923,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,26846,1,pounds,1923,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,12361,1,pounds,1923,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,11985,1,pounds,1923,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,5002,1,pounds,1923,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,8419,1,pounds,1923,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,534966,1,pounds,1924,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,31050,1,pounds,1924,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1950,1,pounds,1924,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,239542,1,pounds,1924,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,805552,1,pounds,1924,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,17129,1,pounds,1924,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,136884,1,pounds,1924,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,220688,1,pounds,1924,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,233435,1,pounds,1924,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,233368,1,pounds,1924,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,53834,1,pounds,1924,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,79085,1,pounds,1924,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,14935,1,pounds,1924,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1673,1,pounds,1924,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,5405,1,pounds,1924,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1807,1,pounds,1924,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,747072,1,pounds,1925,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,51615,1,pounds,1925,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,5636,1,pounds,1925,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,219120,1,pounds,1925,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,983441,1,pounds,1925,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,4176,1,pounds,1925,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,122712,1,pounds,1925,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,158445,1,pounds,1925,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,254024,1,pounds,1925,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,252413,1,pounds,1925,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,38794,1,pounds,1925,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,37125,1,pounds,1925,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,19131,1,pounds,1925,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,358,1,pounds,1925,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,3636,1,pounds,1925,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,3617,1,pounds,1925,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,481249,1,pounds,1926,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,86726,1,pounds,1926,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,54279,1,pounds,1926,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,196807,1,pounds,1926,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1085572,1,pounds,1926,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,10782,1,pounds,1926,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,98935,1,pounds,1926,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,148602,1,pounds,1926,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,233440,1,pounds,1926,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,439777,1,pounds,1926,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,29588,1,pounds,1926,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,123617,1,pounds,1926,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,9548,1,pounds,1926,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,16906,1,pounds,1926,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,2896,1,pounds,1926,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,7254,1,pounds,1926,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,552479,1,pounds,1927,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,63675,1,pounds,1927,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,132505,1,pounds,1927,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,176701,1,pounds,1927,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,888889,1,pounds,1927,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,5996,1,pounds,1927,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,60519,1,pounds,1927,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,230047,1,pounds,1927,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,369165,1,pounds,1927,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,616276,1,pounds,1927,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,23640,1,pounds,1927,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,121397,1,pounds,1927,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,26908,1,pounds,1927,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,15986,1,pounds,1927,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,3894,1,pounds,1927,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,7384,1,pounds,1927,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,729311,1,pounds,1928,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,43664,1,pounds,1928,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,170486,1,pounds,1928,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,198501,1,pounds,1928,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1124430,1,pounds,1928,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,11895,1,pounds,1928,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,184428,1,pounds,1928,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,294963,1,pounds,1928,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,172452,1,pounds,1928,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,710043,1,pounds,1928,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,65703,1,pounds,1928,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,52995,1,pounds,1928,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,55464,1,pounds,1928,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,27417,1,pounds,1928,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,16034,1,pounds,1928,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1704,1,pounds,1928,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,13983,1,pounds,1928,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,50,1,pounds,1928,tanzania,ships stores,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,603626,1,pounds,1929,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,73818,1,pounds,1929,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,96469,1,pounds,1929,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,146087,1,pounds,1929,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,785343,1,pounds,1929,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,12326,1,pounds,1929,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,153190,1,pounds,1929,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,143979,1,pounds,1929,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,218387,1,pounds,1929,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1067035,1,pounds,1929,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,91442,1,pounds,1929,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,141118,1,pounds,1929,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,122900,1,pounds,1929,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,523,1,pounds,1929,tanzania,portugal,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,32548,1,pounds,1929,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,5085,1,pounds,1929,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1978,1,pounds,1929,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,26975,1,pounds,1929,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,353734,1,pounds,1930,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,81242,1,pounds,1930,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,41403,1,pounds,1930,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,102919,1,pounds,1930,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,550276,1,pounds,1930,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,33000,1,pounds,1930,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,31573,1,pounds,1930,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,92302,1,pounds,1930,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,144633,1,pounds,1930,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,862118,1,pounds,1930,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,81793,1,pounds,1930,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,178138,1,pounds,1930,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,7497,1,pounds,1930,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,31748,1,pounds,1930,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,5526,1,pounds,1930,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1702,1,pounds,1930,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,36370,1,pounds,1930,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,240978,1,pounds,1931,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,54847,1,pounds,1931,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,25675,1,pounds,1931,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,84398,1,pounds,1931,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,385420,1,pounds,1931,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,17494,1,pounds,1931,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,35238,1,pounds,1931,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,33521,1,pounds,1931,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,62003,1,pounds,1931,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,555584,1,pounds,1931,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,25119,1,pounds,1931,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,48445,1,pounds,1931,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,500,1,pounds,1931,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,35740,1,pounds,1931,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,4958,1,pounds,1931,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,2030,1,pounds,1931,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,33331,1,pounds,1931,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,639742,1,pounds,1932,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,83637,1,pounds,1932,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,12308,1,pounds,1932,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,87970,1,pounds,1932,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,583672,1,pounds,1932,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,8817,1,pounds,1932,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,67802,1,pounds,1932,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,68891,1,pounds,1932,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,157561,1,pounds,1932,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,300117,1,pounds,1932,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,26218,1,pounds,1932,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,63059,1,pounds,1932,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,28213,1,pounds,1932,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,186,1,pounds,1932,tanzania,portugal,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,21319,1,pounds,1932,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,7444,1,pounds,1932,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1183,1,pounds,1932,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,32009,1,pounds,1932,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,678945,1,pounds,1933,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,157929,1,pounds,1933,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,24413,1,pounds,1933,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,68297,1,pounds,1933,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,625582,1,pounds,1933,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,25445,1,pounds,1933,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,48565,1,pounds,1933,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,73017,1,pounds,1933,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,277516,1,pounds,1933,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,335816,1,pounds,1933,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,52622,1,pounds,1933,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,80189,1,pounds,1933,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,29,1,pounds,1933,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,926,1,pounds,1933,tanzania,portugal,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,19631,1,pounds,1933,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,17342,1,pounds,1933,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,6151,1,pounds,1933,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,50747,1,pounds,1933,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,724404,1,pounds,1934,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,165527,1,pounds,1934,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,34165,1,pounds,1934,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,42534,1,pounds,1934,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,818245,1,pounds,1934,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,19130,1,pounds,1934,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,25159,1,pounds,1934,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,53840,1,pounds,1934,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,229384,1,pounds,1934,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,230377,1,pounds,1934,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,46727,1,pounds,1934,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,76059,1,pounds,1934,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,66697,1,pounds,1934,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,165,1,pounds,1934,tanzania,portugal,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,22621,1,pounds,1934,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,14172,1,pounds,1934,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,2580,1,pounds,1934,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,73497,1,pounds,1934,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1079990,1,pounds,1935,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,320048,1,pounds,1935,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,43383,1,pounds,1935,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,44227,1,pounds,1935,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,787100,1,pounds,1935,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,85520,1,pounds,1935,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,131127,1,pounds,1935,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,126872,1,pounds,1935,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,249998,1,pounds,1935,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,343343,1,pounds,1935,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,29222,1,pounds,1935,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,66986,1,pounds,1935,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,13083,1,pounds,1935,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,786,1,pounds,1935,tanzania,portugal,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,24354,1,pounds,1935,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,4017,1,pounds,1935,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,4128,1,pounds,1935,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,90958,1,pounds,1935,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1,1,pounds,1935,tanzania,ships stores,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1452145,1,pounds,1936,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,268566,1,pounds,1936,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,69851,1,pounds,1936,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,37762,1,pounds,1936,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,725881,1,pounds,1936,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,137472,1,pounds,1936,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,310377,1,pounds,1936,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,170305,1,pounds,1936,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,325844,1,pounds,1936,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,573647,1,pounds,1936,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,55531,1,pounds,1936,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,142416,1,pounds,1936,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,103260,1,pounds,1936,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,24060,1,pounds,1936,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,2310,1,pounds,1936,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,6922,1,pounds,1936,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,109656,1,pounds,1936,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,279,1,pounds,1936,tanzania,ships stores,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1486568,1,pounds,1937,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,418185,1,pounds,1937,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,142248,1,pounds,1937,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,60535,1,pounds,1937,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,794272,1,pounds,1937,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,128604,1,pounds,1937,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,232491,1,pounds,1937,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,201954,1,pounds,1937,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,501181,1,pounds,1937,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,596473,1,pounds,1937,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,46284,1,pounds,1937,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,210677,1,pounds,1937,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,9370,1,pounds,1937,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,31287,1,pounds,1937,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1509,1,pounds,1937,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,7351,1,pounds,1937,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,99823,1,pounds,1937,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,640,1,pounds,1937,tanzania,ships stores,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1198252,1,pounds,1938,tanzania,uk,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,250466,1,pounds,1938,tanzania,british india,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,82836,1,pounds,1938,tanzania,union of south africa,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,45364,1,pounds,1938,tanzania,zanzibar,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,730708,1,pounds,1938,tanzania,kenya and uganda,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,133153,1,pounds,1938,tanzania,other british possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,174616,1,pounds,1938,tanzania,us,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,138048,1,pounds,1938,tanzania,france,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,282216,1,pounds,1938,tanzania,germany,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,389172,1,pounds,1938,tanzania,belgium,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,14739,1,pounds,1938,tanzania,italy,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,140057,1,pounds,1938,tanzania,holland,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,15180,1,pounds,1938,tanzania,japan,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,310,1,pounds,1938,tanzania,portugal,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,36863,1,pounds,1938,tanzania,belgian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1840,1,pounds,1938,tanzania,italian possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,4711,1,pounds,1938,tanzania,portuguese possessions,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,68343,1,pounds,1938,tanzania,other foreign countries,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,687,1,pounds,1938,tanzania,ships stores,exp,,S,,,,,Countries of consignment
-GowaJRHicks20132017,1089990,1,pounds,1921,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,1300083,1,pounds,1922,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,1657601,1,pounds,1923,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,2611303,1,pounds,1924,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,2901315,1,pounds,1925,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,3025978,1,pounds,1926,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,3295461,1,pounds,1927,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,3873523,1,pounds,1928,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,3722829,1,pounds,1929,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,2635974,1,pounds,1930,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,1645281,1,pounds,1931,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,2190148,1,pounds,1932,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,2543162,1,pounds,1933,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,2645283,1,pounds,1934,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,3445143,1,pounds,1935,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,4516284,1,pounds,1936,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,4969542,1,pounds,1937,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,3707561,1,pounds,1938,tanzania,total,exp,,S,,,,total_reporting,Countries of consignment
-GowaJRHicks20132017,332065,1,pounds,1921,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,410009,1,pounds,1921,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,293409,1,pounds,1921,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,292052,1,pounds,1921,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,47517,1,pounds,1921,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,15017,1,pounds,1921,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,3380,1,pounds,1921,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,8299,1,pounds,1921,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,7814,1,pounds,1921,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2624,1,pounds,1921,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4497,1,pounds,1921,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1237,1,pounds,1921,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,192,1,pounds,1921,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,691,1,pounds,1921,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,6072,1,pounds,1921,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4027,1,pounds,1921,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2466,1,pounds,1921,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,916769,1,pounds,1922,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,371725,1,pounds,1922,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,441634,1,pounds,1922,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,304363,1,pounds,1922,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,14080,1,pounds,1922,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4989,1,pounds,1922,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1193,1,pounds,1922,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,12477,1,pounds,1922,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,43763,1,pounds,1922,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,12338,1,pounds,1922,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,20087,1,pounds,1922,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2181,1,pounds,1922,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,62,1,pounds,1922,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,680,1,pounds,1922,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,52,1,pounds,1922,tanzania,french possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,8213,1,pounds,1922,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,354,1,pounds,1922,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1834,1,pounds,1922,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,3406,1,pounds,1922,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,851437,1,pounds,1923,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,337267,1,pounds,1923,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,525423,1,pounds,1923,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,297729,1,pounds,1923,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,13733,1,pounds,1923,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,6240,1,pounds,1923,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,20328,1,pounds,1923,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,10620,1,pounds,1923,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,84456,1,pounds,1923,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,8916,1,pounds,1923,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,34008,1,pounds,1923,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4118,1,pounds,1923,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,98,1,pounds,1923,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,6334,1,pounds,1923,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,11007,1,pounds,1923,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,23,1,pounds,1923,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4450,1,pounds,1923,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4964,1,pounds,1923,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,451476,1,pounds,1924,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,330439,1,pounds,1924,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,879882,1,pounds,1924,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,324648,1,pounds,1924,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,13442,1,pounds,1924,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,29263,1,pounds,1924,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,15467,1,pounds,1924,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,13424,1,pounds,1924,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,134055,1,pounds,1924,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,8154,1,pounds,1924,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,92582,1,pounds,1924,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,6664,1,pounds,1924,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,227,1,pounds,1924,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,47651,1,pounds,1924,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,8271,1,pounds,1924,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,175,1,pounds,1924,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,3853,1,pounds,1924,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,6267,1,pounds,1924,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1361114,1,pounds,1925,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,34081,1,pounds,1925,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,201338,1,pounds,1925,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,494833,1,pounds,1925,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,16125,1,pounds,1925,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,81815,1,pounds,1925,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,111637,1,pounds,1925,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,27255,1,pounds,1925,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,300028,1,pounds,1925,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,13367,1,pounds,1925,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,257610,1,pounds,1925,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,22387,1,pounds,1925,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1041,1,pounds,1925,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,205214,1,pounds,1925,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4326,1,pounds,1925,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,264,1,pounds,1925,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1672,1,pounds,1925,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,72304,1,pounds,1925,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1710692,1,pounds,1926,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,9304,1,pounds,1926,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,134772,1,pounds,1926,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,463086,1,pounds,1926,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,19245,1,pounds,1926,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,63073,1,pounds,1926,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,184004,1,pounds,1926,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,33722,1,pounds,1926,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,295445,1,pounds,1926,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,19087,1,pounds,1926,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,277295,1,pounds,1926,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,24570,1,pounds,1926,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,978,1,pounds,1926,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,228833,1,pounds,1926,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4936,1,pounds,1926,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,573,1,pounds,1926,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1507,1,pounds,1926,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,126802,1,pounds,1926,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1485520,1,pounds,1927,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,7696,1,pounds,1927,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,178552,1,pounds,1927,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,485680,1,pounds,1927,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,12902,1,pounds,1927,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,65631,1,pounds,1927,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,263420,1,pounds,1927,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,37612,1,pounds,1927,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,408793,1,pounds,1927,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,41233,1,pounds,1927,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,328877,1,pounds,1927,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,28060,1,pounds,1927,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1338,1,pounds,1927,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,233132,1,pounds,1927,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,3276,1,pounds,1927,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,134,1,pounds,1927,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,789,1,pounds,1927,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,182142,1,pounds,1927,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1648074,1,pounds,1928,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,9240,1,pounds,1928,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,140299,1,pounds,1928,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,460069,1,pounds,1928,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,19684,1,pounds,1928,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,47376,1,pounds,1928,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,308134,1,pounds,1928,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,46234,1,pounds,1928,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,460617,1,pounds,1928,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,41866,1,pounds,1928,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,351951,1,pounds,1928,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,38202,1,pounds,1928,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1444,1,pounds,1928,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,242925,1,pounds,1928,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4109,1,pounds,1928,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,303,1,pounds,1928,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,608,1,pounds,1928,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,233679,1,pounds,1928,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1746529,1,pounds,1929,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,6182,1,pounds,1929,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,195223,1,pounds,1929,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,529382,1,pounds,1929,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,42418,1,pounds,1929,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,116423,1,pounds,1929,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,341559,1,pounds,1929,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,50647,1,pounds,1929,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,524658,1,pounds,1929,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,58633,1,pounds,1929,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,341303,1,pounds,1929,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,51225,1,pounds,1929,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,920,1,pounds,1929,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,255696,1,pounds,1929,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,5625,1,pounds,1929,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,115,1,pounds,1929,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,918,1,pounds,1929,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,300849,1,pounds,1929,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1766448,1,pounds,1930,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4837,1,pounds,1930,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,177585,1,pounds,1930,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,402905,1,pounds,1930,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,34320,1,pounds,1930,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,90744,1,pounds,1930,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,269354,1,pounds,1930,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,37924,1,pounds,1930,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,351426,1,pounds,1930,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,29732,1,pounds,1930,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,244863,1,pounds,1930,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,39602,1,pounds,1930,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1051,1,pounds,1930,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,264893,1,pounds,1930,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,18797,1,pounds,1930,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1566,1,pounds,1930,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2153,1,pounds,1930,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,324835,1,pounds,1930,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,957720,1,pounds,1931,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,3884,1,pounds,1931,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,172610,1,pounds,1931,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,265584,1,pounds,1931,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,74323,1,pounds,1931,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,42727,1,pounds,1931,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,164783,1,pounds,1931,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,28769,1,pounds,1931,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,153029,1,pounds,1931,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,25184,1,pounds,1931,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,124979,1,pounds,1931,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,24646,1,pounds,1931,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,819,1,pounds,1931,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,265598,1,pounds,1931,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,14744,1,pounds,1931,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,950,1,pounds,1931,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1484,1,pounds,1931,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,224782,1,pounds,1931,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,697870,1,pounds,1932,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2621,1,pounds,1932,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,164210,1,pounds,1932,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,174503,1,pounds,1932,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,26046,1,pounds,1932,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,41814,1,pounds,1932,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,105038,1,pounds,1932,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,27967,1,pounds,1932,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,136590,1,pounds,1932,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,17461,1,pounds,1932,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,74099,1,pounds,1932,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,16692,1,pounds,1932,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,420,1,pounds,1932,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,307931,1,pounds,1932,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,17998,1,pounds,1932,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,911,1,pounds,1932,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,754,1,pounds,1932,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,190217,1,pounds,1932,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,693611,1,pounds,1933,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2271,1,pounds,1933,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,196280,1,pounds,1933,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,133911,1,pounds,1933,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,15112,1,pounds,1933,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,38035,1,pounds,1933,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,65868,1,pounds,1933,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,24907,1,pounds,1933,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,197775,1,pounds,1933,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,24118,1,pounds,1933,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,60934,1,pounds,1933,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,14193,1,pounds,1933,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,533,1,pounds,1933,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,416846,1,pounds,1933,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2675,1,pounds,1933,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,117,1,pounds,1933,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,536,1,pounds,1933,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,185555,1,pounds,1933,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,843224,1,pounds,1934,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1882,1,pounds,1934,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,268880,1,pounds,1934,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,124837,1,pounds,1934,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,14115,1,pounds,1934,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,51145,1,pounds,1934,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,133282,1,pounds,1934,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,28792,1,pounds,1934,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,230022,1,pounds,1934,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,34126,1,pounds,1934,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,53849,1,pounds,1934,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,14039,1,pounds,1934,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,636,1,pounds,1934,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,522797,1,pounds,1934,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,19745,1,pounds,1934,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,92,1,pounds,1934,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,155,1,pounds,1934,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,199042,1,pounds,1934,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1145444,1,pounds,1935,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1820,1,pounds,1935,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,285258,1,pounds,1935,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,144978,1,pounds,1935,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,37517,1,pounds,1935,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,80062,1,pounds,1935,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,197676,1,pounds,1935,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,27548,1,pounds,1935,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,317719,1,pounds,1935,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,40720,1,pounds,1935,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,44112,1,pounds,1935,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,12050,1,pounds,1935,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,818,1,pounds,1935,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,655825,1,pounds,1935,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,37903,1,pounds,1935,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,34,1,pounds,1935,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,191,1,pounds,1935,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,239889,1,pounds,1935,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1237892,1,pounds,1936,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2375,1,pounds,1936,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,277891,1,pounds,1936,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,169371,1,pounds,1936,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,20172,1,pounds,1936,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,76682,1,pounds,1936,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,217469,1,pounds,1936,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,28366,1,pounds,1936,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,472933,1,pounds,1936,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,44868,1,pounds,1936,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,46997,1,pounds,1936,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,5302,1,pounds,1936,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,499,1,pounds,1936,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,781488,1,pounds,1936,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,33797,1,pounds,1936,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,2,1,pounds,1936,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,828,1,pounds,1936,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,264631,1,pounds,1936,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1228633,1,pounds,1937,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1661,1,pounds,1937,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,363397,1,pounds,1937,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,211549,1,pounds,1937,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,27320,1,pounds,1937,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,79244,1,pounds,1937,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,254188,1,pounds,1937,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,27737,1,pounds,1937,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,525585,1,pounds,1937,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,70674,1,pounds,1937,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,92381,1,pounds,1937,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,15248,1,pounds,1937,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,857,1,pounds,1937,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,933512,1,pounds,1937,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,48483,1,pounds,1937,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,5,1,pounds,1937,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1736,1,pounds,1937,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,318815,1,pounds,1937,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1014708,1,pounds,1938,tanzania,uk,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1495,1,pounds,1938,tanzania,zanzibar,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,388294,1,pounds,1938,tanzania,kenya and uganda,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,162137,1,pounds,1938,tanzania,british india,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,59672,1,pounds,1938,tanzania,union of south africa,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,73870,1,pounds,1938,tanzania,other british possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,242151,1,pounds,1938,tanzania,us,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,25362,1,pounds,1938,tanzania,france,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,460620,1,pounds,1938,tanzania,germany,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,45593,1,pounds,1938,tanzania,belgium,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,106182,1,pounds,1938,tanzania,holland,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,14970,1,pounds,1938,tanzania,italy,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,682,1,pounds,1938,tanzania,portugal,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,593440,1,pounds,1938,tanzania,japan,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,20766,1,pounds,1938,tanzania,belgian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,4,1,pounds,1938,tanzania,italian possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,153,1,pounds,1938,tanzania,portuguese possessions,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,326942,1,pounds,1938,tanzania,other foreign countries,imp,,S,,,,,Countries of origin
-GowaJRHicks20132017,1431368,1,pounds,1921,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2160200,1,pounds,1922,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2221151,1,pounds,1923,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2365940,1,pounds,1924,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,3206411,1,pounds,1925,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,3597924,1,pounds,1926,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,3764787,1,pounds,1927,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,4054814,1,pounds,1928,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,4568305,1,pounds,1929,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,4063035,1,pounds,1930,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2546615,1,pounds,1931,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2003142,1,pounds,1932,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2073277,1,pounds,1933,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,2540660,1,pounds,1934,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,3269564,1,pounds,1935,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,3681563,1,pounds,1936,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,4201025,1,pounds,1937,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
-GowaJRHicks20132017,3537041,1,pounds,1938,tanzania,total,imp,,S,,,,total_reporting,Countries of origin
+GowaJRHicks20132017,337384,1,pounds,1921,northern rhodesia,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,120,1,pounds,1921,northern rhodesia,new zealand,exp,,,,,,,
+GowaJRHicks20132017,45,1,pounds,1921,northern rhodesia,kenya colony,exp,,,,,,,
+GowaJRHicks20132017,34,1,pounds,1921,northern rhodesia,s.w. africa protectorate,exp,,,,,,,
+GowaJRHicks20132017,3163,1,pounds,1921,northern rhodesia,north east rhodesia,exp,,,,,,,
+GowaJRHicks20132017,35522,1,pounds,1921,northern rhodesia,southern rhodesia,exp,,,,,,,
+GowaJRHicks20132017,48826,1,pounds,1921,northern rhodesia,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,768,1,pounds,1921,northern rhodesia,nyassaland protectorate,exp,,,,,,,
+GowaJRHicks20132017,32,1,pounds,1921,northern rhodesia,belgium,exp,,,,,,,
+GowaJRHicks20132017,133025,1,pounds,1921,northern rhodesia,belgian congo,exp,,,,,,,
+GowaJRHicks20132017,35,1,pounds,1921,northern rhodesia,germany,exp,,,,,,,
+GowaJRHicks20132017,125,1,pounds,1921,northern rhodesia,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,911,1,pounds,1921,northern rhodesia,portuguese west africa,exp,,,,,,,
+GowaJRHicks20132017,4770,1,pounds,1921,northern rhodesia,united states of america,exp,,,,,,,
+GowaJRHicks20132017,231890,1,pounds,1922,northern rhodesia,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,79,1,pounds,1922,northern rhodesia,india,exp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1922,northern rhodesia,australia,exp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1922,northern rhodesia,new zealand,exp,,,,,,,
+GowaJRHicks20132017,1647,1,pounds,1922,northern rhodesia,north east rhodesia,exp,,,,,,,
+GowaJRHicks20132017,39595,1,pounds,1922,northern rhodesia,southern rhodesia,exp,,,,,,,
+GowaJRHicks20132017,45879,1,pounds,1922,northern rhodesia,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,183,1,pounds,1922,northern rhodesia,nyassaland protectorate,exp,,,,,,,
+GowaJRHicks20132017,158737,1,pounds,1922,northern rhodesia,belgium,exp,,,,,,,
+GowaJRHicks20132017,110967,1,pounds,1922,northern rhodesia,belgian congo,exp,,,,,,,
+GowaJRHicks20132017,900,1,pounds,1922,northern rhodesia,germany,exp,,,,,,,
+GowaJRHicks20132017,451,1,pounds,1922,northern rhodesia,holland,exp,,,,,,,
+GowaJRHicks20132017,1416,1,pounds,1922,northern rhodesia,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,188,1,pounds,1922,northern rhodesia,portuguese west africa,exp,,,,,,,
+GowaJRHicks20132017,7385,1,pounds,1922,northern rhodesia,united states of america,exp,,,,,,,
+GowaJRHicks20132017,131925,1,£,1926,northern rhodesia,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,440,1,£,1926,northern rhodesia,australia,exp,,,,,,,
+GowaJRHicks20132017,307,1,£,1926,northern rhodesia,new zealand,exp,,,,,,,
+GowaJRHicks20132017,105,1,£,1926,northern rhodesia,hong kong,exp,,,,,,,
+GowaJRHicks20132017,5,1,£,1926,northern rhodesia,kenya colony,exp,,,,,,,
+GowaJRHicks20132017,9684,1,£,1926,northern rhodesia,north east rhodesia,exp,,,,,,,
+GowaJRHicks20132017,65543,1,£,1926,northern rhodesia,southern rhodesia,exp,,,,,,,
+GowaJRHicks20132017,161439,1,£,1926,northern rhodesia,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,295,1,£,1926,northern rhodesia,nyassaland protectorate,exp,,,,,,,
+GowaJRHicks20132017,14245,1,£,1926,northern rhodesia,belgium,exp,,,,,,,
+GowaJRHicks20132017,95518,1,£,1926,northern rhodesia,belgian congo,exp,,,,,,,
+GowaJRHicks20132017,73,1,£,1926,northern rhodesia,france,exp,,,,,,,
+GowaJRHicks20132017,2112,1,£,1926,northern rhodesia,germany,exp,,,,,,,
+GowaJRHicks20132017,419,1,£,1926,northern rhodesia,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,361,1,£,1926,northern rhodesia,united states of america,exp,,,,,,,
+GowaJRHicks20132017,263723,1,£,1927,northern rhodesia,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,4,1,£,1927,northern rhodesia,canada,exp,,,,,,,
+GowaJRHicks20132017,360,1,£,1927,northern rhodesia,ceylon,exp,,,,,,,
+GowaJRHicks20132017,17,1,£,1927,northern rhodesia,australia,exp,,,,,,,
+GowaJRHicks20132017,117,1,£,1927,northern rhodesia,hong kong,exp,,,,,,,
+GowaJRHicks20132017,7396,1,£,1927,northern rhodesia,north east rhodesia,exp,,,,,,,
+GowaJRHicks20132017,77221,1,£,1927,northern rhodesia,southern rhodesia,exp,,,,,,,
+GowaJRHicks20132017,167284,1,£,1927,northern rhodesia,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,12,1,£,1927,northern rhodesia,nyassaland protectorate,exp,,,,,,,
+GowaJRHicks20132017,416,1,£,1927,northern rhodesia,british west india islands,exp,,,,,,,
+GowaJRHicks20132017,48524,1,£,1927,northern rhodesia,belgium,exp,,,,,,,
+GowaJRHicks20132017,131072,1,£,1927,northern rhodesia,belgian congo,exp,,,,,,,
+GowaJRHicks20132017,9,1,£,1927,northern rhodesia,france,exp,,,,,,,
+GowaJRHicks20132017,5945,1,£,1927,northern rhodesia,germany,exp,,,,,,,
+GowaJRHicks20132017,5477,1,£,1927,northern rhodesia,holland,exp,,,,,,,
+GowaJRHicks20132017,11323,1,£,1927,northern rhodesia,italy,exp,,,,,,,
+GowaJRHicks20132017,93,1,£,1927,northern rhodesia,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,13,1,£,1927,northern rhodesia,portuguese west africa,exp,,,,,,,
+GowaJRHicks20132017,12,1,£,1927,northern rhodesia,switzerland,exp,,,,,,,
+GowaJRHicks20132017,36,1,£,1927,northern rhodesia,united states of america,exp,,,,,,,
+GowaJRHicks20132017,366870,1,£,1928,northern rhodesia,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,141,1,£,1928,northern rhodesia,india,exp,,,,,,,
+GowaJRHicks20132017,17,1,£,1928,northern rhodesia,australia,exp,,,,,,,
+GowaJRHicks20132017,172,1,£,1928,northern rhodesia,hong kong,exp,,,,,,,
+GowaJRHicks20132017,74,1,£,1928,northern rhodesia,kenya colony,exp,,,,,,,
+GowaJRHicks20132017,5392,1,£,1928,northern rhodesia,north east rhodesia,exp,,,,,,,
+GowaJRHicks20132017,77441,1,£,1928,northern rhodesia,southern rhodesia,exp,,,,,,,
+GowaJRHicks20132017,98442,1,£,1928,northern rhodesia,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,1944,1,£,1928,northern rhodesia,nyassaland protectorate,exp,,,,,,,
+GowaJRHicks20132017,1,1,£,1928,northern rhodesia,austria,exp,,,,,,,
+GowaJRHicks20132017,81458,1,£,1928,northern rhodesia,belgium,exp,,,,,,,
+GowaJRHicks20132017,82015,1,£,1928,northern rhodesia,belgian congo,exp,,,,,,,
+GowaJRHicks20132017,590,1,£,1928,northern rhodesia,france,exp,,,,,,,
+GowaJRHicks20132017,60604,1,£,1928,northern rhodesia,germany,exp,,,,,,,
+GowaJRHicks20132017,10555,1,£,1928,northern rhodesia,holland,exp,,,,,,,
+GowaJRHicks20132017,29401,1,£,1928,northern rhodesia,italy,exp,,,,,,,
+GowaJRHicks20132017,178,1,£,1928,northern rhodesia,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,17,1,£,1928,northern rhodesia,portuguese west africa,exp,,,,,,,
+GowaJRHicks20132017,19,1,£,1928,northern rhodesia,switzerland,exp,,,,,,,
+GowaJRHicks20132017,321,1,£,1928,northern rhodesia,china,exp,,,,,,,
+GowaJRHicks20132017,7377,1,£,1928,northern rhodesia,united states of america,exp,,,,,,,
+GowaJRHicks20132017,456876,1,£,1929,northern rhodesia,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,5,1,£,1929,northern rhodesia,canada,exp,,,,,,,
+GowaJRHicks20132017,104,1,£,1929,northern rhodesia,new zealand,exp,,,,,,,
+GowaJRHicks20132017,366,1,£,1929,northern rhodesia,hong kong,exp,,,,,,,
+GowaJRHicks20132017,8481,1,£,1929,northern rhodesia,north east rhodesia,exp,,,,,,,
+GowaJRHicks20132017,79426,1,£,1929,northern rhodesia,southern rhodesia,exp,,,,,,,
+GowaJRHicks20132017,72548,1,£,1929,northern rhodesia,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,4158,1,£,1929,northern rhodesia,nyassaland protectorate,exp,,,,,,,
+GowaJRHicks20132017,46,1,£,1929,northern rhodesia,uganda,exp,,,,,,,
+GowaJRHicks20132017,22,1,£,1929,northern rhodesia,zanzibar,exp,,,,,,,
+GowaJRHicks20132017,62231,1,£,1929,northern rhodesia,belgium,exp,,,,,,,
+GowaJRHicks20132017,75755,1,£,1929,northern rhodesia,belgian congo,exp,,,,,,,
+GowaJRHicks20132017,1120,1,£,1929,northern rhodesia,france,exp,,,,,,,
+GowaJRHicks20132017,65222,1,£,1929,northern rhodesia,germany,exp,,,,,,,
+GowaJRHicks20132017,20981,1,£,1929,northern rhodesia,holland,exp,,,,,,,
+GowaJRHicks20132017,21107,1,£,1929,northern rhodesia,italy,exp,,,,,,,
+GowaJRHicks20132017,474,1,£,1929,northern rhodesia,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,76,1,£,1929,northern rhodesia,switzerland,exp,,,,,,,
+GowaJRHicks20132017,554,1,£,1929,northern rhodesia,china,exp,,,,,,,
+GowaJRHicks20132017,13375,1,£,1929,northern rhodesia,united states of america,exp,,,,,,,
+GowaJRHicks20132017,564760,1,pounds,1921,northern rhodesia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,599330,1,pounds,1922,northern rhodesia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,482471,1,£,1926,northern rhodesia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,719054,1,£,1927,northern rhodesia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,823029,1,£,1928,northern rhodesia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,882927,1,£,1929,northern rhodesia,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,86329,1,pounds,1912,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,1283,1,pounds,1912,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,3211,1,pounds,1912,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,224,1,pounds,1912,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,577,1,pounds,1912,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,24,1,pounds,1912,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1912,northern rhodesia,british east india islands,imp,,,,,,,
+GowaJRHicks20132017,13,1,pounds,1912,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,10,1,pounds,1912,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1912,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,625,1,pounds,1912,northern rhodesia,northern rhodesia,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1912,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,34,1,pounds,1912,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,303,1,pounds,1912,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,5032,1,pounds,1912,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,1629,1,pounds,1912,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,123,1,pounds,1912,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1995,1,pounds,1912,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1912,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,13301,1,pounds,1912,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,55,1,pounds,1912,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,1294,1,pounds,1912,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,165,1,pounds,1912,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,2379,1,pounds,1912,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,121,1,pounds,1912,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,108,1,pounds,1912,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,29,1,pounds,1912,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,93,1,pounds,1912,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,33,1,pounds,1912,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,93,1,pounds,1912,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,2046,1,pounds,1912,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,102,1,pounds,1912,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,83,1,pounds,1912,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,24,1,pounds,1912,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,1071,1,pounds,1912,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1912,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,134,1,pounds,1912,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,8,1,pounds,1912,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,6933,1,pounds,1912,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1912,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1912,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,315,1,pounds,1912,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1912,northern rhodesia,chili,imp,,,,,,,
+GowaJRHicks20132017,38,1,pounds,1912,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,70,1,pounds,1912,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,55688,1,pounds,1912,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,121070,1,pounds,1913,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,1103,1,pounds,1913,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,4893,1,pounds,1913,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,310,1,pounds,1913,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,765,1,pounds,1913,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,13,1,pounds,1913,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,18,1,pounds,1913,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,54,1,pounds,1913,northern rhodesia,northern rhodesia,imp,,,,,,,
+GowaJRHicks20132017,803,1,pounds,1913,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,32,1,pounds,1913,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,700,1,pounds,1913,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,5722,1,pounds,1913,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,3213,1,pounds,1913,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,114,1,pounds,1913,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1907,1,pounds,1913,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,algeria,imp,,,,,,,
+GowaJRHicks20132017,50,1,pounds,1913,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,16432,1,pounds,1913,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,58,1,pounds,1913,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,2048,1,pounds,1913,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,224,1,pounds,1913,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,2342,1,pounds,1913,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,289,1,pounds,1913,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,270,1,pounds,1913,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,19,1,pounds,1913,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,378,1,pounds,1913,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1913,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,148,1,pounds,1913,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,1564,1,pounds,1913,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,279,1,pounds,1913,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,90,1,pounds,1913,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,40,1,pounds,1913,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,1320,1,pounds,1913,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1913,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,230,1,pounds,1913,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,58,1,pounds,1913,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,10198,1,pounds,1913,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1913,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,costa rica,imp,,,,,,,
+GowaJRHicks20132017,14,1,pounds,1913,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,299,1,pounds,1913,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1913,northern rhodesia,chili,imp,,,,,,,
+GowaJRHicks20132017,50,1,pounds,1913,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,84,1,pounds,1913,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,62905,1,pounds,1913,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,100034,1,pounds,1914,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,930,1,pounds,1914,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,4117,1,pounds,1914,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,316,1,pounds,1914,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,522,1,pounds,1914,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1914,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1914,northern rhodesia,cyprus,imp,,,,,,,
+GowaJRHicks20132017,10,1,pounds,1914,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,15,1,pounds,1914,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1914,northern rhodesia,british west africa,imp,,,,,,,
+GowaJRHicks20132017,218,1,pounds,1914,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,658,1,pounds,1914,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1914,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,26,1,pounds,1914,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,402,1,pounds,1914,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,2517,1,pounds,1914,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,1167,1,pounds,1914,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,169,1,pounds,1914,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1750,1,pounds,1914,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1914,northern rhodesia,algeria,imp,,,,,,,
+GowaJRHicks20132017,6,1,pounds,1914,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,11565,1,pounds,1914,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1914,northern rhodesia,german east africa,imp,,,,,,,
+GowaJRHicks20132017,46,1,pounds,1914,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,2095,1,pounds,1914,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,88,1,pounds,1914,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,2521,1,pounds,1914,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1914,northern rhodesia,tripoli,imp,,,,,,,
+GowaJRHicks20132017,198,1,pounds,1914,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,198,1,pounds,1914,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,17,1,pounds,1914,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,855,1,pounds,1914,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1914,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,65,1,pounds,1914,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,146,1,pounds,1914,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,1657,1,pounds,1914,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,172,1,pounds,1914,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,61,1,pounds,1914,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,32,1,pounds,1914,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,929,1,pounds,1914,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1914,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,191,1,pounds,1914,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,40,1,pounds,1914,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,7276,1,pounds,1914,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1914,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,21,1,pounds,1914,northern rhodesia,costa rica,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1914,northern rhodesia,panama,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1914,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,362,1,pounds,1914,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,43,1,pounds,1914,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,91,1,pounds,1914,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,56832,1,pounds,1914,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,81231,1,pounds,1915,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,730,1,pounds,1915,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,3103,1,pounds,1915,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,329,1,pounds,1915,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,994,1,pounds,1915,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,52,1,pounds,1915,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1915,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1915,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1915,northern rhodesia,s.w. africa protectorate,imp,,,,,,,
+GowaJRHicks20132017,25,1,pounds,1915,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,638,1,pounds,1915,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,26,1,pounds,1915,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,235,1,pounds,1915,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,1333,1,pounds,1915,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,424,1,pounds,1915,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,84,1,pounds,1915,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,other danish possessions,imp,,,,,,,
+GowaJRHicks20132017,1053,1,pounds,1915,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,2360,1,pounds,1915,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,48,1,pounds,1915,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,1424,1,pounds,1915,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,81,1,pounds,1915,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,2953,1,pounds,1915,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,tripoli,imp,,,,,,,
+GowaJRHicks20132017,221,1,pounds,1915,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,124,1,pounds,1915,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,19,1,pounds,1915,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,327,1,pounds,1915,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1915,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1915,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,79,1,pounds,1915,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,1185,1,pounds,1915,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,221,1,pounds,1915,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,63,1,pounds,1915,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,41,1,pounds,1915,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,1157,1,pounds,1915,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1915,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,133,1,pounds,1915,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1915,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,4111,1,pounds,1915,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,6,1,pounds,1915,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,76,1,pounds,1915,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,183,1,pounds,1915,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,13,1,pounds,1915,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,15,1,pounds,1915,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,48063,1,pounds,1915,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,128731,1,pounds,1916,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,1079,1,pounds,1916,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,6972,1,pounds,1916,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,406,1,pounds,1916,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,414,1,pounds,1916,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1916,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,13,1,pounds,1916,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1916,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,british central africa,imp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1916,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,411,1,pounds,1916,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,15,1,pounds,1916,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,177,1,pounds,1916,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,111,1,pounds,1916,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,1923,1,pounds,1916,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,173,1,pounds,1916,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1775,1,pounds,1916,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,algeria,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1916,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,1008,1,pounds,1916,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,62,1,pounds,1916,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,4672,1,pounds,1916,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,148,1,pounds,1916,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,2535,1,pounds,1916,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,287,1,pounds,1916,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,112,1,pounds,1916,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,11,1,pounds,1916,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,298,1,pounds,1916,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,8,1,pounds,1916,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,118,1,pounds,1916,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,1807,1,pounds,1916,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,315,1,pounds,1916,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,37,1,pounds,1916,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,59,1,pounds,1916,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,2509,1,pounds,1916,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1916,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,224,1,pounds,1916,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1916,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1916,northern rhodesia,morocco,imp,,,,,,,
+GowaJRHicks20132017,13227,1,pounds,1916,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1916,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1916,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,307,1,pounds,1916,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,45,1,pounds,1916,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,53,1,pounds,1916,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,77654,1,pounds,1916,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,136786,1,pounds,1917,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,907,1,pounds,1917,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,8599,1,pounds,1917,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,330,1,pounds,1917,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,287,1,pounds,1917,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1917,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1917,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,6,1,pounds,1917,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1917,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,90,1,pounds,1917,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,365,1,pounds,1917,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1917,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,30,1,pounds,1917,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,59,1,pounds,1917,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,26,1,pounds,1917,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,5163,1,pounds,1917,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,13,1,pounds,1917,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1558,1,pounds,1917,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,6,1,pounds,1917,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,462,1,pounds,1917,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1917,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,5244,1,pounds,1917,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,174,1,pounds,1917,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1522,1,pounds,1917,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,227,1,pounds,1917,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,130,1,pounds,1917,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,22,1,pounds,1917,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,1498,1,pounds,1917,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1917,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,103,1,pounds,1917,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,2083,1,pounds,1917,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,223,1,pounds,1917,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,48,1,pounds,1917,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,92,1,pounds,1917,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,3994,1,pounds,1917,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,220,1,pounds,1917,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,22,1,pounds,1917,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,11567,1,pounds,1917,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1917,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1917,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1917,northern rhodesia,costa rica,imp,,,,,,,
+GowaJRHicks20132017,30,1,pounds,1917,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,364,1,pounds,1917,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,39,1,pounds,1917,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,20,1,pounds,1917,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,91242,1,pounds,1917,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,152498,1,pounds,1918,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,1272,1,pounds,1918,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,13210,1,pounds,1918,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,523,1,pounds,1918,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,410,1,pounds,1918,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1918,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,21,1,pounds,1918,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,136,1,pounds,1918,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,507,1,pounds,1918,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,197,1,pounds,1918,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1918,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1918,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,17,1,pounds,1918,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,63,1,pounds,1918,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,10480,1,pounds,1918,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1918,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1501,1,pounds,1918,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,88,1,pounds,1918,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,291,1,pounds,1918,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1918,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,5333,1,pounds,1918,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,423,1,pounds,1918,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1268,1,pounds,1918,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,279,1,pounds,1918,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,108,1,pounds,1918,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,44,1,pounds,1918,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,783,1,pounds,1918,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1918,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,54,1,pounds,1918,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,2698,1,pounds,1918,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,354,1,pounds,1918,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,21,1,pounds,1918,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,52,1,pounds,1918,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,7816,1,pounds,1918,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,244,1,pounds,1918,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1918,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,18214,1,pounds,1918,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1918,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,2,1,pounds,1918,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,91,1,pounds,1918,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,410,1,pounds,1918,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,54,1,pounds,1918,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1918,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,119719,1,pounds,1918,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,180217,1,pounds,1919,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,2306,1,pounds,1919,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,14165,1,pounds,1919,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,393,1,pounds,1919,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,1008,1,pounds,1919,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,11,1,pounds,1919,northern rhodesia,malta,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1919,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,118,1,pounds,1919,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1919,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,15,1,pounds,1919,northern rhodesia,north east rhodesia,imp,,,,,,,
+GowaJRHicks20132017,299,1,pounds,1919,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1919,northern rhodesia,newfoundland,imp,,,,,,,
+GowaJRHicks20132017,33,1,pounds,1919,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,43,1,pounds,1919,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,28,1,pounds,1919,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,8827,1,pounds,1919,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,19,1,pounds,1919,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,1962,1,pounds,1919,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1919,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,452,1,pounds,1919,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1919,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,2241,1,pounds,1919,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,641,1,pounds,1919,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,354,1,pounds,1919,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,272,1,pounds,1919,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,617,1,pounds,1919,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,44,1,pounds,1919,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,1797,1,pounds,1919,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,26,1,pounds,1919,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,91,1,pounds,1919,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1919,northern rhodesia,canary islands,imp,,,,,,,
+GowaJRHicks20132017,2948,1,pounds,1919,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,621,1,pounds,1919,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,13,1,pounds,1919,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,91,1,pounds,1919,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,14189,1,pounds,1919,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1919,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,130,1,pounds,1919,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,19,1,pounds,1919,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,25026,1,pounds,1919,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1919,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,96,1,pounds,1919,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,305,1,pounds,1919,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,33,1,pounds,1919,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,16,1,pounds,1919,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,151737,1,pounds,1919,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,303473,1,pounds,1920,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,3848,1,pounds,1920,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,23449,1,pounds,1920,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,1047,1,pounds,1920,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,2738,1,pounds,1920,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,11,1,pounds,1920,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,51,1,pounds,1920,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,14,1,pounds,1920,northern rhodesia,british east africa,imp,,,,,,,
+GowaJRHicks20132017,36,1,pounds,1920,northern rhodesia,british south africa,imp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1920,northern rhodesia,s.w. africa protectorate,imp,,,,,,,
+GowaJRHicks20132017,16,1,pounds,1920,northern rhodesia,north east rhodesia,imp,,,,,,,
+GowaJRHicks20132017,638,1,pounds,1920,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,59,1,pounds,1920,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,46,1,pounds,1920,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,118,1,pounds,1920,northern rhodesia,austria-hungary,imp,,,,,,,
+GowaJRHicks20132017,1210,1,pounds,1920,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,9219,1,pounds,1920,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,369,1,pounds,1920,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1920,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,3311,1,pounds,1920,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,76,1,pounds,1920,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,890,1,pounds,1920,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,36,1,pounds,1920,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,4670,1,pounds,1920,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,402,1,pounds,1920,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,760,1,pounds,1920,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,455,1,pounds,1920,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,477,1,pounds,1920,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,65,1,pounds,1920,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,1640,1,pounds,1920,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,20,1,pounds,1920,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,388,1,pounds,1920,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1920,northern rhodesia,canary islands,imp,,,,,,,
+GowaJRHicks20132017,6758,1,pounds,1920,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,747,1,pounds,1920,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,101,1,pounds,1920,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,41,1,pounds,1920,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,19908,1,pounds,1920,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,4,1,pounds,1920,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,153,1,pounds,1920,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,15,1,pounds,1920,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,38355,1,pounds,1920,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1920,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,14,1,pounds,1920,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,755,1,pounds,1920,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,95,1,pounds,1920,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,11,1,pounds,1920,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,212842,1,pounds,1920,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,350552,1,pounds,1921,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,4157,1,pounds,1921,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,13453,1,pounds,1921,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,1141,1,pounds,1921,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,4374,1,pounds,1921,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,6,1,pounds,1921,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,78,1,pounds,1921,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,137,1,pounds,1921,northern rhodesia,kenya colony,imp,,,,,,,
+GowaJRHicks20132017,218,1,pounds,1921,northern rhodesia,british south africa,imp,,,,,,,
+GowaJRHicks20132017,238,1,pounds,1921,northern rhodesia,s.w. africa protectorate,imp,,,,,,,
+GowaJRHicks20132017,1725,1,pounds,1921,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,395,1,pounds,1921,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,66,1,pounds,1921,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,424,1,pounds,1921,northern rhodesia,austria,imp,,,,,,,
+GowaJRHicks20132017,8117,1,pounds,1921,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,1064,1,pounds,1921,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,157,1,pounds,1921,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,381,1,pounds,1921,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,4885,1,pounds,1921,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1921,northern rhodesia,cochin china,imp,,,,,,,
+GowaJRHicks20132017,4881,1,pounds,1921,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,39,1,pounds,1921,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,4417,1,pounds,1921,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,507,1,pounds,1921,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1645,1,pounds,1921,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,458,1,pounds,1921,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,307,1,pounds,1921,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,73,1,pounds,1921,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,2813,1,pounds,1921,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,31,1,pounds,1921,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,261,1,pounds,1921,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,7378,1,pounds,1921,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,1059,1,pounds,1921,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,79,1,pounds,1921,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,171,1,pounds,1921,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,10017,1,pounds,1921,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,131,1,pounds,1921,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,14,1,pounds,1921,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,44545,1,pounds,1921,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,9,1,pounds,1921,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,507,1,pounds,1921,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,23,1,pounds,1921,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,55,1,pounds,1921,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,208985,1,pounds,1921,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,222432,1,pounds,1922,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,2716,1,pounds,1922,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,11950,1,pounds,1922,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,957,1,pounds,1922,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,2003,1,pounds,1922,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,61,1,pounds,1922,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1922,northern rhodesia,british east india islands,imp,,,,,,,
+GowaJRHicks20132017,6,1,pounds,1922,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,31,1,pounds,1922,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,76,1,pounds,1922,northern rhodesia,kenya colony,imp,,,,,,,
+GowaJRHicks20132017,5,1,pounds,1922,northern rhodesia,british south africa,imp,,,,,,,
+GowaJRHicks20132017,180,1,pounds,1922,northern rhodesia,mauritius,imp,,,,,,,
+GowaJRHicks20132017,461,1,pounds,1922,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,40,1,pounds,1922,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,22,1,pounds,1922,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,166,1,pounds,1922,northern rhodesia,austria,imp,,,,,,,
+GowaJRHicks20132017,7044,1,pounds,1922,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,2761,1,pounds,1922,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,541,1,pounds,1922,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,102,1,pounds,1922,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,3143,1,pounds,1922,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,21,1,pounds,1922,northern rhodesia,cochin china,imp,,,,,,,
+GowaJRHicks20132017,7829,1,pounds,1922,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,112,1,pounds,1922,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,3826,1,pounds,1922,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,295,1,pounds,1922,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1489,1,pounds,1922,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,309,1,pounds,1922,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,220,1,pounds,1922,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,15,1,pounds,1922,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,1343,1,pounds,1922,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,11,1,pounds,1922,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1922,northern rhodesia,roumania,imp,,,,,,,
+GowaJRHicks20132017,104,1,pounds,1922,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,166,1,pounds,1922,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,3710,1,pounds,1922,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,969,1,pounds,1922,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,58,1,pounds,1922,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,81,1,pounds,1922,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,6322,1,pounds,1922,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,113,1,pounds,1922,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,11,1,pounds,1922,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,32303,1,pounds,1922,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,3,1,pounds,1922,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,1,1,pounds,1922,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,10,1,pounds,1922,northern rhodesia,costa rica,imp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1922,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,382,1,pounds,1922,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,31,1,pounds,1922,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,7,1,pounds,1922,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,159836,1,pounds,1922,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,767425,1,£,1926,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,64,1,£,1926,northern rhodesia,ireland,imp,,,,,,,
+GowaJRHicks20132017,20676,1,£,1926,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,22913,1,£,1926,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,3154,1,£,1926,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,2048,1,£,1926,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,87,1,£,1926,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,16,1,£,1926,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,75,1,£,1926,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,292,1,£,1926,northern rhodesia,kenya colony,imp,,,,,,,
+GowaJRHicks20132017,1689,1,£,1926,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,1,1,£,1926,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,68,1,£,1926,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,153,1,£,1926,northern rhodesia,mesopotamia,imp,,,,,,,
+GowaJRHicks20132017,1507,1,£,1926,northern rhodesia,austria,imp,,,,,,,
+GowaJRHicks20132017,28288,1,£,1926,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,603,1,£,1926,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,4342,1,£,1926,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,250,1,£,1926,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1926,northern rhodesia,estonia,imp,,,,,,,
+GowaJRHicks20132017,1115,1,£,1926,northern rhodesia,finland,imp,,,,,,,
+GowaJRHicks20132017,9579,1,£,1926,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,13,1,£,1926,northern rhodesia,cochin china,imp,,,,,,,
+GowaJRHicks20132017,50656,1,£,1926,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,120,1,£,1926,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,14331,1,£,1926,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,5445,1,£,1926,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1,1,£,1926,northern rhodesia,hungary,imp,,,,,,,
+GowaJRHicks20132017,19262,1,£,1926,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,16,1,£,1926,northern rhodesia,latvia,imp,,,,,,,
+GowaJRHicks20132017,3611,1,£,1926,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,45,1,£,1926,northern rhodesia,poland,imp,,,,,,,
+GowaJRHicks20132017,381,1,£,1926,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,81,1,£,1926,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,1448,1,£,1926,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,1000,1,£,1926,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,560,1,£,1926,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,291,1,£,1926,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,18576,1,£,1926,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,2515,1,£,1926,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,31,1,£,1926,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,242,1,£,1926,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,14386,1,£,1926,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,12,1,£,1926,northern rhodesia,palestine,imp,,,,,,,
+GowaJRHicks20132017,3,1,£,1926,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,471,1,£,1926,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,45,1,£,1926,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,242731,1,£,1926,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,17,1,£,1926,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,1014,1,£,1926,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,878,1,£,1926,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,3,1,£,1926,northern rhodesia,chili,imp,,,,,,,
+GowaJRHicks20132017,155,1,£,1926,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,7,1,£,1926,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,5,1,£,1926,northern rhodesia,other foreign countries,imp,,,,,,,
+GowaJRHicks20132017,424885,1,£,1926,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,916879,1,£,1927,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,58,1,£,1927,northern rhodesia,ireland,imp,,,,,,,
+GowaJRHicks20132017,31047,1,£,1927,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,30187,1,£,1927,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,3887,1,£,1927,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,1672,1,£,1927,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,134,1,£,1927,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,27,1,£,1927,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,58,1,£,1927,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,305,1,£,1927,northern rhodesia,kenya colony,imp,,,,,,,
+GowaJRHicks20132017,2859,1,£,1927,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,35,1,£,1927,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,138,1,£,1927,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,124,1,£,1927,northern rhodesia,mesopotamia,imp,,,,,,,
+GowaJRHicks20132017,4692,1,£,1927,northern rhodesia,austria,imp,,,,,,,
+GowaJRHicks20132017,26915,1,£,1927,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,2218,1,£,1927,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,11706,1,£,1927,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,213,1,£,1927,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,3155,1,£,1927,northern rhodesia,finland,imp,,,,,,,
+GowaJRHicks20132017,12922,1,£,1927,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,5,1,£,1927,northern rhodesia,algeria,imp,,,,,,,
+GowaJRHicks20132017,51961,1,£,1927,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,124,1,£,1927,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,15918,1,£,1927,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,9228,1,£,1927,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,136,1,£,1927,northern rhodesia,hungary,imp,,,,,,,
+GowaJRHicks20132017,20256,1,£,1927,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,13,1,£,1927,northern rhodesia,jugoslavia,imp,,,,,,,
+GowaJRHicks20132017,28,1,£,1927,northern rhodesia,latvia,imp,,,,,,,
+GowaJRHicks20132017,4566,1,£,1927,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,81,1,£,1927,northern rhodesia,poland,imp,,,,,,,
+GowaJRHicks20132017,430,1,£,1927,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,39,1,£,1927,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,4718,1,£,1927,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,7,1,£,1927,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,140,1,£,1927,northern rhodesia,roumania,imp,,,,,,,
+GowaJRHicks20132017,696,1,£,1927,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,655,1,£,1927,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,21768,1,£,1927,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,2789,1,£,1927,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,129,1,£,1927,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,4,1,£,1927,northern rhodesia,arabia,imp,,,,,,,
+GowaJRHicks20132017,397,1,£,1927,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,23235,1,£,1927,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,92,1,£,1927,northern rhodesia,palestine,imp,,,,,,,
+GowaJRHicks20132017,27,1,£,1927,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,440,1,£,1927,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,120,1,£,1927,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,9,1,£,1927,northern rhodesia,morocco,imp,,,,,,,
+GowaJRHicks20132017,269284,1,£,1927,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1927,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,1,1,£,1927,northern rhodesia,costa rica,imp,,,,,,,
+GowaJRHicks20132017,949,1,£,1927,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,755,1,£,1927,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,450,1,£,1927,northern rhodesia,chili,imp,,,,,,,
+GowaJRHicks20132017,299,1,£,1927,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,478156,1,£,1927,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,1065335,1,£,1928,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,195,1,£,1928,northern rhodesia,ireland,imp,,,,,,,
+GowaJRHicks20132017,28886,1,£,1928,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,30572,1,£,1928,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,5863,1,£,1928,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,1063,1,£,1928,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,108,1,£,1928,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1928,northern rhodesia,cyprus,imp,,,,,,,
+GowaJRHicks20132017,39,1,£,1928,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,94,1,£,1928,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,381,1,£,1928,northern rhodesia,kenya colony,imp,,,,,,,
+GowaJRHicks20132017,2914,1,£,1928,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,105,1,£,1928,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,96,1,£,1928,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,84,1,£,1928,northern rhodesia,mesopotamia,imp,,,,,,,
+GowaJRHicks20132017,5189,1,£,1928,northern rhodesia,austria,imp,,,,,,,
+GowaJRHicks20132017,41848,1,£,1928,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,4964,1,£,1928,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,15555,1,£,1928,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,203,1,£,1928,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,10,1,£,1928,northern rhodesia,estonia,imp,,,,,,,
+GowaJRHicks20132017,3256,1,£,1928,northern rhodesia,finland,imp,,,,,,,
+GowaJRHicks20132017,16608,1,£,1928,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,66238,1,£,1928,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,97,1,£,1928,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,13180,1,£,1928,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,9738,1,£,1928,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1079,1,£,1928,northern rhodesia,hungary,imp,,,,,,,
+GowaJRHicks20132017,26671,1,£,1928,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,47,1,£,1928,northern rhodesia,latvia,imp,,,,,,,
+GowaJRHicks20132017,4404,1,£,1928,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,1293,1,£,1928,northern rhodesia,poland,imp,,,,,,,
+GowaJRHicks20132017,361,1,£,1928,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,44,1,£,1928,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,4377,1,£,1928,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,39,1,£,1928,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,1581,1,£,1928,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,466,1,£,1928,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,26581,1,£,1928,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,4898,1,£,1928,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,34,1,£,1928,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,111,1,£,1928,northern rhodesia,arabia,imp,,,,,,,
+GowaJRHicks20132017,731,1,£,1928,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,29302,1,£,1928,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,38,1,£,1928,northern rhodesia,palestine,imp,,,,,,,
+GowaJRHicks20132017,180,1,£,1928,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,463,1,£,1928,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,48,1,£,1928,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,4,1,£,1928,northern rhodesia,morocco,imp,,,,,,,
+GowaJRHicks20132017,324854,1,£,1928,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,14,1,£,1928,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,1,1,£,1928,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,1286,1,£,1928,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,5814,1,£,1928,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,1124,1,£,1928,northern rhodesia,chili,imp,,,,,,,
+GowaJRHicks20132017,471,1,£,1928,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,617378,1,£,1928,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,1532863,1,£,1929,northern rhodesia,united kingdom,imp,,,,,,,
+GowaJRHicks20132017,563,1,£,1929,northern rhodesia,ireland,imp,,,,,,,
+GowaJRHicks20132017,93308,1,£,1929,northern rhodesia,canada,imp,,,,,,,
+GowaJRHicks20132017,36182,1,£,1929,northern rhodesia,india,imp,,,,,,,
+GowaJRHicks20132017,10166,1,£,1929,northern rhodesia,ceylon,imp,,,,,,,
+GowaJRHicks20132017,2191,1,£,1929,northern rhodesia,australia,imp,,,,,,,
+GowaJRHicks20132017,101,1,£,1929,northern rhodesia,new zealand,imp,,,,,,,
+GowaJRHicks20132017,253,1,£,1929,northern rhodesia,hong kong,imp,,,,,,,
+GowaJRHicks20132017,118,1,£,1929,northern rhodesia,straits settlements,imp,,,,,,,
+GowaJRHicks20132017,677,1,£,1929,northern rhodesia,kenya colony,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1929,northern rhodesia,british west africa,imp,,,,,,,
+GowaJRHicks20132017,1667,1,£,1929,northern rhodesia,nyassaland protectorate,imp,,,,,,,
+GowaJRHicks20132017,416,1,£,1929,northern rhodesia,zanzibar,imp,,,,,,,
+GowaJRHicks20132017,223,1,£,1929,northern rhodesia,british west india islands,imp,,,,,,,
+GowaJRHicks20132017,209,1,£,1929,northern rhodesia,mesopotamia,imp,,,,,,,
+GowaJRHicks20132017,4792,1,£,1929,northern rhodesia,austria,imp,,,,,,,
+GowaJRHicks20132017,50982,1,£,1929,northern rhodesia,belgium,imp,,,,,,,
+GowaJRHicks20132017,37466,1,£,1929,northern rhodesia,belgian congo,imp,,,,,,,
+GowaJRHicks20132017,20880,1,£,1929,northern rhodesia,czecho-slovakia,imp,,,,,,,
+GowaJRHicks20132017,442,1,£,1929,northern rhodesia,denmark,imp,,,,,,,
+GowaJRHicks20132017,15452,1,£,1929,northern rhodesia,finland,imp,,,,,,,
+GowaJRHicks20132017,20990,1,£,1929,northern rhodesia,france,imp,,,,,,,
+GowaJRHicks20132017,22,1,£,1929,northern rhodesia,cochin china,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1929,northern rhodesia,madagascar,imp,,,,,,,
+GowaJRHicks20132017,121546,1,£,1929,northern rhodesia,germany,imp,,,,,,,
+GowaJRHicks20132017,120,1,£,1929,northern rhodesia,greece,imp,,,,,,,
+GowaJRHicks20132017,15636,1,£,1929,northern rhodesia,holland,imp,,,,,,,
+GowaJRHicks20132017,31827,1,£,1929,northern rhodesia,dutch east india islands,imp,,,,,,,
+GowaJRHicks20132017,1437,1,£,1929,northern rhodesia,hungary,imp,,,,,,,
+GowaJRHicks20132017,37019,1,£,1929,northern rhodesia,italy,imp,,,,,,,
+GowaJRHicks20132017,43,1,£,1929,northern rhodesia,latvia,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1929,northern rhodesia,lithuania,imp,,,,,,,
+GowaJRHicks20132017,8443,1,£,1929,northern rhodesia,norway,imp,,,,,,,
+GowaJRHicks20132017,5037,1,£,1929,northern rhodesia,poland,imp,,,,,,,
+GowaJRHicks20132017,582,1,£,1929,northern rhodesia,portugal,imp,,,,,,,
+GowaJRHicks20132017,61,1,£,1929,northern rhodesia,madeira,imp,,,,,,,
+GowaJRHicks20132017,10080,1,£,1929,northern rhodesia,portuguese east africa,imp,,,,,,,
+GowaJRHicks20132017,106,1,£,1929,northern rhodesia,portuguese west africa,imp,,,,,,,
+GowaJRHicks20132017,1831,1,£,1929,northern rhodesia,russia,imp,,,,,,,
+GowaJRHicks20132017,1151,1,£,1929,northern rhodesia,spain,imp,,,,,,,
+GowaJRHicks20132017,53025,1,£,1929,northern rhodesia,sweden,imp,,,,,,,
+GowaJRHicks20132017,8321,1,£,1929,northern rhodesia,switzerland,imp,,,,,,,
+GowaJRHicks20132017,44,1,£,1929,northern rhodesia,turkish empire,imp,,,,,,,
+GowaJRHicks20132017,2,1,£,1929,northern rhodesia,arabia,imp,,,,,,,
+GowaJRHicks20132017,838,1,£,1929,northern rhodesia,china,imp,,,,,,,
+GowaJRHicks20132017,37171,1,£,1929,northern rhodesia,japan (including formosa),imp,,,,,,,
+GowaJRHicks20132017,61,1,£,1929,northern rhodesia,palestine,imp,,,,,,,
+GowaJRHicks20132017,55,1,£,1929,northern rhodesia,persia,imp,,,,,,,
+GowaJRHicks20132017,778,1,£,1929,northern rhodesia,siam,imp,,,,,,,
+GowaJRHicks20132017,90,1,£,1929,northern rhodesia,egypt,imp,,,,,,,
+GowaJRHicks20132017,5,1,£,1929,northern rhodesia,morocco,imp,,,,,,,
+GowaJRHicks20132017,569868,1,£,1929,northern rhodesia,united states of america,imp,,,,,,,
+GowaJRHicks20132017,18,1,£,1929,northern rhodesia,philippine islands,imp,,,,,,,
+GowaJRHicks20132017,4,1,£,1929,northern rhodesia,mexico,imp,,,,,,,
+GowaJRHicks20132017,2187,1,£,1929,northern rhodesia,argentine republic,imp,,,,,,,
+GowaJRHicks20132017,964,1,£,1929,northern rhodesia,brazil,imp,,,,,,,
+GowaJRHicks20132017,1511,1,£,1929,northern rhodesia,chili,imp,,,,,,,
+GowaJRHicks20132017,320,1,£,1929,northern rhodesia,cuba,imp,,,,,,,
+GowaJRHicks20132017,8,1,£,1929,northern rhodesia,uruguay,imp,,,,,,,
+GowaJRHicks20132017,862259,1,£,1929,northern rhodesia,south african produce,imp,,,,,,,
+GowaJRHicks20132017,185667,1,pounds,1912,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,240147,1,pounds,1913,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,198402,1,pounds,1914,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,153186,1,pounds,1915,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,247742,1,pounds,1916,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,273617,1,pounds,1917,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,339261,1,pounds,1918,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,411256,1,pounds,1919,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,639356,1,pounds,1920,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,679980,1,pounds,1921,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,474290,1,pounds,1922,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,1667584,1,£,1926,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,1957138,1,£,1927,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,2366317,1,£,1928,northern rhodesia,total,imp,,,,,,total_reporting,
+GowaJRHicks20132017,3602417,1,£,1929,northern rhodesia,total,imp,,,,,,total_reporting,
