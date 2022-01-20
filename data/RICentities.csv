@@ -1818,9 +1818,7 @@ East Indies & Philippines & Thailand (Siam),group,Asia,,,
 British America & United States of America,group,America,,,
 Kenya (British East Africa Protectorate) & Tanzania (Tanganyika) & Uganda,group,Africa,,,
 Modena & Monaco & Parma & Tuscany,group,Europe,,,
-Romagna,city/part_of,Europe,,,Papal States
 Dutch Africa,colonial_area,Africa,,,
-Dutch America,colonial_area,America,,,
 Equatorial Africa,geographical_area,Africa,,,
 Belgian Colonies (other),colonial_area,World,,,
 British West Africa & South Africa,group,Africa,,,
@@ -1902,7 +1900,6 @@ Namibia (South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (
 Japanese Colonies,colonial_area,World,,,
 Dutch India,colonial_area,Asia,,,
 San Francisco,city/part_of,America,,,United States of America
-Basra,city/part_of,Asia,,,Iraq (Mesopotamia)
 Port Said,city/part_of,Asia,,,Egypt Arab Republic (Egypt)
 Venice,city/part_of,Europe,,,Italy
 Nicobar Is.,GPH_entity,Asia,7502,,
@@ -1955,7 +1952,6 @@ Gdynia,city/part_of,Europe,,,Poland
 Australia & Oceania (other),geographical_area,Oceania,,,
 Bangkok,city/part_of,Asia,,,Thailand (Siam)
 Portuguese South East Africa,colonial_area,Africa,,,
-Denmark & Russia (USSR),group,Europe,,,
 Northern Cook Is.,GPH_entity,Oceania,9252,,
 Union Island,city/part_of,America,,,St. Vincent and the Grenadines
 Port Sudan & Suakin,group,Africa,,,
@@ -2009,7 +2005,6 @@ Bolama,city/part_of,Africa,,,Guinea-Bissau (Portuguese Guinea)
 Bissau,city/part_of,Africa,,,Guinea-Bissau (Portuguese Guinea)
 Dakar,city/part_of,Africa,,,Senegal
 Rufisque,city/part_of,Africa,,,Senegal
-Saint-Louis,city/part_of,Africa,,,Senegal
 Gran Canaria,city/part_of,Africa,,,Canary Is.
 Lomé,city/part_of,Africa,,,Togo (French Togoland)
 Casamance,city/part_of,Africa,,,Senegal
@@ -2017,12 +2012,11 @@ Loanda,city/part_of,Africa,,,Gabon
 Cape Lopez,city/part_of,Africa,,,Gabon
 Kribi,city/part_of,Africa,,,Kamerun
 Swakopmund,city/part_of,Africa,,,Namibia (South West Africa) (German South West Africa)
-Victoria,city/part_of,Africa,,,Cameroun (French Cameroons)
+Victoria (Cameroun),city/part_of,Africa,,,Cameroun (French Cameroons)
 Douala,city/part_of,Africa,,,Cameroun (French Cameroons)
 Cotonou,city/part_of,Africa,,,Benin (Dahomey)
 Principe,city/part_of,Africa,,,Sao Tome-Principe
 Sao Tome,city/part_of,Africa,,,Sao Tome-Principe
-Northeastern Rhodesia,GPH_entity,Africa,5518,,
 Danish Colonies (other),colonial_area,World,,,
 Mafia I.,GPH_entity,Africa,5109,,
 Comoros & Madagascar (Malagasy Republic),group,Africa,,,
