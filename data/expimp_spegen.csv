@@ -70,6 +70,7 @@ imp (invoer tot verbruik),spe,Imp,Spe
 imp**,spe,Imp,Spe
 imp+exp,?,Exp+Imp,
 invoer tot verbruik,?,Imp,Spe
+invoer tot verbruik,,Imp,Spe
 invoer tot verbruik,gen,Imp,Spe
 re-exp,?,Re-exp,Gen-Spe
 re-imp,?,Re-imp,Gen-Spe
@@ -80,12 +81,15 @@ transit,?,Re-exp,Gen-Spe
 uitvoer huit het vrije verkeer,gen,Exp,Spe
 uitvoer uit her vrije verkeer,gen,Exp,Spe
 uitvoer uit het vrije verkeer,?,Exp,Spe
+uitvoer uit het vrije verkeer,,Exp,Spe
 uitvoer uit het vrije verkeer,gen,Exp,Spe
 re-exp,gen-spe,Re-exp,Gen-Spe
 exp,?,Exp,
 exp,,Exp,
+Exp,,Exp,
 imp,?,Imp,
 imp,,Imp,
+Imp,,Imp,
 uitvoer,gen,Exp,Gen
 re-exp,gen,Re-exp,Gen
 uitvoer uit het vrije verkeer,spe,Exp,Spe

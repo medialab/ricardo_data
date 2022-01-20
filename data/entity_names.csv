@@ -474,7 +474,7 @@ australia other than new south wales,Australia (other)
 "australia, new zealand, &c",Australia & New Zealand
 "australia, new zealand, and tasmania",Australia & New Zealand & Tasmania
 australian commonwealth,Australia
-Australia-Oceania,Australia & Oceania
+australia-oceania,Australia & Oceania
 australiasia,Australia
 australie,Australia
 australië,Australia
@@ -1093,7 +1093,7 @@ central asia,Central Asia
 central republic,United States of Central America
 centre amérique,Central America
 centro améric,Central America
-Centro America,Central America
+centro america,Central America
 centro-america,Central America
 céphalonie,Cephalonia
 cerdena,Sardinia
@@ -1725,7 +1725,7 @@ espagne (carthagène),Cartagena (Spain)
 espagne (corogne),A Coruna
 espagne (gijon),Gijón
 espagne (iles baléares),Balearic Islands
-espagne (Îles baléares),Balearic Islands
+espagne (îles baléares),Balearic Islands
 espagne (la corogne),A Coruna
 espagne (malaga),Málaga
 "espagne (murcie, port de cartagena)",Cartagena (Spain)
@@ -1755,7 +1755,7 @@ espagne**,Spain
 espagne-cadix,Cadix
 espana,Spain
 españa,Spain
-Espana & Islas Canarias,Canary Is. & Spain
+espana & islas canarias,Canary Is. & Spain
 espana i sus colonias,Spain & Spanish Colonies
 espana y colonias,Spain & Spanish Colonies
 espana y sus colonias,Spain & Spanish Colonies
@@ -2410,11 +2410,11 @@ iersche vrijstaat,Ireland
 ijsland,Iceland
 ile bourbon,Reunion (Bourbon I.)
 ile de cuba,Cuba
-Île de cuba,Cuba
+île de cuba,Cuba
 ile de france,Mauritius
 ile de la réunion,Reunion (Bourbon I.)
 "ile de madagascar, mayotte, nossi-bé et sainte-marie-de-madagascar",Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar
-Île de porto-rico,Puerto Rico
+île de porto-rico,Puerto Rico
 ile de sardaigne,Sardinia
 ile des canaries,Canary Is.
 ile des navigateurs,Samoa
@@ -2428,8 +2428,8 @@ iles anglo-normandes,Channel Is.
 iles baléares,Balearic Islands
 iles britanniques,Ireland & United Kingdom
 iles canaries,Canary Is.
-Îles canaries,Canary Is.
-Îles canaries**,Canary Is.
+îles canaries,Canary Is.
+îles canaries**,Canary Is.
 iles de la mer du sud,Pacific Islands
 iles de mers du sud,Pacific Islands
 iles de terre neuve et du prince edouard,Newfoundland and Labrador (Newfoundland) & Prince Edward Is.
@@ -2443,7 +2443,7 @@ iles fidji,Fiji
 iles ioniennes,Ionian Is.
 iles ioniennes et grèce,Greece & Ionian Is.
 iles ioniennes**,Ionian Is.
-Îles ioniennnes,Ionian Is.
+îles ioniennnes,Ionian Is.
 iles malden,Malden I.
 iles maldives,Maldive Islands
 iles malouines,Falkland Is.
@@ -2458,7 +2458,7 @@ iles ocean,Kiribati
 iles orientales,Indonesia (Dutch East Indies) (other)
 iles pacifique,Pacific Islands
 iles philippines,Philippines
-Îles philippines,Philippines
+îles philippines,Philippines
 iles portuguaises,Azores (Western Isles) & Cape Verde & Madeira Isles
 iles prince edouard,Prince Edward Is.
 iles samoa,Samoa
@@ -2664,7 +2664,7 @@ islands in the indian seas : other islands in the indian seas§,Indian Ocean Isl
 islands in the pacific,Pacific Islands
 islands in the pacific (except fiji),Pacific Islands (other)
 islands in the pacific (not elsewhere specified),Pacific Islands (other)
-Islas Azores,Azores (Western Isles)
+islas azores,Azores (Western Isles)
 islas baleares,Balearic Islands
 islas canarias,Canary Is.
 islas carolinas (asia y oceania),Caroline Is.
@@ -3125,7 +3125,7 @@ monde (partenaires via cadix uniquement),World (other)
 monde (partenaires via carthagène uniquement),World (other)
 monde (partenaires via fiume et trieste uniquement),World (other)
 monde (partenaires via gijon uniquement),World (other)
-monde (partenaires via Îles baléareas uniquement),World (other)
+monde (partenaires via îles baléareas uniquement),World (other)
 monde (partenaires via la corogne uniquement),World (other)
 monde (partenaires via lisbonne uniquement),World (other)
 monde (partenaires via malaga uniquement),World (other)
@@ -4088,10 +4088,10 @@ république d'orange,Orange Free State (Orange River Colony)
 république orientale,Paraguay
 république sud-africaine,Transvaal
 républiques de l'amérique du sud,Southern America
-Reunion,Reunion (Bourbon I.)
+reunion,Reunion (Bourbon I.)
 réunion,Reunion (Bourbon I.)
 reunion (bourbon) (france),Reunion (Bourbon I.)
-Reunion island,Reunion (Bourbon I.)
+reunion island,Reunion (Bourbon I.)
 rhanat de bokhava,Bokhara
 rhio,Riau
 rhodes,Rhode Is.
@@ -4294,7 +4294,7 @@ santander,Santander
 santio domingo,Dominican Republic (Santo Domingo)
 santo domingo,Dominican Republic (Santo Domingo)
 santo domingo (west indies),Dominican Republic (Santo Domingo)
-Santo Tomas,St. Thomas
+santo tomas,St. Thomas
 sao domingos,Dominican Republic (Santo Domingo)
 sao salvador,El Salvador
 saona (colonie dominicaine),Saona Island
@@ -4442,6 +4442,7 @@ south america (except british guiana),Southern America (other)
 south america generally,Southern America (other)
 "south america, other part (including central america and west indies)",Central America & Southern America & West Indies (other)
 "south asia,southeast asia",Southern Asia
+south asia;southeast asia,Southern Asia
 south australasia,South Australia
 south australia,South Australia
 south australia (australia),South Australia
@@ -4659,7 +4660,7 @@ syrie (mandat français),Syria
 syrie et liban,Lebanon & Syria
 tabago,Tobago
 tachkent,Uzbekistan
-Tacna,Tacna
+tacna,Tacna
 taganyika,Tanzania (Tanganyika)
 tahiti,Tahiti
 taïti (ile),Tahiti
@@ -5183,7 +5184,7 @@ windward islands (british west indies),Windward Is.
 winward coast of africa,Windward Coast of Africa
 winward islands,Windward Is.
 world,World
-World Federico-Tena,World Federico Tena
+world federico-tena,World Federico Tena
 yemen,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 yougoslavie,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 yugoeslavia,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
@@ -5497,7 +5498,6 @@ terreneuve et labrador,Newfoundland and Labrador (Newfoundland)
 república de chile,Chile
 rancho,Unknown
 norte america,Northern America
-centro america,Central America
 suma,World
 republica de cuba,Cuba
 colonia britanica,British Colonies
@@ -5601,7 +5601,6 @@ barbadas,Barbados
 guyana francesa,French Guiana
 honduras británica,Belize (British Honduras)
 república dominicana,Dominican Republic (Santo Domingo)
-islas azores,Azores (Western Isles)
 islas maderas,Madeira Isles
 rumanía,Romania
 india holandesa,Indonesia (Dutch East Indies)
@@ -6121,7 +6120,6 @@ kanaloarna,Channel Is.
 portugisiska timor,East Timor (Portuguese Timor)
 brittiska togo,British Togoland
 franska togo,Togo (French Togoland)
-reunion,Reunion (Bourbon I.)
 caymanoarna,Cayman Is.
 fidjiöarna,Fiji
 cook-oarna,Cook Is.
@@ -7470,7 +7468,6 @@ varios,Other countries
 union sud africana,South Africa
 antilla holandesa,Netherlands Antilles
 iquique,Iquique
-tacna,Tacna
 consumo de naves,***NA
 no especificada,Unknown
 marruecos fr,Morocco
