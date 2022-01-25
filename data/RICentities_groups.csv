@@ -212,11 +212,11 @@ id,RICname_group,RICname_part
 220,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Primorsk (Fischhausen)
 221,Bangka Island & Belitung,Bangka Island
 222,Bangka Island & Belitung,Belitung
-227,Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Algeria (Algiers)
-228,Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Morocco
-229,Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tripolitania
-230,Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tunisia (Tunis)
-231,Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+227,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Algeria (Algiers)
+228,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Morocco
+229,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tripolitania
+230,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tunisia (Tunis)
+231,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
 223,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Algeria (Algiers)
 224,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Morocco
 225,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tripolitania
@@ -866,14 +866,14 @@ id,RICname_group,RICname_part
 899,Guatemala & Nicaragua,Nicaragua
 900,Haiti & Venezuela,Haiti
 901,Haiti & Venezuela,Venezuela
-904,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hanover
-905,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Bremen
-906,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hamburg
-907,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Lübeck
-908,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Heligoland
-909,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Kniphausen
-910,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
-911,Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Oldenburg
+904,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hanover
+905,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Bremen
+906,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hamburg
+907,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Lübeck
+908,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Heligoland
+909,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Kniphausen
+910,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
+911,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Oldenburg
 923,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
 924,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
 925,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck

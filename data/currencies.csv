@@ -3691,13 +3691,13 @@ francs,1836,etats romains,french franc
 francs,1837,etats romains,french franc
 francs,1839,etats romains,french franc
 francs,1840,etats romains,french franc
-francs,1841,etats romains  (civitavecchia),french franc
-francs,1842,etats romains  (civitavecchia),french franc
-francs,1843,etats romains  (civitavecchia),french franc
-francs,1844,etats romains  (civitavecchia),french franc
-francs,1845,etats romains  (civitavecchia),french franc
-francs,1846,etats romains  (civitavecchia),french franc
-francs,1854,etats romains  (civitavecchia),french franc
+francs,1841,etats romains (civitavecchia),french franc
+francs,1842,etats romains (civitavecchia),french franc
+francs,1843,etats romains (civitavecchia),french franc
+francs,1844,etats romains (civitavecchia),french franc
+francs,1845,etats romains (civitavecchia),french franc
+francs,1846,etats romains (civitavecchia),french franc
+francs,1854,etats romains (civitavecchia),french franc
 francs,1841,etats romains (ancone),french franc
 francs,1842,etats romains (ancone),french franc
 francs,1845,etats romains (ancone),french franc
@@ -4447,18 +4447,18 @@ francs,1872,gênes,french franc
 francs,1873,gênes,french franc
 francs,1874,gênes,french franc
 marks,1910,ger,german mark
-marks,1902,german  east africa,german mark
-marks,1903,german  east africa,german mark
-marks,1904,german  east africa,german mark
-marks,1905,german  east africa,german mark
-marks,1906,german  east africa,german mark
-marks,1907,german  east africa,german mark
-marks,1908,german  east africa,german mark
-marks,1909,german  east africa,german mark
-marks,1910,german  east africa,german mark
-marks,1911,german  east africa,german mark
-marks,1912,german  east africa,german mark
-marks,1913,german  east africa,german mark
+marks,1902,german east africa,german mark
+marks,1903,german east africa,german mark
+marks,1904,german east africa,german mark
+marks,1905,german east africa,german mark
+marks,1906,german east africa,german mark
+marks,1907,german east africa,german mark
+marks,1908,german east africa,german mark
+marks,1909,german east africa,german mark
+marks,1910,german east africa,german mark
+marks,1911,german east africa,german mark
+marks,1912,german east africa,german mark
+marks,1913,german east africa,german mark
 marks,1900,german east africa,german mark
 marks,1901,german east africa,german mark
 marks,1902,german east africa,german mark
@@ -4496,16 +4496,16 @@ livres sterling,1911,german empire,sterling pound
 marks,1911,german empire,german mark
 livres sterling,1912,german empire,sterling pound
 marks,1912,german empire,german mark
-marks,1884,german empire  (zollverein),german mark
-marks,1885,german empire  (zollverein),german mark
-marks,1886,german empire  (zollverein),german mark
-marks,1887,german empire  (zollverein),german mark
-marks,1888,german empire  (zollverein),german mark
-marks,1889,german empire  (zollverein),german mark
-marks,1890,german empire  (zollverein),german mark
-marks,1891,german empire  (zollverein),german mark
-marks,1892,german empire  (zollverein),german mark
-marks,1893,german empire  (zollverein),german mark
+marks,1884,german empire (zollverein),german mark
+marks,1885,german empire (zollverein),german mark
+marks,1886,german empire (zollverein),german mark
+marks,1887,german empire (zollverein),german mark
+marks,1888,german empire (zollverein),german mark
+marks,1889,german empire (zollverein),german mark
+marks,1890,german empire (zollverein),german mark
+marks,1891,german empire (zollverein),german mark
+marks,1892,german empire (zollverein),german mark
+marks,1893,german empire (zollverein),german mark
 livres sterling,1881,german empire (zollgebiet),sterling pound
 marks,1881,german empire (zollgebiet),german mark
 livres sterling,1882,german empire (zollgebiet),sterling pound
@@ -8893,8 +8893,8 @@ rouble,1890,russie,russian ruble
 roubles,1890,russie,russian ruble
 roubles,1900,russie,russian ruble
 roubles,1910,russie,russian ruble
-francs,1851,russie  (kertc et tagarov),french franc
-francs,1844,russie  (odessa),french franc
+francs,1851,russie (kertc et tagarov),french franc
+francs,1844,russie (odessa),french franc
 rouble argent,1862,russie (d'asie),russian ruble
 rouble argent,1862,russie (d'asie)**,russian ruble
 rouble argent,1862,russie (d'europe et d'asie),russian ruble

@@ -216,7 +216,7 @@ Banadir,city/part_of,Africa,,Banadir,Italian Somaliland
 Bangka Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
 Bangka Island & Belitung,group,Asia,,BangkaIsland_Belitung,
 Barbados,GPH_entity,America,53,Barbados,
-Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),group,Africa,,,
+Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),group,Africa,,,
 Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),group,Africa,,,
 Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) (other),city/part_of,Africa,,,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
 Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),group,World,,,
@@ -877,7 +877,7 @@ Halifax,city/part_of,America,,Halifax,United States of America
 Hamburg,GPH_entity,Europe,248,Hamburg,
 Hamburg & North Germany,group,Europe,,Hamburg_NorthGermany,
 Hanover,GPH_entity,Europe,240,Hanover,
-Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hamburg_Hanover_HanseTownsBremen_Heligoland_Kniphausen_Lübeck_MecklenburgSchwerin_Oldenburg,
+Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hamburg_Hanover_HanseTownsBremen_Heligoland_Kniphausen_Lübeck_MecklenburgSchwerin_Oldenburg,
 Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,Hamburg_Hanover_HanseTownsBremen_Lübeck,
 Hanover & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hanover_MecklenburgSchwerin_Oldenburg,
 Hanover & Mecklenburg Schwerin & Prussia,group,Europe,,Hanover_MecklenburgSchwerin_Prussia,
