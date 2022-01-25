@@ -6,7 +6,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,33663.8,1000,escudos,19
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,155000.9,1000,escudos,1933,portugal,angola,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,60484.1,1000,escudos,1933,portugal,moçambique,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,42.3,1000,escudos,1933,portugal,india,imp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,50.4,1000,escudos,1933,portugal,macau;timor,imp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,50.4,1000,escudos,1933,portugal,"macau,timor",imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,274432.3,1000,escudos,1933,portugal,alemanha,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,3494.3,1000,escudos,1933,portugal,argélia,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,13845.6,1000,escudos,1933,portugal,argentina,imp,gen,NS,,,,,1 conto = 1000 escudos
@@ -48,7 +48,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1.6,1000,escudos,1933,p
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,2457.4,1000,escudos,1933,portugal,união sul-africana,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,877.1,1000,escudos,1933,portugal,uruguai,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,35147.2,1000,escudos,1933,portugal,outros territórios,imp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1999.2,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos; mantimentos ou gastos de cmbarcaçoes e avioes",imp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1999.2,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos, mantimentos ou gastos de cmbarcaçoes e avioes",imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1052756.3,1000,escudos,1933,portugal,total geral,exp,gen,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,8391.1,1000,escudos,1933,portugal,cabo verde,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,16480.4,1000,escudos,1933,portugal,guiné,exp,gen,NS,,,,,1 conto = 1000 escudos
@@ -56,7 +56,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,8455.3,1000,escudos,193
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,100596.9,1000,escudos,1933,portugal,angola,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,79994.1,1000,escudos,1933,portugal,moçambique,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,926.6,1000,escudos,1933,portugal,india,exp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,766.2,1000,escudos,1933,portugal,macau;timor,exp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,766.2,1000,escudos,1933,portugal,"macau,timor",exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,92404.4,1000,escudos,1933,portugal,alemanha,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,414.7,1000,escudos,1933,portugal,argélia,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,3360,1000,escudos,1933,portugal,argentina,exp,gen,NS,,,,,1 conto = 1000 escudos
@@ -98,7 +98,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,260,1000,escudos,1933,p
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1136.4,1000,escudos,1933,portugal,união sul-africana,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,392.6,1000,escudos,1933,portugal,uruguai,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,8066.6,1000,escudos,1933,portugal,outros territórios,exp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,66272.6,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos; mantimentos ou gastos de cmbarcaçoes e avioes",exp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,66272.6,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos, mantimentos ou gastos de cmbarcaçoes e avioes",exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1905347.6,1000,escudos,1933,portugal,total geral,imp,spe,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,2178.5,1000,escudos,1933,portugal,cabo verde,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,20285.4,1000,escudos,1933,portugal,guiné,imp,spe,NS,,,,,1 conto = 1000 escudos
@@ -106,7 +106,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,8298.6,1000,escudos,193
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,109667.8,1000,escudos,1933,portugal,angola,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,59247.2,1000,escudos,1933,portugal,moçambique,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,42.3,1000,escudos,1933,portugal,india,imp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,50.4,1000,escudos,1933,portugal,macau;timor,imp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,50.4,1000,escudos,1933,portugal,"macau,timor",imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,249575.5,1000,escudos,1933,portugal,alemanha,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,3494.3,1000,escudos,1933,portugal,argélia,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,13732.1,1000,escudos,1933,portugal,argentina,imp,spe,NS,,,,,1 conto = 1000 escudos
@@ -148,7 +148,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1.6,1000,escudos,1933,p
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,2457.4,1000,escudos,1933,portugal,união sul-africana,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,877.1,1000,escudos,1933,portugal,uruguai,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,35097,1000,escudos,1933,portugal,outros territórios,imp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1436.9,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos; mantimentos ou gastos de cmbarcaçoes e avioes",imp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1436.9,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos, mantimentos ou gastos de cmbarcaçoes e avioes",imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,802453.4,1000,escudos,1933,portugal,total geral,exp,spe,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,3540.4,1000,escudos,1933,portugal,cabo verde,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,6514.6,1000,escudos,1933,portugal,guiné,exp,spe,NS,,,,,1 conto = 1000 escudos
@@ -156,7 +156,7 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,4387.7,1000,escudos,193
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,58785.3,1000,escudos,1933,portugal,angola,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,46326.6,1000,escudos,1933,portugal,moçambique,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,826.6,1000,escudos,1933,portugal,india,exp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,763.7,1000,escudos,1933,portugal,macau;timor,exp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,763.7,1000,escudos,1933,portugal,"macau,timor",exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,76292.2,1000,escudos,1933,portugal,alemanha,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,414.7,1000,escudos,1933,portugal,argélia,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,3347,1000,escudos,1933,portugal,argentina,exp,spe,NS,,,,,1 conto = 1000 escudos
@@ -198,4 +198,4 @@ PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,260,1000,escudos,1933,p
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,1128.3,1000,escudos,1933,portugal,união sul-africana,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,392.6,1000,escudos,1933,portugal,uruguai,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,7953.2,1000,escudos,1933,portugal,outros territórios,exp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,33403.5,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos; mantimentos ou gastos de cmbarcaçoes e avioes",exp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1937_I_Xvixix,33403.5,1000,escudos,1933,portugal,"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos, mantimentos ou gastos de cmbarcaçoes e avioes",exp,spe,NS,,,,,1 conto = 1000 escudos

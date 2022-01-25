@@ -1662,7 +1662,7 @@ egypte (tarsous),Tarsus
 egypte et candie,Crete & Egypt Arab Republic (Egypt)
 egypte et dépandances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
 egypte et dépendances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
-egypte et régences barbaresques,Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt)
+egypte et régences barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt)
 egypte et syrie,Egypt Arab Republic (Egypt) & Syria
 egypte et syrie (alexandrie),Alexandria & Egypt Arab Republic (Egypt)
 egypte et syrie (beyrout),Beirut & Egypt Arab Republic (Egypt)
@@ -1984,7 +1984,6 @@ french indo-china,French Indochina
 "french indo-china (including cochin china, camboja, annam, and tonquin)",Annam & Cambodia (Kampuchea) & Cochin China & Tonkin
 "french indo-china (including cochin china, camboja, annam, and tonquin) (france)",Annam & Cambodia (Kampuchea) & Cochin China & Tonkin
 "french indo-china (including cochin china, camboja, annam, tonquin and french leased terrritories in china)",Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin
-"french indo-china (including cochin china; camboja, annam and tonquin)",Annam & Cambodia (Kampuchea) & Cochin China & Tonkin
 french indochina (saigon),Ho Chi Minh City
 french indo-china (saigon),Ho Chi Minh City
 french leased territory,French China Leased Territory
@@ -2085,7 +2084,7 @@ german western africa,German West Africa
 germanay,Germany (Zollverein)
 germania,Germany (Zollverein)
 germany,Germany (Zollverein)
-"germany (mecklenburgh schwerin, honover, oldenburgh and kniphausen, hanse towns and heligoland)",Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg
+"germany (mecklenburgh schwerin, honover, oldenburgh and kniphausen, hanse towns and heligoland)",Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg
 germany / bremen,Bremen
 germany / hambourg,Hamburg
 germany / other ports,German Ports (other)
@@ -2781,7 +2780,7 @@ java islands,Java
 "java, îles voisines",Indonesia (Dutch East Indies) (other) & Java
 "java, madura",Java & Madura Island
 "java, possessions hollandaises",Indonesia (Dutch East Indies) (other) & Java
-"java, rhio; bally, etc",Bali & Java & Riau
+"java, rhio, bally, etc",Bali & Java & Riau
 "java, sumatra",Java & Sumatra
 "java, sumatra**",Java & Sumatra
 jérémie,Jérémie
@@ -2923,6 +2922,7 @@ madagascar et dépendances (y compris mayotte),Madagascar (Malagasy Republic) & 
 "madagascar, native states",Madagascar (Malagasy Republic)
 madagascar:native territory,Madagascar (Malagasy Republic)
 madeira,Madeira Isles
+madeira islands,Madeira Isles
 madeira (portugal),Madeira Isles
 madeira and teneriffe,Canary Is. & Madeira Isles
 madère,Madeira Isles
@@ -4442,7 +4442,6 @@ south america (except british guiana),Southern America (other)
 south america generally,Southern America (other)
 "south america, other part (including central america and west indies)",Central America & Southern America & West Indies (other)
 "south asia,southeast asia",Southern Asia
-south asia;southeast asia,Southern Asia
 south australasia,South Australia
 south australia,South Australia
 south australia (australia),South Australia
@@ -6148,8 +6147,6 @@ sénégal. gorée,Goree
 sénégal et dépendances,Senegal & Senegal Dependencies
 guadeloupe et dépendances,Guadeloupe & Guadeloupe Dependencies
 etranger,Other countries
-etats romains  (civitavecchia),Civitavecchia
-german  east africa,German East Africa
 deutsches reich,Germany (Zollverein)
 zollausschluß helgoland,Heligoland
 badische zollausschlüsse,Baden
@@ -6569,7 +6566,6 @@ egyptom,Egypt Arab Republic (Egypt)
 brit birtokok a földk. teng,British Mediterranean
 afrikai brit gyarmatok,British Africa
 eszak-am. egyesült-all,United States of America
-kuba; portoriko,Cuba & Puerto Rico
 holland -nyugot-india,Netherlands Antilles
 ausztrián és bosznián kivüli külföld,***NA
 autr. poss. fr. en afrique,French Africa (other)
@@ -7287,7 +7283,7 @@ britiske områder,British Colonies
 fransk somalkyst,Djibouti (Afar and Issas) (French Somaliland)
 spanske kolonier og presidier,Spanish Colonies
 andre britiske områder,British Colonies (other)
-haiti; vestl. del av øia haiti,Haiti
+"haiti, vestl. del av øia haiti",Haiti
 andre brit. besiddelser,British Colonies (other)
 bes. tilh. de forente st.,American Colonies
 franske besiddelser,French Colonies
@@ -7302,13 +7298,13 @@ portugisiske besiddelser,Portuguese Colonies
 andre lande,Other countries
 øier i stillehavet,Pacific Islands
 fransk guiana,French Guiana
-"gibraltar, malta; andre europ. land, omfatende albania og andorra",Europe (other)
+"gibraltar, malta, andre europ. land, omfatende albania og andorra",Europe (other)
 engelsk-egyptisk sudan ; etiopia ; britiske områder ; fransk somalkyst ; erytrea og ital. somalk,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abbyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian)
 liberia ; britisk vest-afrika ; andre franske bes. i vest-afrika ; spanske kolonier og presidier,British West Africa & French West Africa (other) & Liberia & Spanish Africa
 rhodesia ; andre britiske områder ; portugisiske bes. i afrika,British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia)
 alaska ; st. pierre og miquelon,Alaska & St. Pierre and Miquelon
 britisk honduras ; costa rica ; el salvador,Belize (British Honduras) & Costa Rica & El Salvador
-domingo-republikken ; jamaica ; andre brit. besiddelser ; bes. tilh. de forente st. ;  franske besiddelser ; nederlandske besiddelser,American America & British America & Dutch America & French America
+domingo-republikken ; jamaica ; andre brit. besiddelser ; bes. tilh. de forente st. ; franske besiddelser ; nederlandske besiddelser,American America & British America & Dutch America & French America
 britisk guiana ; fransk guiana ; nederlandsk guiana,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana)
 china m. mongolia og tibet ; mandsjukuo,Manchukuo & Mongolia & People's Republic of China (China) & Tibet
 arabia ; irak (mesopotamia) ; hong kong ; andre brit. besiddelser ; portugisiske besiddelser ; andre land,Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa
@@ -7332,8 +7328,7 @@ ukjent land,Unknown
 tyskland undt. saar,Germany (Zollverein)
 nederlansk india,Indonesia (Dutch East Indies)
 for ordre,***NA
-"algerie ; belgisk kongo ; egypt ; fransk vest-afrika ; kanariøiene ; libya (tripolis)
-; madagaskar ; marokko ; syd-afrika-sambandet ; tunis ; øst-afrika ; syd-afrika ellers",Africa (other)
+"algerie ; belgisk kongo ; egypt ; fransk vest-afrika ; kanariøiene ; libya (tripolis) ; madagaskar ; marokko ; syd-afrika-sambandet ; tunis ; øst-afrika ; syd-afrika ellers",Africa (other)
 britisk india ; britisk malakka ; ceylon,India & Malaysia (British Malaya) & Sri Lanka (Ceylon)
 andre vestlige assiatike land ; øvrige asiatiske land,Asia (other)
 storbritannia og irland,United Kingdom
@@ -7371,15 +7366,15 @@ tyrki,Turkey (Ottoman Empire)
 uopgitt,Unknown
 spitsbergen,Spitsbergen
 spanien og de kanariske øer,Canary Is. & Spain
-hollandsk ostindia; or øvrig,Indonesia (Dutch East Indies)
+"hollandsk ostindia, or øvrig",Indonesia (Dutch East Indies)
 uopgit,Unknown
-vestafrika; britisk sydafrika; østafrika,British South Africa & Eastern Africa & Western Africa
-britisk ostindien; siam; kina; forøvrig,Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
-canada og new foundland; nordamerika forøvrig,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland)
-kuba; vestindien,Cuba & West Indies (other)
-uruguay; chile; sydamerika forøvrig,Chile & Southern America (other) & Uruguay
-britisk ostindien ; kina; siam; forøvrig,Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
-mexiko; centralamerika,Central America & Mexico
+"vestafrika, britisk sydafrika, østafrika",British South Africa & Eastern Africa & Western Africa
+"britisk ostindien, siam, kina, forøvrig",Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
+"canada og new foundland, nordamerika forøvrig",Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland)
+"kuba, vestindien",Cuba & West Indies (other)
+"uruguay, chile, sydamerika forøvrig",Chile & Southern America (other) & Uruguay
+"britisk ostindien , kina, siam, forøvrig",Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
+"mexiko, centralamerika",Central America & Mexico
 mexiko og centralamerika,Central America & Mexico
 "ostindien, kina, asien forøvrig",Asia (other) & East Indies & People's Republic of China (China)
 uopgivet,Unknown
@@ -7500,7 +7495,7 @@ bahamas islands,Bahamas
 république polonaise et ville libre de dantzig,Danzig (Free City of Danzig) & Poland
 république polonaise,Poland
 chine et mandchourie,Manchuria & People's Republic of China (China)
-indes britaniques; birmanie,Myanmar (Burma)
+"indes britaniques, birmanie",Myanmar (Burma)
 "algérie, tunisie et maroc",Algeria (Algiers) & Morocco & Tunisia (Tunis)
 congo belge et ruanda-urundi,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi
 pêche (seulement au long cours),***NA
@@ -7544,7 +7539,7 @@ chiny,People's Republic of China (China)
 cypr,Cyprus
 filipiny,Philippines
 hedzas i nedzd,Saudi Arabia (Emirate of Nejd)
-indie brytyjskie;birma,Myanmar (Burma)
+"indie brytyjskie,birma",Myanmar (Burma)
 indje holenderskie,Indonesia (Dutch East Indies)
 posiadlości portugalskie w indiach,"Portuguese India (incl. Goa, Diu, Daman)"
 indochiny,French Indochina
@@ -7653,8 +7648,8 @@ nowe hebrydy,Vanuatu (New Hebrides)
 oceanja stanów zjednoczonych,American Oceania
 oceanja brytańska,British Oceania
 oceanja francuska,French Oceania
-anglja; irlandja,Ireland & United Kingdom
-danja; islandja,Denmark & Iceland
+"anglja, irlandja",Ireland & United Kingdom
+"danja, islandja",Denmark & Iceland
 zssr (rosja),Russia (USSR)
 par la zone libre du port de dantzig,Danzig (Free City of Danzig)
 arabja,Arabia
@@ -7765,10 +7760,10 @@ polónia — dantzig,Danzig (Free City of Danzig) & Poland
 rùssia (união das repùblicas sovéticas scialistas),Russia (USSR)
 tunísia,Tunisia (Tunis)
 outros territórios,Other countries
-"origens ignoradas, fornecimentosà navegação estrangeira; varios",Unknown
-macau;timor,East Timor (Portuguese Timor) & Macao
+"origens ignoradas, fornecimentosà navegação estrangeira, varios",Unknown
+"macau,timor",East Timor (Portuguese Timor) & Macao
 estados unidos do brasil,Brazil
-"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos; mantimentos ou gastos de cmbarcaçoes e avioes",Unknown
+"origens ignoradas, fazendas demoradas, arrojos do mar e arrestos, mantimentos ou gastos de cmbarcaçoes e avioes",Unknown
 marrocos (protectorado espanhol),Spanish Morocco
 reino unido da grá-bretanha e irlanda do norte,United Kingdom
 uniáo economica belgo-luxemburguesa,Belgium & Luxemburg
@@ -7844,11 +7839,11 @@ autres etats,Other countries
 etats de l'amérique,United States of America
 englitera,United Kingdom
 statele americel,United States of America
-turcia; egipt,Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
-elvetia; spania; suedia si norvegia; statele americel,Norway & Spain & Sweden & Switzerland & United States of America
+"turcia, egipt",Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
+"elvetia, spania, suedia si norvegia, statele americel",Norway & Spain & Sweden & Switzerland & United States of America
 suedia si norvegia,Norway & Sweden
-bulgaria; turcia; egipt,Bulgaria & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
-grecia; olanda; helvetia; spania; norvegia; statele-unite,Greece & Netherlands & Norway & Spain & Switzerland & United States of America
+"bulgaria, turcia, egipt",Bulgaria & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
+"grecia, olanda, helvetia, spania, norvegia, statele-unite",Greece & Netherlands & Norway & Spain & Switzerland & United States of America
 statele unite,United States of America
 uzul vaslor,***NA
 ruanda / urundi,Ruanda-Urundi
@@ -8123,7 +8118,7 @@ spanien och canary,Canary Is. & Spain
 tyskland och luxemburg,Germany (Zollverein)
 polen och danzig,Danzig (Free City of Danzig) & Poland
 grekland og crete,Crete & Greece
-egypten og  british-egyptian sudan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
+egypten og british-egyptian sudan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
 "syrien och libanon, alouiterna, djebel druse",Jebel Druze & Latakia (Alaouites) & Lebanon & Syria
 palestina och transjordanien,Jordan (Transjordan) & Palestine
 "japan och korea, formosa",Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa)
@@ -8801,3 +8796,4 @@ belgium-luxembourg economic union,Belgium & Luxemburg
 mongolia,Mongolia
 hejaz,Hejaz Sultanate
 dutch west indies. except sumatra and java,Indonesia (Dutch East Indies) (other)
+islas bahamas,Bahamas

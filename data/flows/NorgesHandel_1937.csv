@@ -58,7 +58,7 @@ NorgesHandel_1937_4042,110271,1000,kr.,1937,norges,de forente stater,imp,,,,,,,P
 NorgesHandel_1937_4042,86,1000,kr.,1937,norges,grønnland,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,231,1000,kr.,1937,norges,cuba,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,451,1000,kr.,1937,norges,guatemala,imp,,,,,,,Produksjonsland
-NorgesHandel_1937_4042,328,1000,kr.,1937,norges,haiti; vestl. del av øia haiti,imp,,,,,,,Produksjonsland
+NorgesHandel_1937_4042,328,1000,kr.,1937,norges,"haiti, vestl. del av øia haiti",imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,454,1000,kr.,1937,norges,honduras,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,3116,1000,kr.,1937,norges,mexiko,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,3,1000,kr.,1937,norges,nicaragua,imp,,,,,,,Produksjonsland
@@ -163,7 +163,7 @@ NorgesHandel_1937_4042,2,1000,kr.,1937,norges,grønnland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,110,1000,kr.,1937,norges,newfoundland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,2137,1000,kr.,1937,norges,cuba,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,162,1000,kr.,1937,norges,guatemala,exp,,,,,,,Forbruksland
-NorgesHandel_1937_4042,165,1000,kr.,1937,norges,haiti; vestl. del av øia haiti,exp,,,,,,,Forbruksland
+NorgesHandel_1937_4042,165,1000,kr.,1937,norges,"haiti, vestl. del av øia haiti",exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,7,1000,kr.,1937,norges,honduras,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,1916,1000,kr.,1937,norges,mexiko,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,22,1000,kr.,1937,norges,nicaragua,exp,,,,,,,Forbruksland
@@ -271,7 +271,7 @@ NorgesHandel_1937_4042,32,1000,kr.,1936,norges,grønnland,imp,,,,,,,Produksjonsl
 NorgesHandel_1937_4042,48,1000,kr.,1936,norges,newfoundland,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,115,1000,kr.,1936,norges,cuba,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,390,1000,kr.,1936,norges,guatemala,imp,,,,,,,Produksjonsland
-NorgesHandel_1937_4042,139,1000,kr.,1936,norges,haiti; vestl. del av øia haiti,imp,,,,,,,Produksjonsland
+NorgesHandel_1937_4042,139,1000,kr.,1936,norges,"haiti, vestl. del av øia haiti",imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,224,1000,kr.,1936,norges,honduras,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,1755,1000,kr.,1936,norges,mexiko,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,10,1000,kr.,1936,norges,nicaragua,imp,,,,,,,Produksjonsland
@@ -378,7 +378,7 @@ NorgesHandel_1937_4042,4,1000,kr.,1936,norges,grønnland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,72,1000,kr.,1936,norges,newfoundland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,1858,1000,kr.,1936,norges,cuba,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,138,1000,kr.,1936,norges,guatemala,exp,,,,,,,Forbruksland
-NorgesHandel_1937_4042,127,1000,kr.,1936,norges,haiti; vestl. del av øia haiti,exp,,,,,,,Forbruksland
+NorgesHandel_1937_4042,127,1000,kr.,1936,norges,"haiti, vestl. del av øia haiti",exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,26,1000,kr.,1936,norges,honduras,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,1048,1000,kr.,1936,norges,mexiko,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,16,1000,kr.,1936,norges,nicaragua,exp,,,,,,,Forbruksland
@@ -458,7 +458,7 @@ NorgesHandel_1937_4042,1608,1000,kr.,1935,norges,"tyrkia, europeik og asiat",imp
 NorgesHandel_1937_4042,139621,1000,kr.,1935,norges,tyskland,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,2845,1000,kr.,1935,norges,ungarn,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,4312,1000,kr.,1935,norges,østerrike,imp,,,,,,,Produksjonsland
-NorgesHandel_1937_4042,39,1000,kr.,1935,norges,"gibraltar, malta; andre europ. land, omfatende albania og andorra",imp,,,,,,,Produksjonsland
+NorgesHandel_1937_4042,39,1000,kr.,1935,norges,"gibraltar, malta, andre europ. land, omfatende albania og andorra",imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,580,1000,kr.,1935,norges,egypten,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,95,1000,kr.,1935,norges,belgisk kongo,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,629,1000,kr.,1935,norges,syd-afrika-sambandet,imp,,,,,,,Produksjonsland
@@ -479,13 +479,13 @@ NorgesHandel_1937_4042,252,1000,kr.,1935,norges,grønnland,imp,,,,,,,Produksjons
 NorgesHandel_1937_4042,31,1000,kr.,1935,norges,newfoundland,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,108,1000,kr.,1935,norges,cuba,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,454,1000,kr.,1935,norges,guatemala,imp,,,,,,,Produksjonsland
-NorgesHandel_1937_4042,30,1000,kr.,1935,norges,haiti; vestl. del av øia haiti,imp,,,,,,,Produksjonsland
+NorgesHandel_1937_4042,30,1000,kr.,1935,norges,"haiti, vestl. del av øia haiti",imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,246,1000,kr.,1935,norges,honduras,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,1467,1000,kr.,1935,norges,mexiko,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,35,1000,kr.,1935,norges,nicaragua,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,2,1000,kr.,1935,norges,panama,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,7005,1000,kr.,1935,norges,britisk honduras ; costa rica ; el salvador,imp,,,,,,,Produksjonsland
-NorgesHandel_1937_4042,2533,1000,kr.,1935,norges,domingo-republikken ; jamaica ; andre brit. besiddelser ; bes. tilh. de forente st. ;  franske besiddelser ; nederlandske besiddelser,imp,,,,,,,Produksjonsland
+NorgesHandel_1937_4042,2533,1000,kr.,1935,norges,domingo-republikken ; jamaica ; andre brit. besiddelser ; bes. tilh. de forente st. ; franske besiddelser ; nederlandske besiddelser,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,34167,1000,kr.,1935,norges,argentina,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,13,1000,kr.,1935,norges,bolivia,imp,,,,,,,Produksjonsland
 NorgesHandel_1937_4042,4473,1000,kr.,1935,norges,brasilien,imp,,,,,,,Produksjonsland
@@ -545,7 +545,7 @@ NorgesHandel_1937_4042,897,1000,kr.,1935,norges,"tyrkia, europeik og asiat",exp,
 NorgesHandel_1937_4042,78807,1000,kr.,1935,norges,tyskland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,889,1000,kr.,1935,norges,ungarn,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,3654,1000,kr.,1935,norges,østerrike,exp,,,,,,,Forbruksland
-NorgesHandel_1937_4042,243,1000,kr.,1935,norges,"gibraltar, malta; andre europ. land, omfatende albania og andorra",exp,,,,,,,Forbruksland
+NorgesHandel_1937_4042,243,1000,kr.,1935,norges,"gibraltar, malta, andre europ. land, omfatende albania og andorra",exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,11830,1000,kr.,1935,norges,egypt,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,80,1000,kr.,1935,norges,belgisk kongo,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,7212,1000,kr.,1935,norges,syd-afrika-sambandet,exp,,,,,,,Forbruksland
@@ -565,13 +565,13 @@ NorgesHandel_1937_4042,3,1000,kr.,1935,norges,grønnland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,87,1000,kr.,1935,norges,newfoundland,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,2622,1000,kr.,1935,norges,cuba,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,92,1000,kr.,1935,norges,guatemala,exp,,,,,,,Forbruksland
-NorgesHandel_1937_4042,158,1000,kr.,1935,norges,haiti; vestl. del av øia haiti,exp,,,,,,,Forbruksland
+NorgesHandel_1937_4042,158,1000,kr.,1935,norges,"haiti, vestl. del av øia haiti",exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,2,1000,kr.,1935,norges,honduras,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,1163,1000,kr.,1935,norges,mexiko,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,12,1000,kr.,1935,norges,nicaragua,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,384,1000,kr.,1935,norges,panama,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,131,1000,kr.,1935,norges,britisk honduras ; costa rica ; el salvador,exp,,,,,,,Forbruksland
-NorgesHandel_1937_4042,673,1000,kr.,1935,norges,domingo-republikken ; jamaica ; andre brit. besiddelser ; bes. tilh. de forente st. ;  franske besiddelser ; nederlandske besiddelser,exp,,,,,,,Forbruksland
+NorgesHandel_1937_4042,673,1000,kr.,1935,norges,domingo-republikken ; jamaica ; andre brit. besiddelser ; bes. tilh. de forente st. ; franske besiddelser ; nederlandske besiddelser,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,7905,1000,kr.,1935,norges,argentina,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,2296,1000,kr.,1935,norges,bolivia,exp,,,,,,,Forbruksland
 NorgesHandel_1937_4042,2355,1000,kr.,1935,norges,brasil,exp,,,,,,,Forbruksland
