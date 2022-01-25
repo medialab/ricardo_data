@@ -585,12 +585,17 @@
             "description": "For some flows, the transport type is precised : by land or by see for instance.",
             "constraints": {
               "enum": [
-                "Fleuve",
-                "Mer",
-                "Terre",
-                "Terre et Fleuves",
-                "Terre et Mer",
-                "Terre et Mer et Fleuves"
+                "river",
+                "sea",
+                "land",
+                "land & river",
+                "land & sea",
+                "land & river & sea",
+                "land_carriage",
+                "land_carriage & river",
+                "land_carriage_post",
+                "land_post",
+                "railway"
               ]
             }
           },
