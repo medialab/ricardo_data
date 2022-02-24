@@ -489,6 +489,7 @@ Cocos (Keeling) Is.,GPH_entity,Oceania,9002,,
 Colón,city/part_of,America,,Colón,Panama
 Collo,city/part_of,Africa,,,Algeria (Algiers)
 Colombia (New Granada) (Gran Colombia),GPH_entity,America,100,ColombiaNewGranadaGranColombia,
+Colombia (New Granada) (Gran Colombia) (other),city/part_of,America,,,Colombia (New Granada) (Gran Colombia)
 Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,group,America,,ColombiaNewGranadaGranColombia_Ecuador_Venezuela,
 Colombia (New Granada) (Gran Colombia) & Guatemala,group,America,,ColombiaNewGranadaGranColombia_Guatemala,
 Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,group,America,,ColombiaNewGranadaGranColombia_Guatemala_Venezuela,
@@ -2023,3 +2024,5 @@ Comoros & Madagascar (Malagasy Republic),group,Africa,,,
 Tanga,city/part_of,Africa,,,Tanzania (Tanganyika)
 Dar es Salaam,city/part_of,Africa,,,Tanzania (Tanganyika)
 South African Customs Union (other),colonial_area,Africa,,,
+Canary Is. (other),city/part_of,Africa,,,Canary Is.
+Berbera & Bulhar & Zeila,group,Africa,,,
