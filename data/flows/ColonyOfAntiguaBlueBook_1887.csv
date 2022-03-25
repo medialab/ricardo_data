@@ -1,0 +1,31 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfAntiguaBlueBook_1887_210211,72230,1,sterling,1887,colony of antigua,united kingdom,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,7922,1,sterling,1887,colony of antigua,canada,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,7110,1,sterling,1887,colony of antigua,barbados,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,2489,1,sterling,1887,colony of antigua,st kitts nevis,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,842,1,sterling,1887,colony of antigua,dominica,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,452,1,sterling,1887,colony of antigua,montserrat,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,43,1,sterling,1887,colony of antigua,demerara,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,105,1,sterling,1887,colony of antigua,trinidad,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,129,1,sterling,1887,colony of antigua,st lucia,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,65,1,sterling,1887,colony of antigua,st vincent,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,49831,1,sterling,1887,colony of antigua,united states,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,1590,1,sterling,1887,colony of antigua,germany,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,513,1,sterling,1887,colony of antigua,dutch colonies,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,1597,1,sterling,1887,colony of antigua,french colonies,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,320,1,sterling,1887,colony of antigua,danish colonies,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1887_210211,145229,1,sterling,1887,colony of antigua,total,imp,gen,,,,,total_reporting,
+ColonyOfAntiguaBlueBook_1887_210211,6478,1,sterling,1887,colony of antigua,united kingdom,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,15073,1,sterling,1887,colony of antigua,canada,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,19,1,sterling,1887,colony of antigua,barbados,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,400,1,sterling,1887,colony of antigua,st kitts nevis,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,143,1,sterling,1887,colony of antigua,dominica,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,333,1,sterling,1887,colony of antigua,montserrat,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,19,1,sterling,1887,colony of antigua,demerara,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,10,1,sterling,1887,colony of antigua,st vincent,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,122386,1,sterling,1887,colony of antigua,united states,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,170,1,sterling,1887,colony of antigua,dutch colonies,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,1956,1,sterling,1887,colony of antigua,french colonies,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,13,1,sterling,1887,colony of antigua,danish colonies,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,4,1,sterling,1887,colony of antigua,portuguese colonies,exp,spe,,,,,,Produce and manufacture of the colony
+ColonyOfAntiguaBlueBook_1887_210211,149001,1,sterling,1887,colony of antigua,total,exp,spe,,,,,total_reporting,Produce and manufacture of the colony
