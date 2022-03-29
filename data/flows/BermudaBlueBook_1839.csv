@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BermudaBlueBook_1839_168169,32993,1,£,1839,bermuda,great britain,imp,gen,,,,,,
+BermudaBlueBook_1839_168169,6733,1,£,1839,bermuda,british colonies. west indies,imp,gen,,,,,,
+BermudaBlueBook_1839_168169,21727,1,£,1839,bermuda,british colonies. north america,imp,gen,,,,,,
+BermudaBlueBook_1839_168169,41343,1,£,1839,bermuda,united states of america,imp,gen,,,,,,
+BermudaBlueBook_1839_168169,12920,1,£,1839,bermuda,foreign states,imp,gen,,,,,,
+BermudaBlueBook_1839_168169,115718,1,£,1839,bermuda,total,imp,gen,,,,,total_reporting,
+BermudaBlueBook_1839_176177,4710,1,£,1839,bermuda,great britain,exp,gen,,,,,,
+BermudaBlueBook_1839_176177,55884,1,£,1839,bermuda,british colonies. west indies,exp,gen,,,,,,
+BermudaBlueBook_1839_176177,2475,1,£,1839,bermuda,british colonies. north america,exp,gen,,,,,,
+BermudaBlueBook_1839_176177,3170,1,£,1839,bermuda,united states of america,exp,gen,,,,,,
+BermudaBlueBook_1839_176177,768,1,£,1839,bermuda,foreign states,exp,gen,,,,,,
+BermudaBlueBook_1839_176177,23009,1,£,1839,bermuda,total,exp,gen,,,,,total_reporting,

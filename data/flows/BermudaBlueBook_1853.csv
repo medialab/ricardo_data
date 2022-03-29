@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BermudaBlueBook_1853_154155,26867,1,£,1853,bermuda,great britain,imp,gen,,,,,,
+BermudaBlueBook_1853_154155,4384,1,£,1853,bermuda,british colonies. west indies,imp,gen,,,,,,
+BermudaBlueBook_1853_154155,14203,1,£,1853,bermuda,british colonies. north america,imp,gen,,,,,,
+BermudaBlueBook_1853_154155,68563,1,£,1853,bermuda,united states of america,imp,gen,,,,,,
+BermudaBlueBook_1853_154155,5370,1,£,1853,bermuda,foreign states,imp,gen,,,,,,
+BermudaBlueBook_1853_154155,119387,1,£,1853,bermuda,total,imp,gen,,,,,total_reporting,
+BermudaBlueBook_1853_164165,6265,1,£,1853,bermuda,great britain,exp,gen,,,,,,
+BermudaBlueBook_1853_164165,7556,1,£,1853,bermuda,british colonies. west indies,exp,gen,,,,,,
+BermudaBlueBook_1853_164165,207,1,£,1853,bermuda,british colonies. north america,exp,gen,,,,,,
+BermudaBlueBook_1853_164165,8080,1,£,1853,bermuda,united states of america,exp,gen,,,,,,
+BermudaBlueBook_1853_164165,2329,1,£,1853,bermuda,foreign states,exp,gen,,,,,,
+BermudaBlueBook_1853_164165,24437,1,£,1853,bermuda,total,exp,gen,,,,,total_reporting,
