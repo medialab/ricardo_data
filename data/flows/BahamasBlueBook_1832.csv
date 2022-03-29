@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BahamasBlueBook_1832_144145,52704,1,£,1832,bahamas,great britain,imp,gen,,,,,,
+BahamasBlueBook_1832_144145,22410,1,£,1832,bahamas,british west indies,imp,gen,,,,,,
+BahamasBlueBook_1832_144145,1579,1,£,1832,bahamas,british north america,imp,gen,,,,,,
+BahamasBlueBook_1832_144145,33608,1,£,1832,bahamas,united states of america,imp,gen,,,,,,
+BahamasBlueBook_1832_144145,7458,1,£,1832,bahamas,foreign states,imp,gen,,,,,,
+BahamasBlueBook_1832_144145,117759,1,£,1832,bahamas,total,imp,gen,,,,,total_reporting,
+BahamasBlueBook_1832_152153,111411,1,£,1832,bahamas,great britain,exp,gen,,,,,,
+BahamasBlueBook_1832_152153,6205,1,£,1832,bahamas,british west indies,exp,gen,,,,,,
+BahamasBlueBook_1832_152153,1283,1,£,1832,bahamas,british north america,exp,gen,,,,,,
+BahamasBlueBook_1832_152153,44384,1,£,1832,bahamas,united states of america,exp,gen,,,,,,
+BahamasBlueBook_1832_152153,8890,1,£,1832,bahamas,foreign states,exp,gen,,,,,,
+BahamasBlueBook_1832_152153,172173,1,£,1832,bahamas,total,exp,gen,,,,,total_reporting,
