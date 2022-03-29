@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BritishHondurasBlueBook_1836_138139,278699,1,£,1836,british honduras,great britain,imp,gen,,,,,,
+BritishHondurasBlueBook_1836_138139,3109,1,£,1836,british honduras,british colonies. west indies,imp,gen,,,,,,
+BritishHondurasBlueBook_1836_138139,1682,1,£,1836,british honduras,british colonies. north america,imp,gen,,,,,,
+BritishHondurasBlueBook_1836_138139,34225,1,£,1836,british honduras,united states of america,imp,gen,,,,,,
+BritishHondurasBlueBook_1836_138139,22839,1,£,1836,british honduras,foreign states,imp,gen,,,,,,
+BritishHondurasBlueBook_1836_138139,340554,1,£,1836,british honduras,total,imp,gen,,,,,total_reporting,
+BritishHondurasBlueBook_1836_148149,399546,1,£,1836,british honduras,great britain,exp,gen,,,,,,
+BritishHondurasBlueBook_1836_148149,607,1,£,1836,british honduras,british colonies. north america,exp,gen,,,,,,
+BritishHondurasBlueBook_1836_148149,44129,1,£,1836,british honduras,united states of america,exp,gen,,,,,,
+BritishHondurasBlueBook_1836_148149,48833,1,£,1836,british honduras,foreign states,exp,gen,,,,,,
+BritishHondurasBlueBook_1836_148149,493115,1,£,1836,british honduras,total,exp,gen,,,,,total_reporting,
