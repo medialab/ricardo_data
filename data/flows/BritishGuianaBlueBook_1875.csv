@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BritishGuianaBlueBook_1875_W1,927168,1,£,1875,british guiana,united kingdom,imp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,92300,1,£,1875,british guiana,british west indies,imp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,290950,1,£,1875,british guiana,other british colonies,imp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,364861,1,£,1875,british guiana,united states of america,imp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,161877,1,£,1875,british guiana,other foreign countries,imp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,1837158,1,£,1875,british guiana,total,imp,gen,,,,,total_reporting,
+BritishGuianaBlueBook_1875_W1,1744972,1,£,1875,british guiana,united kingdom,exp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,50300,1,£,1875,british guiana,british west indies,exp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,75276,1,£,1875,british guiana,other british colonies,exp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,290008,1,£,1875,british guiana,united states of america,exp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,176563,1,£,1875,british guiana,other foreign countries,exp,gen,,,,,,
+BritishGuianaBlueBook_1875_W1,2337121,1,£,1875,british guiana,total,exp,gen,,,,,total_reporting,
