@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfSaintLuciaBlueBook_1852_169170,22179,1,£,1851,st. lucia,great britain,imp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_169170,25913,1,£,1851,st. lucia,british west indies,imp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_169170,3698,1,£,1851,st. lucia,british north america,imp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_169170,6137,1,£,1851,st. lucia,united states of america,imp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_169170,10952,1,£,1851,st. lucia,foreign states,imp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_169170,68881,1,£,1851,st. lucia,total,imp,gen,,,,,total_reporting,
+ColonyOfSaintLuciaBlueBook_1852_177178,45620,1,£,1851,st. lucia,great britain,exp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_177178,6167,1,£,1851,st. lucia,british west indies,exp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_177178,1838,1,£,1851,st. lucia,british north america,exp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_177178,463,1,£,1851,st. lucia,united states of america,exp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_177178,716,1,£,1851,st. lucia,foreign states,exp,gen,,,,,,
+ColonyOfSaintLuciaBlueBook_1852_177178,54815,1,£,1851,st. lucia,total,exp,gen,,,,,total_reporting,
