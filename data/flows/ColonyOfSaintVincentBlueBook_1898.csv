@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfSaintVincentBlueBook_1898_V1,27290,1,£,1898,st vincent,united kingdom,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,44812,1,£,1898,st vincent,british west indies,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,15460,1,£,1898,st vincent,united states of america,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,12,1,£,1898,st vincent,venezuela,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,131,1,£,1898,st vincent,holland,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,599,1,£,1898,st vincent,foreign west indies,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,88308,1,£,1898,st vincent,total,imp,gen,,,,,total_reporting,
+ColonyOfSaintVincentBlueBook_1898_V1,14174,1,£,1898,st vincent,united kingdom,exp,spe,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,13973,1,£,1898,st vincent,british west indies,exp,spe,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,14435,1,£,1898,st vincent,united states of america,exp,spe,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,927,1,£,1898,st vincent,foreign west indies,exp,spe,,,,,,
+ColonyOfSaintVincentBlueBook_1898_V1,43511,1,£,1898,st vincent,total,exp,spe,,,,,total_reporting,

@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfSaintVincentBlueBook_1843_162163,76609,1,£,1843,st vincent,great britain,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_162163,22299,1,£,1843,st vincent,british west indies,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_162163,8389,1,£,1843,st vincent,british north america,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_162163,20140,1,£,1843,st vincent,united states of america,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_162163,5550,1,£,1843,st vincent,foreign states,imp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_162163,132987,1,£,1843,st vincent,total,imp,gen,,,,,total_reporting,
+ColonyOfSaintVincentBlueBook_1843_170171,222375,1,£,1843,st vincent,great britain,exp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_170171,8172,1,£,1843,st vincent,british west indies,exp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_170171,168,1,£,1843,st vincent,british north america,exp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_170171,189,1,£,1843,st vincent,united states of america,exp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_170171,1126,1,£,1843,st vincent,foreign states,exp,gen,,,,,,
+ColonyOfSaintVincentBlueBook_1843_170171,232030,1,£,1843,st vincent,total,exp,gen,,,,,total_reporting,
