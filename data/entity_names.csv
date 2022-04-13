@@ -4735,7 +4735,6 @@ tonkin,Tonkin
 tortola and virgin gorda (british west india islands),Tortola & Virgin Gorda
 toscana,Tuscany
 toscane,Tuscany
-toscane (livourne),Livorno
 toscane (livourne) et etats sardes (gênes),Genoa & Livorno
 toscane et etats-romains,Papal States & Tuscany
 toscane et lucques,Lucca & Tuscany
@@ -8832,22 +8831,17 @@ coast of brazil,Brazil
 british american colonies and newfoundland,british america & newfoundland and labrador (newfoundland)
 french african ports,French Africa
 greece and grecian archipelago,dodecanese is. (aegean is.) & greece
-mexico,Mexico
 italian ports not specified,Italy (other)
 south seas and pacific,South Sea Islands & Pacific Islands
-swedish west indies,swedish west indies
-cuba,Cuba
 other british north american possessions,British North America (other)
 uruguay or cisplatine republic,Uruguay
 buenos ayres or argentine republic,Argentina (La Plata)
 british provinces east and columbia,British Columbia & British East North America
 china (including hongkong and singapore),Hong Kong & People's Republic of China (China) & Singapore
 "azores, madeira, and cape verd islands",Azores (Western Isles) & Cape Verde & Madeira Isles
-portugal,Portugal
 turkey in africa (egypt and tripoli),Egypt Arab Republic (Egypt) & Tripolitania
 "quebec, ontario, manitoba, and northwest territory",manitoba & northwest territories & ontario (upper canada) & quebec (lower canada)
 nova scotia and new brunswick and prince edward island,New Brunswick & Nova Scotia & Prince Edward Is.
-gibraltar,Gibraltar
 german possessions in africa and australasia,german africa & german oceania
 "british north america (dominion of canada, newfoundland and labrador)",British North America
 spanish oceania,Spanish Oceania
@@ -8874,7 +8868,6 @@ weymouth,weymouth
 yarmouth,yarmouth
 ragged islands,Ragged Island
 tusket,tusket is.
-halifax,Halifax
 havre,havre boucher
 shelburne,shelburne
 margaritta (venezuela),margarita i.
@@ -8894,8 +8887,6 @@ copenhague,copenhagen
 espagne (catalogne),catalonia
 turquie (alep-alexandrette),aleppo & alexandretta
 régence de tunis (tunis),Tunisia (Tunis)
-états sardes,Kingdom of Sardinia
-états-unis,United States of America
 gothembourg,gothenburg
 espagne (valence),valencia
 îles ioniennes (zante),zakynthos
@@ -8920,11 +8911,9 @@ autriche (trieste et venise et fiume),Fiume & Republic of St. Mark & Trieste
 puissances étrangères (sans france),Other countries
 royaume-uni et gibraltar,Gibraltar & United Kingdom
 colonies suédoises,Swedish Colonies
-total,World
 états-unis,United States of America
 angleterre et gibraltar et îles ioniennes et malte,Gibraltar & Ionian Is. & Malta & United Kingdom
 égypte,Egypt Arab Republic (Egypt)
-états-romains,Papal States
 îles ioniennes,Ionian Is.
 états sardes,Kingdom of Sardinia
 états d'allemagne,Germany (Zollverein)
@@ -8935,7 +8924,6 @@ havane et porto rico,Cuba & Puerto Rico
 villes anséatiques (autre),hanse towns (bremen & hamburg & lübeck) (other)
 pêche hareng,***NA
 grand duché oldenbourg,Oldenburg
-portugal,Portugal
 sardaigne (île),Sardinia
 états sardes (terre ferme),Kingdom of Sardinia (land)
 turquie et égypte et barbarie,barbary coast (algiers & morocco & tripolitania & tunis) & egypt arab republic (egypt) & turkey (ottoman empire)
@@ -8960,7 +8948,6 @@ rio de la plata (buenos ayres),Argentina (La Plata)
 nouvelle-grenade (santa fé),bogotá
 angleterre et gibraltat et îles ioniennes et malte,Gibraltar & Ionian Is. & Malta & United Kingdom
 belqique,Belgium
-grèce,Greece
 angleterre et malte et îles ioniennes,Ionian Is. & Malta & United Kingdom
 hollande et belgique (pays-bas),Belgium & Netherlands
 indes occidentales et orientales,East Indies & West Indies
@@ -8971,7 +8958,6 @@ moldavie (galatz),galați
 turquie (anatolie),Western Anatolia
 régence de tripoli et états barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
 danemarck (saint-thomas),St. Thomas
-angleterre,United Kingdom
 turquie (tripoli de syrie et lataquie),tripoli (syria) & latakia (alaouites)
 nouvelle-grenade (sainte-marthe),santa marta
 egypte (beyrout),Beirut
@@ -9000,14 +8986,11 @@ puerta plata,puerto plata
 united states of columbia,Colombia (New Granada) (Gran Colombia)
 vessels in distress,***NA
 hulks and materials of vessels,***NA
-central and south america,Central America & Southern America
 vessels derelict,***NA
 hawaian islands,Hawaii (Sandwich Is.)
-total,World
 british colonies,British Colonies
 st. thomas (w.i.),St. Thomas
 inagna (bahamas),inagua
-switzerland,Switzerland
 africa (british),British Africa
 honduras (spanish),Honduras
 other w. indies,West Indies (other)
@@ -9024,7 +9007,6 @@ british colonies. west indies,British West Indies
 british colonies. north america,British North America
 dutiable packages,***NA
 yugo slavia,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
-total,World
 shanghai,Shangai
 cominion of canada,Canada (Province of Canada)
 ceylon b. w. i.,Sri Lanka (Ceylon)
@@ -9050,7 +9032,6 @@ prince edward islands,Prince Edward Is.
 inagua (bahamas),inagua
 st. croix (danish),St. Croix
 quebec,Quebec (Lower Canada)
-antigua,Antigua and Barbuda
 "bahamas (turks islands, nassau, inagua)",inagua & nassua & turks and caicos is.
 oporto,Porto
 marseilles,Marseille
@@ -9099,7 +9080,6 @@ russischen ostseehäfen,Russia (Baltic Sea)
 russischen häfen am schwarz u. asow. meere,Russia (Black Sea) & Russia (Asov Sea)
 dänemark mit island und faröer,Denmark & Faeroe Is. & Iceland
 grossbritannien und irland (other),United Kingdom (other)
-belgien,Belgium
 "spanien, einschliesslich gibraltar",Gibraltar & Spain
 italien und malta,italy & malta
 oesterreich-ungarn,Austria-Hungary
@@ -9141,9 +9121,7 @@ afrika's ostküste,Africa Coast (East)
 russisch asien,Asian Russia
 den marschall- schiffer-inseln,Marshall Is. & Samoa
 nach der ober-elbe,World (via Germany (upper Elbe))
-helgoland,Heligoland
 russischen häfen am schwarzen meere,Russia (Black Sea)
-guatemala,Guatemala
 oldenburg und wilhelmshafen,Oldenburg & Wilhelmshaven
 ostfriesland,East Frisia
 der europäischen türkei und rumänien,European Turkey & Romania
@@ -9167,14 +9145,11 @@ französisch ostindien,French East Indies
 triest,Trieste
 patagonien,Patagonia
 britisch ost-indien singapore,Singapore
-china,People's Republic of China (China)
-cuba,Cuba
 afrika's ostküste und dem caplande,Africa Coast (East) & Cape Colony (Cape of Good Hope)
 neu-holland,Australia
 den gesellschafts-inseln,Society Is.
 "landwärts, per frachtfuhren",World (other)
 mit den fahrposten,World (other)
-brasilien,Brazil
 den molukken inseln,Maluku Islands (Mollucas)
 der moldau,Moldavia
 der europäischen türkei,European Turkey
@@ -9212,7 +9187,6 @@ beiden sicilien,Two Sicilies
 birma (rangoon),Myanmar (Burma)
 französisch guayana,French Guiana
 sicilien,Sicily
-oldenburg,Oldenburg
 venedig,Republic of St. Mark
 der türkei,Turkey (Ottoman Empire)
 sardinien,Kingdom of Sardinia
@@ -9225,7 +9199,6 @@ australien und den sandwich-inseln,Australia & Hawaii (Sandwich Is.)
 jamaica und curaçao,Curacao & Jamaica
 oldenburg und ostfriesland,East Frisia & Oldenburg
 der moldau und aegypten,Egypt Arab Republic (Egypt) & Moldavia
-australien,Australia
 afrik'as westküste un den canarien,Africa Coast (West) & Canary Is.
 russisch nord-amerika (sitka),Arkhangelsk
 amerika's übriger westküste,Western America (other)
@@ -9240,7 +9213,6 @@ nach und über lüneburg,World (via Lüneburg)
 nach und über harburg,World (via Harburg)
 den canarien,Canary Is.
 mecklenburg und lübeck,Mecklenburg & Lübeck
-singapore,Singapore
 den canarien und azoren,Azores (Western Isles) & Canary Is.
 "jamaica, trinidad und curaçao",Curacao & Jamaica & Trinidad and Tobago
 schleswig-holstein pr. eisenbahn,World (via Schleswig-Holstein)
@@ -9253,7 +9225,6 @@ honduras (levingston u. st. thomas),Honduras
 helgoland und cuxhaven,Cuxhaven & Heligoland
 triest und san giovanni,Republic of St. Mark & Trieste
 kamtschatka,Kamchatka
-venezuela,Venezuela
 niederländisch west-indien,Netherlands Antilles
 britisch west-indien,British West Indies
 odessa und galatz,Galați & Odessa
@@ -9284,7 +9255,6 @@ der türkei und griechenland,Greece & Turkey (Ottoman Empire)
 st. barthelemy,St. Barthelemy
 leeward is.,Leeward Is.
 virgin islands,British Virgin Is.
-france,France
 other foreign places,Other countries
 u.s. virgin islands,Virgin Islands (Danish West Indies)
 other places,Other countries
@@ -9296,11 +9266,8 @@ foreign countries. other ports,Other countries
 other ports,Other countries
 spanish ports,Spain
 united states ports,United States of America (other)
-barbados,Barbados
 belgium ports,Belgium
 german ports,Germany (Zollverein)
-other british possessions,British Colonies (other)
-germany,Germany (Zollverein)
 haytian ports,Haiti
 haytian,Haiti
 american (porto rico),Puerto Rico
@@ -9308,8 +9275,6 @@ other brit. colonies,British Colonies (other)
 venezuelan,Venezuela
 panama and colon,Colón & Panama
 spanish ports (venezuelan),Spain
-total,World
-danish ports,Denmark
 st. martin,St. Martin
 carriacou,Carriacou
 grenadines,St. Vincent and the Grenadines
@@ -9341,7 +9306,6 @@ asia-minor,Western Anatolia
 miscellaneous and unclassified (including parcel post),***NA
 total miscellaneous and unclassified,***NA
 u.s. west indies,American West Indies
-japan,Japan
 prince edward isles,Prince Edward Is.
 santille,Unknown
 san juan,San Juan
@@ -9352,10 +9316,8 @@ whaling,***NA
 saint helena,St. Helena
 french senegambia,Senegal
 senegambia,Senegal
-buenos ayres,Buenos Aires
 chittagong,Chittagong
-new granada,Colombia (New Granada) (Gran Colombia)
 new granada (mexico),Colombia (New Granada) (Gran Colombia)
 british west indies and bermuda,Bermuda & British West Indies
 africa (non british),Africa (other)
-france,France
+saxe et autriche,Austria & Saxony
