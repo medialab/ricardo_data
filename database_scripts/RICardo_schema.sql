@@ -74,7 +74,7 @@ CREATE TABLE `entity_names`
 
 CREATE TABLE `RICentities_groups`
 (
-	`id`						INTEGER PRIMARY KEY AUTOINCREMENT,
+	`id`						INTEGER,
 	`RICname_group`				TEXT,
 	`RICname_part`				TEXT,
 	FOREIGN KEY (RICname_part) 	REFERENCES RICentities(RICname),
