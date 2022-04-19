@@ -136,7 +136,7 @@ Annapolis,city/part_of,America,,,Nova Scotia
 Annobon I.,GPH_entity,Africa,4111,,
 Antarctic,geographical_area,Antarctic,,Antarctic,
 Antarctic & Arctic,geographical_area,World,,,
-Antigua and Barbuda,GPH_entity,America,58,Antigua_Barbuda,
+Antigua and Barbuda (Antigua),GPH_entity,America,58,Antigua_Barbuda,
 Antsiranana (Diego-Suarez),city/part_of,Africa,,,Madagascar (Malagasy Republic)
 Antwerp,city/part_of,Europe,,Antwerp,Belgium
 Arabia,geographical_area,Asia,,Arabia,
@@ -228,21 +228,21 @@ Australia & Tasmania,group,Oceania,,,
 Australia & Western Australia,group,Oceania,,Australia_WesternAustralia,
 Australian Northern Territory,city/part_of,Oceania,,,Australia
 Australian Northern Territory & South Australia,group,Oceania,,,Australia
-Austria,GPH_entity,Europe,305,Austria,
-Austria & Austrian Dependencies,group,World,,,
-Austria & Cracow (Free City of Cracow),group,Europe,,Austria_CracowFreeCityofCracow,
-Austria & Czechoslovakia & Hungary,group,Europe,,,
-Austria & Germany (Zollverein),group,Europe,,Austria_GermanyZollverein,
-Austria & Italy,group,Europe,,Austria-Hungary_Italy,
-Austria & Lombardy-Venetia,group,Europe,,Austria-Hungary_Lombardy-Venetia,
-Austria & Saxony,group,Europe,,,
-Austria Ports,city/part_of,Europe,,,Austria
-Austria Ports (Adriatic),city/part_of,Europe,,,Austria
+Austria (Austrian Empire),GPH_entity,Europe,305,Austria,
+Austria (Austrian Empire) & Austrian Dependencies,group,World,,,
+Austria (Austrian Empire) & Cracow (Free City of Cracow),group,Europe,,Austria_CracowFreeCityofCracow,
+Austria (Austrian Empire) & Czechoslovakia & Hungary,group,Europe,,,
+Austria (Austrian Empire) & Germany (Zollverein),group,Europe,,Austria_GermanyZollverein,
+Austria (Austrian Empire) & Italy,group,Europe,,Austria-Hungary_Italy,
+Austria (Austrian Empire) & Lombardy-Venetia,group,Europe,,Austria-Hungary_Lombardy-Venetia,
+Austria (Austrian Empire) & Saxony,group,Europe,,,
+Austria Ports,city/part_of,Europe,,,Austria (Austrian Empire)
+Austria Ports (Adriatic),city/part_of,Europe,,,Austria (Austrian Empire)
 Austria Ports & Trieste,group,Europe,,,
 Austria-Hungary,GPH_entity,Europe,300,Austria-Hungary,
 Austria-Hungary & Bosnia-Herzegovina,group,Europe,,,
 Austria-Hungary & Italy,group,Europe,,,
-Austrian Dependencies,city/part_of,Europe,,,Austria
+Austrian Dependencies,city/part_of,Europe,,,Austria (Austrian Empire)
 Azores (Western Isles),GPH_entity,Africa,400,AzoresWesternIsles,
 Azores (Western Isles) & Africa Coast (West),geographical_area,Africa,,,
 Azores (Western Isles) & Canary Is.,group,Africa,,AzoresWesternIsles_CanaryIs,
@@ -701,7 +701,7 @@ Cyrenaica & Tripolitania,group,Africa,,Cyrenaica_Tripolitania,
 Czechoslovakia,GPH_entity,Europe,315,Czechoslovakia,
 Czechoslovakia & Hungary,group,Europe,,,
 Dakar,city/part_of,Africa,,,Senegal
-Dalmatia,city/part_of,Europe,,,Austria
+Dalmatia,city/part_of,Europe,,,Austria (Austrian Empire)
 Dalny,city/part_of,Asia,,,Kwangtung Territory (Leased)
 Dalny & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
 Damascus,city/part_of,Asia,,,Syria
@@ -987,7 +987,7 @@ Futa Djallon,GPH_entity,Africa,4381,,
 Gabon,GPH_entity,Africa,481,Gabon,
 Gala?i,city/part_of,Europe,,,Moldavia
 Gala?i & Odessa,group,Europe,,,
-Galicia,city/part_of,Europe,,,Austria
+Galicia,city/part_of,Europe,,,Austria (Austrian Empire)
 Galicia & Poland & Russian provinces,group,Europe,,Galicia_Poland_Russianprovinces,
 Gambia,GPH_entity,Africa,420,Gambia,
 Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,group,Africa,,Gambia_GuineaFrenchGuineaRivieresduSud_Senegal,
@@ -1143,7 +1143,7 @@ Honolulu,city/part_of,Oceania,,,Hawaii (Sandwich Is.)
 Hungary,GPH_entity,Europe,310,Hungary,
 Iceland,GPH_entity,Europe,395,Iceland,
 Ichaboe Island,city/part_of,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
-Illyria,city/part_of,Europe,,,Austria
+Illyria,city/part_of,Europe,,,Austria (Austrian Empire)
 Imperia (Porto Maurizio),city/part_of,Europe,,ImperiaPortoMaurizio,Kingdom of Sardinia
 Inagua,city/part_of,America,,,Bahamas
 Inagua & Nassau (Bahamas) & Turks and Caicos Is.,city/part_of,America,,,Bahamas
