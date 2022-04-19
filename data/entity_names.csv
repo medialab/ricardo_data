@@ -595,9 +595,9 @@ autriche (venise),Republic of St. Mark
 autriche et allemagne,Austria (Austrian Empire) & Germany (Zollverein)
 autriche et autres etats allemands,Austria (Austrian Empire) & Germany (Zollverein)
 autriche et cracovie,Austria (Austrian Empire) & Cracow (Free City of Cracow)
-autriche et dépendances,Austria & Austrian Dependencies
+autriche et dépendances,Austria (Austrian Empire) & Austrian Dependencies
 autriche et lombardie,Austria (Austrian Empire) & Lombardy-Venetia
-autriche et royaume lombard vénitien,Austria & Lombardy-Venetia
+autriche et royaume lombard vénitien,Austria (Austrian Empire) & Lombardy-Venetia
 autriche hongrie,Austria-Hungary
 autriche**,Austria (Austrian Empire)
 autriche-hongrie,Austria-Hungary
@@ -5404,7 +5404,7 @@ ceilão,Sri Lanka (Ceylon)
 estabelecimentos dos estreitos,Straits Settlements
 iraque,Iraq (Mesopotamia)
 pérsia,Iran (Persia)
-aústria,Austria
+aústria,Austria (Austrian Empire)
 bulgária,Bulgaria
 estȏnia,Estonia
 finlȃndia,Finland
@@ -5717,7 +5717,7 @@ europæisk rusland,European Russia
 polen og danzig,Danzig (Free City of Danzig) & Poland
 belgien-luxembourg,Belgium & Luxemburg
 tjekkoslovakiet,Czechoslovakia
-østrig,Austria
+østrig,Austria (Austrian Empire)
 jugoslavien,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 tyrkiet,Turkey (Ottoman Empire)
 øvrige europa,Europe (other)
@@ -5957,7 +5957,7 @@ nederländerna,Netherlands
 storbritannien och nord-irland,United Kingdom
 irlandska fristaten,Ireland
 frankrike,France
-österrike,Austria
+österrike,Austria (Austrian Empire)
 ungern,Hungary
 tjeckoslovakien,Czechoslovakia
 rumänien,Romania
@@ -6233,7 +6233,7 @@ memelland,Memel
 neufundland,Newfoundland and Labrador (Newfoundland)
 niederländisch-amerika,Dutch America
 niederländisch indien,Indonesia (Dutch East Indies)
-österreich,Austria
+österreich,Austria (Austrian Empire)
 ostpolen,Kresy
 polen oberschlesien,Upper Silesia
 westpolen,Western Poland
@@ -6702,7 +6702,7 @@ danmörk,Denmark
 féroé,Faeroe Is.
 noregur,Norway
 svíþjóð,Sweden
-austurríki,Austria
+austurríki,Austria (Austrian Empire)
 belgía,Belgium
 bretland,United Kingdom
 frakkland,France
@@ -7275,7 +7275,7 @@ austral-sambandet,Australia
 øyer i stillehavet,Pacific Islands
 albania og andorra,Albania & Andorra
 "tyrkia, europeik og asiat",Turkey (Ottoman Empire)
-østerrike,Austria
+østerrike,Austria (Austrian Empire)
 "andre europ. land, omfatende albania og andorra",Europe (other)
 "marokko, fransk protektorat med tanger",Morocco & Tangier
 libya (tripolis),Libya
@@ -7746,7 +7746,7 @@ baltico,Baltic Ports
 mediterraneo,Mediterranean Ports
 rio da prata (buenos ayres),Argentina (La Plata)
 total geral,World
-áustria,Austria
+áustria,Austria (Austrian Empire)
 brasol,Brazil
 índia britânica,India
 índias holandesas,Indonesia (Dutch East Indies)
@@ -8124,7 +8124,7 @@ palestina och transjordanien,Jordan (Transjordan) & Palestine
 "japan och korea, formosa",Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa)
 kina og mandschuriet,Manchuria & People's Republic of China (China)
 sovjet-ryssland,Russia (USSR)
-tysk-österrike,Austria
+tysk-österrike,Austria (Austrian Empire)
 sydryssland,Southern Russia
 amerikas för. stat.,United States of America
 övr. mellanamerika,Central America (other)
@@ -8952,7 +8952,7 @@ angleterre et malte et îles ioniennes,Ionian Is. & Malta & United Kingdom
 hollande et belgique (pays-bas),Belgium & Netherlands
 indes occidentales et orientales,East Indies & West Indies
 france et ses possessions d'afrique,france & french africa
-autriche et ses dépendances,Austria & Austrian Dependencies
+autriche et ses dépendances,Austria (Austrian Empire) & Austrian Dependencies
 france et ses dépendances,France & French Colonies
 moldavie (galatz),galați
 turquie (anatolie),Western Anatolia
@@ -9323,3 +9323,5 @@ new granada (mexico),Colombia (New Granada) (Gran Colombia)
 british west indies and bermuda,Bermuda & British West Indies
 africa (non british),Africa (other)
 saxe et autriche,Austria (Austrian Empire) & Saxony
+dutiable packets from all countries,***NA
+american w. i.,American West Indies
