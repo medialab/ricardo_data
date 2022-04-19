@@ -145,9 +145,9 @@ allem./rhin,Rhine
 allem./villes ans�atiques,Hanse Towns (Bremen & Hamburg & L�beck)
 allemagne,Germany (Zollverein)
 allemagne & sarre,Germany (Zollverein) & Saar
-allemagne (+ autriche),Austria & Germany (Zollverein)
+allemagne (+ autriche),Austria (Austrian Empire) & Germany (Zollverein)
 allemagne (+ sarre),Germany (Zollverein) & Saar
-allemagne (+autriche),Austria & Germany (Zollverein)
+allemagne (+autriche),Austria (Austrian Empire) & Germany (Zollverein)
 allemagne (association commerciale allemande),Germany (Zollverein)
 allemagne (empire),Germany (Zollverein)
 allemagne (empire)*,Germany (Zollverein)
@@ -156,7 +156,7 @@ allemagne (union douani�re allemande),Germany (Zollverein)
 allemagne du nord,North Germany
 allemagne du nord et hambourg,Hamburg & North Germany
 allemagne enti�re,Germany (Zollverein)
-allemagne et autriche,Austria & Germany (Zollverein)
+allemagne et autriche,Austria (Austrian Empire) & Germany (Zollverein)
 allemagne et rhin,Germany (Zollverein) & Rhine
 "allemagne, belgique, espagne, maroc, autres pays",Belgium & Germany (Zollverein) & Morocco & Other countries & Spain
 "allemagne, belgique,pays-bas",Belgium & Germany (Zollverein) & Netherlands
@@ -285,11 +285,11 @@ angola (portuguess africa),Angola
 angra-pequena,Angra Pequena
 antarctic regions,Antarctic
 antarctica,Antarctic
-antigoa,Antigua and Barbuda
-antigua,Antigua and Barbuda
-antigua (british west india islands),Antigua and Barbuda
-antigua (leeward islands - west india islands),Antigua and Barbuda
-antigue,Antigua and Barbuda
+antigoa,Antigua and Barbuda (Antigua)
+antigua,Antigua and Barbuda (Antigua)
+antigua (british west india islands),Antigua and Barbuda (Antigua)
+antigua (leeward islands - west india islands),Antigua and Barbuda (Antigua)
+antigue,Antigua and Barbuda (Antigua)
 antilhas hollandesas,Netherlands Antilles
 antilla,West Indies
 antillas,West Indies
@@ -412,7 +412,7 @@ association commerciale allemande,Germany (Zollverein)
 atlantic ocean,Atlantic Ocean
 auh,Austria-Hungary
 auriche-hongrie,Austria-Hungary
-aurtiche,Austria
+aurtiche,Austria (Austrian Empire)
 australasia,Australia
 australasia : fiji islands,Fiji
 australasia : new south wales,New South Wales
@@ -496,7 +496,7 @@ australie ouest,Western Australia
 australie sud,South Australia
 "australie, iles sandwich",Australia & Hawaii (Sandwich Is.)
 "australie, nle-hollande",Australia & Western Australia
-austria,Austria
+austria,Austria (Austrian Empire)
 austria - hungary,Austria-Hungary
 austria and hungary,Austria-Hungary
 austria hungary,Austria-Hungary
@@ -505,7 +505,7 @@ austria-hungary,Austria-Hungary
 austria-hungria,Austria-Hungary
 austria-hungr�a,Austria-Hungary
 austrian possessions in italy,Italian Austria
-austrian territories,Austria
+austrian territories,Austria (Austrian Empire)
 "austrian territories (illyria, croatia and dalmatia)",Croatia & Dalmatia & Illyria
 austria-ungheria,Austria-Hungary
 austro-hungary,Austria-Hungary
@@ -583,7 +583,7 @@ autres possessions portugaises**,Portuguese Colonies (other)
 autres villes ou ports d'asie,Asia (other)
 autres west indies,West Indies (other)
 "autrice-hongrie (trieste, venise et fiume)",Fiume & Republic of St. Mark & Trieste
-autriche,Austria
+autriche,Austria (Austrian Empire)
 autriche - trieste,Trieste
 autriche ( trieste),Trieste
 autriche (etats d'allemagne et possessions en italie),German Austria & Italian Austria
@@ -592,14 +592,14 @@ autriche (ports de l'adriatique),Austria Ports (Adriatic)
 autriche (trieste et venise),Republic of St. Mark & Trieste
 autriche (trieste),Trieste
 autriche (venise),Republic of St. Mark
-autriche et allemagne,Austria & Germany (Zollverein)
-autriche et autres etats allemands,Austria & Germany (Zollverein)
-autriche et cracovie,Austria & Cracow (Free City of Cracow)
-autriche et d�pendances,Austria & Austrian Dependencies
-autriche et lombardie,Austria & Lombardy-Venetia
-autriche et royaume lombard v�nitien,Austria & Lombardy-Venetia
+autriche et allemagne,Austria (Austrian Empire) & Germany (Zollverein)
+autriche et autres etats allemands,Austria (Austrian Empire) & Germany (Zollverein)
+autriche et cracovie,Austria (Austrian Empire) & Cracow (Free City of Cracow)
+autriche et d�pendances,Austria (Austrian Empire) & Austrian Dependencies
+autriche et lombardie,Austria (Austrian Empire) & Lombardy-Venetia
+autriche et royaume lombard v�nitien,Austria (Austrian Empire) & Lombardy-Venetia
 autriche hongrie,Austria-Hungary
-autriche**,Austria
+autriche**,Austria (Austrian Empire)
 autriche-hongrie,Austria-Hungary
 autriche-hongrie (fiume),Fiume
 "autriche-hongrie (fiume, trieste)",Fiume & Trieste
@@ -1794,7 +1794,7 @@ etat ind�pendant du congo,Democratic Republic of the Congo (Zaire) (Kinshasa) 
 etat libre du kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 etat oriental,Uruguay
 etats allemands,Germany (Zollverein)
-etats autrichiens,Austria
+etats autrichiens,Austria (Austrian Empire)
 etats barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
 �tats barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
 "etats barbaresques (r�gence de tripoli, tunisie et maroc)",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
@@ -2706,7 +2706,7 @@ italie (toscane),Tuscany
 italie (trieste),Trieste
 italie du nord,Northern Italy
 itali� en fiume,Fiume & Italy
-italie et autriche,Austria & Italy
+italie et autriche,Austria (Austrian Empire) & Italy
 italie et colonies,Italian Colonies & Italy
 italie: g�nes,Genoa
 italie: livourne,Livorno
@@ -2718,7 +2718,7 @@ italy : papal states,Papal States
 italy : sardinia,Sardinia
 italy : tuscany,Tuscany
 italy : two sicilies,Two Sicilies
-italy and austria,Austria & Italy
+italy and austria,Austria (Austrian Empire) & Italy
 italy and colonies,Italian Colonies & Italy
 italy and fiume,Fiume & Italy
 italy and italian aegean islands,Dodecanese Is. (Aegean Is.) & Italy
@@ -3425,7 +3425,7 @@ ontario and quebec (north america),Ontario (Upper Canada) & Quebec (Lower Canada
 ontario and quebec/new brunswick/nova scotia/prince edward island,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada)
 ontario et qu�bec,Ontario (Upper Canada) & Quebec (Lower Canada)
 "ontario, qu�bec",Ontario (Upper Canada) & Quebec (Lower Canada)
-oostenrijk,Austria
+oostenrijk,Austria (Austrian Empire)
 oostenrijk-hongarije,Austria-Hungary
 orange,Orange Free State (Orange River Colony)
 orange free state,Orange Free State (Orange River Colony)
@@ -5230,7 +5230,7 @@ turqi,Turkey (Ottoman Empire)
 shtetet e b. te amerikes,United States of America
 rumanie,Romania
 shtete tjera,Other countries
-austrie,Austria
+austrie,Austria (Austrian Empire)
 belgjike,Belgium
 cekosllovaki,Czechoslovakia
 svicer,Switzerland
@@ -5404,7 +5404,7 @@ ceil�o,Sri Lanka (Ceylon)
 estabelecimentos dos estreitos,Straits Settlements
 iraque,Iraq (Mesopotamia)
 p�rsia,Iran (Persia)
-a�stria,Austria
+a�stria,Austria (Austrian Empire)
 bulg�ria,Bulgaria
 est?nia,Estonia
 finl?ndia,Finland
@@ -5717,7 +5717,7 @@ europ�isk rusland,European Russia
 polen og danzig,Danzig (Free City of Danzig) & Poland
 belgien-luxembourg,Belgium & Luxemburg
 tjekkoslovakiet,Czechoslovakia
-�strig,Austria
+�strig,Austria (Austrian Empire)
 jugoslavien,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 tyrkiet,Turkey (Ottoman Empire)
 �vrige europa,Europe (other)
@@ -5957,7 +5957,7 @@ nederl�nderna,Netherlands
 storbritannien och nord-irland,United Kingdom
 irlandska fristaten,Ireland
 frankrike,France
-�sterrike,Austria
+�sterrike,Austria (Austrian Empire)
 ungern,Hungary
 tjeckoslovakien,Czechoslovakia
 rum�nien,Romania
@@ -6233,7 +6233,7 @@ memelland,Memel
 neufundland,Newfoundland and Labrador (Newfoundland)
 niederl�ndisch-amerika,Dutch America
 niederl�ndisch indien,Indonesia (Dutch East Indies)
-�sterreich,Austria
+�sterreich,Austria (Austrian Empire)
 ostpolen,Kresy
 polen oberschlesien,Upper Silesia
 westpolen,Western Poland
@@ -6459,7 +6459,7 @@ indes anglaises et straits settlements,India & Straits Settlements
 etats-unis d'am,United States of America
 royaume des s.c.s.,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 grande-bretagne (irlande comprise),United Kingdom
-ausztria,Austria
+ausztria,Austria (Austrian Empire)
 bosznia,Bosnia-Herzegovina
 trieszt sz. kik�t�,Trieste
 n�metorsz�g,Germany (Zollverein)
@@ -6661,13 +6661,13 @@ yoege slavie,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 dalny,Dalny
 rusia bagian asia,Asian Russia
 overig azie,Asia (other)
-ooestenrijk,Austria
+ooestenrijk,Austria (Austrian Empire)
 perzie,Iran (Persia)
 wladiwostok,Vladivostok
 cocos en christmas eilanden,Christmas I. & Cocos (Keeling) Is.
 alle overige lander,Other countries
 gibraltar en cyprus,Cyprus & Gibraltar
-"oostenrijk, hongarije en tshechoslowakije",Austria & Czechoslovakia & Hungary
+"oostenrijk, hongarije en tshechoslowakije",Austria (Austrian Empire) & Czechoslovakia & Hungary
 romanie,Romania
 west-indie,West Indies
 zuid-amerika,Southern America
@@ -6702,7 +6702,7 @@ danm�rk,Denmark
 f�ro�,Faeroe Is.
 noregur,Norway
 sv�j��,Sweden
-austurr�ki,Austria
+austurr�ki,Austria (Austrian Empire)
 belg�a,Belgium
 bretland,United Kingdom
 frakkland,France
@@ -6760,11 +6760,11 @@ repubbliche dell'america meridionale ed altri stati,Southern America
 provenienze varie,Other countries
 destinazioni varie,Other countries
 provenienze e destinazioni varie,Other countries
-austria - veneto,Austria & Lombardy-Venetia
+austria - veneto,Austria (Austrian Empire) & Lombardy-Venetia
 provincie romane,Papal States
 zolverein o associazione tedesca,Germany (Zollverein)
 roma,Papal States
-austria-veneto,Austria & Lombardy-Venetia
+austria-veneto,Austria (Austrian Empire) & Lombardy-Venetia
 regno dei s.c.s.,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 turchia en europa,European Turkey
 colonie francesi en asia,French Asia
@@ -6884,7 +6884,7 @@ vacija,Germany (Zollverein)
 z.-amerikas sav. valstis,United States of America
 zviedrija,Sweden
 australija,Australia
-austrija,Austria
+austrija,Austria (Austrian Empire)
 cekoslovakija,Czechoslovakia
 indija,India
 japana,Japan
@@ -7275,7 +7275,7 @@ austral-sambandet,Australia
 �yer i stillehavet,Pacific Islands
 albania og andorra,Albania & Andorra
 "tyrkia, europeik og asiat",Turkey (Ottoman Empire)
-�sterrike,Austria
+�sterrike,Austria (Austrian Empire)
 "andre europ. land, omfatende albania og andorra",Europe (other)
 "marokko, fransk protektorat med tanger",Morocco & Tangier
 libya (tripolis),Libya
@@ -7617,7 +7617,7 @@ indie brytyjskie,India
 seszele,Seychelles
 g�rna wolta,Burkina Faso (Upper Volta)
 gwinea portugalska,Guinea-Bissau (Portuguese Guinea)
-austrja,Austria
+austrja,Austria (Austrian Empire)
 dohomej,Benin (Dahomey)
 erytrea,Eritrea
 poludnio-zach�d afryka?ski,Namibia (South West Africa) (German South West Africa)
@@ -7746,7 +7746,7 @@ baltico,Baltic Ports
 mediterraneo,Mediterranean Ports
 rio da prata (buenos ayres),Argentina (La Plata)
 total geral,World
-�ustria,Austria
+�ustria,Austria (Austrian Empire)
 brasol,Brazil
 �ndia brit�nica,India
 �ndias holandesas,Indonesia (Dutch East Indies)
@@ -8078,7 +8078,7 @@ mecklenburg och hanover,Hanover & Mecklenburg Schwerin
 danmark (utom k�penhamn),Denmark (other)
 hamburg och l�beck,Hamburg & L�beck
 nederl�nderne (importen fr�n amsterdam ej uppgifven),Netherlands (other)
-osterrikiska staterne,Austria
+osterrikiska staterne,Austria (Austrian Empire)
 danmark utom k�penhamn,Denmark (other)
 "nederl�nderne, utom rotterdam",Netherlands (other)
 "frankrike, utom havre de frace",France (other)
@@ -8124,7 +8124,7 @@ palestina och transjordanien,Jordan (Transjordan) & Palestine
 "japan och korea, formosa",Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa)
 kina og mandschuriet,Manchuria & People's Republic of China (China)
 sovjet-ryssland,Russia (USSR)
-tysk-�sterrike,Austria
+tysk-�sterrike,Austria (Austrian Empire)
 sydryssland,Southern Russia
 amerikas f�r. stat.,United States of America
 �vr. mellanamerika,Central America (other)
@@ -8244,7 +8244,7 @@ n?mecko,Germany (Zollverein)
 nizozemsko,Netherlands
 norsko,Norway
 polsko,Poland
-rakousko,Austria
+rakousko,Austria (Austrian Empire)
 rumunsko,Romania
 s.h.s.,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 s.s.s.r.,Russia (USSR)
@@ -8380,7 +8380,7 @@ karada?,Montenegro
 sisam,Samos
 tunus,Tunisia (Tunis)
 danimarka,Denmark
-austriche,Austria
+austriche,Austria (Austrian Empire)
 pologne-danzig,Danzig (Free City of Danzig) & Poland
 suriye,Syria
 misir,Egypt Arab Republic (Egypt)
@@ -8848,7 +8848,7 @@ spanish oceania,Spanish Oceania
 "tonga, samoa",Samoa & Tonga (Haʻapai)
 "auckland, fiji",Auckland Is. & Fiji
 german possessions in oceania and africa,german africa & german oceania
-colony of antigua,Antigua and Barbuda
+colony of antigua,Antigua and Barbuda (Antigua)
 st kitts nevis,St. Kitts-Nevis
 dutch colonies,Dutch Colonies
 danish colonies,Danish Colonies
@@ -8952,7 +8952,7 @@ angleterre et malte et �les ioniennes,Ionian Is. & Malta & United Kingdom
 hollande et belgique (pays-bas),Belgium & Netherlands
 indes occidentales et orientales,East Indies & West Indies
 france et ses possessions d'afrique,France & French Africa
-autriche et ses d�pendances,Austria & Austrian Dependencies
+autriche et ses d�pendances,Austria (Austrian Empire) & Austrian Dependencies
 france et ses d�pendances,France & French Colonies
 moldavie (galatz),Gala?i
 turquie (anatolie),Western Anatolia
@@ -8972,7 +8972,7 @@ san sebastien,San Sebasti�n
 nouvelle-orl�ans,New Orleans
 saint-christophe,St. Kitts
 sainte-lucie,St. Lucia
-empire autriche,Austria
+empire autriche,Austria (Austrian Empire)
 parme et plaisance et autres,Other countries & Parma & Piacenza
 angleterre et malte et gibraltar et �les ioniennes,Gibraltar & Ionian Is. & Malta & United Kingdom
 mexique et v�n�zuela,Mexico & Venezuela
@@ -9320,4 +9320,4 @@ chittagong,Chittagong
 new granada (mexico),Colombia (New Granada) (Gran Colombia)
 british west indies and bermuda,Bermuda & British West Indies
 africa (non british),Africa (other)
-saxe et autriche,Austria & Saxony
+saxe et autriche,Austria (Austrian Empire) & Saxony
