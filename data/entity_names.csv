@@ -2336,7 +2336,7 @@ côtes de syrie,Syria (other)
 côtes occid. d'afrique,Western Africa
 côtes occid. d'amérique,Western America
 côtes occidentales (sans amérique centrale),Western America
-côtes orient. mexique,Mexican East Coast
+côtes orient. mexique,Mexico (East)
 côtes orientales d'afrique,Eastern Africa
 crab island,Crab I.
 cracovie,Cracow (Free City of Cracow)
@@ -2529,7 +2529,7 @@ den canarien und azoren,Azores (Western Isles) & Canary Is.
 den cap verd. inseln,Cape Verde
 den falklands-inseln,Falkland Is.
 den faröer,Faeroe Is.
-den fischi- und freundschafts-inseln,Fiji & Tonga (Ha'apai)
+den fischi- und freundschafts-inseln,Fiji & Tonga (Haʻapai)
 den gesellschafts-inseln,Society Is.
 den jonischen inseln,Ionian Is.
 den kleinen antillen,Lesser Antilles
@@ -2729,7 +2729,7 @@ dutch west indies (curacao),Curacao
 dutch west indies (curacoa )(holland),Curacao
 dutch west indies (curaçoa),Curacao
 "dutch west indies (st. martin, south part, st. eustatius, and curacoa )(holland)",Curacao & Dutch Windward Is. & Sint Eustatius
-dutch west indies and american colonies,american colonies & netherlands antilles
+dutch west indies and american colonies,American Colonies & Netherlands Antilles
 dutch west indies and dutch guiana,Netherlands Antilles & West Irian (Dutch New Guinea)
 dutch west indies and dutsch guiana,Netherlands Antilles & West Irian (Dutch New Guinea)
 dutch west indies and guiana,Netherlands Antilles & West Irian (Dutch New Guinea)
@@ -2780,7 +2780,7 @@ eastern africa: native states,Eastern Africa (other)
 eastern coast of africa,Eastern Africa
 eastern coast of africa - zanzibar and pemba (protectorate of),Pemba Island & Zanzibar
 eastern coast of africa (from the british possessions in south africa to the straits of bab-el-mandeb),Eastern Africa (other)
-eastern coast of africa other territories under british influence,British East Africa (Other)
+eastern coast of africa other territories under british influence,British East Africa (other)
 "eastern coast, cape colony, madagascar, &c.",British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic)
 "eastern coast, cape colony, madagascar, &c. and egypt",British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic)
 eats-unis,United States of America
@@ -2889,7 +2889,7 @@ engelsk-egyptisk sudan,North Sudan (Sudan) (Anglo-Egyptian)
 engelsk-egyptisk sudan ; etiopia ; britiske områder ; fransk somalkyst ; erytrea og ital. somalk,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abbyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian)
 engl-agypt sudan,North Sudan (Sudan) (Anglo-Egyptian)
 england,United Kingdom
-"england, man, and berwick",berwick & isle of man & united kingdom
+"england, man, and berwick",Berwick & Isle of Man & United Kingdom
 englisch-agyptischer sudan,North Sudan (Sudan) (Anglo-Egyptian)
 english america,British America
 english channel,English Channel
@@ -5400,7 +5400,7 @@ mexiko und central-amerika,Central America & Mexico
 mexiko's ostküste und central-amerika,Central America & Mexico (other)
 mexique,Mexico
 méxique,Mexico
-mexique (côte orientale),Mexican East Coast
+mexique (côte orientale),Mexico (East)
 mexique (port de mazatlan),Mazatlán
 mexique (port de vera cruz),Vera Cruz
 mexique et amérique centrale,Central America & Mexico
@@ -5410,7 +5410,7 @@ mexique et venezuela,Mexico & Venezuela
 mexique et vénézuela,Mexico & Venezuela
 "mexique, amérique centrale",Central America & Mexico
 "mexique, amérique centrale, indes occidentales",Central America & Mexico & West Indies
-"mexique, côte orientale et honduras",Honduras & Mexican East Coast
+"mexique, côte orientale et honduras",Honduras & Mexico (East)
 mexique**,Mexico
 mezopotamja,Iraq (Mesopotamia)
 micronesia,Micronesia
@@ -9131,7 +9131,6 @@ villes hanséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
 villes-anséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
 vindos dos depositos dos portos portuguezes,***NA
 virgin islands,British Virgin Is.
-virgin islands,British Virgin Is.
 virgin islands (leeward islands - west india islands),British Virgin Is.
 virgin islands (us),Virgin Islands (Danish West Indies)
 virgin islands american,Virgin Islands (Danish West Indies)
@@ -9323,5 +9322,6 @@ zweden,Sweden
 zwiazek poludniowo-afrykański,South Africa
 zwitserland,Switzerland
 þýskaland,Germany (Zollverein)
+",,direction inconnue""",Unknown
 østerrike,Austria (Austrian Empire)
 østerrike,Austria (Austrian Empire)
