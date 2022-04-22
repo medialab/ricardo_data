@@ -228,7 +228,7 @@ def sanitize_RICentities_groups(apply=False):
                 id = 0
                 groups.writeheader()
                 for group in groups_in_RICentities.keys():
-                    for part in group.split(' & '):
+                    for part in re.split(" &(?![^(]*\)) ", group):
                         id += 1
                         groups.writerow({"id": id, "RICname_group": group,
                                          "RICname_part": part})
