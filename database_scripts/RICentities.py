@@ -109,7 +109,7 @@ def align_GPH_RIC_entities(apply=False):
             if GPH_code in GPH_by_gph_code:
                 if GPH_by_gph_code[GPH_code]["GPH_name"] != entity['RICname']:
                     RICname_to_change.append(
-                        dict([("GPH_name", GPH_by_gph_code[GPH_code]['GPH_name'])]+list(entity.items())))
+                        dict([("GPH_name", GPH_by_gph_code[GPH_code]['GPH_name'])] + list(entity.items())))
             else:
                 missing_RICentities_in_GPH.append(entity)
                 print(f"missing {entity['RICname']} {GPH_code}")
@@ -196,7 +196,7 @@ def change_RICnames(RICname_modifications):
     print(f"{modified} lines modified in RIcname_part RICentities_groups.csv")
 
 
-def sanitize_RICentities_groups():
+def sanitize_RICentities_groups(apply=False):
     # check RIcentities group coherence
     with open('../data/RICentities.csv', 'r', encoding='utf8') as r:
         RICentities = list(csv.DictReader(r))
@@ -210,25 +210,28 @@ def sanitize_RICentities_groups():
             print(f"{len(missing_groups)}/{len(groups_in_RICentities.keys())}")
             missing_parts = set()
             for g in missing_groups:
-                for part in g.split(" & "):
+                for part in re.split(" &(?![^(]*\)) ", g):
                     if part not in RICnames:
-                        missing_parts.add(part)
+                        missing_parts.add((g, part))
             if len(missing_parts) > 0:
                 print(
                     f"missing {len(missing_parts)} parts in groups. Stopping.")
+                for (g, p) in missing_parts:
+                    print(f"{p} found in '{g}'")
                 exit(1)
 
         # reset RICentities_groups
-        with open("../data/RICentities_groups.csv", "w", encoding='utf8') as g:
-            groups = csv.DictWriter(
-                g, ["id", "RICname_group", "RICname_part"])
-            id = 0
-            groups.writeheader()
-            for group in groups_in_RICentities.keys():
-                for part in group.split(' & '):
-                    id += 1
-                    groups.writerow({"id": id, "RICname_group": group,
-                                     "RICname_part": part})
+        if apply:
+            with open("../data/RICentities_groups.csv", "w", encoding='utf8') as g:
+                groups = csv.DictWriter(
+                    g, ["id", "RICname_group", "RICname_part"])
+                id = 0
+                groups.writeheader()
+                for group in groups_in_RICentities.keys():
+                    for part in group.split(' & '):
+                        id += 1
+                        groups.writerow({"id": id, "RICname_group": group,
+                                         "RICname_part": part})
 
 
 def remove_unused_entity_names(apply=False):
@@ -277,7 +280,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     # method
     parser.add_argument(dest='action', type=str,
-                        help="Which action to perform on flows",  choices=ACTIONS.keys())
+                        help="Which action to perform on flows", choices=ACTIONS.keys())
     parser.add_argument('apply', action="store_true", default=False)
     args = parser.parse_args()
     if args.action:
