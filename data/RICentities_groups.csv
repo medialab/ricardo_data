@@ -15,1302 +15,1718 @@ id,RICname_group,RICname_part
 14,Aden & Asian Turkey & Egypt Arab Republic (Egypt),Aden
 15,Aden & Asian Turkey & Egypt Arab Republic (Egypt),Asian Turkey
 16,Aden & Asian Turkey & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
-17,Aden & British East Africa,Aden
-18,Aden & British East Africa,British East Africa
-19,Aden & India,Aden
-20,Aden & India,India
-23,Aden & Perim I.,Aden
-24,Aden & Perim I.,Perim I.
-25,Aden & Straits Settlements,Aden
-26,Aden & Straits Settlements,Straits Settlements
-27,Afghanistan & Asian Turkey & Iran (Persia),Afghanistan
-28,Afghanistan & Asian Turkey & Iran (Persia),Asian Turkey
-29,Afghanistan & Asian Turkey & Iran (Persia),Iran (Persia)
-30,Afghanistan & Baluchistan (Kalat),Afghanistan
-31,Afghanistan & Baluchistan (Kalat),Baluchistan (Kalat)
-32,Afghanistan & Iran (Persia),Afghanistan
-33,Afghanistan & Iran (Persia),Iran (Persia)
-34,African Turkey & Asian Turkey & European Turkey,African Turkey
-35,African Turkey & Asian Turkey & European Turkey,Asian Turkey
-36,African Turkey & Asian Turkey & European Turkey,European Turkey
-37,Alaska & United States of America,Alaska
-38,Alaska & United States of America,United States of America
-39,"Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",Albania
-40,"Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",Fiume
-41,"Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)","Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
-42,Albania & Kingdom of Serbia & Montenegro,Albania
-43,Albania & Kingdom of Serbia & Montenegro,Montenegro
-44,Albania & Kingdom of Serbia & Montenegro,Kingdom of Serbia
-45,"Albania & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",Albania
-46,"Albania & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)","Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
-47,Alexandria & Damietta & Jeddah & Rosetta,Alexandria
-48,Alexandria & Damietta & Jeddah & Rosetta,Damietta
-49,Alexandria & Damietta & Jeddah & Rosetta,Jeddah
-50,Alexandria & Damietta & Jeddah & Rosetta,Rosetta
-51,Alexandria & Egypt Arab Republic (Egypt),Alexandria
-52,Alexandria & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
-53,Alexandria & Suez Canal Zone,Alexandria
-54,Alexandria & Suez Canal Zone,Suez Canal Zone
-55,Algeria (Algiers) & France,Algeria (Algiers)
-56,Algeria (Algiers) & France,France
-57,Algeria (Algiers) & France & French Colonies (other),Algeria (Algiers)
-58,Algeria (Algiers) & France & French Colonies (other),France
-59,Algeria (Algiers) & France & French Colonies (other),French Colonies (other)
-60,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),Algeria (Algiers)
-61,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),France
-62,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),Morocco
-63,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),Tunisia (Tunis)
-64,Algeria (Algiers) & Morocco,Algeria (Algiers)
-65,Algeria (Algiers) & Morocco,Morocco
-66,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Algeria (Algiers)
-67,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Morocco
-68,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Tripolitania
-69,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Tunisia (Tunis)
-70,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Algeria (Algiers)
-71,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Morocco
-72,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Tunisia (Tunis)
-73,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Zanzibar
-74,Algeria (Algiers) & Tunisia (Tunis),Algeria (Algiers)
-75,Algeria (Algiers) & Tunisia (Tunis),Tunisia (Tunis)
-76,Algiers & Annaba (Bône),Algiers
-77,Algiers & Annaba (Bône),Annaba (Bône)
-78,Altona & Hamburg,Altona
-79,Altona & Hamburg,Hamburg
-80,Altona & Wandsbeck,Altona
-81,Altona & Wandsbeck,Wandsbeck
-82,American Colonies & United States of America,American Colonies
-83,American Colonies & United States of America,United States of America
-84,Amirante Is. & Mauritius & Seychelles,Amirante Is.
-85,Amirante Is. & Mauritius & Seychelles,Mauritius
-86,Amirante Is. & Mauritius & Seychelles,Seychelles
-87,Angola & Kabinda (Portuguese Congo),Angola
-88,Angola & Kabinda (Portuguese Congo),Kabinda (Portuguese Congo)
-89,Angola & Portuguese West Africa,Angola
-90,Angola & Portuguese West Africa,Portuguese West Africa
-91,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Annam
-92,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Cambodia (Kampuchea)
-93,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Cochin China
-94,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,French China Leased Territory
-95,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Tonkin
-96,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Annam
-97,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Cambodia (Kampuchea)
-98,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Cochin China
-99,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Tonkin
-100,Annam & Cochin China & Tonkin,Annam
-101,Annam & Cochin China & Tonkin,Cochin China
-102,Annam & Cochin China & Tonkin,Tonkin
-103,Arabia (sea) & Persian Gulf Ports,Arabia (sea)
-104,Arabia (sea) & Persian Gulf Ports,Persian Gulf Ports
-105,Arakan & Bago (Pegu) & Mawlamyine & Rangoon,Arakan
-106,Arakan & Bago (Pegu) & Mawlamyine & Rangoon,Bago (Pegu)
-107,Arakan & Bago (Pegu) & Mawlamyine & Rangoon,Mawlamyine
-108,Arakan & Bago (Pegu) & Mawlamyine & Rangoon,Rangoon
-109,Arakan & Chittagong & Tanintharyi Region,Arakan
-110,Arakan & Chittagong & Tanintharyi Region,Chittagong
-111,Arakan & Chittagong & Tanintharyi Region,Tanintharyi Region
-112,Arakan & Tanintharyi Region,Arakan
-113,Arakan & Tanintharyi Region,Tanintharyi Region
-116,Argentina (La Plata) & Chile,Argentina (La Plata)
-117,Argentina (La Plata) & Chile,Chile
-118,Argentina (La Plata) & Paraguay & Uruguay,Argentina (La Plata)
-119,Argentina (La Plata) & Paraguay & Uruguay,Paraguay
-120,Argentina (La Plata) & Paraguay & Uruguay,Uruguay
-121,Argentina (La Plata) & Patagonia (Atlantic Coast),Argentina (La Plata)
-122,Argentina (La Plata) & Patagonia (Atlantic Coast),Patagonia (Atlantic Coast)
-123,Argentina (La Plata) & Uruguay,Argentina (La Plata)
-124,Argentina (La Plata) & Uruguay,Uruguay
-125,Arica & Tacna,Arica
-126,Arica & Tacna,Tacna
-127,Armenia & Kurdistan,Armenia
-128,Armenia & Kurdistan,Kurdistan
-129,Aruba & Bonaire,Aruba
-130,Aruba & Bonaire,Bonaire
-131,Ascension I. & St. Helena,Ascension I.
-132,Ascension I. & St. Helena,St. Helena
-133,Asian Turkey & Cyprus,Asian Turkey
-134,Asian Turkey & Cyprus,Cyprus
-135,Asian Turkey & European Turkey,Asian Turkey
-136,Asian Turkey & European Turkey,European Turkey
-140,Assab & Bailul & Massawah,Assab
-141,Assab & Bailul & Massawah,Bailul
-142,Assab & Bailul & Massawah,Massawah
-143,Assam & Bengal,Assam
-144,Assam & Bengal,Bengal
-145,Assam & Bengal & Bihar & Odisha,Assam
-146,Assam & Bengal & Bihar & Odisha,Bengal
-147,Assam & Bengal & Bihar & Odisha,Bihar
-148,Assam & Bengal & Bihar & Odisha,Odisha
-,Australia & British Oceania & Tasmania,Australia
-,Australia & British Oceania & Tasmania,British Oceania
-,Australia & British Oceania & Tasmania,Tasmania
-149,Australia & Canada (Province of Canada),Australia
-150,Australia & Canada (Province of Canada),Canada (Province of Canada)
-151,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Australia
-152,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Cape Colony (Cape of Good Hope)
-153,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Mauritius
-154,Australia & Hawaii (Sandwich Is.),Australia
-155,Australia & Hawaii (Sandwich Is.),Hawaii (Sandwich Is.)
-156,Australia & New Caledonia & New Zealand,Australia
-157,Australia & New Caledonia & New Zealand,New Caledonia
-158,Australia & New Caledonia & New Zealand,New Zealand
-159,Australia & New Zealand,Australia
-160,Australia & New Zealand,New Zealand
-161,Australia & New Zealand & Tasmania,Australia
-162,Australia & New Zealand & Tasmania,New Zealand
-163,Australia & New Zealand & Tasmania,Tasmania
-166,Australia & Tasmania,Australia
-167,Australia & Tasmania,Tasmania
-168,Australia & Western Australia,Australia
-169,Australia & Western Australia,Western Australia
-175,Australian Northern Territory & South Australia,Australian Northern Territory
-176,Australian Northern Territory & South Australia,South Australia
-,Austria & Austrian Dependencies,Austria
-,Austria & Austrian Dependencies,Austrian Dependencies
-177,Austria & Cracow (Free City of Cracow),Austria
-178,Austria & Cracow (Free City of Cracow),Cracow (Free City of Cracow)
-179,Austria & Germany (Zollverein),Austria
-180,Austria & Germany (Zollverein),Germany (Zollverein)
-181,Austria & Italy,Austria
-182,Austria & Italy,Italy
-183,Austria & Lombardy-Venetia,Austria
-184,Austria & Lombardy-Venetia,Lombardy-Venetia
-185,Austria Ports & Trieste,Austria Ports
-186,Austria Ports & Trieste,Trieste
-187,Azores (Western Isles) & Canary Is.,Azores (Western Isles)
-188,Azores (Western Isles) & Canary Is.,Canary Is.
-189,Azores (Western Isles) & Cape Verde & Madeira Isles,Azores (Western Isles)
-190,Azores (Western Isles) & Cape Verde & Madeira Isles,Cape Verde
-191,Azores (Western Isles) & Cape Verde & Madeira Isles,Madeira Isles
-192,Azores (Western Isles) & Madeira Isles,Azores (Western Isles)
-193,Azores (Western Isles) & Madeira Isles,Madeira Isles
-194,Azores (Western Isles) & Madeira Isles & Portugal,Azores (Western Isles)
-195,Azores (Western Isles) & Madeira Isles & Portugal,Madeira Isles
-196,Azores (Western Isles) & Madeira Isles & Portugal,Portugal
-197,Azores (Western Isles) & Portugal,Azores (Western Isles)
-198,Azores (Western Isles) & Portugal,Portugal
-199,Bago (Pegu) & Bengal,Bago (Pegu)
-200,Bago (Pegu) & Bengal,Bengal
-201,Bago (Pegu) & Rangoon,Bago (Pegu)
-202,Bago (Pegu) & Rangoon,Rangoon
-203,Bahamas & British West Indies,Bahamas
-204,Bahamas & British West Indies,British West Indies
-205,Bahamas & Turks and Caicos Is.,Bahamas
-206,Bahamas & Turks and Caicos Is.,Turks and Caicos Is.
-207,Balearic Islands & Spain,Balearic Islands
-208,Balearic Islands & Spain,Spain
-209,Bali & Java & Riau,Bali
-210,Bali & Java & Riau,Java
-211,Bali & Java & Riau,Riau
-212,Bali & Lombok,Bali
-213,Bali & Lombok,Lombok
-214,Bali & Lombok & Sumbawa,Bali
-215,Bali & Lombok & Sumbawa,Lombok
-216,Bali & Lombok & Sumbawa,Sumbawa
-217,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Baltiysk (Pillau)
-218,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Braniewo (Braunsberg)
-219,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Kaliningrad (Königsberg)
-220,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Primorsk (Fischhausen)
-221,Bangka Island & Belitung,Bangka Island
-222,Bangka Island & Belitung,Belitung
-227,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Algeria (Algiers)
-228,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Morocco
-229,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tripolitania
-230,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tunisia (Tunis)
-231,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
-223,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Algeria (Algiers)
-224,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Morocco
-225,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tripolitania
-226,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tunisia (Tunis)
-232,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Algeria (Algiers)
-233,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Morocco
-234,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Tripolitania
-235,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Tunisia (Tunis)
-236,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-237,Bavaria & Frankfurt & Saxony,Bavaria
-238,Bavaria & Frankfurt & Saxony,Frankfurt
-239,Bavaria & Frankfurt & Saxony,Saxony
-240,Bavaria & Saxony,Bavaria
-241,Bavaria & Saxony,Saxony
-242,Beirut & Egypt Arab Republic (Egypt),Beirut
-243,Beirut & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
-244,Beirut & Egypt Arab Republic (Egypt) & Syria,Beirut
-245,Beirut & Egypt Arab Republic (Egypt) & Syria,Egypt Arab Republic (Egypt)
-246,Beirut & Egypt Arab Republic (Egypt) & Syria,Syria
-247,Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),Belgium
-248,Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
-255,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Belgium
-256,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Germany (Zollverein)
-257,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Italy
-258,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Netherlands
-259,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Russia (USSR)
-265,Belgium & Germany (Zollverein) & Netherlands,Belgium
-266,Belgium & Germany (Zollverein) & Netherlands,Germany (Zollverein)
-267,Belgium & Germany (Zollverein) & Netherlands,Netherlands
-268,Belgium & Luxemburg,Belgium
-269,Belgium & Luxemburg,Luxemburg
-270,Belgium & Netherlands,Belgium
-271,Belgium & Netherlands,Netherlands
-272,Belize (British Honduras) & British West Indies,Belize (British Honduras)
-273,Belize (British Honduras) & British West Indies,British West Indies
-274,Belize (British Honduras) & British West Indies & Guyana (British Guiana),Belize (British Honduras)
-275,Belize (British Honduras) & British West Indies & Guyana (British Guiana),British West Indies
-276,Belize (British Honduras) & British West Indies & Guyana (British Guiana),Guyana (British Guiana)
-280,Bengal & Myanmar (Burma),Bengal
-281,Bengal & Myanmar (Burma),Myanmar (Burma)
-282,Bengal & Sri Lanka (Ceylon),Bengal
-283,Bengal & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
-284,Benghazi & Tripolitania,Benghazi
-285,Benghazi & Tripolitania,Tripolitania
-286,Berbera & Bulhar,Berbera
-287,Berbera & Bulhar,Bulhar
-288,Berbice & Demerara,Berbice
-289,Berbice & Demerara,Demerara
-290,Bermuda & British West Indies,Bermuda
-291,Bermuda & British West Indies,British West Indies
-292,Bhutan & Nepal,Bhutan
-293,Bhutan & Nepal,Nepal
-296,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),Botswana (Bechuanaland)
-297,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),Eswatini (Swaziland)
-298,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),Lesotho (Basutoland)
-299,Botswana (Bechuanaland) & South Africa,Botswana (Bechuanaland)
-300,Botswana (Bechuanaland) & South Africa,South Africa
-301,Brazil & Chile,Brazil
-302,Brazil & Chile,Chile
-303,Brazil & Colombia (New Granada) (Gran Colombia),Brazil
-304,Brazil & Colombia (New Granada) (Gran Colombia),Colombia (New Granada) (Gran Colombia)
-,Brazil & R�o de la Plata United Provinces,Brazil
-,Brazil & R�o de la Plata United Provinces,R�o de la Plata United Provinces
-305,Bremen & Hamburg,Bremen
-306,Bremen & Hamburg,Hamburg
-307,Bremen & Hanover,Bremen
-308,Bremen & Hanover,Hanover
-309,Bremen & Lübeck,Bremen
-310,Bremen & Lübeck,Lübeck
-311,Bremen & Prussia,Bremen
-312,Bremen & Prussia,Prussia
-313,British Africa & Gibraltar,British Africa
-314,British Africa & Gibraltar,Gibraltar
-317,British Asia (other) & India,British Asia (other)
-318,British Asia (other) & India,India
-315,British Asia & British Oceania,British Asia
-316,British Asia & British Oceania,British Oceania
-,British Borneo & Dutch Borneo,British Borneo
-,British Borneo & Dutch Borneo,Dutch Borneo
-319,British Cameroons & Nigeria,British Cameroons
-320,British Cameroons & Nigeria,Nigeria
-321,British Cameroons & Northern Nigeria (British Nigeria),British Cameroons
-322,British Cameroons & Northern Nigeria (British Nigeria),Northern Nigeria (British Nigeria)
-323,British Colonies & United Kingdom,British Colonies
-324,British Colonies & United Kingdom,United Kingdom
-325,British Columbia & British East North America,British Columbia
-326,British Columbia & British East North America,British East North America
-327,British Columbia & Rupert's Land,British Columbia
-328,British Columbia & Rupert's Land,Rupert's Land
-329,British Columbia & Vancouver,British Columbia
-330,British Columbia & Vancouver,Vancouver
-331,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),British East Africa
-332,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
-333,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Egypt Arab Republic (Egypt)
-334,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
-335,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),British East Africa
-336,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
-337,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
-338,British East Africa & Pemba Island & Zanzibar,British East Africa
-339,British East Africa & Pemba Island & Zanzibar,Pemba Island
-340,British East Africa & Pemba Island & Zanzibar,Zanzibar
-,British East Indies & Thailand (Siam),British East Indies
-,British East Indies & Thailand (Siam),Thailand (Siam)
-341,British Europe & United Kingdom,British Europe
-342,British Europe & United Kingdom,United Kingdom
-343,British Mediterranean & United Kingdom,British Mediterranean
-344,British Mediterranean & United Kingdom,United Kingdom
-,British North America (other) & Canada (Province of Canada),British North America (other)
-,British North America (other) & Canada (Province of Canada),Canada (Province of Canada)
-345,British North America & United States of America,British North America
-346,British North America & United States of America,United States of America
-347,British Oceania & New Zealand,British Oceania
-348,British Oceania & New Zealand,New Zealand
-349,British South Africa & Cape Colony (Cape of Good Hope),British South Africa
-350,British South Africa & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
-,British South America & British West Indies & Guyana (British Guiana),British South America
-,British South America & British West Indies & Guyana (British Guiana),British West Indies
-,British South America & British West Indies & Guyana (British Guiana),Guyana (British Guiana)
-,British South America & French South America,British South America
-,British South America & French South America,French South America
-351,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),British Virgin Is.
-352,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),Puerto Rico
-353,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
-356,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,British West Indies (other)
-357,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,Jamaica
-358,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,Jamaica Dependencies
-359,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,Trinidad and Tobago
-354,British West Indies & United Kingdom,British West Indies
-355,British West Indies & United Kingdom,United Kingdom
-360,Brunei & Sabah (North Borneo) & Sarawak,Brunei
-361,Brunei & Sabah (North Borneo) & Sarawak,Sabah (North Borneo)
-362,Brunei & Sabah (North Borneo) & Sarawak,Sarawak
-363,Brunei & Sarawak,Brunei
-364,Brunei & Sarawak,Sarawak
-365,Buenos Aires & Montevideo,Buenos Aires
-366,Buenos Aires & Montevideo,Montevideo
-367,Bulgaria & Crete,Bulgaria
-368,Bulgaria & Crete,Crete
-384,Bulgaria & Kingdom of Serbia,Bulgaria
-385,Bulgaria & Kingdom of Serbia,Kingdom of Serbia
-377,Bulgaria & Kingdom of Serbia & Montenegro,Bulgaria
-379,Bulgaria & Kingdom of Serbia & Montenegro,Montenegro
-380,Bulgaria & Kingdom of Serbia & Montenegro,Kingdom of Serbia
-372,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Bulgaria
-374,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Montenegro
-375,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Romania
-376,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Kingdom of Serbia
-381,Bulgaria & Kingdom of Serbia & Romania,Bulgaria
-382,Bulgaria & Kingdom of Serbia & Romania,Romania
-383,Bulgaria & Kingdom of Serbia & Romania,Kingdom of Serbia
-,Bulgaria & Turkey (Ottoman Empire),Bulgaria
-,Bulgaria & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-386,Cambodia (Kampuchea) & Cochin China,Cambodia (Kampuchea)
-387,Cambodia (Kampuchea) & Cochin China,Cochin China
-388,Cambodia (Kampuchea) & Cochin China & Tonkin,Cambodia (Kampuchea)
-389,Cambodia (Kampuchea) & Cochin China & Tonkin,Cochin China
-390,Cambodia (Kampuchea) & Cochin China & Tonkin,Tonkin
-391,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),Cameroun (French Cameroons)
-392,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),French West Africa
-393,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),Togo (French Togoland)
-394,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland),Canada (Province of Canada)
-395,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland),Newfoundland and Labrador (Newfoundland)
-396,Canada (Province of Canada) & United States of America,Canada (Province of Canada)
-397,Canada (Province of Canada) & United States of America,United States of America
-398,Canary Is. & Cape Colony (Cape of Good Hope),Canary Is.
-399,Canary Is. & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
-400,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Canary Is.
-401,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
-402,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
-403,Canary Is. & Madeira Isles,Canary Is.
-404,Canary Is. & Madeira Isles,Madeira Isles
-405,Canary Is. & Spain,Canary Is.
-406,Canary Is. & Spain,Spain
-407,Canary Is. & Spanish Morocco,Canary Is.
-408,Canary Is. & Spanish Morocco,Spanish Morocco
-409,Canary Is. & Tenerife,Canary Is.
-410,Canary Is. & Tenerife,Tenerife
-411,Cape Breton I. & Nova Scotia,Cape Breton I.
-412,Cape Breton I. & Nova Scotia,Nova Scotia
-413,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,Cape Colony (Cape of Good Hope)
-414,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,East Indies
-415,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,Mauritius
-416,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Cape Colony (Cape of Good Hope)
-417,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Gambia
-418,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Guinea (French Guinea) (Rivieres du Sud)
-419,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Mauritius
-420,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Senegal
-421,Cape Colony (Cape of Good Hope) & India,Cape Colony (Cape of Good Hope)
-422,Cape Colony (Cape of Good Hope) & India,India
-423,Cape Colony (Cape of Good Hope) & Mauritius,Cape Colony (Cape of Good Hope)
-424,Cape Colony (Cape of Good Hope) & Mauritius,Mauritius
-425,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,Cape Colony (Cape of Good Hope)
-426,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,Mauritius
-427,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,New South Wales
-428,Cape Colony (Cape of Good Hope) & Natal,Cape Colony (Cape of Good Hope)
-429,Cape Colony (Cape of Good Hope) & Natal,Natal
-430,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Cape Verde
-431,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",East Timor (Portuguese Timor)
-432,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Macao
-433,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe","Portuguese India (incl. Goa, Diu, Daman)"
-434,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Sao Tome-Principe
-435,Casablanca & El Jadida (Mazaghan),Casablanca
-436,Casablanca & El Jadida (Mazaghan),El Jadida (Mazaghan)
-437,Ceuta & Melilla,Ceuta
-438,Ceuta & Melilla,Melilla
-439,Channel Is. & Isle of Man,Channel Is.
-440,Channel Is. & Isle of Man,Isle of Man
-441,Channel Is. & United Kingdom,Channel Is.
-442,Channel Is. & United Kingdom,United Kingdom
-443,Chennai (Madras) & Indian Coast,Chennai (Madras)
-444,Chennai (Madras) & Indian Coast,Indian Coast
-445,Chennai (Madras) & Kolkata (Calcutta),Chennai (Madras)
-446,Chennai (Madras) & Kolkata (Calcutta),Kolkata (Calcutta)
-451,Chile & India,Chile
-452,Chile & India,India
-453,Chile & Patagonia (Pacific Coast),Chile
-454,Chile & Patagonia (Pacific Coast),Patagonia (Pacific Coast)
-455,Chile & Peru,Chile
-456,Chile & Peru,Peru
-457,Chinese Treaty Ports & Hong Kong,Chinese Treaty Ports
-458,Chinese Treaty Ports & Hong Kong,Hong Kong
-459,Cochin China & Java & Philippines & Thailand (Siam),Cochin China
-460,Cochin China & Java & Philippines & Thailand (Siam),Java
-461,Cochin China & Java & Philippines & Thailand (Siam),Philippines
-462,Cochin China & Java & Philippines & Thailand (Siam),Thailand (Siam)
-463,Cochin China & Macao & People's Republic of China (China),Cochin China
-464,Cochin China & Macao & People's Republic of China (China),Macao
-465,Cochin China & Macao & People's Republic of China (China),People's Republic of China (China)
-473,Cochin China & People's Republic of China (China),Cochin China
-474,Cochin China & People's Republic of China (China),People's Republic of China (China)
-475,Cochin China & Thailand (Siam),Cochin China
-476,Cochin China & Thailand (Siam),Thailand (Siam)
-477,Cochin China & Tonkin,Cochin China
-478,Cochin China & Tonkin,Tonkin
-479,Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,Colombia (New Granada) (Gran Colombia)
-480,Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,Ecuador
-481,Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,Venezuela
-482,Colombia (New Granada) (Gran Colombia) & Guatemala,Colombia (New Granada) (Gran Colombia)
-483,Colombia (New Granada) (Gran Colombia) & Guatemala,Guatemala
-484,Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,Colombia (New Granada) (Gran Colombia)
-485,Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,Guatemala
-486,Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,Venezuela
-487,Colombia (New Granada) (Gran Colombia) & Panama,Colombia (New Granada) (Gran Colombia)
-488,Colombia (New Granada) (Gran Colombia) & Panama,Panama
-489,Colombia (New Granada) (Gran Colombia) & Venezuela,Colombia (New Granada) (Gran Colombia)
-490,Colombia (New Granada) (Gran Colombia) & Venezuela,Venezuela
-491,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
-492,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,French Africa (other)
-493,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Senegal
-494,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
-495,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,French West Africa (other)
-496,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Senegal
-497,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
-498,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Senegal
-499,Corfu & Malta,Corfu
-500,Corfu & Malta,Malta
-501,Coromandel Coast Posts & Malabar Coast,Coromandel Coast Posts
-502,Coromandel Coast Posts & Malabar Coast,Malabar Coast
-503,Costa Rica & El Salvador & Guatemala,Costa Rica
-504,Costa Rica & El Salvador & Guatemala,El Salvador
-505,Costa Rica & El Salvador & Guatemala,Guatemala
-506,Costa Rica & El Salvador & Guatemala & Honduras,Costa Rica
-507,Costa Rica & El Salvador & Guatemala & Honduras,El Salvador
-508,Costa Rica & El Salvador & Guatemala & Honduras,Guatemala
-509,Costa Rica & El Salvador & Guatemala & Honduras,Honduras
-510,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Costa Rica
-511,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,El Salvador
-512,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Guatemala
-513,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Honduras
-514,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Nicaragua
-515,Costa Rica & Guatemala & Honduras,Costa Rica
-516,Costa Rica & Guatemala & Honduras,Guatemala
-517,Costa Rica & Guatemala & Honduras,Honduras
-518,Costa Rica & Guatemala & Honduras & Nicaragua,Costa Rica
-519,Costa Rica & Guatemala & Honduras & Nicaragua,Guatemala
-520,Costa Rica & Guatemala & Honduras & Nicaragua,Honduras
-521,Costa Rica & Guatemala & Honduras & Nicaragua,Nicaragua
-522,Crete & Egypt Arab Republic (Egypt),Crete
-523,Crete & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
-524,Crete & European Turkey,Crete
-525,Crete & European Turkey,European Turkey
-526,Crete & Greece,Crete
-527,Crete & Greece,Greece
-528,Croatia & Dalmatia & Illyria,Croatia
-529,Croatia & Dalmatia & Illyria,Dalmatia
-530,Croatia & Dalmatia & Illyria,Illyria
-531,Croatia & Kingdom of Serbia,Croatia
-532,Croatia & Kingdom of Serbia,Kingdom of Serbia
-533,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Cuba
-534,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Curacao
-535,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Guadeloupe
-536,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Martinique
-537,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Puerto Rico
-538,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,St. Croix
-539,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,St. Thomas
-544,Cuba & La Guaira,Cuba
-545,Cuba & La Guaira,La Guaira
-546,Cuba & Philippines & Puerto Rico,Cuba
-547,Cuba & Philippines & Puerto Rico,Philippines
-548,Cuba & Philippines & Puerto Rico,Puerto Rico
-549,Cuba & Puerto Rico,Cuba
-550,Cuba & Puerto Rico,Puerto Rico
-551,Cuba & Spain,Cuba
-552,Cuba & Spain,Spain
-553,Curacao & Dutch Windward Is. & Sint Eustatius,Curacao
-554,Curacao & Dutch Windward Is. & Sint Eustatius,Dutch Windward Is.
-555,Curacao & Dutch Windward Is. & Sint Eustatius,Sint Eustatius
-556,Curacao & Jamaica & Trinidad and Tobago,Curacao
-557,Curacao & Jamaica & Trinidad and Tobago,Jamaica
-558,Curacao & Jamaica & Trinidad and Tobago,Trinidad and Tobago
-559,Curacao & Netherlands,Curacao
-560,Curacao & Netherlands,Netherlands
-561,Cuxhaven & Heligoland,Cuxhaven
-562,Cuxhaven & Heligoland,Heligoland
-563,Cyprus & Gibraltar & Malta,Cyprus
-564,Cyprus & Gibraltar & Malta,Gibraltar
-565,Cyprus & Gibraltar & Malta,Malta
-569,Cyprus & Gozo & Kingdom of Serbia & Malta,Cyprus
-570,Cyprus & Gozo & Kingdom of Serbia & Malta,Gozo
-571,Cyprus & Gozo & Kingdom of Serbia & Malta,Malta
-572,Cyprus & Gozo & Kingdom of Serbia & Malta,Kingdom of Serbia
-566,Cyprus & Gozo & Malta,Cyprus
-567,Cyprus & Gozo & Malta,Gozo
-568,Cyprus & Gozo & Malta,Malta
-573,Cyprus & Malta,Cyprus
-574,Cyprus & Malta,Malta
-575,Cyprus & Palestine,Cyprus
-576,Cyprus & Palestine,Palestine
-577,Cyrenaica & Tripolitania,Cyrenaica
-578,Cyrenaica & Tripolitania,Tripolitania
-579,Dalny & Korea (Chosen) & Vladivostok,Dalny
-580,Dalny & Korea (Chosen) & Vladivostok,Korea (Chosen)
-581,Dalny & Korea (Chosen) & Vladivostok,Vladivostok
-582,Danish America & Spanish America,Danish America
-583,Danish America & Spanish America,Spanish America
-584,Danish Colonies & Denmark,Danish Colonies
-585,Danish Colonies & Denmark,Denmark
-586,Danish India & French India & India,Danish India
-587,Danish India & French India & India,French India
-588,Danish India & French India & India,India
-589,Danzig (Free City of Danzig) & Memel,Danzig (Free City of Danzig)
-590,Danzig (Free City of Danzig) & Memel,Memel
-591,Danzig (Free City of Danzig) & Poland,Danzig (Free City of Danzig)
-592,Danzig (Free City of Danzig) & Poland,Poland
-593,Davis Strait & Greenland,Davis Strait
-594,Davis Strait & Greenland,Greenland
-595,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
-596,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi,Ruanda-Urundi
-597,Denmark & Denmark Colonies,Denmark
-598,Denmark & Denmark Colonies,Denmark Colonies
-599,Denmark & Faeroe Is.,Denmark
-600,Denmark & Faeroe Is.,Faeroe Is.
-601,Denmark & Faeroe Is. & Greenland & Iceland,Denmark
-602,Denmark & Faeroe Is. & Greenland & Iceland,Faeroe Is.
-603,Denmark & Faeroe Is. & Greenland & Iceland,Greenland
-604,Denmark & Faeroe Is. & Greenland & Iceland,Iceland
-605,Denmark & Faeroe Is. & Iceland,Denmark
-606,Denmark & Faeroe Is. & Iceland,Faeroe Is.
-607,Denmark & Faeroe Is. & Iceland,Iceland
-608,Denmark & Greenland,Denmark
-609,Denmark & Greenland,Greenland
-610,Denmark & Greenland & Iceland,Denmark
-611,Denmark & Greenland & Iceland,Greenland
-612,Denmark & Greenland & Iceland,Iceland
-613,Denmark & Holstein & Schleswig,Denmark
-614,Denmark & Holstein & Schleswig,Holstein
-615,Denmark & Holstein & Schleswig,Schleswig
-616,Denmark & Iceland,Denmark
-617,Denmark & Iceland,Iceland
-618,Denmark & Madeira Isles & Spain,Denmark
-619,Denmark & Madeira Isles & Spain,Madeira Isles
-620,Denmark & Madeira Isles & Spain,Spain
-621,Denmark & Norway,Denmark
-622,Denmark & Norway,Norway
-623,Denmark & Norway & Russia (USSR) & Sweden,Denmark
-624,Denmark & Norway & Russia (USSR) & Sweden,Norway
-625,Denmark & Norway & Russia (USSR) & Sweden,Russia (USSR)
-626,Denmark & Norway & Russia (USSR) & Sweden,Sweden
-627,Denmark & Norway & Sweden,Denmark
-628,Denmark & Norway & Sweden,Norway
-629,Denmark & Norway & Sweden,Sweden
-630,Denmark & Russia (USSR),Denmark
-631,Denmark & Russia (USSR),Russia (USSR)
-632,Denmark & Russia (USSR) & Sweden,Denmark
-633,Denmark & Russia (USSR) & Sweden,Russia (USSR)
-634,Denmark & Russia (USSR) & Sweden,Sweden
-,Denmark & Sweden,Denmark
-,Denmark & Sweden,Sweden
-637,Denmark & Virgin Islands (Danish West Indies),Denmark
-638,Denmark & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
-639,Djibouti (Afar and Issas) (French Somaliland) & Eritrea,Djibouti (Afar and Issas) (French Somaliland)
-640,Djibouti (Afar and Issas) (French Somaliland) & Eritrea,Eritrea
-641,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Djibouti (Afar and Issas) (French Somaliland)
-642,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Italian Somaliland
-643,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),Djibouti (Afar and Issas) (French Somaliland)
-644,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),Italian Somaliland
-645,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),Somaliland Republic (British Somaliland)
-646,Djibouti (Afar and Issas) (French Somaliland) & Obock,Djibouti (Afar and Issas) (French Somaliland)
-647,Djibouti (Afar and Issas) (French Somaliland) & Obock,Obock
-648,Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland),Djibouti (Afar and Issas) (French Somaliland)
-649,Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland),Socotra I.
-650,Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland),Somaliland Republic (British Somaliland)
-651,Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Somaliland),Djibouti (Afar and Issas) (French Somaliland)
-652,Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Somaliland),Somaliland Republic (British Somaliland)
-653,Dodecanese Is. (Aegean Is.) & Italy,Dodecanese Is. (Aegean Is.)
-654,Dodecanese Is. (Aegean Is.) & Italy,Italy
-655,Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),Dodecanese Is. (Aegean Is.)
-656,Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),Izmir (Smyrna)
-657,Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),Dodecanese Is. (Aegean Is.)
-658,Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),Romania
-659,Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-660,Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire),Dodecanese Is. (Aegean Is.)
-661,Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-662,Dominican Republic (Santo Domingo) & Haiti,Dominican Republic (Santo Domingo)
-663,Dominican Republic (Santo Domingo) & Haiti,Haiti
-666,Dutch Asia (other) & Java,Dutch Asia (other)
-667,Dutch Asia (other) & Java,Java
-664,Dutch Asia & Dutch Oceania,Dutch Asia
-665,Dutch Asia & Dutch Oceania,Dutch Oceania
-668,Dutch Colonies & Netherlands,Dutch Colonies
-669,Dutch Colonies & Netherlands,Netherlands
-670,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),East India Company
-671,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),People's Republic of China (China)
-672,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
-673,East India Company & Sri Lanka (Ceylon),East India Company
-674,East India Company & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
-675,East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),East Indies
-676,East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),Guinea (French Guinea) (Rivieres du Sud)
-677,East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),People's Republic of China (China)
-678,East Indies & People's Republic of China (China),East Indies
-679,East Indies & People's Republic of China (China),People's Republic of China (China)
-680,East Timor (Portuguese Timor) & Macao,East Timor (Portuguese Timor)
-681,East Timor (Portuguese Timor) & Macao,Macao
-682,Ecuador & Guatemala,Ecuador
-683,Ecuador & Guatemala,Guatemala
-684,Ecuador & Peru,Ecuador
-685,Ecuador & Peru,Peru
-686,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies,Egypt Arab Republic (Egypt)
-687,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies,Egypt Arab Republic (Egypt) Dependencies
-688,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
-689,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt) Dependencies
-690,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-691,Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
-692,Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),Greece
-693,Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-694,Egypt Arab Republic (Egypt) & Indian Transit,Egypt Arab Republic (Egypt)
-695,Egypt Arab Republic (Egypt) & Indian Transit,Indian Transit
-696,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian),Egypt Arab Republic (Egypt)
-697,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian),North Sudan (Sudan) (Anglo-Egyptian)
-698,Egypt Arab Republic (Egypt) & Syria,Egypt Arab Republic (Egypt)
-699,Egypt Arab Republic (Egypt) & Syria,Syria
-700,Egypt Arab Republic (Egypt) & Tripolitania,Egypt Arab Republic (Egypt)
-701,Egypt Arab Republic (Egypt) & Tripolitania,Tripolitania
-702,Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
-703,Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-704,Eritrea & Italian Somaliland,Eritrea
-705,Eritrea & Italian Somaliland,Italian Somaliland
-706,Essaouira (Mogador) & Safi,Essaouira (Mogador)
-707,Essaouira (Mogador) & Safi,Safi
-717,Faeroe Is. & Greenland,Faeroe Is.
-718,Faeroe Is. & Greenland,Greenland
-719,Faeroe Is. & Greenland & Iceland,Faeroe Is.
-720,Faeroe Is. & Greenland & Iceland,Greenland
-721,Faeroe Is. & Greenland & Iceland,Iceland
-722,Faeroe Is. & Iceland,Faeroe Is.
-723,Faeroe Is. & Iceland,Iceland
-724,Falkland Is. & Falkland Is. Dependencies,Falkland Is.
-725,Falkland Is. & Falkland Is. Dependencies,Falkland Is. Dependencies
-726,Falkland Is. & Guyana (British Guiana),Falkland Is.
-727,Falkland Is. & Guyana (British Guiana),Guyana (British Guiana)
-728,Falkland Is. & Uruguay,Falkland Is.
-729,Falkland Is. & Uruguay,Uruguay
-730,Federated Malay States & Straits Settlements,Federated Malay States
-731,Federated Malay States & Straits Settlements,Straits Settlements
-732,Finland & Russia (USSR),Finland
-733,Finland & Russia (USSR),Russia (USSR)
-734,Fiume & Italy,Fiume
-735,Fiume & Italy,Italy
-736,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Fiume
-737,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Kingdom of Sardinia
-738,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Milan
-739,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Papal States
-740,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Republic of St. Mark
-741,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Tuscany
-742,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Two Sicilies
-743,Fiume & Republic of St. Mark & Trieste,Fiume
-744,Fiume & Republic of St. Mark & Trieste,Republic of St. Mark
-745,Fiume & Republic of St. Mark & Trieste,Trieste
-746,Fiume & Trieste,Fiume
-747,Fiume & Trieste,Trieste
-756,France (French produce) & French Colonies (French produce),France (French produce)
-757,France (French produce) & French Colonies (French produce),French Colonies (French produce)
-748,France & French Colonies,France
-749,France & French Colonies,French Colonies
-750,France & French Mediterranean,France
-751,France & French Mediterranean,French Mediterranean
-752,France & Netherlands,France
-753,France & Netherlands,Netherlands
-754,France & Tahiti,France
-755,France & Tahiti,Tahiti
-758,French Asia & French India,French Asia
-759,French Asia & French India,French India
-760,French Asia & French India & Portuguese Asia,French Asia
-761,French Asia & French India & Portuguese Asia,French India
-762,French Asia & French India & Portuguese Asia,Portuguese Asia
-763,French Asia & French Oceania,French Asia
-764,French Asia & French Oceania,French Oceania
-765,French Equatorial Africa & French West Africa,French Equatorial Africa
-766,French Equatorial Africa & French West Africa,French West Africa
-767,French Guiana & French West Indies,French Guiana
-768,French Guiana & French West Indies,French West Indies
-,French Guiana & Guadeloupe & Martinique,French Guiana
-,French Guiana & Guadeloupe & Martinique,Guadeloupe
-,French Guiana & Guadeloupe & Martinique,Martinique
-769,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),French Guiana
-770,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),Guyana (British Guiana)
-771,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),Surinam (Dutch Guiana)
-772,French Guiana & St. Pierre and Miquelon,French Guiana
-773,French Guiana & St. Pierre and Miquelon,St. Pierre and Miquelon
-774,French Gulf of Guinea & Senegal,French Gulf of Guinea
-775,French Gulf of Guinea & Senegal,Senegal
-776,"French India & India & Portuguese India (incl. Goa, Diu, Daman)",French India
-777,"French India & India & Portuguese India (incl. Goa, Diu, Daman)",India
-778,"French India & India & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
-779,French Indochina & Japan & People's Republic of China (China),French Indochina
-780,French Indochina & Japan & People's Republic of China (China),Japan
-781,French Indochina & Japan & People's Republic of China (China),People's Republic of China (China)
-782,French Indochina & People's Republic of China (China),French Indochina
-783,French Indochina & People's Republic of China (China),People's Republic of China (China)
-784,French Oceania (other) & New Caledonia,French Oceania (other)
-785,French Oceania (other) & New Caledonia,New Caledonia
-786,French West Africa & Senegal,French West Africa
-787,French West Africa & Senegal,Senegal
-788,French West Africa & Togo (French Togoland),French West Africa
-789,French West Africa & Togo (French Togoland),Togo (French Togoland)
-790,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),French West Indies
-791,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Netherlands Antilles
-792,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Spanish West Indies
-793,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),St. Barthelemy
-794,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
-795,French West Indies & St. Pierre and Miquelon,French West Indies
-796,French West Indies & St. Pierre and Miquelon,St. Pierre and Miquelon
-797,Galicia & Poland & Russian provinces,Galicia
-798,Galicia & Poland & Russian provinces,Poland
-799,Galicia & Poland & Russian provinces,Russian provinces
-800,Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,Gambia
-801,Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,Guinea (French Guinea) (Rivieres du Sud)
-802,Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,Senegal
-803,Gambia & Senegal,Gambia
-804,Gambia & Senegal,Senegal
-805,Gambia & Sierra Leone,Gambia
-806,Gambia & Sierra Leone,Sierra Leone
-807,Genoa & Kingdom of Sardinia,Genoa
-808,Genoa & Kingdom of Sardinia,Kingdom of Sardinia
-809,Genoa & Livorno,Genoa
-810,Genoa & Livorno,Livorno
-811,Genoa & Trieste,Genoa
-812,Genoa & Trieste,Trieste
-,German Austria & Italian Austria,German Austria
-,German Austria & Italian Austria,Italian Austria
-813,German China Leased Territory & German Oceania,German China Leased Territory
-814,German China Leased Territory & German Oceania,German Oceania
-815,German Colonies & Germany (Zollverein),German Colonies
-816,German Colonies & Germany (Zollverein),Germany (Zollverein)
-817,German East Africa & Germany (Zollverein),German East Africa
-818,German East Africa & Germany (Zollverein),Germany (Zollverein)
-819,German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),German Ports
-820,German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),Hanse Towns (Bremen & Hamburg & Lübeck)
-823,German Togoland & Kamerun,German Togoland
-824,German Togoland & Kamerun,Kamerun
-825,German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),German Togoland
-826,German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),Kamerun
-827,German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),Namibia (South West Africa) (German South West Africa)
-838,Germany (Zollverein) (other) & Prussia,Germany (Zollverein) (other)
-839,Germany (Zollverein) (other) & Prussia,Prussia
-828,Germany (Zollverein) & Hamburg,Germany (Zollverein)
-829,Germany (Zollverein) & Hamburg,Hamburg
-830,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Germany (Zollverein)
-831,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
-832,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
-833,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck
-834,Germany (Zollverein) & Rhine,Germany (Zollverein)
-835,Germany (Zollverein) & Rhine,Rhine
-836,Germany (Zollverein) & Saar,Germany (Zollverein)
-837,Germany (Zollverein) & Saar,Saar
-840,Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone),Ghana (Gold Coast)
-841,Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone),Gold Coast-Togoland (Neutral Zone)
-842,Gibraltar & Ionian Is. & Malta & United Kingdom,Gibraltar
-843,Gibraltar & Ionian Is. & Malta & United Kingdom,Ionian Is.
-844,Gibraltar & Ionian Is. & Malta & United Kingdom,Malta
-845,Gibraltar & Ionian Is. & Malta & United Kingdom,United Kingdom
-846,Gibraltar & Malta,Gibraltar
-847,Gibraltar & Malta,Malta
-848,Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,Gibraltar
-849,Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,Newfoundland and Labrador (Newfoundland)
-850,Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,United Kingdom
-851,Gibraltar & Portugal & Spain,Gibraltar
-852,Gibraltar & Portugal & Spain,Portugal
-853,Gibraltar & Portugal & Spain,Spain
-854,Gibraltar & Spain,Gibraltar
-855,Gibraltar & Spain,Spain
-856,Gibraltar & Spain & Spanish Colonies,Gibraltar
-857,Gibraltar & Spain & Spanish Colonies,Spain
-858,Gibraltar & Spain & Spanish Colonies,Spanish Colonies
-859,Gibraltar & United Kingdom,Gibraltar
-860,Gibraltar & United Kingdom,United Kingdom
-861,Goree & Senegal,Goree
-862,Goree & Senegal,Senegal
-863,Gozo & Malta,Gozo
-864,Gozo & Malta,Malta
-865,Greece & Ionian Is.,Greece
-866,Greece & Ionian Is.,Ionian Is.
-867,Greece & Malta,Greece
-868,Greece & Malta,Malta
-869,Greece & Malta & Turkey (Ottoman Empire),Greece
-870,Greece & Malta & Turkey (Ottoman Empire),Malta
-871,Greece & Malta & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-872,Greece & Romania & Turkey (Ottoman Empire),Greece
-873,Greece & Romania & Turkey (Ottoman Empire),Romania
-874,Greece & Romania & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-875,Greece & Russia (USSR) & Turkey (Ottoman Empire),Greece
-876,Greece & Russia (USSR) & Turkey (Ottoman Empire),Russia (USSR)
-877,Greece & Russia (USSR) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-878,Greece & Turkey (Ottoman Empire),Greece
-879,Greece & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-880,Greenland & Iceland,Greenland
-881,Greenland & Iceland,Iceland
-882,Greenland & Svalbard Is.,Greenland
-883,Greenland & Svalbard Is.,Svalbard Is.
-,Guadeloupe & Guadeloupe Dependencies,Guadeloupe
-,Guadeloupe & Guadeloupe Dependencies,Guadeloupe Dependencies
-884,Guadeloupe & Martinique,Guadeloupe
-885,Guadeloupe & Martinique,Martinique
-886,Guadeloupe & Martinique & Reunion (Bourbon I.),Guadeloupe
-887,Guadeloupe & Martinique & Reunion (Bourbon I.),Martinique
-888,Guadeloupe & Martinique & Reunion (Bourbon I.),Reunion (Bourbon I.)
-889,Guam & Philippines,Guam
-890,Guam & Philippines,Philippines
-891,Guangzhou (Canton) & Manila,Guangzhou (Canton)
-892,Guangzhou (Canton) & Manila,Manila
-893,Guatemala & Mexico,Guatemala
-894,Guatemala & Mexico,Mexico
-895,Guatemala & Mexico & Texas,Guatemala
-896,Guatemala & Mexico & Texas,Mexico
-897,Guatemala & Mexico & Texas,Texas
-898,Guatemala & Nicaragua,Guatemala
-899,Guatemala & Nicaragua,Nicaragua
-900,Haiti & Venezuela,Haiti
-901,Haiti & Venezuela,Venezuela
-904,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hanover
-905,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Bremen
-906,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hamburg
-907,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Lübeck
-908,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Heligoland
-909,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Kniphausen
-910,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
-911,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Oldenburg
-923,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
-924,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
-925,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck
-926,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Hanover
-920,Hanse Towns (Bremen & Hamburg & Lübeck),Bremen
-921,Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
-922,Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck
-927,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Bremen
-928,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Hamburg
-929,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Lübeck
-930,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Netherlands
-931,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Bremen
-932,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Hamburg
-933,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Lübeck
-934,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Prussia
-902,Hamburg & North Germany,Hamburg
-903,Hamburg & North Germany,North Germany
-912,Hanover & Mecklenburg Schwerin & Oldenburg,Hanover
-913,Hanover & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
-914,Hanover & Mecklenburg Schwerin & Oldenburg,Oldenburg
-915,Hanover & Mecklenburg Schwerin & Prussia,Hanover
-916,Hanover & Mecklenburg Schwerin & Prussia,Mecklenburg Schwerin
-917,Hanover & Mecklenburg Schwerin & Prussia,Prussia
-918,Hanover & Oldenburg,Hanover
-919,Hanover & Oldenburg,Oldenburg
-935,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,Hawaii (Sandwich Is.)
-936,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,Puerto Rico
-937,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,United States of America
-938,Hawaii (Sandwich Is.) & United States of America,Hawaii (Sandwich Is.)
-939,Hawaii (Sandwich Is.) & United States of America,United States of America
-940,Hejaz Sultanate & Turkish Ports,Hejaz Sultanate
-941,Hejaz Sultanate & Turkish Ports,Turkish Ports
-942,Holstein & Lauenburg & Schleswig,Holstein
-943,Holstein & Lauenburg & Schleswig,Lauenburg
-944,Holstein & Lauenburg & Schleswig,Schleswig
-945,Holstein & Schleswig,Holstein
-946,Holstein & Schleswig,Schleswig
-947,Honduras & Mexican East Coast,Honduras
-948,Honduras & Mexican East Coast,Mexican East Coast
-949,Honduras & Panama,Honduras
-950,Honduras & Panama,Panama
-951,Hong Kong & India,Hong Kong
-952,Hong Kong & India,India
-953,Hong Kong & People's Republic of China (China),Hong Kong
-954,Hong Kong & People's Republic of China (China),People's Republic of China (China)
-955,Hong Kong & People's Republic of China (China) & Singapore,Hong Kong
-956,Hong Kong & People's Republic of China (China) & Singapore,People's Republic of China (China)
-957,Hong Kong & People's Republic of China (China) & Singapore,Singapore
-958,India & Japan & People's Republic of China (China),India
-959,India & Japan & People's Republic of China (China),Japan
-960,India & Japan & People's Republic of China (China),People's Republic of China (China)
-961,India & Mauritius,India
-962,India & Mauritius,Mauritius
-963,India & Myanmar (Burma),India
-964,India & Myanmar (Burma),Myanmar (Burma)
-965,India & Myanmar (Burma) & Straits Settlements,India
-966,India & Myanmar (Burma) & Straits Settlements,Myanmar (Burma)
-967,India & Myanmar (Burma) & Straits Settlements,Straits Settlements
-968,India & New South Wales & United Kingdom,India
-969,India & New South Wales & United Kingdom,New South Wales
-970,India & New South Wales & United Kingdom,United Kingdom
-971,India & Pacific Islands & People's Republic of China (China),India
-972,India & Pacific Islands & People's Republic of China (China),Pacific Islands
-973,India & Pacific Islands & People's Republic of China (China),People's Republic of China (China)
-974,India & People's Republic of China (China),India
-975,India & People's Republic of China (China),People's Republic of China (China)
-976,India & People's Republic of China (China) & Singapore,India
-977,India & People's Republic of China (China) & Singapore,People's Republic of China (China)
-978,India & People's Republic of China (China) & Singapore,Singapore
-979,India & Sri Lanka (Ceylon),India
-980,India & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
-981,India & Straits Settlements,India
-982,India & Straits Settlements,Straits Settlements
-1047,Indian Ports (other) & Karachi & Mumbai (Bombay),Karachi
-1048,Indian Ports (other) & Karachi & Mumbai (Bombay),Mumbai (Bombay)
-1049,Indian Ports (other) & Karachi & Mumbai (Bombay),Indian Ports (other)
-1194,Indian Ports (other) & Mumbai (Bombay),Mumbai (Bombay)
-1195,Indian Ports (other) & Mumbai (Bombay),Indian Ports (other)
-985,Indonesia (Dutch East Indies) (other) & Java,Indonesia (Dutch East Indies) (other)
-986,Indonesia (Dutch East Indies) (other) & Java,Java
-983,Indonesia (Dutch East Indies) & Netherlands Antilles,Indonesia (Dutch East Indies)
-984,Indonesia (Dutch East Indies) & Netherlands Antilles,Netherlands Antilles
-987,Ionian Is. & Malta,Ionian Is.
-988,Ionian Is. & Malta,Malta
-989,Ionian Is. & Malta & United Kingdom,Ionian Is.
-990,Ionian Is. & Malta & United Kingdom,Malta
-991,Ionian Is. & Malta & United Kingdom,United Kingdom
-992,Ionian Is. & Morea,Ionian Is.
-993,Ionian Is. & Morea,Morea
-994,Ionian Is. & United Kingdom,Ionian Is.
-995,Ionian Is. & United Kingdom,United Kingdom
-996,Iraq (Mesopotamia) & Kuwait,Iraq (Mesopotamia)
-997,Iraq (Mesopotamia) & Kuwait,Kuwait
-998,Ireland & United Kingdom,Ireland
-999,Ireland & United Kingdom,United Kingdom
-1003,Istanbul (Constantinople) & Izmir (Smyrna),Istanbul (Constantinople)
-1004,Istanbul (Constantinople) & Izmir (Smyrna),Izmir (Smyrna)
-1005,Istanbul (Constantinople) & Turkish Ports,Istanbul (Constantinople)
-1006,Istanbul (Constantinople) & Turkish Ports,Turkish Ports
-1007,Italian Colonies & Italy,Italian Colonies
-1008,Italian Colonies & Italy,Italy
-1009,Italy & Sardinia,Italy
-1010,Italy & Sardinia,Sardinia
-1011,Jakarta (Batavia) & Java & Sumatra,Jakarta (Batavia)
-1012,Jakarta (Batavia) & Java & Sumatra,Java
-1013,Jakarta (Batavia) & Java & Sumatra,Sumatra
-1014,Jakarta (Batavia) & Singapore,Jakarta (Batavia)
-1015,Jakarta (Batavia) & Singapore,Singapore
-1016,Jamaica & Jamaica Dependencies,Jamaica
-1017,Jamaica & Jamaica Dependencies,Jamaica Dependencies
-1018,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Japan
-1019,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Japanese China Leased Territory
-1020,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
-1021,Japan & Korea (Chosen),Japan
-1022,Japan & Korea (Chosen),Korea (Chosen)
-1023,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Japan
-1024,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Kwangtung Territory (Leased)
-1025,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
-1026,Japan & People's Republic of China (China),Japan
-1027,Japan & People's Republic of China (China),People's Republic of China (China)
-1028,Japan & Republic of China (Taiwan) (Formosa),Japan
-1029,Japan & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
-1030,Japan & Southern Sakhalin I.,Japan
-1031,Japan & Southern Sakhalin I.,Southern Sakhalin I.
-1032,Java & Madura Island,Java
-1033,Java & Madura Island,Madura Island
-1034,Java & Maluku Islands (Mollucas),Java
-1035,Java & Maluku Islands (Mollucas),Maluku Islands (Mollucas)
-1036,Java & Sumatra,Java
-1037,Java & Sumatra,Sumatra
-1038,Johore & Kedah & Kelantan & Perlis & Trengganu,Johore
-1039,Johore & Kedah & Kelantan & Perlis & Trengganu,Kedah
-1040,Johore & Kedah & Kelantan & Perlis & Trengganu,Kelantan
-1041,Johore & Kedah & Kelantan & Perlis & Trengganu,Perlis
-1042,Johore & Kedah & Kelantan & Perlis & Trengganu,Trengganu
-1043,Jordan (Transjordan) & Palestine,Jordan (Transjordan)
-1044,Jordan (Transjordan) & Palestine,Palestine
-1045,Karachi & Mumbai (Bombay),Karachi
-1046,Karachi & Mumbai (Bombay),Mumbai (Bombay)
-1050,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),Kenya (British East Africa Protectorate)
-1051,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),Malawi (Nyasaland) (British Central Africa Protectorate)
-1052,Kenya (British East Africa Protectorate) & Uganda,Kenya (British East Africa Protectorate)
-1053,Kenya (British East Africa Protectorate) & Uganda,Uganda
-1054,Kenya (British East Africa Protectorate) & Zanzibar,Kenya (British East Africa Protectorate)
-1055,Kenya (British East Africa Protectorate) & Zanzibar,Zanzibar
-1056,Kerguelen Is. & Madagascar (Malagasy Republic),Kerguelen Is.
-1057,Kerguelen Is. & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
-1058,Kingdom of Sardinia & Monaco,Kingdom of Sardinia
-1059,Kingdom of Sardinia & Monaco,Monaco
-1060,Kingdom of Sardinia & Papal States & Two Sicilies,Kingdom of Sardinia
-1061,Kingdom of Sardinia & Papal States & Two Sicilies,Papal States
-1062,Kingdom of Sardinia & Papal States & Two Sicilies,Two Sicilies
-1063,Kingdom of Sardinia & Tuscany,Kingdom of Sardinia
-1064,Kingdom of Sardinia & Tuscany,Tuscany
-1065,Kingdom of Sardinia & Two Sicilies,Kingdom of Sardinia
-1066,Kingdom of Sardinia & Two Sicilies,Two Sicilies
-1182,Kingdom of Serbia & Montenegro,Montenegro
-1183,Kingdom of Serbia & Montenegro,Kingdom of Serbia
-711,Kingdom of Serbia & Montenegro & Romania,Kingdom of Serbia
-712,Kingdom of Serbia & Montenegro & Romania,Montenegro
-713,Kingdom of Serbia & Montenegro & Romania,Romania
-1067,Kniphausen & Oldenburg,Kniphausen
-1068,Kniphausen & Oldenburg,Oldenburg
-1069,Kolkata (Calcutta) & Sri Lanka (Ceylon),Kolkata (Calcutta)
-1070,Kolkata (Calcutta) & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
-1071,Koszalin & Stralsund & Szczecin,Koszalin
-1072,Koszalin & Stralsund & Szczecin,Stralsund
-1073,Koszalin & Stralsund & Szczecin,Szczecin
-1074,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Kuwait
-1075,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Oman (Sultanate of Muscat and Oman)
-1076,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),United Arab Emirates (Trucial Oman)
-1077,Kwangtung Territory (Leased) & Manchukuo,Kwangtung Territory (Leased)
-1078,Kwangtung Territory (Leased) & Manchukuo,Manchukuo
-1087,Lübeck & Mecklenburg Schwerin & Other countries,Lübeck
-1088,Lübeck & Mecklenburg Schwerin & Other countries,Mecklenburg Schwerin
-1089,Lübeck & Mecklenburg Schwerin & Other countries,Other countries
-1079,Labuan I. & Straits Settlements,Labuan I.
-1080,Labuan I. & Straits Settlements,Straits Settlements
-1081,Lebanon & Syria,Lebanon
-1082,Lebanon & Syria,Syria
-1083,Lisbon & Porto,Lisbon
-1084,Lisbon & Porto,Porto
-1085,Lithuania & Memel,Lithuania
-1086,Lithuania & Memel,Memel
-1090,Lucca & Modena & Papal States & Parma & Tuscany,Lucca
-1091,Lucca & Modena & Papal States & Parma & Tuscany,Modena
-1092,Lucca & Modena & Papal States & Parma & Tuscany,Papal States
-1093,Lucca & Modena & Papal States & Parma & Tuscany,Parma
-1094,Lucca & Modena & Papal States & Parma & Tuscany,Tuscany
-1095,Lucca & Monaco & Papal States,Lucca
-1096,Lucca & Monaco & Papal States,Monaco
-1097,Lucca & Monaco & Papal States,Papal States
-1098,Lucca & Papal States,Lucca
-1099,Lucca & Papal States,Papal States
-1100,Lucca & Tuscany,Lucca
-1101,Lucca & Tuscany,Tuscany
-1102,Macao & People's Republic of China (China),Macao
-1103,Macao & People's Republic of China (China),People's Republic of China (China)
-1104,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,Madagascar (Malagasy Republic)
-1105,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,Madagascar (Malagasy Republic) Dependencies
-1106,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Madagascar (Malagasy Republic)
-1107,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Mayotte
-1108,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Nossi Be
-1109,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,Madagascar (Malagasy Republic)
-1110,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,Mayotte
-1111,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,Nossi Be
-1112,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,St. Marie de Madagascar
-1113,Madeira Isles & Portugal,Madeira Isles
-1114,Madeira Isles & Portugal,Portugal
-1115,Makran & Sonmiani,Makran
-1116,Makran & Sonmiani,Sonmiani
-1117,Malacca & Myanmar (Burma) & Singapore,Malacca
-1118,Malacca & Myanmar (Burma) & Singapore,Myanmar (Burma)
-1119,Malacca & Myanmar (Burma) & Singapore,Singapore
-1120,Malacca & Penang,Malacca
-1121,Malacca & Penang,Penang
-1122,Malacca & Penang & Singapore,Malacca
-1123,Malacca & Penang & Singapore,Penang
-1124,Malacca & Penang & Singapore,Singapore
-1125,Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,Malawi (Nyasaland) (British Central Africa Protectorate)
-1126,Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,Straits Settlements
-1127,Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,Straits Settlements Dependencies
-1128,Malaysia (British Malaya) & Sarawak,Malaysia (British Malaya)
-1129,Malaysia (British Malaya) & Sarawak,Sarawak
-1130,Malaysia (British Malaya) & Straits Settlements,Malaysia (British Malaya)
-1131,Malaysia (British Malaya) & Straits Settlements,Straits Settlements
-1132,Malaysia (British Malaya) & Sumatra,Malaysia (British Malaya)
-1133,Malaysia (British Malaya) & Sumatra,Sumatra
-1134,Malta & United Kingdom,Malta
-1135,Malta & United Kingdom,United Kingdom
-1136,Maluku Islands (Mollucas) & Sulawesi (Celebes),Maluku Islands (Mollucas)
-1137,Maluku Islands (Mollucas) & Sulawesi (Celebes),Sulawesi (Celebes)
-1138,Manchuria & Mongolia & People's Republic of China (China),Manchuria
-1139,Manchuria & Mongolia & People's Republic of China (China),Mongolia
-1140,Manchuria & Mongolia & People's Republic of China (China),People's Republic of China (China)
-1141,Manchuria & People's Republic of China (China),Manchuria
-1142,Manchuria & People's Republic of China (China),People's Republic of China (China)
-1143,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Manitoba
-1144,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,North-Western Territory
-1145,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Ontario (Upper Canada)
-1146,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Quebec (Lower Canada)
-1147,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Rupert's Land
-1148,Mariana Is. & Philippines,Mariana Is.
-1149,Mariana Is. & Philippines,Philippines
-1150,Mauritius & Mauritius Dependencies,Mauritius
-1151,Mauritius & Mauritius Dependencies,Mauritius Dependencies
-1152,Mauritius & Mauritius Dependencies & Seychelles,Mauritius
-1153,Mauritius & Mauritius Dependencies & Seychelles,Mauritius Dependencies
-1154,Mauritius & Mauritius Dependencies & Seychelles,Seychelles
-1155,Mauritius & Reunion (Bourbon I.),Mauritius
-1156,Mauritius & Reunion (Bourbon I.),Reunion (Bourbon I.)
-1157,Mauritius & South Africa,Mauritius
-1158,Mauritius & South Africa,South Africa
-1159,Mawlamyine & Rangoon,Mawlamyine
-1160,Mawlamyine & Rangoon,Rangoon
-1161,Mayotte & Nossi Be,Mayotte
-1162,Mayotte & Nossi Be,Nossi Be
-1163,Mayotte & Nossi Be & St. Marie de Madagascar,Mayotte
-1164,Mayotte & Nossi Be & St. Marie de Madagascar,Nossi Be
-1165,Mayotte & Nossi Be & St. Marie de Madagascar,St. Marie de Madagascar
-1166,Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
-1167,Mecklenburg Schwerin & Oldenburg,Oldenburg
-1168,Mexico & Texas,Mexico
-1169,Mexico & Texas,Texas
-1170,Mexico & Venezuela,Mexico
-1171,Mexico & Venezuela,Venezuela
-1172,Milan & Papal States & Tuscany,Milan
-1173,Milan & Papal States & Tuscany,Papal States
-1174,Milan & Papal States & Tuscany,Tuscany
-1175,Modena & Parma & Tuscany,Modena
-1176,Modena & Parma & Tuscany,Parma
-1177,Modena & Parma & Tuscany,Tuscany
-1178,Moldavia & Wallachia,Moldavia
-1179,Moldavia & Wallachia,Wallachia
-1180,Mongolia & People's Republic of China (China),Mongolia
-1181,Mongolia & People's Republic of China (China),People's Republic of China (China)
-1184,Morocco & Tangier,Morocco
-1185,Morocco & Tangier,Tangier
-1186,Morocco & Tripolitania,Morocco
-1187,Morocco & Tripolitania,Tripolitania
-1188,Morocco & Tunisia (Tunis),Morocco
-1189,Morocco & Tunisia (Tunis),Tunisia (Tunis)
-1190,Mozambique & Zambia (Northern Rhodesia),Mozambique
-1191,Mozambique & Zambia (Northern Rhodesia),Zambia (Northern Rhodesia)
-1192,Mozambique & Zanzibar,Mozambique
-1193,Mozambique & Zanzibar,Zanzibar
-1196,Mumbai (Bombay) & Sindh,Mumbai (Bombay)
-1197,Mumbai (Bombay) & Sindh,Sindh
-1198,Myanmar (Burma) & Thailand (Siam),Myanmar (Burma)
-1199,Myanmar (Burma) & Thailand (Siam),Thailand (Siam)
-1200,Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),Nauru
-1201,Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),New Zealand
-1202,Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),Samoa (Western Samoa) (German Samoa)
-1203,Nauru & Samoa (Western Samoa) (German Samoa),Nauru
-1204,Nauru & Samoa (Western Samoa) (German Samoa),Samoa (Western Samoa) (German Samoa)
-1205,Netherlands Antilles & West Irian (Dutch New Guinea),Netherlands Antilles
-1206,Netherlands Antilles & West Irian (Dutch New Guinea),West Irian (Dutch New Guinea)
-1207,New Brunswick & Nova Scotia,New Brunswick
-1208,New Brunswick & Nova Scotia,Nova Scotia
-1209,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),New Brunswick
-1210,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Nova Scotia
-1211,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Ontario (Upper Canada)
-1212,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Prince Edward Is.
-1213,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Quebec (Lower Canada)
-1214,New Brunswick & Nova Scotia & Prince Edward Is.,New Brunswick
-1215,New Brunswick & Nova Scotia & Prince Edward Is.,Nova Scotia
-1216,New Brunswick & Nova Scotia & Prince Edward Is.,Prince Edward Is.
-1217,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
-1218,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies
-1219,New South Wales & Queensland,New South Wales
-1220,New South Wales & Queensland,Queensland
-1221,New South Wales & South Australia & Tasmania & Victoria,New South Wales
-1222,New South Wales & South Australia & Tasmania & Victoria,South Australia
-1223,New South Wales & South Australia & Tasmania & Victoria,Tasmania
-1224,New South Wales & South Australia & Tasmania & Victoria,Victoria
-1225,New South Wales & Western Australia,New South Wales
-1226,New South Wales & Western Australia,Western Australia
-1227,Newfoundland and Labrador (Newfoundland) & Prince Edward Is.,Newfoundland and Labrador (Newfoundland)
-1228,Newfoundland and Labrador (Newfoundland) & Prince Edward Is.,Prince Edward Is.
-1229,North Germany & Prussia,North Germany
-1230,North Germany & Prussia,Prussia
-1231,Norway & Sweden,Norway
-1232,Norway & Sweden,Sweden
-1233,Obock & Tadjoura,Obock
-1234,Obock & Tadjoura,Tadjoura
-1235,Oldenburg & Prussia,Oldenburg
-1236,Oldenburg & Prussia,Prussia
-1237,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Oman (Sultanate of Muscat and Oman)
-1238,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),United Arab Emirates (Trucial Oman)
-1239,Oman (Sultanate of Muscat and Oman) & Zanzibar,Oman (Sultanate of Muscat and Oman)
-1240,Oman (Sultanate of Muscat and Oman) & Zanzibar,Zanzibar
-1241,Ontario (Upper Canada) & Quebec (Lower Canada),Ontario (Upper Canada)
-1242,Ontario (Upper Canada) & Quebec (Lower Canada),Quebec (Lower Canada)
-1243,Palestine & Syria,Palestine
-1244,Palestine & Syria,Syria
-1245,Panama & Panama Canal Zone,Panama
-1246,Panama & Panama Canal Zone,Panama Canal Zone
-1247,Papal States & Tuscany,Papal States
-1248,Papal States & Tuscany,Tuscany
-1249,Paraguay & Uruguay,Paraguay
-1250,Paraguay & Uruguay,Uruguay
-1251,Patras & Pylos,Patras
-1252,Patras & Pylos,Pylos
-1253,Pays de Gex & Savoy,Pays de Gex
-1254,Pays de Gex & Savoy,Savoy
-1255,Pemba Island & Zanzibar,Pemba Island
-1256,Pemba Island & Zanzibar,Zanzibar
-1257,People's Republic of China (China) & Philippines,People's Republic of China (China)
-1258,People's Republic of China (China) & Philippines,Philippines
-1259,People's Republic of China (China) & Philippines & Thailand (Siam),People's Republic of China (China)
-1260,People's Republic of China (China) & Philippines & Thailand (Siam),Philippines
-1261,People's Republic of China (China) & Philippines & Thailand (Siam),Thailand (Siam)
-1262,Philippines & Sulu Sultanate,Philippines
-1263,Philippines & Sulu Sultanate,Sulu Sultanate
-1264,Phuket Province & Thailand (Siam),Phuket Province
-1265,Phuket Province & Thailand (Siam),Thailand (Siam)
-1266,Piedmont & Sardinia,Piedmont
-1267,Piedmont & Sardinia,Sardinia
-1268,Piedmont & Tuscany,Piedmont
-1269,Piedmont & Tuscany,Tuscany
-1270,Poland & Russia (USSR),Poland
-1271,Poland & Russia (USSR),Russia (USSR)
-1272,Portugal & Portuguese Colonies,Portugal
-1273,Portugal & Portuguese Colonies,Portuguese Colonies
-1274,Portugal & Portuguese East Africa,Portugal
-1275,Portugal & Portuguese East Africa,Portuguese East Africa
-1276,Portugal & Spain,Portugal
-1277,Portugal & Spain,Spain
-1278,Portuguese Africa & Portuguese Asia,Portuguese Africa
-1279,Portuguese Africa & Portuguese Asia,Portuguese Asia
-1280,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",Portuguese Africa
-1281,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
-1282,Portuguese Asia & Portuguese Oceania,Portuguese Asia
-1283,Portuguese Asia & Portuguese Oceania,Portuguese Oceania
-1284,Prince Edward Is. & St. Thomas,Prince Edward Is.
-1285,Prince Edward Is. & St. Thomas,St. Thomas
-1286,Puerto Rico & Spanish West Indies (other),Puerto Rico
-1287,Puerto Rico & Spanish West Indies (other),Spanish West Indies (other)
-1288,Puerto Rico & St. Thomas,Puerto Rico
-1289,Puerto Rico & St. Thomas,St. Thomas
-1290,Puerto Rico & Virgin Islands (Danish West Indies),Puerto Rico
-1291,Puerto Rico & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
-1292,Republic of St. Mark & Trieste,Republic of St. Mark
-1293,Republic of St. Mark & Trieste,Trieste
-1294,Russia (Baltic Sea) & Russia (White Sea),Russia (Baltic Sea)
-1295,Russia (Baltic Sea) & Russia (White Sea),Russia (White Sea)
-1296,Russia (USSR) & Russian Colonies,Russia (USSR)
-1297,Russia (USSR) & Russian Colonies,Russian Colonies
-1298,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Saudi Arabia (Emirate of Nejd)
-1299,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
-1300,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Altenburg
-1301,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Coburg and Gotha
-1302,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Meiningen
-1303,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Weimar
-,Senegal & Senegal Dependencies,Senegal
-,Senegal & Senegal Dependencies,Senegal Dependencies
-1304,Singapore & Straits Settlements,Singapore
-1305,Singapore & Straits Settlements,Straits Settlements
-1306,South Africa & South West Africa,South Africa
-1307,South Africa & South West Africa,South West Africa
-1308,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),South Africa
-1309,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
-1310,Spain & Spanish Colonies,Spain
-1311,Spain & Spanish Colonies,Spanish Colonies
-1312,Spain & Spanish West Indies,Spain
-1313,Spain & Spanish West Indies,Spanish West Indies
-,Spanish Morocco & Tangier,Spanish Morocco
-,Spanish Morocco & Tangier,Tangier
-1314,Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,Sri Lanka (Ceylon)
-1315,Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,Sri Lanka (Ceylon) Dependencies
-,Sri Lanka (Ceylon) & Thailand (Siam),Sri Lanka (Ceylon)
-,Sri Lanka (Ceylon) & Thailand (Siam),Thailand (Siam)
-1316,St. Croix & St. John & St. Thomas,St. Croix
-1317,St. Croix & St. John & St. Thomas,St. John
-1318,St. Croix & St. John & St. Thomas,St. Thomas
-1319,St. Croix & St. Thomas,St. Croix
-1320,St. Croix & St. Thomas,St. Thomas
-1321,Straits Settlements & Straits Settlements Dependencies,Straits Settlements
-1322,Straits Settlements & Straits Settlements Dependencies,Straits Settlements Dependencies
-1323,Sweden & Swedish Colonies,Sweden
-1324,Sweden & Swedish Colonies,Swedish Colonies
-1325,Syria & Turkey (Ottoman Empire),Syria
-1326,Syria & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
-1327,Tortola & Virgin Gorda,Tortola
-1328,Tortola & Virgin Gorda,Virgin Gorda
-1329,Tripolitania & Tunisia (Tunis),Tripolitania
-1330,Tripolitania & Tunisia (Tunis),Tunisia (Tunis)
-1331,Turkey (Ottoman Empire) & Western Anatolia,Turkey (Ottoman Empire)
-1332,Turkey (Ottoman Empire) & Western Anatolia,Western Anatolia
-,West Irian (Dutch New Guinea) & Dutch Oceania (other),West Irian (Dutch New Guinea)
-,West Irian (Dutch New Guinea) & Dutch Oceania (other),Dutch Oceania (other)
-,Western Anatolia & Syria,Western Anatolia
-,Western Anatolia & Syria,Syria
-1333,Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Zambia (Northern Rhodesia)
-1334,Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
-,Berbera & Bulhar & Zeila,Berbera
-,Berbera & Bulhar & Zeila,Bulhar
-,Berbera & Bulhar & Zeila,Zeila
-,Austria & Saxony,Austria
-,Austria & Saxony,Saxony
+17,Aden & Bahrain,Aden
+18,Aden & Bahrain,Bahrain
+19,Aden & British Colonies (other),Aden
+20,Aden & British Colonies (other),British Colonies (other)
+21,Aden & British East Africa,Aden
+22,Aden & British East Africa,British East Africa
+23,Aden & India,Aden
+24,Aden & India,India
+25,Aden & India & Sri Lanka (Ceylon),Aden
+26,Aden & India & Sri Lanka (Ceylon),India
+27,Aden & India & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+28,Aden & Kenya (British East Africa Protectorate),Aden
+29,Aden & Kenya (British East Africa Protectorate),Kenya (British East Africa Protectorate)
+30,Aden & Perim I.,Aden
+31,Aden & Perim I.,Perim I.
+32,Aden & Straits Settlements,Aden
+33,Aden & Straits Settlements,Straits Settlements
+34,Afghanistan & Asian Turkey & Iran (Persia),Afghanistan
+35,Afghanistan & Asian Turkey & Iran (Persia),Asian Turkey
+36,Afghanistan & Asian Turkey & Iran (Persia),Iran (Persia)
+37,Afghanistan & Baluchistan (Kalat),Afghanistan
+38,Afghanistan & Baluchistan (Kalat),Baluchistan (Kalat)
+39,Afghanistan & Bhutan & Nepal,Afghanistan
+40,Afghanistan & Bhutan & Nepal,Bhutan
+41,Afghanistan & Bhutan & Nepal,Nepal
+42,Afghanistan & Iran (Persia),Afghanistan
+43,Afghanistan & Iran (Persia),Iran (Persia)
+44,Afghanistan & Iran (Persia) & Iraq (Mesopotamia),Afghanistan
+45,Afghanistan & Iran (Persia) & Iraq (Mesopotamia),Iran (Persia)
+46,Afghanistan & Iran (Persia) & Iraq (Mesopotamia),Iraq (Mesopotamia)
+47,Africa (other) & Asia (other) & Japan,Africa (other)
+48,Africa (other) & Asia (other) & Japan,Asia (other)
+49,Africa (other) & Asia (other) & Japan,Japan
+50,African Turkey & Asian Turkey & European Turkey,African Turkey
+51,African Turkey & Asian Turkey & European Turkey,Asian Turkey
+52,African Turkey & Asian Turkey & European Turkey,European Turkey
+53,Alaska & St. Pierre and Miquelon,Alaska
+54,Alaska & St. Pierre and Miquelon,St. Pierre and Miquelon
+55,Alaska & United States of America,Alaska
+56,Alaska & United States of America,United States of America
+57,Albania & Andorra,Albania
+58,Albania & Andorra,Andorra
+59,"Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",Albania
+60,"Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",Fiume
+61,"Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)","Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
+62,Albania & Kingdom of Serbia & Montenegro,Albania
+63,Albania & Kingdom of Serbia & Montenegro,Kingdom of Serbia
+64,Albania & Kingdom of Serbia & Montenegro,Montenegro
+65,"Albania & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",Albania
+66,"Albania & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)","Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
+67,Aleppo & Latakia (Alaouites),Aleppo
+68,Aleppo & Latakia (Alaouites),Latakia (Alaouites)
+69,Alexandria & Damietta & Jeddah & Rosetta,Alexandria
+70,Alexandria & Damietta & Jeddah & Rosetta,Damietta
+71,Alexandria & Damietta & Jeddah & Rosetta,Jeddah
+72,Alexandria & Damietta & Jeddah & Rosetta,Rosetta
+73,Alexandria & Egypt Arab Republic (Egypt),Alexandria
+74,Alexandria & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+75,Alexandria & Suez Canal Zone,Alexandria
+76,Alexandria & Suez Canal Zone,Suez Canal Zone
+77,Algeria (Algiers) & Egypt Arab Republic (Egypt),Algeria (Algiers)
+78,Algeria (Algiers) & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+79,Algeria (Algiers) & France,Algeria (Algiers)
+80,Algeria (Algiers) & France,France
+81,Algeria (Algiers) & France & French Colonies (other),Algeria (Algiers)
+82,Algeria (Algiers) & France & French Colonies (other),France
+83,Algeria (Algiers) & France & French Colonies (other),French Colonies (other)
+84,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),Algeria (Algiers)
+85,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),France
+86,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),Morocco
+87,Algeria (Algiers) & France & Morocco & Tunisia (Tunis),Tunisia (Tunis)
+88,Algeria (Algiers) & Morocco,Algeria (Algiers)
+89,Algeria (Algiers) & Morocco,Morocco
+90,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Algeria (Algiers)
+91,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Morocco
+92,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Tripolitania
+93,Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),Tunisia (Tunis)
+94,Algeria (Algiers) & Morocco & Tunisia (Tunis),Algeria (Algiers)
+95,Algeria (Algiers) & Morocco & Tunisia (Tunis),Morocco
+96,Algeria (Algiers) & Morocco & Tunisia (Tunis),Tunisia (Tunis)
+97,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Algeria (Algiers)
+98,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Morocco
+99,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Tunisia (Tunis)
+100,Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,Zanzibar
+101,Algeria (Algiers) & Tunisia (Tunis),Algeria (Algiers)
+102,Algeria (Algiers) & Tunisia (Tunis),Tunisia (Tunis)
+103,Algiers & Annaba (Bône),Algiers
+104,Algiers & Annaba (Bône),Annaba (Bône)
+105,Algiers & Egypt Arab Republic (Egypt) & Tripolitania & Tunis,Algiers
+106,Algiers & Egypt Arab Republic (Egypt) & Tripolitania & Tunis,Egypt Arab Republic (Egypt)
+107,Algiers & Egypt Arab Republic (Egypt) & Tripolitania & Tunis,Tripolitania
+108,Algiers & Egypt Arab Republic (Egypt) & Tripolitania & Tunis,Tunis
+109,Altona & Hamburg,Altona
+110,Altona & Hamburg,Hamburg
+111,Altona & Holstein & Schleswig,Altona
+112,Altona & Holstein & Schleswig,Holstein
+113,Altona & Holstein & Schleswig,Schleswig
+114,Altona & Wandsbeck,Altona
+115,Altona & Wandsbeck,Wandsbeck
+116,American America & British America & Dutch America & French America,American America
+117,American America & British America & Dutch America & French America,British America
+118,American America & British America & Dutch America & French America,Dutch America
+119,American America & British America & Dutch America & French America,French America
+120,American America & British America & French America,American America
+121,American America & British America & French America,British America
+122,American America & British America & French America,French America
+123,American Asia & American Oceania,American Asia
+124,American Asia & American Oceania,American Oceania
+125,American Colonies & French West Indies,American Colonies
+126,American Colonies & French West Indies,French West Indies
+127,American Colonies & Netherlands Antilles,American Colonies
+128,American Colonies & Netherlands Antilles,Netherlands Antilles
+129,American Colonies & United States of America,American Colonies
+130,American Colonies & United States of America,United States of America
+131,Amirante Is. & Mauritius & Seychelles,Amirante Is.
+132,Amirante Is. & Mauritius & Seychelles,Mauritius
+133,Amirante Is. & Mauritius & Seychelles,Seychelles
+134,Angola & Kabinda (Portuguese Congo),Angola
+135,Angola & Kabinda (Portuguese Congo),Kabinda (Portuguese Congo)
+136,Angola & Portuguese West Africa,Angola
+137,Angola & Portuguese West Africa,Portuguese West Africa
+138,Anguilla & St. Kitts-Nevis,Anguilla
+139,Anguilla & St. Kitts-Nevis,St. Kitts-Nevis
+140,Anjouan & Grand Comoro & Mayotte & Moheli,Anjouan
+141,Anjouan & Grand Comoro & Mayotte & Moheli,Grand Comoro
+142,Anjouan & Grand Comoro & Mayotte & Moheli,Mayotte
+143,Anjouan & Grand Comoro & Mayotte & Moheli,Moheli
+144,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Annam
+145,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Cambodia (Kampuchea)
+146,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Cochin China
+147,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,French China Leased Territory
+148,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Tonkin
+149,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Annam
+150,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Cambodia (Kampuchea)
+151,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Cochin China
+152,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Tonkin
+153,Annam & Cochin China & Tonkin,Annam
+154,Annam & Cochin China & Tonkin,Cochin China
+155,Annam & Cochin China & Tonkin,Tonkin
+156,Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,Arabia
+157,Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,Asian Turkey
+158,Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,Iran (Persia)
+159,Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,Russian Turkestan
+160,Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,Arabia
+161,Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,British Asia (other)
+162,Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,Hong Kong
+163,Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,Iraq (Mesopotamia)
+164,Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,Portuguese Africa
+165,Arakan & Chittagong & Tanintharyi Region,Arakan
+166,Arakan & Chittagong & Tanintharyi Region,Chittagong
+167,Arakan & Chittagong & Tanintharyi Region,Tanintharyi Region
+168,Arctic & Faeroe Is. & Iceland,Arctic
+169,Arctic & Faeroe Is. & Iceland,Faeroe Is.
+170,Arctic & Faeroe Is. & Iceland,Iceland
+171,Argentina (La Plata) & Brazil,Argentina (La Plata)
+172,Argentina (La Plata) & Brazil,Brazil
+173,Argentina (La Plata) & Chile,Argentina (La Plata)
+174,Argentina (La Plata) & Chile,Chile
+175,Argentina (La Plata) & Paraguay & Uruguay,Argentina (La Plata)
+176,Argentina (La Plata) & Paraguay & Uruguay,Paraguay
+177,Argentina (La Plata) & Paraguay & Uruguay,Uruguay
+178,Argentina (La Plata) & Patagonia (Atlantic Coast),Argentina (La Plata)
+179,Argentina (La Plata) & Patagonia (Atlantic Coast),Patagonia (Atlantic Coast)
+180,Argentina (La Plata) & Uruguay,Argentina (La Plata)
+181,Argentina (La Plata) & Uruguay,Uruguay
+182,Arica & Tacna,Arica
+183,Arica & Tacna,Tacna
+184,Armenia & Kurdistan,Armenia
+185,Armenia & Kurdistan,Kurdistan
+186,Aruba & Bonaire,Aruba
+187,Aruba & Bonaire,Bonaire
+188,Ascension I. & St. Helena,Ascension I.
+189,Ascension I. & St. Helena,St. Helena
+190,Asia (other) & Australia & East Indies,Asia (other)
+191,Asia (other) & Australia & East Indies,Australia
+192,Asia (other) & Australia & East Indies,East Indies
+193,Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam),Asia (other)
+194,Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam),British East Indies
+195,Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam),People's Republic of China (China)
+196,Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam),Thailand (Siam)
+197,Asia (other) & East Indies & People's Republic of China (China),Asia (other)
+198,Asia (other) & East Indies & People's Republic of China (China),East Indies
+199,Asia (other) & East Indies & People's Republic of China (China),People's Republic of China (China)
+200,Asian Turkey & Cyprus,Asian Turkey
+201,Asian Turkey & Cyprus,Cyprus
+202,Asian Turkey & European Turkey,Asian Turkey
+203,Asian Turkey & European Turkey,European Turkey
+204,Assab & Bailul & Massawah,Assab
+205,Assab & Bailul & Massawah,Bailul
+206,Assab & Bailul & Massawah,Massawah
+207,Assam & Bengal,Assam
+208,Assam & Bengal,Bengal
+209,Assam & Bengal & Bihar & Odisha,Assam
+210,Assam & Bengal & Bihar & Odisha,Bengal
+211,Assam & Bengal & Bihar & Odisha,Bihar
+212,Assam & Bengal & Bihar & Odisha,Odisha
+213,Auckland Is. & Fiji,Auckland Is.
+214,Auckland Is. & Fiji,Fiji
+215,Australia & British Oceania & Tasmania,Australia
+216,Australia & British Oceania & Tasmania,British Oceania
+217,Australia & British Oceania & Tasmania,Tasmania
+218,Australia & Canada (Province of Canada),Australia
+219,Australia & Canada (Province of Canada),Canada (Province of Canada)
+220,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Australia
+221,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Cape Colony (Cape of Good Hope)
+222,Australia & Cape Colony (Cape of Good Hope) & Mauritius,Mauritius
+223,Australia & East Indies,Australia
+224,Australia & East Indies,East Indies
+225,Australia & Hawaii (Sandwich Is.),Australia
+226,Australia & Hawaii (Sandwich Is.),Hawaii (Sandwich Is.)
+227,Australia & Hong Kong & India & Myanmar (Burma) & Singapore,Australia
+228,Australia & Hong Kong & India & Myanmar (Burma) & Singapore,Hong Kong
+229,Australia & Hong Kong & India & Myanmar (Burma) & Singapore,India
+230,Australia & Hong Kong & India & Myanmar (Burma) & Singapore,Myanmar (Burma)
+231,Australia & Hong Kong & India & Myanmar (Burma) & Singapore,Singapore
+232,Australia & New Caledonia & New Zealand,Australia
+233,Australia & New Caledonia & New Zealand,New Caledonia
+234,Australia & New Caledonia & New Zealand,New Zealand
+235,Australia & New Zealand,Australia
+236,Australia & New Zealand,New Zealand
+237,Australia & New Zealand & Pacific Islands,Australia
+238,Australia & New Zealand & Pacific Islands,New Zealand
+239,Australia & New Zealand & Pacific Islands,Pacific Islands
+240,Australia & New Zealand & Tasmania,Australia
+241,Australia & New Zealand & Tasmania,New Zealand
+242,Australia & New Zealand & Tasmania,Tasmania
+243,Australia & Tasmania,Australia
+244,Australia & Tasmania,Tasmania
+245,Australia & Western Australia,Australia
+246,Australia & Western Australia,Western Australia
+247,Australian Northern Territory & South Australia,Australian Northern Territory
+248,Australian Northern Territory & South Australia,South Australia
+249,Austria (Austrian Empire) & Austrian Dependencies,Austria (Austrian Empire)
+250,Austria (Austrian Empire) & Austrian Dependencies,Austrian Dependencies
+251,Austria (Austrian Empire) & Cracow (Free City of Cracow),Austria (Austrian Empire)
+252,Austria (Austrian Empire) & Cracow (Free City of Cracow),Cracow (Free City of Cracow)
+253,Austria (Austrian Empire) & Czechoslovakia & Hungary,Austria (Austrian Empire)
+254,Austria (Austrian Empire) & Czechoslovakia & Hungary,Czechoslovakia
+255,Austria (Austrian Empire) & Czechoslovakia & Hungary,Hungary
+256,Austria (Austrian Empire) & Germany (Zollverein),Austria (Austrian Empire)
+257,Austria (Austrian Empire) & Germany (Zollverein),Germany (Zollverein)
+258,Austria (Austrian Empire) & Italy,Austria (Austrian Empire)
+259,Austria (Austrian Empire) & Italy,Italy
+260,Austria (Austrian Empire) & Lombardy-Venetia,Austria (Austrian Empire)
+261,Austria (Austrian Empire) & Lombardy-Venetia,Lombardy-Venetia
+262,Austria (Austrian Empire) & Saxony,Austria (Austrian Empire)
+263,Austria (Austrian Empire) & Saxony,Saxony
+264,Austria (Austrian Empire) & Trieste,Austria (Austrian Empire)
+265,Austria (Austrian Empire) & Trieste,Trieste
+266,Austria-Hungary & Bosnia-Herzegovina,Austria-Hungary
+267,Austria-Hungary & Bosnia-Herzegovina,Bosnia-Herzegovina
+268,Austria-Hungary & Italy,Austria-Hungary
+269,Austria-Hungary & Italy,Italy
+270,Azores (Western Isles) & Canary Is.,Azores (Western Isles)
+271,Azores (Western Isles) & Canary Is.,Canary Is.
+272,Azores (Western Isles) & Canary Is. & Cape Verde,Azores (Western Isles)
+273,Azores (Western Isles) & Canary Is. & Cape Verde,Canary Is.
+274,Azores (Western Isles) & Canary Is. & Cape Verde,Cape Verde
+275,Azores (Western Isles) & Cape Verde & Madeira Isles,Azores (Western Isles)
+276,Azores (Western Isles) & Cape Verde & Madeira Isles,Cape Verde
+277,Azores (Western Isles) & Cape Verde & Madeira Isles,Madeira Isles
+278,Azores (Western Isles) & Madeira Isles,Azores (Western Isles)
+279,Azores (Western Isles) & Madeira Isles,Madeira Isles
+280,Azores (Western Isles) & Madeira Isles & Portugal,Azores (Western Isles)
+281,Azores (Western Isles) & Madeira Isles & Portugal,Madeira Isles
+282,Azores (Western Isles) & Madeira Isles & Portugal,Portugal
+283,Azores (Western Isles) & Madeira Isles & Tenerife,Azores (Western Isles)
+284,Azores (Western Isles) & Madeira Isles & Tenerife,Madeira Isles
+285,Azores (Western Isles) & Madeira Isles & Tenerife,Tenerife
+286,Azores (Western Isles) & Portugal,Azores (Western Isles)
+287,Azores (Western Isles) & Portugal,Portugal
+288,Bago (Pegu) & Bengal,Bago (Pegu)
+289,Bago (Pegu) & Bengal,Bengal
+290,Bago (Pegu) & Rangoon,Bago (Pegu)
+291,Bago (Pegu) & Rangoon,Rangoon
+292,Bahamas & British West Indies,Bahamas
+293,Bahamas & British West Indies,British West Indies
+294,Bahamas & Turks and Caicos Is.,Bahamas
+295,Bahamas & Turks and Caicos Is.,Turks and Caicos Is.
+296,Balearic Islands & Spain,Balearic Islands
+297,Balearic Islands & Spain,Spain
+298,Bali & Java & Riau,Bali
+299,Bali & Java & Riau,Java
+300,Bali & Java & Riau,Riau
+301,Bali & Lombok,Bali
+302,Bali & Lombok,Lombok
+303,Bali & Lombok & Sumbawa,Bali
+304,Bali & Lombok & Sumbawa,Lombok
+305,Bali & Lombok & Sumbawa,Sumbawa
+306,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Baltiysk (Pillau)
+307,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Braniewo (Braunsberg)
+308,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Kaliningrad (Königsberg)
+309,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Primorsk (Fischhausen)
+310,Bangka Island & Belitung,Bangka Island
+311,Bangka Island & Belitung,Belitung
+312,Barbados & Trinidad and Tobago,Barbados
+313,Barbados & Trinidad and Tobago,Trinidad and Tobago
+314,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Barbary Coast (Algiers
+315,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Morocco
+316,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tripolitania
+317,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),Tunis)
+318,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Barbary Coast (Algiers
+319,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Morocco
+320,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tripolitania
+321,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Tunis)
+322,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+323,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Barbary Coast (Algiers
+324,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Morocco
+325,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Tripolitania
+326,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Tunis)
+327,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+328,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+329,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Barbary Coast (Algiers
+330,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Morocco
+331,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Tripolitania
+332,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Tunis)
+333,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+334,Bavaria & Frankfurt & Saxony,Bavaria
+335,Bavaria & Frankfurt & Saxony,Frankfurt
+336,Bavaria & Frankfurt & Saxony,Saxony
+337,Bavaria & Saxony,Bavaria
+338,Bavaria & Saxony,Saxony
+339,Beirut & Egypt Arab Republic (Egypt),Beirut
+340,Beirut & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+341,Beirut & Egypt Arab Republic (Egypt) & Syria,Beirut
+342,Beirut & Egypt Arab Republic (Egypt) & Syria,Egypt Arab Republic (Egypt)
+343,Beirut & Egypt Arab Republic (Egypt) & Syria,Syria
+344,Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),Belgium
+345,Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+346,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Belgium
+347,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Germany (Zollverein)
+348,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Italy
+349,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Netherlands
+350,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Russia (USSR)
+351,Belgium & Germany (Zollverein) & Netherlands,Belgium
+352,Belgium & Germany (Zollverein) & Netherlands,Germany (Zollverein)
+353,Belgium & Germany (Zollverein) & Netherlands,Netherlands
+354,Belgium & Luxemburg,Belgium
+355,Belgium & Luxemburg,Luxemburg
+356,Belgium & Netherlands,Belgium
+357,Belgium & Netherlands,Netherlands
+358,Belize (British Honduras) & British West Indies,Belize (British Honduras)
+359,Belize (British Honduras) & British West Indies,British West Indies
+360,Belize (British Honduras) & British West Indies & Guyana (British Guiana),Belize (British Honduras)
+361,Belize (British Honduras) & British West Indies & Guyana (British Guiana),British West Indies
+362,Belize (British Honduras) & British West Indies & Guyana (British Guiana),Guyana (British Guiana)
+363,Belize (British Honduras) & Campeche,Belize (British Honduras)
+364,Belize (British Honduras) & Campeche,Campeche
+365,Belize (British Honduras) & Campeche & Mosquito Coast,Belize (British Honduras)
+366,Belize (British Honduras) & Campeche & Mosquito Coast,Campeche
+367,Belize (British Honduras) & Campeche & Mosquito Coast,Mosquito Coast
+368,Belize (British Honduras) & Costa Rica & El Salvador,Belize (British Honduras)
+369,Belize (British Honduras) & Costa Rica & El Salvador,Costa Rica
+370,Belize (British Honduras) & Costa Rica & El Salvador,El Salvador
+371,Bengal & Chennai (Madras) & Mumbai (Bombay) & Myanmar (Burma),Bengal
+372,Bengal & Chennai (Madras) & Mumbai (Bombay) & Myanmar (Burma),Chennai (Madras)
+373,Bengal & Chennai (Madras) & Mumbai (Bombay) & Myanmar (Burma),Mumbai (Bombay)
+374,Bengal & Chennai (Madras) & Mumbai (Bombay) & Myanmar (Burma),Myanmar (Burma)
+375,Bengal & Myanmar (Burma),Bengal
+376,Bengal & Myanmar (Burma),Myanmar (Burma)
+377,Bengal & Sri Lanka (Ceylon),Bengal
+378,Bengal & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+379,Benghazi & Tripolitania,Benghazi
+380,Benghazi & Tripolitania,Tripolitania
+381,Berbera & Bulhar,Berbera
+382,Berbera & Bulhar,Bulhar
+383,Berbera & Bulhar & Zeila,Berbera
+384,Berbera & Bulhar & Zeila,Bulhar
+385,Berbera & Bulhar & Zeila,Zeila
+386,Berbera & Zeila,Berbera
+387,Berbera & Zeila,Zeila
+388,Berbice & Demerara,Berbice
+389,Berbice & Demerara,Demerara
+390,Bermuda & British West Indies,Bermuda
+391,Bermuda & British West Indies,British West Indies
+392,Berwick & Isle of Man & United Kingdom,Berwick
+393,Berwick & Isle of Man & United Kingdom,Isle of Man
+394,Berwick & Isle of Man & United Kingdom,United Kingdom
+395,Bhutan & Nepal,Bhutan
+396,Bhutan & Nepal,Nepal
+397,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),Botswana (Bechuanaland)
+398,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),Eswatini (Swaziland)
+399,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),Lesotho (Basutoland)
+400,Botswana (Bechuanaland) & South Africa,Botswana (Bechuanaland)
+401,Botswana (Bechuanaland) & South Africa,South Africa
+402,Brazil & Chile,Brazil
+403,Brazil & Chile,Chile
+404,Brazil & Colombia (New Granada) (Gran Colombia),Brazil
+405,Brazil & Colombia (New Granada) (Gran Colombia),Colombia (New Granada) (Gran Colombia)
+406,Brazil & Portuguese America (other),Brazil
+407,Brazil & Portuguese America (other),Portuguese America (other)
+408,Bremen & Hamburg,Bremen
+409,Bremen & Hamburg,Hamburg
+410,Bremen & Hamburg & Mecklenburg Schwerin,Bremen
+411,Bremen & Hamburg & Mecklenburg Schwerin,Hamburg
+412,Bremen & Hamburg & Mecklenburg Schwerin,Mecklenburg Schwerin
+413,Bremen & Hamburg & Prussia,Bremen
+414,Bremen & Hamburg & Prussia,Hamburg
+415,Bremen & Hamburg & Prussia,Prussia
+416,Bremen & Hanover,Bremen
+417,Bremen & Hanover,Hanover
+418,Bremen & Lübeck,Bremen
+419,Bremen & Lübeck,Lübeck
+420,Bremen & Prussia,Bremen
+421,Bremen & Prussia,Prussia
+422,British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),British Africa (other)
+423,British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),Portuguese Africa
+424,British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
+425,British Africa & Gibraltar,British Africa
+426,British Africa & Gibraltar,Gibraltar
+427,British America (other) & Canada (Province of Canada),British America (other)
+428,British America (other) & Canada (Province of Canada),Canada (Province of Canada)
+429,British America & Newfoundland and Labrador (Newfoundland),British America
+430,British America & Newfoundland and Labrador (Newfoundland),Newfoundland and Labrador (Newfoundland)
+431,British America & United States of America,British America
+432,British America & United States of America,United States of America
+433,British Asia (other) & India,British Asia (other)
+434,British Asia (other) & India,India
+435,British Asia & British Oceania,British Asia
+436,British Asia & British Oceania,British Oceania
+437,British Borneo & Dutch Borneo,British Borneo
+438,British Borneo & Dutch Borneo,Dutch Borneo
+439,British Borneo & Malaysia (British Malaya),British Borneo
+440,British Borneo & Malaysia (British Malaya),Malaysia (British Malaya)
+441,British Borneo & Straits Settlements,British Borneo
+442,British Borneo & Straits Settlements,Straits Settlements
+443,British Cameroons & Nigeria,British Cameroons
+444,British Cameroons & Nigeria,Nigeria
+445,British Cameroons & Northern Nigeria (British Nigeria),British Cameroons
+446,British Cameroons & Northern Nigeria (British Nigeria),Northern Nigeria (British Nigeria)
+447,British Colonies & United Kingdom,British Colonies
+448,British Colonies & United Kingdom,United Kingdom
+449,British Columbia & British East North America,British Columbia
+450,British Columbia & British East North America,British East North America
+451,British Columbia & Rupert's Land,British Columbia
+452,British Columbia & Rupert's Land,Rupert's Land
+453,British Columbia & Vancouver,British Columbia
+454,British Columbia & Vancouver,Vancouver
+455,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),British East Africa
+456,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
+457,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Egypt Arab Republic (Egypt)
+458,British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+459,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),British East Africa
+460,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
+461,British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+462,British East Africa & Pemba Island & Zanzibar,British East Africa
+463,British East Africa & Pemba Island & Zanzibar,Pemba Island
+464,British East Africa & Pemba Island & Zanzibar,Zanzibar
+465,British East Indies & Thailand (Siam),British East Indies
+466,British East Indies & Thailand (Siam),Thailand (Siam)
+467,British Europe & United Kingdom,British Europe
+468,British Europe & United Kingdom,United Kingdom
+469,British Mediterranean & United Kingdom,British Mediterranean
+470,British Mediterranean & United Kingdom,United Kingdom
+471,British North America (other) & Canada (Province of Canada),British North America (other)
+472,British North America (other) & Canada (Province of Canada),Canada (Province of Canada)
+473,British North America & United States of America,British North America
+474,British North America & United States of America,United States of America
+475,British Oceania & New Zealand,British Oceania
+476,British Oceania & New Zealand,New Zealand
+477,British South Africa & Cape Colony (Cape of Good Hope),British South Africa
+478,British South Africa & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
+479,British South Africa & Eastern Africa & Western Africa,British South Africa
+480,British South Africa & Eastern Africa & Western Africa,Eastern Africa
+481,British South Africa & Eastern Africa & Western Africa,Western Africa
+482,British South America & British West Indies & Guyana (British Guiana),British South America
+483,British South America & British West Indies & Guyana (British Guiana),British West Indies
+484,British South America & British West Indies & Guyana (British Guiana),Guyana (British Guiana)
+485,British South America & French South America,British South America
+486,British South America & French South America,French South America
+487,British Togoland & Togo (French Togoland),British Togoland
+488,British Togoland & Togo (French Togoland),Togo (French Togoland)
+489,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),British Virgin Is.
+490,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),Puerto Rico
+491,British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+492,British West Africa & Canada (Province of Canada),British West Africa
+493,British West Africa & Canada (Province of Canada),Canada (Province of Canada)
+494,British West Africa & French West Africa (other) & Liberia & Spanish Africa,British West Africa
+495,British West Africa & French West Africa (other) & Liberia & Spanish Africa,French West Africa (other)
+496,British West Africa & French West Africa (other) & Liberia & Spanish Africa,Liberia
+497,British West Africa & French West Africa (other) & Liberia & Spanish Africa,Spanish Africa
+498,British West Africa & South Africa,British West Africa
+499,British West Africa & South Africa,South Africa
+500,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,British West Indies (other)
+501,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,Jamaica
+502,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,Jamaica Dependencies
+503,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,Trinidad and Tobago
+504,British West Indies & Swedish West Indies,British West Indies
+505,British West Indies & Swedish West Indies,Swedish West Indies
+506,British West Indies & United Kingdom,British West Indies
+507,British West Indies & United Kingdom,United Kingdom
+508,Brunei & Sabah (North Borneo) & Sarawak,Brunei
+509,Brunei & Sabah (North Borneo) & Sarawak,Sabah (North Borneo)
+510,Brunei & Sabah (North Borneo) & Sarawak,Sarawak
+511,Brunei & Sarawak,Brunei
+512,Brunei & Sarawak,Sarawak
+513,Buenos Aires & Montevideo,Buenos Aires
+514,Buenos Aires & Montevideo,Montevideo
+515,Bulgaria & Crete,Bulgaria
+516,Bulgaria & Crete,Crete
+517,Bulgaria & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Bulgaria
+518,Bulgaria & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+519,Bulgaria & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+520,Bulgaria & European Turkey,Bulgaria
+521,Bulgaria & European Turkey,European Turkey
+522,Bulgaria & Kingdom of Serbia,Bulgaria
+523,Bulgaria & Kingdom of Serbia,Kingdom of Serbia
+524,Bulgaria & Kingdom of Serbia & Montenegro,Bulgaria
+525,Bulgaria & Kingdom of Serbia & Montenegro,Kingdom of Serbia
+526,Bulgaria & Kingdom of Serbia & Montenegro,Montenegro
+527,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Bulgaria
+528,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Kingdom of Serbia
+529,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Montenegro
+530,Bulgaria & Kingdom of Serbia & Montenegro & Romania,Romania
+531,Bulgaria & Kingdom of Serbia & Romania,Bulgaria
+532,Bulgaria & Kingdom of Serbia & Romania,Kingdom of Serbia
+533,Bulgaria & Kingdom of Serbia & Romania,Romania
+534,Bulgaria & Turkey (Ottoman Empire),Bulgaria
+535,Bulgaria & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+536,Cambodia (Kampuchea) & Cochin China,Cambodia (Kampuchea)
+537,Cambodia (Kampuchea) & Cochin China,Cochin China
+538,Cambodia (Kampuchea) & Cochin China & Tonkin,Cambodia (Kampuchea)
+539,Cambodia (Kampuchea) & Cochin China & Tonkin,Cochin China
+540,Cambodia (Kampuchea) & Cochin China & Tonkin,Tonkin
+541,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),Cameroun (French Cameroons)
+542,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),French West Africa
+543,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),Togo (French Togoland)
+544,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland),Canada (Province of Canada)
+545,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland),Newfoundland and Labrador (Newfoundland)
+546,Canada (Province of Canada) & United States of America,Canada (Province of Canada)
+547,Canada (Province of Canada) & United States of America,United States of America
+548,Canary Is. & Cape Colony (Cape of Good Hope),Canary Is.
+549,Canary Is. & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
+550,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Canary Is.
+551,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Cape Colony (Cape of Good Hope)
+552,Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+553,Canary Is. & Cape Colony (Cape of Good Hope) & Madeira Isles,Canary Is.
+554,Canary Is. & Cape Colony (Cape of Good Hope) & Madeira Isles,Cape Colony (Cape of Good Hope)
+555,Canary Is. & Cape Colony (Cape of Good Hope) & Madeira Isles,Madeira Isles
+556,Canary Is. & Madeira Isles,Canary Is.
+557,Canary Is. & Madeira Isles,Madeira Isles
+558,Canary Is. & Spain,Canary Is.
+559,Canary Is. & Spain,Spain
+560,Canary Is. & Spanish Morocco,Canary Is.
+561,Canary Is. & Spanish Morocco,Spanish Morocco
+562,Canary Is. & Tenerife,Canary Is.
+563,Canary Is. & Tenerife,Tenerife
+564,Cape Breton I. & Nova Scotia,Cape Breton I.
+565,Cape Breton I. & Nova Scotia,Nova Scotia
+566,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,Cape Colony (Cape of Good Hope)
+567,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,East Indies
+568,Cape Colony (Cape of Good Hope) & East Indies & Mauritius,Mauritius
+569,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Cape Colony (Cape of Good Hope)
+570,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Gambia
+571,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Guinea (French Guinea) (Rivieres du Sud)
+572,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Mauritius
+573,Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,Senegal
+574,Cape Colony (Cape of Good Hope) & Guinea (French Guinea) (Rivieres du Sud),Cape Colony (Cape of Good Hope)
+575,Cape Colony (Cape of Good Hope) & Guinea (French Guinea) (Rivieres du Sud),Guinea (French Guinea) (Rivieres du Sud)
+576,Cape Colony (Cape of Good Hope) & India,Cape Colony (Cape of Good Hope)
+577,Cape Colony (Cape of Good Hope) & India,India
+578,Cape Colony (Cape of Good Hope) & Mauritius,Cape Colony (Cape of Good Hope)
+579,Cape Colony (Cape of Good Hope) & Mauritius,Mauritius
+580,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,Cape Colony (Cape of Good Hope)
+581,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,Mauritius
+582,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,New South Wales
+583,Cape Colony (Cape of Good Hope) & Natal,Cape Colony (Cape of Good Hope)
+584,Cape Colony (Cape of Good Hope) & Natal,Natal
+585,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Cape Verde
+586,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",East Timor (Portuguese Timor)
+587,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Macao
+588,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe","Portuguese India (incl. Goa, Diu, Daman)"
+589,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Sao Tome-Principe
+590,Casablanca & El Jadida (Mazaghan),Casablanca
+591,Casablanca & El Jadida (Mazaghan),El Jadida (Mazaghan)
+592,Central African Republic (Ubangi Shari) & Chad,Central African Republic (Ubangi Shari)
+593,Central African Republic (Ubangi Shari) & Chad,Chad
+594,Central African Republic (Ubangi Shari) & Congo (Brazzaville) (French Congo) (Middle Congo),Central African Republic (Ubangi Shari)
+595,Central African Republic (Ubangi Shari) & Congo (Brazzaville) (French Congo) (Middle Congo),Congo (Brazzaville) (French Congo) (Middle Congo)
+596,Ceuta & Melilla,Ceuta
+597,Ceuta & Melilla,Melilla
+598,Channel Is. & Isle of Man,Channel Is.
+599,Channel Is. & Isle of Man,Isle of Man
+600,Channel Is. & United Kingdom,Channel Is.
+601,Channel Is. & United Kingdom,United Kingdom
+602,Chennai (Madras) & Coromandel Coast Posts,Chennai (Madras)
+603,Chennai (Madras) & Coromandel Coast Posts,Coromandel Coast Posts
+604,Chennai (Madras) & India (Coast),Chennai (Madras)
+605,Chennai (Madras) & India (Coast),India (Coast)
+606,Chennai (Madras) & Kolkata (Calcutta),Chennai (Madras)
+607,Chennai (Madras) & Kolkata (Calcutta),Kolkata (Calcutta)
+608,Chile & India,Chile
+609,Chile & India,India
+610,Chile & Patagonia (Pacific Coast),Chile
+611,Chile & Patagonia (Pacific Coast),Patagonia (Pacific Coast)
+612,Chile & Peru,Chile
+613,Chile & Peru,Peru
+614,Chile & Southern America (other) & Uruguay,Chile
+615,Chile & Southern America (other) & Uruguay,Southern America (other)
+616,Chile & Southern America (other) & Uruguay,Uruguay
+617,Chinese Treaty Ports & Hong Kong,Chinese Treaty Ports
+618,Chinese Treaty Ports & Hong Kong,Hong Kong
+619,Christmas I. & Cocos (Keeling) Is.,Christmas I.
+620,Christmas I. & Cocos (Keeling) Is.,Cocos (Keeling) Is.
+621,Cochin China & Java & Philippines & Thailand (Siam),Cochin China
+622,Cochin China & Java & Philippines & Thailand (Siam),Java
+623,Cochin China & Java & Philippines & Thailand (Siam),Philippines
+624,Cochin China & Java & Philippines & Thailand (Siam),Thailand (Siam)
+625,Cochin China & Macao & People's Republic of China (China),Cochin China
+626,Cochin China & Macao & People's Republic of China (China),Macao
+627,Cochin China & Macao & People's Republic of China (China),People's Republic of China (China)
+628,Cochin China & People's Republic of China (China),Cochin China
+629,Cochin China & People's Republic of China (China),People's Republic of China (China)
+630,Cochin China & Thailand (Siam),Cochin China
+631,Cochin China & Thailand (Siam),Thailand (Siam)
+632,Cochin China & Tonkin,Cochin China
+633,Cochin China & Tonkin,Tonkin
+634,Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,Colombia (New Granada) (Gran Colombia)
+635,Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,Ecuador
+636,Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,Venezuela
+637,Colombia (New Granada) (Gran Colombia) & Galapagos Is.,Colombia (New Granada) (Gran Colombia)
+638,Colombia (New Granada) (Gran Colombia) & Galapagos Is.,Galapagos Is.
+639,Colombia (New Granada) (Gran Colombia) & Guatemala,Colombia (New Granada) (Gran Colombia)
+640,Colombia (New Granada) (Gran Colombia) & Guatemala,Guatemala
+641,Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,Colombia (New Granada) (Gran Colombia)
+642,Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,Guatemala
+643,Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,Venezuela
+644,Colombia (New Granada) (Gran Colombia) & Panama,Colombia (New Granada) (Gran Colombia)
+645,Colombia (New Granada) (Gran Colombia) & Panama,Panama
+646,Colombia (New Granada) (Gran Colombia) & Venezuela,Colombia (New Granada) (Gran Colombia)
+647,Colombia (New Granada) (Gran Colombia) & Venezuela,Venezuela
+648,Colón & Panama,Colón
+649,Colón & Panama,Panama
+650,Comoros & Madagascar (Malagasy Republic),Comoros
+651,Comoros & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+652,Congo (Brazzaville) (French Congo) (Middle Congo) & Guinea Coast,Congo (Brazzaville) (French Congo) (Middle Congo)
+653,Congo (Brazzaville) (French Congo) (Middle Congo) & Guinea Coast,Guinea Coast
+654,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
+655,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,French Africa (other)
+656,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Senegal
+657,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
+658,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,French West Africa (other)
+659,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Senegal
+660,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
+661,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Senegal
+662,Corfu & Malta,Corfu
+663,Corfu & Malta,Malta
+664,Coromandel Coast Posts & Malabar Coast,Coromandel Coast Posts
+665,Coromandel Coast Posts & Malabar Coast,Malabar Coast
+666,Costa Rica & El Salvador & Guatemala,Costa Rica
+667,Costa Rica & El Salvador & Guatemala,El Salvador
+668,Costa Rica & El Salvador & Guatemala,Guatemala
+669,Costa Rica & El Salvador & Guatemala & Honduras,Costa Rica
+670,Costa Rica & El Salvador & Guatemala & Honduras,El Salvador
+671,Costa Rica & El Salvador & Guatemala & Honduras,Guatemala
+672,Costa Rica & El Salvador & Guatemala & Honduras,Honduras
+673,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Costa Rica
+674,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,El Salvador
+675,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Guatemala
+676,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Honduras
+677,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,Nicaragua
+678,Costa Rica & Guatemala & Honduras,Costa Rica
+679,Costa Rica & Guatemala & Honduras,Guatemala
+680,Costa Rica & Guatemala & Honduras,Honduras
+681,Costa Rica & Guatemala & Honduras & Nicaragua,Costa Rica
+682,Costa Rica & Guatemala & Honduras & Nicaragua,Guatemala
+683,Costa Rica & Guatemala & Honduras & Nicaragua,Honduras
+684,Costa Rica & Guatemala & Honduras & Nicaragua,Nicaragua
+685,Crete & Egypt Arab Republic (Egypt),Crete
+686,Crete & Egypt Arab Republic (Egypt),Egypt Arab Republic (Egypt)
+687,Crete & European Turkey,Crete
+688,Crete & European Turkey,European Turkey
+689,Crete & Greece,Crete
+690,Crete & Greece,Greece
+691,Crete & Turkey (Ottoman Empire),Crete
+692,Crete & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+693,Croatia & Dalmatia & Illyria,Croatia
+694,Croatia & Dalmatia & Illyria,Dalmatia
+695,Croatia & Dalmatia & Illyria,Illyria
+696,Croatia & Kingdom of Serbia,Croatia
+697,Croatia & Kingdom of Serbia,Kingdom of Serbia
+698,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Cuba
+699,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Curacao
+700,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Guadeloupe
+701,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Martinique
+702,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,Puerto Rico
+703,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,St. Croix
+704,Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,St. Thomas
+705,Cuba & Dominican Republic (Santo Domingo) & Haiti,Cuba
+706,Cuba & Dominican Republic (Santo Domingo) & Haiti,Dominican Republic (Santo Domingo)
+707,Cuba & Dominican Republic (Santo Domingo) & Haiti,Haiti
+708,Cuba & Haiti & Puerto Rico,Cuba
+709,Cuba & Haiti & Puerto Rico,Haiti
+710,Cuba & Haiti & Puerto Rico,Puerto Rico
+711,Cuba & La Guaira,Cuba
+712,Cuba & La Guaira,La Guaira
+713,Cuba & Philippines & Puerto Rico,Cuba
+714,Cuba & Philippines & Puerto Rico,Philippines
+715,Cuba & Philippines & Puerto Rico,Puerto Rico
+716,Cuba & Puerto Rico,Cuba
+717,Cuba & Puerto Rico,Puerto Rico
+718,Cuba & Spain,Cuba
+719,Cuba & Spain,Spain
+720,Curacao & Dutch Windward Is. & Sint Eustatius,Curacao
+721,Curacao & Dutch Windward Is. & Sint Eustatius,Dutch Windward Is.
+722,Curacao & Dutch Windward Is. & Sint Eustatius,Sint Eustatius
+723,Curacao & Jamaica,Curacao
+724,Curacao & Jamaica,Jamaica
+725,Curacao & Jamaica & Trinidad and Tobago,Curacao
+726,Curacao & Jamaica & Trinidad and Tobago,Jamaica
+727,Curacao & Jamaica & Trinidad and Tobago,Trinidad and Tobago
+728,Curacao & Netherlands,Curacao
+729,Curacao & Netherlands,Netherlands
+730,Curacao & Surinam (Dutch Guiana),Curacao
+731,Curacao & Surinam (Dutch Guiana),Surinam (Dutch Guiana)
+732,Cuxhaven & Hamburg,Cuxhaven
+733,Cuxhaven & Hamburg,Hamburg
+734,Cuxhaven & Heligoland,Cuxhaven
+735,Cuxhaven & Heligoland,Heligoland
+736,Cyprus & Gibraltar,Cyprus
+737,Cyprus & Gibraltar,Gibraltar
+738,Cyprus & Gibraltar & Malta,Cyprus
+739,Cyprus & Gibraltar & Malta,Gibraltar
+740,Cyprus & Gibraltar & Malta,Malta
+741,Cyprus & Gozo & Kingdom of Serbia & Malta,Cyprus
+742,Cyprus & Gozo & Kingdom of Serbia & Malta,Gozo
+743,Cyprus & Gozo & Kingdom of Serbia & Malta,Kingdom of Serbia
+744,Cyprus & Gozo & Kingdom of Serbia & Malta,Malta
+745,Cyprus & Gozo & Malta,Cyprus
+746,Cyprus & Gozo & Malta,Gozo
+747,Cyprus & Gozo & Malta,Malta
+748,Cyprus & Malta,Cyprus
+749,Cyprus & Malta,Malta
+750,Cyprus & Palestine,Cyprus
+751,Cyprus & Palestine,Palestine
+752,Cyrenaica & Tripolitania,Cyrenaica
+753,Cyrenaica & Tripolitania,Tripolitania
+754,Czechoslovakia & Hungary,Czechoslovakia
+755,Czechoslovakia & Hungary,Hungary
+756,Dalny & Korea (Chosen) & Vladivostok,Dalny
+757,Dalny & Korea (Chosen) & Vladivostok,Korea (Chosen)
+758,Dalny & Korea (Chosen) & Vladivostok,Vladivostok
+759,Danish America & Spanish America,Danish America
+760,Danish America & Spanish America,Spanish America
+761,Danish Colonies & Denmark,Danish Colonies
+762,Danish Colonies & Denmark,Denmark
+763,Danish India & French India & India,Danish India
+764,Danish India & French India & India,French India
+765,Danish India & French India & India,India
+766,Danzig (Free City of Danzig) & Memel,Danzig (Free City of Danzig)
+767,Danzig (Free City of Danzig) & Memel,Memel
+768,Danzig (Free City of Danzig) & Poland,Danzig (Free City of Danzig)
+769,Danzig (Free City of Danzig) & Poland,Poland
+770,Davis Strait & Greenland,Davis Strait
+771,Davis Strait & Greenland,Greenland
+772,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+773,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi,Ruanda-Urundi
+774,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Uganda,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+775,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Uganda,Uganda
+776,Denmark & Denmark Colonies,Denmark
+777,Denmark & Denmark Colonies,Denmark Colonies
+778,Denmark & Faeroe Is.,Denmark
+779,Denmark & Faeroe Is.,Faeroe Is.
+780,Denmark & Faeroe Is. & Greenland & Iceland,Denmark
+781,Denmark & Faeroe Is. & Greenland & Iceland,Faeroe Is.
+782,Denmark & Faeroe Is. & Greenland & Iceland,Greenland
+783,Denmark & Faeroe Is. & Greenland & Iceland,Iceland
+784,Denmark & Faeroe Is. & Iceland,Denmark
+785,Denmark & Faeroe Is. & Iceland,Faeroe Is.
+786,Denmark & Faeroe Is. & Iceland,Iceland
+787,Denmark & Greenland,Denmark
+788,Denmark & Greenland,Greenland
+789,Denmark & Greenland & Iceland,Denmark
+790,Denmark & Greenland & Iceland,Greenland
+791,Denmark & Greenland & Iceland,Iceland
+792,Denmark & Holstein & Schleswig,Denmark
+793,Denmark & Holstein & Schleswig,Holstein
+794,Denmark & Holstein & Schleswig,Schleswig
+795,Denmark & Iceland,Denmark
+796,Denmark & Iceland,Iceland
+797,Denmark & Madeira Isles & Spain,Denmark
+798,Denmark & Madeira Isles & Spain,Madeira Isles
+799,Denmark & Madeira Isles & Spain,Spain
+800,Denmark & Norway,Denmark
+801,Denmark & Norway,Norway
+802,Denmark & Norway & Russia (USSR) & Sweden,Denmark
+803,Denmark & Norway & Russia (USSR) & Sweden,Norway
+804,Denmark & Norway & Russia (USSR) & Sweden,Russia (USSR)
+805,Denmark & Norway & Russia (USSR) & Sweden,Sweden
+806,Denmark & Norway & Sweden,Denmark
+807,Denmark & Norway & Sweden,Norway
+808,Denmark & Norway & Sweden,Sweden
+809,Denmark & Russia (USSR),Denmark
+810,Denmark & Russia (USSR),Russia (USSR)
+811,Denmark & Russia (USSR) & Sweden,Denmark
+812,Denmark & Russia (USSR) & Sweden,Russia (USSR)
+813,Denmark & Russia (USSR) & Sweden,Sweden
+814,Denmark & Sweden,Denmark
+815,Denmark & Sweden,Sweden
+816,Denmark & Virgin Islands (Danish West Indies),Denmark
+817,Denmark & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+818,Djibouti (Afar and Issas) (French Somaliland) & Eritrea,Djibouti (Afar and Issas) (French Somaliland)
+819,Djibouti (Afar and Issas) (French Somaliland) & Eritrea,Eritrea
+820,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),Djibouti (Afar and Issas) (French Somaliland)
+821,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),Ethiopia (Abyssinia)
+822,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),Eritrea
+823,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),Italian Somaliland
+824,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),North Sudan (Sudan) (Anglo-Egyptian)
+825,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia),Djibouti (Afar and Issas) (French Somaliland)
+826,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia),Ethiopia (Abyssinia)
+827,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Djibouti (Afar and Issas) (French Somaliland)
+828,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,Italian Somaliland
+829,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),Djibouti (Afar and Issas) (French Somaliland)
+830,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),Italian Somaliland
+831,Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),Somaliland Republic (British Somaliland)
+832,Djibouti (Afar and Issas) (French Somaliland) & Obock,Djibouti (Afar and Issas) (French Somaliland)
+833,Djibouti (Afar and Issas) (French Somaliland) & Obock,Obock
+834,Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland),Djibouti (Afar and Issas) (French Somaliland)
+835,Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland),Socotra I.
+836,Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland),Somaliland Republic (British Somaliland)
+837,Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Somaliland),Djibouti (Afar and Issas) (French Somaliland)
+838,Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Somaliland),Somaliland Republic (British Somaliland)
+839,Dodecanese Is. (Aegean Is.) & Greece,Dodecanese Is. (Aegean Is.)
+840,Dodecanese Is. (Aegean Is.) & Greece,Greece
+841,Dodecanese Is. (Aegean Is.) & Italy,Dodecanese Is. (Aegean Is.)
+842,Dodecanese Is. (Aegean Is.) & Italy,Italy
+843,Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),Dodecanese Is. (Aegean Is.)
+844,Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),Izmir (Smyrna)
+845,Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),Dodecanese Is. (Aegean Is.)
+846,Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),Romania
+847,Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+848,Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire),Dodecanese Is. (Aegean Is.)
+849,Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+850,Dominican Republic (Santo Domingo) & Haiti,Dominican Republic (Santo Domingo)
+851,Dominican Republic (Santo Domingo) & Haiti,Haiti
+852,Dominican Republic (Santo Domingo) & Haiti & Puerto Rico,Dominican Republic (Santo Domingo)
+853,Dominican Republic (Santo Domingo) & Haiti & Puerto Rico,Haiti
+854,Dominican Republic (Santo Domingo) & Haiti & Puerto Rico,Puerto Rico
+855,Dutch Asia (other) & Java,Dutch Asia (other)
+856,Dutch Asia (other) & Java,Java
+857,Dutch Asia & Dutch Oceania,Dutch Asia
+858,Dutch Asia & Dutch Oceania,Dutch Oceania
+859,Dutch Colonies (other) & Natuna Islands,Dutch Colonies (other)
+860,Dutch Colonies (other) & Natuna Islands,Natuna Islands
+861,Dutch Colonies & Netherlands,Dutch Colonies
+862,Dutch Colonies & Netherlands,Netherlands
+863,East Frisia & Oldenburg,East Frisia
+864,East Frisia & Oldenburg,Oldenburg
+865,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),East India Company
+866,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),People's Republic of China (China)
+867,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+868,East India Company & Sri Lanka (Ceylon),East India Company
+869,East India Company & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+870,East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),East Indies
+871,East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),Guinea (French Guinea) (Rivieres du Sud)
+872,East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),People's Republic of China (China)
+873,East Indies & People's Republic of China (China),East Indies
+874,East Indies & People's Republic of China (China),People's Republic of China (China)
+875,East Indies & Philippines & Thailand (Siam),East Indies
+876,East Indies & Philippines & Thailand (Siam),Philippines
+877,East Indies & Philippines & Thailand (Siam),Thailand (Siam)
+878,East Timor (Portuguese Timor) & Macao,East Timor (Portuguese Timor)
+879,East Timor (Portuguese Timor) & Macao,Macao
+880,Eastern Asia (other) & French India & Japan & People's Republic of China (China),Eastern Asia (other)
+881,Eastern Asia (other) & French India & Japan & People's Republic of China (China),French India
+882,Eastern Asia (other) & French India & Japan & People's Republic of China (China),Japan
+883,Eastern Asia (other) & French India & Japan & People's Republic of China (China),People's Republic of China (China)
+884,Eastern Asia (other) & Japan & People's Republic of China (China),Eastern Asia (other)
+885,Eastern Asia (other) & Japan & People's Republic of China (China),Japan
+886,Eastern Asia (other) & Japan & People's Republic of China (China),People's Republic of China (China)
+887,Ecuador & Guatemala,Ecuador
+888,Ecuador & Guatemala,Guatemala
+889,Ecuador & Peru,Ecuador
+890,Ecuador & Peru,Peru
+891,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies,Egypt Arab Republic (Egypt)
+892,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies,Egypt Arab Republic (Egypt) Dependencies
+893,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+894,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt) Dependencies
+895,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+896,Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+897,Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),Greece
+898,Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+899,Egypt Arab Republic (Egypt) & Indian Transit,Egypt Arab Republic (Egypt)
+900,Egypt Arab Republic (Egypt) & Indian Transit,Indian Transit
+901,Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+902,Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire),Levant
+903,Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+904,Egypt Arab Republic (Egypt) & Moldavia,Egypt Arab Republic (Egypt)
+905,Egypt Arab Republic (Egypt) & Moldavia,Moldavia
+906,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian),Egypt Arab Republic (Egypt)
+907,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian),North Sudan (Sudan) (Anglo-Egyptian)
+908,Egypt Arab Republic (Egypt) & Syria,Egypt Arab Republic (Egypt)
+909,Egypt Arab Republic (Egypt) & Syria,Syria
+910,Egypt Arab Republic (Egypt) & Tripolitania,Egypt Arab Republic (Egypt)
+911,Egypt Arab Republic (Egypt) & Tripolitania,Tripolitania
+912,Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+913,Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+914,El Salvador & Honduras & Nicaragua,El Salvador
+915,El Salvador & Honduras & Nicaragua,Honduras
+916,El Salvador & Honduras & Nicaragua,Nicaragua
+917,Equatorial Guinea (Spanish Guinea) & Spanish Morocco,Equatorial Guinea (Spanish Guinea)
+918,Equatorial Guinea (Spanish Guinea) & Spanish Morocco,Spanish Morocco
+919,Eritrea & Italian Somaliland,Eritrea
+920,Eritrea & Italian Somaliland,Italian Somaliland
+921,Essaouira (Mogador) & Safi,Essaouira (Mogador)
+922,Essaouira (Mogador) & Safi,Safi
+923,Estonia & Latvia,Estonia
+924,Estonia & Latvia,Latvia
+925,Estonia & Latvia & Lithuania,Estonia
+926,Estonia & Latvia & Lithuania,Latvia
+927,Estonia & Latvia & Lithuania,Lithuania
+928,Eswatini (Swaziland) & Zulu,Eswatini (Swaziland)
+929,Eswatini (Swaziland) & Zulu,Zulu
+930,Ethiopia (Abyssinia) & Italian Africa,Ethiopia (Abyssinia)
+931,Ethiopia (Abyssinia) & Italian Africa,Italian Africa
+932,European Turkey & Montenegro,European Turkey
+933,European Turkey & Montenegro,Montenegro
+934,Faeroe Is. & Greenland,Faeroe Is.
+935,Faeroe Is. & Greenland,Greenland
+936,Faeroe Is. & Greenland & Iceland,Faeroe Is.
+937,Faeroe Is. & Greenland & Iceland,Greenland
+938,Faeroe Is. & Greenland & Iceland,Iceland
+939,Faeroe Is. & Iceland,Faeroe Is.
+940,Faeroe Is. & Iceland,Iceland
+941,Falkland Is. & Falkland Is. Dependencies,Falkland Is.
+942,Falkland Is. & Falkland Is. Dependencies,Falkland Is. Dependencies
+943,Falkland Is. & Guyana (British Guiana),Falkland Is.
+944,Falkland Is. & Guyana (British Guiana),Guyana (British Guiana)
+945,Falkland Is. & Patagonia,Falkland Is.
+946,Falkland Is. & Patagonia,Patagonia
+947,Falkland Is. & Uruguay,Falkland Is.
+948,Falkland Is. & Uruguay,Uruguay
+949,Federated Malay States & Straits Settlements,Federated Malay States
+950,Federated Malay States & Straits Settlements,Straits Settlements
+951,Federated States of Micronesia & French Polynesia,Federated States of Micronesia
+952,Federated States of Micronesia & French Polynesia,French Polynesia
+953,Fiji & Tonga (Haʻapai),Fiji
+954,Fiji & Tonga (Haʻapai),Tonga (Haʻapai)
+955,Finland & Russia (USSR),Finland
+956,Finland & Russia (USSR),Russia (USSR)
+957,Fiume & Italy,Fiume
+958,Fiume & Italy,Italy
+959,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Fiume
+960,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Kingdom of Sardinia
+961,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Milan
+962,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Papal States
+963,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Republic of St. Mark
+964,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Tuscany
+965,Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,Two Sicilies
+966,Fiume & Republic of St. Mark & Trieste,Fiume
+967,Fiume & Republic of St. Mark & Trieste,Republic of St. Mark
+968,Fiume & Republic of St. Mark & Trieste,Trieste
+969,Fiume & Trieste,Fiume
+970,Fiume & Trieste,Trieste
+971,France (French produce) & French Colonies (French produce),France (French produce)
+972,France (French produce) & French Colonies (French produce),French Colonies (French produce)
+973,France & French Africa,France
+974,France & French Africa,French Africa
+975,France & French Colonies,France
+976,France & French Colonies,French Colonies
+977,France & French Mediterranean,France
+978,France & French Mediterranean,French Mediterranean
+979,France & Monaco,France
+980,France & Monaco,Monaco
+981,France & Netherlands,France
+982,France & Netherlands,Netherlands
+983,France & Tahiti,France
+984,France & Tahiti,Tahiti
+985,French Asia & French India,French Asia
+986,French Asia & French India,French India
+987,French Asia & French India & Portuguese Asia,French Asia
+988,French Asia & French India & Portuguese Asia,French India
+989,French Asia & French India & Portuguese Asia,Portuguese Asia
+990,French Asia & French Oceania,French Asia
+991,French Asia & French Oceania,French Oceania
+992,French Equatorial Africa & French West Africa,French Equatorial Africa
+993,French Equatorial Africa & French West Africa,French West Africa
+994,French Guiana & French West Indies,French Guiana
+995,French Guiana & French West Indies,French West Indies
+996,French Guiana & Guadeloupe & Martinique,French Guiana
+997,French Guiana & Guadeloupe & Martinique,Guadeloupe
+998,French Guiana & Guadeloupe & Martinique,Martinique
+999,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),French Guiana
+1000,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),Guyana (British Guiana)
+1001,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),Surinam (Dutch Guiana)
+1002,French Guiana & St. Pierre and Miquelon,French Guiana
+1003,French Guiana & St. Pierre and Miquelon,St. Pierre and Miquelon
+1004,French Gulf of Guinea & Senegal,French Gulf of Guinea
+1005,French Gulf of Guinea & Senegal,Senegal
+1006,French India & French Indochina,French India
+1007,French India & French Indochina,French Indochina
+1008,"French India & India & Portuguese India (incl. Goa, Diu, Daman)",French India
+1009,"French India & India & Portuguese India (incl. Goa, Diu, Daman)",India
+1010,"French India & India & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
+1011,French Indochina & Japan & People's Republic of China (China),French Indochina
+1012,French Indochina & Japan & People's Republic of China (China),Japan
+1013,French Indochina & Japan & People's Republic of China (China),People's Republic of China (China)
+1014,French Indochina & People's Republic of China (China),French Indochina
+1015,French Indochina & People's Republic of China (China),People's Republic of China (China)
+1016,French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),French Indochina
+1017,French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),People's Republic of China (China)
+1018,French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),Philippines
+1019,French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),Thailand (Siam)
+1020,French Indochina & Thailand (Siam),French Indochina
+1021,French Indochina & Thailand (Siam),Thailand (Siam)
+1022,French Oceania (other) & New Caledonia,French Oceania (other)
+1023,French Oceania (other) & New Caledonia,New Caledonia
+1024,French West Africa & Senegal,French West Africa
+1025,French West Africa & Senegal,Senegal
+1026,French West Africa & Togo (French Togoland),French West Africa
+1027,French West Africa & Togo (French Togoland),Togo (French Togoland)
+1028,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),French West Indies
+1029,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Netherlands Antilles
+1030,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Spanish West Indies
+1031,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),St. Barthelemy
+1032,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+1033,French West Indies & St. Pierre and Miquelon,French West Indies
+1034,French West Indies & St. Pierre and Miquelon,St. Pierre and Miquelon
+1035,Galați & Odessa,Galați
+1036,Galați & Odessa,Odessa
+1037,Galicia & Poland & Russian provinces,Galicia
+1038,Galicia & Poland & Russian provinces,Poland
+1039,Galicia & Poland & Russian provinces,Russian provinces
+1040,Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,Gambia
+1041,Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,Guinea (French Guinea) (Rivieres du Sud)
+1042,Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,Senegal
+1043,Gambia & Senegal,Gambia
+1044,Gambia & Senegal,Senegal
+1045,Gambia & Sierra Leone,Gambia
+1046,Gambia & Sierra Leone,Sierra Leone
+1047,Genoa & Kingdom of Sardinia,Genoa
+1048,Genoa & Kingdom of Sardinia,Kingdom of Sardinia
+1049,Genoa & Livorno,Genoa
+1050,Genoa & Livorno,Livorno
+1051,Genoa & Trieste,Genoa
+1052,Genoa & Trieste,Trieste
+1053,German Africa & German Oceania,German Africa
+1054,German Africa & German Oceania,German Oceania
+1055,German Austria & Italian Austria,German Austria
+1056,German Austria & Italian Austria,Italian Austria
+1057,German China Leased Territory & German Oceania,German China Leased Territory
+1058,German China Leased Territory & German Oceania,German Oceania
+1059,German Colonies & Germany (Zollverein),German Colonies
+1060,German Colonies & Germany (Zollverein),Germany (Zollverein)
+1061,German East Africa & Germany (Zollverein),German East Africa
+1062,German East Africa & Germany (Zollverein),Germany (Zollverein)
+1063,German Togoland & Kamerun,German Togoland
+1064,German Togoland & Kamerun,Kamerun
+1065,German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),German Togoland
+1066,German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),Kamerun
+1067,German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),Namibia (South West Africa) (German South West Africa)
+1068,Germany (Zollverein) (other) & Prussia,Germany (Zollverein) (other)
+1069,Germany (Zollverein) (other) & Prussia,Prussia
+1070,Germany (Zollverein) & Hamburg,Germany (Zollverein)
+1071,Germany (Zollverein) & Hamburg,Hamburg
+1072,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Germany (Zollverein)
+1073,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Hanse Towns (Bremen
+1074,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
+1075,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck)
+1076,Germany (Zollverein) & Rhine,Germany (Zollverein)
+1077,Germany (Zollverein) & Rhine,Rhine
+1078,Germany (Zollverein) & Saar,Germany (Zollverein)
+1079,Germany (Zollverein) & Saar,Saar
+1080,Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone),Ghana (Gold Coast)
+1081,Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone),Gold Coast-Togoland (Neutral Zone)
+1082,Gibraltar & Ionian Is. & Malta & United Kingdom,Gibraltar
+1083,Gibraltar & Ionian Is. & Malta & United Kingdom,Ionian Is.
+1084,Gibraltar & Ionian Is. & Malta & United Kingdom,Malta
+1085,Gibraltar & Ionian Is. & Malta & United Kingdom,United Kingdom
+1086,Gibraltar & Malta,Gibraltar
+1087,Gibraltar & Malta,Malta
+1088,Gibraltar & Malta & United Kingdom,Gibraltar
+1089,Gibraltar & Malta & United Kingdom,Malta
+1090,Gibraltar & Malta & United Kingdom,United Kingdom
+1091,Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,Gibraltar
+1092,Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,Newfoundland and Labrador (Newfoundland)
+1093,Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,United Kingdom
+1094,Gibraltar & Portugal & Spain,Gibraltar
+1095,Gibraltar & Portugal & Spain,Portugal
+1096,Gibraltar & Portugal & Spain,Spain
+1097,Gibraltar & Spain,Gibraltar
+1098,Gibraltar & Spain,Spain
+1099,Gibraltar & Spain & Spanish Colonies,Gibraltar
+1100,Gibraltar & Spain & Spanish Colonies,Spain
+1101,Gibraltar & Spain & Spanish Colonies,Spanish Colonies
+1102,Gibraltar & United Kingdom,Gibraltar
+1103,Gibraltar & United Kingdom,United Kingdom
+1104,Goree & Senegal,Goree
+1105,Goree & Senegal,Senegal
+1106,Gozo & Malta,Gozo
+1107,Gozo & Malta,Malta
+1108,Greece & Ionian Is.,Greece
+1109,Greece & Ionian Is.,Ionian Is.
+1110,Greece & Italy & Levant,Greece
+1111,Greece & Italy & Levant,Italy
+1112,Greece & Italy & Levant,Levant
+1113,Greece & Malta,Greece
+1114,Greece & Malta,Malta
+1115,Greece & Malta & Turkey (Ottoman Empire),Greece
+1116,Greece & Malta & Turkey (Ottoman Empire),Malta
+1117,Greece & Malta & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+1118,Greece & Netherlands & Norway & Spain & Switzerland & United States of America,Greece
+1119,Greece & Netherlands & Norway & Spain & Switzerland & United States of America,Netherlands
+1120,Greece & Netherlands & Norway & Spain & Switzerland & United States of America,Norway
+1121,Greece & Netherlands & Norway & Spain & Switzerland & United States of America,Spain
+1122,Greece & Netherlands & Norway & Spain & Switzerland & United States of America,Switzerland
+1123,Greece & Netherlands & Norway & Spain & Switzerland & United States of America,United States of America
+1124,Greece & Romania & Turkey (Ottoman Empire),Greece
+1125,Greece & Romania & Turkey (Ottoman Empire),Romania
+1126,Greece & Romania & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+1127,Greece & Russia (USSR) & Turkey (Ottoman Empire),Greece
+1128,Greece & Russia (USSR) & Turkey (Ottoman Empire),Russia (USSR)
+1129,Greece & Russia (USSR) & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+1130,Greece & Turkey (Ottoman Empire),Greece
+1131,Greece & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+1132,Greenland & Iceland,Greenland
+1133,Greenland & Iceland,Iceland
+1134,Greenland & Svalbard Is.,Greenland
+1135,Greenland & Svalbard Is.,Svalbard Is.
+1136,Guadeloupe & Guadeloupe Dependencies,Guadeloupe
+1137,Guadeloupe & Guadeloupe Dependencies,Guadeloupe Dependencies
+1138,Guadeloupe & Martinique,Guadeloupe
+1139,Guadeloupe & Martinique,Martinique
+1140,Guadeloupe & Martinique & Reunion (Bourbon I.),Guadeloupe
+1141,Guadeloupe & Martinique & Reunion (Bourbon I.),Martinique
+1142,Guadeloupe & Martinique & Reunion (Bourbon I.),Reunion (Bourbon I.)
+1143,Guam & Philippines,Guam
+1144,Guam & Philippines,Philippines
+1145,Guangzhou (Canton) & Manila,Guangzhou (Canton)
+1146,Guangzhou (Canton) & Manila,Manila
+1147,Guatemala & Mexico,Guatemala
+1148,Guatemala & Mexico,Mexico
+1149,Guatemala & Mexico & Texas,Guatemala
+1150,Guatemala & Mexico & Texas,Mexico
+1151,Guatemala & Mexico & Texas,Texas
+1152,Guatemala & Nicaragua,Guatemala
+1153,Guatemala & Nicaragua,Nicaragua
+1154,Guyana (British Guiana) & Venezuela,Guyana (British Guiana)
+1155,Guyana (British Guiana) & Venezuela,Venezuela
+1156,Haiti & Puerto Rico,Haiti
+1157,Haiti & Puerto Rico,Puerto Rico
+1158,Haiti & Venezuela,Haiti
+1159,Haiti & Venezuela,Venezuela
+1160,Hamburg & Lübeck,Hamburg
+1161,Hamburg & Lübeck,Lübeck
+1162,Hamburg & North Germany,Hamburg
+1163,Hamburg & North Germany,North Germany
+1164,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Hanover
+1165,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Hanse Towns (Bremen
+1166,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
+1167,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck)
+1168,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hanover
+1169,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hanse Towns (Bremen
+1170,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Hamburg
+1171,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Lübeck)
+1172,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Heligoland
+1173,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Kniphausen
+1174,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
+1175,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,Oldenburg
+1176,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin,Hanover
+1177,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin,Hanse Towns (Bremen
+1178,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin,Hamburg
+1179,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin,Lübeck)
+1180,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin,Mecklenburg Schwerin
+1181,Hanover & Mecklenburg Schwerin,Hanover
+1182,Hanover & Mecklenburg Schwerin,Mecklenburg Schwerin
+1183,Hanover & Mecklenburg Schwerin & Oldenburg,Hanover
+1184,Hanover & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
+1185,Hanover & Mecklenburg Schwerin & Oldenburg,Oldenburg
+1186,Hanover & Mecklenburg Schwerin & Prussia,Hanover
+1187,Hanover & Mecklenburg Schwerin & Prussia,Mecklenburg Schwerin
+1188,Hanover & Mecklenburg Schwerin & Prussia,Prussia
+1189,Hanover & Oldenburg,Hanover
+1190,Hanover & Oldenburg,Oldenburg
+1191,Hanse Towns (Bremen & Hamburg & Lübeck),Hanse Towns (Bremen
+1192,Hanse Towns (Bremen & Hamburg & Lübeck),Hamburg
+1193,Hanse Towns (Bremen & Hamburg & Lübeck),Lübeck)
+1194,Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg,Hanse Towns (Bremen
+1195,Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg,Hamburg
+1196,Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg,Lübeck)
+1197,Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
+1198,Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg,Oldenburg
+1199,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Hanse Towns (Bremen
+1200,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Hamburg
+1201,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Lübeck)
+1202,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,Netherlands
+1203,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Hanse Towns (Bremen
+1204,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Hamburg
+1205,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Lübeck)
+1206,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,Prussia
+1207,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,Hawaii (Sandwich Is.)
+1208,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,Puerto Rico
+1209,Hawaii (Sandwich Is.) & Puerto Rico & United States of America,United States of America
+1210,Hawaii (Sandwich Is.) & Samoa,Hawaii (Sandwich Is.)
+1211,Hawaii (Sandwich Is.) & Samoa,Samoa
+1212,Hawaii (Sandwich Is.) & United States of America,Hawaii (Sandwich Is.)
+1213,Hawaii (Sandwich Is.) & United States of America,United States of America
+1214,Hejaz Sultanate & Turkey (Ottoman Empire) (other),Hejaz Sultanate
+1215,Hejaz Sultanate & Turkey (Ottoman Empire) (other),Turkey (Ottoman Empire) (other)
+1216,Holstein & Schleswig,Holstein
+1217,Holstein & Schleswig,Schleswig
+1218,Honduras & Mexico (East),Honduras
+1219,Honduras & Mexico (East),Mexico (East)
+1220,Honduras & Panama,Honduras
+1221,Honduras & Panama,Panama
+1222,Hong Kong & India,Hong Kong
+1223,Hong Kong & India,India
+1224,Hong Kong & Kiauchau & People's Republic of China (China),Hong Kong
+1225,Hong Kong & Kiauchau & People's Republic of China (China),Kiauchau
+1226,Hong Kong & Kiauchau & People's Republic of China (China),People's Republic of China (China)
+1227,Hong Kong & People's Republic of China (China),Hong Kong
+1228,Hong Kong & People's Republic of China (China),People's Republic of China (China)
+1229,Hong Kong & People's Republic of China (China) & Singapore,Hong Kong
+1230,Hong Kong & People's Republic of China (China) & Singapore,People's Republic of China (China)
+1231,Hong Kong & People's Republic of China (China) & Singapore,Singapore
+1232,India & Japan & People's Republic of China (China),India
+1233,India & Japan & People's Republic of China (China),Japan
+1234,India & Japan & People's Republic of China (China),People's Republic of China (China)
+1235,India & Malaysia (British Malaya),India
+1236,India & Malaysia (British Malaya),Malaysia (British Malaya)
+1237,India & Malaysia (British Malaya) & Sri Lanka (Ceylon),India
+1238,India & Malaysia (British Malaya) & Sri Lanka (Ceylon),Malaysia (British Malaya)
+1239,India & Malaysia (British Malaya) & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+1240,India & Mauritius,India
+1241,India & Mauritius,Mauritius
+1242,India & Myanmar (Burma),India
+1243,India & Myanmar (Burma),Myanmar (Burma)
+1244,India & Myanmar (Burma) & Straits Settlements,India
+1245,India & Myanmar (Burma) & Straits Settlements,Myanmar (Burma)
+1246,India & Myanmar (Burma) & Straits Settlements,Straits Settlements
+1247,India & New South Wales & United Kingdom,India
+1248,India & New South Wales & United Kingdom,New South Wales
+1249,India & New South Wales & United Kingdom,United Kingdom
+1250,India & Pacific Islands & People's Republic of China (China),India
+1251,India & Pacific Islands & People's Republic of China (China),Pacific Islands
+1252,India & Pacific Islands & People's Republic of China (China),People's Republic of China (China)
+1253,India & People's Republic of China (China),India
+1254,India & People's Republic of China (China),People's Republic of China (China)
+1255,India & People's Republic of China (China) & Singapore,India
+1256,India & People's Republic of China (China) & Singapore,People's Republic of China (China)
+1257,India & People's Republic of China (China) & Singapore,Singapore
+1258,India & Pondicherry,India
+1259,India & Pondicherry,Pondicherry
+1260,India & Sri Lanka (Ceylon),India
+1261,India & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+1262,India & Straits Settlements,India
+1263,India & Straits Settlements,Straits Settlements
+1264,Indonesia (Dutch East Indies) (other) & Java,Indonesia (Dutch East Indies) (other)
+1265,Indonesia (Dutch East Indies) (other) & Java,Java
+1266,Indonesia (Dutch East Indies) (other) & Java & Sumatra,Indonesia (Dutch East Indies) (other)
+1267,Indonesia (Dutch East Indies) (other) & Java & Sumatra,Java
+1268,Indonesia (Dutch East Indies) (other) & Java & Sumatra,Sumatra
+1269,Indonesia (Dutch East Indies) & Netherlands Antilles,Indonesia (Dutch East Indies)
+1270,Indonesia (Dutch East Indies) & Netherlands Antilles,Netherlands Antilles
+1271,Ionian Is. & Malta,Ionian Is.
+1272,Ionian Is. & Malta,Malta
+1273,Ionian Is. & Malta & United Kingdom,Ionian Is.
+1274,Ionian Is. & Malta & United Kingdom,Malta
+1275,Ionian Is. & Malta & United Kingdom,United Kingdom
+1276,Ionian Is. & Morea,Ionian Is.
+1277,Ionian Is. & Morea,Morea
+1278,Ionian Is. & Republic of St. Mark & Trieste,Ionian Is.
+1279,Ionian Is. & Republic of St. Mark & Trieste,Republic of St. Mark
+1280,Ionian Is. & Republic of St. Mark & Trieste,Trieste
+1281,Ionian Is. & United Kingdom,Ionian Is.
+1282,Ionian Is. & United Kingdom,United Kingdom
+1283,Iran (Persia) & Iraq (Mesopotamia),Iran (Persia)
+1284,Iran (Persia) & Iraq (Mesopotamia),Iraq (Mesopotamia)
+1285,Iran (Persia) & Western Anatolia,Iran (Persia)
+1286,Iran (Persia) & Western Anatolia,Western Anatolia
+1287,Iraq (Mesopotamia) & Kuwait,Iraq (Mesopotamia)
+1288,Iraq (Mesopotamia) & Kuwait,Kuwait
+1289,Ireland & United Kingdom,Ireland
+1290,Ireland & United Kingdom,United Kingdom
+1291,Istanbul (Constantinople) & Izmir (Smyrna),Istanbul (Constantinople)
+1292,Istanbul (Constantinople) & Izmir (Smyrna),Izmir (Smyrna)
+1293,Istanbul (Constantinople) & Turkey (Ottoman Empire) (other),Istanbul (Constantinople)
+1294,Istanbul (Constantinople) & Turkey (Ottoman Empire) (other),Turkey (Ottoman Empire) (other)
+1295,Italian Colonies & Italy,Italian Colonies
+1296,Italian Colonies & Italy,Italy
+1297,Italy & Malta,Italy
+1298,Italy & Malta,Malta
+1299,Italy & Sardinia,Italy
+1300,Italy & Sardinia,Sardinia
+1301,Jakarta (Batavia) & Java & Sumatra,Jakarta (Batavia)
+1302,Jakarta (Batavia) & Java & Sumatra,Java
+1303,Jakarta (Batavia) & Java & Sumatra,Sumatra
+1304,Jakarta (Batavia) & Singapore,Jakarta (Batavia)
+1305,Jakarta (Batavia) & Singapore,Singapore
+1306,Jamaica & Jamaica Dependencies,Jamaica
+1307,Jamaica & Jamaica Dependencies,Jamaica Dependencies
+1308,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Japan
+1309,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Japanese China Leased Territory
+1310,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
+1311,Japan & Korea (Chosen),Japan
+1312,Japan & Korea (Chosen),Korea (Chosen)
+1313,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),Japan
+1314,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),Korea (Chosen)
+1315,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
+1316,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Japan
+1317,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Kwangtung Territory (Leased)
+1318,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
+1319,Japan & People's Republic of China (China),Japan
+1320,Japan & People's Republic of China (China),People's Republic of China (China)
+1321,Japan & People's Republic of China (China) & Thailand (Siam),Japan
+1322,Japan & People's Republic of China (China) & Thailand (Siam),People's Republic of China (China)
+1323,Japan & People's Republic of China (China) & Thailand (Siam),Thailand (Siam)
+1324,Japan & Republic of China (Taiwan) (Formosa),Japan
+1325,Japan & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
+1326,Japan & Southern Sakhalin I.,Japan
+1327,Japan & Southern Sakhalin I.,Southern Sakhalin I.
+1328,Java & Madura Island,Java
+1329,Java & Madura Island,Madura Island
+1330,Java & Maluku Islands (Mollucas),Java
+1331,Java & Maluku Islands (Mollucas),Maluku Islands (Mollucas)
+1332,Java & Sumatra,Java
+1333,Java & Sumatra,Sumatra
+1334,Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,Jebel Druze
+1335,Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,Latakia (Alaouites)
+1336,Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,Lebanon
+1337,Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,Syria
+1338,Johore & Kedah & Kelantan & Perlis & Trengganu,Johore
+1339,Johore & Kedah & Kelantan & Perlis & Trengganu,Kedah
+1340,Johore & Kedah & Kelantan & Perlis & Trengganu,Kelantan
+1341,Johore & Kedah & Kelantan & Perlis & Trengganu,Perlis
+1342,Johore & Kedah & Kelantan & Perlis & Trengganu,Trengganu
+1343,Jordan (Transjordan) & Palestine,Jordan (Transjordan)
+1344,Jordan (Transjordan) & Palestine,Palestine
+1345,Karachi & Mumbai (Bombay),Karachi
+1346,Karachi & Mumbai (Bombay),Mumbai (Bombay)
+1347,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),Kenya (British East Africa Protectorate)
+1348,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),Malawi (Nyasaland) (British Central Africa Protectorate)
+1349,Kenya (British East Africa Protectorate) & Pemba Island & Zanzibar,Kenya (British East Africa Protectorate)
+1350,Kenya (British East Africa Protectorate) & Pemba Island & Zanzibar,Pemba Island
+1351,Kenya (British East Africa Protectorate) & Pemba Island & Zanzibar,Zanzibar
+1352,Kenya (British East Africa Protectorate) & Tanzania (Tanganyika) & Uganda,Kenya (British East Africa Protectorate)
+1353,Kenya (British East Africa Protectorate) & Tanzania (Tanganyika) & Uganda,Tanzania (Tanganyika)
+1354,Kenya (British East Africa Protectorate) & Tanzania (Tanganyika) & Uganda,Uganda
+1355,Kenya (British East Africa Protectorate) & Uganda,Kenya (British East Africa Protectorate)
+1356,Kenya (British East Africa Protectorate) & Uganda,Uganda
+1357,Kenya (British East Africa Protectorate) & Zanzibar,Kenya (British East Africa Protectorate)
+1358,Kenya (British East Africa Protectorate) & Zanzibar,Zanzibar
+1359,Kerguelen Is. & Madagascar (Malagasy Republic),Kerguelen Is.
+1360,Kerguelen Is. & Madagascar (Malagasy Republic),Madagascar (Malagasy Republic)
+1361,Kingdom of Sardinia & Monaco,Kingdom of Sardinia
+1362,Kingdom of Sardinia & Monaco,Monaco
+1363,Kingdom of Sardinia & Papal States & Tuscany & Two Sicilies,Kingdom of Sardinia
+1364,Kingdom of Sardinia & Papal States & Tuscany & Two Sicilies,Papal States
+1365,Kingdom of Sardinia & Papal States & Tuscany & Two Sicilies,Tuscany
+1366,Kingdom of Sardinia & Papal States & Tuscany & Two Sicilies,Two Sicilies
+1367,Kingdom of Sardinia & Papal States & Two Sicilies,Kingdom of Sardinia
+1368,Kingdom of Sardinia & Papal States & Two Sicilies,Papal States
+1369,Kingdom of Sardinia & Papal States & Two Sicilies,Two Sicilies
+1370,Kingdom of Sardinia & Tuscany,Kingdom of Sardinia
+1371,Kingdom of Sardinia & Tuscany,Tuscany
+1372,Kingdom of Sardinia & Tuscany & Two Sicilies,Kingdom of Sardinia
+1373,Kingdom of Sardinia & Tuscany & Two Sicilies,Tuscany
+1374,Kingdom of Sardinia & Tuscany & Two Sicilies,Two Sicilies
+1375,Kingdom of Sardinia & Two Sicilies,Kingdom of Sardinia
+1376,Kingdom of Sardinia & Two Sicilies,Two Sicilies
+1377,Kingdom of Serbia & Montenegro,Kingdom of Serbia
+1378,Kingdom of Serbia & Montenegro,Montenegro
+1379,Kingdom of Serbia & Montenegro & Romania,Kingdom of Serbia
+1380,Kingdom of Serbia & Montenegro & Romania,Montenegro
+1381,Kingdom of Serbia & Montenegro & Romania,Romania
+1382,Kniphausen & Oldenburg,Kniphausen
+1383,Kniphausen & Oldenburg,Oldenburg
+1384,Kolkata (Calcutta) & Sri Lanka (Ceylon),Kolkata (Calcutta)
+1385,Kolkata (Calcutta) & Sri Lanka (Ceylon),Sri Lanka (Ceylon)
+1386,Koszalin & Stralsund & Szczecin,Koszalin
+1387,Koszalin & Stralsund & Szczecin,Stralsund
+1388,Koszalin & Stralsund & Szczecin,Szczecin
+1389,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Kuwait
+1390,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Oman (Sultanate of Muscat and Oman)
+1391,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),United Arab Emirates (Trucial Oman)
+1392,Kwangtung Territory (Leased) & Manchukuo,Kwangtung Territory (Leased)
+1393,Kwangtung Territory (Leased) & Manchukuo,Manchukuo
+1394,Labuan I. & Straits Settlements,Labuan I.
+1395,Labuan I. & Straits Settlements,Straits Settlements
+1396,Latvia & Lithuania,Latvia
+1397,Latvia & Lithuania,Lithuania
+1398,Lauenburg & Schleswig-Holstein,Lauenburg
+1399,Lauenburg & Schleswig-Holstein,Schleswig-Holstein
+1400,Lebanon & Syria,Lebanon
+1401,Lebanon & Syria,Syria
+1402,Libya & Tunisia (Tunis),Libya
+1403,Libya & Tunisia (Tunis),Tunisia (Tunis)
+1404,Lisbon & Porto,Lisbon
+1405,Lisbon & Porto,Porto
+1406,Lithuania & Memel,Lithuania
+1407,Lithuania & Memel,Memel
+1408,Lucca & Modena & Papal States & Parma & Tuscany,Lucca
+1409,Lucca & Modena & Papal States & Parma & Tuscany,Modena
+1410,Lucca & Modena & Papal States & Parma & Tuscany,Papal States
+1411,Lucca & Modena & Papal States & Parma & Tuscany,Parma
+1412,Lucca & Modena & Papal States & Parma & Tuscany,Tuscany
+1413,Lucca & Monaco & Papal States,Lucca
+1414,Lucca & Monaco & Papal States,Monaco
+1415,Lucca & Monaco & Papal States,Papal States
+1416,Lucca & Papal States,Lucca
+1417,Lucca & Papal States,Papal States
+1418,Lucca & Tuscany,Lucca
+1419,Lucca & Tuscany,Tuscany
+1420,Macao & People's Republic of China (China),Macao
+1421,Macao & People's Republic of China (China),People's Republic of China (China)
+1422,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,Madagascar (Malagasy Republic)
+1423,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,Madagascar (Malagasy Republic) Dependencies
+1424,Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.),Madagascar (Malagasy Republic)
+1425,Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.),Mauritius
+1426,Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.),Reunion (Bourbon I.)
+1427,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Madagascar (Malagasy Republic)
+1428,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Mayotte
+1429,Madagascar (Malagasy Republic) & Mayotte & Nossi Be,Nossi Be
+1430,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,Madagascar (Malagasy Republic)
+1431,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,Mayotte
+1432,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,Nossi Be
+1433,Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,St. Marie de Madagascar
+1434,Madagascar (Malagasy Republic) & Reunion (Bourbon I.),Madagascar (Malagasy Republic)
+1435,Madagascar (Malagasy Republic) & Reunion (Bourbon I.),Reunion (Bourbon I.)
+1436,Madeira Isles & Portugal,Madeira Isles
+1437,Madeira Isles & Portugal,Portugal
+1438,Madeira Isles & Portuguese Africa,Madeira Isles
+1439,Madeira Isles & Portuguese Africa,Portuguese Africa
+1440,Madeira Isles & Tenerife,Madeira Isles
+1441,Madeira Isles & Tenerife,Tenerife
+1442,Makran & Sonmiani,Makran
+1443,Makran & Sonmiani,Sonmiani
+1444,Malabar Coast & Mumbai (Bombay),Malabar Coast
+1445,Malabar Coast & Mumbai (Bombay),Mumbai (Bombay)
+1446,Malacca & Myanmar (Burma) & Singapore,Malacca
+1447,Malacca & Myanmar (Burma) & Singapore,Myanmar (Burma)
+1448,Malacca & Myanmar (Burma) & Singapore,Singapore
+1449,Malacca & Penang,Malacca
+1450,Malacca & Penang,Penang
+1451,Malacca & Penang & Singapore,Malacca
+1452,Malacca & Penang & Singapore,Penang
+1453,Malacca & Penang & Singapore,Singapore
+1454,Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,Malawi (Nyasaland) (British Central Africa Protectorate)
+1455,Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,Straits Settlements
+1456,Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,Straits Settlements Dependencies
+1457,Malaysia (British Malaya) & Sarawak,Malaysia (British Malaya)
+1458,Malaysia (British Malaya) & Sarawak,Sarawak
+1459,Malaysia (British Malaya) & Straits Settlements,Malaysia (British Malaya)
+1460,Malaysia (British Malaya) & Straits Settlements,Straits Settlements
+1461,Malaysia (British Malaya) & Sumatra,Malaysia (British Malaya)
+1462,Malaysia (British Malaya) & Sumatra,Sumatra
+1463,Mali (French Sudan) (Upper Senegal and Niger) & Senegal,Mali (French Sudan) (Upper Senegal and Niger)
+1464,Mali (French Sudan) (Upper Senegal and Niger) & Senegal,Senegal
+1465,Malta & Two Sicilies,Malta
+1466,Malta & Two Sicilies,Two Sicilies
+1467,Malta & United Kingdom,Malta
+1468,Malta & United Kingdom,United Kingdom
+1469,Maluku Islands (Mollucas) & Sulawesi (Celebes),Maluku Islands (Mollucas)
+1470,Maluku Islands (Mollucas) & Sulawesi (Celebes),Sulawesi (Celebes)
+1471,Maluku Islands (Mollucas) & Sunda Islands,Maluku Islands (Mollucas)
+1472,Maluku Islands (Mollucas) & Sunda Islands,Sunda Islands
+1473,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,Manchukuo
+1474,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,Mongolia
+1475,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,People's Republic of China (China)
+1476,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,Tibet
+1477,Manchuria & Mongolia & People's Republic of China (China),Manchuria
+1478,Manchuria & Mongolia & People's Republic of China (China),Mongolia
+1479,Manchuria & Mongolia & People's Republic of China (China),People's Republic of China (China)
+1480,Manchuria & People's Republic of China (China),Manchuria
+1481,Manchuria & People's Republic of China (China),People's Republic of China (China)
+1482,Manica Province & Sofala Province,Manica Province
+1483,Manica Province & Sofala Province,Sofala Province
+1484,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Manitoba
+1485,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,North-Western Territory
+1486,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Ontario (Upper Canada)
+1487,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Quebec (Lower Canada)
+1488,Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,Rupert's Land
+1489,Manitoba & Northwest Territories & Ontario (Upper Canada) & Quebec (Lower Canada),Manitoba
+1490,Manitoba & Northwest Territories & Ontario (Upper Canada) & Quebec (Lower Canada),Northwest Territories
+1491,Manitoba & Northwest Territories & Ontario (Upper Canada) & Quebec (Lower Canada),Ontario (Upper Canada)
+1492,Manitoba & Northwest Territories & Ontario (Upper Canada) & Quebec (Lower Canada),Quebec (Lower Canada)
+1493,Mariana Is. & Philippines,Mariana Is.
+1494,Mariana Is. & Philippines,Philippines
+1495,Marshall Is. & Samoa,Marshall Is.
+1496,Marshall Is. & Samoa,Samoa
+1497,Mauritius & Mauritius Dependencies,Mauritius
+1498,Mauritius & Mauritius Dependencies,Mauritius Dependencies
+1499,Mauritius & Mauritius Dependencies & Seychelles,Mauritius
+1500,Mauritius & Mauritius Dependencies & Seychelles,Mauritius Dependencies
+1501,Mauritius & Mauritius Dependencies & Seychelles,Seychelles
+1502,Mauritius & Reunion (Bourbon I.),Mauritius
+1503,Mauritius & Reunion (Bourbon I.),Reunion (Bourbon I.)
+1504,Mauritius & South Africa,Mauritius
+1505,Mauritius & South Africa,South Africa
+1506,Mawlamyine & Rangoon,Mawlamyine
+1507,Mawlamyine & Rangoon,Rangoon
+1508,Mayotte & Nossi Be,Mayotte
+1509,Mayotte & Nossi Be,Nossi Be
+1510,Mayotte & Nossi Be & St. Marie de Madagascar,Mayotte
+1511,Mayotte & Nossi Be & St. Marie de Madagascar,Nossi Be
+1512,Mayotte & Nossi Be & St. Marie de Madagascar,St. Marie de Madagascar
+1513,Mecklenburg Schwerin & Lübeck,Mecklenburg Schwerin
+1514,Mecklenburg Schwerin & Lübeck,Lübeck
+1515,Mecklenburg Schwerin & Oldenburg,Mecklenburg Schwerin
+1516,Mecklenburg Schwerin & Oldenburg,Oldenburg
+1517,Mexico & Texas,Mexico
+1518,Mexico & Texas,Texas
+1519,Mexico & Venezuela,Mexico
+1520,Mexico & Venezuela,Venezuela
+1521,Milan & Papal States & Tuscany,Milan
+1522,Milan & Papal States & Tuscany,Papal States
+1523,Milan & Papal States & Tuscany,Tuscany
+1524,Modena & Monaco & Parma & Tuscany,Modena
+1525,Modena & Monaco & Parma & Tuscany,Monaco
+1526,Modena & Monaco & Parma & Tuscany,Parma
+1527,Modena & Monaco & Parma & Tuscany,Tuscany
+1528,Modena & Parma & Tuscany,Modena
+1529,Modena & Parma & Tuscany,Parma
+1530,Modena & Parma & Tuscany,Tuscany
+1531,Moldavia & Wallachia,Moldavia
+1532,Moldavia & Wallachia,Wallachia
+1533,Mongolia & People's Republic of China (China),Mongolia
+1534,Mongolia & People's Republic of China (China),People's Republic of China (China)
+1535,Mongolia & People's Republic of China (China) & Tibet,Mongolia
+1536,Mongolia & People's Republic of China (China) & Tibet,People's Republic of China (China)
+1537,Mongolia & People's Republic of China (China) & Tibet,Tibet
+1538,Morant Cays & Pedro Bank,Morant Cays
+1539,Morant Cays & Pedro Bank,Pedro Bank
+1540,Morocco & Tangier,Morocco
+1541,Morocco & Tangier,Tangier
+1542,Morocco & Tripolitania,Morocco
+1543,Morocco & Tripolitania,Tripolitania
+1544,Morocco & Tripolitania & Tunisia (Tunis),Morocco
+1545,Morocco & Tripolitania & Tunisia (Tunis),Tripolitania
+1546,Morocco & Tripolitania & Tunisia (Tunis),Tunisia (Tunis)
+1547,Morocco & Tunisia (Tunis),Morocco
+1548,Morocco & Tunisia (Tunis),Tunisia (Tunis)
+1549,Mozambique & Zambia (Northern Rhodesia),Mozambique
+1550,Mozambique & Zambia (Northern Rhodesia),Zambia (Northern Rhodesia)
+1551,Mozambique & Zanzibar,Mozambique
+1552,Mozambique & Zanzibar,Zanzibar
+1553,Mumbai (Bombay) & Sindh,Mumbai (Bombay)
+1554,Mumbai (Bombay) & Sindh,Sindh
+1555,Myanmar (Burma) & Straits Settlements,Myanmar (Burma)
+1556,Myanmar (Burma) & Straits Settlements,Straits Settlements
+1557,Myanmar (Burma) & Thailand (Siam),Myanmar (Burma)
+1558,Myanmar (Burma) & Thailand (Siam),Thailand (Siam)
+1559,Namibia (South West Africa) (German South West Africa) & South Africa,Namibia (South West Africa) (German South West Africa)
+1560,Namibia (South West Africa) (German South West Africa) & South Africa,South Africa
+1561,Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Namibia (South West Africa) (German South West Africa)
+1562,Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Zambia (Northern Rhodesia)
+1563,Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
+1564,Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),Nauru
+1565,Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),New Zealand
+1566,Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),Samoa (Western Samoa) (German Samoa)
+1567,Nauru & Samoa (Western Samoa) (German Samoa),Nauru
+1568,Nauru & Samoa (Western Samoa) (German Samoa),Samoa (Western Samoa) (German Samoa)
+1569,Netherlands Antilles & Surinam (Dutch Guiana),Netherlands Antilles
+1570,Netherlands Antilles & Surinam (Dutch Guiana),Surinam (Dutch Guiana)
+1571,Netherlands Antilles & West Irian (Dutch New Guinea),Netherlands Antilles
+1572,Netherlands Antilles & West Irian (Dutch New Guinea),West Irian (Dutch New Guinea)
+1573,New Brunswick & Nova Scotia,New Brunswick
+1574,New Brunswick & Nova Scotia,Nova Scotia
+1575,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),New Brunswick
+1576,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Nova Scotia
+1577,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Ontario (Upper Canada)
+1578,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Prince Edward Is.
+1579,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),Quebec (Lower Canada)
+1580,New Brunswick & Nova Scotia & Prince Edward Is.,New Brunswick
+1581,New Brunswick & Nova Scotia & Prince Edward Is.,Nova Scotia
+1582,New Brunswick & Nova Scotia & Prince Edward Is.,Prince Edward Is.
+1583,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),New Guinea (German New Guinea) (Kaiser Wilhelmsland)
+1584,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),Nauru
+1585,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),Samoa (Western Samoa) (German Samoa)
+1586,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
+1587,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies
+1588,New South Wales & Queensland,New South Wales
+1589,New South Wales & Queensland,Queensland
+1590,New South Wales & South Australia & Tasmania & Victoria,New South Wales
+1591,New South Wales & South Australia & Tasmania & Victoria,South Australia
+1592,New South Wales & South Australia & Tasmania & Victoria,Tasmania
+1593,New South Wales & South Australia & Tasmania & Victoria,Victoria
+1594,New South Wales & Western Australia,New South Wales
+1595,New South Wales & Western Australia,Western Australia
+1596,Newfoundland and Labrador (Newfoundland) & Prince Edward Is.,Newfoundland and Labrador (Newfoundland)
+1597,Newfoundland and Labrador (Newfoundland) & Prince Edward Is.,Prince Edward Is.
+1598,North Germany & Prussia,North Germany
+1599,North Germany & Prussia,Prussia
+1600,Norway & Spain & Sweden & Switzerland & United States of America,Norway
+1601,Norway & Spain & Sweden & Switzerland & United States of America,Spain
+1602,Norway & Spain & Sweden & Switzerland & United States of America,Sweden
+1603,Norway & Spain & Sweden & Switzerland & United States of America,Switzerland
+1604,Norway & Spain & Sweden & Switzerland & United States of America,United States of America
+1605,Norway & Sweden,Norway
+1606,Norway & Sweden,Sweden
+1607,Obock & Tadjoura,Obock
+1608,Obock & Tadjoura,Tadjoura
+1609,Oldenburg & Prussia,Oldenburg
+1610,Oldenburg & Prussia,Prussia
+1611,Oldenburg & Wilhelmshaven,Oldenburg
+1612,Oldenburg & Wilhelmshaven,Wilhelmshaven
+1613,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Oman (Sultanate of Muscat and Oman)
+1614,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),United Arab Emirates (Trucial Oman)
+1615,Oman (Sultanate of Muscat and Oman) & Zanzibar,Oman (Sultanate of Muscat and Oman)
+1616,Oman (Sultanate of Muscat and Oman) & Zanzibar,Zanzibar
+1617,Ontario (Upper Canada) & Quebec (Lower Canada),Ontario (Upper Canada)
+1618,Ontario (Upper Canada) & Quebec (Lower Canada),Quebec (Lower Canada)
+1619,Palestine & Syria,Palestine
+1620,Palestine & Syria,Syria
+1621,Panama & Panama Canal Zone,Panama
+1622,Panama & Panama Canal Zone,Panama Canal Zone
+1623,Papal States & Tuscany,Papal States
+1624,Papal States & Tuscany,Tuscany
+1625,Paraguay & Uruguay,Paraguay
+1626,Paraguay & Uruguay,Uruguay
+1627,Patras & Pylos,Patras
+1628,Patras & Pylos,Pylos
+1629,Pays de Gex & Savoy,Pays de Gex
+1630,Pays de Gex & Savoy,Savoy
+1631,Pemba Island & Zanzibar,Pemba Island
+1632,Pemba Island & Zanzibar,Zanzibar
+1633,People's Republic of China (China) & Philippines,People's Republic of China (China)
+1634,People's Republic of China (China) & Philippines,Philippines
+1635,People's Republic of China (China) & Philippines & Thailand (Siam),People's Republic of China (China)
+1636,People's Republic of China (China) & Philippines & Thailand (Siam),Philippines
+1637,People's Republic of China (China) & Philippines & Thailand (Siam),Thailand (Siam)
+1638,Philippines & Sulu Sultanate,Philippines
+1639,Philippines & Sulu Sultanate,Sulu Sultanate
+1640,Phuket Province & Thailand (Siam),Phuket Province
+1641,Phuket Province & Thailand (Siam),Thailand (Siam)
+1642,Piedmont & Sardinia,Piedmont
+1643,Piedmont & Sardinia,Sardinia
+1644,Piedmont & Tuscany,Piedmont
+1645,Piedmont & Tuscany,Tuscany
+1646,Poland & Russia (USSR),Poland
+1647,Poland & Russia (USSR),Russia (USSR)
+1648,Portugal & Portuguese Colonies,Portugal
+1649,Portugal & Portuguese Colonies,Portuguese Colonies
+1650,Portugal & Portuguese East Africa,Portugal
+1651,Portugal & Portuguese East Africa,Portuguese East Africa
+1652,Portugal & Spain,Portugal
+1653,Portugal & Spain,Spain
+1654,Portuguese Africa & Portuguese Asia,Portuguese Africa
+1655,Portuguese Africa & Portuguese Asia,Portuguese Asia
+1656,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",Portuguese Africa
+1657,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
+1658,Portuguese Asia & Portuguese Oceania,Portuguese Asia
+1659,Portuguese Asia & Portuguese Oceania,Portuguese Oceania
+1660,Prince Edward Is. & St. Thomas,Prince Edward Is.
+1661,Prince Edward Is. & St. Thomas,St. Thomas
+1662,Puerto Rico & Spanish West Indies (other),Puerto Rico
+1663,Puerto Rico & Spanish West Indies (other),Spanish West Indies (other)
+1664,Puerto Rico & St. Croix & St. Thomas,Puerto Rico
+1665,Puerto Rico & St. Croix & St. Thomas,St. Croix
+1666,Puerto Rico & St. Croix & St. Thomas,St. Thomas
+1667,Puerto Rico & St. Thomas,Puerto Rico
+1668,Puerto Rico & St. Thomas,St. Thomas
+1669,Puerto Rico & Virgin Islands (Danish West Indies),Puerto Rico
+1670,Puerto Rico & Virgin Islands (Danish West Indies),Virgin Islands (Danish West Indies)
+1671,Republic of St. Mark & Trieste,Republic of St. Mark
+1672,Republic of St. Mark & Trieste,Trieste
+1673,Ruanda-Urundi & Tanzania (Tanganyika),Ruanda-Urundi
+1674,Ruanda-Urundi & Tanzania (Tanganyika),Tanzania (Tanganyika)
+1675,Russia (Baltic Sea) & Russia (White Sea),Russia (Baltic Sea)
+1676,Russia (Baltic Sea) & Russia (White Sea),Russia (White Sea)
+1677,Russia (USSR) & Russian Colonies,Russia (USSR)
+1678,Russia (USSR) & Russian Colonies,Russian Colonies
+1679,Samoa & Tonga (Haʻapai),Samoa
+1680,Samoa & Tonga (Haʻapai),Tonga (Haʻapai)
+1681,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Saudi Arabia (Emirate of Nejd)
+1682,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
+1683,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Altenburg
+1684,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Coburg and Gotha
+1685,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Meiningen
+1686,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Weimar
+1687,Senegal & Senegal Dependencies,Senegal
+1688,Senegal & Senegal Dependencies,Senegal Dependencies
+1689,Seychelles & Seychelles Dependencies,Seychelles
+1690,Seychelles & Seychelles Dependencies,Seychelles Dependencies
+1691,Singapore & Straits Settlements,Singapore
+1692,Singapore & Straits Settlements,Straits Settlements
+1693,South Africa & South West Africa,South Africa
+1694,South Africa & South West Africa,South West Africa
+1695,South Africa & Zambia (Northern Rhodesia),South Africa
+1696,South Africa & Zambia (Northern Rhodesia),Zambia (Northern Rhodesia)
+1697,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),South Africa
+1698,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
+1699,Spain & Spanish Colonies,Spain
+1700,Spain & Spanish Colonies,Spanish Colonies
+1701,Spain & Spanish West Indies,Spain
+1702,Spain & Spanish West Indies,Spanish West Indies
+1703,Spanish Morocco & Tangier,Spanish Morocco
+1704,Spanish Morocco & Tangier,Tangier
+1705,Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,Sri Lanka (Ceylon)
+1706,Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,Sri Lanka (Ceylon) Dependencies
+1707,Sri Lanka (Ceylon) & Thailand (Siam),Sri Lanka (Ceylon)
+1708,Sri Lanka (Ceylon) & Thailand (Siam),Thailand (Siam)
+1709,St. Croix & St. John & St. Thomas,St. Croix
+1710,St. Croix & St. John & St. Thomas,St. John
+1711,St. Croix & St. John & St. Thomas,St. Thomas
+1712,St. Croix & St. Thomas,St. Croix
+1713,St. Croix & St. Thomas,St. Thomas
+1714,Straits Settlements & Straits Settlements Dependencies,Straits Settlements
+1715,Straits Settlements & Straits Settlements Dependencies,Straits Settlements Dependencies
+1716,Sweden & Swedish Colonies,Sweden
+1717,Sweden & Swedish Colonies,Swedish Colonies
+1718,Syria & Turkey (Ottoman Empire),Syria
+1719,Syria & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+1720,Syria & Western Anatolia,Syria
+1721,Syria & Western Anatolia,Western Anatolia
+1722,Tortola & Virgin Gorda,Tortola
+1723,Tortola & Virgin Gorda,Virgin Gorda
+1724,Tripolitania & Tunisia (Tunis),Tripolitania
+1725,Tripolitania & Tunisia (Tunis),Tunisia (Tunis)
+1726,Turkey (Ottoman Empire) & Western Anatolia,Turkey (Ottoman Empire)
+1727,Turkey (Ottoman Empire) & Western Anatolia,Western Anatolia
+1728,West Irian (Dutch New Guinea) & Dutch Oceania (other),West Irian (Dutch New Guinea)
+1729,West Irian (Dutch New Guinea) & Dutch Oceania (other),Dutch Oceania (other)
+1730,Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Zambia (Northern Rhodesia)
+1731,Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
