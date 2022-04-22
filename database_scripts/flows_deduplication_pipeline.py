@@ -269,8 +269,20 @@ def deduplicate_flows():
     for reporting, year, gtypes in c:
         types = sorted(gtypes.split(','))
         removed = False
+        # when a primary_yearbook source cooccurres with a primary
+        if "primary_yearbook" in types and "primary" in types:
+            # remove the secondary
+            sub_c.execute(
+                """DELETE FROM flow_joined WHERE type='primary_yearbook' AND reporting=? AND year=?""", (reporting, year))
+            removed = True
+            if reporting in primarysecondaryestimation_duplicates:
+                primarysecondaryestimation_duplicates[reporting].append(
+                    (year, sub_c.rowcount, 'primary_yearbook'))
+            else:
+                primarysecondaryestimation_duplicates[reporting] = [
+                    (year, sub_c.rowcount, 'primary_yearbook')]
         # when a secondary source cooccurres with a primary
-        if "secondary" in types and "primary" in types:
+        if "secondary" in types and ("primary_yearbook" in types or "primary" in types):
             # remove the secondary
             sub_c.execute(
                 """DELETE FROM flow_joined WHERE type='secondary' AND reporting=? AND year=?""", (reporting, year))
@@ -282,7 +294,7 @@ def deduplicate_flows():
                 primarysecondaryestimation_duplicates[reporting] = [
                     (year, sub_c.rowcount, 'secondary')]
         # when an estimation source cooccurres with a primary
-        if "estimation" in types and ("secondary" in types or "primary" in types):
+        if "estimation" in types and ("secondary" in types or "primary_yearbook" in types or "primary" in types):
             # remove the estimation
             sub_c.execute(
                 """DELETE FROM flow_joined WHERE type='estimation' AND partner!='World estimated' AND reporting=? AND year=?""", (reporting, year))
@@ -298,21 +310,14 @@ def deduplicate_flows():
                   (types, reporting, year))
     # logging what was done
     for reporting, years in primarysecondaryestimation_duplicates.items():
-        nb_flows_secondary = sum(n for (y, n, t) in years if t == 'secondary')
-        years_secondary = (y for (y, n, t) in years if t == 'secondary')
-        years_secondary = ','.join('-'.join(str(e) for e in p)
-                                   for p in custom_exports.reduce_years_list_into_periods(years_secondary))
-        if nb_flows_secondary > 0:
-            print("%s: %s secondary flows %s" %
-                  (reporting, nb_flows_secondary, years_secondary))
-        nb_flows_estimation = sum(
-            n for (y, n, t) in years if t == 'estimation')
-        years_estimation = (y for (y, n, t) in years if t == 'estimation')
-        years_estimation = ','.join('-'.join(str(e) for e in p)
-                                    for p in custom_exports.reduce_years_list_into_periods(years_estimation))
-        if nb_flows_estimation > 0:
-            print("%s: %s estimation flows %s" %
-                  (reporting, nb_flows_estimation, years_estimation))
+        for type in ['primary_yearbook', 'secondary', 'estimation']:
+            nb_flows_dups = sum(n for (y, n, t) in years if t == type)
+            years_dups = (y for (y, n, t) in years if t == type)
+            years_dups = ','.join('-'.join(str(e) for e in p)
+                                  for p in custom_exports.reduce_years_list_into_periods(years_dups))
+            if nb_flows_dups > 0:
+                print("%s: %s %s flows %s" %
+                      (reporting, nb_flows_dups, type, years_dups))
 
     # this second query gets duplicated 'World as reported' flows due to
     # different sources for the same reportingg / year.
@@ -331,8 +336,19 @@ def deduplicate_flows():
     for reporting, year, gtypes in c:
         types = sorted(gtypes.split(','))
         removed = False
-        # when a secondary source cooccurres with a primary
-        if "secondary" in types and "primary" in types:
+        if "primary_yearbook" in types and "primary" in types:
+            # remove the secondary
+            sub_c.execute(
+                """DELETE FROM flow_joined WHERE type='primary_yearbook' AND partner = 'World as reported' AND reporting=? AND year=?""", (reporting, year))
+            removed = True
+            if reporting in primarysecondaryestimation_duplicates:
+                primarysecondaryestimation_duplicates[reporting].append(
+                    (year, sub_c.rowcount, 'primary_yearbook'))
+            else:
+                primarysecondaryestimation_duplicates[reporting] = [
+                    (year, sub_c.rowcount, 'primary_yearbook')]
+        # when a secondary source cooccurres with a primary or primary_yearbook
+        if "secondary" in types and ("primary_yearbook" in types or "primary" in types):
             # remove the secondary
             sub_c.execute(
                 """DELETE FROM flow_joined WHERE type='secondary' AND partner = 'World as reported' AND reporting=? AND year=?""", (reporting, year))
@@ -344,7 +360,7 @@ def deduplicate_flows():
                 primarysecondaryestimation_duplicates[reporting] = [
                     (year, sub_c.rowcount, 'secondary')]
         # when an estimation source cooccurres with a primary
-        if "estimation" in types and ("secondary" in types or "primary" in types):
+        if "estimation" in types and ("secondary" in types or "primary_yearbook" in types or "primary" in types):
             # remove the estimation
             sub_c.execute(
                 """DELETE FROM flow_joined WHERE type='estimation' AND partner = 'World as reported' AND reporting=? AND year=?""", (reporting, year))
@@ -360,21 +376,14 @@ def deduplicate_flows():
                   (types, reporting, year))
     # logging what was done
     for reporting, years in primarysecondaryestimation_duplicates.items():
-        nb_flows_secondary = sum(n for (y, n, t) in years if t == 'secondary')
-        years_secondary = (y for (y, n, t) in years if t == 'secondary')
-        years_secondary = ','.join('-'.join(str(e) for e in p)
-                                   for p in custom_exports.reduce_years_list_into_periods(years_secondary))
-        if nb_flows_secondary > 0:
-            print("%s: %s secondary World as reported flows %s" %
-                  (reporting, nb_flows_secondary, years_secondary))
-        nb_flows_estimation = sum(
-            n for (y, n, t) in years if t == 'estimation')
-        years_estimation = (y for (y, n, t) in years if t == 'estimation')
-        years_estimation = ','.join('-'.join(str(e) for e in p)
-                                    for p in custom_exports.reduce_years_list_into_periods(years_estimation))
-        if nb_flows_estimation > 0:
-            print("%s: %s estimation World as reported flows %s" %
-                  (reporting, nb_flows_estimation, years_estimation))
+        for type in ['primary_yearbook', 'secondary', 'estimation']:
+            nb_flows_dups = sum(n for (y, n, t) in years if t == type)
+            years_dups = (y for (y, n, t) in years if t == type)
+            years_dups = ','.join('-'.join(str(e) for e in p)
+                                  for p in custom_exports.reduce_years_list_into_periods(years_dups))
+            if nb_flows_dups > 0:
+                print("%s: %s %s World as reported flows %s" %
+                      (reporting, nb_flows_dups, type, years_dups))
 
     sub_c.close()
 
