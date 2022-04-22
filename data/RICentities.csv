@@ -11,7 +11,7 @@ Aden & Algeria (Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt)
 Aden & Arabia,geographical_area,Asia,,,
 Aden & Asian Turkey & Egypt Arab Republic (Egypt),group,World,,Aden_AsianTurkey_EgyptArabRepublicEgypt,
 Aden & Bahrain,group,Asia,,,
-Aden & British colonies (other),group,World,,,
+Aden & British Colonies (other),group,World,,,
 Aden & British East Africa,group,World,,Aden_BritishEastAfrica,
 Aden & India,group,Asia,,Aden_India,
 Aden & India & Sri Lanka (Ceylon),group,Asia,,,
@@ -89,7 +89,7 @@ Alo (Futuna),GPH_entity,Oceania,9324,,
 Alsace Lorraine,GPH_entity,Europe,2201,,
 Altona,city/part_of,Europe,,Altona,Holstein
 Altona & Hamburg,group,Europe,,Altona_Hamburg,
-Altona & Holstein,group,Europe,,,
+Altona & Holstein,city/part_of,Europe,,,Holstein
 Altona & Holstein & Schleswig,group,Europe,,,
 Altona & Wandsbeck,group,Europe,,Altona_Wandsbeck,
 Ambon Island,city/part_of,Asia,,AmbonIsland,Indonesia (Dutch East Indies)
@@ -99,7 +99,8 @@ America (other) & Europe (other),geographical_area,World,,Americaother_Europeoth
 America & Pacific Islands & West Indies (other),geographical_area,World,,,
 American America,colonial_area,America,,,United States of America
 American America & British America & Dutch America & French America,group,America,,,
-American America Is. & British America Is. & French America Is.,group,America,,,
+American America & British America & French America,group,America,,,
+American Asia,colonial_area,Asia,,,
 American Asia & American Oceania,group,World,,,
 American China,colonial_area,Asia,,AmericanChina,United States of America
 American Colonies,colonial_area,World,,,United States of America
@@ -150,12 +151,12 @@ Arabia & Hejaz Sultanate & Iraq (Mesopotamia),geographical_area,Asia,,,
 Arabia & Persian Gulf,geographical_area,Asia,,,
 Arabia & Persian Gulf & Red Sea,geographical_area,Asia,,,
 Arakan,city/part_of,Asia,,,Myanmar (Burma)
-Arakan & Bago (Pegu) & Mawlamyine & Rangoon,group,Asia,,,
+Arakan & Bago (Pegu) & Mawlamyine & Rangoon,city/part_of,Asia,,,Myanmar (Burma)
 Arakan & Chittagong & Tanintharyi Region,group,Asia,,Arakan_Chittagong_TanintharyiRegion,
-Arakan & Tanintharyi Region,group,Asia,,Aracan_TanintharyiRegion,
+Arakan & Tanintharyi Region,city/part_of,Asia,,Aracan_TanintharyiRegion,Myanmar (Burma)
 Archipel,city/part_of,Europe,,Archipel,
 Arctic,geographical_area,Arctic,,Arctic,
-Arctic & Faeroe Is. Iceland,group,World,,,
+Arctic & Faeroe Is. & Iceland,group,World,,,
 Arctic & Greenland & North Sea,geographical_area,World,,Arctic_Greenland_NorthSea,
 Arctic & North Sea,geographical_area,World,,,
 Argentina (La Plata),GPH_entity,America,160,ArgentinaLaPlata,
@@ -381,11 +382,11 @@ Bremen,GPH_entity,Europe,246,Bremen,
 Bremen (Weser),city/part_of,Europe,,,Bremen
 Bremen & Hamburg,group,Europe,,Bremen_Hamburg,
 Bremen & Hamburg & Mecklenburg Schwerin,group,Europe,,,
-Bremen & Hamburg & Prussia,city/part_of,Europe,,,Germany (Zollverein)
+Bremen & Hamburg & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
 Bremen & Lübeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
-Bremerhaven & Geestemünde,city/part_of,Europe,,,
+Bremerhaven & Geestemünde,city/part_of,Europe,,,Germany (Zollverein)
 Bridgwater,city/part_of,Europe,,,United Kingdom
 British Africa,colonial_area,Africa,,BritishAfrica,United Kingdom
 British Africa (other),colonial_area,America,,BritishAfricaother,United Kingdom
@@ -560,7 +561,7 @@ Cayman Is.,GPH_entity,America,1033,CaymanIs,
 Central Africa,geographical_area,Africa,,,
 Central African Republic (Ubangi Shari),GPH_entity,Africa,482,,
 Central African Republic (Ubangi Shari) & Chad,group,Africa,,,
-Central African Republic (Ubangi Shari) & Congo (Brazaville) (French Congo) (Middle Congo),group,Africa,,,
+Central African Republic (Ubangi Shari) & Congo (Brazzaville) (French Congo) (Middle Congo),group,Africa,,,
 Central America,geographical_area,America,,CentralAmerica,
 Central America (Continental) (other),geographical_area,America,,,
 Central America (Insular) (other),geographical_area,America,,,
@@ -628,7 +629,7 @@ Colón,city/part_of,America,,Col�n,Panama
 Colón & Panama,group,America,,,
 Comoros,GPH_entity,Africa,581,,
 Comoros & Madagascar (Malagasy Republic),group,Africa,,,
-Congo (Brazaville) (French Congo) (Middle Congo) & Guinea Coast,group,Africa,,,
+Congo (Brazzaville) (French Congo) (Middle Congo) & Guinea Coast,group,Africa,,,
 Congo (Brazzaville) (French Congo) (Middle Congo),GPH_entity,Africa,484,CongoBrazzavilleFrenchCongoMiddleCongo,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,group,Africa,,,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
@@ -744,7 +745,7 @@ Digby,city/part_of,America,,,Nova Scotia
 Diyarbakir,city/part_of,Asia,,,Turkey (Ottoman Empire)
 Djibouti (Afar and Issas) (French Somaliland),GPH_entity,Africa,522,DjiboutiAfarandIssasFrenchSomaliland,
 Djibouti (Afar and Issas) (French Somaliland) & Eritrea,group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_Eritrea,
-Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abbyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),group,Africa,,,
+Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian),group,Africa,,,
 Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia),group,Africa,,,
 Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,group,Africa,,,
 Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_ItalianSomaliland_SomalilandRepublicBritishSomaliland,
@@ -878,6 +879,7 @@ Fanning I.,GPH_entity,Oceania,9453,,
 Far Eastern Republic,GPH_entity,Europe,735,,
 Federated Malay States,GPH_entity,Asia,821,FederatedMalayStates,
 Federated Malay States & Straits Settlements,group,Asia,,,
+Federated States of Micronesia,GPH_entity,Oceania,987,,
 Federated States of Micronesia & French Polynesia,group,Oceania,,,
 Federation of South Arabia,GPH_entity,Asia,6801,,
 Feodosia,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
@@ -975,6 +977,7 @@ French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy
 French West Indies & St. Pierre and Miquelon,group,America,,,
 Futa Djallon,GPH_entity,Africa,4381,,
 Gabon,GPH_entity,Africa,481,Gabon,
+Galapagos Is.,GPH_entity,America,1301,,
 Galați,city/part_of,Europe,,,Moldavia
 Galați & Odessa,group,Europe,,,
 Galicia,city/part_of,Europe,,,Austria (Austrian Empire)
@@ -1082,7 +1085,7 @@ Güiria,city/part_of,America,,,Venezuela
 Gulf of Mexico,geographical_area,America,,,
 Guyana (British Guiana),GPH_entity,America,110,GuyanaBr.Guiana,
 Guyana (British Guiana) (other),city/part_of,America,,,Guyana (British Guiana)
-Guyana (British Guyana) & Venezuela,group,America,,,
+Guyana (British Guiana) & Venezuela,group,America,,,
 Hadhramaut,city/part_of,Asia,,,Aden Protectorate
 Haiti,GPH_entity,America,41,Haiti,
 Haiti & Puerto Rico,group,America,,,
@@ -1229,6 +1232,7 @@ Java (foreign flag),city/part_of,Asia,,Javaforeignflag,Indonesia (Dutch East Ind
 Java & Madura Island,group,Asia,,Java_MaduraIsland,
 Java & Maluku Islands (Mollucas),group,Asia,,Java_MalukuIslandsMollucas,
 Java & Sumatra,group,Asia,,Java_Sumatra,
+Jebel Druze,GPH_entity,Asia,6527,,
 Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,group,Asia,,,
 Jeddah,city/part_of,Africa,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd)
 Jérémie,city/part_of,America,,J�r�mie,Haiti
@@ -1408,6 +1412,7 @@ Manchukuo & Mongolia & People's Republic of China (China) & Tibet,group,Asia,,,
 Manchuria,GPH_entity,Asia,7111,Manchuria,
 Manchuria & Mongolia & People's Republic of China (China),group,Asia,,Manchuria_Mongolia_PeoplesRepublicofChinaChina,
 Manchuria & People's Republic of China (China),group,Asia,,Manchuria_PeoplesRepublicofChinaChina,
+Manica Province,city/part_of,Africa,,,Mozambique
 Manica Province & Sofala Province,group,Africa,,,
 Manila,city/part_of,Asia,,Manila,Philippines
 Manitoba,city/part_of,America,,Manitoba,Canada (Province of Canada)
@@ -1442,7 +1447,7 @@ Mayotte & Nossi Be & St. Marie de Madagascar,group,Africa,,Mayotte_NossiBe_StMar
 Mazatlán,city/part_of,America,,Mazatl�n,Mexico
 Mecca,city/part_of,Asia,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd)
 Mecca & Persian Gulf,geographical_area,Asia,,Mecca_PersianGulf,
-Mecklenburg & Lübeck,group,Europe,,,
+Mecklenburg Schwerin & Lübeck,group,Europe,,,
 Mecklenburg Schwerin,GPH_entity,Europe,280,MecklenburgSchwerin,
 Mecklenburg Schwerin & Oldenburg,group,Europe,,MecklenburgSchwerin_Oldenburg,
 Mediterranean Sea,geographical_area,World,,,
@@ -1504,7 +1509,7 @@ Nagapattinam,city/part_of,Asia,,Nagapattinam,India
 Nagore,city/part_of,Asia,,Nagore,India
 Namibia (South West Africa) (German South West Africa),GPH_entity,Africa,565,NamibiaSouthWestAfricaGermanSouthWestAfrica,
 Namibia (South West Africa) (German South West Africa) & South Africa,group,Africa,,,
-Namibia (South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
+Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
 Nantes,city/part_of,Europe,,Nantes,France
 Naples,city/part_of,Europe,,Naples,Two Sicilies
 Nassau (Bahamas),city/part_of,America,,Nassau,Bahamas
@@ -1697,7 +1702,7 @@ Port Medway,city/part_of,America,,,Nova Scotia
 Port Said,city/part_of,Asia,,,Egypt Arab Republic (Egypt)
 Port Simon,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
 Port Sudan,city/part_of,Africa,,,North Sudan (Sudan) (Anglo-Egyptian)
-Port Sudan & Suakin,group,Africa,,,
+Port Sudan & Suakin,city/part_of,Africa,,,North Sudan (Sudan) (Anglo-Egyptian)
 Port-au-Prince,city/part_of,America,,Port-au-Prince,Haiti
 Porto,city/part_of,Europe,,Porto,Portugal
 Porto Novo,GPH_entity,Africa,4348,PortoNovo,
@@ -1710,6 +1715,7 @@ Portuguese Africa (other),colonial_area,Africa,,PortugueseAfricaother,Portugal
 Portuguese Africa & Portuguese Asia,group,World,,PortugueseAfrica_PortugueseAsia,
 "Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",group,World,,PortugueseAfrica_PortugueseIndiainclGoaDiuDaman,
 Portuguese America,colonial_area,America,,PortugueseAmerica,Portugal
+Portuguese America (other),colonial_area,America,,,
 Portuguese Asia,colonial_area,Asia,,PortugueseAsia,Portugal
 Portuguese Asia & Asia (other),geographical_area,Asia,,,
 Portuguese Asia & Portuguese Oceania,group,World,,PortugueseAsia_PortugueseOceania,
@@ -1869,6 +1875,7 @@ Sint Maarten,GPH_entity,America,1073,,
 Sitka (Arkhangelsk),city/part_of,Europe,,RussiaUSSR,Alaska
 Society Is.,GPH_entity,Oceania,9601,SocietyIs.,
 Socotra I.,GPH_entity,Asia,6800,SocotraI.,
+Sofala Province,city/part_of,Africa,,,Mozambique
 Solomon Islands (British Solomon Islands Protectorate),GPH_entity,Oceania,940,SolomonIslandsBritishSolomonIslandsProtectorate,
 Somalia,GPH_entity,Africa,520,Somalia,
 Somaliland Republic (British Somaliland),GPH_entity,Africa,521,SomalilandRepublicBritishSomaliland,
@@ -1956,6 +1963,7 @@ Straits Settlements,GPH_entity,Asia,827,StraitsSettlements,
 Straits Settlements & Straits Settlements Dependencies,group,World,,,
 Straits Settlements Dependencies,city/part_of,Asia,,,Straits Settlements
 Stralsund,city/part_of,Europe,,Stralsund,Prussia
+Suakin,city/part_of,Africa,,,North Sudan (Sudan) (Anglo-Egyptian)
 Suez Canal Zone,GPH_entity,Africa,6514,SuezCanalZone,
 Sulawesi (Celebes),city/part_of,Asia,,SulawesiCelebes,Indonesia (Dutch East Indies)
 Sulu Sultanate,GPH_entity,Asia,8401,SuluSultanate,
@@ -1978,7 +1986,7 @@ Sweden (sea),,,,,
 Sweden & Swedish Colonies,group,World,,Sweden_SwedishColonies,
 Swedish America,colonial_area,America,,SwedishAmerica,Sweden
 Swedish Colonies,colonial_area,World,,,Sweden
-swedish west indies,colonial_area,America,,,
+Swedish West Indies,colonial_area,America,,,
 Switzerland,GPH_entity,Europe,225,Switzerland,
 Switzerland (by France and Hamburg),city/part_of,Europe,,SwitzerlandbyFranceandHamburg,Switzerland
 Switzerland (by France),city/part_of,Europe,,SwitzerlandbyFrance,Switzerland
@@ -2102,6 +2110,7 @@ Western Asia (other),geographical_area,Asia,,,
 Western Australia,GPH_entity,Oceania,902,WesternAustralia,
 Western Poland,city/part_of,Europe,,,Poland
 Weymouth,city/part_of,America,,,Nova Scotia
+Wilhelmshaven,city/part_of,Europe,,,Oldenburg
 Windward Coast of Africa,geographical_area,Africa,,WindwardCoastofAfrica,
 Windward Is.,GPH_entity,America,1055,WindwardIs.,
 World,geographical_area,World,,World,
@@ -2142,3 +2151,4 @@ Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Afric
 Zanzibar,GPH_entity,Africa,511,Zanzibar,
 Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
+Zulu,GPH_entity,Africa,5601,,
