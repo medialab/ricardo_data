@@ -4461,17 +4461,6 @@ marks,1912,german east africa,german mark
 marks,1913,german east africa,german mark
 marks,1900,german east africa,german mark
 marks,1901,german east africa,german mark
-marks,1902,german east africa,german mark
-marks,1903,german east africa,german mark
-marks,1904,german east africa,german mark
-marks,1905,german east africa,german mark
-marks,1906,german east africa,german mark
-marks,1907,german east africa,german mark
-marks,1908,german east africa,german mark
-marks,1909,german east africa,german mark
-marks,1910,german east africa,german mark
-marks,1911,german east africa,german mark
-marks,1912,german east africa,german mark
 livres sterling,1901,german empire,sterling pound
 marks,1901,german empire,german mark
 livres sterling,1902,german empire,sterling pound
@@ -32739,7 +32728,6 @@ yen,1876,japan,japanese yen
 yen,1875,japan,japanese yen
 yen,1874,japan,japanese yen
 yen,1873,japan,japanese yen
-yen,1883,japan,japanese yen
 silver yen,1888,japan,japanese yen
 silver yen,1889,japan,japanese yen
 silver yen,1890,japan,japanese yen
@@ -32753,7 +32741,6 @@ yen,1869,japan,japanese yen
 yen,1870,japan,japanese yen
 yen,1871,japan,japanese yen
 yen,1872,japan,japanese yen
-yen,1906,japan,japanese yen
 yen,1919,japan,japanese yen
 yen,1920,japan,japanese yen
 yen,1921,japan,japanese yen
@@ -33506,7 +33493,6 @@ yen,1910,taiwan,taiwanese yen
 yen,1909,taiwan,taiwanese yen
 yen,1908,taiwan,taiwanese yen
 yen,1907,taiwan,taiwanese yen
-yen,1906,taiwan,taiwanese yen
 tisicich kc,1924,czechoslovakia,czechoslovakian krone
 tisicich kc,1925,czechoslovakia,czechoslovakian krone
 tisicich kc,1926,czechoslovakia,czechoslovakian krone
@@ -33690,7 +33676,6 @@ bolivares,1923,venezuela,venezuelan bolivar
 bolivares,1924,venezuela,venezuelan bolivar
 bolivares,1925,venezuela,venezuelan bolivar
 bolivares,1938,venezuela,venezuelan bolivar
-bolivares,1937,venezuela,venezuelan bolivar
 venezolano,1873,venezuela,venezuelan venezolano
 £,1930,western samoa,new zealand pound
 dinars,1911,royaume de serbie,serbian dinar
@@ -34419,14 +34404,12 @@ francs,1896,guadeloupe,french franc
 francs,1896,réunion,french franc
 francs,1896,sénégal,french franc
 francs,1896,guyane française,french franc
-francs,1896,saint-pierre et miquelon,french franc
 francs,1896,etablissements français dans l'inde (pondichéry),french franc
 francs,1896,nouvelle-calédonie,french franc
 francs,1896,tahiti,french franc
 francs,1896,annam,french franc
 francs,1896,tonkin,french franc
 francs,1896,guinée française,french franc
-francs,1904,congo français,french franc
 francs,1899,guadeloupe,french franc
 francs,1898,cochinchine et cambodge,french franc
 francs,1896,cochinchine et cambodge,french franc
@@ -34522,7 +34505,6 @@ francs,1888,martinique,french franc
 francs,1888,guadeloupe,french franc
 francs,1888,réunion,french franc
 francs,1887,indochine française,french franc
-francs,1887,etablissements français dans l'inde,french franc
 francs,1887,sainte-marie de madagascar,french franc
 francs,1887,réunion,french franc
 francs,1887,nouvelle-calédonie,french franc
@@ -34534,7 +34516,6 @@ francs,1887,guyane française,french franc
 francs,1887,martinique,french franc
 francs,1887,guadeloupe,french franc
 francs,1886,cochinchine,french franc
-francs,1886,nossi-bé,french franc
 francs,1886,réunion,french franc
 francs,1886,sainte-marie de madagascar,french franc
 francs,1886,nouvelle-calédonie,french franc
@@ -34589,7 +34570,6 @@ francs,1914,etablissements français dans l'océanie,french franc
 francs,1913,sénégal,french franc
 francs,1913,haut-sénégal et niger,french franc
 francs,1913,guinée française,french franc
-francs,1913,côte d'ivoire,french franc
 francs,1913,"moyen-congo, oubangui-chari",french franc
 francs,1913,réunion,french franc
 francs,1913,madagascar et dépendances,french franc
@@ -34651,7 +34631,6 @@ francs,1909,martinique,french franc
 francs,1909,guyane française,french franc
 francs,1909,nouvelle-calédonie et dépendances,french franc
 francs,1909,etablissements français dans l'océanie,french franc
-francs,1909,etablissements français dans l'inde,french franc
 francs,1908,afrique occidentale,french franc
 francs,1908,congo français et dépendances,french franc
 francs,1908,réunion,french franc
@@ -34676,7 +34655,6 @@ francs,1907,martinique,french franc
 francs,1907,guyane française,french franc
 francs,1907,nouvelle-calédonie et dépendances,french franc
 francs,1907,etablissements français dans l'océanie,french franc
-francs,1907,etablissements français dans l'inde,french franc
 francs,1906,afrique occidentale,french franc
 francs,1906,réunion,french franc
 francs,1906,madagascar et dépendances,french franc
@@ -34688,7 +34666,6 @@ francs,1906,martinique,french franc
 francs,1906,guyane française,french franc
 francs,1906,nouvelle-calédonie et dépendances,french franc
 francs,1906,etablissements français dans l'océanie,french franc
-francs,1912,gabon,french franc
 francs,1928,sénégal,french franc
 francs,1928,mauritanie,french franc
 francs,1928,niger,french franc
@@ -34702,11 +34679,9 @@ francs,1928,tchad,french franc
 francs,1928,madagascar et dépendances,french franc
 francs,1928,indochine française,french franc
 francs,1928,côte française des somalis,french franc
-francs,1928,etablissements français dans l'inde,french franc
 francs,1928,guyane française,french franc
 francs,1928,guadeloupe et dépendances,french franc
 francs,1928,nouvelle-calédonie et dépendances,french franc
-francs,1928,saint-pierre et miquelon,french franc
 francs,1927,sénégal,french franc
 francs,1927,niger,french franc
 francs,1927,soudan français,french franc
@@ -34722,9 +34697,6 @@ francs,1927,côte française des somalis,french franc
 francs,1927,nouvelle-calédonie et dépendances,french franc
 francs,1927,guyane française,french franc
 francs,1927,guadeloupe et dépendances,french franc
-francs,1927,martinique,french franc
-francs,1927,etablissements français dans l'inde,french franc
-francs,1927,saint-pierre et miquelon,french franc
 francs,1926,sénégal,french franc
 francs,1926,niger,french franc
 francs,1926,soudan français,french franc
@@ -34739,10 +34711,7 @@ francs,1926,indochine française,french franc
 francs,1926,côte française des somalis,french franc
 francs,1926,nouvelle-calédonie et dépendances,french franc
 francs,1926,guyane française,french franc
-francs,1926,saint-pierre et miquelon,french franc
 francs,1926,guadeloupe et dépendances,french franc
-francs,1926,etablissements français de l'océanie,french franc
-francs,1926,gabon,french franc
 francs,1925,sénégal,french franc
 francs,1925,soudan français,french franc
 francs,1925,haute-volta,french franc
@@ -34757,9 +34726,6 @@ francs,1925,côte française des somalis,french franc
 francs,1925,nouvelle-calédonie et dépendances,french franc
 francs,1925,guyane française,french franc
 francs,1925,guadeloupe et dépendances,french franc
-francs,1925,saint-pierre et miquelon,french franc
-francs,1925,côte d'ivoire,french franc
-francs,1925,gabon,french franc
 francs,1924,sénégal,french franc
 francs,1924,soudan français,french franc
 francs,1924,haute-volta,french franc
@@ -36000,7 +35966,6 @@ banco mark,1845,hamburg,hamburg marco de banco
 £,1926,st. lucia,sterling pound
 £,1925,st. lucia,sterling pound
 £,1924,st. lucia,sterling pound
-£,1923,st. lucia,sterling pound
 £,1861,st. lucia,sterling pound
 £,1860,st. lucia,sterling pound
 £,1859,st. lucia,sterling pound
