@@ -1,7 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 ComercioExteriorDeLaRepublicaDeCuba_1927_58,257384062,1,pesos,1927,republica de cuba,total,imp,,,,,,total_reporting,
-ComercioExteriorDeLaRepublicaDeCuba_1927_58,149597681,1,pesos,1927,republica de cuba,estados unidos a,imp,,,,,,,Mercancia americana
-ComercioExteriorDeLaRepublicaDeCuba_1927_58,9458017,1,pesos,1927,republica de cuba,estados unidos b,imp,,,,,,,Mercancia extranjera adquirida en E.U.
+ComercioExteriorDeLaRepublicaDeCuba_1927_58,149597681,1,pesos,1927,republica de cuba,estados unidos,imp,,,,,,,Mercancia americana
 ComercioExteriorDeLaRepublicaDeCuba_1927_58,292183,1,pesos,1927,republica de cuba,antillas holandesas,imp,,,,,,,
 ComercioExteriorDeLaRepublicaDeCuba_1927_58,379015,1,pesos,1927,republica de cuba,antillas inglesas,imp,,,,,,,
 ComercioExteriorDeLaRepublicaDeCuba_1927_58,1454697,1,pesos,1927,republica de cuba,argentina,imp,,,,,,,
