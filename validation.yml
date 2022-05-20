@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 126.773
+time: 124.888
 errors: []
 tasks:
   - resource:
@@ -81,11 +81,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 99af04cd85d14faf7e4967040de271f7
-        bytes: 908696
+        hash: b875c022298c354a23615d534e1c75ea
+        bytes: 914402
         fields: 14
-        rows: 4545
-    time: 0.166
+        rows: 4547
+    time: 0.162
     scope:
       - hash-count-error
       - byte-count-error
@@ -106,10 +106,72 @@ tasks:
       - constraint-error
       - unique-error
     partial: false
-    errors: []
+    errors:
+      - cell: ''
+        fieldName: slug
+        fieldNumber: 1
+        fieldPosition: 1
+        cells:
+          - ''
+          - Schneider J., Schwarzer O., Zellfelder F. & M. Denzel
+          - Währungen der Welt
+          - ''
+          - Asiatische und australische Devisenkurse
+          - vol.IV
+          - 19. Jahrhundert
+          - '1992'
+          - '170'
+          - ''
+          - London, sechs monate. 1 mexikanische dollar = 1 gold yen = 1 silver yen
+          - book
+          - ''
+          - estimation
+        rowNumber: 2375
+        rowPosition: 2376
+        code: constraint-error
+        name: Constraint Error
+        tags:
+          - '#table'
+          - '#row'
+          - '#cell'
+        note: constraint "required" is "True"
+        message: 'The cell "" in row at position "2376" and field "slug" at position
+          "1" does not conform to a constraint: constraint "required" is "True"'
+        description: A field value does not conform to a constraint.
+      - cell: ''
+        fieldName: slug
+        fieldNumber: 1
+        fieldPosition: 1
+        cells:
+          - ''
+          - Schneider J., Schwarzer O., Zellfelder F. & M. Denzel
+          - Währungen der Welt
+          - ''
+          - Asiatische und australische Devisenkurse
+          - vol.IV
+          - 19. Jahrhundert
+          - '1992'
+          - 177-178
+          - ''
+          - London, Sicht. 1 mexikanische dollar = 1 gold yen = 1 silver yen
+          - book
+          - ''
+          - estimation
+        rowNumber: 2376
+        rowPosition: 2377
+        code: constraint-error
+        name: Constraint Error
+        tags:
+          - '#table'
+          - '#row'
+          - '#cell'
+        note: constraint "required" is "True"
+        message: 'The cell "" in row at position "2377" and field "slug" at position
+          "1" does not conform to a constraint: constraint "required" is "True"'
+        description: A field value does not conform to a constraint.
     stats:
-      errors: 0
-    valid: true
+      errors: 2
+    valid: false
   - resource:
       name: ricentities
       title: RICentites
@@ -178,11 +240,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 09bf6401c728da41155c9ea48900b991
-        bytes: 137533
+        hash: 95f4173dfa0fbf283dc917d6e249e8fd
+        bytes: 138452
         fields: 6
         rows: 2153
-    time: 0.101
+    time: 0.106
     scope:
       - hash-count-error
       - byte-count-error
@@ -238,11 +300,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 3bc3e6afee8d6de655b5cffea80b374b
-        bytes: 420252
+        hash: 6fa600bbf9c3742aa08629dc64671456
+        bytes: 422741
         fields: 2
         rows: 9323
-    time: 0.255
+    time: 0.289
     scope:
       - hash-count-error
       - byte-count-error
@@ -301,11 +363,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: adfe376aaf6443a97a63d5f6569d38c4
-        bytes: 111388
+        hash: 327cf236b6a9a32f1383cf321beae2d7
+        bytes: 112828
         fields: 3
-        rows: 1701
-    time: 0.088
+        rows: 1697
+    time: 0.099
     scope:
       - hash-count-error
       - byte-count-error
@@ -363,11 +425,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 3082e2704b03adbf97f8dc8ba09fa2cd
-        bytes: 914275
+        hash: 0a1550ec966fdbef9967326f2b311095
+        bytes: 909312
         fields: 5
-        rows: 7785
-    time: 0.293
+        rows: 7745
+    time: 0.33
     scope:
       - hash-count-error
       - byte-count-error
@@ -427,11 +489,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: d4b111398fa7cca4c5d889d856e6c153
-        bytes: 1503314
+        hash: 4a5851a759e6d65716240ce3479e74bc
+        bytes: 1538453
         fields: 4
-        rows: 36111
-    time: 1.013
+        rows: 36146
+    time: 1.015
     scope:
       - hash-count-error
       - byte-count-error
@@ -452,10 +514,48 @@ tasks:
       - constraint-error
       - unique-error
     partial: false
-    errors: []
+    errors:
+      - cells:
+          - piastre
+          - '1830'
+          - montevideo
+          - ''
+        rowNumber: 35479
+        rowPosition: 35480
+        code: foreign-key-error
+        name: ForeignKey Error
+        tags:
+          - '#table'
+          - '#row'
+        note: 'for "modified_currency, year": values "None, 1830" not found in the
+          lookup table "exchange_rates" as "modified_currency, year"'
+        message: 'Row at position "35480" violates the foreign key: for "modified_currency,
+          year": values "None, 1830" not found in the lookup table "exchange_rates"
+          as "modified_currency, year"'
+        description: Values in the foreign key fields should exist in the reference
+          table
+      - cells:
+          - piastre
+          - '1831'
+          - montevideo
+          - ''
+        rowNumber: 35480
+        rowPosition: 35481
+        code: foreign-key-error
+        name: ForeignKey Error
+        tags:
+          - '#table'
+          - '#row'
+        note: 'for "modified_currency, year": values "None, 1831" not found in the
+          lookup table "exchange_rates" as "modified_currency, year"'
+        message: 'Row at position "35481" violates the foreign key: for "modified_currency,
+          year": values "None, 1831" not found in the lookup table "exchange_rates"
+          as "modified_currency, year"'
+        description: Values in the foreign key fields should exist in the reference
+          table
     stats:
-      errors: 0
-    valid: true
+      errors: 2
+    valid: false
   - resource:
       name: expimp_spegen
       title: Export/import and special/general
@@ -3691,7 +3791,7 @@ tasks:
         bytes: 78257454
         fields: 15
         rows: 546078
-    time: 124.566
+    time: 122.601
     scope:
       - hash-count-error
       - byte-count-error
@@ -3717,6 +3817,6 @@ tasks:
       errors: 0
     valid: true
 stats:
-  errors: 0
+  errors: 4
   tasks: 8
-valid: true
+valid: false

@@ -79,19 +79,19 @@ dollars,1915,alaska,us dollar
 dollars,1916,alaska,us dollar
 dollars,1917,alaska,us dollar
 dollars,1918,alaska,us dollar
-frank. ar,1926,albanie,albanian gold franc
-frank. ar,1927,albanie,albanian gold franc
-frank. ar,1928,albanie,albanian gold franc
-frank. ar,1929,albanie,albanian gold franc
-frank. ar,1930,albanie,albanian gold franc
-frank. ar,1931,albanie,albanian gold franc
-frank. ar,1932,albanie,albanian gold franc
-frank. ar,1933,albanie,albanian gold franc
-frank. ar,1934,albanie,albanian gold franc
-frank. ar,1935,albanie,albanian gold franc
-frank. ar,1936,albanie,albanian gold franc
-frank. ar,1937,albanie,albanian gold franc
-frank. ar,1938,albanie,albanian gold franc
+frank. ar,1926,albanie,gold franc
+frank. ar,1927,albanie,gold franc
+frank. ar,1928,albanie,gold franc
+frank. ar,1929,albanie,gold franc
+frank. ar,1930,albanie,gold franc
+frank. ar,1931,albanie,gold franc
+frank. ar,1932,albanie,gold franc
+frank. ar,1933,albanie,gold franc
+frank. ar,1934,albanie,gold franc
+frank. ar,1935,albanie,gold franc
+frank. ar,1936,albanie,gold franc
+frank. ar,1937,albanie,gold franc
+frank. ar,1938,albanie,gold franc
 francs,1865,albanie (scutari),french franc
 francs,1866,albanie (scutari),french franc
 $,1880,algeria,us dollar
@@ -478,9 +478,9 @@ livre sterling,1880,australasie-victoria,sterling pound
 livre sterling,1890,australasie-victoria,sterling pound
 livre sterling,1900,australie,sterling pound
 livre sterling,1910,australie,sterling pound
-£,1926,australie,australian pound
-£,1927,australie,australian pound
-£,1928,australie,australian pound
+£,1926,australie,sterling pound
+£,1927,australie,sterling pound
+£,1928,australie,sterling pound
 livres australiennes,1929,australie,australian pound
 livres sterling,1929,australie,sterling pound
 livres australiennes,1930,australie,australian pound
@@ -4461,6 +4461,17 @@ marks,1912,german east africa,german mark
 marks,1913,german east africa,german mark
 marks,1900,german east africa,german mark
 marks,1901,german east africa,german mark
+marks,1902,german east africa,german mark
+marks,1903,german east africa,german mark
+marks,1904,german east africa,german mark
+marks,1905,german east africa,german mark
+marks,1906,german east africa,german mark
+marks,1907,german east africa,german mark
+marks,1908,german east africa,german mark
+marks,1909,german east africa,german mark
+marks,1910,german east africa,german mark
+marks,1911,german east africa,german mark
+marks,1912,german east africa,german mark
 livres sterling,1901,german empire,sterling pound
 marks,1901,german empire,german mark
 livres sterling,1902,german empire,sterling pound
@@ -5259,69 +5270,69 @@ dollars,1915,hawaii,us dollar
 dollars,1916,hawaii,us dollar
 dollars,1917,hawaii,us dollar
 dollars,1918,hawaii,us dollar
-gulden,1863,holland,netherlands guilder
-gulden,1864,holland,netherlands guilder
-gulden,1865,holland,netherlands guilder
-gulden,1866,holland,netherlands guilder
-gulden,1867,holland,netherlands guilder
-gulden,1868,holland,netherlands guilder
-gulden,1869,holland,netherlands guilder
-gulden,1870,holland,netherlands guilder
-gulden,1871,holland,netherlands guilder
-gulden,1872,holland,netherlands guilder
-gulden,1873,holland,netherlands guilder
-gulden,1874,holland,netherlands guilder
-gulden,1875,holland,netherlands guilder
-gulden,1876,holland,netherlands guilder
-gulden,1877,holland,netherlands guilder
-gulden,1878,holland,netherlands guilder
-gulden,1879,holland,netherlands guilder
+gulden,1863,holland,dutch guilder
+gulden,1864,holland,dutch guilder
+gulden,1865,holland,dutch guilder
+gulden,1866,holland,dutch guilder
+gulden,1867,holland,dutch guilder
+gulden,1868,holland,dutch guilder
+gulden,1869,holland,dutch guilder
+gulden,1870,holland,dutch guilder
+gulden,1871,holland,dutch guilder
+gulden,1872,holland,dutch guilder
+gulden,1873,holland,dutch guilder
+gulden,1874,holland,dutch guilder
+gulden,1875,holland,dutch guilder
+gulden,1876,holland,dutch guilder
+gulden,1877,holland,dutch guilder
+gulden,1878,holland,dutch guilder
+gulden,1879,holland,dutch guilder
 livres sterling,1879,holland,sterling pound
-gulden,1880,holland,netherlands guilder
+gulden,1880,holland,dutch guilder
 livres sterling,1880,holland,sterling pound
-gulden,1881,holland,netherlands guilder
+gulden,1881,holland,dutch guilder
 livres sterling,1881,holland,sterling pound
-gulden,1882,holland,netherlands guilder
+gulden,1882,holland,dutch guilder
 livres sterling,1882,holland,sterling pound
-gulden,1883,holland,netherlands guilder
+gulden,1883,holland,dutch guilder
 livres sterling,1883,holland,sterling pound
-gulden,1884,holland,netherlands guilder
+gulden,1884,holland,dutch guilder
 livres sterling,1884,holland,sterling pound
-gulden,1885,holland,netherlands guilder
+gulden,1885,holland,dutch guilder
 livres sterling,1885,holland,sterling pound
-gulden,1886,holland,netherlands guilder
+gulden,1886,holland,dutch guilder
 livres sterling,1886,holland,sterling pound
-gulden,1887,holland,netherlands guilder
+gulden,1887,holland,dutch guilder
 livres sterling,1887,holland,sterling pound
-gulden,1888,holland,netherlands guilder
+gulden,1888,holland,dutch guilder
 livres sterling,1888,holland,sterling pound
-gulden,1889,holland,netherlands guilder
+gulden,1889,holland,dutch guilder
 livres sterling,1889,holland,sterling pound
-gulden,1890,holland,netherlands guilder
+gulden,1890,holland,dutch guilder
 livres sterling,1890,holland,sterling pound
-gulden,1891,holland,netherlands guilder
+gulden,1891,holland,dutch guilder
 livres sterling,1891,holland,sterling pound
-gulden,1892,holland,netherlands guilder
+gulden,1892,holland,dutch guilder
 livres sterling,1892,holland,sterling pound
-gulden,1893,holland,netherlands guilder
+gulden,1893,holland,dutch guilder
 livres sterling,1893,holland,sterling pound
-gulden,1894,holland,netherlands guilder
+gulden,1894,holland,dutch guilder
 livres sterling,1894,holland,sterling pound
-gulden,1895,holland,netherlands guilder
+gulden,1895,holland,dutch guilder
 livres sterling,1895,holland,sterling pound
-gulden,1896,holland,netherlands guilder
+gulden,1896,holland,dutch guilder
 livres sterling,1896,holland,sterling pound
-gulden,1897,holland,netherlands guilder
+gulden,1897,holland,dutch guilder
 livres sterling,1897,holland,sterling pound
-gulden,1898,holland,netherlands guilder
+gulden,1898,holland,dutch guilder
 livres sterling,1898,holland,sterling pound
-gulden,1899,holland,netherlands guilder
+gulden,1899,holland,dutch guilder
 livres sterling,1899,holland,sterling pound
-gulden,1900,holland,netherlands guilder
+gulden,1900,holland,dutch guilder
 livres sterling,1900,holland,sterling pound
-gulden,1901,holland,netherlands guilder
+gulden,1901,holland,dutch guilder
 livres sterling,1901,holland,sterling pound
-florins,1853,hollande,netherlands guilder
+florins,1853,hollande,dutch guilder
 francs,1851,holstein,french franc
 francs,1852,holstein,french franc
 francs,1853,holstein,french franc
@@ -5474,37 +5485,37 @@ sterling,1890,indes britanniques,sterling pound
 rx,1891,indes britanniques,indian rupee
 rx,1901,indes britanniques,indian rupee
 livres sterling,1911,indes britanniques,sterling pound
-gulden,1926,indes néerlandaises,netherlands indies guilder
-gulden,1927,indes néerlandaises,netherlands indies guilder
-gulden,1928,indes néerlandaises,netherlands indies guilder
-gulden,1929,indes néerlandaises,netherlands indies guilder
-gulden,1930,indes néerlandaises,netherlands indies guilder
-gulden,1931,indes néerlandaises,netherlands indies guilder
-gulden,1932,indes néerlandaises,netherlands indies guilder
-gulden,1933,indes néerlandaises,netherlands indies guilder
-gulden,1934,indes néerlandaises,netherlands indies guilder
-gulden,1935,indes néerlandaises,netherlands indies guilder
-gulden,1936,indes néerlandaises,netherlands indies guilder
-gulden,1937,indes néerlandaises,netherlands indies guilder
-gulden,1938,indes néerlandaises,netherlands indies guilder
-florins,1848,indes occidentales néerlandaises (surinam),netherlands guilder
-florins,1849,indes occidentales néerlandaises (surinam),netherlands guilder
-florins,1855,indes occidentales néerlandaises (surinam),netherlands guilder
-florins,1860,indes occidentales néerlandaises (surinam),netherlands guilder
-florins,1830,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1831,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1832,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1833,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1834,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1835,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1836,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1848,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1851,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1854,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1856,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1858,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1859,indes orientales néerlandaises (java et madura),netherlands guilder
-florins,1860,indes orientales néerlandaises (java et madura),netherlands guilder
+gulden,1926,indes néerlandaises,dutch indies guilder
+gulden,1927,indes néerlandaises,dutch indies guilder
+gulden,1928,indes néerlandaises,dutch indies guilder
+gulden,1929,indes néerlandaises,dutch indies guilder
+gulden,1930,indes néerlandaises,dutch indies guilder
+gulden,1931,indes néerlandaises,dutch indies guilder
+gulden,1932,indes néerlandaises,dutch indies guilder
+gulden,1933,indes néerlandaises,dutch indies guilder
+gulden,1934,indes néerlandaises,dutch indies guilder
+gulden,1935,indes néerlandaises,dutch indies guilder
+gulden,1936,indes néerlandaises,dutch indies guilder
+gulden,1937,indes néerlandaises,dutch indies guilder
+gulden,1938,indes néerlandaises,dutch indies guilder
+florins,1848,indes occidentales néerlandaises (surinam),dutch guilder
+florins,1849,indes occidentales néerlandaises (surinam),dutch guilder
+florins,1855,indes occidentales néerlandaises (surinam),dutch guilder
+florins,1860,indes occidentales néerlandaises (surinam),dutch guilder
+florins,1830,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1831,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1832,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1833,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1834,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1835,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1836,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1848,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1851,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1854,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1856,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1858,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1859,indes orientales néerlandaises (java et madura),dutch indies guilder
+florins,1860,indes orientales néerlandaises (java et madura),dutch indies guilder
 francs,1861,indes orientales néerlandaises (java et madura),french franc
 francs,1862,indes orientales néerlandaises (java et madura),french franc
 francs,1828,indes orientales néerlandaises (java),french franc
@@ -5980,8 +5991,8 @@ yen,1937,japon,japanese yen
 yen,1938,japon,japanese yen
 francs,1861,japon (kanagawa),french franc
 livres anglaises,1863,japon(yokohama),sterling pound
-florins,1826,java et madura,netherlands guilder
-florins,1838,java et madura,netherlands guilder
+florins,1826,java et madura,dutch indies guilder
+florins,1838,java et madura,dutch indies guilder
 francs,1863,"java, madura",french franc
 francs,1865,"java, madura",french franc
 francs,1867,"java, madura",french franc
@@ -6907,7 +6918,7 @@ francs,1915,morocco,french franc
 francs,1916,morocco,french franc
 francs,1917,morocco,french franc
 francs,1918,morocco,french franc
-florins,1910,n_i,netherlands guilder
+florins,1910,n_i,dutch indies guilder
 £,1898,namibia (german south west africa),sterling pound
 £,1899,namibia (german south west africa),sterling pound
 £,1900,namibia (german south west africa),sterling pound
@@ -6989,181 +7000,181 @@ $,1906,natal,us dollar
 £,1907,natal,sterling pound
 £,1908,natal,sterling pound
 £,1909,natal,sterling pound
-guld.,1846,netherlands,netherlands guilder
-guldens,1846,netherlands,netherlands guilder
-guld.,1847,netherlands,netherlands guilder
-gulden,1847,netherlands,netherlands guilder
-guld.,1848,netherlands,netherlands guilder
-gulden,1848,netherlands,netherlands guilder
-guld.,1849,netherlands,netherlands guilder
-gulden,1849,netherlands,netherlands guilder
-guld.,1850,netherlands,netherlands guilder
-gulden,1850,netherlands,netherlands guilder
-guld.,1851,netherlands,netherlands guilder
-guldens,1851,netherlands,netherlands guilder
-guld.,1852,netherlands,netherlands guilder
-guldens,1852,netherlands,netherlands guilder
-guld.,1853,netherlands,netherlands guilder
-guldens,1853,netherlands,netherlands guilder
-guld.,1854,netherlands,netherlands guilder
-guldens,1854,netherlands,netherlands guilder
-guld.,1855,netherlands,netherlands guilder
-guldens,1855,netherlands,netherlands guilder
-guld.,1856,netherlands,netherlands guilder
-guldens,1856,netherlands,netherlands guilder
-guld.,1857,netherlands,netherlands guilder
-guldens,1857,netherlands,netherlands guilder
-guld.,1858,netherlands,netherlands guilder
-guldens,1858,netherlands,netherlands guilder
-guld.,1859,netherlands,netherlands guilder
-guldens,1859,netherlands,netherlands guilder
-guld.,1860,netherlands,netherlands guilder
-guldens,1860,netherlands,netherlands guilder
-guld.,1861,netherlands,netherlands guilder
-guldens,1861,netherlands,netherlands guilder
-guld.,1862,netherlands,netherlands guilder
-guldens,1862,netherlands,netherlands guilder
-guld.,1863,netherlands,netherlands guilder
-guldens,1863,netherlands,netherlands guilder
-guld.,1864,netherlands,netherlands guilder
-guldens,1864,netherlands,netherlands guilder
-guld.,1865,netherlands,netherlands guilder
-guldens,1865,netherlands,netherlands guilder
-guld.,1866,netherlands,netherlands guilder
-guldens,1866,netherlands,netherlands guilder
-guld.,1867,netherlands,netherlands guilder
-guldens,1867,netherlands,netherlands guilder
-guld.,1868,netherlands,netherlands guilder
-guldens,1868,netherlands,netherlands guilder
-guld.,1869,netherlands,netherlands guilder
-guldens,1869,netherlands,netherlands guilder
-guld.,1870,netherlands,netherlands guilder
-guldens,1870,netherlands,netherlands guilder
-guld.,1871,netherlands,netherlands guilder
-guld.,1872,netherlands,netherlands guilder
-guld.,1873,netherlands,netherlands guilder
-guld.,1874,netherlands,netherlands guilder
-guld.,1875,netherlands,netherlands guilder
-guld.,1876,netherlands,netherlands guilder
-guld,1877,netherlands,netherlands guilder
-guld,1878,netherlands,netherlands guilder
-guld.,1879,netherlands,netherlands guilder
-guld.,1880,netherlands,netherlands guilder
-guld.,1881,netherlands,netherlands guilder
-guld.,1882,netherlands,netherlands guilder
-guld,1883,netherlands,netherlands guilder
-guld,1884,netherlands,netherlands guilder
-guld,1885,netherlands,netherlands guilder
-guld.,1885,netherlands,netherlands guilder
-"guld.,",1885,netherlands,netherlands guilder
-guld,1886,netherlands,netherlands guilder
-guld.,1886,netherlands,netherlands guilder
-"guld.,",1886,netherlands,netherlands guilder
-guld,1887,netherlands,netherlands guilder
-guld,1888,netherlands,netherlands guilder
-guld,1889,netherlands,netherlands guilder
-guld.,1889,netherlands,netherlands guilder
-guld,1890,netherlands,netherlands guilder
-guld.,1890,netherlands,netherlands guilder
-guld,1891,netherlands,netherlands guilder
-guld,1892,netherlands,netherlands guilder
-guld.,1892,netherlands,netherlands guilder
-guld.,1893,netherlands,netherlands guilder
-guld.,1894,netherlands,netherlands guilder
-guld.,1895,netherlands,netherlands guilder
-guld,1896,netherlands,netherlands guilder
-guld.,1896,netherlands,netherlands guilder
-guld,1897,netherlands,netherlands guilder
-guld,1898,netherlands,netherlands guilder
-guld.,1898,netherlands,netherlands guilder
-guld.,1899,netherlands,netherlands guilder
-guld.,1900,netherlands,netherlands guilder
-guld.,1901,netherlands,netherlands guilder
-gulden,1901,netherlands,netherlands guilder
+guld.,1846,netherlands,dutch guilder
+guldens,1846,netherlands,dutch guilder
+guld.,1847,netherlands,dutch guilder
+gulden,1847,netherlands,dutch guilder
+guld.,1848,netherlands,dutch guilder
+gulden,1848,netherlands,dutch guilder
+guld.,1849,netherlands,dutch guilder
+gulden,1849,netherlands,dutch guilder
+guld.,1850,netherlands,dutch guilder
+gulden,1850,netherlands,dutch guilder
+guld.,1851,netherlands,dutch guilder
+guldens,1851,netherlands,dutch guilder
+guld.,1852,netherlands,dutch guilder
+guldens,1852,netherlands,dutch guilder
+guld.,1853,netherlands,dutch guilder
+guldens,1853,netherlands,dutch guilder
+guld.,1854,netherlands,dutch guilder
+guldens,1854,netherlands,dutch guilder
+guld.,1855,netherlands,dutch guilder
+guldens,1855,netherlands,dutch guilder
+guld.,1856,netherlands,dutch guilder
+guldens,1856,netherlands,dutch guilder
+guld.,1857,netherlands,dutch guilder
+guldens,1857,netherlands,dutch guilder
+guld.,1858,netherlands,dutch guilder
+guldens,1858,netherlands,dutch guilder
+guld.,1859,netherlands,dutch guilder
+guldens,1859,netherlands,dutch guilder
+guld.,1860,netherlands,dutch guilder
+guldens,1860,netherlands,dutch guilder
+guld.,1861,netherlands,dutch guilder
+guldens,1861,netherlands,dutch guilder
+guld.,1862,netherlands,dutch guilder
+guldens,1862,netherlands,dutch guilder
+guld.,1863,netherlands,dutch guilder
+guldens,1863,netherlands,dutch guilder
+guld.,1864,netherlands,dutch guilder
+guldens,1864,netherlands,dutch guilder
+guld.,1865,netherlands,dutch guilder
+guldens,1865,netherlands,dutch guilder
+guld.,1866,netherlands,dutch guilder
+guldens,1866,netherlands,dutch guilder
+guld.,1867,netherlands,dutch guilder
+guldens,1867,netherlands,dutch guilder
+guld.,1868,netherlands,dutch guilder
+guldens,1868,netherlands,dutch guilder
+guld.,1869,netherlands,dutch guilder
+guldens,1869,netherlands,dutch guilder
+guld.,1870,netherlands,dutch guilder
+guldens,1870,netherlands,dutch guilder
+guld.,1871,netherlands,dutch guilder
+guld.,1872,netherlands,dutch guilder
+guld.,1873,netherlands,dutch guilder
+guld.,1874,netherlands,dutch guilder
+guld.,1875,netherlands,dutch guilder
+guld.,1876,netherlands,dutch guilder
+guld,1877,netherlands,dutch guilder
+guld,1878,netherlands,dutch guilder
+guld.,1879,netherlands,dutch guilder
+guld.,1880,netherlands,dutch guilder
+guld.,1881,netherlands,dutch guilder
+guld.,1882,netherlands,dutch guilder
+guld,1883,netherlands,dutch guilder
+guld,1884,netherlands,dutch guilder
+guld,1885,netherlands,dutch guilder
+guld.,1885,netherlands,dutch guilder
+"guld.,",1885,netherlands,dutch guilder
+guld,1886,netherlands,dutch guilder
+guld.,1886,netherlands,dutch guilder
+"guld.,",1886,netherlands,dutch guilder
+guld,1887,netherlands,dutch guilder
+guld,1888,netherlands,dutch guilder
+guld,1889,netherlands,dutch guilder
+guld.,1889,netherlands,dutch guilder
+guld,1890,netherlands,dutch guilder
+guld.,1890,netherlands,dutch guilder
+guld,1891,netherlands,dutch guilder
+guld,1892,netherlands,dutch guilder
+guld.,1892,netherlands,dutch guilder
+guld.,1893,netherlands,dutch guilder
+guld.,1894,netherlands,dutch guilder
+guld.,1895,netherlands,dutch guilder
+guld,1896,netherlands,dutch guilder
+guld.,1896,netherlands,dutch guilder
+guld,1897,netherlands,dutch guilder
+guld,1898,netherlands,dutch guilder
+guld.,1898,netherlands,dutch guilder
+guld.,1899,netherlands,dutch guilder
+guld.,1900,netherlands,dutch guilder
+guld.,1901,netherlands,dutch guilder
+gulden,1901,netherlands,dutch guilder
 livre sterling,1901,netherlands,sterling pound
 livres sterling,1901,netherlands,sterling pound
-guld.,1902,netherlands,netherlands guilder
-gulden,1902,netherlands,netherlands guilder
+guld.,1902,netherlands,dutch guilder
+gulden,1902,netherlands,dutch guilder
 livre sterling,1902,netherlands,sterling pound
 livres sterling,1902,netherlands,sterling pound
-guld.,1903,netherlands,netherlands guilder
-gulden,1903,netherlands,netherlands guilder
+guld.,1903,netherlands,dutch guilder
+gulden,1903,netherlands,dutch guilder
 livre sterling,1903,netherlands,sterling pound
 livres sterling,1903,netherlands,sterling pound
-guld.,1904,netherlands,netherlands guilder
-gulden,1904,netherlands,netherlands guilder
+guld.,1904,netherlands,dutch guilder
+gulden,1904,netherlands,dutch guilder
 livre sterling,1904,netherlands,sterling pound
 livres sterling,1904,netherlands,sterling pound
-guld,1905,netherlands,netherlands guilder
-guld.,1905,netherlands,netherlands guilder
-gulden,1905,netherlands,netherlands guilder
+guld,1905,netherlands,dutch guilder
+guld.,1905,netherlands,dutch guilder
+gulden,1905,netherlands,dutch guilder
 livre sterling,1905,netherlands,sterling pound
 livres sterling,1905,netherlands,sterling pound
-guld,1906,netherlands,netherlands guilder
-gulden,1906,netherlands,netherlands guilder
+guld,1906,netherlands,dutch guilder
+gulden,1906,netherlands,dutch guilder
 livre sterling,1906,netherlands,sterling pound
 livres sterling,1906,netherlands,sterling pound
-guld,1907,netherlands,netherlands guilder
-gulden,1907,netherlands,netherlands guilder
-guldens,1907,netherlands,netherlands guilder
+guld,1907,netherlands,dutch guilder
+gulden,1907,netherlands,dutch guilder
+guldens,1907,netherlands,dutch guilder
 livre sterling,1907,netherlands,sterling pound
 livres sterling,1907,netherlands,sterling pound
-guld,1908,netherlands,netherlands guilder
-gulden,1908,netherlands,netherlands guilder
+guld,1908,netherlands,dutch guilder
+gulden,1908,netherlands,dutch guilder
 livre sterling,1908,netherlands,sterling pound
 livres sterling,1908,netherlands,sterling pound
-guld,1909,netherlands,netherlands guilder
-guld.,1909,netherlands,netherlands guilder
-gulden,1909,netherlands,netherlands guilder
-guldens,1909,netherlands,netherlands guilder
+guld,1909,netherlands,dutch guilder
+guld.,1909,netherlands,dutch guilder
+gulden,1909,netherlands,dutch guilder
+guldens,1909,netherlands,dutch guilder
 livre sterling,1909,netherlands,sterling pound
 livres sterling,1909,netherlands,sterling pound
-guld.,1910,netherlands,netherlands guilder
-gulden,1910,netherlands,netherlands guilder
-guldens,1910,netherlands,netherlands guilder
+guld.,1910,netherlands,dutch guilder
+gulden,1910,netherlands,dutch guilder
+guldens,1910,netherlands,dutch guilder
 livre sterling,1910,netherlands,sterling pound
 livres sterling,1910,netherlands,sterling pound
-guld.,1911,netherlands,netherlands guilder
-gulden,1911,netherlands,netherlands guilder
-guldens,1911,netherlands,netherlands guilder
+guld.,1911,netherlands,dutch guilder
+gulden,1911,netherlands,dutch guilder
+guldens,1911,netherlands,dutch guilder
 livre sterling,1911,netherlands,sterling pound
 livres sterling,1911,netherlands,sterling pound
-guld.,1912,netherlands,netherlands guilder
-gulden,1912,netherlands,netherlands guilder
-guldens,1912,netherlands,netherlands guilder
+guld.,1912,netherlands,dutch guilder
+gulden,1912,netherlands,dutch guilder
+guldens,1912,netherlands,dutch guilder
 livre sterling,1912,netherlands,sterling pound
 livres sterling,1912,netherlands,sterling pound
-guld.,1913,netherlands,netherlands guilder
-guldens,1913,netherlands,netherlands guilder
-guld.,1914,netherlands,netherlands guilder
-guldens,1914,netherlands,netherlands guilder
-guldens,1915,netherlands,netherlands guilder
-guldens,1916,netherlands,netherlands guilder
-guldens,1917,netherlands,netherlands guilder
-guldens,1918,netherlands,netherlands guilder
-gulden,1902,netherlands east indies,netherlands guilder
-gulden,1903,netherlands east indies,netherlands guilder
-gulden,1904,netherlands east indies,netherlands guilder
-gulden,1905,netherlands east indies,netherlands guilder
-gulden,1906,netherlands east indies,netherlands guilder
-gulden,1907,netherlands east indies,netherlands guilder
-guldens,1907,netherlands east indies,netherlands guilder
-gulden,1908,netherlands east indies,netherlands guilder
-guldens,1908,netherlands east indies,netherlands guilder
-gulden,1909,netherlands east indies,netherlands guilder
-guldens,1909,netherlands east indies,netherlands guilder
-gulden,1910,netherlands east indies,netherlands guilder
-guldens,1910,netherlands east indies,netherlands guilder
-gulden,1911,netherlands east indies,netherlands guilder
-guldens,1911,netherlands east indies,netherlands guilder
-gulden,1912,netherlands east indies,netherlands guilder
-guldens,1912,netherlands east indies,netherlands guilder
-guldens,1913,netherlands east indies,netherlands guilder
-guldens,1914,netherlands east indies,netherlands guilder
-guldens,1915,netherlands east indies,netherlands guilder
-guldens,1916,netherlands east indies,netherlands guilder
-guldens,1917,netherlands east indies,netherlands guilder
-guldens,1918,netherlands east indies,netherlands guilder
+guld.,1913,netherlands,dutch guilder
+guldens,1913,netherlands,dutch guilder
+guld.,1914,netherlands,dutch guilder
+guldens,1914,netherlands,dutch guilder
+guldens,1915,netherlands,dutch guilder
+guldens,1916,netherlands,dutch guilder
+guldens,1917,netherlands,dutch guilder
+guldens,1918,netherlands,dutch guilder
+gulden,1902,netherlands east indies,dutch indies guilder
+gulden,1903,netherlands east indies,dutch indies guilder
+gulden,1904,netherlands east indies,dutch indies guilder
+gulden,1905,netherlands east indies,dutch indies guilder
+gulden,1906,netherlands east indies,dutch indies guilder
+gulden,1907,netherlands east indies,dutch indies guilder
+guldens,1907,netherlands east indies,dutch indies guilder
+gulden,1908,netherlands east indies,dutch indies guilder
+guldens,1908,netherlands east indies,dutch indies guilder
+gulden,1909,netherlands east indies,dutch indies guilder
+guldens,1909,netherlands east indies,dutch indies guilder
+gulden,1910,netherlands east indies,dutch indies guilder
+guldens,1910,netherlands east indies,dutch indies guilder
+gulden,1911,netherlands east indies,dutch indies guilder
+guldens,1911,netherlands east indies,dutch indies guilder
+gulden,1912,netherlands east indies,dutch indies guilder
+guldens,1912,netherlands east indies,dutch indies guilder
+guldens,1913,netherlands east indies,dutch indies guilder
+guldens,1914,netherlands east indies,dutch indies guilder
+guldens,1915,netherlands east indies,dutch indies guilder
+guldens,1916,netherlands east indies,dutch indies guilder
+guldens,1917,netherlands east indies,dutch indies guilder
+guldens,1918,netherlands east indies,dutch indies guilder
 £,1871,nevis,sterling pound
 £,1872,nevis,sterling pound
 £,1873,nevis,sterling pound
@@ -7423,7 +7434,7 @@ livre sterling,1938,nigeria,sterling pound
 £,1938,nigérie,sterling pound
 francs,1846,ning-po,french franc
 francs,1847,ning-po,french franc
-florins,1910,nld,netherlands guilder
+florins,1910,nld,dutch guilder
 livre sterling,1838,nle galles sud,sterling pound
 livre sterling,1839,nle galles sud,sterling pound
 livre sterling,1840,nle galles sud,sterling pound
@@ -7809,39 +7820,39 @@ franc,1839,pays-bas,french franc
 francs,1839,pays-bas,french franc
 franc,1840,pays-bas,french franc
 francs,1841,pays-bas,french franc
-florins,1852,pays-bas,netherlands guilder
-florins,1855,pays-bas,netherlands guilder
-florins,1860,pays-bas,netherlands guilder
-gulden,1860,pays-bas,netherlands guilder
-florins,1865,pays-bas,netherlands guilder
-florins,1870,pays-bas,netherlands guilder
-gulden,1870,pays-bas,netherlands guilder
+florins,1852,pays-bas,dutch guilder
+florins,1855,pays-bas,dutch guilder
+florins,1860,pays-bas,dutch guilder
+gulden,1860,pays-bas,dutch guilder
+florins,1865,pays-bas,dutch guilder
+florins,1870,pays-bas,dutch guilder
+gulden,1870,pays-bas,dutch guilder
 francs,1875,pays-bas,french franc
 francs,1876,pays-bas,french franc
 francs,1877,pays-bas,french franc
 francs,1878,pays-bas,french franc
 francs,1879,pays-bas,french franc
-florins,1882,pays-bas,netherlands guilder
-gulden,1882,pays-bas,netherlands guilder
-florins,1883,pays-bas,netherlands guilder
-florins,1884,pays-bas,netherlands guilder
-florins,1890,pays-bas,netherlands guilder
-gulden,1890,pays-bas,netherlands guilder
-florins,1900,pays-bas,netherlands guilder
-florins,1910,pays-bas,netherlands guilder
-gulden,1926,pays-bas,netherlands guilder
-gulden,1927,pays-bas,netherlands guilder
-gulden,1928,pays-bas,netherlands guilder
-gulden,1929,pays-bas,netherlands guilder
-gulden,1930,pays-bas,netherlands guilder
-gulden,1931,pays-bas,netherlands guilder
-gulden,1932,pays-bas,netherlands guilder
-gulden,1933,pays-bas,netherlands guilder
-gulden,1934,pays-bas,netherlands guilder
-gulden,1935,pays-bas,netherlands guilder
-gulden,1936,pays-bas,netherlands guilder
-gulden,1937,pays-bas,netherlands guilder
-gulden,1938,pays-bas,netherlands guilder
+florins,1882,pays-bas,dutch guilder
+gulden,1882,pays-bas,dutch guilder
+florins,1883,pays-bas,dutch guilder
+florins,1884,pays-bas,dutch guilder
+florins,1890,pays-bas,dutch guilder
+gulden,1890,pays-bas,dutch guilder
+florins,1900,pays-bas,dutch guilder
+florins,1910,pays-bas,dutch guilder
+gulden,1926,pays-bas,dutch guilder
+gulden,1927,pays-bas,dutch guilder
+gulden,1928,pays-bas,dutch guilder
+gulden,1929,pays-bas,dutch guilder
+gulden,1930,pays-bas,dutch guilder
+gulden,1931,pays-bas,dutch guilder
+gulden,1932,pays-bas,dutch guilder
+gulden,1933,pays-bas,dutch guilder
+gulden,1934,pays-bas,dutch guilder
+gulden,1935,pays-bas,dutch guilder
+gulden,1936,pays-bas,dutch guilder
+gulden,1937,pays-bas,dutch guilder
+gulden,1938,pays-bas,dutch guilder
 francs,1834,pays-bas (amsterdam),french franc
 francs,1835,pays-bas (amsterdam),french franc
 francs,1839,pays-bas (amsterdam),french franc
@@ -12453,8 +12464,8 @@ hungarian gold krone,1924,hungary,hungarian gold krone
 hungarian gold krone,1925,hungary,hungarian gold krone
 indian rupee,1924,india (british india),indian rupee
 indian rupee,1925,india (british india),indian rupee
-netherlands indies guilder,1924,indonesia (dutch east indies),netherlands indies guilder
-netherlands indies guilder,1925,indonesia (dutch east indies),netherlands indies guilder
+netherlands indies guilder,1924,indonesia (dutch east indies),dutch indies guilder
+netherlands indies guilder,1925,indonesia (dutch east indies),dutch indies guilder
 italian lira,1924,italy,italian lira
 italian lira,1925,italy,italian lira
 japanese yen,1924,japan,japanese yen
@@ -12473,8 +12484,8 @@ panamean balboa,1924,panama,panamanian balboa
 panamean balboa,1925,panama,panamanian balboa
 paraguayan gold peso,1924,paraguay,paraguayan gold peso
 paraguayan gold peso,1925,paraguay,paraguayan gold peso
-netherlands guilder,1924,netherlands,netherlands guilder
-netherlands guilder,1925,netherlands,netherlands guilder
+netherlands guilder,1924,netherlands,dutch guilder
+netherlands guilder,1925,netherlands,dutch guilder
 peruvian libras,1924,peru,peruvian libra
 peruvian libras,1925,peru,peruvian libra
 persian kran,1924,iran (persia),iranian qiran
@@ -13657,8 +13668,8 @@ french franc,1910,gabon,french franc
 french franc,1911,gabon,french franc
 french franc,1912,gabon,french franc
 french franc,1913,gabon,french franc
-francs or,1924,albanie,albanian gold franc
-francs or,1925,albanie,albanian gold franc
+francs or,1924,albanie,gold franc
+francs or,1925,albanie,gold franc
 francs,1924,algérie,french franc
 pesos oro,1924,argentine,argentine gold peso
 pesos oro,1925,argentine,argentine gold peso
@@ -13883,18 +13894,18 @@ sterling pound,1846,cape of good hope,sterling pound
 sterling pound,1847,cape of good hope,sterling pound
 sterling pound,1848,cape of good hope,sterling pound
 sterling pound,1849,cape of good hope,sterling pound
-netherlands guilder,1887,netherlands antilles,netherlands guilder
-netherlands guilder,1888,netherlands antilles,netherlands guilder
-netherlands guilder,1889,netherlands antilles,netherlands guilder
-netherlands guilder,1890,netherlands antilles,netherlands guilder
-netherlands guilder,1891,netherlands antilles,netherlands guilder
-netherlands guilder,1892,netherlands antilles,netherlands guilder
-netherlands guilder,1893,netherlands antilles,netherlands guilder
-netherlands guilder,1894,netherlands antilles,netherlands guilder
-netherlands guilder,1895,netherlands antilles,netherlands guilder
-netherlands guilder,1896,netherlands antilles,netherlands guilder
-netherlands guilder,1897,netherlands antilles,netherlands guilder
-netherlands guilder,1898,netherlands antilles,netherlands guilder
+netherlands guilder,1887,netherlands antilles,dutch guilder
+netherlands guilder,1888,netherlands antilles,dutch guilder
+netherlands guilder,1889,netherlands antilles,dutch guilder
+netherlands guilder,1890,netherlands antilles,dutch guilder
+netherlands guilder,1891,netherlands antilles,dutch guilder
+netherlands guilder,1892,netherlands antilles,dutch guilder
+netherlands guilder,1893,netherlands antilles,dutch guilder
+netherlands guilder,1894,netherlands antilles,dutch guilder
+netherlands guilder,1895,netherlands antilles,dutch guilder
+netherlands guilder,1896,netherlands antilles,dutch guilder
+netherlands guilder,1897,netherlands antilles,dutch guilder
+netherlands guilder,1898,netherlands antilles,dutch guilder
 sterling pound,1880,cyprus,sterling pound
 sterling pound,1881,cyprus,sterling pound
 sterling pound,1882,cyprus,sterling pound
@@ -14616,118 +14627,118 @@ sterling pound,1935,united kingdom,sterling pound
 sterling pound,1936,united kingdom,sterling pound
 sterling pound,1937,united kingdom,sterling pound
 sterling pound,1938,united kingdom,sterling pound
-guilders,1802,netherlands,netherlands guilder
-guilders,1803,netherlands,netherlands guilder
-guilders,1804,netherlands,netherlands guilder
-guilders,1805,netherlands,netherlands guilder
-guilders,1806,netherlands,netherlands guilder
-guilders,1807,netherlands,netherlands guilder
-guilders,1808,netherlands,netherlands guilder
-guilders,1809,netherlands,netherlands guilder
-guilders,1810,netherlands,netherlands guilder
-guilders,1811,netherlands,netherlands guilder
-guilders,1812,netherlands,netherlands guilder
-guilders,1813,netherlands,netherlands guilder
-guilders,1814,netherlands,netherlands guilder
-guilders,1815,netherlands,netherlands guilder
-guilders,1816,netherlands,netherlands guilder
-guilders,1817,netherlands,netherlands guilder
-guilders,1818,netherlands,netherlands guilder
-guilders,1819,netherlands,netherlands guilder
-guilders,1820,netherlands,netherlands guilder
-guilders,1821,netherlands,netherlands guilder
-guilders,1822,netherlands,netherlands guilder
-guilders,1823,netherlands,netherlands guilder
-guilders,1824,netherlands,netherlands guilder
-guilders,1825,netherlands,netherlands guilder
-guilders,1826,netherlands,netherlands guilder
-guilders,1827,netherlands,netherlands guilder
-guilders,1828,netherlands,netherlands guilder
-guilders,1829,netherlands,netherlands guilder
-guilders,1830,netherlands,netherlands guilder
-guilders,1831,netherlands,netherlands guilder
-guilders,1832,netherlands,netherlands guilder
-guilders,1833,netherlands,netherlands guilder
-guilders,1834,netherlands,netherlands guilder
-guilders,1835,netherlands,netherlands guilder
-guilders,1836,netherlands,netherlands guilder
-guilders,1837,netherlands,netherlands guilder
-guilders,1838,netherlands,netherlands guilder
-guilders,1839,netherlands,netherlands guilder
-guilders,1840,netherlands,netherlands guilder
-guilders,1841,netherlands,netherlands guilder
-guilders,1842,netherlands,netherlands guilder
-guilders,1843,netherlands,netherlands guilder
-guilders,1844,netherlands,netherlands guilder
-guilders,1845,netherlands,netherlands guilder
-guilders,1846,netherlands,netherlands guilder
-guilders,1847,netherlands,netherlands guilder
-guilders,1848,netherlands,netherlands guilder
-guilders,1849,netherlands,netherlands guilder
-guilders,1850,netherlands,netherlands guilder
-guilders,1851,netherlands,netherlands guilder
-guilders,1852,netherlands,netherlands guilder
-guilders,1853,netherlands,netherlands guilder
-guilders,1854,netherlands,netherlands guilder
-guilders,1855,netherlands,netherlands guilder
-guilders,1856,netherlands,netherlands guilder
-guilders,1857,netherlands,netherlands guilder
-guilders,1858,netherlands,netherlands guilder
-guilders,1859,netherlands,netherlands guilder
-guilders,1860,netherlands,netherlands guilder
-guilders,1861,netherlands,netherlands guilder
-guilders,1862,netherlands,netherlands guilder
-guilders,1863,netherlands,netherlands guilder
-guilders,1864,netherlands,netherlands guilder
-guilders,1865,netherlands,netherlands guilder
-guilders,1866,netherlands,netherlands guilder
-guilders,1867,netherlands,netherlands guilder
-guilders,1868,netherlands,netherlands guilder
-guilders,1869,netherlands,netherlands guilder
-guilders,1870,netherlands,netherlands guilder
-guilders,1871,netherlands,netherlands guilder
-guilders,1872,netherlands,netherlands guilder
-guilders,1873,netherlands,netherlands guilder
-guilders,1874,netherlands,netherlands guilder
-guilders,1875,netherlands,netherlands guilder
-guilders,1876,netherlands,netherlands guilder
-guilders,1877,netherlands,netherlands guilder
-guilders,1878,netherlands,netherlands guilder
-guilders,1879,netherlands,netherlands guilder
-guilders,1880,netherlands,netherlands guilder
-guilders,1881,netherlands,netherlands guilder
-guilders,1882,netherlands,netherlands guilder
-guilders,1883,netherlands,netherlands guilder
-guilders,1884,netherlands,netherlands guilder
-guilders,1885,netherlands,netherlands guilder
-guilders,1886,netherlands,netherlands guilder
-guilders,1887,netherlands,netherlands guilder
-guilders,1888,netherlands,netherlands guilder
-guilders,1889,netherlands,netherlands guilder
-guilders,1890,netherlands,netherlands guilder
-guilders,1891,netherlands,netherlands guilder
-guilders,1892,netherlands,netherlands guilder
-guilders,1893,netherlands,netherlands guilder
-guilders,1894,netherlands,netherlands guilder
-guilders,1895,netherlands,netherlands guilder
-guilders,1896,netherlands,netherlands guilder
-guilders,1897,netherlands,netherlands guilder
-guilders,1898,netherlands,netherlands guilder
-guilders,1899,netherlands,netherlands guilder
-guilders,1900,netherlands,netherlands guilder
-guilders,1901,netherlands,netherlands guilder
-guilders,1902,netherlands,netherlands guilder
-guilders,1903,netherlands,netherlands guilder
-guilders,1904,netherlands,netherlands guilder
-guilders,1905,netherlands,netherlands guilder
-guilders,1906,netherlands,netherlands guilder
-guilders,1907,netherlands,netherlands guilder
-guilders,1908,netherlands,netherlands guilder
-guilders,1909,netherlands,netherlands guilder
-guilders,1910,netherlands,netherlands guilder
-guilders,1911,netherlands,netherlands guilder
-guilders,1912,netherlands,netherlands guilder
-guilders,1913,netherlands,netherlands guilder
+guilders,1802,netherlands,dutch guilder
+guilders,1803,netherlands,dutch guilder
+guilders,1804,netherlands,dutch guilder
+guilders,1805,netherlands,dutch guilder
+guilders,1806,netherlands,dutch guilder
+guilders,1807,netherlands,dutch guilder
+guilders,1808,netherlands,dutch guilder
+guilders,1809,netherlands,dutch guilder
+guilders,1810,netherlands,dutch guilder
+guilders,1811,netherlands,dutch guilder
+guilders,1812,netherlands,dutch guilder
+guilders,1813,netherlands,dutch guilder
+guilders,1814,netherlands,dutch guilder
+guilders,1815,netherlands,dutch guilder
+guilders,1816,netherlands,dutch guilder
+guilders,1817,netherlands,dutch guilder
+guilders,1818,netherlands,dutch guilder
+guilders,1819,netherlands,dutch guilder
+guilders,1820,netherlands,dutch guilder
+guilders,1821,netherlands,dutch guilder
+guilders,1822,netherlands,dutch guilder
+guilders,1823,netherlands,dutch guilder
+guilders,1824,netherlands,dutch guilder
+guilders,1825,netherlands,dutch guilder
+guilders,1826,netherlands,dutch guilder
+guilders,1827,netherlands,dutch guilder
+guilders,1828,netherlands,dutch guilder
+guilders,1829,netherlands,dutch guilder
+guilders,1830,netherlands,dutch guilder
+guilders,1831,netherlands,dutch guilder
+guilders,1832,netherlands,dutch guilder
+guilders,1833,netherlands,dutch guilder
+guilders,1834,netherlands,dutch guilder
+guilders,1835,netherlands,dutch guilder
+guilders,1836,netherlands,dutch guilder
+guilders,1837,netherlands,dutch guilder
+guilders,1838,netherlands,dutch guilder
+guilders,1839,netherlands,dutch guilder
+guilders,1840,netherlands,dutch guilder
+guilders,1841,netherlands,dutch guilder
+guilders,1842,netherlands,dutch guilder
+guilders,1843,netherlands,dutch guilder
+guilders,1844,netherlands,dutch guilder
+guilders,1845,netherlands,dutch guilder
+guilders,1846,netherlands,dutch guilder
+guilders,1847,netherlands,dutch guilder
+guilders,1848,netherlands,dutch guilder
+guilders,1849,netherlands,dutch guilder
+guilders,1850,netherlands,dutch guilder
+guilders,1851,netherlands,dutch guilder
+guilders,1852,netherlands,dutch guilder
+guilders,1853,netherlands,dutch guilder
+guilders,1854,netherlands,dutch guilder
+guilders,1855,netherlands,dutch guilder
+guilders,1856,netherlands,dutch guilder
+guilders,1857,netherlands,dutch guilder
+guilders,1858,netherlands,dutch guilder
+guilders,1859,netherlands,dutch guilder
+guilders,1860,netherlands,dutch guilder
+guilders,1861,netherlands,dutch guilder
+guilders,1862,netherlands,dutch guilder
+guilders,1863,netherlands,dutch guilder
+guilders,1864,netherlands,dutch guilder
+guilders,1865,netherlands,dutch guilder
+guilders,1866,netherlands,dutch guilder
+guilders,1867,netherlands,dutch guilder
+guilders,1868,netherlands,dutch guilder
+guilders,1869,netherlands,dutch guilder
+guilders,1870,netherlands,dutch guilder
+guilders,1871,netherlands,dutch guilder
+guilders,1872,netherlands,dutch guilder
+guilders,1873,netherlands,dutch guilder
+guilders,1874,netherlands,dutch guilder
+guilders,1875,netherlands,dutch guilder
+guilders,1876,netherlands,dutch guilder
+guilders,1877,netherlands,dutch guilder
+guilders,1878,netherlands,dutch guilder
+guilders,1879,netherlands,dutch guilder
+guilders,1880,netherlands,dutch guilder
+guilders,1881,netherlands,dutch guilder
+guilders,1882,netherlands,dutch guilder
+guilders,1883,netherlands,dutch guilder
+guilders,1884,netherlands,dutch guilder
+guilders,1885,netherlands,dutch guilder
+guilders,1886,netherlands,dutch guilder
+guilders,1887,netherlands,dutch guilder
+guilders,1888,netherlands,dutch guilder
+guilders,1889,netherlands,dutch guilder
+guilders,1890,netherlands,dutch guilder
+guilders,1891,netherlands,dutch guilder
+guilders,1892,netherlands,dutch guilder
+guilders,1893,netherlands,dutch guilder
+guilders,1894,netherlands,dutch guilder
+guilders,1895,netherlands,dutch guilder
+guilders,1896,netherlands,dutch guilder
+guilders,1897,netherlands,dutch guilder
+guilders,1898,netherlands,dutch guilder
+guilders,1899,netherlands,dutch guilder
+guilders,1900,netherlands,dutch guilder
+guilders,1901,netherlands,dutch guilder
+guilders,1902,netherlands,dutch guilder
+guilders,1903,netherlands,dutch guilder
+guilders,1904,netherlands,dutch guilder
+guilders,1905,netherlands,dutch guilder
+guilders,1906,netherlands,dutch guilder
+guilders,1907,netherlands,dutch guilder
+guilders,1908,netherlands,dutch guilder
+guilders,1909,netherlands,dutch guilder
+guilders,1910,netherlands,dutch guilder
+guilders,1911,netherlands,dutch guilder
+guilders,1912,netherlands,dutch guilder
+guilders,1913,netherlands,dutch guilder
 francs belges,1835,belgique,belgian franc
 livres sterling,1830,turkey,sterling pound
 livres sterling,1831,turkey,sterling pound
@@ -15161,17 +15172,17 @@ gold pesos,1896,honduras,honduran gold peso
 gold pesos,1897,honduras,honduran gold peso
 gold pesos,1898,honduras,honduran gold peso
 gold pesos,1899,honduras,honduran gold peso
-netherlands indies guilder,1823,indonesia,netherlands indies guilder
-netherlands indies guilder,1824,indonesia,netherlands indies guilder
-netherlands indies guilder,1825,indonesia,netherlands indies guilder
-netherlands indies guilder,1868,indonesia,netherlands indies guilder
-netherlands indies guilder,1869,indonesia,netherlands indies guilder
-netherlands indies guilder,1870,indonesia,netherlands indies guilder
-netherlands indies guilder,1871,indonesia,netherlands indies guilder
-netherlands indies guilder,1872,indonesia,netherlands indies guilder
-netherlands indies guilder,1873,indonesia,netherlands indies guilder
-netherlands indies guilder,1874,indonesia,netherlands indies guilder
-netherlands indies guilder,1875,indonesia,netherlands indies guilder
+netherlands indies guilder,1823,indonesia,dutch indies guilder
+netherlands indies guilder,1824,indonesia,dutch indies guilder
+netherlands indies guilder,1825,indonesia,dutch indies guilder
+netherlands indies guilder,1868,indonesia,dutch indies guilder
+netherlands indies guilder,1869,indonesia,dutch indies guilder
+netherlands indies guilder,1870,indonesia,dutch indies guilder
+netherlands indies guilder,1871,indonesia,dutch indies guilder
+netherlands indies guilder,1872,indonesia,dutch indies guilder
+netherlands indies guilder,1873,indonesia,dutch indies guilder
+netherlands indies guilder,1874,indonesia,dutch indies guilder
+netherlands indies guilder,1875,indonesia,dutch indies guilder
 nicaraguan peso,1881,nicaragua,nicaraguan peso
 nicaraguan peso,1882,nicaragua,nicaraguan peso
 nicaraguan peso,1895,nicaragua,nicaraguan peso
@@ -16949,30 +16960,30 @@ francs,1818,france (alternative source),french franc
 francs,1819,france (alternative source),french franc
 francs,1820,france (alternative source),french franc
 francs,1821,france (alternative source),french franc
-florin,1915,nederland,netherlands guilder
-florin,1916,nederland,netherlands guilder
-florin,1917,nederland,netherlands guilder
-florin,1918,nederland,netherlands guilder
-florin,1919,nederland,netherlands guilder
-florin,1920,nederland,netherlands guilder
-florin,1921,nederland,netherlands guilder
-florin,1922,nederland,netherlands guilder
-florin,1923,nederland,netherlands guilder
-florin,1924,nederland,netherlands guilder
-florin,1925,nederland,netherlands guilder
-florin,1926,nederland,netherlands guilder
-florin,1927,nederland,netherlands guilder
-florin,1928,nederland,netherlands guilder
-florin,1929,nederland,netherlands guilder
-florin,1930,nederland,netherlands guilder
-florin,1931,nederland,netherlands guilder
-florin,1932,nederland,netherlands guilder
-florin,1933,nederland,netherlands guilder
-florin,1934,nederland,netherlands guilder
-florin,1935,nederland,netherlands guilder
-florin,1936,nederland,netherlands guilder
-florin,1937,nederland,netherlands guilder
-florin,1938,nederland,netherlands guilder
+florin,1915,nederland,dutch guilder
+florin,1916,nederland,dutch guilder
+florin,1917,nederland,dutch guilder
+florin,1918,nederland,dutch guilder
+florin,1919,nederland,dutch guilder
+florin,1920,nederland,dutch guilder
+florin,1921,nederland,dutch guilder
+florin,1922,nederland,dutch guilder
+florin,1923,nederland,dutch guilder
+florin,1924,nederland,dutch guilder
+florin,1925,nederland,dutch guilder
+florin,1926,nederland,dutch guilder
+florin,1927,nederland,dutch guilder
+florin,1928,nederland,dutch guilder
+florin,1929,nederland,dutch guilder
+florin,1930,nederland,dutch guilder
+florin,1931,nederland,dutch guilder
+florin,1932,nederland,dutch guilder
+florin,1933,nederland,dutch guilder
+florin,1934,nederland,dutch guilder
+florin,1935,nederland,dutch guilder
+florin,1936,nederland,dutch guilder
+florin,1937,nederland,dutch guilder
+florin,1938,nederland,dutch guilder
 dollar,1871,province d'ontario,canadian dollar
 dollar,1872,province d'ontario,canadian dollar
 dollar,1873,province d'ontario,canadian dollar
@@ -17209,7 +17220,7 @@ Franc,1880,algérie,french franc
 Franc,1867,algérie,french franc
 Franc,1858,algérie,french franc
 Franc,1869,algérie,french franc
-gulden,1866,netherlands,netherlands guilder
+gulden,1866,netherlands,dutch guilder
 Lp,1877,peru,peruvian libra
 Lp,1887,peru,peruvian libra
 Lp,1890,peru,peruvian libra
@@ -31461,43 +31472,43 @@ francs,1934,union belgo-luxembourgeoise,belgian franc
 francs,1935,union belgo-luxembourgeoise,belgian franc
 francs,1936,union belgo-luxembourgeoise,belgian franc
 francs,1937,union belgo-luxembourgeoise,belgian franc
-fr. ar.,1921,albania,Gold franc
-fr. ar.,1922,albania,Gold franc
-fr. ar.,1923,albania,Gold franc
-fr. ar.,1924,albania,Gold franc
-fr. ar.,1925,albania,Gold franc
-fr. ar.,1926,albania,Gold franc
-fr. ar.,1927,albania,Gold franc
-frs. or,1928,albania,Gold franc
-frs. or,1929,albania,Gold franc
-frs. or,1930,albania,Gold franc
-frs. or,1931,albania,Gold franc
-frs. or,1932,albania,Gold franc
-frs. or,1933,albania,Gold franc
-frs. or,1934,albania,Gold franc
-frs. or,1935,albania,Gold franc
-frs. or,1936,albania,Gold franc
-angolares,1938,angola,Angolan angolar
-angolares,1937,angola,Angolan angolar
-angolares,1936,angola,Angolan angolar
-angolares,1935,angola,Angolan angolar
-angolares,1934,angola,Angolan angolar
-angolares,1933,angola,Angolan angolar
-angolares,1932,angola,Angolan angolar
-angolares,1931,angola,Angolan angolar
-angolares,1930,angola,Angolan angolar
-angolares,1929,angola,Angolan angolar
-escudos,1924,angola,Angolan escudo
-escudos,1925,angola,Angolan escudo
-escudos,1926,angola,Angolan escudo
-escudos,1927,angola,Angolan escudo
-escudos,1928,angola,Angolan escudo
-angolares,1924,angola,Angolan angolares
-angolares,1919,angola,Angolan angolar
-angolares,1920,angola,Angolan angolar
-angolares,1922,angola,Angolan angolar
-angolares,1923,angola,Angolan angolar
-angolares,1921,angola,Angolan angolar
+fr. ar.,1921,albania,gold franc
+fr. ar.,1922,albania,gold franc
+fr. ar.,1923,albania,gold franc
+fr. ar.,1924,albania,gold franc
+fr. ar.,1925,albania,gold franc
+fr. ar.,1926,albania,gold franc
+fr. ar.,1927,albania,gold franc
+frs. or,1928,albania,gold franc
+frs. or,1929,albania,gold franc
+frs. or,1930,albania,gold franc
+frs. or,1931,albania,gold franc
+frs. or,1932,albania,gold franc
+frs. or,1933,albania,gold franc
+frs. or,1934,albania,gold franc
+frs. or,1935,albania,gold franc
+frs. or,1936,albania,gold franc
+angolares,1938,angola,angolan angolar
+angolares,1937,angola,angolan angolar
+angolares,1936,angola,angolan angolar
+angolares,1935,angola,angolan angolar
+angolares,1934,angola,angolan angolar
+angolares,1933,angola,angolan angolar
+angolares,1932,angola,angolan angolar
+angolares,1931,angola,angolan angolar
+angolares,1930,angola,angolan angolar
+angolares,1929,angola,angolan angolar
+escudos,1924,angola,angolan escudo
+escudos,1925,angola,angolan escudo
+escudos,1926,angola,angolan escudo
+escudos,1927,angola,angolan escudo
+escudos,1928,angola,angolan escudo
+angolares,1924,angola,angolan angolar
+angolares,1919,angola,angolan angolar
+angolares,1920,angola,angolan angolar
+angolares,1922,angola,angolan angolar
+angolares,1923,angola,angolan angolar
+angolares,1921,angola,angolan angolar
 pesos fuertes,1875,república argentina,argentine peso fuerte
 $,1919,british honduras,us dollar constant
 $,1920,british honduras,us dollar constant
@@ -31837,7 +31848,7 @@ kr.,1926,danmark,danish krone
 kr.,1925,danmark,danish krone
 kr.,1924,danmark,danish krone
 kr.,1923,danmark,danish krone
-kr.,1922,danmark,22.4466
+kr.,1922,danmark,danish krone
 kr.,1921,danmark,danish krone
 kr.,1920,danmark,danish krone
 kr.,1919,danmark,danish krone
@@ -32521,33 +32532,33 @@ hong kong $,1931,hong kong,hongkong dollar
 £,1921,hong kong,sterling pound
 £,1920,hong kong,sterling pound
 £,1919,hong kong,sterling pound
-guilder,1928,dutch east indies,netherlands indies guilder
-guilder,1929,dutch east indies,netherlands indies guilder
-guilder,1930,dutch east indies,netherlands indies guilder
-guilder,1931,dutch east indies,netherlands indies guilder
-guilder,1932,dutch east indies,netherlands indies guilder
-guilder,1933,dutch east indies,netherlands indies guilder
-guilder,1934,dutch east indies,netherlands indies guilder
-guilder,1935,dutch east indies,netherlands indies guilder
-guilder,1936,dutch east indies,netherlands indies guilder
-guilder,1937,dutch east indies,netherlands indies guilder
-guilder,1938,dutch east indies,netherlands indies guilder
-guilder,1915,dutch east indies,netherlands indies guilder
-guilder,1916,dutch east indies,netherlands indies guilder
-guilder,1917,dutch east indies,netherlands indies guilder
-guilder,1918,dutch east indies,netherlands indies guilder
-guilder,1919,dutch east indies,netherlands indies guilder
-guilder,1920,dutch east indies,netherlands indies guilder
-guilder,1921,dutch east indies,netherlands indies guilder
-guilder,1922,dutch east indies,netherlands indies guilder
-guilder,1923,dutch east indies,netherlands indies guilder
-guilder,1924,dutch east indies,netherlands indies guilder
-guilder,1925,dutch east indies,netherlands indies guilder
-guilder,1926,dutch east indies,netherlands indies guilder
-guilder,1927,dutch east indies,netherlands indies guilder
-gulden,1921,indes néerlandaises,netherlands indies guilder
-gulden,1922,indes néerlandaises,netherlands indies guilder
-gulden,1923,indes néerlandaises,netherlands indies guilder
+guilder,1928,dutch east indies,dutch indies guilder
+guilder,1929,dutch east indies,dutch indies guilder
+guilder,1930,dutch east indies,dutch indies guilder
+guilder,1931,dutch east indies,dutch indies guilder
+guilder,1932,dutch east indies,dutch indies guilder
+guilder,1933,dutch east indies,dutch indies guilder
+guilder,1934,dutch east indies,dutch indies guilder
+guilder,1935,dutch east indies,dutch indies guilder
+guilder,1936,dutch east indies,dutch indies guilder
+guilder,1937,dutch east indies,dutch indies guilder
+guilder,1938,dutch east indies,dutch indies guilder
+guilder,1915,dutch east indies,dutch indies guilder
+guilder,1916,dutch east indies,dutch indies guilder
+guilder,1917,dutch east indies,dutch indies guilder
+guilder,1918,dutch east indies,dutch indies guilder
+guilder,1919,dutch east indies,dutch indies guilder
+guilder,1920,dutch east indies,dutch indies guilder
+guilder,1921,dutch east indies,dutch indies guilder
+guilder,1922,dutch east indies,dutch indies guilder
+guilder,1923,dutch east indies,dutch indies guilder
+guilder,1924,dutch east indies,dutch indies guilder
+guilder,1925,dutch east indies,dutch indies guilder
+guilder,1926,dutch east indies,dutch indies guilder
+guilder,1927,dutch east indies,dutch indies guilder
+gulden,1921,indes néerlandaises,dutch indies guilder
+gulden,1922,indes néerlandaises,dutch indies guilder
+gulden,1923,indes néerlandaises,dutch indies guilder
 francs,1913,indochine,french franc
 francs,1924,indochine,french franc
 dinars,1935,iraq,iraqi dinar
@@ -32728,6 +32739,7 @@ yen,1876,japan,japanese yen
 yen,1875,japan,japanese yen
 yen,1874,japan,japanese yen
 yen,1873,japan,japanese yen
+yen,1883,japan,japanese yen
 silver yen,1888,japan,japanese yen
 silver yen,1889,japan,japanese yen
 silver yen,1890,japan,japanese yen
@@ -32741,6 +32753,7 @@ yen,1869,japan,japanese yen
 yen,1870,japan,japanese yen
 yen,1871,japan,japanese yen
 yen,1872,japan,japanese yen
+yen,1906,japan,japanese yen
 yen,1919,japan,japanese yen
 yen,1920,japan,japanese yen
 yen,1921,japan,japanese yen
@@ -33493,6 +33506,7 @@ yen,1910,taiwan,taiwanese yen
 yen,1909,taiwan,taiwanese yen
 yen,1908,taiwan,taiwanese yen
 yen,1907,taiwan,taiwanese yen
+yen,1906,taiwan,taiwanese yen
 tisicich kc,1924,czechoslovakia,czechoslovakian krone
 tisicich kc,1925,czechoslovakia,czechoslovakian krone
 tisicich kc,1926,czechoslovakia,czechoslovakian krone
@@ -33676,6 +33690,7 @@ bolivares,1923,venezuela,venezuelan bolivar
 bolivares,1924,venezuela,venezuelan bolivar
 bolivares,1925,venezuela,venezuelan bolivar
 bolivares,1938,venezuela,venezuelan bolivar
+bolivares,1937,venezuela,venezuelan bolivar
 venezolano,1873,venezuela,venezuelan venezolano
 £,1930,western samoa,new zealand pound
 dinars,1911,royaume de serbie,serbian dinar
@@ -34404,12 +34419,14 @@ francs,1896,guadeloupe,french franc
 francs,1896,réunion,french franc
 francs,1896,sénégal,french franc
 francs,1896,guyane française,french franc
+francs,1896,saint-pierre et miquelon,french franc
 francs,1896,etablissements français dans l'inde (pondichéry),french franc
 francs,1896,nouvelle-calédonie,french franc
 francs,1896,tahiti,french franc
 francs,1896,annam,french franc
 francs,1896,tonkin,french franc
 francs,1896,guinée française,french franc
+francs,1904,congo français,french franc
 francs,1899,guadeloupe,french franc
 francs,1898,cochinchine et cambodge,french franc
 francs,1896,cochinchine et cambodge,french franc
@@ -34505,6 +34522,7 @@ francs,1888,martinique,french franc
 francs,1888,guadeloupe,french franc
 francs,1888,réunion,french franc
 francs,1887,indochine française,french franc
+francs,1887,etablissements français dans l'inde,french franc
 francs,1887,sainte-marie de madagascar,french franc
 francs,1887,réunion,french franc
 francs,1887,nouvelle-calédonie,french franc
@@ -34516,6 +34534,7 @@ francs,1887,guyane française,french franc
 francs,1887,martinique,french franc
 francs,1887,guadeloupe,french franc
 francs,1886,cochinchine,french franc
+francs,1886,nossi-bé,french franc
 francs,1886,réunion,french franc
 francs,1886,sainte-marie de madagascar,french franc
 francs,1886,nouvelle-calédonie,french franc
@@ -34570,6 +34589,7 @@ francs,1914,etablissements français dans l'océanie,french franc
 francs,1913,sénégal,french franc
 francs,1913,haut-sénégal et niger,french franc
 francs,1913,guinée française,french franc
+francs,1913,côte d'ivoire,french franc
 francs,1913,"moyen-congo, oubangui-chari",french franc
 francs,1913,réunion,french franc
 francs,1913,madagascar et dépendances,french franc
@@ -34631,6 +34651,7 @@ francs,1909,martinique,french franc
 francs,1909,guyane française,french franc
 francs,1909,nouvelle-calédonie et dépendances,french franc
 francs,1909,etablissements français dans l'océanie,french franc
+francs,1909,etablissements français dans l'inde,french franc
 francs,1908,afrique occidentale,french franc
 francs,1908,congo français et dépendances,french franc
 francs,1908,réunion,french franc
@@ -34655,6 +34676,7 @@ francs,1907,martinique,french franc
 francs,1907,guyane française,french franc
 francs,1907,nouvelle-calédonie et dépendances,french franc
 francs,1907,etablissements français dans l'océanie,french franc
+francs,1907,etablissements français dans l'inde,french franc
 francs,1906,afrique occidentale,french franc
 francs,1906,réunion,french franc
 francs,1906,madagascar et dépendances,french franc
@@ -34666,6 +34688,7 @@ francs,1906,martinique,french franc
 francs,1906,guyane française,french franc
 francs,1906,nouvelle-calédonie et dépendances,french franc
 francs,1906,etablissements français dans l'océanie,french franc
+francs,1912,gabon,french franc
 francs,1928,sénégal,french franc
 francs,1928,mauritanie,french franc
 francs,1928,niger,french franc
@@ -34679,9 +34702,11 @@ francs,1928,tchad,french franc
 francs,1928,madagascar et dépendances,french franc
 francs,1928,indochine française,french franc
 francs,1928,côte française des somalis,french franc
+francs,1928,etablissements français dans l'inde,french franc
 francs,1928,guyane française,french franc
 francs,1928,guadeloupe et dépendances,french franc
 francs,1928,nouvelle-calédonie et dépendances,french franc
+francs,1928,saint-pierre et miquelon,french franc
 francs,1927,sénégal,french franc
 francs,1927,niger,french franc
 francs,1927,soudan français,french franc
@@ -34697,6 +34722,9 @@ francs,1927,côte française des somalis,french franc
 francs,1927,nouvelle-calédonie et dépendances,french franc
 francs,1927,guyane française,french franc
 francs,1927,guadeloupe et dépendances,french franc
+francs,1927,martinique,french franc
+francs,1927,etablissements français dans l'inde,french franc
+francs,1927,saint-pierre et miquelon,french franc
 francs,1926,sénégal,french franc
 francs,1926,niger,french franc
 francs,1926,soudan français,french franc
@@ -34711,7 +34739,10 @@ francs,1926,indochine française,french franc
 francs,1926,côte française des somalis,french franc
 francs,1926,nouvelle-calédonie et dépendances,french franc
 francs,1926,guyane française,french franc
+francs,1926,saint-pierre et miquelon,french franc
 francs,1926,guadeloupe et dépendances,french franc
+francs,1926,etablissements français de l'océanie,french franc
+francs,1926,gabon,french franc
 francs,1925,sénégal,french franc
 francs,1925,soudan français,french franc
 francs,1925,haute-volta,french franc
@@ -34726,6 +34757,9 @@ francs,1925,côte française des somalis,french franc
 francs,1925,nouvelle-calédonie et dépendances,french franc
 francs,1925,guyane française,french franc
 francs,1925,guadeloupe et dépendances,french franc
+francs,1925,saint-pierre et miquelon,french franc
+francs,1925,côte d'ivoire,french franc
+francs,1925,gabon,french franc
 francs,1924,sénégal,french franc
 francs,1924,soudan français,french franc
 francs,1924,haute-volta,french franc
@@ -35360,7 +35394,7 @@ franc,1833,espagne (bilbao),french franc
 franc,1833,espagne (santander),french franc
 franc,1833,malte,french franc
 franc,1832,egypte (alexandrie),french franc
-florin,1829,indes orientales hollandaises (java et madura),netherlands indies guilder
+florin,1829,indes orientales hollandaises (java et madura),dutch indies guilder
 franc,1832,cuba (la havane),french franc
 franc,1832,pays-bas,french franc
 franc,1833,pays-bas (amsterdam),french franc
@@ -35443,8 +35477,8 @@ franc,1833,venézuéla,french franc
 franc,1834,venézuéla,french franc
 franc,1835,venézuéla,french franc
 franc,1836,venézuéla,french franc
-piastre,1830,montevideo,none
-piastre,1831,montevideo,none
+piastre,1830,montevideo,
+piastre,1831,montevideo,
 franc,1830,uruguay (montevideo),french franc
 franc,1831,uruguay (montevideo),french franc
 franc,1833,uruguay (montevideo),french franc
@@ -35966,6 +36000,7 @@ banco mark,1845,hamburg,hamburg marco de banco
 £,1926,st. lucia,sterling pound
 £,1925,st. lucia,sterling pound
 £,1924,st. lucia,sterling pound
+£,1923,st. lucia,sterling pound
 £,1861,st. lucia,sterling pound
 £,1860,st. lucia,sterling pound
 £,1859,st. lucia,sterling pound

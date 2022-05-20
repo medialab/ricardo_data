@@ -39,9 +39,9 @@ aden'as,Aden
 adena,Aden
 aegypten,Egypt Arab Republic (Egypt)
 ægypten,Egypt Arab Republic (Egypt)
-ægypten og algier,Algeria (Algiers) & Egypt Arab Republic (Egypt)
-"aegypten, algier, tripolis, tunis und marocco",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt)
-"aegypten, tripolis, tunis und algier",Algiers & Egypt Arab Republic (Egypt) & Tripolitania & Tunis
+ægypten og algier,Algeria (Regency of Algiers) & Egypt Arab Republic (Egypt)
+"aegypten, algier, tripolis, tunis und marocco",Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Egypt Arab Republic (Egypt)
+"aegypten, tripolis, tunis und algier",Algeria (Regency of Algiers) & Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
 afganistan,Afghanistan
 afganistana,Afghanistan
 afghanistan,Afghanistan
@@ -217,7 +217,7 @@ afryka poludniowo-zachodnia,Namibia (South West Africa) (German South West Afric
 afryka równikowa francuska,French Equatorial Africa
 agypten,Egypt Arab Republic (Egypt)
 ägypten,Egypt Arab Republic (Egypt)
-ah,Austria-Hungary
+ah,Austria-Hungary (Austrian Empire)
 aigiptas,Egypt Arab Republic (Egypt)
 aiti,Haiti
 alasca,Alaska
@@ -244,35 +244,35 @@ alexandria (egypt),Alexandria
 alexandrie,Alexandria
 alger,Algiers
 alger et bone,Algiers & Annaba (Bône)
-alger med öfriga kusten af n. afrika,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-alger och öfriga kusten af norra afrika,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-"alger, etats-barbaresques et côte d'afrique",Africa Coast & Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-algeria,Algeria (Algiers)
-algéria,Algeria (Algiers)
-algeria (france),Algeria (Algiers)
-algeria and morocco,Algeria (Algiers) & Morocco
-algeria and tunis,Algeria (Algiers) & Tunisia (Tunis)
-algeria and tunisia,Algeria (Algiers) & Tunisia (Tunis)
-algerie,Algeria (Algiers)
-algerië,Algeria (Algiers)
-algérie,Algeria (Algiers)
+alger med öfriga kusten af n. afrika,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+alger och öfriga kusten af norra afrika,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"alger, etats-barbaresques et côte d'afrique",Africa Coast & Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+algeria,Algeria (Regency of Algiers)
+algéria,Algeria (Regency of Algiers)
+algeria (france),Algeria (Regency of Algiers)
+algeria and morocco,Algeria (Regency of Algiers) & Morocco
+algeria and tunis,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+algeria and tunisia,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+algerie,Algeria (Regency of Algiers)
+algerië,Algeria (Regency of Algiers)
+algérie,Algeria (Regency of Algiers)
 algerie ; belgisk kongo ; egypt ; fransk vest-afrika ; kanariøiene ; libya (tripolis) ; madagaskar ; marokko ; syd-afrika-sambandet ; tunis ; øst-afrika ; syd-afrika ellers,Africa (other)
-algérie (par terre),Algeria (Algiers) (land)
-algerie en tunis,Algeria (Algiers) & Tunisia (Tunis)
-"algérie, maroc, tunisie et zanzibar",Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar
-"algérie, tunis",Algeria (Algiers) & Tunisia (Tunis)
-"algérie, tunis, tripoli, maroc",Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis)
-"algérie, tunisie",Algeria (Algiers) & Tunisia (Tunis)
-"algérie, tunisie et maroc",Algeria (Algiers) & Morocco & Tunisia (Tunis)
-algérie*,Algeria (Algiers)
-algerien,Algeria (Algiers)
-algeriet,Algeria (Algiers)
-algier,Algeria (Algiers)
-algier og tunis,Algeria (Algiers) & Tunisia (Tunis)
-"algier, tunis, tripolis und marocco",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-algiers,Algiers
-"algiers, tunis",Algeria (Algiers) & Tunisia (Tunis)
-"algiers, tunis, enz.",Algeria (Algiers) & Tunisia (Tunis)
+algérie (par terre),Algeria (Regency of Algiers) (land)
+algerie en tunis,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+"algérie, maroc, tunisie et zanzibar",Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis) & Zanzibar
+"algérie, tunis",Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+"algérie, tunis, tripoli, maroc",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"algérie, tunisie",Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+"algérie, tunisie et maroc",Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis)
+algérie*,Algeria (Regency of Algiers)
+algerien,Algeria (Regency of Algiers)
+algeriet,Algeria (Regency of Algiers)
+algier,Algeria (Regency of Algiers)
+algier og tunis,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+"algier, tunis, tripolis und marocco",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+algiers,Algeria (Regency of Algiers)
+"algiers, tunis",Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+"algiers, tunis, enz.",Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
 algir,Algiers
 algoa bay,Algoa Bay
 alhucemas,Alhucemas
@@ -310,9 +310,9 @@ allem./prusse,Prussia
 allem./rhin,Rhine
 allem./villes anséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
 allemagne,Germany (Zollverein)
-allemagne (+ autriche),Austria (Austrian Empire) & Germany (Zollverein)
+allemagne (+ autriche),Austria & Germany (Zollverein)
 allemagne (+ sarre),Germany (Zollverein) & Saar
-allemagne (+autriche),Austria (Austrian Empire) & Germany (Zollverein)
+allemagne (+autriche),Austria & Germany (Zollverein)
 allemagne (association commerciale allemande),Germany (Zollverein)
 allemagne (brême et hambourg),Bremen & Hamburg
 allemagne (empire),Germany (Zollverein)
@@ -330,7 +330,7 @@ allemagne & sarre,Germany (Zollverein) & Saar
 allemagne du nord,North Germany
 allemagne du nord et hambourg,Hamburg & North Germany
 allemagne entière,Germany (Zollverein)
-allemagne et autriche,Austria (Austrian Empire) & Germany (Zollverein)
+allemagne et autriche,Austria & Germany (Zollverein)
 allemagne et prusse,Germany (Zollverein) (other) & Prussia
 allemagne et rhin,Germany (Zollverein) & Rhine
 allemagne et ses colonies,German Colonies & Germany (Zollverein)
@@ -373,10 +373,10 @@ altri paesi non occ. d'asia,Eastern Asia (other)
 altri paesi occ. d'asia,Western Asia (other)
 altri possedimenti inglesi in asia,British Asia (other)
 altri stati dell'america centrale,Central America (other)
-alzir,Algeria (Algiers)
-alžir,Algeria (Algiers)
-alzira,Algeria (Algiers)
-alzyras,Algeria (Algiers)
+alzir,Algeria (Regency of Algiers)
+alžir,Algeria (Regency of Algiers)
+alzira,Algeria (Regency of Algiers)
+alzyras,Algeria (Regency of Algiers)
 "am, autres ports",America (other)
 ambina,Unknown
 amér. anglaise,British America
@@ -532,14 +532,14 @@ anglijas kolon afrika,British Africa
 "anglijas kolonijas sev nem, amerika",British America (other)
 anglja,United Kingdom
 "anglja, irlandja",Ireland & United Kingdom
-anglo egyptian sudan,North Sudan (Sudan) (Anglo-Egyptian)
-anglo-egyptian soudan,North Sudan (Sudan) (Anglo-Egyptian)
-anglo-egyptian sudan,North Sudan (Sudan) (Anglo-Egyptian)
-anglo-egyptian sudan‡,North Sudan (Sudan) (Anglo-Egyptian)
-anglo-egyptian sudan||,North Sudan (Sudan) (Anglo-Egyptian)
-anglo-egyptiska sudan,North Sudan (Sudan) (Anglo-Egyptian)
+anglo egyptian sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+anglo-egyptian soudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+anglo-egyptian sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+anglo-egyptian sudan‡,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+anglo-egyptian sudan||,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+anglo-egyptiska sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 anglu kol azija,British Asia
-anglu sudanas,North Sudan (Sudan) (Anglo-Egyptian)
+anglu sudanas,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 angola,Angola
 angóla,Angola
 angola (ou afriq.-occidentale portug.),Angola
@@ -630,14 +630,14 @@ arabia (by land),Arabia (land)
 arabia (by sea) and gulf ports,Arabia (sea) & Persian Gulf
 arabia (exclusive of aden),Arabia (other)
 arabia (incl. arabian gulf ports),Arabia (sea)
-arabia (including arabian gulf ports),Arabia & Persian Gulf
+arabia (including arabian gulf ports),Arabia (sea)
 arabia (land trade),Arabia (land)
 arabia (muscat),Oman (Sultanate of Muscat and Oman)
 arabia (or red sea ports),Red Sea (Arabia)
 arabia and aden,Aden & Arabia
 arabia other native states,Arabia (other)
 arabia other states,Arabia (other)
-"arabia, including arabian gulf ports",Arabia
+"arabia, including arabian gulf ports",Arabia (sea)
 "arabia, muscat",Oman (Sultanate of Muscat and Oman)
 "arabia, native states",Arabia (other)
 "arabia, other native states",Arabia (other)
@@ -668,9 +668,9 @@ archipel oriental,East Indies Archipelago
 archipel soude,Sunda Islands
 arctic region,Arctic
 arctic regions,Arctic
-argelia,Algeria (Algiers)
-argélia,Algeria (Algiers)
-argelia y tunez,Algeria (Algiers) & Tunisia (Tunis)
+argelia,Algeria (Regency of Algiers)
+argélia,Algeria (Regency of Algiers)
+argelia y tunez,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
 argentiina,Argentina (La Plata)
 argentina,Argentina (La Plata)
 argentína,Argentina (La Plata)
@@ -739,12 +739,12 @@ association commerciale allemande,Germany (Zollverein)
 atlantic ocean,Atlantic Ocean
 au total,World
 "auckland, fiji",Auckland Is. & Fiji
-auh,Austria-Hungary
+auh,Austria-Hungary (Austrian Empire)
 aukland,Auckland Is.
 auktion i frihavnen,Free ports
 "auktion i frihavnen,strandingsgods,smuglergods",***NA
-auriche-hongrie,Austria-Hungary
-aurtiche,Austria (Austrian Empire)
+auriche-hongrie,Austria-Hungary (Austrian Empire)
+aurtiche,Austria-Hungary (Austrian Empire)
 austr. förbundsstaten,Australia
 austral-sambandet,Australia
 australasia,Australia
@@ -855,33 +855,33 @@ australlandet med tasmanien,Australia & Tasmania
 australske forbund,Australia
 australske m. tasmanien,Australia & Tasmania
 australský svaz,Australia
-austria,Austria (Austrian Empire)
-aústria,Austria (Austrian Empire)
-áustria,Austria (Austrian Empire)
-austria - hungary,Austria-Hungary
+austria,Austria
+aústria,Austria
+áustria,Austria
+austria - hungary,Austria-Hungary (Austrian Empire)
 austria - lombardo veneto,Lombardy-Venetia
-austria - veneto,Austria (Austrian Empire) & Lombardy-Venetia
-austria and hungary,Austria-Hungary
-austria hungary,Austria-Hungary
-austria-hungaria,Austria-Hungary
-austria-hungary,Austria-Hungary
-austria-hungria,Austria-Hungary
-austria-hungría,Austria-Hungary
-austria-ungheria,Austria-Hungary
-austria-veneto,Austria (Austrian Empire) & Lombardy-Venetia
+austria - veneto,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
+austria and hungary,Austria-Hungary (Austrian Empire)
+austria hungary,Austria-Hungary (Austrian Empire)
+austria-hungaria,Austria-Hungary (Austrian Empire)
+austria-hungary,Austria-Hungary (Austrian Empire)
+austria-hungria,Austria-Hungary (Austrian Empire)
+austria-hungría,Austria-Hungary (Austrian Empire)
+austria-ungheria,Austria-Hungary (Austrian Empire)
+austria-veneto,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
 austrián és bosznián kiv. országok,***NA
 austrian possessions in italy,Italian Austria
-austrian territories,Austria (Austrian Empire)
+austrian territories,Austria-Hungary (Austrian Empire)
 "austrian territories (illyria, croatia and dalmatia)",Croatia & Dalmatia & Illyria
-austriche,Austria (Austrian Empire)
-austrie,Austria (Austrian Empire)
-austrija,Austria (Austrian Empire)
-austrja,Austria (Austrian Empire)
-austro-hungary,Austria-Hungary
-austro-ungaria,Austria-Hungary
-austurríki,Austria (Austrian Empire)
+austriche,Austria
+austrie,Austria
+austrija,Austria
+austrja,Austria
+austro-hungary,Austria-Hungary (Austrian Empire)
+austro-ungaria,Austria-Hungary (Austrian Empire)
+austurríki,Austria
 ausztrália,Australia
-ausztria,Austria (Austrian Empire)
+ausztria,Austria
 ausztria és bosznián kivüli országok,***NA
 ausztrian és bossznian kiv orszagok,***NA
 ausztrián és bosznián kivtili országok,***NA
@@ -928,7 +928,7 @@ autres dominions et protectorats britan.,British Colonies (other)
 autres établissements de la côte occidentale d'afrique,Africa Coast (West) (other)
 autres établissements français en océanie,French Oceania (other)
 autres etats,Other countries
-autres etats barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) (other)
+autres etats barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis) (other)
 autres etats d'italie,Italy (other)
 autres états germaniques,Germany (Zollverein) (other)
 autres îles d'océanie,Oceania (other)
@@ -988,37 +988,37 @@ autres possessions portugaises**,Portuguese Colonies (other)
 autres villes ou ports d'asie,Asia (other)
 autres west indies,West Indies (other)
 "autrice-hongrie (trieste, venise et fiume)",Fiume & Republic of St. Mark & Trieste
-autriche,Austria (Austrian Empire)
+autriche,Austria
 autriche - trieste,Trieste
 autriche ( trieste),Trieste
 autriche (etats d'allemagne et possessions en italie),German Austria & Italian Austria
 autriche (fiume),Fiume
-autriche (ports de l'adriatique),Austria (Austrian Empire) (Adriatic)
+autriche (ports de l'adriatique),Austria-Hungary (Austrian Empire) (Adriatic)
 autriche (trieste et venise et fiume),Fiume & Republic of St. Mark & Trieste
 autriche (trieste et venise),Republic of St. Mark & Trieste
 autriche (trieste),Trieste
 autriche (venise),Republic of St. Mark
-autriche et allemagne,Austria (Austrian Empire) & Germany (Zollverein)
-autriche et autres etats allemands,Austria (Austrian Empire) & Germany (Zollverein)
-autriche et cracovie,Austria (Austrian Empire) & Cracow (Free City of Cracow)
-autriche et dépendances,Austria (Austrian Empire) & Austrian Dependencies
-autriche et lombardie,Austria (Austrian Empire) & Lombardy-Venetia
-autriche et royaume lombard vénitien,Austria (Austrian Empire) & Lombardy-Venetia
-autriche et ses dépendances,Austria (Austrian Empire) & Austrian Dependencies
-autriche hongrie,Austria-Hungary
-autriche-hongrie,Austria-Hungary
+autriche et allemagne,Austria-Hungary (Austrian Empire) & Germany (Zollverein)
+autriche et autres etats allemands,Austria-Hungary (Austrian Empire) & Germany (Zollverein)
+autriche et cracovie,Austria-Hungary (Austrian Empire) & Cracow (Free City of Cracow)
+autriche et dépendances,Austria-Hungary (Austrian Empire) & Austrian Dependencies
+autriche et lombardie,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
+autriche et royaume lombard vénitien,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
+autriche et ses dépendances,Austria-Hungary (Austrian Empire) & Austrian Dependencies
+autriche hongrie,Austria-Hungary (Austrian Empire)
+autriche-hongrie,Austria-Hungary (Austrian Empire)
 "autriche-hongrie (fiume, trieste)",Fiume & Trieste
 autriche-hongrie (fiume),Fiume
 "autriche-hongrie (trieste, venise et fiume)",Fiume & Republic of St. Mark & Trieste
 autriche-hongrie (trieste),Trieste
 autriche-hongrie (venise),Republic of St. Mark
-"autriche-hongrie, bosnie-herzégovine",Austria-Hungary & Bosnia-Herzegovina
-autriche-hongrie*,Austria-Hungary
-autriche-hongrie**,Austria-Hungary
-autriche-hongrire,Austria-Hungary
-autriche**,Austria (Austrian Empire)
+"autriche-hongrie, bosnie-herzégovine",Austria-Hungary (Austrian Empire) & Bosnia-Herzegovina
+autriche-hongrie*,Austria-Hungary (Austrian Empire)
+autriche-hongrie**,Austria-Hungary (Austrian Empire)
+autriche-hongrire,Austria-Hungary (Austrian Empire)
+autriche**,Austria
 avusturalya,Australia
-avusturya,Austria-Hungary
+avusturya,Austria-Hungary (Austrian Empire)
 aziatisch rusland,Asian Russia
 aziatisch turkije,Asian Turkey
 azija (valstybe nenurodyta),Asia (other)
@@ -1099,12 +1099,12 @@ barbados,Barbados
 barbados (british west indies),Barbados
 barbados_preferential,Barbados (other)
 barbadosa sala,Barbados
-barbarian states,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-barbarie,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-"barbary states - algeria, etc",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-"barbary states (algeria, tunis &c.)",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-"barbary states-algeria, etc.",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-barbarysche staten,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
+barbarian states,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+barbarie,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"barbary states - algeria, etc",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"barbary states (algeria, tunis &c.)",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"barbary states-algeria, etc.",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+barbarysche staten,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
 barbuda,Barbuda
 barcelona (spain),Barcelona
 barcelone,Barcelona
@@ -1375,7 +1375,7 @@ brit: guyana,Guyana (British Guiana)
 brit: honduras,Belize (British Honduras)
 brit: jamaica,Jamaica
 brit: trinidad,Trinidad
-"brit. agypt, sudan",North Sudan (Sudan) (Anglo-Egyptian)
+"brit. agypt, sudan",Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 brit. besitzungen im mittelmeer,British Mediterranean
 brit. džr. ve střed. moři,British Mediterranean
 brit. džr. ve vých africe,British East Africa
@@ -1390,7 +1390,7 @@ britanie v. s irskem,United Kingdom
 britanie velka,United Kingdom
 "britanijas kol, nezin",British Colonies (other)
 britanska somalija,Somaliland Republic (British Somaliland)
-britansko-egipatski sudan,North Sudan (Sudan) (Anglo-Egyptian)
+britansko-egipatski sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 britisch australien,Australia
 britisch guayana,Guyana (British Guiana)
 britisch honduras,Belize (British Honduras)
@@ -1580,7 +1580,7 @@ british solomon islands,Solomon Islands (British Solomon Islands Protectorate)
 british solomon islands protectorate,Solomon Islands (British Solomon Islands Protectorate)
 british somaliland,Somaliland Republic (British Somaliland)
 british somaliland (somaliland republic),Somaliland Republic (British Somaliland)
-british soudan,North Sudan (Sudan) (Anglo-Egyptian)
+british soudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 british south africa,British South Africa
 british south africa (including nyasaland prot.),British South Africa
 british south africa (union),South Africa
@@ -1588,7 +1588,7 @@ british south african colonies,British South Africa
 british straits settlement,Straits Settlements
 british straits settlement & british borneo,British Borneo & Straits Settlements
 british straits settlements,Straits Settlements
-british sudan,North Sudan (Sudan) (Anglo-Egyptian)
+british sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 british togoland,British Togoland
 british wale fisheries,***NA
 british west africa,British West Africa
@@ -2808,9 +2808,9 @@ egypt (including the transit from india),Egypt Arab Republic (Egypt)
 "egypt (mediterranean ports, including the transit from india, &c.)",Egypt Arab Republic (Egypt) (other)
 egypt (ports on the mediterranean),Egypt Arab Republic (Egypt) (other)
 egypt (turkey in africa),Egypt Arab Republic (Egypt)
-egypt and anglo-egyptian sudan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
-egypt and sudan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
-egypt and tripoli(turkey in africa),Egypt Arab Republic (Egypt) & Tripolitania
+egypt and anglo-egyptian sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+egypt and sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+egypt and tripoli(turkey in africa),Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli)
 egypt*,Egypt Arab Republic (Egypt)
 egypt†,Egypt Arab Republic (Egypt)
 egypt‡,Egypt Arab Republic (Egypt)
@@ -2832,13 +2832,13 @@ egypte (syrie),Syria
 "egypte (tarsous, province d'adana)",Tarsus
 egypte (tarsous),Tarsus
 egypte (tripoli),Tripoli (Syria)
-egypte en egyptisch deel van soedan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
+egypte en egyptisch deel van soedan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypte et candie,Crete & Egypt Arab Republic (Egypt)
 egypte et dépandances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
 egypte et dépendances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
 égypte et dépendances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
-egypte et régences barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt)
-egypte et soudan anglo-egyptien,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
+egypte et régences barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Egypt Arab Republic (Egypt)
+egypte et soudan anglo-egyptien,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypte et syrie,Egypt Arab Republic (Egypt) & Syria
 égypte et syrie,Egypt Arab Republic (Egypt) & Syria
 egypte et syrie (alexandrie),Alexandria & Egypt Arab Republic (Egypt)
@@ -2852,8 +2852,8 @@ egypte-alexandrie,Alexandria
 egypte**,Egypt Arab Republic (Egypt)
 egyptea,Egypt Arab Republic (Egypt)
 egypten,Egypt Arab Republic (Egypt)
-egypten och british-egyptian sudan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
-egypten og british-egyptian sudan,Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian)
+egypten och british-egyptian sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+egypten og british-egyptian sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypto,Egypt Arab Republic (Egypt)
 egyptom,Egypt Arab Republic (Egypt)
 eire,Ireland
@@ -2874,7 +2874,7 @@ elobey,Elobey Is.
 elsass-lothringen,Alsace Lorraine
 elvetia,Switzerland
 "elvetia, spania, suedia si norvegia, statele americel",Norway & Spain & Sweden & Switzerland & United States of America
-empire autriche,Austria (Austrian Empire)
+empire autriche,Austria-Hungary (Austrian Empire)
 empire d'allemagne,Germany (Zollverein)
 empire d'allemgne,Germany (Zollverein)
 empire ottoman,Turkey (Ottoman Empire)
@@ -2882,15 +2882,15 @@ enclave de cabinda,Kabinda (Portuguese Congo)
 enclaves (territoire de lubeck),Lübeck
 engelsch america,British America
 engelsch-amerika,British America
-engelsch-egyptische soedan,North Sudan (Sudan) (Anglo-Egyptian)
+engelsch-egyptische soedan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 engelsch-indië,India
 engelsche oost indische bezittingen,British East Indies
-engelsk-egyptisk sudan,North Sudan (Sudan) (Anglo-Egyptian)
-engelsk-egyptisk sudan ; etiopia ; britiske områder ; fransk somalkyst ; erytrea og ital. somalk,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & North Sudan (Sudan) (Anglo-Egyptian)
-engl-agypt sudan,North Sudan (Sudan) (Anglo-Egyptian)
+engelsk-egyptisk sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+engelsk-egyptisk sudan ; etiopia ; britiske områder ; fransk somalkyst ; erytrea og ital. somalk,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+engl-agypt sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 england,United Kingdom
 "england, man, and berwick",Berwick & Isle of Man & United Kingdom
-englisch-agyptischer sudan,North Sudan (Sudan) (Anglo-Egyptian)
+englisch-agyptischer sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 english america,British America
 english channel,English Channel
 english channel (for orders),English Channel
@@ -3052,10 +3052,10 @@ etat libre du kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian
 etat oriental,Uruguay
 état oriental de l'uruguay,Uruguay
 etats allemands,Germany (Zollverein)
-etats autrichiens,Austria (Austrian Empire)
-etats barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-états barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-"etats barbaresques (régence de tripoli, tunisie et maroc)",Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
+etats autrichiens,Austria-Hungary (Austrian Empire)
+etats barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+états barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"etats barbaresques (régence de tripoli, tunisie et maroc)",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
 etats confédération hors zollverein,German Confederation (other)
 etats d'allemagne,Germany (Zollverein)
 états d'allemagne,Germany (Zollverein)
@@ -3098,7 +3098,7 @@ etats turcs (y compris egypte et dépendances),Egypt Arab Republic (Egypt) & Egy
 etats turcs (y compris l'egypte et ses dépendances),Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire)
 etats unis,United States of America
 etats_unis,United States of America
-etats-barbaresques et côte d'afrique,Africa Coast & Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
+etats-barbaresques et côte d'afrique,Africa Coast & Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
 etats-romains,Papal States
 états-romains,Papal States
 états-romains (ancône),Ancona
@@ -3274,15 +3274,15 @@ france (french produce),France (French produce)
 france (marchandises étrangères),France (Foreign produce)
 france (marchandises françaises),France (French produce)
 france (mer),France (sea)
-france and algeria,Algeria (Algiers) & France
+france and algeria,Algeria (Regency of Algiers) & France
 france and colonies,France & French Colonies
 france and dependencies,France & French Colonies
 france and french colonies,France & French Colonies
 france and french colonies (french produce),France (French produce) & French Colonies (French produce)
 france and french medit. possessions,France & French Mediterranean
-france et alger,Algeria (Algiers) & France
-france et algerie,Algeria (Algiers) & France
-france et algérie,Algeria (Algiers) & France
+france et alger,Algeria (Regency of Algiers) & France
+france et algerie,Algeria (Regency of Algiers) & France
+france et algérie,Algeria (Regency of Algiers) & France
 france et colonies,France & French Colonies
 france et dépendances,France & French Colonies
 france et des colonies françaises (marchandises françaises),France (French produce) & French Colonies (French produce)
@@ -3291,7 +3291,7 @@ france et possessions,France & French Colonies
 france et possessions françaises (méditerrannée),France & French Mediterranean
 france et ses dépendances,France & French Colonies
 france et ses possessions,France & French Colonies
-france et ses possessions au nord de l'afrique,Algeria (Algiers) & France & Morocco & Tunisia (Tunis)
+france et ses possessions au nord de l'afrique,Algeria (Regency of Algiers) & France & Morocco & Tunisia (Regency of Tunis)
 france et ses possessions d'afrique,France & French Africa
 france on the atlantic,France (Atlantic Coast)
 france on the mediterranean,France (Mediterranean Coast)
@@ -3300,7 +3300,7 @@ france on the mediterranean,France (Mediterranean Coast)
 france(marseille),Marseille
 france**,France
 francia,France
-francia ed algeria,Algeria (Algiers) & France
+francia ed algeria,Algeria (Regency of Algiers) & France
 francia y sus colonias,France & French Colonies
 francie,France
 francija,France
@@ -3976,19 +3976,19 @@ hayti and st. domingo,Dominican Republic (Santo Domingo) & Haiti
 hayti und st. domingo,Dominican Republic (Santo Domingo) & Haiti
 haytian,Haiti
 haytian ports,Haiti
-hedjaj et nedjed,Saudi Arabia (Emirate of Nejd)
+hedjaj et nedjed,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 hedjaz,Hejaz Sultanate
-hedjaz and nejd,Saudi Arabia (Emirate of Nejd)
-hedjaz et nedjed,Saudi Arabia (Emirate of Nejd)
-hedjaz et nedjed (arabie),Saudi Arabia (Emirate of Nejd)
-hedjaz och nedjd,Saudi Arabia (Emirate of Nejd)
-hedschas un nedschd,Saudi Arabia (Emirate of Nejd)
-hedzas i nedzd,Saudi Arabia (Emirate of Nejd)
-hedzasa un nedzda,Saudi Arabia (Emirate of Nejd)
+hedjaz and nejd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+hedjaz et nedjed,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+hedjaz et nedjed (arabie),Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+hedjaz och nedjd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+hedschas un nedschd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+hedzas i nedzd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+hedzasa un nedzda,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 hedzasas,Hejaz Sultanate
-hegiae e neged,Saudi Arabia (Emirate of Nejd)
+hegiae e neged,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 heilgoland,Heligoland
-"hejar, nejd and dependencies, and yemen",Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
+"hejar, nejd and dependencies, and yemen",Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 hejaz,Hejaz Sultanate
 "hejaz, arabia and mesopotamia",Arabia & Hejaz Sultanate & Iraq (Mesopotamia)
 "hejaz, arabia, and mesopotamia",Arabia & Hejaz Sultanate & Iraq (Mesopotamia)
@@ -4612,14 +4612,14 @@ italie (toscane),Tuscany
 italie (trieste),Trieste
 italie du nord,Northern Italy
 italië en fiume,Fiume & Italy
-italie et autriche,Austria (Austrian Empire) & Italy
+italie et autriche,Austria-Hungary (Austrian Empire) & Italy
 italie et colonies,Italian Colonies & Italy
 "italie,grèce et levant",Greece & Italy & Levant
 italie: gênes,Genoa
 italie: livourne,Livorno
 italie: trieste,Trieste
 italien,Italy
-italien og østerrige,Austria-Hungary & Italy
+italien og østerrige,Austria-Hungary (Austrian Empire) & Italy
 italien somalilandet,Italian Somaliland
 italien und malta,Italy & Malta
 italienisch afrika,Italian Africa
@@ -4636,7 +4636,7 @@ italy : papal states,Papal States
 italy : sardinia,Sardinia
 italy : tuscany,Tuscany
 italy : two sicilies,Two Sicilies
-italy and austria,Austria (Austrian Empire) & Italy
+italy and austria,Austria-Hungary (Austrian Empire) & Italy
 italy and colonies,Italian Colonies & Italy
 italy and fiume,Fiume & Italy
 italy and italian aegean islands,Dodecanese Is. (Aegean Is.) & Italy
@@ -5070,7 +5070,7 @@ luxemburgo,Luxemburg
 lybeck,Lübeck
 lybia,Libya
 lybie,Libya
-lybie (tripolitaine et cyrénaïque),Cyrenaica & Tripolitania
+lybie (tripolitaine et cyrénaïque),Cyrenaica & Tripolitania (Regency of Tripoli)
 macao,Macao
 macao (portugal),Macao
 macao and timor,East Timor (Portuguese Timor) & Macao
@@ -5224,9 +5224,9 @@ maroc (zone française),Morocco
 maroc espagn,Spanish Morocco
 maroc espagnol,Spanish Morocco
 maroc espagnol et iles canaries,Canary Is. & Spanish Morocco
-maroc et barbarie,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-maroc et barbarie**,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-maroc et tunis,Morocco & Tunisia (Tunis)
+maroc et barbarie,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+maroc et barbarie**,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+maroc et tunis,Morocco & Tunisia (Regency of Tunis)
 maroc franc,Morocco
 maroc francais,Morocco
 maroc français,Morocco
@@ -5234,7 +5234,7 @@ maroc tanger,Tangier
 maroc zone espagnole,Spanish Morocco
 maroc zone française,Morocco
 maroc-tanger,Tangier
-"maroc, algérie, tunis et zanzibar",Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar
+"maroc, algérie, tunis et zanzibar",Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis) & Zanzibar
 "maroc, tanger",Tangier
 marocco,Morocco
 marocko,Morocco
@@ -5532,8 +5532,8 @@ morea and greek islands,Ionian Is. & Morea
 "moresnet, terr. indivis, situé près de verviers.",Moresnet
 morocco,Morocco
 morocco (exclusive of ports in the possession of spain),Morocco (other)
-morocco and algeria,Algeria (Algiers) & Morocco
-morocco and barbary states,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
+morocco and algeria,Algeria (Regency of Algiers) & Morocco
+morocco and barbary states,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
 "morocco, french protectorate",Morocco
 "morocco, spanish zone & tangier",Spanish Morocco & Tangier
 moroco,Morocco
@@ -5620,7 +5620,7 @@ nederländska guyana,Surinam (Dutch Guiana)
 nederländska ostindien,Indonesia (Dutch East Indies)
 nederlandske besiddelser,Dutch Colonies
 nederlansk india,Indonesia (Dutch East Indies)
-nedj et hedjaz,Saudi Arabia (Emirate of Nejd)
+nedj et hedjaz,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 negri sembilan,Negeri Sembilan
 německo,Germany (Zollverein)
 németalföld,Netherlands
@@ -5969,7 +5969,7 @@ oceanja francuska,French Oceania
 oceanja stanów zjednoczonych,American Oceania
 odessa (russia),Odessa
 odessa und galatz,Galați & Odessa
-oesterreich-ungarn,Austria-Hungary
+oesterreich-ungarn,Austria-Hungary (Austrian Empire)
 öfriga afrika,Africa (other)
 öfriga asien,Asia (other)
 ofriga balistka lander,Latvia & Lithuania
@@ -6015,10 +6015,10 @@ ontario and quebec (north america),Ontario (Upper Canada) & Quebec (Lower Canada
 ontario and quebec/new brunswick/nova scotia/prince edward island,New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada)
 ontario et québec,Ontario (Upper Canada) & Quebec (Lower Canada)
 "ontario, québec",Ontario (Upper Canada) & Quebec (Lower Canada)
-ooestenrijk,Austria (Austrian Empire)
-oostenrijk,Austria (Austrian Empire)
-oostenrijk-hongarije,Austria-Hungary
-"oostenrijk, hongarije en tshechoslowakije",Austria (Austrian Empire) & Czechoslovakia & Hungary
+ooestenrijk,Austria
+oostenrijk,Austria
+oostenrijk-hongarije,Austria-Hungary (Austrian Empire)
+"oostenrijk, hongarije en tshechoslowakije",Austria & Czechoslovakia & Hungary
 oporto,Porto
 optional,***NA
 orange,Orange Free State (Orange River Colony)
@@ -6066,14 +6066,14 @@ ostatni spanelske drz v africe a ostatni afrika,Spanish Africa & Africa (other)
 ostatni zeme jizni ameriky,Southern America (other)
 ostatni zeme na stredoamericke pevnine,Central America (other)
 ostatni zeme severni ameriky,Northern America (other)
-österreich,Austria (Austrian Empire)
-österreich-ungarn,Austria-Hungary
-österrig,Austria-Hungary
-østerrig,Austria-Hungary
-österrike,Austria (Austrian Empire)
-østerrike,Austria (Austrian Empire)
-osterrike-ungern,Austria-Hungary
-osterrikiska staterne,Austria (Austrian Empire)
+österreich,Austria
+österreich-ungarn,Austria-Hungary (Austrian Empire)
+österrig,Austria-Hungary (Austrian Empire)
+østerrig,Austria-Hungary (Austrian Empire)
+österrike,Austria
+østerrike,Austria
+osterrike-ungern,Austria-Hungary (Austrian Empire)
+osterrikiska staterne,Austria-Hungary (Austrian Empire)
 ostfriesland,East Frisia
 ostfrise,East Frisia
 ostindien,East Indies
@@ -6085,8 +6085,8 @@ ostindien och öfriga ost-asiatiska länder samt australien,Asia (other) & Austr
 "ostindien, kina, asien forøvrigt",Asia (other) & East Indies & People's Republic of China (China)
 ostindien. australien,Australia & East Indies
 ostpolen,Kresy
-østrig,Austria (Austrian Empire)
-østrig-ungarn,Austria-Hungary
+østrig,Austria
+østrig-ungarn,Austria-Hungary (Austrian Empire)
 othe usa possessions,American Colonies (other)
 other,Other countries
 other (british west indies),British West Indies (other)
@@ -6715,7 +6715,7 @@ ports libres allemands,Hanse Towns (Bremen & Hamburg & Lübeck)
 ports libres de la mer noire,Black Sea Free Ports
 ports libres des pays-bas,Dutch Free Ports
 ports libres polonais,Poland Free Port
-ports non occupés de l'algérie,Algeria (Algiers) (other)
+ports non occupés de l'algérie,Algeria (Regency of Algiers) (other)
 ports océan pacifique,Pacific Ports
 ports of the crinea (in the temporary occupation of the allied forces),Crimea Ports
 ports russes baltique,Russia (Baltic Sea)
@@ -6981,7 +6981,7 @@ possessions françaises d'asie,French Asia
 possessions françaises d'asie**,French Asia
 possessions françaises dans l'inde,French India
 possessions françaises en afrique,French Africa
-possessions françaises en afrique_ algérie,Algeria (Algiers)
+possessions françaises en afrique_ algérie,Algeria (Regency of Algiers)
 possessions françaises en océanie,French Oceania
 possessions france,French Colonies
 possessions france west africa,French West Africa
@@ -7042,7 +7042,7 @@ pozostale niewymienione kraje azji,Asia (other)
 prancuzija,France
 prancuzu somalija,Djibouti (Afar and Issas) (French Somaliland)
 prancuzu togo,Togo (French Togoland)
-prancuzu tunisas,Tunisia (Tunis)
+prancuzu tunisas,Tunisia (Regency of Tunis)
 prancuzy indokinija,French Indochina
 prantsuse,France
 preussen,Prussia
@@ -7158,7 +7158,7 @@ r.u. de gr. bretagne et irlande du nord,United Kingdom
 ragged island,Ragged Island
 ragged islands,Ragged Island
 raguse,Ragusa
-rakousko,Austria (Austrian Empire)
+rakousko,Austria
 rancho,Unknown
 rangoon,Rangoon
 rangoon et moulmain,Mawlamyine & Rangoon
@@ -7167,17 +7167,17 @@ rangoun,Rangoon
 řecko,Greece
 red sea,Red Sea
 reg. art. e antart. -pesca,***NA
-régence,Tripolitania
-régence de tripoli,Tripolitania
-régence de tripoli et états barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-régence de tripoli et maroc,Morocco & Tripolitania
-régence de tunis,Tunis
-régence de tunis (port la goulette),Tunis
-régence de tunis (tunis),Tunisia (Tunis)
-régence et etats barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-régences barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-regencia de tunis,Tunisia (Tunis)
-régende de tripoli,Tripolitania
+régence,Tripolitania (Regency of Tripoli)
+régence de tripoli,Tripolitania (Regency of Tripoli)
+régence de tripoli et états barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+régence de tripoli et maroc,Morocco & Tripolitania (Regency of Tripoli)
+régence de tunis,Tunisia (Regency of Tunis)
+régence de tunis (port la goulette),La Goulette
+régence de tunis (tunis),Tunis
+régence et etats barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+régences barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+regencia de tunis,Tunisia (Regency of Tunis)
+régende de tripoli,Tripolitania (Regency of Tripoli)
 regions arctiques,Arctic
 régions arctiques et antarctiques,Antarctic & Arctic
 regno d'italia,Italy
@@ -7305,7 +7305,7 @@ rivière rouge,Red River
 rivières du sud du sénégal,Guinea (French Guinea) (Rivieres du Sud)
 rjeka,Fiume
 ródes,Rhodes
-rodésia,Zambia (Northern Rhodesia)
+rodésia,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rodesias,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rodesie du n-ouest,Barotseland_North_Western Rhodesia (Northwestern Rhodesia)
 rodessie meridional,Zimbabwe (Rhodesia) (Southern Rhodesia)
@@ -7335,7 +7335,7 @@ roumélie-orientale,Eastern Rumelia
 równikowo-wschodniej,Eastern Africa (other)
 równikowo-zachodniej,Western Africa (other)
 "roy. serbes, croates et slov.","Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
-royaume arabe saoudien,Saudi Arabia (Emirate of Nejd)
+royaume arabe saoudien,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 royaume d'italie,Italy
 royaume de serbie,Kingdom of Serbia
 royaume de siam,Thailand (Siam)
@@ -7660,12 +7660,12 @@ sardiniska riket.toscana. begge sicilierne,Kingdom of Sardinia & Tuscany & Two S
 sardinska riket. toscana. begge sicilierne,Kingdom of Sardinia & Tuscany & Two Sicilies
 sardinska riket.toscana. begge sicilierne,Kingdom of Sardinia & Tuscany & Two Sicilies
 sarre,Saar
-saudi arabia,Saudi Arabia (Emirate of Nejd)
-saudi arabia and yemen,Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
+saudi arabia,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+saudi arabia and yemen,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 savanilla,Barranquilla
 savannah banks,Unknown
 saxe,Saxony
-saxe et autriche,Austria (Austrian Empire) & Saxony
+saxe et autriche,Austria-Hungary (Austrian Empire) & Saxony
 saxe et bavière (association commerciale allemande),Bavaria & Saxony
 "saxe, bavière, francfort s/m",Bavaria & Frankfurt & Saxony
 "saxe, bavière, francfort s/m (association commerciale allemande)",Bavaria & Frankfurt & Saxony
@@ -7865,12 +7865,12 @@ sonstiges europa,Europe (other)
 sonstiges nordafika,Northern Africa (other)
 sonstiges nordafrkia,Northern Africa (other)
 soome,Finland
-soudan,North Sudan (Sudan) (Anglo-Egyptian)
-soudan angl egyptien,North Sudan (Sudan) (Anglo-Egyptian)
-soudan anglo-egypt,North Sudan (Sudan) (Anglo-Egyptian)
-soudan anglo-egyptien,North Sudan (Sudan) (Anglo-Egyptian)
-soudan anglo-égyptien,North Sudan (Sudan) (Anglo-Egyptian)
-soudan brit,North Sudan (Sudan) (Anglo-Egyptian)
+soudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+soudan angl egyptien,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+soudan anglo-egypt,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+soudan anglo-egyptien,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+soudan anglo-égyptien,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+soudan brit,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 soudan franc,Mali (French Sudan) (Upper Senegal and Niger)
 soudan français,Mali (French Sudan) (Upper Senegal and Niger)
 soulou ou soloo,Sulu Sultanate
@@ -8192,21 +8192,21 @@ sud-ouest afrique,Namibia (South West Africa) (German South West Africa)
 "sudafrika, n.b.b.",South Africa (other)
 sudafrikanische union,South Africa
 "sudamerika, n.b.b.",Southern America (other)
-sudan,North Sudan (Sudan) (Anglo-Egyptian)
-sudán,North Sudan (Sudan) (Anglo-Egyptian)
-sudan (anglo-egyptian sudan),North Sudan (Sudan) (Anglo-Egyptian)
-sudan (anglo-egyptian),North Sudan (Sudan) (Anglo-Egyptian)
-sudan anglo-egipcio,North Sudan (Sudan) (Anglo-Egyptian)
-sudán anglo-egipcio,North Sudan (Sudan) (Anglo-Egyptian)
-sudan anglo-egipski,North Sudan (Sudan) (Anglo-Egyptian)
-sudan brytański,North Sudan (Sudan) (Anglo-Egyptian)
+sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudán,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudan (anglo-egyptian sudan),Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudan (anglo-egyptian),Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudan anglo-egipcio,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudán anglo-egipcio,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudan anglo-egipski,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudan brytański,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 sudan frances,Mali (French Sudan) (Upper Senegal and Niger)
 sudán francés,Mali (French Sudan) (Upper Senegal and Niger)
 sudan francuski,Mali (French Sudan) (Upper Senegal and Niger)
-"sudana, anglu-egiptiesu",North Sudan (Sudan) (Anglo-Egyptian)
+"sudana, anglu-egiptiesu",Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 "sudana, francijas",Mali (French Sudan) (Upper Senegal and Niger)
-sudão anglo-egipeio,North Sudan (Sudan) (Anglo-Egyptian)
-sudao anglo-egypcio,North Sudan (Sudan) (Anglo-Egyptian)
+sudão anglo-egipeio,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+sudao anglo-egypcio,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 sudoeste africano inglez,British South West Africa
 sudoeste africano-inglės,British South West Africa
 sudrusland,Southern Russia
@@ -8498,7 +8498,7 @@ toscane**,Tuscany
 totaal,World
 totaes,World
 total,World
-"total (france, algeria, other french possessions)",Algeria (Algiers) & France & French Colonies (other)
+"total (france, algeria, other french possessions)",Algeria (Regency of Algiers) & France & French Colonies (other)
 total africa,Africa
 total all countries,World
 total asia,Asia
@@ -8545,12 +8545,12 @@ trébizonde,Trabzon
 trengganu,Trengganu
 triest,Trieste
 triest (freihasen),Trieste
-triest and other austrian ports on the adriatic,Austria (Austrian Empire) & Trieste
+triest and other austrian ports on the adriatic,Austria-Hungary (Austrian Empire) & Trieste
 triest und san giovanni,Republic of St. Mark & Trieste
 triest und venedig,Republic of St. Mark & Trieste
 "triest, venedig und den jonischen inseln",Ionian Is. & Republic of St. Mark & Trieste
 trieste,Trieste
-trieste and other austrian ports,Austria (Austrian Empire) & Trieste
+trieste and other austrian ports,Austria-Hungary (Austrian Empire) & Trieste
 trieste et gênes,Genoa & Trieste
 trieste et venise,Republic of St. Mark & Trieste
 trieste free district,Trieste
@@ -8580,65 +8580,65 @@ trinité,Trinidad
 trinité (ile de la),Trinidad
 trinite et tobago,Trinidad and Tobago
 trinité et tobago,Trinidad and Tobago
-tripoli,Tripolitania
-trípoli,Tripolitania
+tripoli,Tripolitania (Regency of Tripoli)
+trípoli,Tripolitania (Regency of Tripoli)
 tripoli (bengasi),Benghazi
-tripoli (libya),Tripolitania
-tripoli (régence de tripoli),Tripolitania
-tripoli (turkey in africa),Tripolitania
-tripoli (turquie d'afrique),Tripolitania
-tripoli and cirenaica,Cyrenaica & Tripolitania
-tripoli and tunis,Tripolitania & Tunisia (Tunis)
-tripoli de barbarie,Tripolitania
+tripoli (libya),Tripolitania (Regency of Tripoli)
+tripoli (régence de tripoli),Tripolitania (Regency of Tripoli)
+tripoli (turkey in africa),Tripolitania (Regency of Tripoli)
+tripoli (turquie d'afrique),Tripolitania (Regency of Tripoli)
+tripoli and cirenaica,Cyrenaica & Tripolitania (Regency of Tripoli)
+tripoli and tunis,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
+tripoli de barbarie,Tripolitania (Regency of Tripoli)
 tripoli de barbarie (bengasi),Benghazi
 tripoli de barbarie (tripoli),Tripoli (Tripolitania)
-tripoli en bengazi,Benghazi & Tripolitania
-"tripoli, tunis, algers and morocco",Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis)
-"tripoli, tunis, algiers and morocco",Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis)
-tripolis,Tripolitania
-tripolis a cyrenaika,Cyrenaica & Tripolitania
-tripolis en bengazi,Benghazi & Tripolitania
-"tripolis, tunis och marocko",Morocco & Tripolitania & Tunisia (Tunis)
-tripolisz,Tripolitania
-tripolitaine,Tripolitania
-tripolitaine et cyrenaique,Cyrenaica & Tripolitania
-tripolitaine et cyrénaïque,Cyrenaica & Tripolitania
-tripolitania,Tripolitania
-tripolitania e cirenaica,Cyrenaica & Tripolitania
+tripoli en bengazi,Benghazi & Tripolitania (Regency of Tripoli)
+"tripoli, tunis, algers and morocco",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+"tripoli, tunis, algiers and morocco",Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
+tripolis,Tripolitania (Regency of Tripoli)
+tripolis a cyrenaika,Cyrenaica & Tripolitania (Regency of Tripoli)
+tripolis en bengazi,Benghazi & Tripolitania (Regency of Tripoli)
+"tripolis, tunis och marocko",Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
+tripolisz,Tripolitania (Regency of Tripoli)
+tripolitaine,Tripolitania (Regency of Tripoli)
+tripolitaine et cyrenaique,Cyrenaica & Tripolitania (Regency of Tripoli)
+tripolitaine et cyrénaïque,Cyrenaica & Tripolitania (Regency of Tripoli)
+tripolitania,Tripolitania (Regency of Tripoli)
+tripolitania e cirenaica,Cyrenaica & Tripolitania (Regency of Tripoli)
 tristan d'acunha,Tristan da Cunha
 tristan da cunha,Tristan da Cunha
 tristan de cunha,Tristan da Cunha
-trypolitanja,Tripolitania
+trypolitanja,Tripolitania (Regency of Tripoli)
 tschechoslowakei,Czechoslovakia
 tshehho-slovak,Czechoslovakia
 tsj-slowakije,Czechoslovakia
 tsjechoslowakije,Czechoslovakia
 tsjekkoslovakia,Czechoslovakia
 tuamotu archipelago,Tuamotu Is.
-tunesien,Tunisia (Tunis)
-tunez,Tunis
-túnez,Tunisia (Tunis)
-tunez (bajalato de),Tunisia (Tunis)
-tunis,Tunis
-tunis (french possession),Tunis
-tunis and tripoli,Tripolitania & Tunisia (Tunis)
-tunis et alger,Algeria (Algiers) & Tunisia (Tunis)
-tunis et tripoli,Tripolitania & Tunisia (Tunis)
-"tunis, other countries",Other countries & Tunisia (Tunis)
-tunis**,Tunis
-tunisa,Tunisia (Tunis)
-tunisi,Tunisia (Tunis)
-tunisi e tripoli,Tripolitania & Tunisia (Tunis)
-tunisia,Tunisia (Tunis)
-tunísia,Tunisia (Tunis)
-tunisie,Tunisia (Tunis)
-tunisie (protectorat français),Tunisia (Tunis)
+tunesien,Tunisia (Regency of Tunis)
+tunez,Tunisia (Regency of Tunis)
+túnez,Tunisia (Regency of Tunis)
+tunez (bajalato de),Tunisia (Regency of Tunis)
+tunis,Tunisia (Regency of Tunis)
+tunis (french possession),Tunisia (Regency of Tunis)
+tunis and tripoli,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
+tunis et alger,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
+tunis et tripoli,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
+"tunis, other countries",Other countries & Tunisia (Regency of Tunis)
+tunis**,Tunisia (Regency of Tunis)
+tunisa,Tunisia (Regency of Tunis)
+tunisi,Tunisia (Regency of Tunis)
+tunisi e tripoli,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
+tunisia,Tunisia (Regency of Tunis)
+tunísia,Tunisia (Regency of Tunis)
+tunisie,Tunisia (Regency of Tunis)
+tunisie (protectorat français),Tunisia (Regency of Tunis)
 tunisie (tunis),Tunis
-tunisie et tripolitaine,Tripolitania & Tunisia (Tunis)
-"tunisie, libye",Libya & Tunisia (Tunis)
-tunisien,Tunisia (Tunis)
-tunisz,Tunisia (Tunis)
-tunus,Tunisia (Tunis)
+tunisie et tripolitaine,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
+"tunisie, libye",Libya & Tunisia (Regency of Tunis)
+tunisien,Tunisia (Regency of Tunis)
+tunisz,Tunisia (Regency of Tunis)
+tunus,Tunisia (Regency of Tunis)
 tur,Turkey (Ottoman Empire)
 turchia,Turkey (Ottoman Empire)
 turchia asia,Asian Turkey
@@ -8674,7 +8674,7 @@ turkey (in asia),Asian Turkey
 turkey (including egypt),Turkey (Ottoman Empire)
 turkey (including muscat),Turkey (Ottoman Empire)
 turkey in africa,African Turkey
-turkey in africa (egypt and tripoli),Egypt Arab Republic (Egypt) & Tripolitania
+turkey in africa (egypt and tripoli),Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli)
 turkey in africa (total),African Turkey
 turkey in asia,Asian Turkey
 turkey in asia and europe,Turkey (Ottoman Empire)
@@ -8682,11 +8682,11 @@ turkey in asia and europe,Turkey (Ottoman Empire)
 "turkey in asia, persia, afghanistan",Afghanistan & Asian Turkey & Iran (Persia)
 "turkey in asia, persia, arabia, etc",Asian Turkey & Iran (Persia) & Middle-East
 "turkey in asia, persia, arabia, etc.",Asian Turkey & Iran (Persia) & Middle-East
-"turkey in asia, persia, egypt, algeria, ade, etc.",Aden & Algeria (Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
-"turkey in asia, persia, egypt, algeria, aden & etc",Aden & Algeria (Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
-"turkey in asia, persia, egypt, algeria, aden, etc.",Aden & Algeria (Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
-"turkey in asia, persia, egypt, algeria, aden,&c.",Aden & Algeria (Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
-"turkey in asia, persia, egypt, algiers, aden, etc.",Aden & Algeria (Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
+"turkey in asia, persia, egypt, algeria, ade, etc.",Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
+"turkey in asia, persia, egypt, algeria, aden & etc",Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
+"turkey in asia, persia, egypt, algeria, aden, etc.",Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
+"turkey in asia, persia, egypt, algeria, aden,&c.",Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
+"turkey in asia, persia, egypt, algiers, aden, etc.",Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia)
 turkey in europe,European Turkey
 turkey in europe (including bulgaria and candia),Bulgaria & Crete
 turkey in europe (including bulgaria),Bulgaria
@@ -8707,7 +8707,7 @@ turkey in europe including bulgaria and candia,Bulgaria & Crete
 "turkey, greece, egypt",Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire)
 "turkey, levant, egypt, etc.",Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire)
 "turkey, levant, etc.",Turkey (Ottoman Empire) & Middle-East
-"turkey, persia, egypt, aden, morocco and algeria",Aden & Algeria (Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco
+"turkey, persia, egypt, aden, morocco and algeria",Aden & Algeria (Regency of Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco
 "turkey, roumania and greece",Greece & Romania & Turkey (Ottoman Empire)
 turkey: asiatic,Asian Turkey
 turkey: european,European Turkey
@@ -8753,7 +8753,7 @@ turquie (anatolie),Western Anatolia
 turquie (autres ports),Turkey (Ottoman Empire) (other)
 turquie (avec egypte et dépendances),Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire)
 turquie (bagdad),Baghdad
-turquie (barbarie),Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
+turquie (barbarie),Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
 turquie (bassorah),Basra
 turquie (beyrout),Beirut
 turquie (candie),Crete
@@ -8792,10 +8792,10 @@ turquie d'europe et d'asie,Turkey (Ottoman Empire)
 "turquie d'europe, roumélie et monténégro",European Turkey & Montenegro
 turquie en asie,Asian Turkey
 turquie et asie mineure,Turkey (Ottoman Empire) & Western Anatolia
-turquie et barbarie,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire)
-turquie et egypte et barbarie,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
-turquie et égypte et barbarie,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
-turquie et etats barbaresques,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire)
+turquie et barbarie,Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Turkey (Ottoman Empire)
+turquie et egypte et barbarie,Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
+turquie et égypte et barbarie,Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
+turquie et etats barbaresques,Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Turkey (Ottoman Empire)
 turquie et grèce,Greece & Turkey (Ottoman Empire)
 turquie et levant,Levant & Turkey (Ottoman Empire)
 turquie et son archipel,Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire)
@@ -8820,7 +8820,7 @@ tyrkiet,Turkey (Ottoman Empire)
 tyrkiet og grækenland,Greece & Turkey (Ottoman Empire)
 "tyrkiet, rumænien og grækenland",Greece & Romania & Turkey (Ottoman Empire)
 tysk afrika,German Africa
-tysk-österrike,Austria (Austrian Empire)
+tysk-österrike,Austria
 tyska ost-afrika,German East Africa
 tyska riket,Germany (Zollverein)
 tyska riket (och luxembourg),Germany (Zollverein)
