@@ -12,9 +12,10 @@ import { DEFAULT_REF_BRANCH } from "../../constants";
 import Octokat from "octokat";
 
 import { Base64 } from "js-base64";
-import { unparse, parse } from "papaparse";
+import { unparse } from "papaparse";
 
 import { INIT_TABLES } from "./referenceTables";
+import { csvParse } from "d3-dsv";
 
 export const FETCH_TABLE_REQUEST = "FETCH_TABLE_REQUEST";
 export const FETCH_TABLE_SUCCESS = "FETCH_TABLE_SUCCESS";
@@ -198,7 +199,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
             );
             if (exists.status === 200) {
               // append new rows at end of the existing file
-              file.data = parse(exists.data).concat(file.data);
+              file.data = csvParse(exists.data).concat(file.data);
             }
           } catch (error) {
             if (error.response && error.response.status === 404) {
@@ -212,11 +213,14 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
                 newRessource.title = file.source;
                 descriptor.resources.push(newRessource);
               }
-            } else console.log(error);
-            dispatch({
-              type: UPDATE_REMOTE_FILES_FAILURE,
-              error,
-            });
+            } else {
+              console.log(error);
+              dispatch({
+                type: UPDATE_REMOTE_FILES_FAILURE,
+                error,
+              });
+              return;
+            }
           }
         }
         dispatch({
