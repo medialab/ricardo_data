@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 136.563
+time: 138.716
 errors: []
 tasks:
   - resource:
@@ -85,7 +85,7 @@ tasks:
         bytes: 915406
         fields: 14
         rows: 4580
-    time: 0.181
+    time: 0.188
     scope:
       - hash-count-error
       - byte-count-error
@@ -182,7 +182,7 @@ tasks:
         bytes: 136485
         fields: 6
         rows: 2157
-    time: 0.121
+    time: 0.12
     scope:
       - hash-count-error
       - byte-count-error
@@ -238,11 +238,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: b88dd0654b837e3fe3de596effc5ce89
-        bytes: 424386
+        hash: 279da11ead2332952e919c13345196e7
+        bytes: 424459
         fields: 2
-        rows: 9361
-    time: 0.324
+        rows: 9363
+    time: 0.3
     scope:
       - hash-count-error
       - byte-count-error
@@ -305,7 +305,7 @@ tasks:
         bytes: 112828
         fields: 3
         rows: 1697
-    time: 0.123
+    time: 0.11
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905614
         fields: 5
         rows: 7750
-    time: 0.347
+    time: 0.291
     scope:
       - hash-count-error
       - byte-count-error
@@ -427,11 +427,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 22ff57a01a42159de0811a88cbb7cfe7
-        bytes: 1504466
+        hash: 37163436d46bc543c3280c0b5ea5147d
+        bytes: 1505113
         fields: 4
-        rows: 36194
-    time: 0.961
+        rows: 36212
+    time: 1.004
     scope:
       - hash-count-error
       - byte-count-error
@@ -539,7 +539,7 @@ tasks:
         bytes: 3217
         fields: 4
         rows: 118
-    time: 0.007
+    time: 0.008
     scope:
       - hash-count-error
       - byte-count-error
@@ -3760,11 +3760,11 @@ tasks:
       scheme: multipart
       hashing: md5
       stats:
-        hash: f9e2d00333e145de8ec912e24f326942
-        bytes: 78384853
+        hash: e208496c17b8e0f24d56d78f163944f8
+        bytes: 83522851
         fields: 15
-        rows: 547036
-    time: 134.15
+        rows: 605740
+    time: 136.347
     scope:
       - hash-count-error
       - byte-count-error
