@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 185.066
+time: 139.767
 errors: []
 tasks:
   - resource:
@@ -85,7 +85,7 @@ tasks:
         bytes: 915406
         fields: 14
         rows: 4580
-    time: 0.223
+    time: 0.168
     scope:
       - hash-count-error
       - byte-count-error
@@ -182,7 +182,7 @@ tasks:
         bytes: 136485
         fields: 6
         rows: 2157
-    time: 0.177
+    time: 0.1
     scope:
       - hash-count-error
       - byte-count-error
@@ -242,7 +242,7 @@ tasks:
         bytes: 424459
         fields: 2
         rows: 9363
-    time: 0.395
+    time: 0.259
     scope:
       - hash-count-error
       - byte-count-error
@@ -305,7 +305,7 @@ tasks:
         bytes: 112828
         fields: 3
         rows: 1697
-    time: 0.137
+    time: 0.085
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905614
         fields: 5
         rows: 7750
-    time: 0.479
+    time: 0.3
     scope:
       - hash-count-error
       - byte-count-error
@@ -431,7 +431,7 @@ tasks:
         bytes: 1503652
         fields: 4
         rows: 36179
-    time: 1.448
+    time: 0.971
     scope:
       - hash-count-error
       - byte-count-error
@@ -539,7 +539,7 @@ tasks:
         bytes: 3129
         fields: 4
         rows: 110
-    time: 0.014
+    time: 0.008
     scope:
       - hash-count-error
       - byte-count-error
@@ -3764,7 +3764,7 @@ tasks:
         bytes: 83517263
         fields: 15
         rows: 605740
-    time: 181.727
+    time: 137.578
     scope:
       - hash-count-error
       - byte-count-error
