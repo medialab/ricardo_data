@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 138.716
+time: 185.066
 errors: []
 tasks:
   - resource:
@@ -85,7 +85,7 @@ tasks:
         bytes: 915406
         fields: 14
         rows: 4580
-    time: 0.188
+    time: 0.223
     scope:
       - hash-count-error
       - byte-count-error
@@ -182,7 +182,7 @@ tasks:
         bytes: 136485
         fields: 6
         rows: 2157
-    time: 0.12
+    time: 0.177
     scope:
       - hash-count-error
       - byte-count-error
@@ -242,7 +242,7 @@ tasks:
         bytes: 424459
         fields: 2
         rows: 9363
-    time: 0.3
+    time: 0.395
     scope:
       - hash-count-error
       - byte-count-error
@@ -305,7 +305,7 @@ tasks:
         bytes: 112828
         fields: 3
         rows: 1697
-    time: 0.11
+    time: 0.137
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905614
         fields: 5
         rows: 7750
-    time: 0.291
+    time: 0.479
     scope:
       - hash-count-error
       - byte-count-error
@@ -427,11 +427,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 37163436d46bc543c3280c0b5ea5147d
-        bytes: 1505113
+        hash: 51ae7953055c53284991bed94ebbfba0
+        bytes: 1503652
         fields: 4
-        rows: 36212
-    time: 1.004
+        rows: 36179
+    time: 1.448
     scope:
       - hash-count-error
       - byte-count-error
@@ -458,8 +458,8 @@ tasks:
           - '1830'
           - montevideo
           - ''
-        rowNumber: 35479
-        rowPosition: 35480
+        rowNumber: 35447
+        rowPosition: 35448
         code: foreign-key-error
         name: ForeignKey Error
         tags:
@@ -467,7 +467,7 @@ tasks:
           - '#row'
         note: 'for "modified_currency, year": values "None, 1830" not found in the
           lookup table "exchange_rates" as "modified_currency, year"'
-        message: 'Row at position "35480" violates the foreign key: for "modified_currency,
+        message: 'Row at position "35448" violates the foreign key: for "modified_currency,
           year": values "None, 1830" not found in the lookup table "exchange_rates"
           as "modified_currency, year"'
         description: Values in the foreign key fields should exist in the reference
@@ -477,8 +477,8 @@ tasks:
           - '1831'
           - montevideo
           - ''
-        rowNumber: 35480
-        rowPosition: 35481
+        rowNumber: 35448
+        rowPosition: 35449
         code: foreign-key-error
         name: ForeignKey Error
         tags:
@@ -486,7 +486,7 @@ tasks:
           - '#row'
         note: 'for "modified_currency, year": values "None, 1831" not found in the
           lookup table "exchange_rates" as "modified_currency, year"'
-        message: 'Row at position "35481" violates the foreign key: for "modified_currency,
+        message: 'Row at position "35449" violates the foreign key: for "modified_currency,
           year": values "None, 1831" not found in the lookup table "exchange_rates"
           as "modified_currency, year"'
         description: Values in the foreign key fields should exist in the reference
@@ -535,11 +535,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 6765285765a8cc498ec787b8205eb74e
-        bytes: 3217
+        hash: 237e814a036cb07e0cb3310971f267e6
+        bytes: 3129
         fields: 4
-        rows: 118
-    time: 0.008
+        rows: 110
+    time: 0.014
     scope:
       - hash-count-error
       - byte-count-error
@@ -3760,11 +3760,11 @@ tasks:
       scheme: multipart
       hashing: md5
       stats:
-        hash: e208496c17b8e0f24d56d78f163944f8
-        bytes: 83522851
+        hash: 711e895fa30dee2d479b0f45fe2c073f
+        bytes: 83517263
         fields: 15
         rows: 605740
-    time: 136.347
+    time: 181.727
     scope:
       - hash-count-error
       - byte-count-error
