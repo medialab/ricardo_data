@@ -352,13 +352,13 @@ AnnuaireStatistiqueDeLaFrance_1932_406,,Annuaire Statistique de la France,Direct
 AnnuaireStatistiqueDeLaFrance_1934,,Annuaire Statistique de la France,Direction de la Statistique générale et de la documentation,,,1934,,,,,statistical series,,primary_yearbook
 AnnuaireStatistiqueDeLaFrance_1935,,Annuaire Statistique de la France,Direction de la Statistique générale et de la documentation,,,1935,,,,,statistical series,,primary_yearbook
 AnnuaireStatistiqueDeLaFrance_1936,,Annuaire Statistique de la France,Direction de la Statistique générale et de la documentation,,,1936,,,,,statistical series,,primary_yearbook
-AnnuaireStatistiqueDeLaSociétéDesNations_19331934,League of Nations,Statistical Yearbook of the League of Nations,,,,1933-1934,,,,,statistical series,,secondary
-AnnuaireStatistiqueDeLaSociétéDesNations_19341935,League of Nations,Statistical Yearbook of the League of Nations,,,,1934-1935,,,,,statistical series,,secondary
-AnnuaireStatistiqueDeLaSociétéDesNations_19351936,League of Nations,Statistical Yearbook of the League of Nations,,,,1935-1936,,,,,statistical series,,secondary
-AnnuaireStatistiqueDeLaSociétéDesNations_19361937,League of Nations,Statistical Yearbook of the League of Nations,,,,1936-1937,,,,,statistical series,,secondary
-AnnuaireStatistiqueDeLaSociétéDesNations_19371938,League of Nations,Statistical Yearbook of the League of Nations,,,,1937-1938,,,,,statistical series,,secondary
-AnnuaireStatistiqueDeLaSociétéDesNations_19381939,League of Nations,Statistical Yearbook of the League of Nations,,,,1938-1939,,,,,statistical series,,secondary
-AnnuaireStatistiqueDeLaSociétéDesNations_19391940,League of Nations,Statistical Yearbook of the League of Nations,,,,1939-1940,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19331934,,Statistical Yearbook of the League of Nations,,,,1933-1934,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19341935,,Statistical Yearbook of the League of Nations,,,,1934-1935,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19351936,,Statistical Yearbook of the League of Nations,,,,1935-1936,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19361937,,Statistical Yearbook of the League of Nations,,,,1936-1937,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19371938,,Statistical Yearbook of the League of Nations,,,,1937-1938,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19381939,,Statistical Yearbook of the League of Nations,,,,1938-1939,,,,,statistical series,,secondary
+AnnuaireStatistiqueDeLaSociétéDesNations_19391940,,Statistical Yearbook of the League of Nations,,,,1939-1940,,,,,statistical series,,secondary
 AnnualStatementOfTheSeaborneTradeOfBritishIndiaWithTheBritishEmpireAndForeignCountries_187677_Vol1_23,,Annual Statement of the Sea-Borne Trade of British India with the British Empire and Foreign Countries,"Department of Commercial Intelligence and Statistics, India",,vol.1,1876-77,,2-3,Insee,,statistical series,,primary
 AnnualStatementOfTheSeaborneTradeOfBritishIndiaWithTheBritishEmpireAndForeignCountries_187677_Vol1_67,,Annual Statement of the Sea-Borne Trade of British India with the British Empire and Foreign Countries,"Department of Commercial Intelligence and Statistics, India",,vol.1,1876-77,,6-7,Insee,,statistical series,,primary
 AnnualStatementOfTheSeaborneTradeOfBritishIndiaWithTheBritishEmpireAndForeignCountries_188485_Vol1_67,,Annual Statement of the Sea-Borne Trade of British India with the British Empire and Foreign Countries,"Department of Commercial Intelligence and Statistics, India",,vol.1,1884-85,,6-7,Insee,,statistical series,,primary
@@ -781,7 +781,7 @@ ForeignCommerceAndNavigationOfTheUnitedStates_1938_Xvi,,Foreign Commerce and Nav
 ForeignCommerceAndNavigationOfTheUnitedStates_1939_Xivxv,,Foreign Commerce and Navigation of the United States,Department of commerce,,,1939,,XIV-XV,BnF_PB-808_4-PB-808,,statistical series,https://books.google.com/,primary
 HistoricalStatisticsOfCanada_SeriesJ560567,,Historical Statistics of Canada,,,,,1983,series J560-567,,,book,http://www.statcan.gc.ca/pub/11-516-x/3000140-eng.htm,secondary
 HorlingsE_Nehajaarboek_Vol65,Horlings E.,NEHA-Jaarboek,,,vol.65,,2002,,,"The International Trade of a Small and Open Economy. Revised Estimates of the Imports and Exports of Belgium, 1835-1990",article,,estimation
-YoshikoNagano_ReexaminingTheForeignTradeStructureOfTheColonialPhilippinesWithSpecialReferenceToTheIntraasianTrade,Yoshiko NAGANO,"Re-examining the Foreign Trade Structure of the Colonial Philippines: With Special Reference to the ""Intra-Asian Trade""","Institute of Economic Research, Hitotsubashi University",,,,1997,,DP97.28,,article,http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.28/97_28.html,estimation
+YoshikoNagano_ReexaminingTheForeignTradeStructureOfTheColonialPhilippinesWithSpecialReferenceToTheIntraasianTrade,Nagano Y.,"Re-examining the Foreign Trade Structure of the Colonial Philippines: With Special Reference to the ""Intra-Asian Trade""","Institute of Economic Research, Hitotsubashi University",,,,1997,,DP97.28,,article,http://www.ier.hit-u.ac.jp/COE/Japanese/discussionpapers/DP97.28/97_28.html,estimation
 InstituteForMonetaryAndEconomicStudiesBankOfJapan_ForeignExchangeRates,,Foreign Exchange Rates,"Institute for Monetary and Economic Studies, Bank of Japan",,,,,,,,website,http://www.imes.boj.or.jp/english/hstat/data/ferdd/index.html,estimation
 InstitutoDePesquisaEconômicaAplicada_TaxaDeCâmbioMédiaMensalDaLibraEsterlinaRéisPorPenceNaPraçaDoRioDeJaneiroRj,,Taxa de câmbio média mensal da libra esterlina (réis por pence) na praça do Rio de Janeiro (RJ),Instituto de Pesquisa Econômica Aplicada,,,,,,,,website,http://www.ipeadata.gov.br,estimation
 LatinAmericanCentreOxfordSchoolOfGlobalAndAreaStudies_MoxladDatabase,,Montevideo-Oxford Latin American Economic History Data Base,,,,,,,,,website,http://moxlad.cienciassociales.edu.uy/en,estimation
@@ -823,9 +823,9 @@ LeCommerceExtérieurNationalDansSesAspectsDiversRussie_1859,,Le commerce extéri
 LeCommerceExtérieurNationalDansSesAspectsDiversRussie_1860,,Le commerce extérieur national dans ses aspects divers. Russie,,,,1860,,,National Library of Russia,,statistical series,,primary
 LeCommerceExtérieurNationalDansSesAspectsDiversRussie_1861,,Le commerce extérieur national dans ses aspects divers. Russie,,,,1861,,,National Library of Russia,,statistical series,,primary
 LeCommerceExtérieurNationalDansSesAspectsDiversRussie_1862,,Le commerce extérieur national dans ses aspects divers. Russie,,,,1862,,,National Library of Russia,,statistical series,,primary
-MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,League of Nations,Memorandum on International Trade and Balance of Payments,,,vol.2,1912-1926,,,,,statistical series,,secondary
-MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19261928_Vol3,League of Nations,Memorandum on International Trade and Balance of Payments,,,vol.3,1926-1928,,,,,statistical series,,secondary
-MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19271929_Vol3,League of Nations,Memorandum on International Trade and Balance of Payments,,,vol.3,1927-1929,,,,,statistical series,,secondary
+MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,vol.2,1912-1926,,,,,statistical series,,secondary
+MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19261928_Vol3,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,vol.3,1926-1928,,,,,statistical series,,secondary
+MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19271929_Vol3,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,vol.3,1927-1929,,,,,statistical series,,secondary
 TableauAnnuelDuCommerceDeLaBelgiqueAvecLesPaysÉtrangers_1920_298299,,Tableau annuel du commerce de la Belgique avec les pays étrangers,Ministère des finances,,,1920,,298-299,Insee_B-6,,statistical series,,primary
 AnuarioDelComercioExteriorDeLaRepúblicaArgentina_1938_Lxi,,Anuario del Comercio Exterior de la República Argentina,Ministerio de Hacienda - Dirección General de Estadística,,,1938,,LXI,Insee_AR-6,,statistical series,,primary
 AnuarioDelComercioExteriorDeLaRepúblicaArgentina_1938_Lxivlxxiii,,Anuario del Comercio Exterior de la República Argentina,Ministerio de Hacienda - Dirección General de Estadística,,,1938,,LXIV-LXXIII,Insee_AR-6,,statistical series,,primary
@@ -894,7 +894,7 @@ OverseaTradeAndCustomsAndExciseRevenueOfTheCommonwealthOfAustralia_191819_414417
 OverseaTradeAndCustomsAndExciseRevenueOfTheCommonwealthOfAustralia_192122_446451,,Oversea Trade and Customs and Excise Revenue of the Commonwealth of Australia,Commonwealth Bureau of Census and Statistics,,,1921-22,,446-451,Insee_AC-06,,statistical series,,primary
 OverseaTradeAndCustomsAndExciseRevenueOfTheCommonwealthOfAustralia_192829_662667,,Oversea Trade and Customs and Excise Revenue of the Commonwealth of Australia,Commonwealth Bureau of Census and Statistics,,,1928-29,,662-667,Insee_AC-06,,statistical series,,primary
 OverseaTradeAndCustomsAndExciseRevenueOfTheCommonwealthOfAustralia_193839_570575,,Oversea Trade and Customs and Excise Revenue of the Commonwealth of Australia,Commonwealth Bureau of Census and Statistics,,,1938-39,,570-575,Insee_AC-06,,statistical series,,primary
-PamukS_OttomanForeignTradeInThe19thCentury,Pamuk S.,Ottoman Foreign Trade in the 19th Century,,,,,1995,,,,book,,estimation
+PamukS_OttomanForeignTradeInThe19thCentury,Pamuk S.,Ottoman Foreign Trade in the 19th Century,,,,,2003,25,BULAC,,book,,estimation
 RenseignementsGénérauxSurLeCommerceDesColoniesFrançaises_1915,,Renseignements généraux sur le commerce des colonies françaises,Ministère des Colonies,,,1915,,,SciencesPo_COL8°0802,,statistical series,,secondary
 RenseignementsGénérauxSurLeCommerceDesColoniesFrançaises_1917,,Renseignements généraux sur le commerce des colonies françaises,Ministère des Colonies,,,1917,,,SciencesPo_COL8°0802,,statistical series,,secondary
 RenseignementsGénérauxSurLeCommerceDesColoniesFrançaises_1919,,Renseignements généraux sur le commerce des colonies françaises,Ministère des Colonies,,,1919,,,SciencesPo_COL8°0802,,statistical series,,secondary
@@ -1031,7 +1031,7 @@ StatisticalAbstractRelatingToBritishIndia_188485189495,,Statistical Abstract rel
 StatisticalAbstractRelatingToBritishIndia_188586189495,,Statistical Abstract relating to British India,India Office,,,1885/86-1894/95,,,,,statistical series,http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp29101,primary_yearbook
 StatisticalAbstractRelatingToBritishIndia_189495190304,,Statistical Abstract relating to British India,India Office,,,1894/95-1903/04,,,,,statistical series,http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp29101,primary_yearbook
 StatisticalAbstractRelatingToBritishIndia_190304191213,,Statistical Abstract relating to British India,India Office,,,1903/04-1912/13,,,,,statistical series,http://onlinebooks.library.upenn.edu/webbin/book/lookupid?key=olbp29101,primary_yearbook
-StatisticalYearbookOfTheLeagueOfNations,League of Nations,Statistical Yearbook of the League of Nations,,,,,,,,Estimated,statistical series,,secondary
+StatisticalYearbookOfTheLeagueOfNations,,Statistical Yearbook of the League of Nations,,,,,,,,Estimated,statistical series,,secondary
 StatistiekHandelNederlanden_1915_Iiiii,,"Netherlands. Jaarstatistiek van den In-, Uit- en Doorvoer",Centraal-Bureau voor de Statistiek,,,1915,,II-III,Insee_PB-6,,statistical series,,primary
 StatistiekHandelNederlanden_1916_Vii,,"Netherlands. Jaarstatistiek van den In-, Uit- en Doorvoer",Centraal-Bureau voor de Statistiek,,,1916,,VII,Insee_PB-6,,statistical series,,primary
 StatistiekHandelNederlanden_1917_Lxxxvii,,"Netherlands. Jaarstatistiek van den In-, Uit- en Doorvoer",Centraal-Bureau voor de Statistiek,,,1917,,LXXXVII,Insee_PB-6,,statistical series,,primary
@@ -1162,13 +1162,13 @@ StatistiquesColoniales_1905,,Statistiques du commerce des colonies françaises,M
 StatistiquesColoniales_1905_Vol1,,Statistiques du commerce des colonies françaises,Ministère des Colonies,,vol.1,1905,,,BnF_8-LK9-9 (BIS) & SciencesPo_COL8°0637,,statistical series,,secondary
 StatistiquesColoniales_1905_Vol2,,Statistiques du commerce des colonies françaises,Ministère des Colonies,,vol.2,1905,,,BnF_8-LK9-9 (BIS) & SciencesPo_COL8°0637,,statistical series,,secondary
 StatistiquesDuCommerceDesColoniesFrançaises_1914,,Statistiques du commerce des colonies françaises,Ministère des Colonies,,,1914,,,BnF_8-LK9-9 (BIS) & SciencesPo_COL8°0637,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations,League of Nations,Memorandum on International Trade and Balance of Payments,,,,,,,,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1930,League of Nations,Memorandum on International Trade and Balance of Payments,,,,1930,,,,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_19311932,League of Nations,Memorandum on International Trade and Balance of Payments,,,,1931-1932,,,,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1934,League of Nations,Memorandum on International Trade and Balance of Payments,,,,1934,,,,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1936,League of Nations,Memorandum on International Trade and Balance of Payments,,,,1936,,,,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1937,League of Nations,Memorandum on International Trade and Balance of Payments,,,,1937,,,,,statistical series,,secondary
-StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1938,League of Nations,Memorandum on International Trade and Balance of Payments,,,,1938,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1930,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,1930,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_19311932,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,1931-1932,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1934,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,1934,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1936,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,1936,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1937,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,1937,,,,,statistical series,,secondary
+StatistiquesDuCommerceExtérieurDeLaSociétéDesNations_1938,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,,1938,,,,,statistical series,,secondary
 StatistiquesDuCommerceExtérieurDesPossessionsFrançaises_1938,,Statistiques du commerce extérieur des possessions françaises,Secrétariat d'Etat aux Colonies,,,1938,1941,,SciencesPo_FOL.0286,,statistical series,,secondary
 StatistischesHandbuchFürDasDeutscheReich_Vol2,,Statistisches Handbuch für das Deutsche Reich,Kaiserliches Statistisches Amt,,vol.2,,1907,,,,book,,primary_yearbook
 StatistischesJahrbuchFürDasDeutscheReich,,Statistisches Jahrbuch für das Deutsche Reich,Statistisches Reichsamt,,,,,,,,statistical series,https://www.digizeitschriften.de/dms/toc/?PID=PPN514401303,primary_yearbook
@@ -1345,7 +1345,7 @@ ValérioNEd_PortugueseHistoricalStatistics_745,"Valério N., ed.",Portuguese His
 VanDerEngP_ExchangeRatesInAsia18302003Unpublished,Van der Eng P.,"Exchange Rates in Asia, 1830-2003 (unpublished)",,,,,,,,,database,,estimation
 ExtractoEstadísticoDelPerú_1920_91108,,Extracto Estadístico del Perú,Dirección de Estadistíca,,,1920,,91-108,,,statistical series,https://books.google.com/,primary_yearbook
 ExtractoEstadísticoDelPerú_1923,,Extracto Estadístico del Perú,Dirección de Estadistíca,,,1923,,,,,statistical series,https://books.google.com/,primary_yearbook
-FedericoGAndTenajunguitoA_WorldTrade18001938ANewSynthesisRevistaDeHistoriaEconómicajournalOfIberianAndLatinAmericaEconomicHistoryVol37N1,"Federico, G. and Tena-Junguito A.","World trade, 1800-1938: a new synthesis, Revista de Historia Económica-Journal of Iberian and Latin America Economic History, Vol 37, n.1.",Cambridge University Press,,,,2019,,,,article,https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database,estimation
+FedericoGAndTenajunguitoA_WorldTrade18001938ANewSynthesisRevistaDeHistoriaEconómicajournalOfIberianAndLatinAmericaEconomicHistoryVol37N1,Federico G. & A. Tena-Junguito,"World trade, 1800-1938: a new synthesis, Revista de Historia Económica-Journal of Iberian and Latin America Economic History, Vol 37, n.1.",Cambridge University Press,,,,2019,,,,database,https://www.uc3m.es/ss/Satellite/UC3MInstitucional/es/TextoMixta/1371246237481/Federico-Tena_World_Trade_Historical_Database,estimation
 AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1934_179,,Annuaire statistique de la Belgique et du Congo belge,,,,1934,,179,,,statistical series,http://extranet.arch.be:8180/stat/?lg=fr,primary_yearbook
 AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1935_196,,Annuaire statistique de la Belgique et du Congo belge,,,,1935,,196,,,statistical series,http://extranet.arch.be:8180/stat/?lg=fr,primary_yearbook
 AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1940_249,,Annuaire statistique de la Belgique et du Congo belge,,,,1940,,249,,,statistical series,http://extranet.arch.be:8180/stat/?lg=fr,primary_yearbook
@@ -1353,7 +1353,7 @@ AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1936_211,,Annuaire statistique de 
 AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1937_216,,Annuaire statistique de la Belgique et du Congo belge,,,,1937,,216,,,statistical series,http://extranet.arch.be:8180/stat/?lg=fr,primary_yearbook
 AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1938_218,,Annuaire statistique de la Belgique et du Congo belge,,,,1938,,218,,,statistical series,http://extranet.arch.be:8180/stat/?lg=fr,primary_yearbook
 AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1939_228,,Annuaire statistique de la Belgique et du Congo belge,,,,1939,,228,,,statistical series,http://extranet.arch.be:8180/stat/?lg=fr,primary_yearbook
-GowaJRHicks20132017,,"Gowa J. & R. Hicks (2013), (2015)",,,,,,,,,database,,primary
+GowaJRHicks20132017,Gowa J. & R. Hicks,"Politics, Institutions and Trade: Lessons of the Interwar Era, International Organization, 67; Commerce and Conflict: New Data about the Great War, British Journal of Political Science, 47",,,,,"2013, 2015",,,,database,,primary
 EstatisticaComercialColniaDeAngola_1938_Xxiixxiii,,Estatistica comercial. Colónia de Angola,,,,1938,,XXII-XXIII,Insee_AN-6,,statistical series,,primary
 EstatisticaComercialColniaDeAngola_1937_1011,,Estatistica comercial. Colónia de Angola,,,,1937,,10-11,Insee_AN-6,,statistical series,,primary
 EstatisticaComercialColniaDeAngola_1936_Xxi,,Estatistica comercial. Colónia de Angola,,,,1936,,X-XI,Insee_AN-6,,statistical series,,primary
@@ -2147,7 +2147,7 @@ HongKongBlueBook_1921_S1,,Hong Kong Blue Book,,,,1921,,s1,,,statistical series,h
 HongKongBlueBook_1920_S1,,Hong Kong Blue Book,,,,1920,,s1,,,statistical series,https://sunzi.lib.hku.hk/hkgro/browse.jsp,primary_yearbook
 HongKongBlueBook_1919_S1,,Hong Kong Blue Book,,,,1919,,s1,,,statistical series,https://sunzi.lib.hku.hk/hkgro/browse.jsp,primary_yearbook
 HongKongBlueBook,,Hong Kong Blue Book,,,,,,,,,statistical series,https://sunzi.lib.hku.hk/hkgro/browse.jsp,primary_yearbook
-MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Ii_478479,League of Nations,Memorandum on International Trade and Balance of Payments,,,II,1912-1926,,478-479,,,statistical series,,secondary
+MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Ii_478479,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,II,1912-1926,,478-479,,,statistical series,,secondary
 TableauDuCommerceExtrieurDeLindochine_1936_29,,Tableau du commerce extérieur de l'Indochine,,,,1936,,29,BnF_4-LK10-828,,statistical series,,primary
 TableauDuCommerceExtrieurDeLindochine_1933_47,,Tableau du commerce extérieur de l'Indochine,,,,1933,,47,BnF_4-LK10-828,,statistical series,,primary
 TableauDuCommerceExtrieurDeLindochine_1933_48,,Tableau du commerce extérieur de l'Indochine,,,,1933,,48,BnF_4-LK10-828,,statistical series,,primary
@@ -2467,8 +2467,8 @@ TabellerVedkommendeNorgesHandelOgSkibsfart_1870_2427,,Tabeller vedkommende Norge
 TabellerVedkommendeNorgesHandelOgSkibsfart_1869_2629,,Tabeller vedkommende Norges Handel og Skibsfart,,,,1869,,26-29,,,statistical series,https://www.ssb.no/a/histstat/nos/#,primary
 TabellerVedkommendeNorgesHandelOgSkibsfart_1868_2427,,Tabeller vedkommende Norges Handel og Skibsfart,,,,1868,,24-27,,,statistical series,https://www.ssb.no/a/histstat/nos/#,primary
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,Statistical Abstract for the principal and other Foreign Countries,,,,1907-1918,,,British Library,,statistical series,,secondary
-MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19271929_Iii_213,League of Nations,Memorandum on International Trade and Balance of Payments,,,III,1927-1929,,213,,,statistical series,,secondary
-MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19261928_Iii_213,League of Nations,Memorandum on International Trade and Balance of Payments,,,III,1926-1928,,213,,,statistical series,,secondary
+MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19271929_Iii_213,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,III,1927-1929,,213,,,statistical series,,secondary
+MmorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19261928_Iii_213,,Memorandum on International Trade and Balance of Payments of the League of Nations,,,III,1926-1928,,213,,,statistical series,,secondary
 EstadsticaDelComercioEspecialDelPeru_1920_V,,Estadística del comercio especial del Peru,,,,1920,,v,BnF_FOL-PN-415_FOL-V-6092,,statistical series,,primary
 AnuarioDelComercioExteriorDelPeru_1932_Viiviii,,Anuario del comercio exterior del Peru,,,,1932,,VII_VIII,BnF_4-V-12992,,statistical series,,primary
 AnuarioDelComercioExteriorDelPeru_1933_Viiviii,,Anuario del comercio exterior del Peru,,,,1933,,VII-VIII,BnF_4-V-12992,,statistical series,,primary
@@ -2851,7 +2851,7 @@ CommerceExtrieurDeLaRpubliqueTchcoslovaque_1924_35,,Commerce Extérieur de la R�
 CommerceExtrieurDeLaRpubliqueTchcoslovaque_1928_2425,,Commerce Extérieur de la République Tchécoslovaque,,,,1928,,24*-25*,Insee_TS-6,,statistical series,,primary
 CommerceExtrieurDuTogo_19371956_12,,Commerce extérieur du Togo,,,,1937-1956,,12,Insee_S-TOGO-4,,statistical series,,primary
 CommerceExtrieurDuTogo_19371956_3738,,Commerce extérieur du Togo,,,,1937-1956,,37-38,Insee_S-TOGO-4,,statistical series,,primary
-PamukS_OttomanForeignTradeInThe19thCentury_6877,Pamuk S.,Ottoman Foreign Trade in the 19th Century,,,,,1995,68-77,BULAC,,book,,estimation
+PamukS_OttomanForeignTradeInThe19thCentury_6877,Pamuk S.,Ottoman Foreign Trade in the 19th Century,,,,,2003,68-77,BULAC,,book,,estimation
 StatisticalYearbookOfTheKingdomOfSiam_192728_5457,,Statistical Yearbook of the Kingdom of Siam,,,,1927-28,,54-57,,,statistical series,https://sites.google.com/view/jvechbanyongratana/statistical-yearbooks-of-thailand,primary_yearbook
 StatisticalYearbookOfTheKingdomOfSiam_192930_7275,,Statistical Yearbook of the Kingdom of Siam,,,,1929-30,,72-75,,,statistical series,https://sites.google.com/view/jvechbanyongratana/statistical-yearbooks-of-thailand,primary_yearbook
 StatisticalYearbookOfTheKingdomOfSiam_193133_9699,,Statistical Yearbook of the Kingdom of Siam,,,,1931-33,,96-99,,,statistical series,https://sites.google.com/view/jvechbanyongratana/statistical-yearbooks-of-thailand,primary_yearbook
