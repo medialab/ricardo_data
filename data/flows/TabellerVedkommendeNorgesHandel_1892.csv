@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TabellerVedkommendeNorgesHandel_1892_6477,17564100,1,kr.,1892,norges,sverige pr. jernbane.,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1892_6477,103800,1,kr.,1892,norges,sverige ellers landværts,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1892_6477,9585200,1,kr.,1892,norges,sverige søværts,imp,,,,,,,
+TabellerVedkommendeNorgesHandel_1892_6477,17564100,1,kr.,1892,norges,sverige pr. jernbane.,imp,,,railway,,,,
+TabellerVedkommendeNorgesHandel_1892_6477,103800,1,kr.,1892,norges,sverige ellers landværts,imp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1892_6477,9585200,1,kr.,1892,norges,sverige søværts,imp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,11406400,1,kr.,1892,norges,danmark,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,571100,1,kr.,1892,norges,island,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,44700,1,kr.,1892,norges,finland,imp,,,,,,,
@@ -29,9 +29,9 @@ TabellerVedkommendeNorgesHandel_1892_6477,500,1,kr.,1892,norges,nordamerika for�
 TabellerVedkommendeNorgesHandel_1892_6477,434800,1,kr.,1892,norges,sydamerika,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,99700,1,kr.,1892,norges,andre lande eller uopgit,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,199986600,1,kr.,1892,norges,i alt,imp,,,,,,total_reporting,
-TabellerVedkommendeNorgesHandel_1892_6477,10094700,1,kr.,1892,norges,sverige pr. jernbane.,exp,,,,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for enkelte Artiklers Vedkommende noget ufuldstændige"
-TabellerVedkommendeNorgesHandel_1892_6477,245300,1,kr.,1892,norges,sverige ellers landværts,exp,,,,,,,
-TabellerVedkommendeNorgesHandel_1892_6477,9369100,1,kr.,1892,norges,sverige søværts,exp,,,,,,,
+TabellerVedkommendeNorgesHandel_1892_6477,10094700,1,kr.,1892,norges,sverige pr. jernbane.,exp,,,railway,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for enkelte Artiklers Vedkommende noget ufuldstændige"
+TabellerVedkommendeNorgesHandel_1892_6477,245300,1,kr.,1892,norges,sverige ellers landværts,exp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1892_6477,9369100,1,kr.,1892,norges,sverige søværts,exp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,4441700,1,kr.,1892,norges,danmark,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,16500,1,kr.,1892,norges,færøene,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1892_6477,365500,1,kr.,1892,norges,island,exp,,,,,,,

@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 154.459
+time: 158.373
 errors: []
 tasks:
   - resource:
@@ -85,7 +85,7 @@ tasks:
         bytes: 920275
         fields: 14
         rows: 4581
-    time: 0.19
+    time: 0.189
     scope:
       - hash-count-error
       - byte-count-error
@@ -178,11 +178,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 79d8c951280579346d6c7b3a91ae0d36
-        bytes: 136485
+        hash: 549ffa02d602bbf3220694cf0deeecbf
+        bytes: 136478
         fields: 6
         rows: 2157
-    time: 0.144
+    time: 0.161
     scope:
       - hash-count-error
       - byte-count-error
@@ -238,11 +238,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 279da11ead2332952e919c13345196e7
-        bytes: 424459
+        hash: f723e501ab44793ab99d2d81607dae3d
+        bytes: 424291
         fields: 2
         rows: 9363
-    time: 0.479
+    time: 0.409
     scope:
       - hash-count-error
       - byte-count-error
@@ -305,7 +305,7 @@ tasks:
         bytes: 112828
         fields: 3
         rows: 1697
-    time: 0.178
+    time: 0.171
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905614
         fields: 5
         rows: 7750
-    time: 0.398
+    time: 0.503
     scope:
       - hash-count-error
       - byte-count-error
@@ -431,7 +431,7 @@ tasks:
         bytes: 1504808
         fields: 4
         rows: 36199
-    time: 1.252
+    time: 1.01
     scope:
       - hash-count-error
       - byte-count-error
@@ -501,7 +501,7 @@ tasks:
         bytes: 3129
         fields: 4
         rows: 110
-    time: 0.008
+    time: 0.007
     scope:
       - hash-count-error
       - byte-count-error
@@ -605,6 +605,7 @@ tasks:
                 - land_carriage_post
                 - land_post
                 - railway
+                - land & railway
           - name: statistical_period
             type: string
             description: Some statistics are not reported by civil years. This field
@@ -3723,11 +3724,11 @@ tasks:
       scheme: multipart
       hashing: md5
       stats:
-        hash: 32227a9bbc17c5f6c9de8c6712ef7b6f
-        bytes: 87042846
+        hash: efe015133c4ca0b70b8a8b3e045a3448
+        bytes: 87044132
         fields: 15
         rows: 631660
-    time: 151.494
+    time: 155.627
     scope:
       - hash-count-error
       - byte-count-error

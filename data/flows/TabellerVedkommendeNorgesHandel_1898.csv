@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TabellerVedkommendeNorgesHandel_1898_7083,16878800,1,kr.,1898,norges,sverige pr. jernbane.,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1898_7083,767300,1,kr.,1898,norges,sverige landværts ellers,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1898_7083,5972000,1,kr.,1898,norges,sverige søværts,imp,,,,,,,
+TabellerVedkommendeNorgesHandel_1898_7083,16878800,1,kr.,1898,norges,sverige pr. jernbane.,imp,,,railway,,,,
+TabellerVedkommendeNorgesHandel_1898_7083,767300,1,kr.,1898,norges,sverige landværts ellers,imp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1898_7083,5972000,1,kr.,1898,norges,sverige søværts,imp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,14431100,1,kr.,1898,norges,danmark,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,938700,1,kr.,1898,norges,island,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,24900,1,kr.,1898,norges,finland,imp,,,,,,,
@@ -29,9 +29,9 @@ TabellerVedkommendeNorgesHandel_1898_7083,12000,1,kr.,1898,norges,vestindien,imp
 TabellerVedkommendeNorgesHandel_1898_7083,71800,1,kr.,1898,norges,brasilien,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,2621300,1,kr.,1898,norges,andre lande eller uopgit,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,280178600,1,kr.,1898,norges,i alt,imp,,,,,,total_reporting,
-TabellerVedkommendeNorgesHandel_1898_7083,4342300,1,kr.,1898,norges,sverige pr. jernbane.,exp,,,,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
-TabellerVedkommendeNorgesHandel_1898_7083,737100,1,kr.,1898,norges,sverige landværts ellers,exp,,,,,,,
-TabellerVedkommendeNorgesHandel_1898_7083,10268200,1,kr.,1898,norges,sverige søværts,exp,,,,,,,
+TabellerVedkommendeNorgesHandel_1898_7083,4342300,1,kr.,1898,norges,sverige pr. jernbane.,exp,,,railway,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
+TabellerVedkommendeNorgesHandel_1898_7083,737100,1,kr.,1898,norges,sverige landværts ellers,exp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1898_7083,10268200,1,kr.,1898,norges,sverige søværts,exp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,6863300,1,kr.,1898,norges,danmark,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,94000,1,kr.,1898,norges,færøene,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1898_7083,1022900,1,kr.,1898,norges,island,exp,,,,,,,

@@ -257,7 +257,7 @@ algerie,Algeria (Regency of Algiers)
 algerië,Algeria (Regency of Algiers)
 algérie,Algeria (Regency of Algiers)
 algerie ; belgisk kongo ; egypt ; fransk vest-afrika ; kanariøiene ; libya (tripolis) ; madagaskar ; marokko ; syd-afrika-sambandet ; tunis ; øst-afrika ; syd-afrika ellers,Africa (other)
-algérie (par terre),Algeria (Regency of Algiers) (land)
+algérie (par terre),Algeria (Regency of Algiers)
 algerie en tunis,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
 "algérie, maroc, tunisie et zanzibar",Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis) & Zanzibar
 "algérie, tunis",Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
@@ -626,18 +626,18 @@ arabia : kooria mooria islands,Kuria Muria Is.
 arabia : muscat,Oman (Sultanate of Muscat and Oman)
 arabia : muscat territory and truckal oman,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman)
 arabia : other native states,Arabia (other)
-arabia (by land),Arabia (land)
-arabia (by sea) and gulf ports,Arabia (sea) & Persian Gulf
+arabia (by land),Arabia
+arabia (by sea) and gulf ports,Arabia & Persian Gulf
 arabia (exclusive of aden),Arabia (other)
-arabia (incl. arabian gulf ports),Arabia (sea)
-arabia (including arabian gulf ports),Arabia (sea)
-arabia (land trade),Arabia (land)
+arabia (incl. arabian gulf ports),Arabia & Persian Gulf
+arabia (including arabian gulf ports),Arabia & Persian Gulf
+arabia (land trade),Arabia
 arabia (muscat),Oman (Sultanate of Muscat and Oman)
 arabia (or red sea ports),Red Sea (Arabia)
 arabia and aden,Aden & Arabia
 arabia other native states,Arabia (other)
 arabia other states,Arabia (other)
-"arabia, including arabian gulf ports",Arabia (sea)
+"arabia, including arabian gulf ports",Arabia & Persian Gulf
 "arabia, muscat",Oman (Sultanate of Muscat and Oman)
 "arabia, native states",Arabia (other)
 "arabia, other native states",Arabia (other)
@@ -3084,10 +3084,10 @@ etats sardes,Kingdom of Sardinia
 etats sardes (gênes),Genoa
 etats sardes (ile de sardaigne),Sardinia
 états sardes (île de sardaigne),Sardinia
-etats sardes (terre ferme),Kingdom of Sardinia (land)
-états sardes (terre ferme),Kingdom of Sardinia (land)
-états sardes (terre),Kingdom of Sardinia (land)
-etats sardes de terre ferme,Kingdom of Sardinia (land)
+etats sardes (terre ferme),Kingdom of Sardinia (continental)
+états sardes (terre ferme),Kingdom of Sardinia
+états sardes (terre),Kingdom of Sardinia (continental)
+etats sardes de terre ferme,Kingdom of Sardinia (continental)
 etats sardes et gênes,Genoa & Kingdom of Sardinia
 etats sardes et toscane,Kingdom of Sardinia & Tuscany
 etats sardes- gênes,Genoa
@@ -3218,7 +3218,7 @@ fiume (ville libre),Fiume
 fiume port libre,Fiume
 florida,Florida
 floridas,Florida
-flusswärts,World (river)
+flusswärts,World
 folendu salas,Falkland Is.
 for ordre,***NA
 for øvrig,Other countries
@@ -3273,7 +3273,7 @@ france (foreign produce),France (Foreign produce)
 france (french produce),France (French produce)
 france (marchandises étrangères),France (Foreign produce)
 france (marchandises françaises),France (French produce)
-france (mer),France (sea)
+france (mer),France
 france and algeria,Algeria (Regency of Algiers) & France
 france and colonies,France & French Colonies
 france and dependencies,France & French Colonies
@@ -4967,7 +4967,7 @@ laguira,La Guaira
 land uopgivet,Unknown
 land ved sydishavet,South Sea Islands
 landrone islands : guam,Guam
-landwärts,World (land)
+landwärts,World
 landwärts per fuhr und per post,World (other)
 "landwärts, per frachtfuhren",World (other)
 laplatastaterne,Argentina (La Plata)
@@ -5504,7 +5504,7 @@ monde (partenaires via trézibonde uniquement),World (other)
 "monde (partenaires viatrieste, venise et fiume uniquement)",World (other)
 monde (partenaires vie chypre uniquement),World (other)
 monde (partenaires vie smyrne uniquement),World (other)
-monde (sauf etats sardes de terre ferme),World (other than Kingdom of Sardinia (land))
+monde (sauf etats sardes de terre ferme),World (other)
 monde (terre et mer),World
 monde (une partie),World (other)
 "monde (via alexandrie, djeddah, damiette et rosette)",World (other)
@@ -6437,7 +6437,7 @@ papua,Papua (British New Guinea)
 par afrikas dajas,Africa (other)
 par la zone libre du port de dantzig,Danzig (Free City of Danzig)
 par poste des pays étrangers,***NA
-par terre et voie fluviale,World (land and river)
+par terre et voie fluviale,World
 para,Pará
 para (brazil),Pará
 paraguai,Paraguay
@@ -7107,7 +7107,7 @@ prusse (frisch-haff dont koenigsberg),Kaliningrad (Königsberg)
 prusse (frisch-haff),Kaliningrad (Königsberg)
 prusse (koenigsberg),Kaliningrad (Königsberg)
 prusse (memel),Klaipėda (Memel)
-prusse (par terre et voie fluviale),Prussia (by sea and river)
+prusse (par terre et voie fluviale),Prussia
 "prusse (poméranie : stettin, coeslin, stralsund))",Koszalin & Stralsund & Szczecin
 prusse (poméranie),Pomerania
 prusse (stettin),Szczecin
@@ -7405,8 +7405,8 @@ russia (ussr),Russia (USSR)
 russia / ussr,Russia (USSR)
 russia and finland,Finland & Russia (USSR)
 russia and russian possessions,Russia (USSR) & Russian Colonies
-russia and siberia (by land),Russia and Siberia (land)
-russia and siberia by land frontier,Russia and Siberia (land)
+russia and siberia (by land),Russia and Siberia
+russia and siberia by land frontier,Russia and Siberia
 russia and siberia via kiakhta,Russia and Siberia (Kiakhta)
 russia asiatic,Asian Russia
 russia asiatica,Asian Russia
@@ -7474,9 +7474,9 @@ russie et finlande,Finland & Russia (USSR)
 russie et mer noire,Black Sea & Russia (USSR)
 russie et pologne,Poland & Russia (USSR)
 russie europe,European Russia
-russie par chemin de fer,Russia (railway)
-russie par chemin de fer et par autres voies de terre,Russia (land)
-russie par mer,Russia (sea)
+russie par chemin de fer,Russia (USSR)
+russie par chemin de fer et par autres voies de terre,Russia (USSR)
+russie par mer,Russia (USSR)
 russie soviet.,Russia (USSR)
 "russie, danemark, suède, norvège",Denmark & Norway & Russia (USSR) & Sweden
 "russie, grèce et turquie",Greece & Russia (USSR) & Turkey (Ottoman Empire)
@@ -7636,7 +7636,7 @@ saravaka,Sarawak
 sarawak,Sarawak
 sarawak and brunei,Brunei & Sarawak
 sardaigne,Sardinia
-sardaigne (etats de terre ferme),Kingdom of Sardinia (land)
+sardaigne (etats de terre ferme),Kingdom of Sardinia (continental)
 sardaigne (gênes),Genoa
 sardaigne (gênes)**,Genoa
 sardaigne (ile),Sardinia
@@ -7680,7 +7680,7 @@ schleswig-holstein pr. eisenbahn,World (via Schleswig-Holstein)
 schweden,Sweden
 schweiz,Switzerland
 scotland,Scotland
-sea,World (sea)
+sea,***NA
 sealing,Seal Island
 "seekabel, strandgut und andere waren",***NA
 seewärts andere waren,***NA
@@ -8282,13 +8282,13 @@ sveice,Switzerland
 sveits,Switzerland
 svejts,Switzerland
 sverige,Sweden
-sverige ellers landværts,Sweden (land) (other)
-sverige landværts,Sweden (land)
-sverige landværts ellers,Sweden (land) (other)
+sverige ellers landværts,Sweden (other)
+sverige landværts,Sweden
+sverige landværts ellers,Sweden (other)
 sverige och norige,Norway & Sweden
-sverige pr. jernbane.,Sweden (railway)
-sverige søværts,Sweden (sea)
-"sverige, landværts",Sweden (land)
+sverige pr. jernbane.,Sweden
+sverige søværts,Sweden
+"sverige, landværts",Sweden
 sverrig,Sweden
 svezia,Sweden
 svezia e norvegia,Norway & Sweden
@@ -8865,8 +8865,8 @@ ubekjendt sted.,Unknown
 ubriges spanisch-afrika,Spanish Africa (other)
 ucraina,Ukraine
 ucraïne,Ukraine
-"uebrige ausfuhr, land- und flusswärts",World (land and river)
-"uebrige einfuhr, land und flusswärts",World (land and river)
+"uebrige ausfuhr, land- und flusswärts",World
+"uebrige einfuhr, land und flusswärts",World
 uganda,Uganda
 uganda protectorate,Uganda
 uhisriigid,United States of America

@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TabellerVedkommendeNorgesHandel_1896_6477,26019500,1,kr.,1896,norges,sverige pr. jernbane.,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1896_6477,211800,1,kr.,1896,norges,sverige ellers landværts,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1896_6477,12060900,1,kr.,1896,norges,sverige søværts,imp,,,,,,,
+TabellerVedkommendeNorgesHandel_1896_6477,26019500,1,kr.,1896,norges,sverige pr. jernbane.,imp,,,railway,,,,
+TabellerVedkommendeNorgesHandel_1896_6477,211800,1,kr.,1896,norges,sverige ellers landværts,imp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1896_6477,12060900,1,kr.,1896,norges,sverige søværts,imp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,10991800,1,kr.,1896,norges,danmark,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,1548700,1,kr.,1896,norges,island,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,19400,1,kr.,1896,norges,finland,imp,,,,,,,
@@ -29,9 +29,9 @@ TabellerVedkommendeNorgesHandel_1896_6477,25500,1,kr.,1896,norges,brasilien,imp,
 TabellerVedkommendeNorgesHandel_1896_6477,300,1,kr.,1896,norges,argentina,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,1769700,1,kr.,1896,norges,andre lande eller uopgit,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,240217500,1,kr.,1896,norges,i alt,imp,,,,,,total_reporting,
-TabellerVedkommendeNorgesHandel_1896_6477,10782200,1,kr.,1896,norges,sverige pr. jernbane.,exp,,,,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for enkelte Artiklers Vedkommende noget ufuldstændige"
-TabellerVedkommendeNorgesHandel_1896_6477,338400,1,kr.,1896,norges,sverige ellers landværts,exp,,,,,,,
-TabellerVedkommendeNorgesHandel_1896_6477,11671700,1,kr.,1896,norges,sverige søværts,exp,,,,,,,
+TabellerVedkommendeNorgesHandel_1896_6477,10782200,1,kr.,1896,norges,sverige pr. jernbane.,exp,,,railway,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for enkelte Artiklers Vedkommende noget ufuldstændige"
+TabellerVedkommendeNorgesHandel_1896_6477,338400,1,kr.,1896,norges,sverige ellers landværts,exp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1896_6477,11671700,1,kr.,1896,norges,sverige søværts,exp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,4835900,1,kr.,1896,norges,danmark,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,41700,1,kr.,1896,norges,færøene,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1896_6477,678800,1,kr.,1896,norges,island,exp,,,,,,,

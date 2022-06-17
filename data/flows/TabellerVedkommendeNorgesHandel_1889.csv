@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TabellerVedkommendeNorgesHandel_1889_6477,13555100,1,kr.,1889,norges,sverige pr. jernbane.,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1889_6477,522600,1,kr.,1889,norges,sverige ellers landværts,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1889_6477,7685300,1,kr.,1889,norges,sverige søværts,imp,,,,,,,
+TabellerVedkommendeNorgesHandel_1889_6477,13555100,1,kr.,1889,norges,sverige pr. jernbane.,imp,,,railway,,,,
+TabellerVedkommendeNorgesHandel_1889_6477,522600,1,kr.,1889,norges,sverige ellers landværts,imp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1889_6477,7685300,1,kr.,1889,norges,sverige søværts,imp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,9212400,1,kr.,1889,norges,danmark,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,352100,1,kr.,1889,norges,island,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,53200,1,kr.,1889,norges,finland,imp,,,,,,,
@@ -30,9 +30,9 @@ TabellerVedkommendeNorgesHandel_1889_6477,300,1,kr.,1889,norges,vestindien,imp,,
 TabellerVedkommendeNorgesHandel_1889_6477,105900,1,kr.,1889,norges,sydamerika,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,240400,1,kr.,1889,norges,ubekjendt sted.,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,191608100,1,kr.,1889,norges,i alt,imp,,,,,,total_reporting,
-TabellerVedkommendeNorgesHandel_1889_6477,11077800,1,kr.,1889,norges,sverige pr. jernbane.,exp,,,,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
-TabellerVedkommendeNorgesHandel_1889_6477,257800,1,kr.,1889,norges,sverige ellers landværts,exp,,,,,,,
-TabellerVedkommendeNorgesHandel_1889_6477,9312700,1,kr.,1889,norges,sverige søværts,exp,,,,,,,
+TabellerVedkommendeNorgesHandel_1889_6477,11077800,1,kr.,1889,norges,sverige pr. jernbane.,exp,,,railway,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
+TabellerVedkommendeNorgesHandel_1889_6477,257800,1,kr.,1889,norges,sverige ellers landværts,exp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1889_6477,9312700,1,kr.,1889,norges,sverige søværts,exp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,4759800,1,kr.,1889,norges,danmark,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,900,1,kr.,1889,norges,færøene,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1889_6477,188200,1,kr.,1889,norges,island,exp,,,,,,,

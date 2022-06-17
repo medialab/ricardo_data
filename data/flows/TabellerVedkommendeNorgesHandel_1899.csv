@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TabellerVedkommendeNorgesHandel_1899_6477,18632400,1,kr.,1899,norges,sverige pr. jernbane.,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1899_6477,897200,1,kr.,1899,norges,sverige landværts ellers,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1899_6477,6037900,1,kr.,1899,norges,sverige søværts,imp,,,,,,,
+TabellerVedkommendeNorgesHandel_1899_6477,18632400,1,kr.,1899,norges,sverige pr. jernbane.,imp,,,railway,,,,
+TabellerVedkommendeNorgesHandel_1899_6477,897200,1,kr.,1899,norges,sverige landværts ellers,imp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1899_6477,6037900,1,kr.,1899,norges,sverige søværts,imp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,16590900,1,kr.,1899,norges,danmark,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,1427700,1,kr.,1899,norges,island,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,11500,1,kr.,1899,norges,finland,imp,,,,,,,
@@ -28,9 +28,9 @@ TabellerVedkommendeNorgesHandel_1899_6477,47700,1,kr.,1899,norges,vestindien,imp
 TabellerVedkommendeNorgesHandel_1899_6477,179200,1,kr.,1899,norges,argentina,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,24400,1,kr.,1899,norges,brasilien,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,310485300,1,kr.,1899,norges,i alt,imp,,,,,,total_reporting,
-TabellerVedkommendeNorgesHandel_1899_6477,5091300,1,kr.,1899,norges,sverige pr. jernbane.,exp,,,,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
-TabellerVedkommendeNorgesHandel_1899_6477,789500,1,kr.,1899,norges,sverige landværts ellers,exp,,,,,,,
-TabellerVedkommendeNorgesHandel_1899_6477,9912100,1,kr.,1899,norges,sverige søværts,exp,,,,,,,
+TabellerVedkommendeNorgesHandel_1899_6477,5091300,1,kr.,1899,norges,sverige pr. jernbane.,exp,,,railway,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
+TabellerVedkommendeNorgesHandel_1899_6477,789500,1,kr.,1899,norges,sverige landværts ellers,exp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1899_6477,9912100,1,kr.,1899,norges,sverige søværts,exp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,6486100,1,kr.,1899,norges,danmark,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,77400,1,kr.,1899,norges,færøene,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1899_6477,553400,1,kr.,1899,norges,island,exp,,,,,,,

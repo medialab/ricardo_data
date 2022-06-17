@@ -1265,7 +1265,7 @@ Khiva,GPH_entity,Asia,7030,Khiva,
 Khorramshahr (Mohammerah),city/part_of,Asia,,KhorramshahrMohammerah,Turkey (Ottoman Empire)
 Kiauchau,GPH_entity,Asia,7220,Kiauchau,
 Kingdom of Sardinia,GPH_entity,Europe,324,KingdomofSardinia,
-Kingdom of Sardinia (land),city/part_of,Europe,,KingdomofSardinialand,Kingdom of Sardinia
+Kingdom of Sardinia (continental),city/part_of,Europe,,KingdomofSardinialand,Kingdom of Sardinia
 Kingdom of Sardinia & Monaco,group,Europe,,KingdomofSardinia_Monaco,
 Kingdom of Sardinia & Papal States & Tuscany & Two Sicilies,group,Europe,,,
 Kingdom of Sardinia & Papal States & Two Sicilies,group,Europe,,KingdomofSardinia_PapalStates_TwoSicilies,
@@ -1799,7 +1799,7 @@ Russia (USSR),GPH_entity,Europe,365,RussiaUSSR,
 Russia (USSR) & Russian Colonies,group,World,,RussiaUSSR_RussianColonies,
 Russia (White Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russia and Siberia (Kiakhta),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia and Siberia (land),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Russia and Siberia,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russian America,colonial_area,America,,RussiaUSSR,Russia (USSR)
 Russian China,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian Colonies,colonial_area,World,,RussiaUSSR,Russia (USSR)
@@ -1980,7 +1980,7 @@ Swan Is.,GPH_entity,America,1087,,
 Swan River,city/part_of,Oceania,,SwanRiver,Western Australia
 Sweden,GPH_entity,Europe,380,Sweden,
 Sweden (land),city/part_of,Europe,,,Sweden
-Sweden (land) (other),city/part_of,Europe,,,Sweden
+Sweden (other),city/part_of,Europe,,,Sweden
 Sweden (railway),city/part_of,Europe,,,Sweden
 Sweden (sea),city/part_of,Europe,,,Sweden
 Sweden & Swedish Colonies,group,World,,Sweden_SwedishColonies,

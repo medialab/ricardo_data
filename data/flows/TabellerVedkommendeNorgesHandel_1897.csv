@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TabellerVedkommendeNorgesHandel_1897_7083,28326700,1,kr.,1897,norges,sverige pr. jernbane.,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1897_7083,254200,1,kr.,1897,norges,sverige landværts ellers,imp,,,,,,,
-TabellerVedkommendeNorgesHandel_1897_7083,13696900,1,kr.,1897,norges,sverige søværts,imp,,,,,,,
+TabellerVedkommendeNorgesHandel_1897_7083,28326700,1,kr.,1897,norges,sverige pr. jernbane.,imp,,,railway,,,,
+TabellerVedkommendeNorgesHandel_1897_7083,254200,1,kr.,1897,norges,sverige landværts ellers,imp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1897_7083,13696900,1,kr.,1897,norges,sverige søværts,imp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,13205200,1,kr.,1897,norges,danmark,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,1203800,1,kr.,1897,norges,island,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,100,1,kr.,1897,norges,finland,imp,,,,,,,
@@ -29,9 +29,9 @@ TabellerVedkommendeNorgesHandel_1897_7083,61100,1,kr.,1897,norges,brasilien,imp,
 TabellerVedkommendeNorgesHandel_1897_7083,100,1,kr.,1897,norges,argentina,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,1503700,1,kr.,1897,norges,andre lande eller uopgit,imp,,,,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,263718200,1,kr.,1897,norges,i alt,imp,,,,,,total_reporting,
-TabellerVedkommendeNorgesHandel_1897_7083,9976200,1,kr.,1897,norges,sverige pr. jernbane.,exp,,,,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
-TabellerVedkommendeNorgesHandel_1897_7083,337500,1,kr.,1897,norges,sverige landværts ellers,exp,,,,,,,
-TabellerVedkommendeNorgesHandel_1897_7083,15410600,1,kr.,1897,norges,sverige søværts,exp,,,,,,,
+TabellerVedkommendeNorgesHandel_1897_7083,9976200,1,kr.,1897,norges,sverige pr. jernbane.,exp,,,railway,,,,"Over den Udførsel, der foregaar over Landsgrændsen mod Sverige, er Opgaverne for flere Artiklers Vedkommende noget ufuldstændige"
+TabellerVedkommendeNorgesHandel_1897_7083,337500,1,kr.,1897,norges,sverige landværts ellers,exp,,,land,,,,
+TabellerVedkommendeNorgesHandel_1897_7083,15410600,1,kr.,1897,norges,sverige søværts,exp,,,sea,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,7203200,1,kr.,1897,norges,danmark,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,44800,1,kr.,1897,norges,færøene,exp,,,,,,,
 TabellerVedkommendeNorgesHandel_1897_7083,687700,1,kr.,1897,norges,island,exp,,,,,,,
