@@ -525,7 +525,8 @@
             "name": "unit",
             "type": "integer",
             "constraints": {
-              "minimum": 1
+              "minimum": 1,
+              "required": true
             },
             "description": "The unit the trade flow value is expressed in"
           },

@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 149.427
+time: 154.459
 errors: []
 tasks:
   - resource:
@@ -81,11 +81,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: f4775be945043d2b56c748ef6413cc47
-        bytes: 915690
+        hash: b9c255c52ca9037398380bfb078c2088
+        bytes: 920275
         fields: 14
         rows: 4581
-    time: 0.171
+    time: 0.19
     scope:
       - hash-count-error
       - byte-count-error
@@ -182,7 +182,7 @@ tasks:
         bytes: 136485
         fields: 6
         rows: 2157
-    time: 0.11
+    time: 0.144
     scope:
       - hash-count-error
       - byte-count-error
@@ -242,7 +242,7 @@ tasks:
         bytes: 424459
         fields: 2
         rows: 9363
-    time: 0.259
+    time: 0.479
     scope:
       - hash-count-error
       - byte-count-error
@@ -305,7 +305,7 @@ tasks:
         bytes: 112828
         fields: 3
         rows: 1697
-    time: 0.088
+    time: 0.178
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905614
         fields: 5
         rows: 7750
-    time: 0.298
+    time: 0.398
     scope:
       - hash-count-error
       - byte-count-error
@@ -431,7 +431,7 @@ tasks:
         bytes: 1504808
         fields: 4
         rows: 36199
-    time: 1.052
+    time: 1.252
     scope:
       - hash-count-error
       - byte-count-error
@@ -501,7 +501,7 @@ tasks:
         bytes: 3129
         fields: 4
         rows: 110
-    time: 0.01
+    time: 0.008
     scope:
       - hash-count-error
       - byte-count-error
@@ -555,6 +555,7 @@ tasks:
             type: integer
             constraints:
               minimum: 1
+              required: true
             description: The unit the trade flow value is expressed in
           - name: currency
             type: string
@@ -3722,11 +3723,11 @@ tasks:
       scheme: multipart
       hashing: md5
       stats:
-        hash: 446a604ade99dedc14b5285d74de972a
-        bytes: 86920149
+        hash: 32227a9bbc17c5f6c9de8c6712ef7b6f
+        bytes: 87042846
         fields: 15
-        rows: 630466
-    time: 147.152
+        rows: 631660
+    time: 151.494
     scope:
       - hash-count-error
       - byte-count-error
