@@ -39,6 +39,13 @@ livre sterling,1936,aden,sterling pound
 livre sterling,1937,aden,sterling pound
 livre sterling,1938,aden,sterling pound
 sterling,1910,afrique du sud,sterling pound
+francs,1906,afrique equatoriale française,french franc
+francs,1907,afrique equatoriale française,french franc
+francs,1908,afrique equatoriale française,french franc
+francs,1909,afrique equatoriale française,french franc
+francs,1910,afrique equatoriale française,french franc
+francs,1911,afrique equatoriale française,french franc
+francs,1918,afrique equatoriale française,french franc
 francs,1925,afrique equatoriale française,french franc
 francs,1926,afrique equatoriale française,french franc
 francs,1927,afrique equatoriale française,french franc
@@ -53,6 +60,13 @@ francs,1935,afrique equatoriale française,french franc
 francs,1936,afrique equatoriale française,french franc
 francs,1937,afrique equatoriale française,french franc
 francs,1938,afrique equatoriale française,french franc
+francs,1906,afrique occidentale française,french franc
+francs,1907,afrique occidentale française,french franc
+francs,1908,afrique occidentale française,french franc
+francs,1909,afrique occidentale française,french franc
+francs,1910,afrique occidentale française,french franc
+francs,1911,afrique occidentale française,french franc
+francs,1918,afrique occidentale française,french franc
 francs,1925,afrique occidentale française,french franc
 francs,1926,afrique occidentale française,french franc
 francs,1927,afrique occidentale française,french franc
@@ -1005,6 +1019,13 @@ francs belges,1935,belgique,belgian franc
 francs belges,1936,belgique,belgian franc
 francs belges,1937,belgique,belgian franc
 francs belges,1938,belgique,belgian franc
+francs belges,1932,belgique et luxembourg,belgian franc
+francs belges,1933,belgique et luxembourg,belgian franc
+francs belges,1934,belgique et luxembourg,belgian franc
+francs belges,1935,belgique et luxembourg,belgian franc
+francs belges,1936,belgique et luxembourg,belgian franc
+francs belges,1937,belgique et luxembourg,belgian franc
+francs belges,1938,belgique et luxembourg,belgian franc
 francs,1834,belgique (anvers),french franc
 francs,1835,belgique (anvers),french franc
 francs,1835,belgique (nieuport),french franc
@@ -35446,8 +35467,6 @@ franc,1833,venézuéla,french franc
 franc,1834,venézuéla,french franc
 franc,1835,venézuéla,french franc
 franc,1836,venézuéla,french franc
-piastre,1830,montevideo,
-piastre,1831,montevideo,
 franc,1830,uruguay (montevideo),french franc
 franc,1831,uruguay (montevideo),french franc
 franc,1833,uruguay (montevideo),french franc

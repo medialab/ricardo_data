@@ -1,5 +1,5 @@
 version: 4.28.3
-time: 135.491
+time: 149.427
 errors: []
 tasks:
   - resource:
@@ -81,11 +81,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: c3743c2e6eb8ad7f4bf324c7092d95f0
-        bytes: 915406
+        hash: f4775be945043d2b56c748ef6413cc47
+        bytes: 915690
         fields: 14
-        rows: 4580
-    time: 0.288
+        rows: 4581
+    time: 0.171
     scope:
       - hash-count-error
       - byte-count-error
@@ -182,7 +182,7 @@ tasks:
         bytes: 136485
         fields: 6
         rows: 2157
-    time: 0.154
+    time: 0.11
     scope:
       - hash-count-error
       - byte-count-error
@@ -242,7 +242,7 @@ tasks:
         bytes: 424459
         fields: 2
         rows: 9363
-    time: 0.268
+    time: 0.259
     scope:
       - hash-count-error
       - byte-count-error
@@ -305,7 +305,7 @@ tasks:
         bytes: 112828
         fields: 3
         rows: 1697
-    time: 0.094
+    time: 0.088
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905614
         fields: 5
         rows: 7750
-    time: 0.292
+    time: 0.298
     scope:
       - hash-count-error
       - byte-count-error
@@ -427,11 +427,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: e9196e7cc8244c3cc11e122f893e165f
-        bytes: 1503682
+        hash: ba6202791a9fbc8f31f989c53d2add97
+        bytes: 1504808
         fields: 4
-        rows: 36180
-    time: 1.008
+        rows: 36199
+    time: 1.052
     scope:
       - hash-count-error
       - byte-count-error
@@ -452,48 +452,10 @@ tasks:
       - constraint-error
       - unique-error
     partial: false
-    errors:
-      - cells:
-          - piastre
-          - '1830'
-          - montevideo
-          - ''
-        rowNumber: 35448
-        rowPosition: 35449
-        code: foreign-key-error
-        name: ForeignKey Error
-        tags:
-          - '#table'
-          - '#row'
-        note: 'for "modified_currency, year": values "None, 1830" not found in the
-          lookup table "exchange_rates" as "modified_currency, year"'
-        message: 'Row at position "35449" violates the foreign key: for "modified_currency,
-          year": values "None, 1830" not found in the lookup table "exchange_rates"
-          as "modified_currency, year"'
-        description: Values in the foreign key fields should exist in the reference
-          table
-      - cells:
-          - piastre
-          - '1831'
-          - montevideo
-          - ''
-        rowNumber: 35449
-        rowPosition: 35450
-        code: foreign-key-error
-        name: ForeignKey Error
-        tags:
-          - '#table'
-          - '#row'
-        note: 'for "modified_currency, year": values "None, 1831" not found in the
-          lookup table "exchange_rates" as "modified_currency, year"'
-        message: 'Row at position "35450" violates the foreign key: for "modified_currency,
-          year": values "None, 1831" not found in the lookup table "exchange_rates"
-          as "modified_currency, year"'
-        description: Values in the foreign key fields should exist in the reference
-          table
+    errors: []
     stats:
-      errors: 2
-    valid: false
+      errors: 0
+    valid: true
   - resource:
       name: expimp_spegen
       title: Export/import and special/general
@@ -539,7 +501,7 @@ tasks:
         bytes: 3129
         fields: 4
         rows: 110
-    time: 0.007
+    time: 0.01
     scope:
       - hash-count-error
       - byte-count-error
@@ -3760,11 +3722,11 @@ tasks:
       scheme: multipart
       hashing: md5
       stats:
-        hash: 99454a7f9790eb97ccf010fb1109370f
-        bytes: 86945116
+        hash: 446a604ade99dedc14b5285d74de972a
+        bytes: 86920149
         fields: 15
-        rows: 630420
-    time: 132.898
+        rows: 630466
+    time: 147.152
     scope:
       - hash-count-error
       - byte-count-error
@@ -3790,6 +3752,6 @@ tasks:
       errors: 0
     valid: true
 stats:
-  errors: 2
+  errors: 0
   tasks: 8
-valid: false
+valid: true
