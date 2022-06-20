@@ -27,7 +27,7 @@ PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,337000,1,escudos,1915,po
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,483700,1,escudos,1915,portugal,guiné,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,11796100,1,escudos,1915,portugal,s. tomé e principe,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1383200,1,escudos,1915,portugal,moçambique,imp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1300,1,escudos,1915,portugal,india,imp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1300,1,escudos,1915,portugal,india portuguesa,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,4200,1,escudos,1915,portugal,macau e timor,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,754500,1,escudos,1915,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,58686200,1,escudos,1915,portugal,total,exp,gen,NS,,,,total_reporting,1 conto = 1000 escudos
@@ -58,7 +58,7 @@ PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,599900,1,escudos,1915,po
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,422300,1,escudos,1915,portugal,guiné,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,2371600,1,escudos,1915,portugal,s. tomé e principe,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,2274000,1,escudos,1915,portugal,moçambique,exp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,39900,1,escudos,1915,portugal,india,exp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,39900,1,escudos,1915,portugal,india portuguesa,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,30000,1,escudos,1915,portugal,macau e timor,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1429500,1,escudos,1915,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,76114800,1,escudos,1915,portugal,total,imp,spe,NS,,,,total_reporting,1 conto = 1000 escudos
@@ -89,7 +89,7 @@ PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,324900,1,escudos,1915,po
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,425500,1,escudos,1915,portugal,guiné,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,300400,1,escudos,1915,portugal,s. tomé e principe,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1299200,1,escudos,1915,portugal,moçambique,imp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1300,1,escudos,1915,portugal,india,imp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1300,1,escudos,1915,portugal,india portuguesa,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,4200,1,escudos,1915,portugal,macau e timor,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,754500,1,escudos,1915,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,33630300,1,escudos,1915,portugal,total,exp,spe,NS,,,,total_reporting,1 conto = 1000 escudos
@@ -120,6 +120,6 @@ PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,432900,1,escudos,1915,po
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,174300,1,escudos,1915,portugal,guiné,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1488300,1,escudos,1915,portugal,s. tomé e principe,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,1313900,1,escudos,1915,portugal,moçambique,exp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,39400,1,escudos,1915,portugal,india,exp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,39400,1,escudos,1915,portugal,india portuguesa,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,29800,1,escudos,1915,portugal,macau e timor,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1919_Xiiixiv,268000,1,escudos,1915,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",exp,spe,NS,,,,,1 conto = 1000 escudos
