@@ -114,11 +114,11 @@ FranceStatistiquesColonialesCommerce_1898_864865,179117,1,francs,1898,madagascar
 FranceStatistiquesColonialesCommerce_1898_864865,94900,1,francs,1898,madagascar,turquie d'europe,exp,spe,,,,,,
 FranceStatistiquesColonialesCommerce_1898_864865,20835,1,francs,1898,madagascar,autres pays,exp,spe,,,,,,
 FranceStatistiquesColonialesCommerce_1898_864865,4974548,1,francs,1898,madagascar,total,exp,spe,,,,,total_reporting,
-FranceStatistiquesColonialesCommerce_1898_922923,2446256,1,francs,1898,soudan,sénégal,exp,spe,,,,,,
-FranceStatistiquesColonialesCommerce_1898_922923,131932,1,francs,1898,soudan,guinée française,exp,spe,,,,,,
-FranceStatistiquesColonialesCommerce_1898_922923,27732,1,francs,1898,soudan,guinée anglaise,exp,spe,,,,,,
-FranceStatistiquesColonialesCommerce_1898_922923,43645,1,francs,1898,soudan,libéria,exp,spe,,,,,,
-FranceStatistiquesColonialesCommerce_1898_922923,2649566,1,francs,1898,soudan,total,exp,spe,,,,,total_reporting,
+FranceStatistiquesColonialesCommerce_1898_922923,2446256,1,francs,1898,soudan français,sénégal,exp,spe,,,,,,
+FranceStatistiquesColonialesCommerce_1898_922923,131932,1,francs,1898,soudan français,guinée française,exp,spe,,,,,,
+FranceStatistiquesColonialesCommerce_1898_922923,27732,1,francs,1898,soudan français,guinée anglaise,exp,spe,,,,,,
+FranceStatistiquesColonialesCommerce_1898_922923,43645,1,francs,1898,soudan français,libéria,exp,spe,,,,,,
+FranceStatistiquesColonialesCommerce_1898_922923,2649566,1,francs,1898,soudan français,total,exp,spe,,,,,total_reporting,
 FranceStatistiquesColonialesCommerce_1898_3031,11574310,1,francs,1898,martinique,france (marchandises françaises),imp,,,,,,,
 FranceStatistiquesColonialesCommerce_1898_3031,1568488,1,francs,1898,martinique,colonies françaises (marchandises françaises),imp,,,,,,,
 FranceStatistiquesColonialesCommerce_1898_3031,584649,1,francs,1898,martinique,france (marchandises étrangères),imp,,,,,,,
@@ -305,15 +305,15 @@ FranceStatistiquesColonialesCommerce_1898_858859,15877,1,francs,1898,madagascar,
 FranceStatistiquesColonialesCommerce_1898_858859,345066,1,francs,1898,madagascar,amérique,imp,,,,,,,
 FranceStatistiquesColonialesCommerce_1898_858859,75500,1,francs,1898,madagascar,autres pays,imp,,,,,,,
 FranceStatistiquesColonialesCommerce_1898_858859,21627817,1,francs,1898,madagascar,total,imp,,,,,,total_reporting,
-FranceStatistiquesColonialesCommerce_1898_904905,5078358,1,francs,1898,soudan,france (marchandises françaises),imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,1230225,1,francs,1898,soudan,angleterre (marchandises françaises),imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,28881,1,francs,1898,soudan,sénégal (marchandises françaises),imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,617909,1,francs,1898,soudan,autres pays (marchandises françaises),imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,76885,1,francs,1898,soudan,france (marchandises étrangères),imp,,,,,,,Par la Guinée française
-FranceStatistiquesColonialesCommerce_1898_904905,203696,1,francs,1898,soudan,angleterre (marchandises étrangères),imp,,,,,,,Par la Guinée française
-FranceStatistiquesColonialesCommerce_1898_904905,124310,1,francs,1898,soudan,guinée française,imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,18524,1,francs,1898,soudan,france (marchandises étrangères),imp,,,,,,,Par la Guinée anglaise
-FranceStatistiquesColonialesCommerce_1898_904905,11077,1,francs,1898,soudan,angleterre (marchandises étrangères),imp,,,,,,,Par la Guinée anglaise
-FranceStatistiquesColonialesCommerce_1898_904905,1022,1,francs,1898,soudan,guinée anglaise,imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,61868,1,francs,1898,soudan,libéria,imp,,,,,,,
-FranceStatistiquesColonialesCommerce_1898_904905,7452761,1,francs,1898,soudan,total,imp,,,,,,total_reporting,
+FranceStatistiquesColonialesCommerce_1898_904905,5078358,1,francs,1898,soudan français,france (marchandises françaises),imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,1230225,1,francs,1898,soudan français,angleterre (marchandises françaises),imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,28881,1,francs,1898,soudan français,sénégal (marchandises françaises),imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,617909,1,francs,1898,soudan français,autres pays (marchandises françaises),imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,76885,1,francs,1898,soudan français,france (marchandises étrangères),imp,,,,,,,Par la Guinée française
+FranceStatistiquesColonialesCommerce_1898_904905,203696,1,francs,1898,soudan français,angleterre (marchandises étrangères) (autre),imp,,,,,,,Par la Guinée française
+FranceStatistiquesColonialesCommerce_1898_904905,124310,1,francs,1898,soudan français,guinée française,imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,18524,1,francs,1898,soudan français,france (marchandises étrangères) (autre),imp,,,,,,,Par la Guinée anglaise
+FranceStatistiquesColonialesCommerce_1898_904905,11077,1,francs,1898,soudan français,angleterre (marchandises étrangères),imp,,,,,,,Par la Guinée anglaise
+FranceStatistiquesColonialesCommerce_1898_904905,1022,1,francs,1898,soudan français,guinée anglaise,imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,61868,1,francs,1898,soudan français,libéria,imp,,,,,,,
+FranceStatistiquesColonialesCommerce_1898_904905,7452761,1,francs,1898,soudan français,total,imp,,,,,,total_reporting,
