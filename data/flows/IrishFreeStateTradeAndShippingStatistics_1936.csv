@@ -8,7 +8,7 @@ IrishFreeStateTradeAndShippingStatistics_1936_9,1155110,1,pounds,1936,ireland,be
 IrishFreeStateTradeAndShippingStatistics_1936_9,98991,1,pounds,1936,ireland,brazil,imp,,,,,,,Country of origin.
 IrishFreeStateTradeAndShippingStatistics_1936_9,1271584,1,pounds,1936,ireland,british india,imp,,,,,,,Country of origin.
 IrishFreeStateTradeAndShippingStatistics_1936_9,83878,1,pounds,1936,ireland,straits settlements,imp,,,,,,,Country of origin.
-IrishFreeStateTradeAndShippingStatistics_1936_9,85877,1,pounds,1936,ireland,west africa (british),imp,,,,,,,Country of origin.
+IrishFreeStateTradeAndShippingStatistics_1936_9,85877,1,pounds,1936,ireland,british west africa,imp,,,,,,,Country of origin.
 IrishFreeStateTradeAndShippingStatistics_1936_9,89769,1,pounds,1936,ireland,british west indies,imp,,,,,,,Country of origin.
 IrishFreeStateTradeAndShippingStatistics_1936_9,1607670,1,pounds,1936,ireland,canada,imp,,,,,,,Country of origin.
 IrishFreeStateTradeAndShippingStatistics_1936_9,41496,1,pounds,1936,ireland,canary islands,imp,,,,,,,Country of origin.
@@ -90,7 +90,7 @@ IrishFreeStateTradeAndShippingStatistics_1936_48,2,1,£,1934,ireland,siam,imp,,,
 IrishFreeStateTradeAndShippingStatistics_1936_48,175,1,£,1934,ireland,other asia,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,41572,1,£,1934,ireland,algeria,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,255,1,£,1934,ireland,british east africa,imp,,,,,,,Country of consignment.
-IrishFreeStateTradeAndShippingStatistics_1936_48,6566,1,£,1934,ireland,british west indies,imp,,,,,,,Country of consignment.
+IrishFreeStateTradeAndShippingStatistics_1936_48,6566,1,£,1934,ireland,british west africa,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,7466,1,£,1934,ireland,egypt,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,23637,1,£,1934,ireland,morocco,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,19758,1,£,1934,ireland,tunis,imp,,,,,,,Country of consignment.
@@ -158,7 +158,7 @@ IrishFreeStateTradeAndShippingStatistics_1936_48,5,1,£,1935,ireland,siam,imp,,,
 IrishFreeStateTradeAndShippingStatistics_1936_48,58,1,£,1935,ireland,other asia,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,36209,1,£,1935,ireland,algeria,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,124,1,£,1935,ireland,british east africa,imp,,,,,,,Country of consignment.
-IrishFreeStateTradeAndShippingStatistics_1936_48,1153,1,£,1935,ireland,british west indies,imp,,,,,,,Country of consignment.
+IrishFreeStateTradeAndShippingStatistics_1936_48,1153,1,£,1935,ireland,british west africa,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,5,1,£,1935,ireland,canary islands,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,18753,1,£,1935,ireland,egypt,imp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,23338,1,£,1935,ireland,morocco,imp,,,,,,,Country of consignment.
@@ -232,7 +232,7 @@ IrishFreeStateTradeAndShippingStatistics_1936_48,5833,1,£,1935,ireland,siam,exp
 IrishFreeStateTradeAndShippingStatistics_1936_48,5572,1,£,1935,ireland,other asia,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,2517,1,£,1935,ireland,algeria,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,3103,1,£,1935,ireland,british east africa,exp,,,,,,,Country of consignment.
-IrishFreeStateTradeAndShippingStatistics_1936_48,3519,1,£,1935,ireland,british west indies,exp,,,,,,,Country of consignment.
+IrishFreeStateTradeAndShippingStatistics_1936_48,3519,1,£,1935,ireland,british west africa,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,7453,1,£,1935,ireland,canary islands,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,8922,1,£,1935,ireland,egypt,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,14203,1,£,1935,ireland,morocco,exp,,,,,,,Country of consignment.
@@ -307,7 +307,7 @@ IrishFreeStateTradeAndShippingStatistics_1936_48,3388,1,£,1936,ireland,siam,exp
 IrishFreeStateTradeAndShippingStatistics_1936_48,4968,1,£,1936,ireland,other asia,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,8089,1,£,1936,ireland,algeria,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,3213,1,£,1936,ireland,british east africa,exp,,,,,,,Country of consignment.
-IrishFreeStateTradeAndShippingStatistics_1936_48,4581,1,£,1936,ireland,british west indies,exp,,,,,,,Country of consignment.
+IrishFreeStateTradeAndShippingStatistics_1936_48,4581,1,£,1936,ireland,british west africa,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,6674,1,£,1936,ireland,canary islands,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,9946,1,£,1936,ireland,egypt,exp,,,,,,,Country of consignment.
 IrishFreeStateTradeAndShippingStatistics_1936_48,4554,1,£,1936,ireland,morocco,exp,,,,,,,Country of consignment.
