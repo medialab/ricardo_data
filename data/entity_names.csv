@@ -61,6 +61,7 @@ africa (british),British Africa
 africa (east coast),Eastern Africa
 africa (foreign),Africa (other)
 africa (non british),Africa (other)
+africa (other),Africa (other)
 africa (p.n.e.),Africa (other)
 africa (west coast),Western Africa
 africa alemana,German Africa
@@ -486,8 +487,9 @@ angleterre (londres et malte),Malta & United Kingdom
 angleterre (londres et malte)**,Malta & United Kingdom
 angleterre (londres),London
 angleterre (londres)**,London
-angleterre (marchandises étrangères),United Kingdom
-angleterre (marchandises françaises),United Kingdom (French Produce)
+angleterre (marchandises étrangères),United Kingdom (Foreign produce)
+angleterre (marchandises étrangères) (autre),United Kingdom (Foreign produce) (other)
+angleterre (marchandises françaises),United Kingdom (French produce)
 angleterre (non compris ses compositions dans la méditerranée),United Kingdom
 angleterre (non compris ses possessions dans la méditerranée),United Kingdom
 angleterre et colonies,British Colonies & United Kingdom
@@ -716,6 +718,7 @@ asia,Asia
 asia - possessoes britannicas,British Asia
 asia - possessoes francezas,French Asia
 asia - possessoes portuguezas,Portuguese Asia
+asia andre brit.besiddelser,British Asia (other)
 asia generally,Asia (other)
 asia minor,Western Anatolia
 asia-diversas possessoes britannicas,British Asia
@@ -748,6 +751,7 @@ aurtiche,Austria-Hungary (Austrian Empire)
 austr. förbundsstaten,Australia
 austral-sambandet,Australia
 australasia,Australia
+australasia (other),Australasia (other)
 australasia : fiji islands,Fiji
 australasia : new south wales,New South Wales
 australasia : new zealand,New Zealand
@@ -935,11 +939,11 @@ autres îles d'océanie,Oceania (other)
 autres iles de l'océanie,Oceania
 autres îles de l'océanie,Oceania
 autres indes orientales britanniques,British East Indies (other)
-autres parties du monde,Other countries
+autres parties du monde,World (other)
 autres pays,Other countries
 autres pays (afrique),Africa (other)
-autres pays (marchandises étrangères),Other countries
-autres pays (marchandises françaises),Other countries (French Produce)
+autres pays (marchandises étrangères),Other countries (Foreign produce)
+autres pays (marchandises françaises),Other countries (French produce)
 autres pays (principalement d'europe),Europe (other)
 autres pays afrique,Africa (other)
 autres pays d'afrique,Africa (other)
@@ -1365,7 +1369,7 @@ brit-i. és str. settl.,India & Straits Settlements
 brit-ind. és str. settl,India & Straits Settlements
 brit-india,India
 brit-india és straits settlement,India & Straits Settlements
-brit-nyugot-india,India
+brit-nyugot-india,British West Indies
 brit-ost-aquat-afrika,British Equatorial East Africa
 brit: bahamas,Bahamas
 brit: barbada,Barbados
@@ -1485,7 +1489,7 @@ british india : bengal,Bengal
 british india : bombay,Mumbai (Bombay)
 "british india : bombay, via karachi",Mumbai (Bombay)
 "british india : bombay, via karachi and other ports",Mumbai (Bombay)
-"british india : bombay, via other ports",Mumbai (Bombay)
+"british india : bombay, via other ports",Mumbai (Bombay) (other)
 british india : burmah,Myanmar (Burma)
 british india : madras,Chennai (Madras)
 "british india (bengal, british burman, madras, bombay)",India
@@ -1849,6 +1853,7 @@ cape town,Cape Town
 cape verd islands,Cape Verde
 cape verd islands (portugal),Cape Verde
 cape verde,Cape Verde
+cape verde (other),Cape Verde (other)
 cape verde island,Cape Verde
 cape verde islands,Cape Verde
 capland,Cape Colony (Cape of Good Hope)
@@ -1862,7 +1867,7 @@ castellorizo,Kastellorizo
 caucasia,Caucasus
 caucasus,Caucasus
 cavallo,Corsica
-cayenne,French Guiana
+cayenne,Cayenne
 cayman island,Cayman Is.
 cayman islands,Cayman Is.
 caymanoarna,Cayman Is.
@@ -2127,7 +2132,7 @@ colonies allemandes,German Colonies
 colonies am. nord,British North America
 colonies américaines,American Colonies
 colonies anglaises,British Colonies
-colonies anglaises (marchandises étrangères),British Colonies
+colonies anglaises (marchandises étrangères),British Colonies (Foreign produce)
 colonies anglaises (marchandises françaises),British Colonies (French produce)
 colonies anglaises d'amérique,British America
 colonies anglaises de la côte d'afrique,British Africa (other)
@@ -2156,7 +2161,8 @@ colonies françaises (sauf algérie),French Colonies (other)
 colonies françaises d'europe (marchandises étrangères),French Europe (Foreign produce)
 colonies françaises de l'afrique de l'est,French East Africa
 colonies françaises de l'afrique de l'ouest,French West Africa
-colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French West Africa
+colonies françaises de la côte occidentale d'afrique (marchandises françaises),French West Africa (French produce)
+colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French West Africa (Foreign produce)
 colonies hollandaises,Dutch Colonies
 colonies hollandaises (autre),Dutch Colonies (other)
 colonies hollandaises en amérique,Netherlands Antilles
@@ -2202,7 +2208,7 @@ cominion of canada,Canada (Province of Canada)
 commonwealth of australia,Australia
 commonwealth of australia and dominion of new zealand,Australia & New Zealand
 commowealth of australia,Australia
-conakry,Guinea (French Guinea) (Rivieres du Sud)
+conakry,Conakry
 conchinchina,Cochin China
 conféd. australienne,Australia
 confederacão argentina,Argentina (La Plata)
@@ -2466,6 +2472,7 @@ danish west india islands,Virgin Islands (Danish West Indies)
 danish west india islands (denmark),Virgin Islands (Danish West Indies)
 danish west india islands (ste. croix and st. thomas),St. Croix & St. Thomas
 danish west indies,Virgin Islands (Danish West Indies)
+danish west indies (other),Virgin Islands (Danish West Indies) (other)
 danish west indies : st. thomas,St. Thomas
 danish west indies : ste. croix,St. Croix
 "danish west indies (ste. croix, st. thomas and st. john)",St. Croix & St. John & St. Thomas
@@ -2707,7 +2714,7 @@ dutch new guinea,West Irian (Dutch New Guinea)
 dutch new guinea (holland),West Irian (Dutch New Guinea)
 dutch new guinea (netherlands),West Irian (Dutch New Guinea)
 dutch new guinea and other dutch possessions in the indian seas,West Irian (Dutch New Guinea) & Dutch Oceania (other)
-dutch ports,Netherlands
+dutch ports,Netherlands (other)
 dutch possessions,Dutch Colonies
 dutch possessions in asia,Dutch Asia
 dutch possessions in borneo†,Dutch Borneo
@@ -2844,8 +2851,8 @@ egypte et syrie,Egypt Arab Republic (Egypt) & Syria
 egypte et syrie (alexandrie),Alexandria & Egypt Arab Republic (Egypt)
 egypte et syrie (beyrout),Beirut & Egypt Arab Republic (Egypt)
 egypte et syrie (candie),Crete & Egypt Arab Republic (Egypt)
-egypte et syrie (egypte),Egypt Arab Republic (Egypt) & Syria
-egypte et syrie (syrie),Egypt Arab Republic (Egypt) & Syria
+egypte et syrie (egypte),Egypt Arab Republic (Egypt)
+egypte et syrie (syrie),Syria
 egypte et syrie et caramanie (beyrout),Beirut & Egypt Arab Republic (Egypt) & Syria
 egypte-alexandrie,Alexandria
 "egypte, enz.",Egypt Arab Republic (Egypt)
@@ -3130,8 +3137,8 @@ ethiopie ou abyssinie,Ethiopia (Abyssinia)
 "ethiopië, enz.",Ethiopia (Abyssinia)
 etiopia,Ethiopia (Abyssinia)
 etranger,Other countries
-etranger (marchandises étrangères),Other countries
-etranger (marchandises françaises),Other countries (French Produce)
+etranger (marchandises étrangères),Other countries (Foreign produce)
+etranger (marchandises françaises),Other countries (French produce)
 eu da america do norte,United States of America
 eu do brasil,Brazil
 europa - possessoes britannicas,British Europe
@@ -3272,6 +3279,7 @@ france,France
 france (foreign produce),France (Foreign produce)
 france (french produce),France (French produce)
 france (marchandises étrangères),France (Foreign produce)
+france (marchandises étrangères) (autre),France (Foreign produce) (other)
 france (marchandises françaises),France (French produce)
 france (mer),France
 france and algeria,Algeria (Regency of Algiers) & France
@@ -3746,7 +3754,7 @@ grenada (british west india islands),Grenada
 grenada (winward islands - west india islands),Grenada
 grenade,Grenada
 grenade (la),Grenada
-grenadines,St. Vincent and the Grenadines
+grenadines,Grenadines
 grenlande,Greenland
 greqi,Greece
 griechenland,Greece
@@ -4483,10 +4491,12 @@ iran a afganistan,Afghanistan & Iran (Persia)
 iran en aghanistan,Afghanistan & Iran (Persia)
 irande,Ireland
 iraq,Iraq (Mesopotamia)
+iraq (foreign),Iraq (Mesopotamia) (other)
 iraq (mesopotamia),Iraq (Mesopotamia)
 iraq and koweit,Iraq (Mesopotamia) & Kuwait
 iraque,Iraq (Mesopotamia)
 ireland,Ireland
+ireland (other),Ireland (other)
 irijas brivvalsts,Ireland
 irischen freistaat,Ireland
 irish free state,Ireland
@@ -5094,8 +5104,8 @@ madagascar et dépendances,Madagascar (Malagasy Republic) & Madagascar (Malagasy
 madagascar et dépendances (mayotte compris),Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies
 madagascar et dépendances (y compris mayotte),Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies
 "madagascar, enz.",Madagascar (Malagasy Republic)
-"madagascar, native states",Madagascar (Malagasy Republic)
-madagascar:native territory,Madagascar (Malagasy Republic)
+"madagascar, native states",Madagascar (Malagasy Republic) (other)
+madagascar:native territory,Madagascar (Malagasy Republic) (other)
 madagaskar,Madagascar (Malagasy Republic)
 madagaskar och reunion,Madagascar (Malagasy Republic) & Reunion (Bourbon I.)
 "madagaskar, mauritius und réunion",Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.)
@@ -5826,7 +5836,7 @@ north germany,North Germany
 north west coast of america,North-Western America
 north western rhodesia,Barotseland_North_Western Rhodesia (Northwestern Rhodesia)
 north yemen,Yemen People's Republic (South Yemen)
-north-eastern rhodesia,Zambia (Northern Rhodesia)
+north-eastern rhodesia,Northeastern Rhodesia
 northern cook islands,Northern Cook Is.
 northern ireland,Northern Ireland
 northern nigeria,Northern Nigeria (British Nigeria)
@@ -5883,7 +5893,7 @@ nouvelle-calédonie (la),New Caledonia and Dependencies
 nouvelle-calédonie et dépendances,New Caledonia and Dependencies
 nouvelle-galle du sud (la),New South Wales
 nouvelle-galles méridionale,New South Wales
-nouvelle-grenade,Colombia (New Granada) (Gran Colombia)
+nouvelle-grenade,Colombia (New Granada) (Gran Colombia) (other)
 nouvelle-grenade (carthagène),Cartagena (Colombia)
 nouvelle-grenade (sainte-marthe),Santa Marta
 nouvelle-grenade (santa fé),Bogotá
@@ -5984,7 +5994,7 @@ ofriga kaukasiska lander,Caucasus (other)
 öfriga länder i sydamerika,Southern America (other)
 öfriga mellanamerika,Central America (other)
 öfriga sydamerika,Southern America (other)
-öfriga verldsdelar,Other countries
+öfriga verldsdelar,World (other)
 öfrige delar af afrika,Africa (other)
 öfrige stater i södra amerika,Southern America (other)
 ofver ryska gransen importerade tullpliktiga,World (via Russia)
@@ -6057,7 +6067,7 @@ ostatni drzavy v asie,Asia (other)
 ostatni evropa,Europe (other)
 ostatni evropske drz v americe,European America (other)
 ostatni francouzske drzavy v africe,French Africa (other)
-ostatni jihoamericke republiky,Southern America (other)
+ostatni jihoamericke republiky,Southern America
 ostatni oblasti v severni africe,Northern Africa (other)
 ostatni oceanie,Oceania (other)
 ostatni ostrovni oblasti stredni ameriky,Central America (other)
@@ -6065,7 +6075,7 @@ ostatni rovnikova afrika vychodni,Equatorial East Africa (other)
 ostatni rovnikova afrika zapadni,Equatorial West Africa (other)
 ostatni spanelske drz v africe a ostatni afrika,Spanish Africa & Africa (other)
 ostatni zeme jizni ameriky,Southern America (other)
-ostatni zeme na stredoamericke pevnine,Central America (other)
+ostatni zeme na stredoamericke pevnine,Central America
 ostatni zeme severni ameriky,Northern America (other)
 österreich,Austria
 österreich-ungarn,Austria-Hungary (Austrian Empire)
@@ -6150,8 +6160,9 @@ other british south africa,South Africa (other)
 other british west africa,British West Africa (other)
 other british west india islands,British West Indies (other)
 other british west indies,British West Indies (other)
-other carib. cont. countries,West Indies (other)
-other carib. insular countries,West Indies (other)
+other carib. cont. countries,West Indies (continental)
+other carib. insular countries,West Indies (insular)
+other central america,Central America (other)
 other central american countries,Central America (other)
 other chinese ports,People's Republic of China (China) (other)
 other countries,Other countries
@@ -6482,6 +6493,7 @@ pays divers et provisions de bord,Other countries
 pays étrangers,Other countries
 pays indéterminé,Unknown
 pays non dénommés,Other countries
+pays non dénommés (colonies),French Colonies (other)
 pays non dénommés et provisions de bord,Other countries
 pays non déterminés,Other countries
 pays non-indiqués,Other countries
@@ -6692,8 +6704,8 @@ portorico,Puerto Rico
 portorico and other spanish west indies,Puerto Rico & Spanish West Indies (other)
 portorico und st. thomas,Puerto Rico & St. Thomas
 portoriko,Puerto Rico
-portos da gra-bretanha (a ordem),United Kingdom
-portos ingleses,United Kingdom
+portos da gra-bretanha (a ordem),United Kingdom (other)
+portos ingleses,United Kingdom (other)
 ports baltique,Baltic Ports
 ports brésiliens,Brazil
 ports d'allemagne,Germany (Zollverein)
@@ -6808,7 +6820,7 @@ portuguese china,Portuguese China
 portuguese colonies,Portuguese Colonies
 portuguese east africa,Portuguese East Africa
 portuguese east africa (portugal),Portuguese East Africa
-portuguese east africa for reconsignment,Portuguese East Africa
+portuguese east africa for reconsignment,Portuguese East Africa (other)
 portuguese east indies,Portuguese Asia
 portuguese guinea,Guinea-Bissau (Portuguese Guinea)
 portuguese india,"Portuguese India (incl. Goa, Diu, Daman)"
@@ -7235,6 +7247,7 @@ republik haiti,Haiti
 république argentine,Argentina (La Plata)
 république argentine (cabotage),Argentina (La Plata) (other)
 république argentine (la plata),Argentina (La Plata)
+république argentine (autre),Argentina (La Plata) (other)
 "république argentine, uruguay, paraguay",Argentina (La Plata) & Paraguay & Uruguay
 république d'haïti,Haiti
 république d'haïti. république dominicaine. porto-rico,Dominican Republic (Santo Domingo) & Haiti & Puerto Rico
@@ -7279,6 +7292,7 @@ rhodésie,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodésie du n.,Zambia (Northern Rhodesia)
 rhodésie du nord,Zambia (Northern Rhodesia)
 rhodésie du nord-est,Northeastern Rhodesia
+rhodésie du nord-ouest,Barotseland_North_Western Rhodesia (Northwestern Rhodesia)
 rhodésie du s.,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodésie du sud,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodesie meridionale,Zimbabwe (Rhodesia) (Southern Rhodesia)
@@ -7662,7 +7676,7 @@ sardinska riket.toscana. begge sicilierne,Kingdom of Sardinia & Tuscany & Two Si
 sarre,Saar
 saudi arabia,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 saudi arabia and yemen,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
-savanilla,Barranquilla
+savanilla,Sabanilla
 savannah banks,Unknown
 saxe,Saxony
 saxe et autriche,Austria-Hungary (Austrian Empire) & Saxony
@@ -7876,7 +7890,7 @@ soudan français,Mali (French Sudan) (Upper Senegal and Niger)
 soulou ou soloo,Sulu Sultanate
 soumeanee and meckran,Makran & Sonmiani
 sous-le-vent (iles),Leeward Is.
-south africa,South Africa
+south africa,Southern Africa
 south africa - cape colony,Cape Colony (Cape of Good Hope)
 south africa - cape of good hope,Cape Colony (Cape of Good Hope)
 south africa - cape of good hope*,Cape Colony (Cape of Good Hope)
@@ -8070,7 +8084,7 @@ st thomas and prince's islands,Prince Edward Is. & St. Thomas
 st thomas et porto rico,Puerto Rico & St. Thomas
 "st thomas, vi",St. Thomas
 st thome un principe sala,Sao Tome-Principe
-st vincent,St. Vincent and the Grenadines
+st vincent,St. Vincent
 st vincenta sala,St. Vincent and the Grenadines
 "st, helena",St. Helena
 "st, helena and ascension islands",Ascension I. & St. Helena
@@ -8113,7 +8127,7 @@ st. thomas w. i.,St. Thomas
 "st. thomas, st. croix und portorico",Puerto Rico & St. Croix & St. Thomas
 st. thome,Sao Tome
 st. vicente (winward island),St. Vincent and the Grenadines
-st. vincent,St. Vincent and the Grenadines
+st. vincent,St. Vincent
 st. vincent (british west india islands),St. Vincent and the Grenadines
 st. vincent (winward islands - west india islands),St. Vincent and the Grenadines
 st. vincent w. i.,St. Vincent and the Grenadines
@@ -8319,6 +8333,7 @@ swedish west indies. st. barths,St. Barthelemy
 "swedish, danish, dutch, french and spanish west indies",French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies)
 switzerland,Switzerland
 syd-afrika,South Africa
+syd-africa andre britiske områder,British South Africa (other)
 syd-afrika ellers,South Africa (other)
 syd-afrika-sambandet,South Africa
 syd-amerika ellers,Southern America (other)
@@ -8826,7 +8841,7 @@ tyska ost-afrika,German East Africa
 tyska riket,Germany (Zollverein)
 tyska riket (och luxembourg),Germany (Zollverein)
 tyska riket (samt luxembourg),Germany (Zollverein)
-tyska sydvast-afrika,German East Africa
+tyska sydvast-afrika,Namibia (South West Africa) (German South West Africa)
 tyske havne ved østersøen (slesvig og holsten undtagne),Germany (Zollverein) (Baltic Sea)
 tyskland,Germany (Zollverein)
 tyskland (bremen),Bremen
@@ -8986,7 +9001,7 @@ united states of colombia,Colombia (New Granada) (Gran Colombia)
 united states of colombia (new granada and panama),Colombia (New Granada) (Gran Colombia)
 united states of colombia (new granada),Colombia (New Granada) (Gran Colombia)
 united states of columbia,Colombia (New Granada) (Gran Colombia)
-united states ports,United States of America
+united states ports,United States of America (other)
 united states produce returned to usa,United States of America
 united states virgin islands,Virgin Islands (Danish West Indies)
 united states west indies,American West Indies
@@ -9034,7 +9049,7 @@ us - pacific coast,United States of America (Pacific Coast)
 us foreign possession in china (total),American China
 us of america,United States of America
 us of america and hawaii,Hawaii (Sandwich Is.) & United States of America
-us pacific territory and possessions,U. S. Pacific Trust Territories (South Seas Mandate)
+us pacific territory and possessions,American Oceania
 us posessoes,American Colonies
 us virgin islands,Virgin Islands (Danish West Indies)
 us west indies,American West Indies
@@ -9103,6 +9118,7 @@ vessels wrecked,***NA
 vestafrika,Western Africa
 "vestafrika, britisk sydafrika, østafrika",British South Africa & Eastern Africa & Western Africa
 vestindia,West Indies
+vestindia andre brit. besiddelser,British West Indies (other)
 vestindia ellers,West Indies (other)
 vestindien,West Indies
 vestindien (undt. kuba og portoriko),West Indies
