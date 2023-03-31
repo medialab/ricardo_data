@@ -122,6 +122,7 @@ def deduplicate_flows():
                     ON s.slug=f.source
             WHERE expimp != "Re-exp"
                 and partner is not null
+                and partner != "***NA"
                 and partner_sum is null
                 and f.flow is not null
         """
