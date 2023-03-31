@@ -900,7 +900,7 @@ Fort St. George,city/part_of,Asia,,FortSt.George,India
 France,GPH_entity,Europe,220,France,
 France (Atlantic Coast),city/part_of,Europe,,,France
 France (Foreign produce),city/part_of,Europe,,,France
-France (Foreign produce),city/part_of,Europe,,,France
+France (Foreign produce) (other),city/part_of,Europe,,,France
 France (French produce),city/part_of,Europe,,FranceFrenchproduce,France
 France (French produce) & French Colonies (French produce),group,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,
 France (Mediterranean Coast),city/part_of,Europe,,,France
@@ -971,6 +971,7 @@ French South Africa,colonial_area,Africa,,,France
 French South America,colonial_area,America,,,
 French West Africa,GPH_entity,Africa,430,FrenchWestAfrica,
 French West Africa (French produce),city/part_of,Africa,,,French West Africa
+French West Africa (Foreign produce),city/part_of,Africa,,,French West Africa
 French West Africa (other),city/part_of,Africa,,,French West Africa
 French West Africa & Senegal,group,Africa,,FrenchWestAfrica_Senegal,
 French West Africa & Togo (French Togoland),group,Africa,,,
@@ -1622,8 +1623,8 @@ Oregon (Oregon Country),GPH_entity,America,1016,OregonOregonCountry,
 Oslo (Christiana),city/part_of,Europe,,OsloChristiana,Norway
 Ostend,city/part_of,Europe,,,Belgium
 Other countries,geographical_area,World,,Othercountries,
-Other countries (Foreign Produce),geographical_area,World,,,
-Other countries (French Produce),geographical_area,World,,,
+Other countries (Foreign produce),geographical_area,World,,,
+Other countries (French produce),geographical_area,World,,,
 Other countries (non British),geographical_area,World,,OthercountriesnonBritish,
 Other countries & Parma & Piacenza,geographical_area,World,,Othercountries_Parma_Piacenza,
 Other countries & Prussia,geographical_area,World,,Othercountries_Prussia,
@@ -2074,8 +2075,9 @@ Ukraine,GPH_entity,Europe,369,,
 Union Island,city/part_of,America,,,St. Vincent and the Grenadines
 United Arab Emirates (Trucial Oman),GPH_entity,Asia,696,,
 United Kingdom,GPH_entity,Europe,200,UnitedKingdom,
-United Kingdom (French Produce),city/part_of,Europe,,,United Kingdom
+United Kingdom (French produce),city/part_of,Europe,,,United Kingdom
 United Kingdom (Foreign produce) (other),city/part_of,Europe,,,United Kingdom
+United Kingdom (Foreign produce),city/part_of,Europe,,,United Kingdom
 United Kingdom (other),city/part_of,Europe,,UnitedKingdomother,United Kingdom
 United States of America,GPH_entity,America,2,UnitedStatesofAmerica,
 United States of America (Atlantic Coast),city/part_of,America,,,United States of America
