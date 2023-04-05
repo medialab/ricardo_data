@@ -3747,7 +3747,9 @@
         "data/flows/ArgentinaAnuarioDeLaDireccinGeneralDeEstadstica_1900.csv",
         "data/flows/ArgentinaAnuarioDeLaDireccinGeneralDeEstadstica_1901.csv",
         "data/flows/BalanzaDelComercioDeEspaa_1826.csv",
-        "data/flows/BalanzaDelComercioDeEspaa_1827.csv"
+        "data/flows/BalanzaDelComercioDeEspaa_1827.csv",
+        "data/flows/AuswrtigerHandelDesDeutschenZollgebiets_18801896.csv",
+        "data/flows/StatistischesHandbuchFrDasDeutscheReich_18701905_Vol2.csv"
       ]
     }
   ]
