@@ -1,0 +1,9 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,200938,1,£,1828,cape of good hope,great britain,imp,gen,,,,,,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,40844,1,£,1828,cape of good hope,other british colonies,imp,gen,,,,,,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,19123,1,£,1828,cape of good hope,foreign states,imp,gen,,,,,,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,260905,1,£,1828,cape of good hope,total,imp,gen,,,,,total_reporting,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,134166,1,£,1828,cape of good hope,great britain,exp,gen,,,,,,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,89558,1,£,1828,cape of good hope,other british colonies,exp,gen,,,,,,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,30189,1,£,1828,cape of good hope,foreign states,exp,gen,,,,,,
+ColonyOfTheCapeOfGoodHopeBlueBook_1828_300301,253913,1,£,1828,cape of good hope,total,exp,gen,,,,,total_reporting,
