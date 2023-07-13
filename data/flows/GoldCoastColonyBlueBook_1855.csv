@@ -1,0 +1,9 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GoldCoastColonyBlueBook_1855_145146,108331,1,£,1855,gold coast colony,united kingdom,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1855_145146,7496,1,£,1855,gold coast colony,united states of america,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1855_145146,6260,1,£,1855,gold coast colony,foreign states,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1855_145146,149587,1,£,1855,gold coast colony,total,imp,gen,,,,,total_reporting,
+GoldCoastColonyBlueBook_1855_149150,78128,1,£,1855,gold coast colony,united kingdom,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1855_149150,22300,1,£,1855,gold coast colony,united states of america,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1855_149150,22000,1,£,1855,gold coast colony,foreign states,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1855_149150,140196,1,£,1855,gold coast colony,total,exp,gen,,,,,total_reporting,

@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GoldCoastColonyBlueBook_1860_173,65063,1,£,1860,gold coast colony,united kingdom,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,43951,1,£,1860,gold coast colony,united states of america,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,1177,1,£,1860,gold coast colony,holland,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,800,1,£,1860,gold coast colony,france,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,1463,1,£,1860,gold coast colony,portugal,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,112454,1,£,1860,gold coast colony,total,imp,gen,,,,,total_reporting,
+GoldCoastColonyBlueBook_1860_173,91713,1,£,1860,gold coast colony,united kingdom,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,16661,1,£,1860,gold coast colony,united states of america,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,150,1,£,1860,gold coast colony,holland,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,1137,1,£,1860,gold coast colony,france,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,797,1,£,1860,gold coast colony,portugal,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1860_173,110457,1,£,1860,gold coast colony,total,exp,gen,,,,,total_reporting,

@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GoldCoastColonyBlueBook_1869_133,178512,1,£,1869,gold coast colony,united kingdom,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,34828,1,£,1869,gold coast colony,united states of america,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,151,1,£,1869,gold coast colony,holland,imp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,213491,1,£,1869,gold coast colony,total,imp,gen,,,,,total_reporting,
+GoldCoastColonyBlueBook_1869_133,203470,1,£,1869,gold coast colony,united kingdom,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,49604,1,£,1869,gold coast colony,united states of america,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,252,1,£,1869,gold coast colony,holland,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,25007,1,£,1869,gold coast colony,germany,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,3003,1,£,1869,gold coast colony,windward,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,578,1,£,1869,gold coast colony,leeward,exp,gen,,,,,,
+GoldCoastColonyBlueBook_1869_133,281913,1,£,1869,gold coast colony,total,exp,gen,,,,,total_reporting,

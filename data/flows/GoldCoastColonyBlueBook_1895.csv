@@ -1,0 +1,21 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GoldCoastColonyBlueBook_1895_X1,630000,1,£,1895,gold coast colony,united kingdom,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,89870,1,£,1895,gold coast colony,lagos,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,1295,1,£,1895,gold coast colony,sierra leone,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,6378,1,£,1895,gold coast colony,african ports (other),imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,72503,1,£,1895,gold coast colony,united states of america,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,14821,1,£,1895,gold coast colony,france,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,88166,1,£,1895,gold coast colony,germany,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,26991,1,£,1895,gold coast colony,holland,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,245,1,£,1895,gold coast colony,italy,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,1268,1,£,1895,gold coast colony,portuguese colonies,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1895_X1,931537,1,£,1895,gold coast colony,total,imp,gen,S,,,,total_reporting,With expenses
+GoldCoastColonyBlueBook_1895_X1,556487,1,£,1895,gold coast colony,united kingdom,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,29172,1,£,1895,gold coast colony,lagos,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,38,1,£,1895,gold coast colony,sierra leone,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,129,1,£,1895,gold coast colony,african ports (other),exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,12914,1,£,1895,gold coast colony,united states of america,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,111933,1,£,1895,gold coast colony,france,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,109321,1,£,1895,gold coast colony,germany,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,495,1,£,1895,gold coast colony,holland,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1895_X1,820488,1,£,1895,gold coast colony,total,exp,spe,S,,,,total_reporting,
