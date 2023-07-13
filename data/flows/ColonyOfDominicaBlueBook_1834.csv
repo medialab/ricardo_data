@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfDominicaBlueBook_1834_138139,33420,1,£,1834,colony of dominica,great britain,imp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_138139,24644,1,£,1834,colony of dominica,british west indies,imp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_138139,4362,1,£,1834,colony of dominica,british north america,imp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_138139,2337,1,£,1834,colony of dominica,united states of america,imp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_138139,3426,1,£,1834,colony of dominica,foreign states,imp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_138139,68188,1,£,1834,colony of dominica,total,imp,gen,,,,,total_reporting,
+ColonyOfDominicaBlueBook_1834_148149,105144,1,£,1834,colony of dominica,great britain,exp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_148149,3654,1,£,1834,colony of dominica,british west indies,exp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_148149,3027,1,£,1834,colony of dominica,british north america,exp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_148149,695,1,£,1834,colony of dominica,united states of america,exp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_148149,70,1,£,1834,colony of dominica,foreign states,exp,gen,,,,,,
+ColonyOfDominicaBlueBook_1834_148149,112590,1,£,1834,colony of dominica,total,exp,gen,,,,,total_reporting,
