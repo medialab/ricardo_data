@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1881_178179,57333,1,£,1881,colony of gambia,united kingdom,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,29122,1,£,1881,colony of gambia,sierra leone,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,1417,1,£,1881,colony of gambia,british west indies,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,8590,1,£,1881,colony of gambia,france,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,427,1,£,1881,colony of gambia,"america, us",imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,6032,1,£,1881,colony of gambia,leeward coast,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,39668,1,£,1881,colony of gambia,windward coast & goree & senegal & cape verde,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,142589,1,£,1881,colony of gambia,total,imp,gen,,,,,total_reporting,
+ColonyOfTheGambiaBlueBook_1881_178179,0.5,1,£,1881,colony of gambia,france,exp,spe,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,6,1,£,1881,colony of gambia,windward coast & goree & senegal & cape verde,exp,spe,,,,,,
+ColonyOfTheGambiaBlueBook_1881_178179,6,1,£,1881,colony of gambia,total,exp,spe,,,,,total_reporting,
