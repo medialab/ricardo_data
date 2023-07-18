@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheVirginIslandsBlueBook_1879_129131,1,1,sterling,1879,colony of the virgin islands,antigua,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,2,1,sterling,1879,colony of the virgin islands,st. kitts,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,12,1,sterling,1879,colony of the virgin islands,montserrat,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,8757,1,sterling,1879,colony of the virgin islands,"st. thomas, ste. croix & st. john",imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,40,1,sterling,1879,colony of the virgin islands,st. martins,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,8797,1,sterling,1879,colony of the virgin islands,total,imp,gen,,,,,total_reporting,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,12,1,sterling,1879,colony of the virgin islands,antigua,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,44,1,sterling,1879,colony of the virgin islands,st. kitts,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,6,1,sterling,1879,colony of the virgin islands,montserrat,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,5198,1,sterling,1879,colony of the virgin islands,"st. thomas, ste. croix & st. john",exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1879_129131,5198,1,sterling,1879,colony of the virgin islands,total,exp,gen,,,,,total_reporting,

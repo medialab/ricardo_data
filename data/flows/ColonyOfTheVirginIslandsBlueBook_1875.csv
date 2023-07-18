@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheVirginIslandsBlueBook_1875_139141,118,1,sterling,1875,colony of the virgin islands,demerara,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,9,1,sterling,1875,colony of the virgin islands,antigua,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,6696,1,sterling,1875,colony of the virgin islands,"st. thomas, ste. croix & st. john",imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,435,1,sterling,1875,colony of the virgin islands,st. martins,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,7131,1,sterling,1875,colony of the virgin islands,total,imp,gen,,,,,total_reporting,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,284,1,sterling,1875,colony of the virgin islands,demerara,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,24,1,sterling,1875,colony of the virgin islands,dominica,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,4,1,sterling,1875,colony of the virgin islands,st. kitts,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,5462,1,sterling,1875,colony of the virgin islands,"st. thomas, ste. croix & st. john",exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,67,1,sterling,1875,colony of the virgin islands,st. eustatia,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1875_139141,5529,1,sterling,1875,colony of the virgin islands,total,exp,gen,,,,,total_reporting,

@@ -1,0 +1,10 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheVirginIslandsBlueBook_1863_171173,25,1,sterling,1863,colony of the virgin islands,anguilla,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,95,1,sterling,1863,colony of the virgin islands,st. kitts,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,143,1,sterling,1863,colony of the virgin islands,st. vincent,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,8050,1,sterling,1863,colony of the virgin islands,st. thomas,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,8313,1,sterling,1863,colony of the virgin islands,total,imp,gen,,,,,total_reporting,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,200,1,sterling,1863,colony of the virgin islands,st. vincent,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,35,1,sterling,1863,colony of the virgin islands,dominica,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,11442,1,sterling,1863,colony of the virgin islands,st. thomas,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1863_171173,11677,1,sterling,1863,colony of the virgin islands,total,exp,gen,,,,,total_reporting,
