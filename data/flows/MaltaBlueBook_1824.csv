@@ -1,0 +1,7 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+MaltaBlueBook_1824_276277,176972,1,£,1824,malta,great britain,imp,gen,,,,,,
+MaltaBlueBook_1824_276277,784,1,£,1824,malta,british north america,imp,gen,,,,,,
+MaltaBlueBook_1824_276277,42150,1,£,1824,malta,other british colonies,imp,gen,,,,,,
+MaltaBlueBook_1824_276277,8665,1,£,1824,malta,united states of america,imp,gen,,,,,,
+MaltaBlueBook_1824_276277,344350,1,£,1824,malta,other foreign countries,imp,gen,,,,,,
+MaltaBlueBook_1824_276277,572921,1,£,1824,malta,total,imp,gen,,,,,total_reporting,

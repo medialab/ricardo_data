@@ -1,0 +1,35 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+MaltaBlueBook_1876_W3,72788,1,£,1876,malta,united kingdom,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,1449,1,£,1876,malta,gibraltar,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,3982,1,£,1876,malta,"bombay, calcutta and kurrachee",imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,1198,1,£,1876,malta,austrian dominions,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,1196,1,£,1876,malta,belgium & holland,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,11956,1,£,1876,malta,france,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,16628,1,£,1876,malta,algiers,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,9097,1,£,1876,malta,greece,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,191437,1,£,1876,malta,italy,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,141979,1,£,1876,malta,russia,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,329,1,£,1876,malta,spain,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,65592,1,£,1876,malta,turkey,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,92424,1,£,1876,malta,barbary (tripoli),imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,22536,1,£,1876,malta,tunis,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,3327,1,£,1876,malta,egypt,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,3340,1,£,1876,malta,united states of america,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,639258,1,£,1876,malta,total,imp,spe,,,,,total_reporting,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1876_W3,62916,1,£,1876,malta,united kingdom,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,231,1,£,1876,malta,gibraltar,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,144,1,£,1876,malta,bombay,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,35,1,£,1876,malta,belgium & holland,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,180,1,£,1876,malta,france,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,3993,1,£,1876,malta,algiers,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,321,1,£,1876,malta,germany,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,1043,1,£,1876,malta,greece,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,14942,1,£,1876,malta,italy,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,24,1,£,1876,malta,russia,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,2,1,£,1876,malta,spain,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,6817,1,£,1876,malta,turkey,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,14658,1,£,1876,malta,barbary (tripoli),exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,3617,1,£,1876,malta,tunis,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,4095,1,£,1876,malta,egypt,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,19,1,£,1876,malta,united states of america,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1876_W3,113037,1,£,1876,malta,total,exp,spe,,,,,total_reporting,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
