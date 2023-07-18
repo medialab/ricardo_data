@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1825_3435,44079,1,£,1825,sierra leone,united kingdom,imp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,4696,1,£,1825,sierra leone,british west indies,imp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,869,1,£,1825,sierra leone,british north america,imp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,16394,1,£,1825,sierra leone,other british colonies,imp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,11937,1,£,1825,sierra leone,other foreign countries,imp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,77974,1,£,1825,sierra leone,total,imp,gen,,,,,total_reporting,
+SierraLeoneBlueBook_1825_3435,54624,1,£,1825,sierra leone,united kingdom,exp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,608,1,£,1825,sierra leone,british west indies,exp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,2835,1,£,1825,sierra leone,british north america,exp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,998,1,£,1825,sierra leone,other british colonies,exp,gen,,,,,,
+SierraLeoneBlueBook_1825_3435,59065,1,£,1825,sierra leone,total,exp,gen,,,,,total_reporting,

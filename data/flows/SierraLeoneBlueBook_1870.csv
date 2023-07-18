@@ -1,0 +1,15 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1870_217,212024,1,£,1870,sierra leone,united kingdom,imp,gen,,,,,,
+SierraLeoneBlueBook_1870_217,17311,1,£,1870,sierra leone,france,imp,gen,,,,,,
+SierraLeoneBlueBook_1870_217,7822,1,£,1870,sierra leone,germany,imp,gen,,,,,,
+SierraLeoneBlueBook_1870_217,5824,1,£,1870,sierra leone,windward coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1870_217,987,1,£,1870,sierra leone,leeward coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1870_217,36897,1,£,1870,sierra leone,united states of america,imp,gen,,,,,,
+SierraLeoneBlueBook_1870_217,280864,1,£,1870,sierra leone,total,imp,gen,,,,,total_reporting,
+SierraLeoneBlueBook_1870_217,81456,1,£,1870,sierra leone,united kingdom,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1870_217,147199,1,£,1870,sierra leone,france,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1870_217,68868,1,£,1870,sierra leone,windward coast,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1870_217,12847,1,£,1870,sierra leone,leeward coast,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1870_217,39118,1,£,1870,sierra leone,united states of america,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1870_217,42704,1,£,1870,sierra leone,freetown sierra leone,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1870_217,392192,1,£,1870,sierra leone,total,exp,gen,,,,,total_reporting,Includes exports from Isle of Sherbro
