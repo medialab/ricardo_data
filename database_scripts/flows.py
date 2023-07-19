@@ -80,7 +80,7 @@ def control_flow_files():
 
 ACTIONS = {
     "aggregate": aggregate_flows_from_csv_files,
-    "aggregate_datascape": aggregate_flows_from_datapackage,
+    "aggregate_datapackage": aggregate_flows_from_datapackage,
     "deduplicate": deduplicate_flows,
     "control_flow_files": control_flow_files,
 }

@@ -261,7 +261,7 @@ def deduplicate_flows():
     # Those are not targeted by the first select because some secondary sources only reports total trade.
 
     print(
-        "\nFiltering duplicated sources which describes same reportings on same years..."
+        "\nFiltering duplicated sources which describes 'World as reported' for same reportings on same years..."
     )
 
     c.execute(
