@@ -4,12 +4,7 @@
   "title": "RICardo, Research on International Commerce: trade between Nations from c. 1800 to 1938",
   "description": "RICardo (Research on International Commerce) is a project dedicated to trade between nations over a period spanning the beginning of the Industrial Revolution to the eve of the Second World War. It combines a historical trade database covering all of the world’s countries and a website which invites to an exploration of the history of international trade through data visualizations.",
   "version": "1.0",
-  "keywords": [
-    "trade",
-    "history",
-    "economy",
-    "19th century"
-  ],
+  "keywords": ["trade", "history", "economy", "19th century"],
   "created": "2017-12-05T10:03:50.52Z",
   "licenses": [
     {
@@ -419,16 +414,10 @@
         ],
         "foreignKeys": [
           {
-            "fields": [
-              "modified_currency",
-              "year"
-            ],
+            "fields": ["modified_currency", "year"],
             "reference": {
               "resource": "exchange_rates",
-              "fields": [
-                "modified_currency",
-                "year"
-              ]
+              "fields": ["modified_currency", "year"]
             }
           }
         ]
@@ -459,13 +448,7 @@
             "type": "string",
             "description": "translated export/import",
             "constraints": {
-              "enum": [
-                "Exp",
-                "Exp+Imp",
-                "Imp",
-                "Re-exp",
-                "Re-imp"
-              ],
+              "enum": ["Exp", "Exp+Imp", "Imp", "Re-exp", "Re-imp"],
               "required": true
             }
           },
@@ -499,10 +482,7 @@
       "title": "Trade flows transcribed from various international trade statistics volumes",
       "format": "csv",
       "schema": {
-        "missingValues": [
-          "",
-          "?"
-        ],
+        "missingValues": ["", "?"],
         "fields": [
           {
             "name": "source",
@@ -574,10 +554,7 @@
             "type": "string",
             "description": "Precise wether this trade flow is a monatory flow.",
             "constraints": {
-              "enum": [
-                "S",
-                "NS"
-              ]
+              "enum": ["S", "NS"]
             }
           },
           {
@@ -611,9 +588,7 @@
             "type": "string",
             "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
             "constraints": {
-              "enum": [
-                "1"
-              ]
+              "enum": ["1"]
             }
           },
           {
@@ -658,31 +633,17 @@
             }
           },
           {
-            "fields": [
-              "currency",
-              "year",
-              "reporting"
-            ],
+            "fields": ["currency", "year", "reporting"],
             "reference": {
               "resource": "currencies",
-              "fields": [
-                "currency",
-                "year",
-                "reporting"
-              ]
+              "fields": ["currency", "year", "reporting"]
             }
           },
           {
-            "fields": [
-              "export_import",
-              "special_general"
-            ],
+            "fields": ["export_import", "special_general"],
             "reference": {
               "resource": "expimp_spegen",
-              "fields": [
-                "export_import",
-                "special_general"
-              ]
+              "fields": ["export_import", "special_general"]
             }
           }
         ]
@@ -1241,7 +1202,6 @@
         "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1928.csv",
         "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1932.csv",
         "data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1936.csv",
-        "data/flows/AuswartigerHandelDesDeutschenZollgebiets_18801896.csv",
         "data/flows/BahamasBlueBook_1828.csv",
         "data/flows/BahamasBlueBook_1830.csv",
         "data/flows/BahamasBlueBook_1831.csv",
@@ -3306,7 +3266,6 @@
         "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1933.csv",
         "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1934.csv",
         "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1936.csv",
-        "data/flows/StatistischesHandbuchFurDasDeutscheReich_Vol2.csv",
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1903.csv",
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1910.csv",
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1915.csv",
@@ -3316,7 +3275,6 @@
         "data/flows/StatistischesJahrbuchFrDasDeutscheReich_1938.csv",
         "data/flows/StatistischesJahrbuchFurDasDeutscheReich_1911.csv",
         "data/flows/StatistischesJahrbuchFurDasDeutscheReich_1915.csv",
-        "data/flows/StatistischesJahrbuchFurDasDeutscheReich.csv",
         "data/flows/StatsNz_LongtermDataSeriesHOverseasTradeAndPayments.csv",
         "data/flows/SuomenmaanVirallinenTilastoKauppa_1903_I.csv",
         "data/flows/SuomenmaanVirallinenTilastoKauppa_1904_I.csv",
