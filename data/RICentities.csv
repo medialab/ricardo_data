@@ -290,7 +290,7 @@ Barotseland_North_Western Rhodesia (Northwestern Rhodesia),GPH_entity,Africa,551
 Barranquilla,city/part_of,America,,,Colombia (New Granada) (Gran Colombia)
 Basra,city/part_of,Asia,,Basra,Iraq (Mesopotamia)
 Bassein River,city/part_of,Asia,,BasseinRiver,Myanmar (Burma)
-Bathurst,city/part_of,America,,Bathurst,New Brunswick
+Bathurst,city/part_of,America,,Bathurst,Gambia
 Bavaria,GPH_entity,Europe,245,Bavaria,
 Bavaria & Frankfurt & Saxony,group,Europe,,Bavaria_Frankfurt_Saxony,
 Bavaria & Saxony,group,Europe,,Bavaria_Saxony,
@@ -354,7 +354,6 @@ Black Sea Free Ports,geographical_area,,,,
 Bogotá,city/part_of,America,,,Colombia (New Granada) (Gran Colombia)
 Bohemia,GPH_entity,Europe,3150,,
 Bokhara,GPH_entity,Asia,7020,Bokhara,
-Bolama,city/part_of,Africa,,,Guinea-Bissau (Portuguese Guinea)
 Bolivia,GPH_entity,America,145,Bolivia,
 Bolivia-Peru Confederation,GPH_entity,America,136,,
 Bonaire,GPH_entity,America,1066,,
@@ -1038,11 +1037,11 @@ Gibraltar & Portugal & Spain,group,Europe,,Gibraltar_Portugal_Spain,
 Gibraltar & Spain,group,Europe,,Gibraltar_Spain,
 Gibraltar & Spain & Spanish Colonies,group,World,,Gibraltar_Spain_SpanishColonies,
 Gibraltar & United Kingdom,group,Europe,,Gibraltar_UnitedKingdom,
-Gijón,city/part_of,Europe,,Gij�n,Spain
+Gijón,city/part_of,Europe,,,Spain
 Gilbert and Ellice Is.,GPH_entity,Oceania,945,GilbertandElliceIs.,
 Goa,city/part_of,Asia,,,"Portuguese India (incl. Goa, Diu, Daman)"
 Gold Coast-Togoland (Neutral Zone),GPH_entity,Africa,4559,,
-Gonaïves,city/part_of,America,,Gona�ves,Haiti
+Gonaïves,city/part_of,America,,,Haiti
 Gorda Cay,city/part_of,America,,,Bahamas
 Goree,GPH_entity,Africa,4338,Goree,
 Goree & Senegal,group,Africa,,Goree_Senegal,
@@ -1830,7 +1829,6 @@ Sabanilla,city/part_of,America,,ColombiaNewGranadaGranColombia,Colombia (New Gra
 Safi,city/part_of,Africa,,,Morocco
 Sahara,geographical_area,Africa,,,
 Saint John River,city/part_of,America,,SaintJohnRiver,New Brunswick
-Saint-Louis,city/part_of,Africa,,,Senegal
 Saint-Paul and Amsterdam,city/part_of,Oceania,,,French and Southern Antarctic Territories (F.S.A.T.)
 Sambas,GPH_entity,Asia,8525,Sambas,
 Samoa,GPH_entity,Oceania,9900,Samoa,
@@ -2238,7 +2236,7 @@ Semarang,city/part_of,Asia,,,Indonesia (Dutch East Indies)
 Melbourne,city/part_of,Oceania,,,Victoria
 Mthatha River,city/part_of,Africa,,,Cape Colony (Cape of Good Hope)
 Guernsey,city/part_of,Europe,,,Channel Is.
-Durban,city/part_of,Africa,,,Natal
+Durban (Port Natal),city/part_of,Africa,,,Natal
 Key River,city/part_of,America,,,Ontario (Upper Canada)
 Surabaya,city/part_of,Asia,,,Indonesia (Dutch East Indies)
 Alexander Bay,city/part_of,Africa,,,Orange Free State (Orange River Colony)
@@ -2338,3 +2336,4 @@ Rotterdam,city/part_of,Europe,,,Netherlands
 Saint-Louis (Senegal),city/part_of,Africa,,,Senegal
 Freetown,city/part_of,Africa,,,Sierra Leone
 Vieques (Crab Island),city/part_of,America,,,Puerto Rico
+Río Muni,GPH_entity,Africa,412,,
