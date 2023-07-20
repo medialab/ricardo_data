@@ -1041,7 +1041,7 @@ Gijón,city/part_of,Europe,,,Spain
 Gilbert and Ellice Is.,GPH_entity,Oceania,945,GilbertandElliceIs.,
 Goa,city/part_of,Asia,,,"Portuguese India (incl. Goa, Diu, Daman)"
 Gold Coast-Togoland (Neutral Zone),GPH_entity,Africa,4559,,
-Gonaïves,city/part_of,America,,,Haiti
+Gonaïves,city/part_of,America,,Gona�ves,Haiti
 Gorda Cay,city/part_of,America,,,Bahamas
 Goree,GPH_entity,Africa,4338,Goree,
 Goree & Senegal,group,Africa,,Goree_Senegal,
@@ -2035,6 +2035,7 @@ Thursday I.,city/part_of,Oceania,,,Torres Strait Is.
 Tibet,GPH_entity,Asia,7910,,
 Tobago,GPH_entity,America,1049,Tobago,
 Togo (French Togoland),GPH_entity,Africa,461,TogoFrenchTogoland,
+Togo (French Togoland) (French produce),city/part_of,Africa,,,Togo (French Togoland)
 Tokelau Is.,GPH_entity,Oceania,9201,,
 Tonga (Haʻapai),GPH_entity,Oceania,955,TongaHaapai,
 Tonkin,GPH_entity,Asia,8153,Tonkin,
@@ -2337,3 +2338,5 @@ Saint-Louis (Senegal),city/part_of,Africa,,,Senegal
 Freetown,city/part_of,Africa,,,Sierra Leone
 Vieques (Crab Island),city/part_of,America,,,Puerto Rico
 Río Muni,GPH_entity,Africa,412,,
+British Cameroons & Cameroun (French Cameroons),group,Africa,,,
+Cameroun (French Cameroons) & Togo (French Togoland),group,Africa,,,

@@ -4791,7 +4791,7 @@ kamchatka,Kamchatka
 kameroen en togo,German Togoland & Kamerun
 kameroun,Kamerun
 kamerun,Kamerun
-kamerún,Cameroun (French Cameroons)
+kamerún,Kamerun
 kamerun & togo,German Togoland & Kamerun
 kamerun et togo,German Togoland & Kamerun
 "kamerun, etc",Kamerun
@@ -5191,11 +5191,11 @@ manciuria,Manchuria
 mandat. d. australien,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa)
 mandatsgebeit palästina,Palestine
 mandatsgebeit syrien-libanon,Lebanon & Syria
-mandatsgebiet deutsch kamerun,Kamerun
+mandatsgebiet deutsch kamerun,British Cameroons & Cameroun (French Cameroons)
 mandatsgebiet deutsch ostafrika,Ruanda-Urundi & Tanzania (Tanganyika)
 mandatsgebiet deutsch südwestafrika,Namibia (South West Africa) (German South West Africa)
 mandatsgebiet in der südsee,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa)
-mandatsgebiet kamerun,Cameroun (French Cameroons)
+mandatsgebiet kamerun,British Cameroons & Cameroun (French Cameroons)
 mandatsgebiet togo,British Togoland & Togo (French Togoland)
 mandchoukouo,Manchukuo
 mandchourie,Manchuria
@@ -8477,17 +8477,17 @@ tjekkoslovakiet,Czechoslovakia
 tobago,Tobago
 tobago (british west india islands),Tobago
 tobago (winward islands - west india islands),Tobago
-togo,German Togoland
-togo (french togoland),Togo (French Togoland)
-togo (german west africa),Togo (French Togoland)
+togo (deutsch),German Togoland
+togo,Togo (French Togoland)
+togo (german west africa),German Togoland
 togo (mandat français),Togo (French Togoland)
-togo (marchandises étrangères),German Togoland
-togo (marchandises françaises),German Togoland (French produce)
+togo (marchandises étrangères),Togo (French Togoland)
+togo (marchandises françaises),Togo (French Togoland) (French produce)
 togo (territoire à mandat),Togo (French Togoland)
-togo et autres pays,German Togoland
-togo et autres pays (marchandises étrangères),German Togoland
-togo et autres pays (marchandises françaises),German Togoland (French produce)
-togo et cameroun,German Togoland & Kamerun
+togo et autres pays,Togo (French Togoland)
+togo et autres pays (marchandises étrangères),Togo (French Togoland)
+togo et autres pays (marchandises françaises),Togo (French Togoland) (French produce)
+togo et cameroun,Cameroun (French Cameroons) & Togo (French Togoland)
 "togo, francijas mandat",Togo (French Togoland)
 "togo, pod mandatem brytyjskim",British Togoland
 "togo, pod mandatem francuskim",Togo (French Togoland)
