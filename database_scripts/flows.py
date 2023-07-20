@@ -57,23 +57,35 @@ def aggregate_flows_from_csv_files():
 
 
 def control_flow_files():
-    ricardo_package = Package(
-        os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
-        DATAPACKAGE_ROOT_DIR,
-        strict=True,
-    )
-    flows_resource = ricardo_package.get_resource("flows")
+    with open("../data/sources.csv", "r") as sf:
+        sources = csv.DictReader(sf)
+        sources_filenames = [f"{s['slug']}.csv" for s in sources]
+        print(sources_filenames)
 
-    for dirpath, dirnames, filenames in os.walk(
-        os.path.join(DATAPACKAGE_ROOT_DIR, "data", "flows")
-    ):
-        missing_file_in_datapackage = [
-            f
-            for f in filenames
-            if f"data/flows/{f}" not in flows_resource.descriptor["path"]
-        ]
-        print(missing_file_in_datapackage)
-        print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
+        ricardo_package = Package(
+            os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
+            DATAPACKAGE_ROOT_DIR,
+            strict=True,
+        )
+        flows_resource = ricardo_package.get_resource("flows")
+
+        for dirpath, dirnames, filenames in os.walk(
+            os.path.join(DATAPACKAGE_ROOT_DIR, "data", "flows")
+        ):
+            filenames = list(filenames)
+            missing_file_in_datapackage = [
+                f
+                for f in filenames
+                if f"data/flows/{f}" not in flows_resource.descriptor["path"]
+            ]
+            missing_file_in_sources = [
+                f for f in filenames if f not in sources_filenames
+            ]
+            print("missing in datapackage")
+            print(missing_file_in_datapackage)
+            print("missing in sources")
+            print(missing_file_in_sources)
+            print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
 
 
 # MAIN: launch action from arg
