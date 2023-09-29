@@ -84,7 +84,7 @@ def control_flow_files():
             print("missing in datapackage")
             print(missing_file_in_datapackage)
             print("missing in sources")
-            print(missing_file_in_sources)
+            print(len(missing_file_in_sources))
             print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
 
 

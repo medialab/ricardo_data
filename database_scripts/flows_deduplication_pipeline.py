@@ -716,8 +716,12 @@ def deduplicate_flows():
     custom_exports.export_RICentities_csv(c, conf["RICentities_export_filename"])
     print("done")
     print("flows_deduplicated.csv (...)")
-    utils.sqlitetables2csv(database_filename, ["flow_joined"])
-    shutil.move(
-        os.path.join("out_data", "flow_joined.csv"),
-        "RICardo_trade_flows_deduplicated.csv",
-    )
+    export_sql_query_csv(c, "SELECT * FROM flow_joined", "./out_data/RICardo_trade_flows_deduplicated.csv")
+    print("done")
+    print("flows_duplicated.csv (...)")
+    export_sql_query_csv(c, """
+        SELECT  year, reporting, partner, expimp,GROUP_CONCAT(original_partner),GROUP_CONCAT(source), GROUP_CONCAT(spegen), GROUP_CONCAT(species_bullions),GROUP_CONCAT(transport_type), count(*) as nb_dup 
+        FROM flow_joined
+        GROUP BY year, reporting, partner, expimp
+        HAVING nb_dup > 1;""", "./out_data/flows_duplicated.csv")
+    print("done")
