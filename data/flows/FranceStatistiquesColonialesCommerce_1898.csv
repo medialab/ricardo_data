@@ -64,9 +64,8 @@ FranceStatistiquesColonialesCommerce_1898_448449,586355,1,francs,1898,tahiti,nou
 FranceStatistiquesColonialesCommerce_1898_448449,441784,1,francs,1898,tahiti,autres pays,exp,spe,,,,,,
 FranceStatistiquesColonialesCommerce_1898_448449,2475122,1,francs,1898,tahiti,total,exp,spe,,,,,total_reporting,
 FranceStatistiquesColonialesCommerce_1898_646647,244963,1,francs,1898,annam,france,exp,spe,NS,,,,,Indochine française
-FranceStatistiquesColonialesCommerce_1898_646647,389925,1,francs,1898,annam,etranger,exp,spe,NS,,,,,Indochine française. Par navires français
-FranceStatistiquesColonialesCommerce_1898_646647,2428288,1,francs,1898,annam,etranger,exp,spe,NS,,,,,Indochine française. Par navires étrangers
-FranceStatistiquesColonialesCommerce_1898_646647,2818213,1,francs,1898,annam,total,exp,spe,NS,,,,total_reporting,Indochine française
+FranceStatistiquesColonialesCommerce_1898_646647,2818213,1,francs,1898,annam,etranger,exp,spe,NS,,,,,Indochine française. Par navires français et étrangers
+FranceStatistiquesColonialesCommerce_1898_646647,3063176,1,francs,1898,annam,total,exp,spe,NS,,,,total_reporting,Indochine française
 FranceStatistiquesColonialesCommerce_1898_718719,668639,1,francs,1898,tonkin,france,exp,spe,NS,,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_718719,4480,1,francs,1898,tonkin,colonies françaises,exp,spe,NS,land,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_718719,102557,1,francs,1898,tonkin,etranger,exp,spe,NS,land,,,,Indochine française
@@ -229,8 +228,7 @@ FranceStatistiquesColonialesCommerce_1898_574575,485342,1,francs,1898,cochinchin
 FranceStatistiquesColonialesCommerce_1898_574575,5279240,1,francs,1898,cochinchine et cambodge,"autres pays d'asie, d'océanie, d'afrique et d'amérique",imp,,NS,,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_574575,54964222,1,francs,1898,cochinchine et cambodge,total,imp,,NS,,,,total_reporting,Indochine française
 FranceStatistiquesColonialesCommerce_1898_636637,474352,1,francs,1898,annam,france et des colonies françaises (marchandises françaises),imp,,NS,,,,,Indochine française
-FranceStatistiquesColonialesCommerce_1898_636637,111098,1,francs,1898,annam,etranger,imp,,NS,,,,,Indochine française. Par navires français
-FranceStatistiquesColonialesCommerce_1898_636637,3186546,1,francs,1898,annam,etranger,imp,,NS,,,,,Indochine française. Par navires étrangers
+FranceStatistiquesColonialesCommerce_1898_636637,3297644,1,francs,1898,annam,etranger,imp,,NS,,,,,Indochine française. Par navires français et étrangers
 FranceStatistiquesColonialesCommerce_1898_636637,3771996,1,francs,1898,annam,total,imp,,NS,,,,total_reporting,Indochine française
 FranceStatistiquesColonialesCommerce_1898_704705,17834306,1,francs,1898,tonkin,france (marchandises françaises),imp,,NS,,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_704705,2625342,1,francs,1898,tonkin,colonies françaises (marchandises françaises),imp,,NS,,,,,Indochine française
@@ -239,8 +237,7 @@ FranceStatistiquesColonialesCommerce_1898_704705,36158,1,francs,1898,tonkin,alle
 FranceStatistiquesColonialesCommerce_1898_704705,1543,1,francs,1898,tonkin,italie,imp,,NS,,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_704705,46820,1,francs,1898,tonkin,suisse,imp,,NS,,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_704705,351211,1,francs,1898,tonkin,autres pays d'europe,imp,,NS,,,,,Indochine française
-FranceStatistiquesColonialesCommerce_1898_704705,11686763,1,francs,1898,tonkin,etranger,imp,,NS,,,,,Indochine française. Par navires français
-FranceStatistiquesColonialesCommerce_1898_704705,9383788,1,francs,1898,tonkin,etranger,imp,,NS,,,,,Indochine française. Par navires étrangers
+FranceStatistiquesColonialesCommerce_1898_704705,21070551,1,francs,1898,tonkin,etranger,imp,,NS,sea,,,,Indochine française. Par navires français et étrangers
 FranceStatistiquesColonialesCommerce_1898_704705,1043208,1,francs,1898,tonkin,etranger,imp,,NS,land,,,,Indochine française
 FranceStatistiquesColonialesCommerce_1898_704705,43708128,1,francs,1898,tonkin,total,imp,,NS,,,,total_reporting,Indochine française
 FranceStatistiquesColonialesCommerce_1898_734735,1453392,1,francs,1898,guinée française,france (marchandises françaises),imp,,,,,,,

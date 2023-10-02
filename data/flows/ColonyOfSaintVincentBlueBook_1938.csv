@@ -1,8 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 ColonyOfSaintVincentBlueBook_1938_118121,84928,1,£,1938,st vincent,united kingdom,imp,gen,NS,,,,,
 ColonyOfSaintVincentBlueBook_1938_118121,5,1,£,1938,st vincent,british honduras,imp,gen,NS,,,,,
-ColonyOfSaintVincentBlueBook_1938_118121,142,1,£,1938,st vincent,irish free state,imp,gen,NS,,,,,
-ColonyOfSaintVincentBlueBook_1938_118121,159,1,£,1938,st vincent,eire,imp,gen,NS,,,,,
+ColonyOfSaintVincentBlueBook_1938_118121,301,1,£,1938,st vincent,irish free state,imp,gen,NS,,,,,irish free state + eire
 ColonyOfSaintVincentBlueBook_1938_118121,16,1,£,1938,st vincent,british malaya,imp,gen,NS,,,,,
 ColonyOfSaintVincentBlueBook_1938_118121,34006,1,£,1938,st vincent,canada,imp,gen,NS,,,,,
 ColonyOfSaintVincentBlueBook_1938_118121,6011,1,£,1938,st vincent,newfoundland,imp,gen,NS,,,,,
