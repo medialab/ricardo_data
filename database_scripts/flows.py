@@ -5,7 +5,7 @@ from datapackage import Package, exceptions as datapackage_exceptions
 import csv
 import argparse
 from flows_deduplication_pipeline import deduplicate_flows
-
+from utils import source_filename 
 
 DATAPACKAGE_ROOT_DIR = "../"
 
@@ -59,8 +59,7 @@ def aggregate_flows_from_csv_files():
 def control_flow_files():
     with open("../data/sources.csv", "r") as sf:
         sources = csv.DictReader(sf)
-        sources_filenames = [f"{s['slug']}.csv" for s in sources]
-        print(sources_filenames)
+        sources_filenames = [f'{source_filename(s)}.csv' for s in sources]
 
         ricardo_package = Package(
             os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
@@ -82,7 +81,7 @@ def control_flow_files():
                 f for f in filenames if f not in sources_filenames
             ]
             print("missing in datapackage")
-            print(missing_file_in_datapackage)
+            print(len(missing_file_in_datapackage))
             print("missing in sources")
             print(len(missing_file_in_sources))
             print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")

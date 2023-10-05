@@ -360,24 +360,23 @@ def deduplicate_flows():
     sub_c = conn.cursor()
     rows_grouped = 0
     for n, flows, ids, land_seas in c:
-        if n == 2:
-            land_sea = ", ".join(set(land_seas.split("|")))
-            if len(set(land_seas.split("|"))) > 1:
-                # if notes :
-                # 	notes=", ".join(set(notes.split("|")))
-                sub_c.execute(
-                    """UPDATE `flow_joined` SET flow=%.1f,transport_type="%s"
-                    WHERE ID=%s"""
-                    % (
-                        sum(float(_) for _ in flows.split("|")),
-                        land_sea,
-                        ids.split("|")[0],
-                    )
+        land_sea = ", ".join(set(land_seas.split("|")))
+        if len(set(land_seas.split("|"))) > 1:
+            # if notes :
+            # 	notes=", ".join(set(notes.split("|")))
+            sub_c.execute(
+                """UPDATE `flow_joined` SET flow=%.1f,transport_type="%s"
+                WHERE ID=%s"""
+                % (
+                    sum(float(_) for _ in flows.split("|")),
+                    land_sea,
+                    ids.split("|")[0],
                 )
-                sub_c.execute(
-                    """DELETE FROM `flow_joined` WHERE ID=%s""" % ids.split("|")[1]
-                )
-                rows_grouped += 2
+            )
+            sub_c.execute(
+                """DELETE FROM `flow_joined` WHERE ID IN (%s)""" % ",".join(ids.split("|")[1:])
+            )
+            rows_grouped += n
     if rows_grouped > 0:
         print("removing %s land/seas duplicates by suming them" % rows_grouped)
     sub_c.close()
@@ -427,12 +426,12 @@ def deduplicate_flows():
     ################################################################################
 
     c.execute(
-        """SELECT * from (SELECT count(*) as nb,
+        """SELECT count(*) as nb,
         group_concat(species_bullions,'|') as sb, group_concat(ID,'|'),
         reporting, partner
         FROM `flow_joined`
-        GROUP BY year,expimp,reporting,partner HAVING count(*)>1)
-        WHERE sb="S|NS"
+        WHERE species_bullions IN ('S', 'NS')
+        GROUP BY year,expimp,reporting,partner HAVING count(*)>1 AND (sb="NS|S" or sb="S|NS")
         """
     )
     ids_to_remove = []
@@ -716,12 +715,13 @@ def deduplicate_flows():
     custom_exports.export_RICentities_csv(c, conf["RICentities_export_filename"])
     print("done")
     print("flows_deduplicated.csv (...)")
-    export_sql_query_csv(c, "SELECT * FROM flow_joined", "./out_data/RICardo_trade_flows_deduplicated.csv")
+    custom_exports.export_sql_query_csv(c, "SELECT * FROM flow_joined", "./out_data/RICardo_trade_flows_deduplicated.csv")
     print("done")
     print("flows_duplicated.csv (...)")
-    export_sql_query_csv(c, """
+    custom_exports.export_sql_query_csv(c, """
         SELECT  year, reporting, partner, expimp,GROUP_CONCAT(original_partner),GROUP_CONCAT(source), GROUP_CONCAT(spegen), GROUP_CONCAT(species_bullions),GROUP_CONCAT(transport_type), count(*) as nb_dup 
         FROM flow_joined
+        WHERE partner NOT IN ('Unknown', '***NA')
         GROUP BY year, reporting, partner, expimp
         HAVING nb_dup > 1;""", "./out_data/flows_duplicated.csv")
     print("done")
