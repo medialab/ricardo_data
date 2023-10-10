@@ -134,14 +134,18 @@ def export_sources_csv(cursor,output_filename):
 def export_sql_query_csv(cursor, sql, output_filename):
   cursor.row_factory = sqlite3.Row
   rows = cursor.execute(sql)
-  first = next(rows)
-  with open(output_filename,'w') as f:
-    dw = csvkit.writer(f)
-    dw.writerow(first.keys())
-    dw.writerow(first)
-    dw.writerows(r for r in rows)  
+  try:
+    first = next(rows)
+    with open(output_filename,'w') as f:
+      dw = csvkit.writer(f)
+      dw.writerow(first.keys())
+      dw.writerow(first)
+      dw.writerows(r for r in rows)  
+      return 0
+  except StopIteration:
     return 0
-  return 1
+  finally:
+    return 1
 
 # export a list of RICentities with some stats
 def export_RICentities_FT_comparision(cursor, output_filename, table='flow_joined'):
