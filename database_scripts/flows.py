@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 import os
-import json
-from datapackage import Package, exceptions as datapackage_exceptions
 import csv
 import argparse
 from flows_deduplication_pipeline import deduplicate_flows
@@ -13,6 +11,7 @@ DATAPACKAGE_ROOT_DIR = "../"
 
 
 def aggregate_flows_from_datapackage():
+    from datapackage import Package
     ricardo_package = Package(
         os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
         DATAPACKAGE_ROOT_DIR,
@@ -58,6 +57,7 @@ def aggregate_flows_from_csv_files():
 
 def control_flow_files():
     with open("../data/sources.csv", "r") as sf:
+        from datapackage import Package
         sources = csv.DictReader(sf)
         sources_filenames = [f'{source_filename(s)}.csv' for s in sources]
 
