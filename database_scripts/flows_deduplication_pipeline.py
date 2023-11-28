@@ -12,7 +12,6 @@ import shutil
 
 
 def deduplicate_flows():
-
     try:
         with open("config.json", "r") as f_conf:
             conf = json.load(f_conf)
@@ -99,7 +98,10 @@ def deduplicate_flows():
             transport_type,
             f.notes,
             species_bullions,
-            ifnull(s.author,s.name) || ifnull(' ('||s.edition_date||')','') as source_label
+            ifnull(s.author,s.name) || ifnull(' ('||s.edition_date||')','') as source_label,
+            partner_sum,
+            world_trade_type,
+            statistical_period
             from flows as f
             LEFT OUTER JOIN currencies as c
                 ON f.currency=c.currency
@@ -374,7 +376,8 @@ def deduplicate_flows():
                 )
             )
             sub_c.execute(
-                """DELETE FROM `flow_joined` WHERE ID IN (%s)""" % ",".join(ids.split("|")[1:])
+                """DELETE FROM `flow_joined` WHERE ID IN (%s)"""
+                % ",".join(ids.split("|")[1:])
             )
             rows_grouped += n
     if rows_grouped > 0:
@@ -715,13 +718,21 @@ def deduplicate_flows():
     custom_exports.export_RICentities_csv(c, conf["RICentities_export_filename"])
     print("done")
     print("flows_deduplicated.csv (...)")
-    custom_exports.export_sql_query_csv(c, "SELECT * FROM flow_joined", "./out_data/RICardo_trade_flows_deduplicated.csv")
+    custom_exports.export_sql_query_csv(
+        c,
+        "SELECT * FROM flow_joined",
+        conf["deduplicated_flows"],
+    )
     print("done")
     print("flows_duplicated.csv (...)")
-    custom_exports.export_sql_query_csv(c, """
+    custom_exports.export_sql_query_csv(
+        c,
+        """
         SELECT  year, reporting, partner, expimp,GROUP_CONCAT(original_partner),GROUP_CONCAT(source), GROUP_CONCAT(spegen), GROUP_CONCAT(species_bullions),GROUP_CONCAT(transport_type), count(*) as nb_dup 
         FROM flow_joined
         WHERE partner NOT IN ('Unknown', '***NA', 'World undefined')
         GROUP BY year, reporting, partner, expimp
-        HAVING nb_dup > 1;""", "./out_data/flows_duplicated.csv")
+        HAVING nb_dup > 1;""",
+        conf["duplicated_flows"],
+    )
     print("done")

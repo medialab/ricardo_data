@@ -1,7 +1,10 @@
-{	"sqlite_filename": "RICardo.sqlite",
-	"sqlite_schema": "RICardo_schema.sql",
-	"sqlite_viz": "RICardo_viz.sqlite",
-	"sources_export_filename": "RICardo_sources.csv",
-	"RICentities_export_filename": "RICardo_RICentities.csv",
-	"rates_export_filename": "RICardo_exchange_rates.csv"
+{
+  "sqlite_filename": "RICardo.sqlite",
+  "sqlite_schema": "RICardo_schema.sql",
+  "sqlite_viz": "RICardo_viz.sqlite",
+  "sources_export_filename": "RICardo_sources.csv",
+  "RICentities_export_filename": "RICardo_RICentities.csv",
+  "rates_export_filename": "RICardo_exchange_rates.csv",
+  "deduplicated_flows": "RICardo_trade_flows_deduplicated.csv",
+  "duplicated_flows": "duplicated_trade_flows_to_investigate.csv"
 }
