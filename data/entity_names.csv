@@ -75,7 +75,7 @@ africa east and west (portuguese),Portuguese Africa
 africa eq. occ. britannica,British Equatorial West Africa
 africa eq. occ. francese,French Equatorial West Africa
 africa eq. occ. portoghese,Portuguese Equatorial West Africa
-africa eq. occ. spagnola,Spanish Equatorial West Africa
+africa eq. occ. spagnola,Equatorial Guinea (Spanish Guinea)
 africa eq. or. britannica,British Equatorial East Africa
 africa equatorial franc,French Equatorial Africa
 africa equatorial francesa,French Equatorial Africa
@@ -542,12 +542,12 @@ anglo-egyptian sudan||,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 anglo-egyptiska sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 anglu kol azija,British Asia
 anglu sudanas,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
-angola,Angola
-angóla,Angola
-angola (ou afriq.-occidentale portug.),Angola
-angola (portuguess africa),Angola
-"angola, enz.",Angola
-"angola, port. kongo",Angola & Kabinda (Portuguese Congo)
+angola,Angola (Portuguese West Africa)
+angóla,Angola (Portuguese West Africa)
+angola (ou afriq.-occidentale portug.),Angola (Portuguese West Africa)
+angola (portuguess africa),Angola (Portuguese West Africa)
+"angola, enz.",Angola (Portuguese West Africa)
+"angola, port. kongo",Angola (Portuguese West Africa) & Cabinda (Portuguese Congo)
 angra-pequena,Angra Pequena
 anguila,Anguilla
 anguilla,Anguilla
@@ -850,7 +850,7 @@ australien och van diemens land,Australia
 australien uden nærmere angivelse,Australia (other)
 australien un ozeanien,Australia & Oceania
 australien und den sandwich-inseln,Australia & Hawaii (Sandwich Is.)
-australien und der südsee,Australia & South Sea Islands
+australien und der südsee,Australia & Pacific Islands
 australija,Australia
 australischer bund,Australia
 australischer bund & neu-seeland & übrig. brit. australien,Australia & New Zealand
@@ -1748,8 +1748,8 @@ bussora,Basra
 butan,Bhutan
 "butan, nepal og afghanistan",Afghanistan & Bhutan & Nepal
 c.p.t.m.f. (colonies françaises),French Colonies
-cabinda,Kabinda (Portuguese Congo)
-cabinda (enclave de),Kabinda (Portuguese Congo)
+cabinda,Cabinda (Portuguese Congo)
+cabinda (enclave de),Cabinda (Portuguese Congo)
 cabo de buena esperanza,Cape Colony (Cape of Good Hope)
 cabo verde,Cape Verde
 cabo verde (portuguese africa),Cape Verde
@@ -1888,9 +1888,9 @@ celebes,Sulawesi (Celebes)
 célèbes,Sulawesi (Celebes)
 celebes and moluccas,Maluku Islands (Mollucas) & Sulawesi (Celebes)
 celebes and moluccas (dutch east indies),Maluku Islands (Mollucas) & Sulawesi (Celebes)
-celebes and other islands,Other countries & Sulawesi (Celebes)
+celebes and other islands,Java & Sumatra & Sulawesi (Celebes)
 "célèbes, iles est",Sulawesi (Celebes)
-célèbres et autres îles orientales,Other countries & Sulawesi (Celebes)
+célèbres et autres îles orientales,Java & Sumatra & Sulawesi (Celebes)
 célères,Sulawesi (Celebes)
 celkem,World
 celyon,Sri Lanka (Ceylon)
@@ -2148,7 +2148,7 @@ colonies d'afrique,Portuguese Africa
 colonies d'asie,Portuguese Asia
 colonies danoises,Danish Colonies
 colonies danoises (saint thomas),St. Thomas
-colonies de l'amérique du nord,North American Colonies
+colonies de l'amérique du nord,British North America
 colonies espagnoles,Spanish Colonies
 colonies espagnoles de l'afrique de l'ouest,Spanish West Africa
 colonies espagnoles de la côte d'afrique,Spanish Africa
@@ -2180,8 +2180,8 @@ colonies néerlandaises en amérique,Netherlands Antilles
 colonies portugaises,Portuguese Colonies
 colonies portugaises d'afrique,Portuguese Africa
 colonies portugaises d'asie,Portuguese Asia
-colonies portugaises de l'afrique de l'est,Portuguese East Africa
-colonies portugaises de l'afrique de l'ouest,Portuguese West Africa
+colonies portugaises de l'afrique de l'est,Mozambique (Portuguese East Africa)
+colonies portugaises de l'afrique de l'ouest,Angola (Portuguese West Africa)
 colonies portugaises. côte d'afrique,Portuguese Africa
 colonies suédoises,Swedish Colonies
 colonies-cuba,Cuba
@@ -2306,12 +2306,12 @@ côte occidentale d'afrique possessions britaniques,British West Africa
 côte occidentale d'afrique possessions britanniques,British West Africa
 côte occidentale d'afrique possessions espagnoles,Spanish West Africa
 côte occidentale d'afrique possessions françaises,French West Africa
-côte occidentale d'afrique possessions portugaises,Portuguese West Africa
+côte occidentale d'afrique possessions portugaises,Angola (Portuguese West Africa)
 côte occidentale d'afrique-possessions allemandes,German West Africa
 côte occidentale d'afrique-possessions britanniques,British West Africa
 côte occidentale d'afrique-possessions espagnoles,Spanish West Africa
 côte occidentale d'afrique-possessions françaises,French West Africa
-côte occidentale d'afrique-possessions portugaises,Portuguese West Africa
+côte occidentale d'afrique-possessions portugaises,Angola (Portuguese West Africa)
 côte occidentale de la péninsule,Malaysia (British Malaya) (West)
 côte ocidentale malaise,Malaysia (British Malaya) (West)
 côte orient. afrique,Eastern Africa
@@ -2324,12 +2324,12 @@ côte orientale d'afrique possessions britaniques,British East Africa
 côte orientale d'afrique possessions britanniques,British East Africa
 côte orientale d'afrique possessions françaises,Djibouti (Afar and Issas) (French Somaliland)
 côte orientale d'afrique possessions italiennes,Italian East Africa
-côte orientale d'afrique possessions portugaises,Portuguese East Africa
+côte orientale d'afrique possessions portugaises,Mozambique (Portuguese East Africa)
 côte orientale d'afrique-possessions allemandes,German East Africa
 côte orientale d'afrique-possessions britanniques,British East Africa
 côte orientale d'afrique-possessions espagnoles,Spanish East Africa
 côte orientale d'afrique-possessions françaises,Djibouti (Afar and Issas) (French Somaliland)
-côte orientale d'afrique-possessions portugaises,Portuguese East Africa
+côte orientale d'afrique-possessions portugaises,Mozambique (Portuguese East Africa)
 "côte orientale d'afrique, madagascar, et autres îles",Africa Coast (East) & Madagascar (Malagasy Republic)
 côte orientale de la péninsule,Malaysia (British Malaya) (East)
 côte orientale malaise,Malaysia (British Malaya) (East)
@@ -2549,7 +2549,7 @@ den niederlanden,Netherlands
 den philippen,Philippines
 den sandwich inseln,Hawaii (Sandwich Is.)
 den schiffer-inseln,Samoa
-den übrigen südsee-inseln,South Sea Islands (other)
+den übrigen südsee-inseln,Pacific Islands (other)
 den vereinigten staaten,United States of America
 den vereinigten staaten (excl. californien),United States of America (other)
 denemarken,Denmark
@@ -2587,7 +2587,7 @@ der levante,Levant
 der moldau,Moldavia
 der moldau und aegypten,Egypt Arab Republic (Egypt) & Moldavia
 der rheinprovinz,Rhineland
-der süd-see,South Sea Islands
+der süd-see,Pacific Islands
 der türkei,Turkey (Ottoman Empire)
 der türkei und griechenland,Greece & Turkey (Ottoman Empire)
 der wallachei,Wallachia
@@ -2723,7 +2723,7 @@ dutch possessions in borneo† (holland),Dutch Borneo
 dutch possessions in india,Dutch India
 dutch possessions in indian seas,Indonesia (Dutch East Indies)
 dutch possessions in new guinea†,West Irian (Dutch New Guinea)
-dutch possessions in the far east,Dutch East Asia
+dutch possessions in the far east,Indonesia (Dutch East Indies)
 dutch possessions new guinea† (holland),West Irian (Dutch New Guinea)
 dutch possessions on the gold coast,Dutch Posts (Gold Coast)
 dutch possessions on the gold coast (holland),Dutch Posts (Gold Coast)
@@ -2758,7 +2758,7 @@ east africa : nyasaland protectorate,Malawi (Nyasaland) (British Central Africa 
 east africa : uganda protectorate,Uganda
 east africa : zanzibar and pemba,Pemba Island & Zanzibar
 east africa other territories under british influence,British East Africa
-east africa portugal,Portuguese East Africa
+east africa portugal,Mozambique (Portuguese East Africa)
 east africa protectorate,Kenya (British East Africa Protectorate)
 east africa protectorate (including zanzibar),Kenya (British East Africa Protectorate) & Zanzibar
 east africa protectorate and british central africa protectorate,Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate)
@@ -2886,7 +2886,7 @@ empire autriche,Austria-Hungary (Austrian Empire)
 empire d'allemagne,Germany (Zollverein)
 empire d'allemgne,Germany (Zollverein)
 empire ottoman,Turkey (Ottoman Empire)
-enclave de cabinda,Kabinda (Portuguese Congo)
+enclave de cabinda,Cabinda (Portuguese Congo)
 enclaves (territoire de lubeck),Lübeck
 engelsch america,British America
 engelsch-amerika,British America
@@ -2995,7 +2995,7 @@ establec. estrech,Straits Settlements
 establecimiento del estrecho,Straits Settlements
 establecimientos de los estrechos,Straits Settlements
 establecimientos del estrecho,Straits Settlements
-establissements français en océanie,French Oceania
+establissements français en océanie,French Polynesia
 estado libre del congo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 estado livre do congo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 estado oriental,Uruguay
@@ -3033,7 +3033,7 @@ eszak-am. egy.-all,United States of America
 eszak-am. egy.-allamok,United States of America
 eszak-am. egyesült-all,United States of America
 észak-amerikai egyesült-államok,United States of America
-etablissement français en océanie,French Oceania
+etablissement français en océanie,French Polynesia
 etablissements anglais du détroit,Straits Settlements
 etablissements des détroits,Straits Settlements
 etablissements des détroits et etats malais,Malaysia (British Malaya) & Straits Settlements
@@ -3042,15 +3042,15 @@ etablissements français dans l'inde (karikal),Karaikal
 etablissements français dans l'inde (mahé),Mahé
 etablissements français dans l'inde (pondichéry),Pondicherry
 etablissements français dans l'inde (yanaon),Yanaon
-etablissements français dans l'océanie,French Oceania
+etablissements français dans l'océanie,French Polynesia
 etablissements français dans le golfe de guinée,French Gulf of Guinea
-etablissements français de l'océanie,French Oceania
+etablissements français de l'océanie,French Polynesia
 etablissements français de la côte des somalis,Djibouti (Afar and Issas) (French Somaliland)
 etablissements français de la côte occidentale d'afrique,French West Africa
 etablissements français du golfe de guinée,French Gulf of Guinea
 etablissements français du golfe guinée,French Gulf of Guinea
-etablissements français en océanie,French Oceania
-établissements français en océanie,French Oceania
+etablissements français en océanie,French Polynesia
+établissements français en océanie,French Polynesia
 "etablissements français en océanie, autres",French Oceania (other)
 etat allemand,Germany (Zollverein)
 etat du congo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
@@ -3318,7 +3318,7 @@ francija,France
 "francijas, antilu salas",French West Indies
 francja,France
 francouzancie drzavy v asii,French Asia
-francouzska oceanie,French Oceania
+francouzska oceanie,French Polynesia
 francouzske drzavy v africe,French Africa
 francouzske drzavy v jizni africe,French South Africa
 francouzske drzavy v rovnikove africe zapadni,French Equatorial West Africa
@@ -3328,7 +3328,7 @@ francuska,France
 francuska somalija,Djibouti (Afar and Issas) (French Somaliland)
 francuska zapadna afrika,French West Africa
 franczia indo-kina,French Indochina
-franczia kelet-india,French East Indies
+franczia kelet-india,French India
 franczia nyugot-india,French West Indies
 franczia-guyana,French Guiana
 franczia-ny.-india,French West Indies
@@ -3374,7 +3374,7 @@ franska kamerun,Cameroun (French Cameroons)
 franska marocko,Morocco
 franska niger-omradet,Niger
 franska ostafrika,French East Africa
-franska ostindien,French East Indies
+franska ostindien,French India
 franska ostindien (indochina),French Indochina
 franska somalikusten,Djibouti (Afar and Issas) (French Somaliland)
 franska sudan,Mali (French Sudan) (Upper Senegal and Niger)
@@ -3390,12 +3390,12 @@ franz josef land,Franz Josef Land
 franz-west-aquatorial-afrika,French Equatorial West Africa
 franzosisch afrika,French Africa
 französisch amerika,French America
-französisch australien,French Oceania
+französisch australien,French Polynesia
 französisch guayana,French Guiana
 französisch indien,French India
 franzosisch indochina,French Indochina
 französisch marokko,Morocco
-französisch ostindien,French East Indies
+französisch ostindien,French India
 französisch westafrika,French West Africa
 franzosisch westindien,French West Indies
 free orange states,Orange Free State (Orange River Colony)
@@ -3448,7 +3448,7 @@ french morocco,Morocco
 french north africa,French North Africa
 french north american fisheries,St. Pierre and Miquelon
 french north american possessions,French North America
-french oceania,French Oceania
+french oceania,French Polynesia
 french other possessions,French Colonies (other)
 french polinesia,French Polynesia
 french ports,France
@@ -3468,13 +3468,13 @@ french possessions in india (france),French India
 french possessions in india (pondieberry) (france),Pondicherry
 french possessions in north america,French North America
 french possessions in north america (france),French North America
-french possessions in oceania,French Oceania
-french possessions in oceanica,French Oceania
+french possessions in oceania,French Polynesia
+french possessions in oceanica,French Polynesia
 french possessions in senegambia,Senegal
 french possessions in senegambia (france),Senegal
-french possessions in the far east,French East Asia
-french possessions in the pacific,French Oceania
-french possessions in the pacific (france),French Oceania
+french possessions in the far east,French Indochina
+french possessions in the pacific,French Polynesia
+french possessions in the pacific (france),French Polynesia
 french possessions in west africa,French West Africa
 french possessions in western africa (france),French West Africa
 french possessions: madagascar,Madagascar (Malagasy Republic)
@@ -4033,7 +4033,7 @@ holande,Netherlands
 "holande kol, nez",Dutch Colonies (other)
 holandes indija,Indonesia (Dutch East Indies)
 "holandes kolonijas sev nem, amerika",Dutch America
-holandesas (islas),Dutch Islands
+holandesas (islas),Netherlands Antilles
 holandija,Netherlands
 holandja,Netherlands
 holland,Netherlands
@@ -4465,7 +4465,7 @@ inidia inglesa,India
 inne kraje,Other countries
 inne kraje (ameryka środkowa),Central America (other)
 inne kraje (europa),Europe (other)
-installations françaises d'océanie,French Oceania
+installations françaises d'océanie,French Polynesia
 inter-presidency trade,Leeward Is.
 ionia,Ionian Is.
 ionial islands,Ionian Is.
@@ -4566,7 +4566,7 @@ islas fidji,Fiji
 islas filipinas,Philippines
 "islas filipinas, o sea de la occeania directamente",Philippines
 islas hawaii,Hawaii (Sandwich Is.)
-islas holandesas,Dutch Islands
+islas holandesas,Netherlands Antilles
 islas madeira,Madeira Isles
 islas madera,Madeira Isles
 islas maderas,Madeira Isles
@@ -4887,10 +4887,10 @@ kolonje hiszpańskie w afryce zachodniej,Spanish West Africa
 kolonje i mandaty belgijskie,Belgian Colonies
 kolonje i posiadlósci francuskie,French Colonies
 kolonje portugalskie,Portuguese Colonies
-kolonje portugalskie w afryce wsch.,Portuguese East Africa
-kolonje portugalskie w afryce wschodniej,Portuguese East Africa
-kolonje portugalskie w afryce zach.,Portuguese West Africa
-kolonje portugalskie w afryce zachodniej,Portuguese West Africa
+kolonje portugalskie w afryce wsch.,Mozambique (Portuguese East Africa)
+kolonje portugalskie w afryce wschodniej,Mozambique (Portuguese East Africa)
+kolonje portugalskie w afryce zach.,Angola (Portuguese West Africa)
+kolonje portugalskie w afryce zachodniej,Angola (Portuguese West Africa)
 kolonje wloskie w afryce wsch.,Italian East Africa
 kolonje wloskie w afryce wschodniej,Italian East Africa
 kolumbia,Colombia (New Granada) (Gran Colombia)
@@ -4978,7 +4978,7 @@ lagos (marchandises françaises),Lagos (French produce)
 lagos (west africa),Lagos
 laguira,La Guaira
 land uopgivet,Unknown
-land ved sydishavet,South Sea Islands
+land ved sydishavet,Pacific Islands
 landrone islands : guam,Guam
 landwärts,World
 landwärts per fuhr und per post,World (other)
@@ -5329,7 +5329,7 @@ mayotte & nossi-bé,Mayotte & Nossi Be
 mayotte et dépendances,Mayotte
 "mayotte, anjouan, la grande comore, mohéli",Anjouan & Grand Comoro & Mayotte & Moheli
 "mayotte, nossi-bé et sainte-marie de madagascar",Mayotte & Nossi Be & St. Marie de Madagascar
-mazambique,Mozambique
+mazambique,Mozambique (Portuguese East Africa)
 mazattan,Mazatlán
 mechul,Unknown
 mecklembourg,Mecklenburg Schwerin
@@ -5467,8 +5467,8 @@ mit der venlo-hamburger eisenbahn,World (via Venlo)
 "mittelamerika, n.b.b.",Central America (other)
 mixico,Mexico
 mısır,Egypt Arab Republic (Egypt)
-mocambique,Mozambique
-moçambique,Mozambique
+mocambique,Mozambique (Portuguese East Africa)
+moçambique,Mozambique (Portuguese East Africa)
 mohéli,Moheli
 mokha,Mocha
 moldavie,Moldavia
@@ -5558,13 +5558,13 @@ moulmain,Mawlamyine
 moulmein,Mawlamyine
 moyen-congo,Congo (Brazzaville) (French Congo) (Middle Congo)
 "moyen-congo, oubangui-chari",Central African Republic (Ubangi Shari) & Congo (Brazzaville) (French Congo) (Middle Congo)
-mozambik,Mozambique
-mozambikas,Mozambique
-mozambique,Mozambique
-mozambique (ou afriq.-orient. portug.),Mozambique
-mozambique (portuguese africa),Mozambique
-mozambique and zanzibar,Mozambique & Zanzibar
-mozambique et zambèze,Mozambique & Zambia (Northern Rhodesia)
+mozambik,Mozambique (Portuguese East Africa)
+mozambikas,Mozambique (Portuguese East Africa)
+mozambique,Mozambique (Portuguese East Africa)
+mozambique (ou afriq.-orient. portug.),Mozambique (Portuguese East Africa)
+mozambique (portuguese africa),Mozambique (Portuguese East Africa)
+mozambique and zanzibar,Mozambique (Portuguese East Africa) & Zanzibar
+mozambique et zambèze,Mozambique (Portuguese East Africa) & Zambia (Northern Rhodesia)
 mukalla,Al Mukalla
 muscat,Oman (Sultanate of Muscat and Oman)
 "muscat and oman, trucial oman and koweit",Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman)
@@ -5957,7 +5957,7 @@ oceanía,Oceania
 oceania - possessoes americanas,American Oceania
 oceania - possessoes britannicas,British Oceania
 oceania - possessoes hollandezas,Dutch Oceania
-oceania francesa,French Oceania
+oceania francesa,French Polynesia
 oceania holandesa,Dutch Oceania
 oceania-diversas possessoes britannicas,British Oceania
 oceanie,Oceania
@@ -5970,16 +5970,16 @@ océanie anglaise et autres,British Oceania
 "océanie anglaise, toutes autres",British Oceania
 océanie des etats-unis,American Oceania
 océanie et australie,Australia & Oceania
-oceanie franc,French Oceania
-océanie française,French Oceania
+oceanie franc,French Polynesia
+océanie française,French Polynesia
 océanie possessions allemandes,German Oceania
 océanie possessions britaniques,British Oceania
 océanie possessions britanniques,British Oceania
 océanie possessions des etats-unis,American Oceania
 océanie possessions etats-unis d'amérique,American Oceania
-océanie possessions françaises,French Oceania
+océanie possessions françaises,French Polynesia
 oceanja brytańska,British Oceania
-oceanja francuska,French Oceania
+oceanja francuska,French Polynesia
 oceanja stanów zjednoczonych,American Oceania
 odessa (russia),Odessa
 odessa und galatz,Galați & Odessa
@@ -6006,7 +6006,7 @@ ohter british north american possessions,British North America (other)
 ohter british possessions,British Colonies (other)
 øier i stillehavet,Pacific Islands
 "okeanijas salas, britanijas kolon",British Oceania
-"okeanijas salas, franc kolon",French Oceania
+"okeanijas salas, franc kolon",French Polynesia
 olanda,Netherlands
 olandija,Netherlands
 olandu indija,Indonesia (Dutch East Indies)
@@ -6662,7 +6662,7 @@ poludniowej,Southern Africa (other)
 polyneisen,Polynesia
 polynesië,Polynesia
 polynesie en micronesie,Federated States of Micronesia & French Polynesia
-polynésie française,French Oceania
+polynésie française,French Polynesia
 pondichéry,Pondicherry
 pontianak,Pontianak
 pontifical states,Papal States
@@ -6686,8 +6686,8 @@ port said and suez,Suez Canal Zone
 port sudan,Port Sudan
 port. asien u. übrig. asien,Portuguese Asia & Asia (other)
 port. bez. in zuid-afrika,Portuguese South Africa
-port. oost-afrika,Portuguese East Africa
-port. west-afrika,Portuguese West Africa
+port. oost-afrika,Mozambique (Portuguese East Africa)
+port. west-afrika,Angola (Portuguese West Africa)
 porto novo,Porto Novo
 porto rico,Puerto Rico
 porto rico (spain),Puerto Rico
@@ -6740,7 +6740,7 @@ ports russes mer noire,Russia (Black Sea)
 ports transatlantiques,Transatlantic Ports
 ports turcs,Turkey (Ottoman Empire)
 portug afrika,Portuguese Africa
-portug. östafrika,Portuguese East Africa
+portug. östafrika,Mozambique (Portuguese East Africa)
 portugal,Portugal
 portúgal,Portugal
 portugal (+madère et açores),Azores (Western Isles) & Madeira Isles & Portugal
@@ -6761,7 +6761,7 @@ portugal (saint-ubes sétuval),Setúbal
 portugal and azores and madeira,Azores (Western Isles) & Madeira Isles & Portugal
 portugal and dependencies,Portugal & Portuguese Colonies
 portugal and madeira,Madeira Isles & Portugal
-portugal and portuguese east africa,Portugal & Portuguese East Africa
+portugal and portuguese east africa,Mozambique (Portuguese East Africa) & Portugal
 portugal and portuguese possessions,Portugal & Portuguese Colonies
 portugal azores,Azores (Western Isles)
 portugal e açores e madeira,Azores (Western Isles) & Madeira Isles & Portugal
@@ -6798,23 +6798,23 @@ portugalja,Portugal
 portugalska zapadni a vychodni afrika,Portuguese Africa
 portugalske drzavy v africe,Portuguese Africa
 portugalsko,Portugal
-portugeesch oost-afrika,Portuguese East Africa
+portugeesch oost-afrika,Mozambique (Portuguese East Africa)
 portugeesch timor,East Timor (Portuguese Timor)
 portugeesch voor-indië,"Portuguese India (incl. Goa, Diu, Daman)"
-portugeesch west-afrika,Portuguese West Africa
+portugeesch west-afrika,Angola (Portuguese West Africa)
 portugeesch-guinea,Guinea-Bissau (Portuguese Guinea)
 "portugeesch-guinea, enz.",Guinea-Bissau (Portuguese Guinea)
 portugese east indies,"Portuguese India (incl. Goa, Diu, Daman)"
 portugiesisch asien,Portuguese Asia
 portugiesisch indien,"Portuguese India (incl. Goa, Diu, Daman)"
-portugiesisch ostafrika,Portuguese East Africa
-portugiesisch westafrika,Portuguese West Africa
+portugiesisch ostafrika,Mozambique (Portuguese East Africa)
+portugiesisch westafrika,Angola (Portuguese West Africa)
 portugisiska guinea,Guinea-Bissau (Portuguese Guinea)
 portugisiska indien,"Portuguese India (incl. Goa, Diu, Daman)"
-portugisiska ostafrika,Portuguese East Africa
-portugisiska östafrika,Portuguese East Africa
+portugisiska ostafrika,Mozambique (Portuguese East Africa)
+portugisiska östafrika,Mozambique (Portuguese East Africa)
 portugisiska timor,East Timor (Portuguese Timor)
-portugisiska vastafrika,Portuguese West Africa
+portugisiska vastafrika,Angola (Portuguese West Africa)
 portugisiske bes. i afrika,Portuguese Africa
 portugisiske bes. i asia,Portuguese Asia
 portugisiske besiddelser,Portuguese Colonies
@@ -6822,8 +6822,8 @@ portuguese africa,Portuguese Africa
 portuguese asia,Portuguese Asia
 portuguese china,Portuguese China
 portuguese colonies,Portuguese Colonies
-portuguese east africa,Portuguese East Africa
-portuguese east africa (portugal),Portuguese East Africa
+portuguese east africa,Mozambique (Portuguese East Africa)
+portuguese east africa (portugal),Mozambique (Portuguese East Africa)
 portuguese east africa for reconsignment,Portuguese East Africa (other)
 portuguese east indies,Portuguese Asia
 portuguese guinea,Guinea-Bissau (Portuguese Guinea)
@@ -6839,29 +6839,29 @@ portuguese possessions in africa,Portuguese Africa
 "portuguese possessions in africa, madeira",Madeira Isles & Portuguese Africa
 portuguese possessions in asia,Portuguese Asia
 portuguese possessions in china,Portuguese China
-portuguese possessions in eastern africa (portugal),Portuguese East Africa
+portuguese possessions in eastern africa (portugal),Mozambique (Portuguese East Africa)
 portuguese possessions in india,"Portuguese India (incl. Goa, Diu, Daman)"
 portuguese possessions in india (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in indian seas (portugal),Portuguese Oceania
-portuguese possessions in the indian seas,Portuguese Oceania
-portuguese possessions in the indian seas (portugal),Portuguese Oceania
-portuguese possessions in the indian seas (portugal)†,Portuguese Oceania
-portuguese possessions in the indian seas† (portugal),Portuguese Oceania
-portuguese possessions in west africa,Portuguese West Africa
-portuguese possessions in western africa (portugal),Portuguese West Africa
+portuguese possessions in indian seas (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions in the indian seas,"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions in the indian seas (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions in the indian seas (portugal)†,"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions in the indian seas† (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions in west africa,Angola (Portuguese West Africa)
+portuguese possessions in western africa (portugal),Angola (Portuguese West Africa)
 portuguese possessions india (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions the indian seas (portugal)†,Portuguese Oceania
+portuguese possessions the indian seas (portugal)†,"Portuguese India (incl. Goa, Diu, Daman)"
 "portuguese possessions, india (portugal)","Portuguese India (incl. Goa, Diu, Daman)"
-"portuguese possessions, western africa (portugal)",Portuguese West Africa
-"portuguese possessions,eastern africa (portugal)",Portuguese East Africa
+"portuguese possessions, western africa (portugal)",Angola (Portuguese West Africa)
+"portuguese possessions,eastern africa (portugal)",Mozambique (Portuguese East Africa)
 portuguese south east africa,Portuguese South East Africa
 portuguese southern africa,Portuguese South Africa
 portuguese timor,East Timor (Portuguese Timor)
-portuguese west africa,Portuguese West Africa
+portuguese west africa,Angola (Portuguese West Africa)
 portuguese west africa (cape verd islands),Cape Verde
-portuguese west africa (continental territory),Portuguese West Africa
-portuguese west africa (portugal),Portuguese West Africa
-portuguese west africa and angola,Angola & Portuguese West Africa
+portuguese west africa (continental territory),Angola (Portuguese West Africa)
+portuguese west africa (portugal),Angola (Portuguese West Africa)
+portuguese west africa and angola,Angola (Portuguese West Africa)
 "portugueses possessions in africa, &c",Portuguese Africa
 poseciones holandesas,Dutch Colonies
 posesiones alemanas en africa,German Africa
@@ -6873,7 +6873,7 @@ posesiones danesas en euorpa,Danish Europe
 posesiones danesas en europa,Danish Europe
 posesiones españolas,Spanish Colonies
 posesiones francesas,French Colonies
-posesiones francesas de asia y oceanía,French Asia & French Oceania
+posesiones francesas de asia y oceanía,French Asia & French Polynesia
 posesiones francesas en africa,French Africa
 posesiones francesas en africa (senagambia),Senegal
 posesiones francesas en africa occidental,French West Africa
@@ -6881,8 +6881,8 @@ posesiones francesas en africa oriental,French East Africa
 posesiones francesas en america,French America
 posesiones francesas en américa,French America
 posesiones francesas en asia,French Asia
-posesiones francesas en asia y oceania,French Asia & French Oceania
-posesiones francesas en oceania,French Oceania
+posesiones francesas en asia y oceania,French Asia & French Polynesia
+posesiones francesas en oceania,French Polynesia
 posesiones holandesas,Dutch Colonies
 posesiones holandesas en america,Dutch America
 posesiones holandesas en américa,Dutch America
@@ -6904,10 +6904,10 @@ posesiones inglesas en oceania,British Oceania
 posesiones italianas en africa (eritrea y somalia),Eritrea & Italian Somaliland
 posesiones portuguesas (isla de la madera),Madeira Isles
 posesiones portuguesas en africa,Portuguese Africa
-posesiones portuguesas en africa occidental,Portuguese West Africa
+posesiones portuguesas en africa occidental,Angola (Portuguese West Africa)
 posesiones portuguesas en america,Portuguese America
 posesiones portuguesas en asia,Portuguese Asia
-posesiones portuguesas en asia y oceania,Portuguese Asia & Portuguese Oceania
+posesiones portuguesas en asia y oceania,"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)"
 posesiones portuguesas en europa,Portuguese Europe
 posiadlości brytańskie na malakka,Malaysia (British Malaya)
 posiadlości brytańskie na malakka i borneo pólnocne,British Borneo & Malaysia (British Malaya)
@@ -6998,7 +6998,7 @@ possessions françaises d'asie**,French Asia
 possessions françaises dans l'inde,French India
 possessions françaises en afrique,French Africa
 possessions françaises en afrique_ algérie,Algeria (Regency of Algiers)
-possessions françaises en océanie,French Oceania
+possessions françaises en océanie,French Polynesia
 possessions france,French Colonies
 possessions france west africa,French West Africa
 possessions hollandaises d'amérique,Netherlands Antilles
@@ -7013,9 +7013,9 @@ possessions pays-bas,Dutch Colonies
 possessions port. en asie,Portuguese Asia
 possessions portuagaises,Portuguese Colonies
 possessions portugaises,Portuguese Colonies
-possessions portugaises - angola,Angola
-possessions portugaises (côte maritime),Portuguese East Africa
-possessions portugaises (rive gauche du congo),Portuguese West Africa
+possessions portugaises - angola,Angola (Portuguese West Africa)
+possessions portugaises (côte maritime),Mozambique (Portuguese East Africa)
+possessions portugaises (rive gauche du congo),Angola (Portuguese West Africa)
 possessions portugaises d'afrique,Portuguese Africa
 possessions portugaises d'afrique et d'asie),"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)"
 possessions portugaises d'afrique**,Portuguese Africa
@@ -7894,7 +7894,7 @@ soudan français,Mali (French Sudan) (Upper Senegal and Niger)
 soulou ou soloo,Sulu Sultanate
 soumeanee and meckran,Makran & Sonmiani
 sous-le-vent (iles),Leeward Is.
-south africa,Southern Africa
+south africa,South Africa
 south africa - cape colony,Cape Colony (Cape of Good Hope)
 south africa - cape of good hope,Cape Colony (Cape of Good Hope)
 south africa - cape of good hope*,Cape Colony (Cape of Good Hope)
@@ -7934,11 +7934,11 @@ south australia and northern territory,Australian Northern Territory & South Aus
 south british africa,British South Africa
 south china,People's Republic of China (China) (South)
 south rhodesia,Zimbabwe (Rhodesia) (Southern Rhodesia)
-south sea,South Sea Islands
-south sea islands,South Sea Islands
-south seas,South Sea Islands
-south seas and pacific,South Sea Islands & Pacific Islands
-south seas and pacific ocean,South Sea Islands & Pacific Islands
+south sea,Pacific Islands
+south sea islands,Pacific Islands
+south seas,Pacific Islands
+south seas and pacific,Pacific Islands
+south seas and pacific ocean,Pacific Islands
 south shetland islands,South Shetland Is.
 south west africa,Namibia (South West Africa) (German South West Africa)
 south west africa protectorate,Namibia (South West Africa) (German South West Africa)
@@ -8007,7 +8007,7 @@ spanija,Spain
 spanijas kolon nez,Spanish Colonies (other)
 spanis america,Spanish America
 spanisch afrika,Spanish Africa
-spanisch-west-aquatorial afrika,Spanish Equatorial West Africa
+spanisch-west-aquatorial afrika,Equatorial Guinea (Spanish Guinea)
 spanish africa,Spanish Africa
 spanish america,Spanish America
 spanish america (cuba...),Spanish America
@@ -8050,7 +8050,7 @@ spanish west indies : porto rico (spain),Puerto Rico
 spanish west indies (cuba and porto rico),Cuba & Puerto Rico
 spanish west indies (cuba and porto rico) (spain),Cuba & Puerto Rico
 spanish west indies (spain),Spanish West Indies
-spanish western eq. africa,Spanish Equatorial West Africa
+spanish western eq. africa,Equatorial Guinea (Spanish Guinea)
 spanje,Spain
 spánn,Spain
 "spansk marokko, sp. guinea",Equatorial Guinea (Spanish Guinea) & Spanish Morocco
@@ -8726,7 +8726,7 @@ turkey in europe including bulgaria and candia,Bulgaria & Crete
 "turkey, european",European Turkey
 "turkey, greece, egypt",Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire)
 "turkey, levant, egypt, etc.",Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire)
-"turkey, levant, etc.",Turkey (Ottoman Empire) & Middle-East
+"turkey, levant, etc.",Lebanon & Syria & Turkey (Ottoman Empire)
 "turkey, persia, egypt, aden, morocco and algeria",Aden & Algeria (Regency of Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco
 "turkey, roumania and greece",Greece & Romania & Turkey (Ottoman Empire)
 turkey: asiatic,Asian Turkey
@@ -9202,7 +9202,7 @@ west africa : the colony and protectorate of southern nigeria‡,Southern Nigeri
 west africa : the gold coast,Ghana (Gold Coast)
 west africa (british),British West Africa
 west africa (not particularly designated),Western Africa
-west africa portugal,Portuguese West Africa
+west africa portugal,Angola (Portuguese West Africa)
 west africa settlement (gambia and sierra leone),Gambia & Sierra Leone
 west africa settlements,Gambia & Sierra Leone
 west africa settlements (gambia and sierra leone),Gambia & Sierra Leone
@@ -9347,7 +9347,7 @@ zwitserland,Switzerland
 posesiones alemanas,German Colonies
 posesiones espanolas,Spanish Colonies
 "posesiones espanolas, por ordenes",Spanish Colonies (other)
-posesiones norteamericanas,North American Colonies
+posesiones norteamericanas,British North America
 posesiones portuguesas,Portuguese Colonies
 "posesiones portuguesas, por ordenes",Portuguese Colonies (other)
 "uruguay, por ordenes",Uruguay (other)
@@ -9569,7 +9569,7 @@ canary island,Canary Is.
 united states (atlantic ports),United States of America (Atlantic Coast)
 fernando po & river muni,Fernando Po (Bioko) & Río Muni
 congo free states,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
-st. vincent (portuguese west africa),Portuguese West Africa
+st. vincent (portuguese west africa),Angola (Portuguese West Africa)
 dakar,Dakar
 konakry,Conakry
 other french possessions in africa,French Africa (other)
@@ -9676,7 +9676,7 @@ whemé,Unknown
 windward (british),Windward Coast of Africa (British)
 river gambia,Gambia
 indo,India
-portugal & portuguese east africa,Portugal & Portuguese East Africa
+portugal & portuguese east africa,Mozambique (Portuguese East Africa) & Portugal
 south africa & north-east rhodesia,South Africa & Northeastern Rhodesia
 germany & german east africa,German East Africa & Germany (Zollverein)
 british east africa & aden,Aden & British East Africa
