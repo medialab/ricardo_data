@@ -128,10 +128,8 @@ id,RICname_group,RICname_part
 127,Amirante Is. & Mauritius & Seychelles,Amirante Is.
 128,Amirante Is. & Mauritius & Seychelles,Mauritius
 129,Amirante Is. & Mauritius & Seychelles,Seychelles
-130,Angola & Kabinda (Portuguese Congo),Angola
-131,Angola & Kabinda (Portuguese Congo),Kabinda (Portuguese Congo)
-132,Angola & Portuguese West Africa,Angola
-133,Angola & Portuguese West Africa,Portuguese West Africa
+130,Angola (Portuguese West Africa) & Cabinda (Portuguese Congo),Angola (Portuguese West Africa)
+131,Angola (Portuguese West Africa) & Cabinda (Portuguese Congo),Cabinda (Portuguese Congo)
 134,Anguilla & St. Kitts-Nevis,Anguilla
 135,Anguilla & St. Kitts-Nevis,St. Kitts-Nevis
 136,Anjouan & Grand Comoro & Mayotte & Moheli,Anjouan
@@ -1515,10 +1513,10 @@ id,RICname_group,RICname_part
 1514,Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),Tunisia (Regency of Tunis)
 1515,Morocco & Tunisia (Regency of Tunis),Morocco
 1516,Morocco & Tunisia (Regency of Tunis),Tunisia (Regency of Tunis)
-1517,Mozambique & Zambia (Northern Rhodesia),Mozambique
-1518,Mozambique & Zambia (Northern Rhodesia),Zambia (Northern Rhodesia)
-1519,Mozambique & Zanzibar,Mozambique
-1520,Mozambique & Zanzibar,Zanzibar
+1517,Mozambique (Portuguese East Africa) & Zambia (Northern Rhodesia),Mozambique (Portuguese East Africa)
+1518,Mozambique (Portuguese East Africa) & Zambia (Northern Rhodesia),Zambia (Northern Rhodesia)
+1519,Mozambique (Portuguese East Africa) & Zanzibar,Mozambique (Portuguese East Africa)
+1520,Mozambique (Portuguese East Africa) & Zanzibar,Zanzibar
 1521,Mumbai (Bombay) & Sindh,Mumbai (Bombay)
 1522,Mumbai (Bombay) & Sindh,Sindh
 1523,Myanmar (Burma) & Straits Settlements,Myanmar (Burma)
@@ -1624,8 +1622,8 @@ id,RICname_group,RICname_part
 1623,Portuguese Africa & Portuguese Asia,Portuguese Asia
 1624,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",Portuguese Africa
 1625,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
-1626,Portuguese Asia & Portuguese Oceania,Portuguese Asia
-1627,Portuguese Asia & Portuguese Oceania,Portuguese Oceania
+1626,"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)",East Timor (Portuguese Timor)
+1627,"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
 1628,Prince Edward Is. & St. Thomas,Prince Edward Is.
 1629,Prince Edward Is. & St. Thomas,St. Thomas
 1630,Puerto Rico & Spanish West Indies (other),Puerto Rico
@@ -1700,3 +1698,9 @@ id,RICname_group,RICname_part
 1699,British Cameroons & Cameroun (French Cameroons),Cameroun (French Cameroons)
 1700,Cameroun (French Cameroons) & Togo (French Togoland),Cameroun (French Cameroons)
 1701,Cameroun (French Cameroons) & Togo (French Togoland),Togo (French Togoland)
+,Java & Sumatra & Sulawesi (Celebes),Java
+,Java & Sumatra & Sulawesi (Celebes),Sumatra
+,Java & Sumatra & Sulawesi (Celebes),Sulawesi (Celebes)
+,Lebanon & Syria & Turkey (Ottoman Empire),Lebanon
+,Lebanon & Syria & Turkey (Ottoman Empire),Syria
+,Lebanon & Syria & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
