@@ -136,11 +136,11 @@ id,RICname_group,RICname_part
 137,Anjouan & Grand Comoro & Mayotte & Moheli,Grand Comoro
 138,Anjouan & Grand Comoro & Mayotte & Moheli,Mayotte
 139,Anjouan & Grand Comoro & Mayotte & Moheli,Moheli
-140,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Annam
-141,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Cambodia (Kampuchea)
-142,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Cochin China
-143,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,French China Leased Territory
-144,Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,Tonkin
+140,Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,Annam
+141,Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,Cambodia (Kampuchea)
+142,Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,Cochin China
+143,Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,Kwanchowan
+144,Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,Tonkin
 145,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Annam
 146,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Cambodia (Kampuchea)
 147,Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,Cochin China
@@ -638,8 +638,8 @@ id,RICname_group,RICname_part
 639,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 640,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,French West Africa (other)
 641,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Senegal
-642,Congo (Brazzaville) (French Congo) (Middle Congo) & Guinea Coast,Congo (Brazzaville) (French Congo) (Middle Congo)
-643,Congo (Brazzaville) (French Congo) (Middle Congo) & Guinea Coast,Guinea Coast
+642,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea,Congo (Brazzaville) (French Congo) (Middle Congo)
+643,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea ,French Gulf of Guinea
 644,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 645,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Senegal
 646,Corfu & Malta,Corfu

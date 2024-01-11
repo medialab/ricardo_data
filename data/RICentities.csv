@@ -123,7 +123,7 @@ Anjouan,GPH_entity,Africa,5813,,
 Anjouan & Grand Comoro & Mayotte & Moheli,group,Africa,,,
 Annaba (Bône),city/part_of,Africa,,,Algeria (Regency of Algiers)
 Annam,GPH_entity,Asia,8152,,
-Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_FrenchChinaLeasedTerritory_Tonkin,
+Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_FrenchChinaLeasedTerritory_Tonkin,
 Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_Tonkin,
 Annam & Cochin China & Tonkin,group,Asia,,Annam_CochinChina_Tonkin,
 Annapolis,city/part_of,America,,,Nova Scotia
@@ -631,7 +631,7 @@ Conakry,city/part_of,Africa,,,Guinea (French Guinea) (Rivieres du Sud)
 Congo (Brazzaville) (French Congo) (Middle Congo),GPH_entity,Africa,484,CongoBrazzavilleFrenchCongoMiddleCongo,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,group,Africa,,,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
-Congo (Brazzaville) (French Congo) (Middle Congo) & Guinea Coast,group,Africa,,,
+Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea,colonial_area,Africa,,,
 Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,group,Africa,,,
 Continental Europe,geographical_area,Europe,,ContinentalEurope,
 Cook Is.,GPH_entity,Oceania,925,,
@@ -1200,7 +1200,7 @@ Italian Austria,colonial_area,Europe,,ItalianAustria,Italy
 Italian Colonies,colonial_area,World,,ItalianColonies,Italy
 Italian Colonies (other),colonial_area,World,,,
 Italian Colonies & Italy,group,World,,ItalianColonies_Italy,
-Italian East Africa,colonial_area,Africa,,ItalianEastAfrica,Italy
+Italian East Africa,GPH_entity,Africa,5201,ItalianEastAfrica,
 Italian Somaliland,GPH_entity,Africa,5200,ItalianSomaliland,
 Italy,GPH_entity,Europe,325,Italy,
 Italy (other),city/part_of,Europe,,Italyother,Italy
