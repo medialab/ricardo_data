@@ -88,7 +88,7 @@ Altona & Hamburg,group,Europe,,Altona_Hamburg,
 Altona & Holstein,city/part_of,Europe,,,Holstein
 Altona & Holstein & Schleswig,group,Europe,,,
 Altona & Wandsbeck,group,Europe,,Altona_Wandsbeck,
-Ambon Island,city/part_of,Asia,,AmbonIsland,Indonesia (Dutch East Indies)
+Ambon,GPH_entity,Asia,8549,AmbonIsland,
 America,geographical_area,America,,America,
 America (other),geographical_area,America,,Americaother,
 America (other) & Europe (other),geographical_area,World,,Americaother_Europeother,
@@ -259,7 +259,7 @@ Bailul,city/part_of,Africa,,,Eritrea
 Balaklava,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Balearic Islands,city/part_of,Europe,,BalearicIslands,Spain
 Balearic Islands & Spain,group,Europe,,BalearicIslands_Spain,
-Bali,GPH_entity,Asia,8541,Bali,
+Bali,GPH_entity,Asia,8501,Bali,
 Bali & Java & Riau,group,Asia,,Bali_Java_Riau,
 Bali & Lombok,group,Asia,,Bali_Lombok,
 Bali & Lombok & Sumbawa,group,Asia,,Bali_Lombok_Sumbawa,
@@ -271,8 +271,8 @@ Baltiysk (Pillau),city/part_of,Europe,,,Prussia
 Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),group,Europe,,BaltiyskPillau_BraniewoBraunsberg_KaliningradK�nigsberg_PrimorskFischhausen,
 Baluchistan (Kalat),GPH_entity,Asia,7588,,
 Banadir,city/part_of,Africa,,Banadir,Italian Somaliland
-Bangka Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Bangka Island & Belitung,group,Asia,,BangkaIsland_Belitung,
+Bangka,city/part_of,Asia,,,Belitung (Billiton)
+Bangka & Belitung (Billiton),group,Asia,,BangkaIsland_Belitung,
 Bangkok,city/part_of,Asia,,,Thailand (Siam)
 Barbados,GPH_entity,America,53,Barbados,
 Barbados (other),city/part_of,America,,,Barbados
@@ -308,7 +308,7 @@ Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,geographical_
 Belgium & Germany (Zollverein) & Netherlands,group,Europe,,Belgium_GermanyZollverein_Netherlands,
 Belgium & Luxemburg,group,Europe,,Belgium_Luxemburg,
 Belgium & Netherlands,group,Europe,,Belgium_Netherlands,
-Belitung,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Belitung (Billiton),GPH_entity,Asia,8530,,
 Belize (British Honduras),GPH_entity,America,80,BelizeBritishHonduras,
 Belize (British Honduras) & British West Indies,group,America,,,
 Belize (British Honduras) & British West Indies & Guyana (British Guiana),group,America,,,
@@ -338,8 +338,7 @@ Bhutan,GPH_entity,Asia,760,,
 Bhutan & Nepal,group,Asia,,,
 Bihar,city/part_of,Asia,,,India
 Bilbao,city/part_of,Europe,,Bilbao,Spain
-Billiton Is.,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Bintan Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Bintan,city/part_of,Asia,,,Riau
 Bismarck Archipelago (New Britain) (Neupommern),GPH_entity,Oceania,9830,,
 Bissau,city/part_of,Africa,,,Guinea-Bissau (Portuguese Guinea)
 Black Sea,geographical_area,World,,,
@@ -400,7 +399,7 @@ British Asia,colonial_area,Asia,,BritishAsia,United Kingdom
 British Asia (other),colonial_area,Asia,,BritishAsiaother,United Kingdom
 British Asia (other) & India,group,Asia,,BritishAsiaother_India,
 British Asia & British Oceania,group,World,,BritishAsia_BritishOceania,
-British Borneo,city/part_of,Asia,,,Malaysia (British Malaya)
+British Borneo,colonial_area,Asia,,,
 British Borneo & Dutch Borneo,group,Asia,,,
 British Borneo & Malaysia (British Malaya),group,Asia,,,
 British Borneo & Straits Settlements,group,Asia,,,
@@ -769,12 +768,12 @@ Dutch Asia,colonial_area,Asia,,DutchAsia,Netherlands
 Dutch Asia (other),colonial_area,Asia,,,Netherlands
 Dutch Asia (other) & Java,group,Asia,,,
 Dutch Asia & Dutch Oceania,group,World,,DutchAsia_DutchOceania,
-Dutch Borneo,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Dutch Borneo,colonial_area,Asia,,,
 Dutch Borneo & Java,colonial_area,Asia,,,Netherlands
 Dutch Borneo & Sarawak,colonial_area,Asia,,,
 Dutch Colonies,colonial_area,World,,DutchColonies,Netherlands
 Dutch Colonies (other),colonial_area,World,,DutchColoniesother,Netherlands
-Dutch Colonies (other) & Natuna Islands,group,Asia,,,
+Dutch Colonies (other) & Natuna,colonial_area,Asia,,,
 Dutch Colonies & Netherlands,group,World,,DutchColonies_Netherlands,
 Dutch East Africa,colonial_area,Africa,,,Netherlands
 Dutch East Asia,colonial_area,Asia,,,
@@ -1234,7 +1233,7 @@ Japanese Oceania,colonial_area,Oceania,,,
 Java,city/part_of,Asia,,Java,Indonesia (Dutch East Indies)
 Java (English flag),city/part_of,Asia,,JavaEnglishflag,Indonesia (Dutch East Indies)
 Java (foreign flag),city/part_of,Asia,,Javaforeignflag,Indonesia (Dutch East Indies)
-Java & Madura Island,group,Asia,,Java_MaduraIsland,
+Java & Madura,group,Asia,,Java_MaduraIsland,
 Java & Maluku Islands (Mollucas),group,Asia,,Java_MalukuIslandsMollucas,
 Java & Sumatra,group,Asia,,Java_Sumatra,
 Jebel Druze,GPH_entity,Asia,6527,,
@@ -1348,7 +1347,7 @@ Liverpool,city/part_of,Europe,,Liverpool,United Kingdom
 Livorno,city/part_of,Europe,,Livorno,Tuscany
 Loanda,city/part_of,Africa,,,Gabon
 Lombardy-Venetia,GPH_entity,Europe,3262,Lombardy-Venetia,
-Lombok,GPH_entity,Oceania,8542,Lombok,
+Lombok,GPH_entity,Oceania,8510,Lombok,
 Lomé,city/part_of,Africa,,,Togo (French Togoland)
 London,city/part_of,Europe,,London,United Kingdom
 Loos Is.,GPH_entity,Africa,4383,,
@@ -1381,7 +1380,7 @@ Madeira Isles,GPH_entity,Africa,401,MadeiraIsles,
 Madeira Isles & Portugal,group,World,,MadeiraIsles_Portugal,
 Madeira Isles & Portuguese Africa,group,Africa,,,
 Madeira Isles & Tenerife,group,Africa,,,
-Madura Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Madura,GPH_entity,Asia,8547,,
 Mafia I.,GPH_entity,Africa,5109,,
 Mahé,city/part_of,Asia,,,French India
 Majorca,city/part_of,Europe,,,Balearic Islands
@@ -1411,9 +1410,9 @@ Mali (French Sudan) (Upper Senegal and Niger) & Senegal,group,Africa,,,
 Malta,GPH_entity,Europe,338,Malta,
 Malta & Two Sicilies,group,Europe,,,
 Malta & United Kingdom,group,Europe,,Malta_UnitedKingdom,
-Maluku Islands (Mollucas),city/part_of,Asia,,MalukuIslandsMollucas,Indonesia (Dutch East Indies)
-Maluku Islands (Mollucas) & Sulawesi (Celebes),group,Asia,,MalukuIslandsMollucas_SulawesiCelebes,
-Maluku Islands (Mollucas) & Sunda Islands,group,Asia,,,
+Maluku (Mollucas),city/part_of,Asia,,MalukuIslandsMollucas,Indonesia (Dutch East Indies)
+Maluku (Mollucas) & Sulawesi (Celebes),city/part_of,Asia,,MalukuIslandsMollucas_SulawesiCelebes,Indonesia (Dutch East Indies)
+Maluku (Mollucas) & Sunda Islands,geographical_area,Asia,,,
 Manchukuo,GPH_entity,Asia,711,,
 Manchukuo & Mongolia & People's Republic of China (China) & Tibet,group,Asia,,,
 Manchuria,GPH_entity,Asia,7111,Manchuria,
@@ -1524,7 +1523,7 @@ Nantes,city/part_of,Europe,,Nantes,France
 Naples,city/part_of,Europe,,Naples,Two Sicilies
 Nassau (Bahamas),city/part_of,America,,Nassau,Bahamas
 Natal,GPH_entity,Africa,562,Natal,
-Natuna Islands,city/part_of,Asia,,NatunaIslands,Indonesia (Dutch East Indies)
+Natuna,city/part_of,Asia,,NatunaIslands,Riau
 Nauru,GPH_entity,Oceania,970,Nauru,
 Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),group,Oceania,,Nauru_NewZealand_SamoaWesternSamoaGermanSamoa,
 Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,Nauru_SamoaWesternSamoaGermanSamoa,
@@ -1636,7 +1635,7 @@ Pacific Islands (other),geographical_area,Pacific,,PacificIslandsother,
 Pacific Islands & Peru,geographical_area,World,,PacificIslands_Peru,
 Pacific Islands & Vanuatu (New Hebrides),geographical_area,Oceania,,PacificIslands_VanuatuNewHebrides,
 Pacific Ports,geographical_area,Pacific,,,
-Padang,city/part_of,Asia,,Padang,Indonesia (Dutch East Indies)
+Padang,GPH_entity,Asia,8535,Padang,
 Pago Pago,city/part_of,Oceania,,,American Samoa
 Pahang,GPH_entity,Asia,8203,Pahang,
 Pakistan,GPH_entity,Asia,770,,
@@ -1957,7 +1956,7 @@ St. Barthelemy,GPH_entity,America,1064,St.Barthelemy,
 St. Croix,city/part_of,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
 St. Croix & St. John & St. Thomas,group,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
 St. Croix & St. Thomas,group,America,,St.Croix_St.Thomas,
-St. David,city/part_of,Asia,,St.David,Indonesia (Dutch East Indies)
+St. David’s,city/part_of,Asia,,St.David,Indonesia (Dutch East Indies)
 St. Helena,GPH_entity,Atlantic,4050,St.Helena,
 St. John,city/part_of,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
 St. Kitts,GPH_entity,America,1075,St.Kitts,
@@ -1983,7 +1982,7 @@ Sulu Sultanate,GPH_entity,Asia,8401,SuluSultanate,
 Sumatra,city/part_of,Asia,,Sumatra,Indonesia (Dutch East Indies)
 Sumbawa,city/part_of,Asia,,,Indonesia (Dutch East Indies)
 Sund,city/part_of,Europe,,Sund,Denmark
-Sunda Islands,city/part_of,Asia,,SundaIslands,Indonesia (Dutch East Indies)
+Sunda Islands,geographical_area,Asia,,SundaIslands,
 Sungai Petani,city/part_of,Asia,,SungaiPetani,Malaysia (British Malaya)
 Surinam (Dutch Guiana),GPH_entity,America,115,Surinam (Dutch Guiana),
 Surprise Is.,city/part_of,Oceania,,,New Caledonia and Dependencies
@@ -2023,7 +2022,7 @@ Tanzania (Tanganyika),GPH_entity,Africa,512,,
 Tarsus,city/part_of,Asia,,Tarsus,Turkey (Ottoman Empire)
 Tasmania,GPH_entity,Oceania,906,Tasmania,
 Tenerife,city/part_of,Africa,,CanaryIs,Canary Is.
-Ternate,city/part_of,Asia,,Ternate,Indonesia (Dutch East Indies)
+Ternate,GPH_entity,Asia,8550,Ternate,
 Tetuan,GPH_entity,Africa,6030,Tetuan,
 Texas,GPH_entity,America,7,Texas,
 Thailand (Siam),GPH_entity,Asia,800,ThailandSiam,
@@ -2232,7 +2231,7 @@ Port Phillip,city/part_of,Oceania,,,Victoria
 Shantou,city/part_of,Asia,,,People's Republic of China (China)
 Santos,city/part_of,America,,,Brazil
 Adelaide,city/part_of,Oceania,,,South Australia
-Semarang,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Semarang,GPH_entity,Asia,8546,,Indonesia (Dutch East Indies)
 Melbourne,city/part_of,Oceania,,,Victoria
 Mthatha River,city/part_of,Africa,,,Cape Colony (Cape of Good Hope)
 Guernsey,city/part_of,Europe,,,Channel Is.
