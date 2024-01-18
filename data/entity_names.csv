@@ -1090,8 +1090,8 @@ baluchistan,Baluchistan (Kalat)
 baly-badong,Bali
 bandar khar,Khar
 bandaríkin,United States of America
-banka and billiton,Bangka Island & Belitung
-banka and billiton (dutch east indies),Bangka Island & Belitung
+banka and billiton,Bangka & Belitung (Billiton)
+banka and billiton (dutch east indies),Bangka & Belitung (Billiton)
 baranquilla,Barranquilla
 barbada,Barbados
 barbadas,Barbados
@@ -1232,7 +1232,7 @@ bes. tilh. de forente st.,American Colonies
 bhutan,Bhutan
 bhutan and nepal,Bhutan & Nepal
 bilbao,Bilbao
-billiton island,Billiton Is.
+billiton island,Belitung (Billiton)
 bird's island,Seychelles
 birma,Myanmar (Burma)
 birma (rangoon),Myanmar (Burma)
@@ -1886,8 +1886,8 @@ cekosllovaki,Czechoslovakia
 cekoslovakija,Czechoslovakia
 celebes,Sulawesi (Celebes)
 célèbes,Sulawesi (Celebes)
-celebes and moluccas,Maluku Islands (Mollucas) & Sulawesi (Celebes)
-celebes and moluccas (dutch east indies),Maluku Islands (Mollucas) & Sulawesi (Celebes)
+celebes and moluccas,Maluku (Mollucas) & Sulawesi (Celebes)
+celebes and moluccas (dutch east indies),Maluku (Mollucas) & Sulawesi (Celebes)
 celebes and other islands,Java & Sumatra & Sulawesi (Celebes)
 "célèbes, iles est",Sulawesi (Celebes)
 célèbres et autres îles orientales,Java & Sumatra & Sulawesi (Celebes)
@@ -2544,7 +2544,7 @@ den kleinen antillen,Lesser Antilles
 den la plata-staaten,Argentina (La Plata)
 den marschall- schiffer-inseln,Marshall Is. & Samoa
 den marschall-inseln,Marshall Is.
-den molukken inseln,Maluku Islands (Mollucas)
+den molukken inseln,Maluku (Mollucas)
 den niederlanden,Netherlands
 den philippen,Philippines
 den sandwich inseln,Hawaii (Sandwich Is.)
@@ -4200,8 +4200,8 @@ iles malte et chypre,Cyprus & Malta
 iles marianes,Mariana Is.
 iles maurice et réunion,Mauritius & Reunion (Bourbon I.)
 iles mers sud,Pacific Islands
-iles moluques,Maluku Islands (Mollucas)
-iles natunas,Natuna Islands
+iles moluques,Maluku (Mollucas)
+iles natunas,Natuna
 iles ocean,Kiribati
 iles orientales,Indonesia (Dutch East Indies) (other)
 iles pacifique,Pacific Islands
@@ -4332,9 +4332,9 @@ indes orientales étrangères,East Indies (other)
 indes orientales françaises,French India
 indes orientales hollandaises,Indonesia (Dutch East Indies)
 indes orientales hollandaises (batavia),Jakarta (Batavia)
-indes orientales hollandaises (java et madura),Java & Madura Island
+indes orientales hollandaises (java et madura),Java & Madura
 indes orientales néerlandaises,Indonesia (Dutch East Indies)
-indes orientales néerlandaises (java et madura),Java & Madura Island
+indes orientales néerlandaises (java et madura),Java & Madura
 indes orientales néerlandaises (java),Java
 indes orientales pays bas,Indonesia (Dutch East Indies)
 indes orientales portugaises,Portuguese Asia
@@ -4393,9 +4393,9 @@ india-britanica,India
 "india, netherlands",Dutch India
 indian isalands : borneo,Borneo
 indian isalands : celebes,Sulawesi (Celebes)
-indian isalands : st. david's,St. David
-indian islands : amboyna,Ambon Island
-indian islands : bintang,Bintan Island
+indian isalands : st. david's,St. David’s
+indian islands : amboyna,Ambon
+indian islands : bintang,Bintan
 indian islands : celebes,Sulawesi (Celebes)
 indian islands : japanese islands,Japan Islands
 indian islands : lomboc,Lombok
@@ -4740,17 +4740,17 @@ java and further netherland. o-i properties,Indonesia (Dutch East Indies) (other
 java and further netherlands. i-o properties,Indonesia (Dutch East Indies) (other) & Java
 java and further netherlands. o-i properties,Indonesia (Dutch East Indies) (other) & Java
 java and further netherlands. o-i property,Indonesia (Dutch East Indies) (other) & Java
-java and madura,Java & Madura Island
+java and madura,Java & Madura
 java and sumatra,Java & Sumatra
 java en verdere nederl. o-i bezittingen,Dutch Asia (other) & Java
 java et bornéo,Dutch Borneo & Java
 java et bornéo néerlandais,Dutch Borneo & Java
-java et madura,Java & Madura Island
-java et moluques,Java & Maluku Islands (Mollucas)
+java et madura,Java & Madura
+java et moluques,Java & Maluku (Mollucas)
 java et sumatra,Java & Sumatra
 java islands,Java
 "java, îles voisines",Indonesia (Dutch East Indies) (other) & Java
-"java, madura",Java & Madura Island
+"java, madura",Java & Madura
 "java, possessions hollandaises",Indonesia (Dutch East Indies) (other) & Java
 "java, rhio, bally, etc",Bali & Java & Riau
 "java, sumatra",Java & Sumatra
@@ -5476,8 +5476,8 @@ moldavie (galatz),Galați
 moldavie (port de galatz),Moldavia
 moldavie et valachie,Moldavia & Wallachia
 moldo-valachie,Moldavia & Wallachia
-molucca islands,Maluku Islands (Mollucas)
-moluques,Maluku Islands (Mollucas)
+molucca islands,Maluku (Mollucas)
+moluques,Maluku (Mollucas)
 mombaça,Mombassa
 mombasa,Mombassa
 mombassa,Mombassa
@@ -5600,9 +5600,9 @@ natal,Natal
 natal (south africa),Natal
 native territories in the indian seas,Independant Indian Ocean Islands
 native territories in the indian seas: borneo,Borneo
-natunas,Natuna Islands
-natunas islands,Natuna Islands
-natunas islands and other dutch possessions,Dutch Colonies (other) & Natuna Islands
+natunas,Natuna
+natunas islands,Natuna
+natunas islands and other dutch possessions,Dutch Colonies (other) & Natuna
 naujoji gvineja,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 naujoji zeme,Newfoundland and Labrador (Newfoundland)
 naujoli zelandija,New Zealand
@@ -8276,7 +8276,7 @@ summe,World
 sund,Sund
 sunda is.,Sunda Islands
 sundaöarna,Sunda Islands
-sundaöarna och moluckerna,Maluku Islands (Mollucas) & Sunda Islands
+sundaöarna och moluckerna,Maluku (Mollucas) & Sunda Islands
 suomija,Finland
 surinam,Surinam (Dutch Guiana)
 surinam (duch guayana),Surinam (Dutch Guiana)
