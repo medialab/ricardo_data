@@ -302,8 +302,8 @@ id,RICname_group,RICname_part
 303,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Braniewo (Braunsberg)
 304,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Kaliningrad (Königsberg)
 305,Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),Primorsk (Fischhausen)
-306,Bangka Island & Belitung,Bangka Island
-307,Bangka Island & Belitung,Belitung
+306,Bangka & Belitung (Billiton),Bangka
+307,Bangka & Belitung (Billiton),Belitung (Billiton)
 308,Barbados & Trinidad and Tobago,Barbados
 309,Barbados & Trinidad and Tobago,Trinidad and Tobago
 310,Barbary Coast (Algiers & Morocco & Tripoli & Tunis),Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
@@ -839,8 +839,8 @@ id,RICname_group,RICname_part
 840,Dutch Asia (other) & Java,Java
 841,Dutch Asia & Dutch Oceania,Dutch Asia
 842,Dutch Asia & Dutch Oceania,Dutch Oceania
-843,Dutch Colonies (other) & Natuna Islands,Dutch Colonies (other)
-844,Dutch Colonies (other) & Natuna Islands,Natuna Islands
+843,Dutch Colonies (other) & Natuna,Dutch Colonies (other)
+844,Dutch Colonies (other) & Natuna,Natuna
 845,Dutch Colonies & Netherlands,Dutch Colonies
 846,Dutch Colonies & Netherlands,Netherlands
 847,East Frisia & Oldenburg,East Frisia
@@ -1292,8 +1292,8 @@ id,RICname_group,RICname_part
 1293,Japan & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
 1294,Japan & Southern Sakhalin I.,Japan
 1295,Japan & Southern Sakhalin I.,Southern Sakhalin I.
-1296,Java & Madura Island,Java
-1297,Java & Madura Island,Madura Island
+1296,Java & Madura,Java
+1297,Java & Madura,Madura
 1298,Java & Maluku Islands (Mollucas),Java
 1299,Java & Maluku Islands (Mollucas),Maluku Islands (Mollucas)
 1300,Java & Sumatra,Java
@@ -1433,8 +1433,6 @@ id,RICname_group,RICname_part
 1434,Malta & Two Sicilies,Two Sicilies
 1435,Malta & United Kingdom,Malta
 1436,Malta & United Kingdom,United Kingdom
-1437,Maluku Islands (Mollucas) & Sulawesi (Celebes),Maluku Islands (Mollucas)
-1438,Maluku Islands (Mollucas) & Sulawesi (Celebes),Sulawesi (Celebes)
 1439,Maluku Islands (Mollucas) & Sunda Islands,Maluku Islands (Mollucas)
 1440,Maluku Islands (Mollucas) & Sunda Islands,Sunda Islands
 1441,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,Manchukuo
