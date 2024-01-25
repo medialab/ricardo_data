@@ -638,8 +638,6 @@ id,RICname_group,RICname_part
 639,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 640,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,French West Africa (other)
 641,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Senegal
-642,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea,Congo (Brazzaville) (French Congo) (Middle Congo)
-643,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea ,French Gulf of Guinea
 644,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 645,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Senegal
 646,Corfu & Malta,Corfu
@@ -1294,8 +1292,8 @@ id,RICname_group,RICname_part
 1295,Japan & Southern Sakhalin I.,Southern Sakhalin I.
 1296,Java & Madura,Java
 1297,Java & Madura,Madura
-1298,Java & Maluku Islands (Mollucas),Java
-1299,Java & Maluku Islands (Mollucas),Maluku Islands (Mollucas)
+1298,Java & Maluku (Mollucas),Java
+1299,Java & Maluku (Mollucas),Maluku (Mollucas)
 1300,Java & Sumatra,Java
 1301,Java & Sumatra,Sumatra
 1302,Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,Jebel Druze
@@ -1433,8 +1431,8 @@ id,RICname_group,RICname_part
 1434,Malta & Two Sicilies,Two Sicilies
 1435,Malta & United Kingdom,Malta
 1436,Malta & United Kingdom,United Kingdom
-1439,Maluku Islands (Mollucas) & Sunda Islands,Maluku Islands (Mollucas)
-1440,Maluku Islands (Mollucas) & Sunda Islands,Sunda Islands
+1439,Maluku (Mollucas) & Sunda Islands,Maluku (Mollucas)
+1440,Maluku (Mollucas) & Sunda Islands,Sunda Islands
 1441,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,Manchukuo
 1442,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,Mongolia
 1443,Manchukuo & Mongolia & People's Republic of China (China) & Tibet,People's Republic of China (China)
