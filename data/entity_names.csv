@@ -923,7 +923,7 @@ autres colonies espagnoles,Spanish Colonies (other)
 autres colonies françaises,French Colonies (other)
 autres colonies françaises (marchandises étrangères),French Colonies (other) (Foreign produce)
 autres colonies françaises (marchandises françaises),French colonies (other) (French produce)
-"autres colonies portugaises (cap vert, sao thome, inde portugaise, macao, timor)","Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe"
+"autres colonies portugaises (cap vert, sao thome, inde portugaise, macao, timor)",Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe
 autres contrées,Other countries
 autres contrées (principalement suède),Sweden
 autres contrées d'afrique,Africa (other)
@@ -4224,7 +4224,7 @@ inagna (bahamas),Inagua
 inagua (bahamas),Inagua
 inconnu,Unknown
 inconnus,Other countries
-ind. portugaises,"Portuguese India (incl. Goa, Diu, Daman)"
+ind. portugaises,Portuguese India
 inde,India
 inde (+ceylan),India & Sri Lanka (Ceylon)
 "inde (ceylan, calcutta)",Kolkata (Calcutta) & Sri Lanka (Ceylon)
@@ -4237,14 +4237,14 @@ inde brit. et birmanie,India & Myanmar (Burma)
 inde britanique,India
 inde britannique,India
 inde britannique (+ceylan),India & Sri Lanka (Ceylon)
-inde britannique (+inde fr. et port.),"French India & India & Portuguese India (incl. Goa, Diu, Daman)"
+inde britannique (+inde fr. et port.),French India & India & Portuguese India
 inde britannique (autre),India (other)
 inde et cap de bonne espérance,Cape Colony (Cape of Good Hope) & India
 inde française,French India
 inde holl.,Indonesia (Dutch East Indies)
 inde néerlandaise,Indonesia (Dutch East Indies)
 inde néerlandaises,Indonesia (Dutch East Indies)
-inde portugaise,"Portuguese India (incl. Goa, Diu, Daman)"
+inde portugaise,Portuguese India
 inde sous protectorat anglais,Sikkim
 inde-chine française,French Indochina
 "inde, chine et japon",India & Japan & People's Republic of China (China)
@@ -4340,8 +4340,8 @@ indes orientales pays bas,Indonesia (Dutch East Indies)
 indes orientales portugaises,Portuguese Asia
 "indes orientales, chine",East Indies & People's Republic of China (China)
 "indes orientales, chine et guinée",East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China)
-indes portug,"Portuguese India (incl. Goa, Diu, Daman)"
-indes portugaises,"Portuguese India (incl. Goa, Diu, Daman)"
+indes portug,Portuguese India
+indes portugaises,Portuguese India
 "indes-orientales, chine",East Indies & People's Republic of China (China)
 "indes, aden",Aden & India
 "indes, chine et japon",India & Japan & People's Republic of China (China)
@@ -4364,7 +4364,7 @@ india (british possession),India
 india (domínio británico),India
 india (includes pakistan),India
 india (non british),India (other)
-india (portuguese),"Portuguese India (incl. Goa, Diu, Daman)"
+india (portuguese),Portuguese India
 india & burma,India & Myanmar (Burma)
 india and aden,Aden & India
 india and burma,India & Myanmar (Burma)
@@ -4383,8 +4383,8 @@ india brittanica e ceylon,India & Sri Lanka (Ceylon)
 india francesa,French India
 india holandesa,Indonesia (Dutch East Indies)
 india inglesa,India
-india portuguesa,"Portuguese India (incl. Goa, Diu, Daman)"
-india portugueza,"Portuguese India (incl. Goa, Diu, Daman)"
+india portuguesa,Portuguese India
+india portugueza,Portuguese India
 india-britanica,India
 "india, aden, and ceylon",Aden & India & Sri Lanka (Ceylon)
 "india, british",India
@@ -4424,11 +4424,11 @@ indies dutch east (sumatra),Sumatra
 indija,India
 "indija, francijas",French India
 "indija, holandes",Indonesia (Dutch East Indies)
-"indija, portug","Portuguese India (incl. Goa, Diu, Daman)"
+"indija, portug",Portuguese India
 indje brytańskie,India
 indje francuskie,French India
 indje holenderskie,Indonesia (Dutch East Indies)
-indje portugalskie,"Portuguese India (incl. Goa, Diu, Daman)"
+indje portugalskie,Portuguese India
 indland,India
 indo-china,French Indochina
 "indo-china, french",French Indochina
@@ -6800,17 +6800,17 @@ portugalske drzavy v africe,Portuguese Africa
 portugalsko,Portugal
 portugeesch oost-afrika,Mozambique (Portuguese East Africa)
 portugeesch timor,East Timor (Portuguese Timor)
-portugeesch voor-indië,"Portuguese India (incl. Goa, Diu, Daman)"
+portugeesch voor-indië,East Timor (Portuguese Timor) & Macao
 portugeesch west-afrika,Angola (Portuguese West Africa)
 portugeesch-guinea,Guinea-Bissau (Portuguese Guinea)
 "portugeesch-guinea, enz.",Guinea-Bissau (Portuguese Guinea)
-portugese east indies,"Portuguese India (incl. Goa, Diu, Daman)"
+portugese east indies,East Timor (Portuguese Timor) & Macao
 portugiesisch asien,Portuguese Asia
-portugiesisch indien,"Portuguese India (incl. Goa, Diu, Daman)"
+portugiesisch indien,Portuguese India
 portugiesisch ostafrika,Mozambique (Portuguese East Africa)
 portugiesisch westafrika,Angola (Portuguese West Africa)
 portugisiska guinea,Guinea-Bissau (Portuguese Guinea)
-portugisiska indien,"Portuguese India (incl. Goa, Diu, Daman)"
+portugisiska indien,Portuguese India
 portugisiska ostafrika,Mozambique (Portuguese East Africa)
 portugisiska östafrika,Mozambique (Portuguese East Africa)
 portugisiska timor,East Timor (Portuguese Timor)
@@ -6827,11 +6827,11 @@ portuguese east africa (portugal),Mozambique (Portuguese East Africa)
 portuguese east africa for reconsignment,Portuguese East Africa (other)
 portuguese east indies,Portuguese Asia
 portuguese guinea,Guinea-Bissau (Portuguese Guinea)
-portuguese india,"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese indies,"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese india,Portuguese India
+portuguese indies,Portuguese India
 portuguese ports,Portugal
 portuguese posessions,Portuguese Colonies
-portuguese posessions in india,"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese posessions in india,Portuguese India
 portuguese possesions,Portuguese Colonies
 portuguese possession in africa,Portuguese Africa
 portuguese possessions,Portuguese Colonies
@@ -6840,18 +6840,18 @@ portuguese possessions in africa,Portuguese Africa
 portuguese possessions in asia,Portuguese Asia
 portuguese possessions in china,Portuguese China
 portuguese possessions in eastern africa (portugal),Mozambique (Portuguese East Africa)
-portuguese possessions in india,"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in india (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in indian seas (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in the indian seas,"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in the indian seas (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in the indian seas (portugal)†,"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions in the indian seas† (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions in india,Portuguese India
+portuguese possessions in india (portugal),Portuguese India
+portuguese possessions in indian seas (portugal),East Timor (Portuguese Timor) & Macao
+portuguese possessions in the indian seas,East Timor (Portuguese Timor) & Macao
+portuguese possessions in the indian seas (portugal),East Timor (Portuguese Timor) & Macao
+portuguese possessions in the indian seas (portugal)†,East Timor (Portuguese Timor) & Macao
+portuguese possessions in the indian seas† (portugal),East Timor (Portuguese Timor) & Macao
 portuguese possessions in west africa,Angola (Portuguese West Africa)
 portuguese possessions in western africa (portugal),Angola (Portuguese West Africa)
-portuguese possessions india (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
-portuguese possessions the indian seas (portugal)†,"Portuguese India (incl. Goa, Diu, Daman)"
-"portuguese possessions, india (portugal)","Portuguese India (incl. Goa, Diu, Daman)"
+portuguese possessions india (portugal),Portuguese India
+portuguese possessions the indian seas (portugal)†,East Timor (Portuguese Timor) & Macao
+"portuguese possessions, india (portugal)",Portuguese India
 "portuguese possessions, western africa (portugal)",Angola (Portuguese West Africa)
 "portuguese possessions,eastern africa (portugal)",Mozambique (Portuguese East Africa)
 portuguese south east africa,Portuguese South East Africa
@@ -6907,13 +6907,13 @@ posesiones portuguesas en africa,Portuguese Africa
 posesiones portuguesas en africa occidental,Angola (Portuguese West Africa)
 posesiones portuguesas en america,Portuguese America
 posesiones portuguesas en asia,Portuguese Asia
-posesiones portuguesas en asia y oceania,"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)"
+posesiones portuguesas en asia y oceania,East Timor (Portuguese Timor) & Macao & Portuguese India
 posesiones portuguesas en europa,Portuguese Europe
 posiadlości brytańskie na malakka,Malaysia (British Malaya)
 posiadlości brytańskie na malakka i borneo pólnocne,British Borneo & Malaysia (British Malaya)
 posiadlości brytańskie na morzu śródziemnem,British Mediterranean
 posiadlości francuskie w indiach,French India
-posiadlości portugalskie w indiach,"Portuguese India (incl. Goa, Diu, Daman)"
+posiadlości portugalskie w indiach,Portuguese India
 poss. ang. en arabie,British Arabia
 poss. angl. en afrique,British Africa
 poss. angl. s. l. médit.,British Mediterranean
@@ -7004,7 +7004,7 @@ possessions france west africa,French West Africa
 possessions hollandaises d'amérique,Netherlands Antilles
 possessions hollandaises d'amérique**,Netherlands Antilles
 possessions hollandaises en amérique,Netherlands Antilles
-possessions in india (goa) (portugal),"Portuguese India (incl. Goa, Diu, Daman)"
+possessions in india (goa) (portugal),Portuguese India
 possessions italie,Italian Colonies
 possessions italiennes en afrique,Italian Africa
 possessions néerlandaises,Dutch Colonies
@@ -7017,7 +7017,7 @@ possessions portugaises - angola,Angola (Portuguese West Africa)
 possessions portugaises (côte maritime),Mozambique (Portuguese East Africa)
 possessions portugaises (rive gauche du congo),Angola (Portuguese West Africa)
 possessions portugaises d'afrique,Portuguese Africa
-possessions portugaises d'afrique et d'asie),"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)"
+possessions portugaises d'afrique et d'asie),Portuguese Africa & Portuguese Asia
 possessions portugaises d'afrique**,Portuguese Africa
 possessions portugaises d'asie,Portuguese Asia
 possessions portugaises en afrique,Portuguese Africa

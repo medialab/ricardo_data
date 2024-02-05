@@ -583,7 +583,7 @@ Cape Palmas,city/part_of,Africa,,,Liberia
 Cape Town,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
 Cape Verde,GPH_entity,Africa,402,CapeVerde,
 Cape Verde (other),city/part_of,Africa,,,Cape Verde
-"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",group,World,,CapeVerde_EastTimorPortugueseTimor_Macao_PortugueseIndiainclGoaDiuDaman_SaoTomePrincipe,
+Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,group,World,,CapeVerde_EastTimorPortugueseTimor_Macao_PortugueseIndiainclGoaDiuDaman_SaoTomePrincipe,
 Cape Verde & Goree & Senegal & Windward Coast of Africa,geographical_area,Africa,,,
 Caroline Is.,GPH_entity,Oceania,9810,CarolineIs.,
 Carriacou,city/part_of,America,,,Grenada
@@ -859,7 +859,8 @@ East London,city/part_of,Africa,,,South Africa
 East Prussia,city/part_of,Europe,,,Prussia
 East Timor (Portuguese Timor),GPH_entity,Asia,860,EastTimorPortugueseTimor,
 East Timor (Portuguese Timor) & Macao,group,Asia,,EastTimorPortugueseTimor_Macao,
-"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)",group,World,,PortugueseAsia_PortugueseOceania,
+East Timor (Portuguese Timor) & Macao & Portuguese India,group,Asia,,,
+East Timor (Portuguese Timor) & Portuguese India,group,World,,PortugueseAsia_PortugueseOceania,
 Eastern Africa,geographical_area,Africa,,EastAfrica,
 Eastern Africa (other),geographical_area,Africa,,EastAfricaother,
 Eastern Asia,geographical_area,Asia,,,
@@ -1012,7 +1013,7 @@ French Gulf of Guinea,colonial_area,Africa,,FrenchGulfofGuinea,France
 French Gulf of Guinea & Senegal,colonial_area,Africa,,FrenchGulfofGuinea_Senegal,
 French India,GPH_entity,Asia,751,FrenchIndia,
 French India & French Indochina,group,Asia,,,
-"French India & India & Portuguese India (incl. Goa, Diu, Daman)",group,Asia,,FrenchIndia_India_PortugueseIndiainclGoaDiuDaman,
+French India & India & Portuguese India,group,Asia,,FrenchIndia_India_PortugueseIndiainclGoaDiuDaman,
 French Indochina,GPH_entity,Asia,810,FrenchIndochina,
 French Indochina (French produce),city/part_of,Asia,,,French Indochina
 French Indochina & Japan & People's Republic of China (China),group,Asia,,FrenchIndochina_Japan_PeoplesRepublicofChinaChina,
@@ -1102,7 +1103,7 @@ Gibraltar & Spain & Spanish Colonies,geographical_area,World,,Gibraltar_Spain_Sp
 Gibraltar & United Kingdom,group,Europe,,Gibraltar_UnitedKingdom,
 Gijón,city/part_of,Europe,,,Spain
 Gilbert and Ellice Is.,GPH_entity,Oceania,945,GilbertandElliceIs.,
-Goa,city/part_of,Asia,,,"Portuguese India (incl. Goa, Diu, Daman)"
+Goa,GPH_entity,Asia,7591,,
 Gold Coast-Togoland (Neutral Zone),GPH_entity,Africa,4559,,
 Gonaïves,city/part_of,America,,Gona�ves,Haiti
 Gopalpur,city/part_of,Asia,,,India
@@ -1850,7 +1851,7 @@ Portugal & Spain,group,Europe,,Portugal_Spain,
 Portuguese Africa,colonial_area,Africa,,PortugueseAfrica,Portugal
 Portuguese Africa (other),colonial_area,Africa,,PortugueseAfricaother,Portugal
 Portuguese Africa & Portuguese Asia,colonial_area,World,,PortugueseAfrica_PortugueseAsia,
-"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",colonial_area,World,,PortugueseAfrica_PortugueseIndiainclGoaDiuDaman,
+Portuguese Africa & Portuguese India,colonial_area,World,,PortugueseAfrica_PortugueseIndiainclGoaDiuDaman,
 Portuguese America,colonial_area,America,,PortugueseAmerica,Portugal
 Portuguese America (other),colonial_area,America,,,
 Portuguese Asia,colonial_area,Asia,,PortugueseAsia,Portugal
@@ -1862,7 +1863,7 @@ Portuguese East Africa,colonial_area,Africa,,PortugueseEastAfrica,Portugal
 Portuguese East Africa (other),colonial_area,Africa,,,
 Portuguese Equatorial West Africa,colonial_area,Africa,,,Portugal
 Portuguese Europe,colonial_area,Europe,,PortugueseEurope,Portugal
-"Portuguese India (incl. Goa, Diu, Daman)",GPH_entity,Asia,752,PortugueseIndiainclGoaDiuDaman,
+Portuguese India,GPH_entity,Asia,752,PortugueseIndiainclGoaDiuDaman,
 Portuguese Oceania,colonial_area,Oceania,,PortugueseOceania,Portugal
 Portuguese South Africa,colonial_area,Africa,,,Portugal
 Portuguese South East Africa,colonial_area,Africa,,,

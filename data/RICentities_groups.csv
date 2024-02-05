@@ -565,11 +565,11 @@ id,RICname_group,RICname_part
 566,Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,New South Wales
 567,Cape Colony (Cape of Good Hope) & Natal,Cape Colony (Cape of Good Hope)
 568,Cape Colony (Cape of Good Hope) & Natal,Natal
-569,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Cape Verde
-570,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",East Timor (Portuguese Timor)
-571,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Macao
-572,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe","Portuguese India (incl. Goa, Diu, Daman)"
-573,"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",Sao Tome-Principe
+569,Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,Cape Verde
+570,Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,East Timor (Portuguese Timor)
+571,Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,Macao
+572,Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,Portuguese India
+573,Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,Sao Tome-Principe
 574,Casablanca & El Jadida (Mazaghan),Casablanca
 575,Casablanca & El Jadida (Mazaghan),El Jadida (Mazaghan)
 576,Central African Republic (Ubangi Shari) & Chad,Central African Republic (Ubangi Shari)
@@ -858,6 +858,9 @@ id,RICname_group,RICname_part
 861,East Indies & Philippines & Thailand (Siam),Thailand (Siam)
 862,East Timor (Portuguese Timor) & Macao,East Timor (Portuguese Timor)
 863,East Timor (Portuguese Timor) & Macao,Macao
+,East Timor (Portuguese Timor) & Macao & Portuguese India,East Timor (Portuguese Timor)
+,East Timor (Portuguese Timor) & Macao & Portuguese India,Macao
+,East Timor (Portuguese Timor) & Macao & Portuguese India,Portuguese India
 864,Eastern Asia (other) & French India & Japan & People's Republic of China (China),Eastern Asia (other)
 865,Eastern Asia (other) & French India & Japan & People's Republic of China (China),French India
 866,Eastern Asia (other) & French India & Japan & People's Republic of China (China),Japan
@@ -984,9 +987,9 @@ id,RICname_group,RICname_part
 989,French Gulf of Guinea & Senegal,Senegal
 990,French India & French Indochina,French India
 991,French India & French Indochina,French Indochina
-992,"French India & India & Portuguese India (incl. Goa, Diu, Daman)",French India
-993,"French India & India & Portuguese India (incl. Goa, Diu, Daman)",India
-994,"French India & India & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
+992,French India & India & Portuguese India,French India
+993,French India & India & Portuguese India,India
+994,French India & India & Portuguese India,Portuguese India
 995,French Indochina & Japan & People's Republic of China (China),French Indochina
 996,French Indochina & Japan & People's Republic of China (China),Japan
 997,French Indochina & Japan & People's Republic of China (China),People's Republic of China (China)
@@ -1614,10 +1617,10 @@ id,RICname_group,RICname_part
 1621,Portugal & Spain,Spain
 1622,Portuguese Africa & Portuguese Asia,Portuguese Africa
 1623,Portuguese Africa & Portuguese Asia,Portuguese Asia
-1624,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",Portuguese Africa
-1625,"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
-1626,"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)",East Timor (Portuguese Timor)
-1627,"East Timor (Portuguese Timor) & Portuguese India (incl. Goa, Diu, Daman)","Portuguese India (incl. Goa, Diu, Daman)"
+1624,Portuguese Africa & Portuguese India,Portuguese Africa
+1625,Portuguese Africa & Portuguese India,Portuguese India
+1626,East Timor (Portuguese Timor) & Portuguese India,East Timor (Portuguese Timor)
+1627,East Timor (Portuguese Timor) & Portuguese India,Portuguese India
 1628,Prince Edward Is. & St. Thomas,Prince Edward Is.
 1629,Prince Edward Is. & St. Thomas,St. Thomas
 1630,Puerto Rico & Spanish West Indies (other),Puerto Rico
