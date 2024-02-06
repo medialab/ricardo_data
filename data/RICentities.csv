@@ -102,7 +102,7 @@ Altona & Holstein,city/part_of,Europe,,,Holstein
 Altona & Holstein & Schleswig,group,Europe,,,
 Altona & Wandsbeck,group,Europe,,Altona_Wandsbeck,
 Ambon,GPH_entity,Asia,8549,AmbonIsland,
-Ambriz,city/part_of,Africa,,,Angola (Portuguese West Africa)
+Ambriz,city/part_of,Africa,,,Angola
 America,geographical_area,America,,America,
 America (other),geographical_area,America,,Americaother,
 America (other) & Europe (other),geographical_area,World,,Americaother_Europeother,
@@ -130,8 +130,8 @@ Ancona,GPH_entity,Europe,3271,Ancona,
 Andaman Is.,GPH_entity,Asia,7501,AndamanIs,
 Andorra,GPH_entity,Europe,232,Andorra,
 Anecho (Little Popo),GPH_entity,Africa,4346,,
-Angola (Portuguese West Africa),GPH_entity,Africa,540,Angola,
-Angola (Portuguese West Africa) & Cabinda (Portuguese Congo),group,Africa,,,
+Angola,GPH_entity,Africa,540,Angola,
+Angola & Cabinda (Portuguese Congo),group,Africa,,,
 Angra Pequena,city/part_of,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
 Anguilla,GPH_entity,America,1062,,
 Anguilla & St. Kitts-Nevis,group,America,,,
@@ -346,7 +346,7 @@ Bengal & Myanmar (Burma),group,Asia,,Bengal_MyanmarBurma,
 Bengal & Sri Lanka (Ceylon),group,Asia,,Bengal_SriLankaCeylon,
 Benghazi,city/part_of,Africa,,Benghazi,Cyrenaica
 Benghazi & Tripolitania (Regency of Tripoli),group,Africa,,,
-Benguela,city/part_of,Africa,,,Angola (Portuguese West Africa)
+Benguela,city/part_of,Africa,,,Angola
 Benin (Dahomey),GPH_entity,Africa,434,BeninDahomey,
 Benin (Dahomey) & German Togoland & Ivory Coast,group,Africa,,,
 Berbera,city/part_of,Africa,,,Somalia
@@ -1450,7 +1450,7 @@ Loos Is.,GPH_entity,Africa,4383,,
 Lord Howe I.,GPH_entity,Oceania,9007,,
 Louisiana,GPH_entity,America,1013,,
 Loyalty Is.,city/part_of,Oceania,,,New Caledonia and Dependencies
-Luanda,city/part_of,Africa,,,Angola (Portuguese West Africa)
+Luanda,city/part_of,Africa,,,Angola
 Lübeck,GPH_entity,Europe,276,Lubeck,
 Lübeck & Mecklenburg Schwerin & Other countries,geographical_area,World,,Lubeck_MecklenburgSchwerin_Othercountries,
 Lucca,GPH_entity,Europe,336,Lucca,
@@ -1581,7 +1581,7 @@ Micronesia,geographical_area,Oceania,,,
 Middle-East,geographical_area,Asia,,,
 Milan,GPH_entity,Europe,3253,,
 Milan & Papal States & Tuscany,group,Europe,,Milan_PapalStates_Tuscany,
-Moçâmedes,city/part_of,Africa,,,Angola (Portuguese West Africa)
+Moçâmedes,city/part_of,Africa,,,Angola
 Mocha,city/part_of,Asia,,Mocha,Aden
 Modena,GPH_entity,Europe,332,,
 Modena & Monaco & Parma & Tuscany,group,Europe,,,
@@ -2186,7 +2186,7 @@ Thoothukudi (Tuticorin),city/part_of,Asia,,ThoothukudiTuticorin,India
 Thrace,geographical_area,Europe,,,
 Thursday I.,city/part_of,Oceania,,,Torres Strait Is.
 Tibet,GPH_entity,Asia,7910,,
-Tigres Bay,city/part_of,Africa,,,Angola (Portuguese West Africa)
+Tigres Bay,city/part_of,Africa,,,Angola
 Timbuktu,city/part_of,Africa,,,Mali (French Sudan) (Upper Senegal and Niger)
 Tobago,GPH_entity,America,1049,Tobago,
 Togo (French Togoland),GPH_entity,Africa,461,TogoFrenchTogoland,
