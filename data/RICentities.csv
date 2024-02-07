@@ -445,8 +445,8 @@ British Central America,colonial_area,America,,,United Kingdom
 British China,colonial_area,Asia,,BritishChina,United Kingdom
 British China Leased Territory,colonial_area,Asia,,,United Kingdom
 British Colonies,colonial_area,World,,BritishColonies,United Kingdom
-British Colonies (Foreign produce),colonial_area,World,,,
-British Colonies (French produce),colonial_area,World,,,
+British Colonies (Foreign produce),city/part_of,World,,,British Colonies
+British Colonies (French produce),city/part_of,World,,,British Colonies
 British Colonies (other),colonial_area,World,,BritishColoniesother,United Kingdom
 British Colonies & United Kingdom,colonial_area,World,,BritishColonies_UnitedKingdom,
 British Columbia,GPH_entity,America,1027,BritishColumbia,
@@ -959,7 +959,7 @@ France (Atlantic Coast),city/part_of,Europe,,,France
 France (Foreign produce),city/part_of,Europe,,,France
 France (Foreign produce) (other),city/part_of,Europe,,,France
 France (French produce),city/part_of,Europe,,FranceFrenchproduce,France
-France (French produce) & French Colonies (French produce),colonial_area,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,
+France (French produce) & French Colonies (French produce),city/part_of,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,France & French Colonies
 France (Mediterranean Coast),city/part_of,Europe,,,France
 France (other),city/part_of,Europe,,,France
 France (sea),city/part_of,Europe,,Francesea,France
@@ -991,8 +991,8 @@ French Central America,colonial_area,America,,,France
 French China,colonial_area,Asia,,FrenchChina,France
 French China Leased Territory,colonial_area,Asia,,,France
 French Colonies,colonial_area,World,,FrenchColonies,France
-French Colonies (Foreign produce),colonial_area,World,,,France
-French Colonies (French produce),colonial_area,World,,FrenchColoniesFrenchproduce,France
+French Colonies (Foreign produce),city/part_of,World,,,French Colonies
+French Colonies (French produce),city/part_of,World,,FrenchColoniesFrenchproduce,French Colonies
 French Colonies (other),colonial_area,World,,FrenchColoniesother,France
 French Colonies (other) (Foreign produce),city/part_of,World,,,French Colonies (other)
 French colonies (other) (French produce),city/part_of,World,,,French Colonies (other)
@@ -1003,7 +1003,7 @@ French Entrepôts,city/part_of,Europe,,,
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
 French Equatorial Africa & French West Africa,colonial_area,Africa,,,
 French Equatorial West Africa,colonial_area,Africa,,,France
-French Europe (Foreign produce),colonial_area,Europe,,,
+French Europe (Foreign produce),city/part_of,Europe,,,French Europe
 French Guiana,GPH_entity,America,120,FrenchGuyana,
 French Guiana & French West Indies,colonial_area,America,,,
 French Guiana & Guadeloupe & Martinique,group,America,,,
@@ -1742,8 +1742,8 @@ Oslo (Christiana),city/part_of,Europe,,OsloChristiana,Norway
 Ostend,city/part_of,Europe,,,Belgium
 Other countries,geographical_area,World,,Othercountries,
 Other countries (British),colonial_area,Africa,,,
-Other countries (Foreign produce),geographical_area,World,,,
-Other countries (French produce),geographical_area,World,,,
+Other countries (Foreign produce),city/part_of,World,,,Other countries
+Other countries (French produce),city/part_of,World,,,Other countries
 Other countries (non British),geographical_area,World,,OthercountriesnonBritish,
 Other countries & Parma & Piacenza,geographical_area,World,,Othercountries_Parma_Piacenza,
 Other countries & Prussia,geographical_area,World,,Othercountries_Prussia,
@@ -2229,7 +2229,7 @@ Union Island,city/part_of,America,,,St. Vincent and the Grenadines
 United Arab Emirates (Trucial Oman),GPH_entity,Asia,696,,
 United Kingdom,GPH_entity,Europe,200,UnitedKingdom,
 United Kingdom (Foreign produce),city/part_of,Europe,,,United Kingdom
-United Kingdom (Foreign produce) (other),city/part_of,Europe,,,United Kingdom
+United Kingdom (Foreign produce) (other),city/part_of,Europe,,,United Kingdom (other)
 United Kingdom (French produce),city/part_of,Europe,,,United Kingdom
 United Kingdom (other),city/part_of,Europe,,UnitedKingdomother,United Kingdom
 United States of America,GPH_entity,America,2,UnitedStatesofAmerica,
