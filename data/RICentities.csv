@@ -1831,7 +1831,7 @@ Pomerania,city/part_of,Europe,,Pomerania,Prussia
 Pomona I.,city/part_of,Africa,,,Mozambique (Portuguese East Africa)
 Pondicherry,city/part_of,Asia,,Pondicherry,French India
 Pondoland,city/part_of,Africa,,,Cape Colony (Cape of Good Hope)
-Pontianak,city/part_of,Asia,,Pontianak,Indonesia (Dutch East Indies)
+Pontianak,GPH_entity,Asia,8524,Pontianak,Indonesia (Dutch East Indies)
 Port Arthur,city/part_of,Oceania,,,Tasmania
 Port Elizabeth,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
 Port Medway,city/part_of,America,,,Nova Scotia
