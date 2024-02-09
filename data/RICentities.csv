@@ -1091,6 +1091,7 @@ Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,Ge
 Germany (Zollverein) & Rhine,group,Europe,,GermanyZollverein_Rhine,
 Germany (Zollverein) & Saar,group,Europe,,GermanyZollverein_Saar,
 Ghana (Gold Coast),GPH_entity,Africa,452,GhanaGoldCoast,
+Ghana (Gold Coast) (other),city/part_of,Africa,,,Ghana (Gold Coast)
 Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone),group,Africa,,,
 Gibraltar,GPH_entity,Europe,231,Gibraltar,
 Gibraltar & Ionian Is. & Malta & United Kingdom,group,Europe,,Gibraltar_IonianIs._Malta_UnitedKingdom,
@@ -1419,7 +1420,9 @@ Lebanon,GPH_entity,Asia,660,Lebanon,
 Lebanon & Syria,group,Asia,,Lebanon_Syria,
 Lebanon & Syria & Turkey (Ottoman Empire),group,Asia,,Turkey_Middle-East,
 Leeward Coast of Africa,geographical_area,Africa,,LeewardCoastofAfrica,
-Leeward Coast of Africa & Sierra Leone,group,Africa,,,
+Leeward Coast of Africa (British),geographical_area,Africa,,,
+Leeaward Coast of Africa (non British),geographical_area,Africa,,,
+Leeward Coast of Africa & Sierra Leone,geographical_area,Africa,,,
 Leeward Is.,GPH_entity,America,1063,LeewardIs.,
 Leros,city/part_of,Europe,,,Dodecanese Is. (Aegean Is.)
 Les Cayes,city/part_of,America,,LesCayes,Haiti
@@ -2292,8 +2295,6 @@ Weymouth,city/part_of,America,,,Nova Scotia
 Whydah,city/part_of,Africa,,,Benin (Dahomey)
 Wilhelmshaven,city/part_of,Europe,,,Oldenburg
 Windward Coast of Africa,geographical_area,Africa,,WindwardCoastofAfrica,
-Windward Coast of Africa (British),city/part_of,Africa,,,Windward Coast of Africa
-Windward Coast of Africa (non British),city/part_of,Africa,,,Windward Coast of Africa
 Windward Is.,GPH_entity,America,1055,WindwardIs.,
 Winneba,city/part_of,Africa,,,Ghana (Gold Coast)
 World,geographical_area,World,,World,

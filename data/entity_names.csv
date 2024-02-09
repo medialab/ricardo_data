@@ -666,7 +666,7 @@ arániai brit birtok,British Arabia
 archangel,Sitka (Arkhangelsk)
 archipel,Archipel
 archipel indien,Indian Archipelago
-archipel oriental,East Indies Archipelago
+archipel oriental,East Indies
 archipel soude,Sunda Islands
 arctic region,Arctic
 arctic regions,Arctic
@@ -4993,8 +4993,9 @@ lauenbourg,Lauenburg
 le cap,Cape Town
 le havre,Le Havre
 leedu,Lithuania
-leeward coast,Leeward Coast of Africa
+leeward coast (non british),Leeward Coast of Africa (non British)
 leeward coast of africa,Leeward Coast of Africa
+leeward coast (all),Leeward Coast of Africa
 leeward is.,Leeward Is.
 leeward islands,Leeward Is.
 leewardsoarna,Leeward Is.
@@ -9561,8 +9562,8 @@ austria (hungary),Austria-Hungary (Austrian Empire)
 goree,Goree
 rufisque (senegal),Rufisque
 dakar (senegal),Dakar
-windward coast & goree & senegal & cape verde,Cape Verde & Goree & Senegal & Windward Coast of Africa
-leeward coast and sierra leone,Leeward Coast of Africa & Sierra Leone
+windward coast (incl. goree & senegal & cape verde),Cape Verde & Goree & Senegal & Windward Coast of Africa
+british leeward coast (incl. sierra leone),Leeward Coast of Africa (British)
 sierra leone (other),Sierra Leone (other)
 goree and senegal,Goree & Senegal
 canary island,Canary Is.
@@ -9667,13 +9668,13 @@ tarboro,Tarboro
 jellah coffee,Unknown
 kafani,Unknown
 seerbro,Unknown
-gold coast winward (british),Windward Coast of Africa (British)
-gold coast winward (foreign),Windward Coast of Africa (non British)
+gold coast winward (british),Ghana (Gold Coast)
+gold coast winward (foreign),Ghana (Gold Coast) (other)
 canary,Canary Is.
 leeward coast lagos,Lagos
 winward,Windward Coast of Africa
 whemé,Unknown
-windward (british),Windward Coast of Africa (British)
+windward (british),Ghana (Gold Coast)
 river gambia,Gambia
 indo,India
 portugal & portuguese east africa,Mozambique (Portuguese East Africa) & Portugal
@@ -9743,4 +9744,3 @@ colony of the virgin islands,British Virgin Is.
 "st. thomas, ste. croix & st. john",St. Croix & St. John & St. Thomas
 st. thomas & st. croix,St. Croix & St. Thomas
 vieque,Vieques (Crab Island)
-vieque or crab island,Vieques (Crab Island)
