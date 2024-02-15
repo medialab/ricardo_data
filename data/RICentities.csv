@@ -39,10 +39,11 @@ Africa (other),geographical_area,Africa,,Africaother,
 Africa (other) & Arabia,geographical_area,World,,,
 Africa (other) & Asia (other),geographical_area,World,,,
 Africa (other) & Asia (other) & Japan,geographical_area,World,,,
+Africa (other) & Western Africa,geographical_area,Africa,,WestAfrica_Africaother,
 Africa & Australia & People's Republic of China (China),geographical_area,World,,,
 Africa & Cape Colony (Cape of Good Hope),geographical_area,Africa,,Africa_CapeColony,
 Africa Coast,geographical_area,Africa,,AfricaCoast,
-Africa Coast & Barbary Coast (Algiers & Morocco & Tripoli & Tunis),geographical_area,Africa,,,
+Africa Coast & Barbary Coast,geographical_area,Africa,,,
 African Islands,geographical_area,Africa,,,
 African Turkey,city/part_of,Africa,,AfricanTurkey,Turkey (Ottoman Empire)
 African Turkey & Asian Turkey & European Turkey,group,World,,AfricanTurkey_AsianTurkey_EuropeanTurkey,
@@ -142,9 +143,9 @@ Antsiranana (Diego-Suarez),city/part_of,Africa,,,Madagascar (Malagasy Republic)
 Antwerp,city/part_of,Europe,,Antwerp,Belgium
 Arabia,geographical_area,Asia,,Arabia,
 Arabia (Asia),geographical_area,Asia,,,
-Arabia (land),geographical_area,Asia,,Arabialand,
+Arabia (land),city/part_of,Asia,,Arabialand,Arabia
 Arabia (other),geographical_area,Asia,,Arabiaother,
-Arabia (sea),geographical_area,Asia,,,
+Arabia (sea),city/part_of,Asia,,,Arabia
 Arabia (sea) & Persian Gulf,geographical_area,Asia,,,
 Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,geographical_area,Asia,,,
 Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,geographical_area,Asia,,,
@@ -291,11 +292,11 @@ Bangkok,city/part_of,Asia,,,Thailand (Siam)
 Barbados,GPH_entity,America,53,Barbados,
 Barbados (other),city/part_of,America,,,Barbados
 Barbados & Trinidad and Tobago,group,America,,,
-Barbary Coast (Algiers & Morocco & Tripoli & Tunis),group,Africa,,,
-Barbary Coast (Algiers & Morocco & Tripoli & Tunis) (other),city/part_of,Africa,,,Barbary Coast (Algiers & Morocco & Tripoli & Tunis)
-Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Egypt Arab Republic (Egypt),group,Africa,,,
-Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),group,World,,,
-Barbary Coast (Algiers & Morocco & Tripoli & Tunis) & Turkey (Ottoman Empire),group,World,,,
+Barbary Coast,geographical_area,Africa,,,
+Barbary Coast (other),city/part_of,Africa,,,Barbary Coast
+Barbary Coast & Egypt Arab Republic (Egypt),geographical_area,Africa,,,
+Barbary Coast & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),geographical_area,World,,,
+Barbary Coast & Turkey (Ottoman Empire),geographical_area,World,,,
 Barbuda,GPH_entity,America,1058,,
 Barcelona,city/part_of,Europe,,Barcelona,Spain
 Barents I.,city/part_of,Europe,,,Svalbard Is.
@@ -362,8 +363,9 @@ Bintan,city/part_of,Asia,,,Riau
 Bismarck Archipelago (New Britain) (Neupommern),GPH_entity,Oceania,9830,,
 Bissau,city/part_of,Africa,,,Guinea-Bissau (Portuguese Guinea)
 Black Sea,geographical_area,World,,,
-Black Sea (Asia),geographical_area,Asia,,,
-Black Sea (Europe),geographical_area,Europe,,,
+Black Sea (Asia),city/part_of,Asia,,,Black Sea
+Black Sea (Asia) & Mediterranean Sea (Africa),geographical_area,World,,,
+Black Sea (Europe),city/part_of,Europe,,,Black Sea
 Black Sea (Europe) & Mediterranean Sea (Europe),geographical_area,Europe,,,
 Black Sea & Levant,geographical_area,World,,,
 Black Sea & Mediterranean Sea,geographical_area,World,,,
@@ -463,8 +465,8 @@ British Europe & United Kingdom,colonial_area,Europe,,BritishEurope_UnitedKingdo
 British Guinea (Bolama),GPH_entity,Africa,4044,,
 British Indochina,colonial_area,Asia,,,
 British Kaffraria,GPH_entity,Africa,5614,BritishKaffraria,
-British Mediterranean,geographical_area,World,,BritishMediterranean,United Kingdom
-British Mediterranean & United Kingdom,geographical_area,Europe,,BritishMediterranean_UnitedKingdom,
+British Mediterranean,colonial_area,World,,BritishMediterranean,United Kingdom
+British Mediterranean & United Kingdom,colonial_area,Europe,,BritishMediterranean_UnitedKingdom,
 British North Africa,colonial_area,Africa,,,
 British North America,colonial_area,America,,BritishNorthAmerica,United Kingdom
 British North America (other),colonial_area,America,,BritishNorthAmericaother,United Kingdom
@@ -483,7 +485,7 @@ British South America,colonial_area,America,,BritishSouthAmerica,United Kingdom
 British South America (other),colonial_area,America,,BritishSouthAmericaother,United Kingdom
 British South America & British West Indies & Guyana (British Guiana),colonial_area,America,,,United Kingdom
 British South America & French South America,colonial_area,America,,,
-British South Atlantic,geographical_area,Africa,,,United Kingdom
+British South Atlantic,colonial_area,Africa,,,United Kingdom
 British South West Africa,colonial_area,Africa,,,United Kingdom
 British Togoland,GPH_entity,Africa,462,,
 British Togoland & Togo (French Togoland),group,Africa,,,
@@ -556,6 +558,7 @@ Canary Is. & Madeira Isles,group,Africa,,CanaryIs_MadeiraIsles,
 Canary Is. & Spain,group,World,,CanaryIs_Spain,
 Canary Is. & Spanish Morocco,group,Africa,,CanaryIs_SpanishMorocco,
 Canary Is. & Tenerife,group,Africa,,CanaryIs_Tenerife,
+Canary Is. & Western Africa,geographical_area,Africa,,,
 Cap-Haïtien,city/part_of,America,,Cap-Ha�tien,Haiti
 Cap-Rouge,city/part_of,America,,Cap-Rouge,Quebec (Lower Canada)
 Cape Breton I.,GPH_entity,America,1021,,
@@ -563,12 +566,14 @@ Cape Breton I. & Nova Scotia,group,America,,CapeBretonI._NovaScotia,
 Cape Coast Castle,city/part_of,Africa,,,Ghana (Gold Coast)
 Cape Colony (Cape of Good Hope),GPH_entity,Africa,561,CapeColonyCapeofGoodHope,
 Cape Colony (Cape of Good Hope) & East Indies & Mauritius,group,World,,CapeColonyCapeofGoodHope_EastIndies_Mauritius,
+Cape Colony (Cape of Good Hope) & Eastern Africa,geographical_area,Africa,,,
 Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,group,Africa,,CapeColonyCapeofGoodHope_Gambia_GuineaFrenchGuineaRivieresduSud_Mauritius_Senegal,
 Cape Colony (Cape of Good Hope) & Guinea (French Guinea) (Rivieres du Sud),group,Africa,,,
 Cape Colony (Cape of Good Hope) & India,group,World,,CapeColonyCapeofGoodHope_India,
 Cape Colony (Cape of Good Hope) & Mauritius,group,Africa,,CapeColonyCapeofGoodHope_Mauritius,
 Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,group,World,,CapeColonyCapeofGoodHope_Mauritius_NewSouthWales,
 Cape Colony (Cape of Good Hope) & Natal,group,Africa,,CapeColonyCapeofGoodHope_Natal,
+Cape Colony (Cape of Good Hope) & Western Africa,geographical_area,Africa,,,
 Cape Lopez,city/part_of,Africa,,,Gabon
 Cape Palmas,city/part_of,Africa,,,Liberia
 Cape Town,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
@@ -854,7 +859,6 @@ East Timor (Portuguese Timor) & Macao & Portuguese India,group,Asia,,,
 East Timor (Portuguese Timor) & Portuguese India,group,World,,PortugueseAsia_PortugueseOceania,
 Eastern Africa,geographical_area,Africa,,EastAfrica,
 Eastern Africa (other),geographical_area,Africa,,EastAfricaother,
-Eastern Africa & Cape Colony (Cape of Good Hope),geographical_area,Africa,,,
 Eastern Africa & Madagascar (Malagasy Republic),geographical_area,Africa,,,
 Eastern Africa & Mauritius,geographical_area,Africa,,,
 Eastern Asia,geographical_area,Asia,,,
@@ -1556,9 +1560,8 @@ Mecca & Persian Gulf,geographical_area,Asia,,Mecca_PersianGulf,
 Mecklenburg Schwerin,GPH_entity,Europe,280,MecklenburgSchwerin,
 Mecklenburg Schwerin & Lübeck,group,Europe,,,
 Mecklenburg Schwerin & Oldenburg,group,Europe,,MecklenburgSchwerin_Oldenburg,
-Mediterranean Africa,geographical_area,Africa,,,
-Mediterranean Africa & Black Sea (Asia),geographical_area,World,,,
 Mediterranean Sea,geographical_area,World,,,
+Mediterranean Sea (Africa),geographical_area,Africa,,,
 Mediterranean Sea (Europe),geographical_area,Europe,,,
 Melanesia,geographical_area,Oceania,,,
 Melbourne,city/part_of,Oceania,,,Victoria
@@ -2047,6 +2050,7 @@ South Africa & Northeastern Rhodesia,group,Africa,,,
 South Africa & Zambia (Northern Rhodesia),group,Africa,,,
 South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,SouthAfrica_ZimbabweRhodesiaSouthernRhodesia,
 South African Customs Union (other),colonial_area,Africa,,,
+South Atlantic,geographical_area,Atlantic,,,
 South Australia,GPH_entity,Oceania,903,SouthAustralia,
 South Coast,city/part_of,Africa,,,Natal
 South East Africa,geographical_area,Africa,,SouthEastAfrica,
@@ -2280,9 +2284,6 @@ Western Africa,geographical_area,Africa,,,
 Western Africa,geographical_area,Africa,,WestAfrica,
 Western Africa (other),geographical_area,Africa,,,
 Western Africa (other),geographical_area,Africa,,WestAfricaother,
-Western Africa & Africa (other),geographical_area,Africa,,WestAfrica_Africaother,
-Western Africa & Canary Is.,geographical_area,Africa,,,
-Western Africa & Cape Colony (Cape of Good Hope),geographical_area,Africa,,,
 Western America,geographical_area,America,,WestAmerica,
 Western America (other),geographical_area,America,,,
 Western Anatolia,GPH_entity,Asia,6402,WesternAnatolia,
@@ -2335,4 +2336,3 @@ Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Afric
 Zanzibar,GPH_entity,Africa,511,Zanzibar,
 Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
-Zulu,GPH_entity,Africa,5601,,
