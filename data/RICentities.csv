@@ -370,7 +370,7 @@ Black Sea (Europe) & Mediterranean Sea (Europe),geographical_area,Europe,,,
 Black Sea & Levant,geographical_area,World,,,
 Black Sea & Mediterranean Sea,geographical_area,World,,,
 Black Sea & Russia (USSR),geographical_area,Europe,,BlackSea_RussiaUSSR,
-Black Sea Free Ports,geographical_area,,,,
+Black Sea Free Ports,city/part_of,,,,Turkey (Ottoman Empire)
 Bogotá,city/part_of,America,,,Colombia (New Granada) (Gran Colombia)
 Bohemia,GPH_entity,Europe,3150,,
 Bokhara,GPH_entity,Asia,7020,Bokhara,
@@ -477,10 +477,10 @@ British Oceania,colonial_area,Oceania,,BritishOceania,United Kingdom
 British Oceania (other),colonial_area,Oceania,,BritishOceaniaother,United Kingdom
 British Oceania & New Zealand,colonial_area,Oceania,,,
 British Settlement in Oceania,colonial_area,Oceania,,,United Kingdom
-British South Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
-British South Africa (other),colonial_area,Africa,,,
-British South Africa & Cape Colony (Cape of Good Hope),colonial_area,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,
-British South Africa & Eastern Africa & Western Africa,geographical_area,Africa,,,
+British Southern Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
+British Southern Africa (other),colonial_area,Africa,,,
+British Southern Africa (other) & Cape Colony (Cape of Good Hope),colonial_area,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,
+British Southern Africa & Eastern Africa & Western Africa,geographical_area,Africa,,,
 British South America,colonial_area,America,,BritishSouthAmerica,United Kingdom
 British South America (other),colonial_area,America,,BritishSouthAmericaother,United Kingdom
 British South America & British West Indies & Guyana (British Guiana),colonial_area,America,,,United Kingdom
