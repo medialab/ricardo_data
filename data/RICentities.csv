@@ -1692,10 +1692,9 @@ North Germany,city/part_of,Europe,,NorthGermany,Germany (Zollverein)
 North Germany & Prussia,group,Europe,,NorthGermany_Prussia,
 North Macedonia (Former Yugoslav Republic of Macedonia) (Macedonia),GPH_entity,Asia,343,NorthMacedoniaFormerYugoslavRepublicofMacedoniaMacedonia,
 North Sea,geographical_area,Europe,,NorthSea,
-North-West Africa,geographical_area,Africa,,North-WestAfrica,
-North-West America (other),geographical_area,Africa,,North-WestAmericaother,
-North-West Coast,geographical_area,,,North-WestCoast,
-North-Western America,geographical_area,America,,,
+North West Africa,geographical_area,Africa,,North-WestAfrica,
+United States of America (North West Coast) (other),city/part_of,America,,North-WestAmericaother,United States of America
+United States of America (North West Coast),city/part_of,America,,,United States of America
 North-Western Territory,GPH_entity,America,10200,,
 Northeastern Rhodesia,GPH_entity,Africa,5518,,
 Northern Africa,geographical_area,Africa,,,
@@ -1953,7 +1952,7 @@ Russian America,colonial_area,America,,RussiaUSSR,Russia (USSR)
 Russian China,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian Colonies,colonial_area,World,,RussiaUSSR,Russia (USSR)
 Russian North America,colonial_area,America,,RussiaUSSR,Russia (USSR)
-Russian North-East Asia,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
+Russian North East Asia,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian Poland,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russian provinces,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russian Turkestan,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
@@ -2051,7 +2050,7 @@ South African Customs Union (other),colonial_area,Africa,,,
 South Atlantic,geographical_area,Atlantic,,,
 South Australia,GPH_entity,Oceania,903,SouthAustralia,
 South Coast,city/part_of,Africa,,,Natal
-South East Africa,geographical_area,Africa,,SouthEastAfrica,
+South Eastern Africa,geographical_area,Africa,,SouthEastAfrica,
 South Shetland Is.,GPH_entity,Oceania,9983,,
 South West Africa,geographical_area,Africa,,,
 South West Asia,geographical_area,Asia,,,
@@ -2334,5 +2333,3 @@ Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Afric
 Zanzibar,GPH_entity,Africa,511,Zanzibar,
 Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
-,,,,,
-,,,,,
