@@ -1692,7 +1692,7 @@ North Germany,city/part_of,Europe,,NorthGermany,Germany (Zollverein)
 North Germany & Prussia,group,Europe,,NorthGermany_Prussia,
 North Macedonia (Former Yugoslav Republic of Macedonia) (Macedonia),GPH_entity,Asia,343,NorthMacedoniaFormerYugoslavRepublicofMacedoniaMacedonia,
 North Sea,geographical_area,Europe,,NorthSea,
-North West Africa,geographical_area,Africa,,North-WestAfrica,
+North Western Africa,geographical_area,Africa,,North-WestAfrica,
 United States of America (North West Coast) (other),city/part_of,America,,North-WestAmericaother,United States of America
 United States of America (North West Coast),city/part_of,America,,,United States of America
 North-Western Territory,GPH_entity,America,10200,,
@@ -1797,7 +1797,7 @@ People's Republic of China (China) (Middle),city/part_of,Asia,,,People's Republi
 People's Republic of China (China) (North),city/part_of,Asia,,,People's Republic of China (China)
 People's Republic of China (China) (other),city/part_of,Asia,,,People's Republic of China (China)
 People's Republic of China (China) (South),city/part_of,Asia,,,People's Republic of China (China)
-People's Republic of China (China) & East Indies & Pacific Ports,geographical_area,Asia,,,
+People's Republic of China (China) & East Indies & Pacific Islands,geographical_area,Asia,,,
 People's Republic of China (China) & Philippines,group,Asia,,PeoplesRepublicofChinaChina_Philippines,
 People's Republic of China (China) & Philippines & Thailand (Siam),group,Asia,,PeoplesRepublicofChinaChina_Philippines_ThailandSiam,
 Perak,GPH_entity,Asia,8201,Perak,
@@ -2052,9 +2052,9 @@ South Australia,GPH_entity,Oceania,903,SouthAustralia,
 South Coast,city/part_of,Africa,,,Natal
 South Eastern Africa,geographical_area,Africa,,SouthEastAfrica,
 South Shetland Is.,GPH_entity,Oceania,9983,,
-South West Africa,geographical_area,Africa,,,
-South West Asia,geographical_area,Asia,,,
-South West Asia (other),geographical_area,Asia,,,
+South Western Africa,geographical_area,Africa,,,
+South Western Asia,geographical_area,Asia,,,
+South Western Asia (other),geographical_area,Asia,,,
 Southern Africa,geographical_area,Africa,,SouthernAfrica,
 Southern Africa (other),geographical_area,Africa,,,
 Southern America,geographical_area,America,,SouthernAmerica,
@@ -2272,7 +2272,6 @@ Weihaiwei,GPH_entity,Asia,7105,Weihaiwei,
 West Indies,geographical_area,America,,,
 West Indies (continental),geographical_area,America,,,
 West Indies (East),geographical_area,America,,,
-West Indies (insular),geographical_area,America,,,
 West Indies (other),geographical_area,America,,,
 West Indies (West),geographical_area,America,,,
 West Irian (Dutch New Guinea),GPH_entity,Oceania,851,WestIrianDutchNewGuinea,
