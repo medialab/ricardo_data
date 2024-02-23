@@ -16,7 +16,7 @@ Aden & Asian Turkey & Egypt Arab Republic (Egypt),group,World,,Aden_AsianTurkey_
 Aden & Bahrain,group,Asia,,,
 Aden & Bahrain & Iran (Persia),group,Asia,,,
 Aden & British Colonies (other),colonial_area,World,,,
-Aden & British East Africa,colonial_area,World,,Aden_BritishEastAfrica,
+Aden & British Eastern Africa,colonial_area,World,,Aden_BritishEastAfrica,
 Aden & India,group,Asia,,Aden_India,
 Aden & India & Sri Lanka (Ceylon),group,Asia,,,
 Aden & Kenya (British East Africa Protectorate),group,Africa,,,
@@ -443,22 +443,22 @@ British Colonies (French produce),city/part_of,World,,,British Colonies
 British Colonies (other),colonial_area,World,,BritishColoniesother,United Kingdom
 British Colonies & United Kingdom,colonial_area,World,,BritishColonies_UnitedKingdom,
 British Columbia,GPH_entity,America,1027,BritishColumbia,
-British Columbia & British East North America,group,America,,BritishColumbia_BritishEastNorthAmerica,
+British Columbia & British North Eastern America,colonial_area,America,,BritishColumbia_BritishEastNorthAmerica,
 British Columbia & Rupert's Land,group,America,,BritishColumbia_Rupert'sLand,
 British Columbia & Vancouver,group,America,,BritishColumbia_Vancouver,
-British East Africa,colonial_area,Africa,,BritishEastAfrica,United Kingdom
-British East Africa (other),colonial_area,Africa,,BritishEastAfricaOther,United Kingdom
-British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),colonial_area,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_EgyptArabRepublicEgypt_MadagascarMalagasyRepublic,
-British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),colonial_area,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_MadagascarMalagasyRepublic,
-British East Africa & Pemba Island & Zanzibar,colonial_area,Africa,,,
+British Eastern Africa,colonial_area,Africa,,BritishEastAfrica,United Kingdom
+British Eastern Africa (other),colonial_area,Africa,,BritishEastAfricaOther,United Kingdom
+British Eastern Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),colonial_area,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_EgyptArabRepublicEgypt_MadagascarMalagasyRepublic,
+British Eastern Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),colonial_area,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_MadagascarMalagasyRepublic,
+British Eastern Africa & Pemba Island & Zanzibar,colonial_area,Africa,,,
 British East Asia,colonial_area,Asia,,,
 British East Asia (other),colonial_area,Asia,,,
 British East Indies,colonial_area,Asia,,BritishEastIndies,United Kingdom
 British East Indies (other),colonial_area,Asia,,BritishEastIndiesother,United Kingdom
 British East Indies & Thailand (Siam),geographical_area,Asia,,,
-British East North America,colonial_area,America,,,United Kingdom
-British Equatorial East Africa,colonial_area,Africa,,,United Kingdom
-British Equatorial West Africa,colonial_area,Africa,,,United Kingdom
+British North Eastern America,colonial_area,America,,,United Kingdom
+British Equatorial Eastern Africa,colonial_area,Africa,,,United Kingdom
+British Equatorial Western Africa,colonial_area,Africa,,,United Kingdom
 British Europe,colonial_area,Europe,,BritishEurope,United Kingdom
 British Europe (other),colonial_area,Europe,,,United Kingdom
 British Europe & United Kingdom,colonial_area,Europe,,BritishEurope_UnitedKingdom,
@@ -467,12 +467,12 @@ British Indochina,colonial_area,Asia,,,
 British Kaffraria,GPH_entity,Africa,5614,BritishKaffraria,
 British Mediterranean,colonial_area,World,,BritishMediterranean,United Kingdom
 British Mediterranean & United Kingdom,colonial_area,Europe,,BritishMediterranean_UnitedKingdom,
-British North Africa,colonial_area,Africa,,,
+British Northern Africa,colonial_area,Africa,,,
 British North America,colonial_area,America,,BritishNorthAmerica,United Kingdom
 British North America (other),colonial_area,America,,BritishNorthAmericaother,United Kingdom
 British North America (other) & Canada (Province of Canada),colonial_area,America,,,United Kingdom
 British North America & United States of America,colonial_area,America,,BritishNorthAmerica_UnitedStatesofAmerica,
-British North and Central America,colonial_area,America,,,United Kingdom
+British North Central America,colonial_area,America,,,United Kingdom
 British Oceania,colonial_area,Oceania,,BritishOceania,United Kingdom
 British Oceania (other),colonial_area,Oceania,,BritishOceaniaother,United Kingdom
 British Oceania & New Zealand,colonial_area,Oceania,,,
@@ -484,18 +484,18 @@ British Southern Africa & Eastern Africa & Western Africa,geographical_area,Afri
 British South America,colonial_area,America,,BritishSouthAmerica,United Kingdom
 British South America (other),colonial_area,America,,BritishSouthAmericaother,United Kingdom
 British South America & British West Indies & Guyana (British Guiana),colonial_area,America,,,United Kingdom
-British South America & French South America,colonial_area,America,,,
+British Southern America & French Southern America,colonial_area,America,,,
 British South Atlantic,colonial_area,Africa,,,United Kingdom
-British South West Africa,colonial_area,Africa,,,United Kingdom
+British South Western Africa,colonial_area,Africa,,,United Kingdom
 British Togoland,GPH_entity,Africa,462,,
 British Togoland & Togo (French Togoland),group,Africa,,,
 British Virgin Is.,GPH_entity,America,1061,,
 British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),group,America,,BritishVirginIs_PuertoRico_VirginIslandsDanishWestIndies,
-British West Africa,colonial_area,Africa,,BritishWestAfrica,United Kingdom
-British West Africa (other),colonial_area,Africa,,,United Kingdom
-British West Africa & Canada (Province of Canada),colonial_area,World,,,
-British West Africa & French West Africa (other) & Liberia & Spanish Africa,colonial_area,Africa,,,
-British West Africa & South Africa,colonial_area,Africa,,,
+British Western Africa,colonial_area,Africa,,BritishWestAfrica,United Kingdom
+British Western Africa (other),colonial_area,Africa,,,United Kingdom
+British Western Africa & Canada (Province of Canada),colonial_area,World,,,
+British Western Africa & French Western Africa (other) & Liberia & Spanish Africa,colonial_area,Africa,,,
+British Western Africa & South Africa,colonial_area,Africa,,,
 British West Asia,colonial_area,Asia,,,
 British West Indies,colonial_area,America,,,United Kingdom
 British West Indies (other),colonial_area,America,,,United Kingdom
@@ -825,8 +825,7 @@ Dutch Colonies,colonial_area,World,,DutchColonies,Netherlands
 Dutch Colonies (other),colonial_area,World,,DutchColoniesother,Netherlands
 Dutch Colonies (other) & Natuna,colonial_area,Asia,,,
 Dutch Colonies & Netherlands,colonial_area,World,,DutchColonies_Netherlands,
-Dutch East Africa,colonial_area,Africa,,,Netherlands
-Dutch East Asia,colonial_area,Asia,,,
+Dutch Eastern Africa,colonial_area,Africa,,,Netherlands
 Dutch Free Ports,city/part_of,Europe,,,Netherlands
 Dutch government,city/part_of,Europe,,Dutchgovernment,
 Dutch India,colonial_area,Asia,,,
@@ -835,7 +834,7 @@ Dutch Islands,colonial_area,World,,,Netherlands
 Dutch Oceania,colonial_area,Oceania,,DutchOceania,Netherlands
 Dutch Oceania (other),colonial_area,Oceania,,DutchOceaniaother,Netherlands
 Dutch Posts (Gold Coast),GPH_entity,Africa,4535,DutchPostsGoldCoast,
-Dutch South West Africa,colonial_area,Africa,,,Netherlands
+Dutch South Western Africa,colonial_area,Africa,,,Netherlands
 Dutch Windward Is.,GPH_entity,America,1074,,
 East Asian Russia,city/part_of,Asia,,,Russia (USSR)
 East Frisia,city/part_of,Europe,,EastFrisia,Prussia
@@ -1000,7 +999,7 @@ French East Indies,colonial_area,Asia,,,
 French Entrepôts,city/part_of,Europe,,,
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
 French Equatorial Africa & French West Africa,colonial_area,Africa,,,
-French Equatorial West Africa,colonial_area,Africa,,,France
+French Equatorial Western Africa,colonial_area,Africa,,,France
 French Europe (Foreign produce),city/part_of,Europe,,,French Europe
 French Guiana,GPH_entity,America,120,FrenchGuyana,
 French Guiana & French West Indies,colonial_area,America,,,
@@ -1019,14 +1018,14 @@ French Indochina & People's Republic of China (China),group,Asia,,FrenchIndochin
 French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),group,Asia,,,
 French Indochina & Thailand (Siam),group,Asia,,,
 French Mediterranean,colonial_area,Europe,,FrenchMediterranean,France
-French North Africa,colonial_area,Africa,,,
-French North America,colonial_area,America,,FrenchNorthAmerica,France
+French Northern Africa,colonial_area,Africa,,,
+French Northern America,colonial_area,America,,FrenchNorthAmerica,France
 French Oceania,colonial_area,Oceania,,FrenchOceania,France
 French Oceania (other),colonial_area,Oceania,,,France
 French Oceania (other) & New Caledonia,colonial_area,Oceania,,,
 French Polynesia,GPH_entity,Oceania,960,,
-French South Africa,colonial_area,Africa,,,France
-French South America,colonial_area,America,,,
+French Southern Africa,colonial_area,Africa,,,France
+French Southern America,colonial_area,America,,,
 French West Africa,GPH_entity,Africa,430,FrenchWestAfrica,
 French West Africa (Foreign produce),city/part_of,Africa,,,French West Africa
 French West Africa (French produce),city/part_of,Africa,,,French West Africa
@@ -1076,7 +1075,7 @@ German Togoland,GPH_entity,Africa,460,,
 German Togoland (French produce),city/part_of,Africa,,,German Togoland
 German Togoland & Kamerun,group,Africa,,GermanTogoland_Kamerun,
 German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),group,Africa,,GermanTogoland_Kamerun_NamibiaSouthWestAfricaGermanSouthWestAfrica,
-German West Africa,colonial_area,Africa,,GermanWestAfrica,Germany (Zollverein)
+German Western Africa,colonial_area,Africa,,GermanWestAfrica,Germany (Zollverein)
 German West Indies,colonial_area,America,,,Germany (Zollverein)
 Germany (Zollverein),GPH_entity,Europe,255,GermanyZollverein,
 Germany (Zollverein) (Baltic Sea),city/part_of,Europe,,,Germany (Zollverein)
@@ -1214,8 +1213,6 @@ Illyria,city/part_of,Europe,,,Austria-Hungary (Austrian Empire)
 Imperia (Porto Maurizio),city/part_of,Europe,,ImperiaPortoMaurizio,Kingdom of Sardinia
 Inagua,city/part_of,America,,,Bahamas
 Inagua & Nassau (Bahamas) & Turks and Caicos Is.,city/part_of,America,,,Bahamas
-Independant Indian Ocean Islands,geographical_area,Oceania,,IndependantIndianOceanIslands,
-Independant Indian Ocean Islands (other),geographical_area,Oceania,,IndependantIndianOceanIslandsother,
 Independent Somali Ports,geographical_area,Africa,,,
 India,GPH_entity,Asia,750,India,
 India (Coast),city/part_of,Asia,,,India
@@ -1236,7 +1233,7 @@ India & People's Republic of China (China) & Singapore,group,Asia,,India_Peoples
 India & Pondicherry,group,Asia,,,
 India & Sri Lanka (Ceylon),group,Asia,,India_SriLankaCeylon,
 India & Straits Settlements,group,Asia,,India_StraitsSettlements,
-Indian Archipelago,geographical_area,Asia,,IndianArchipelago,
+East Indies Archipelago,geographical_area,Asia,,IndianArchipelago,
 Indian Ocean Islands,geographical_area,Oceania,,IndianOceanIslands,
 Indian Ocean Islands (British),colonial_area,Oceania,,,United Kingdom
 Indian Ocean Islands (other),geographical_area,Oceania,,IndianOceanIslandsother,
@@ -1843,7 +1840,7 @@ Porto Novo,GPH_entity,Africa,4348,PortoNovo,
 Portobelo,city/part_of,America,,,Panama
 Portugal,GPH_entity,Europe,235,Portugal,
 Portugal & Portuguese Colonies,colonial_area,World,,Portugal_PortugueseColonies,
-Portugal & Portuguese East Africa,group,World,,Portugal_PortugueseEastAfrica,
+Portugal & Portuguese Eastern Africa,colonial_area,World,,Portugal_PortugueseEastAfrica,
 Portugal & Spain,group,Europe,,Portugal_Spain,
 Portuguese Africa,colonial_area,Africa,,PortugueseAfrica,Portugal
 Portuguese Africa (other),colonial_area,Africa,,PortugueseAfricaother,Portugal
@@ -1856,16 +1853,16 @@ Portuguese Asia & Asia (other),geographical_area,Asia,,,
 Portuguese China,colonial_area,Asia,,,Portugal
 Portuguese Colonies,colonial_area,World,,PortugueseColonies,Portugal
 Portuguese Colonies (other),colonial_area,World,,PortugueseColoniesother,Portugal
-Portuguese East Africa,colonial_area,Africa,,PortugueseEastAfrica,Portugal
-Portuguese East Africa (other),colonial_area,Africa,,,
-Portuguese Equatorial West Africa,colonial_area,Africa,,,Portugal
+Portuguese Eastern Africa,colonial_area,Africa,,PortugueseEastAfrica,Portugal
+Portuguese Eastern Africa (other),colonial_area,Africa,,,
+Portuguese Equatorial Western Africa,colonial_area,Africa,,,Portugal
 Portuguese Europe,colonial_area,Europe,,PortugueseEurope,Portugal
 Portuguese India,GPH_entity,Asia,752,PortugueseIndiainclGoaDiuDaman,
 Portuguese Oceania,colonial_area,Oceania,,PortugueseOceania,Portugal
-Portuguese South Africa,colonial_area,Africa,,,Portugal
-Portuguese South East Africa,colonial_area,Africa,,,
-Portuguese West Africa,colonial_area,Africa,,PortugueseWestAfrica,Portugal
-Portuguese West Africa (other),colonial_area,Africa,,,
+Portuguese Southern Africa,colonial_area,Africa,,,Portugal
+Portuguese South Eastern Africa,colonial_area,Africa,,,
+Portuguese Western Africa,colonial_area,Africa,,PortugueseWestAfrica,Portugal
+Portuguese Western Africa (other),colonial_area,Africa,,,
 Portuguese West Indies,colonial_area,America,,,
 Possession I.,city/part_of,Oceania,,,Torres Strait Is.
 Prampram,city/part_of,Africa,,,Ghana (Gold Coast)
@@ -2082,9 +2079,9 @@ Spanish America & West Indies (other),geographical_area,America,,,
 Spanish Asia,colonial_area,Asia,,,
 Spanish Colonies,colonial_area,World,,SpanishColonies,Spain
 Spanish Colonies (other),colonial_area,World,,SpanishColoniesother,Spain
-Spanish East Africa,colonial_area,Africa,,SpanishEastAfrica,Spain
+Spanish Eastern Africa,colonial_area,Africa,,SpanishEastAfrica,Spain
 Spanish East Indies,colonial_area,Asia,,,Spain
-Spanish Equatorial West Africa,colonial_area,Africa,,,Spain
+Spanish Equatorial Western Africa,colonial_area,Africa,,,Spain
 Spanish Morocco,GPH_entity,Africa,602,,
 Spanish Morocco & Tangier,group,Africa,,,
 Spanish North Africa,city/part_of,Africa,,,Spain
