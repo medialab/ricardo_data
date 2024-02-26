@@ -286,7 +286,7 @@ all other asia,Asia (other)
 all other british oceania,British Oceania (other)
 all other british possessions,British Colonies (other)
 all other british possessions except china,British Colonies (other)
-all other british possessions in north america,British North America
+all other british possessions in north america,British Northern America
 "all other british possessions, excluding china",British Colonies (other)
 all other countries,Other countries
 all other countries and ports,Other countries
@@ -367,7 +367,7 @@ altri paesi am. sud,Southern America (other)
 altri paesi cont. am. c.,Central America (Continental) (other)
 altri paesi d'europa,Europe (other)
 altri paesi d'oceania,Oceania (other)
-altri paesi eq. occ. afr.,Equatorial West Africa (other)
+altri paesi eq. occ. afr.,Equatorial Western Africa (other)
 altri paesi eq. or. afr.,Equatorial East Africa (other)
 altri paesi insul. am. c.,Central America (Insular) (other)
 altri paesi non occ. d'asia,Eastern Asia (other)
@@ -382,12 +382,12 @@ alzyras,Algeria (Regency of Algiers)
 ambina,Unknown
 amér. anglaise,British America
 amér. centrale,Central America
-amér. du nord brit,British North America
-amér. du nord britan.,British North America
+amér. du nord brit,British Northern America
+amér. du nord britan.,British Northern America
 amer. nord,Northern America
 amér. nord,Northern America
-amer. nord britan.,British North America
-amer. nord britannique,British North America
+amer. nord britan.,British Northern America
+amer. nord britannique,British Northern America
 amer. sud,Southern America
 amér. sud,Southern America
 america,America
@@ -400,7 +400,7 @@ america (south),Southern America
 america centrale,Central America
 america meridionale,Southern America
 america stati uniti,United States of America
-america sul - possessoes britannicas,British South America
+america sul - possessoes britannicas,British Southern America
 america-diversas possessoes britannicas,British America
 "america, north and south",America
 "america, other parts",America (other)
@@ -428,14 +428,14 @@ amerique,America
 amérique,America
 amérique (etats-unis et autres),America
 amérique (etats-unis),United States of America
-amérique anglaise du nord,British North America
+amérique anglaise du nord,British Northern America
 amérique centrale,Central America
 amérique centrale continentale,Central America
 amérique centrale et antilles,Central America & West Indies
 amérique du nord,Northern America
 amérique du nord (halifax),Halifax
-amérique du nord brit,British North America
-amérique du nord britannique,British North America
+amérique du nord brit,British Northern America
+amérique du nord britannique,British Northern America
 amérique du nord et du sud,Northern America & Southern America
 "amérique du nord, iles d'inde occidentale, brésil",Brazil & Northern America & West Indies
 amerique du sud,Southern America
@@ -510,7 +510,7 @@ angleterre et malte et iles ioniennes,Ionian Is. & Malta & United Kingdom
 angleterre et malte et îles ioniennes,Ionian Is. & Malta & United Kingdom
 angleterre et possessions,British Colonies & United Kingdom
 angleterre et possessions anglaises,British Colonies & United Kingdom
-angleterre et possessions anglaises dans la méditerranée,British Mediterranean & United Kingdom
+angleterre et possessions anglaises dans la méditerranée,British Mediterranean Sea & United Kingdom
 angleterre et possessions d'europe,British Europe & United Kingdom
 angleterre et ses colonies,British Colonies & United Kingdom
 angleterre et ses possessions,British Colonies & United Kingdom
@@ -948,7 +948,7 @@ autres pays (marchandises françaises),Other countries (French produce)
 autres pays (principalement d'europe),Europe (other)
 autres pays afrique,Africa (other)
 autres pays d'afrique,Africa (other)
-"autres pays d'afrique, equatoriaux occidentaux",Equatorial West Africa (other)
+"autres pays d'afrique, equatoriaux occidentaux",Equatorial Western Africa (other)
 "autres pays d'afrique, equatoriaux orientaux",Equatorial East Africa (other)
 "autres pays d'afrique, méridionaux",Southern Africa (other)
 "autres pays d'afrique, septentrionaux (tanger)",Tangier
@@ -975,7 +975,7 @@ autres pays non-spécifiés,Other countries
 autres ports anglais,United Kingdom (other)
 autres ports antilles,West Indies (other)
 autres pos. fr. d'afrique,French Africa (other)
-autres poss. angl. extrême-orient,British East Asia (other)
+autres poss. angl. extrême-orient,British Eastern Asia (other)
 autres poss. brit. en asie,British Asia (other)
 autres poss. fr. en asie,French Asia (other)
 autres possession sbritan.,British Colonies (other)
@@ -1356,15 +1356,15 @@ brésil**,Brazil
 bretland,United Kingdom
 brezilya,Brazil
 bridge water,Bridgwater
-brit birt. a középtengeren,British Mediterranean
-brit birt. aföldk. teng,British Mediterranean
-brit birtokok a földk. teng,British Mediterranean
-brit birtokok a földközi tengeren,British Mediterranean
-brit eszak-amerika,British North America
+brit birt. a középtengeren,British Mediterranean Sea
+brit birt. aföldk. teng,British Mediterranean Sea
+brit birtokok a földk. teng,British Mediterranean Sea
+brit birtokok a földközi tengeren,British Mediterranean Sea
+brit eszak-amerika,British Northern America
 brit kelet-india,British East Indies
 brit nyugot-india,British West Indies
-brit-eszak-amerika,British North America
-brit-észak-amerika,British North America
+brit-eszak-amerika,British Northern America
+brit-észak-amerika,British Northern America
 brit-guyana,Guyana (British Guiana)
 brit-i. és str. settl.,India & Straits Settlements
 brit-ind. és str. settl,India & Straits Settlements
@@ -1381,14 +1381,14 @@ brit: honduras,Belize (British Honduras)
 brit: jamaica,Jamaica
 brit: trinidad,Trinidad
 "brit. agypt, sudan",Sudan (Anglo-Egyptian Sudan) (Mahdist State)
-brit. besitzungen im mittelmeer,British Mediterranean
-brit. džr. ve střed. moři,British Mediterranean
+brit. besitzungen im mittelmeer,British Mediterranean Sea
+brit. džr. ve střed. moři,British Mediterranean Sea
 brit. džr. ve vých africe,British Eastern Africa
 brit. indien,India
-brit. medit. possessions,British Mediterranean
-brit. middelhavsbesidd,British Mediterranean
+brit. medit. possessions,British Mediterranean Sea
+brit. middelhavsbesidd,British Mediterranean Sea
 "brit. middelhavsbesidd., cypern",Cyprus
-brit. nordamerika,British North America
+brit. nordamerika,British Northern America
 brit. possessions in africa,British Africa
 brit. sydafrika,British Southern Africa
 britanie v. s irskem,United Kingdom
@@ -1406,9 +1406,9 @@ britisch indien usw.,India
 britisch malakka,Malaysia (British Malaya)
 britisch malakka usw.,Malaysia (British Malaya)
 britisch malaya,Malaysia (British Malaya)
-britisch mittelmeer,British Mediterranean
-britisch nord-amerika,British North America
-britisch nordamerika,British North America
+britisch mittelmeer,British Mediterranean Sea
+britisch nord-amerika,British Northern America
+britisch nordamerika,British Northern America
 britisch oost-afrika,British Eastern Africa
 britisch ost-indien,British East Indies
 britisch ost-indien singapore,Singapore
@@ -1450,10 +1450,10 @@ british china,British China
 british colombia (canada),British Columbia
 british colonies,British Colonies
 british colonies (other),British Colonies (other)
-"british colonies, south america",British South America
+"british colonies, south america",British Southern America
 british colonies. asia,British Asia
 british colonies. elsewhere,British Colonies (other)
-british colonies. north america,British North America
+british colonies. north america,British Northern America
 british colonies. other colonies,British Colonies (other)
 british colonies. west indies,British West Indies
 british columbia,British Columbia
@@ -1514,11 +1514,11 @@ british islands,British West Indies
 british leased territory,British China Leased Territory
 british malay states,Malaysia (British Malaya)
 british malaya,Malaysia (British Malaya)
-british med possessions,British Mediterranean
-british mediterranean possessions,British Mediterranean
+british med possessions,British Mediterranean Sea
+british mediterranean possessions,British Mediterranean Sea
 british new guinea,Papua (British New Guinea)
 british north africa,British Northern Africa
-british north america,British North America
+british north america,British Northern America
 british north america : british columbia,British Columbia
 british north america : canada,Canada (Province of Canada)
 british north america : dmoninion of canada,Canada (Province of Canada)
@@ -1532,11 +1532,11 @@ british north america : nova scotia and cape breton),Cape Breton I. & Nova Scoti
 british north america : prince edward's island,Prince Edward Is.
 british north america : settlements of the hudson's bay company,Rupert's Land
 british north america : settlements of the hudson's bay company and british columbia,British Columbia & Rupert's Land
-british north america : total,British North America
-"british north america (dominion of canada, newfoundland and labrador)",British North America
-british north america (total),British North America
-british north america provinces,British North America
-british north american colonies,British North America
+british north america : total,British Northern America
+"british north america (dominion of canada, newfoundland and labrador)",British Northern America
+british north america (total),British Northern America
+british north america provinces,British Northern America
+british north american colonies,British Northern America
 british north borneo,Sabah (North Borneo)
 british nyasaland,Malawi (Nyasaland) (British Central Africa Protectorate)
 british oceania,British Oceania
@@ -1559,8 +1559,8 @@ british possessions in south africa : cape of good hope,Cape Colony (Cape of Goo
 british possessions in south africa : cape of good hope and natal,Cape Colony (Cape of Good Hope) & Natal
 british possessions in south africa : natal,Natal
 british possessions in south africa : natal and cape of good hope,Cape Colony (Cape of Good Hope) & Natal
-"british possessions in south america, west indies, guiana…",British South America & British West Indies & Guyana (British Guiana)
-british possessions in the mediterranean,British Mediterranean
+"british possessions in south america, west indies, guiana…",British Southern America & British West Indies & Guyana (British Guiana)
+british possessions in the mediterranean,British Mediterranean Sea
 british possessions on the gold coast,Ghana (Gold Coast)
 british possessions on the river gambia,Gambia
 british possessions on the rvier gambia,Gambia
@@ -1628,7 +1628,7 @@ britisk indien m. ceylon,India & Sri Lanka (Ceylon)
 "britisk indien, herunder ceylon",India & Sri Lanka (Ceylon)
 britisk malaja,Malaysia (British Malaya)
 britisk malakka,Malaysia (British Malaya)
-britisk nordamerika,British North America
+britisk nordamerika,British Northern America
 britisk øst-afrika,British Eastern Africa
 britisk ostindia,British East Indies
 britisk ostindien,British East Indies
@@ -1636,8 +1636,8 @@ britisk ostindien,British East Indies
 "britisk ostindien, siam, kina, forøvrig",Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
 britisk sydafrika,British Southern Africa
 britisk vest-afrika,British Western Africa
-britiska nordamerika,British North America
-britiske besiddelser i nordamerika,British North America
+britiska nordamerika,British Northern America
+britiske besiddelser i nordamerika,British Northern America
 "britiske middelhavsbesiddelser, cypern",Cyprus
 britiske områder,British Colonies
 brits-guyana,Guyana (British Guiana)
@@ -1649,14 +1649,14 @@ britsch-indië,India
 "britsch-indië, enz.",India
 "britsch-malakka, enz.",Malacca
 britsche bezitt. in amerika,British America
-britsche bezitt. midd. zee,British Mediterranean
+britsche bezitt. midd. zee,British Mediterranean Sea
 britsche bezittingen in amerika,British America
 britsche bezittingen in azië,British Asia
-britsche bezittingen in middellandsche zee,British Mediterranean
+britsche bezittingen in middellandsche zee,British Mediterranean Sea
 britsche bezittingen oost-afrika,British Eastern Africa
 britsh west africa,British Western Africa
 britská indie,India
-britske drz ve stredoz mori,British Mediterranean
+britske drz ve stredoz mori,British Mediterranean Sea
 britske drzavy v africe,British Africa
 britske drzavy v americe,British America
 britske drzavy v asii,British Asia
@@ -1664,13 +1664,13 @@ britske drzavy v jizni africe,British Southern Africa
 britske drzavy v rovnikova africe zapadni,British Equatorial Western Africa
 britske drzavy v rovnikove africe vychodni,British Equatorial Eastern Africa
 britske drzavy v zapadni africe,British Western Africa
-britske drzavy v zapadni asii,British West Asia
+britske drzavy v zapadni asii,British Western Asia
 britske drzavy ve vych africe,British Eastern Africa
 britske malajsko,Malaysia (British Malaya)
 britt. malakka,Malaysia (British Malaya)
-britt. nordamerica,British North America
-britt. nordamerica (med bermudasöarna),British North America
-britt. nordamerika,British North America
+britt. nordamerica,British Northern America
+britt. nordamerica (med bermudasöarna),British Northern America
+britt. nordamerika,British Northern America
 britt. ostafrika,British Eastern Africa
 britt. sydafrika,British Southern Africa
 brittiska framre-indien,India
@@ -1681,7 +1681,7 @@ brittiska kamerun,British Cameroons
 brittiska malaja,Malaysia (British Malaya)
 brittiska njassalandet,Malawi (Nyasaland) (British Central Africa Protectorate)
 brittiska nord-borneo,Sabah (North Borneo)
-brittiska nordamerika,British North America
+brittiska nordamerika,British Northern America
 brittiska ostafrika,British Eastern Africa
 brittiska ostindien,British East Indies
 brittiska ostindien och brittiska malakka,India & Malaysia (British Malaya)
@@ -2130,7 +2130,7 @@ colonie francesi non nominate en africa,French Africa (other)
 "colonies (cuba, porto-rico, manille)",Cuba & Philippines & Puerto Rico
 "colonies (cuba, porto-rico)",Cuba & Puerto Rico
 colonies allemandes,German Colonies
-colonies am. nord,British North America
+colonies am. nord,British Northern America
 colonies américaines,American Colonies
 colonies anglaises,British Colonies
 colonies anglaises (marchandises étrangères),British Colonies (Foreign produce)
@@ -2148,9 +2148,9 @@ colonies d'afrique,Portuguese Africa
 colonies d'asie,Portuguese Asia
 colonies danoises,Danish Colonies
 colonies danoises (saint thomas),St. Thomas
-colonies de l'amérique du nord,British North America
+colonies de l'amérique du nord,British Northern America
 colonies espagnoles,Spanish Colonies
-colonies espagnoles de l'afrique de l'ouest,Spanish West Africa
+colonies espagnoles de l'afrique de l'ouest,Spanish Western Africa
 colonies espagnoles de la côte d'afrique,Spanish Africa
 colonies espagnoles en amérique,Spanish America
 colonies espagnoles et danoises d'amérique,Danish America & Spanish America
@@ -2160,7 +2160,7 @@ colonies françaises (marchandises étrangères),French Colonies (Foreign produc
 colonies françaises (marchandises françaises),French Colonies (French produce)
 colonies françaises (sauf algérie),French Colonies (other)
 colonies françaises d'europe (marchandises étrangères),French Europe (Foreign produce)
-colonies françaises de l'afrique de l'est,French East Africa
+colonies françaises de l'afrique de l'est,French Eastern Africa
 colonies françaises de l'afrique de l'ouest,French West Africa
 colonies françaises de la côte occidentale d'afrique (marchandises françaises),French West Africa (French produce)
 colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French West Africa (Foreign produce)
@@ -2304,12 +2304,12 @@ côte occidentale d'afrique possessions allemandes,German Western Africa
 côte occidentale d'afrique possessions anglaises,British Western Africa
 côte occidentale d'afrique possessions britaniques,British Western Africa
 côte occidentale d'afrique possessions britanniques,British Western Africa
-côte occidentale d'afrique possessions espagnoles,Spanish West Africa
+côte occidentale d'afrique possessions espagnoles,Spanish Western Africa
 côte occidentale d'afrique possessions françaises,French West Africa
 côte occidentale d'afrique possessions portugaises,Portuguese Western Africa
 côte occidentale d'afrique-possessions allemandes,German Western Africa
 côte occidentale d'afrique-possessions britanniques,British Western Africa
-côte occidentale d'afrique-possessions espagnoles,Spanish West Africa
+côte occidentale d'afrique-possessions espagnoles,Spanish Western Africa
 côte occidentale d'afrique-possessions françaises,French West Africa
 côte occidentale d'afrique-possessions portugaises,Portuguese Western Africa
 côte occidentale de la péninsule,Malaysia (British Malaya) (West)
@@ -2668,11 +2668,11 @@ dominikonu respublika,Dominican Republic (Santo Domingo)
 dominion of canada,Canada (Province of Canada)
 dominion of canada (total),Canada (Province of Canada)
 dominion of canada and newfoundland,Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland)
-"dominion of canada, and other british north american provinces",British North America (other) & Canada (Province of Canada)
+"dominion of canada, and other british north american provinces",British Northern America (other) & Canada (Province of Canada)
 dominion of canada. nova scotia,Nova Scotia
 dominion of canada. other parts,Canada (Province of Canada) (other)
 "dominion of canada. st. john's, n.b.",Newfoundland and Labrador (Newfoundland)
-dominion of cananda and other british north american possessions,British North America (other) & Canada (Province of Canada)
+dominion of cananda and other british north american possessions,British Northern America (other) & Canada (Province of Canada)
 dominion of new zealand,New Zealand
 dominique (la),Dominica
 donau-vorstendommen,Romania
@@ -2912,7 +2912,7 @@ entrepôt de hong kong,Hong Kong
 entrepôt de singapour,Singapore
 entrepôts de france,French Entrepôts
 entrepôts france,French Entrepôts
-enz. br. en fr. bez. in z.-amerika,British South America & French South America
+enz. br. en fr. bez. in z.-amerika,British Southern America & French Southern America
 enz. new-foundland,Newfoundland and Labrador (Newfoundland)
 epaves et sauvetages,***NA
 equador,Ecuador
@@ -3240,7 +3240,7 @@ foreign merchandise to the usa,United States of America (Foreign produce)
 foreign new guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 foreign pacific islands,Pacific Islands (other)
 foreign possessions in india,French India
-foreign settlements on the north-west coast of america,United States of America (North West Coast) (other)
+foreign settlements on the north-west coast of america,North Western America (other)
 foreign states,Other countries
 foreign states of america,Southern America (other)
 "foreign states, south america",Southern America (other)
@@ -3288,16 +3288,16 @@ france and colonies,France & French Colonies
 france and dependencies,France & French Colonies
 france and french colonies,France & French Colonies
 france and french colonies (french produce),France (French produce) & French Colonies (French produce)
-france and french medit. possessions,France & French Mediterranean
+france and french medit. possessions,France & French Mediterranean Sea
 france et alger,Algeria (Regency of Algiers) & France
 france et algerie,Algeria (Regency of Algiers) & France
 france et algérie,Algeria (Regency of Algiers) & France
 france et colonies,France & French Colonies
 france et dépendances,France & French Colonies
 france et des colonies françaises (marchandises françaises),France (French produce) & French Colonies (French produce)
-france et poss. fr. en méd.,France & French Mediterranean
+france et poss. fr. en méd.,France & French Mediterranean Sea
 france et possessions,France & French Colonies
-france et possessions françaises (méditerrannée),France & French Mediterranean
+france et possessions françaises (méditerrannée),France & French Mediterranean Sea
 france et ses dépendances,France & French Colonies
 france et ses possessions,France & French Colonies
 france et ses possessions au nord de l'afrique,Algeria (Regency of Algiers) & France & Morocco & Tunisia (Regency of Tunis)
@@ -3348,7 +3348,7 @@ fransa,France
 "fransch en italiaansch somaliland, enz.",Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland
 fransch equatoriaal-afrika,French Equatorial Africa
 fransch kongo,Congo (Brazzaville) (French Congo) (Middle Congo)
-fransch oost-afrika,French East Africa
+fransch oost-afrika,French Eastern Africa
 fransch somaliland en abessinie,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia)
 fransch voor- en achter-indië,French Asia & French India
 fransch west-afrika,French West Africa
@@ -3373,7 +3373,7 @@ franska indokina,French Indochina
 franska kamerun,Cameroun (French Cameroons)
 franska marocko,Morocco
 franska niger-omradet,Niger
-franska ostafrika,French East Africa
+franska ostafrika,French Eastern Africa
 franska ostindien,French India
 franska ostindien (indochina),French Indochina
 franska somalikusten,Djibouti (Afar and Issas) (French Somaliland)
@@ -3416,8 +3416,8 @@ french colonies,French Colonies
 french colonies (foreign produce),French Colonies (Foreign produce)
 french colonies (french produce),French Colonies (French produce)
 french congo,Congo (Brazzaville) (French Congo) (Middle Congo)
-french east africa,French East Africa
-french east africa (france),French East Africa
+french east africa,French Eastern Africa
+french east africa (france),French Eastern Africa
 french east indies,French India
 french equatorial africa,French Equatorial Africa
 french equatorial africa-congo-final,French Equatorial Africa
@@ -3461,7 +3461,7 @@ french possessions in africa and adjacent islands,French Africa
 french possessions in america,French America
 french possessions in asia,French Asia
 french possessions in china,Kwanchowan
-french possessions in eastern africa (france),French East Africa
+french possessions in eastern africa (france),French Eastern Africa
 french possessions in india,French India
 french possessions in india : pondicherry (france),Pondicherry
 french possessions in india (france),French India
@@ -4546,7 +4546,7 @@ islands in the indan seas (not particularly designated),Indian Ocean Islands
 islands in the indian seas,Indian Ocean Islands
 islands in the indian seas : borneo‡,Borneo
 islands in the indian seas : other islands in the indian seas§,Indian Ocean Islands (other)
-islands in the indian seas (british),Indian Ocean Islands (British)
+islands in the indian seas (british),British Indian Ocean Islands
 islands in the indian seas (foreign),Indian Ocean Islands (other)
 islands in the indian seas (not particularly designated),Indian Ocean Islands
 islands in the pacific,Pacific Islands
@@ -4873,17 +4873,17 @@ koh kong,Cambodia (Kampuchea)
 koh kong (cambodia),Cambodia (Kampuchea)
 kokan,Kokand
 kolombia,Colombia (New Granada) (Gran Colombia)
-kolonje brytańskie (ameryka poludniowa),British South America
+kolonje brytańskie (ameryka poludniowa),British Southern America
 kolonje brytańskie w afryce wsch.,British Eastern Africa
 kolonje brytańskie w afryce wschodniej,British Eastern Africa
 kolonje brytańskie w afryce zach.,British Western Africa
 kolonje brytańskie w afryce zachodniej,British Western Africa
-kolonje francuskie w afryce wsch.,French East Africa
-kolonje francuskie w afryce wschodniej,French East Africa
+kolonje francuskie w afryce wsch.,French Eastern Africa
+kolonje francuskie w afryce wschodniej,French Eastern Africa
 kolonje francuskie w afryce zach.,French West Africa
 kolonje francuskie w afryce zachodniej,French West Africa
-kolonje hiszpańskie w afryce zach.,Spanish West Africa
-kolonje hiszpańskie w afryce zachodniej,Spanish West Africa
+kolonje hiszpańskie w afryce zach.,Spanish Western Africa
+kolonje hiszpańskie w afryce zachodniej,Spanish Western Africa
 kolonje i mandaty belgijskie,Belgian Colonies
 kolonje i posiadlósci francuskie,French Colonies
 kolonje portugalskie,Portuguese Colonies
@@ -5826,10 +5826,10 @@ norte america,Northern America
 norte-america,Northern America
 norte-américa,Northern America
 north africa,Northern Africa
-north am. provinces,British North America
+north am. provinces,British Northern America
 north america,Northern America
 north america (including british north america),Northern America
-north american colonies,British North America
+north american colonies,British Northern America
 north borneo,Sabah (North Borneo)
 north china,People's Republic of China (China) (North)
 north east rhodesia,Northeastern Rhodesia
@@ -5837,7 +5837,7 @@ north eastern rhodesia,Northeastern Rhodesia
 north german union,North German Confederation
 north germany,North Germany
 "north sea, ice-sea and greenland",Arctic & Greenland & North Sea
-north west coast of america,United States of America (North West Coast)
+north west coast of america,North Western America
 north western rhodesia,Barotseland_North_Western Rhodesia (Northwestern Rhodesia)
 north yemen,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 north-eastern rhodesia,Northeastern Rhodesia
@@ -6003,7 +6003,7 @@ ofriga kaukasiska lander,Caucasus (other)
 öfrige stater i södra amerika,Southern America (other)
 ofver ryska gransen importerade tullpliktiga,World (via Russia)
 ogólem,World
-ohter british north american possessions,British North America (other)
+ohter british north american possessions,British Northern America (other)
 ohter british possessions,British Colonies (other)
 øier i stillehavet,Pacific Islands
 "okeanijas salas, britanijas kolon",British Oceania
@@ -6076,7 +6076,7 @@ ostatni oblasti v severni africe,Northern Africa (other)
 ostatni oceanie,Oceania (other)
 ostatni ostrovni oblasti stredni ameriky,Central America (other)
 ostatni rovnikova afrika vychodni,Equatorial East Africa (other)
-ostatni rovnikova afrika zapadni,Equatorial West Africa (other)
+ostatni rovnikova afrika zapadni,Equatorial Western Africa (other)
 ostatni spanelske drz v africe a ostatni afrika,Spanish Africa & Africa (other)
 ostatni zeme jizni ameriky,Southern America (other)
 ostatni zeme na stredoamericke pevnine,Central America
@@ -6131,7 +6131,7 @@ other br. possessions,British Colonies (other)
 other bristish east indies,British East Indies (other)
 other bristish west africa,British Western Africa (other)
 other brit. colonies,British Colonies (other)
-other brit. poss. in the far east,British East Asia (other)
+other brit. poss. in the far east,British Eastern Asia (other)
 other british,British Colonies (other)
 other british (british east indies),British East Indies
 other british africa,British Africa (other)
@@ -6146,7 +6146,7 @@ other british east indies,British East Indies (other)
 other british empire,British Colonies (other)
 other british europe,British Europe (other)
 other british islands in the pacific,British Oceania (other)
-other british north american possessions,British North America (other)
+other british north american possessions,British Northern America (other)
 other british north american possessions on the atlantic,British America (Atlantic)
 other british oceania,British Oceania (other)
 other british oversea dominions and protectorates,British Colonies (other)
@@ -6159,7 +6159,7 @@ other british possessions (n.o.d.),British Colonies (other)
 other british possessions in africa,British Africa (other)
 other british possessions in asia,British Asia (other)
 other british possessions in australasia,British Oceania (other)
-other british possessions in south america,British South America (other)
+other british possessions in south america,British Southern America (other)
 other british south africa,South Africa (other)
 other british west africa,British Western Africa (other)
 other british west india islands,British West Indies (other)
@@ -6278,7 +6278,7 @@ other w. indies,West Indies (other)
 other west india islands,West Indies (other)
 other west indies,West Indies (other)
 other west indies islands,West Indies (other)
-other west. equat. afri. count.,Equatorial West Africa (other)
+other west. equat. afri. count.,Equatorial Western Africa (other)
 others,Other countries
 others in africa,Africa (other)
 others in america,America (other)
@@ -6445,7 +6445,7 @@ panama canal zone,Panama Canal Zone
 "panama, enz.",Panama
 "panama, republic of",Panama
 państwa pod protektoratem i kolonje brytanskie na malakka,Malaysia (British Malaya)
-papal ports on the mediterranean,Papal States (Mediterranean Sea)
+papal ports on the mediterranean,Papal States (Mediterranean Coast)
 papal states,Papal States
 papal territory,Papal States
 papua,Papua (British New Guinea)
@@ -6878,7 +6878,7 @@ posesiones francesas de asia y oceanía,French Asia & French Polynesia
 posesiones francesas en africa,French Africa
 posesiones francesas en africa (senagambia),Senegal
 posesiones francesas en africa occidental,French West Africa
-posesiones francesas en africa oriental,French East Africa
+posesiones francesas en africa oriental,French Eastern Africa
 posesiones francesas en america,French America
 posesiones francesas en américa,French America
 posesiones francesas en asia,French Asia
@@ -6912,16 +6912,16 @@ posesiones portuguesas en asia y oceania,East Timor (Portuguese Timor) & Macao &
 posesiones portuguesas en europa,Portuguese Europe
 posiadlości brytańskie na malakka,Malaysia (British Malaya)
 posiadlości brytańskie na malakka i borneo pólnocne,British Borneo & Malaysia (British Malaya)
-posiadlości brytańskie na morzu śródziemnem,British Mediterranean
+posiadlości brytańskie na morzu śródziemnem,British Mediterranean Sea
 posiadlości francuskie w indiach,French India
 posiadlości portugalskie w indiach,Portuguese India
 poss. ang. en arabie,British Arabia
 poss. angl. en afrique,British Africa
-poss. angl. s. l. médit.,British Mediterranean
-poss. angl. sur la médit.,British Mediterranean
+poss. angl. s. l. médit.,British Mediterranean Sea
+poss. angl. sur la médit.,British Mediterranean Sea
 poss. anglaises africaines,British Africa
-poss. anglaises extr. orient,British East Asia
-poss. anglaises méditerranée,British Mediterranean
+poss. anglaises extr. orient,British Eastern Asia
+poss. anglaises méditerranée,British Mediterranean Sea
 poss. belges en afrique,Belgian Africa
 poss. brit. afrique occ. et or.,British Africa
 poss. esp en afrique,Spanish Africa
@@ -6942,7 +6942,7 @@ possessions allemandes en océanie,German Oceania
 possessions anglaises,British Colonies
 possessions anglaises (côte occidentale d'afrique),British Western Africa
 possessions anglaises (côte orientale d'afrique),British Eastern Africa
-possessions anglaises amer. nord,British North America
+possessions anglaises amer. nord,British Northern America
 possessions anglaises an afrique,British Africa
 possessions anglaises d'afrique,British Africa
 possessions anglaises d'amérique,British America
@@ -6952,29 +6952,29 @@ possessions anglaises d'asie,British Asia
 possessions anglaises d'australie,Australia
 possessions anglaises dans l'atlantique sud,British South Atlantic
 possessions anglaises dans l'océan pacifique,British Oceania
-possessions anglaises dans la méditerranée,British Mediterranean
-possessions anglaises de l'am. nord,British North America
-possessions anglaises de l'amer. nord,British North America
-possessions anglaises de la méditerranée,British Mediterranean
+possessions anglaises dans la méditerranée,British Mediterranean Sea
+possessions anglaises de l'am. nord,British Northern America
+possessions anglaises de l'amer. nord,British Northern America
+possessions anglaises de la méditerranée,British Mediterranean Sea
 possessions anglaises en afrique,British Africa
 possessions anglaises en afrique occidentale,British Western Africa
 possessions anglaises en afrique orientale,British Eastern Africa
-possessions anglaises en am. nord,British North America
+possessions anglaises en am. nord,British Northern America
 possessions anglaises en amérique,British America
-possessions anglaises en amérique du nord,British North America
-possessions anglaises en amérique du nord - autres,British North America (other)
+possessions anglaises en amérique du nord,British Northern America
+possessions anglaises en amérique du nord - autres,British Northern America (other)
 possessions anglaises en amérique du nord - canada,Canada (Province of Canada)
 possessions anglaises en australie,Australia
 possessions anglaises en chine,British China
-possessions anglaises en méditerranée,British Mediterranean
+possessions anglaises en méditerranée,British Mediterranean Sea
 possessions anglaises- gibraltar,Gibraltar
 possessions anglaises-terre neuve,Newfoundland and Labrador (Newfoundland)
 possessions anglaises: malte et gibraltar,Gibraltar & Malta
 possessions anglaises**,British Colonies
 possessions anglaisess en afrique,British Africa
 possessions britan.,British Colonies
-possessions britan. amer. nord,British North America
-possessions britan. amérique nord,British North America
+possessions britan. amer. nord,British Northern America
+possessions britan. amérique nord,British Northern America
 possessions britanniques,British Colonies
 "possessions britanniques (sans australie, nz,canada, afrique du sud)",British Colonies (other)
 possessions britanniques en malacca,Malaysia (British Malaya)
@@ -7101,8 +7101,8 @@ province du nouveau-brunswick,New Brunswick
 province of canada,Canada (Province of Canada)
 province of quebec,Quebec (Lower Canada)
 provinces danubiennes,Moldavia & Wallachia
-provinces de l'a.b.n.,British North America
-provinces de l'amérique britannique du nord,British North America
+provinces de l'a.b.n.,British Northern America
+provinces de l'amérique britannique du nord,British Northern America
 provincias del rio de la plata,Argentina (La Plata)
 provincias portuguezas d'africa,Portuguese Africa
 provincias portuguezas d'asia,Portuguese Asia
@@ -7450,8 +7450,8 @@ russia-asiatic,Asian Russia
 "russia, northern ports and southern ports",Russia (North and South Ports)
 "russia, odessa by sea",Odessa
 "russia, pacific ports",Russia (Pacific Ports)
-"russia, settlements in north-eastern asia",Russian North East Asia
-"russia, settlements on the north-west coast of america",Russian North America
+"russia, settlements in north-eastern asia",Russian North Eastern Asia
+"russia, settlements on the north-west coast of america",Russian North Western America
 "russia, southern ports",Russia (South Ports)
 "russia, southern ports (exclusive of ports of the crimea in the temporary occupation of the allied forces)",Russia (South Ports)
 russia/soviet union,Russia (USSR)
@@ -7463,8 +7463,8 @@ russian empire (in europe and asia),Russia (USSR)
 russian europe,European Russia
 russian manchuria,Manchuria
 russian possessions in china,Russian China
-russian possessions in north america,Russian North America
-russian settlements on the north west coast of america,Russian North America
+russian possessions in north america,Russian North Western America
+russian settlements on the north west coast of america,Russian North Western America
 russian turkestan,Russian Turkestan
 russie,Russia (USSR)
 russie - ports du pacifique,Russia (Pacific Ports)
@@ -7756,7 +7756,7 @@ seselu salas,Seychelles
 seszele,Seychelles
 settlements of the hudson's bay company,Rupert's Land
 settlements of the hudson's bay company (british north america),Rupert's Land
-severni britska amerika,British North America
+severni britska amerika,British Northern America
 seychelle,Seychelles
 seychelles,Seychelles
 seychelles (iles),Seychelles
@@ -7967,7 +7967,7 @@ sovjetsambandið,Russia (USSR)
 sovjetunionen,Russia (USSR)
 "sovjetunionen, europeiska",European Russia
 sowjet-rusland,Russia (USSR)
-spaansch west-afrika,Spanish West Africa
+spaansch west-afrika,Spanish Western Africa
 spaansch-marokko,Spanish Morocco
 spagna,Spain
 "spagna, gibilterra e portogallo",Gibraltar & Portugal & Spain
@@ -8023,24 +8023,24 @@ spanish morocco,Spanish Morocco
 spanish oceania,Spanish Oceania
 spanish ports,Spain
 spanish ports (venezuelan),Spain
-spanish ports in north africa,Spanish North Africa
-spanish ports in north africa (spain),Spanish North Africa
-spanish ports in northern africa,Spanish North Africa
-spanish ports in northern africa (spain),Spanish North Africa
-spanish ports in the north africa,Spanish North Africa
+spanish ports in north africa,Spanish Northern Africa
+spanish ports in north africa (spain),Spanish Northern Africa
+spanish ports in northern africa,Spanish Northern Africa
+spanish ports in northern africa (spain),Spanish Northern Africa
+spanish ports in the north africa,Spanish Northern Africa
 spanish possessions,Spanish Colonies
 spanish possessions in africa,Spanish Africa
 spanish possessions in africa and adjacent islands,Spanish Africa
 "spanish possessions in africa, &c",Spanish Africa
 spanish possessions in asia,Spanish Asia
 spanish possessions in the pacific ocean,Spanish Oceania
-spanish possessions in western africa (including fernando po),Spanish West Africa
-spanish possessions in western africa (including fernando po) (spain),Spanish West Africa
-spanish south american colonies,Spanish South America
-spanish southern africa,Spanish South Africa
-spanish west africa,Spanish West Africa
-spanish west africa (including fernando po),Spanish West Africa
-spanish west africa (including fernando po) (spain),Spanish West Africa
+spanish possessions in western africa (including fernando po),Spanish Western Africa
+spanish possessions in western africa (including fernando po) (spain),Spanish Western Africa
+spanish south american colonies,Spanish Southern America
+spanish southern africa,Spanish Southern Africa
+spanish west africa,Spanish Western Africa
+spanish west africa (including fernando po),Spanish Western Africa
+spanish west africa (including fernando po) (spain),Spanish Western Africa
 spanish west india islands,Spanish West Indies
 spanish west india islands (spain),Spanish West Indies
 spanish west india islands† (spain),Spanish West Indies
@@ -8957,7 +8957,7 @@ union von sudafrika,South Africa
 union-sud-africaine,South Africa
 unione sud africa,South Africa
 united kingdom,United Kingdom
-united kingdom (including british possessions in the mediterranean),British Mediterranean & United Kingdom
+united kingdom (including british possessions in the mediterranean),British Mediterranean Sea & United Kingdom
 united kingdom (total),Ireland & United Kingdom
 united kingdom and channel islands,Channel Is. & United Kingdom
 united kingdom and gibraltar,Gibraltar & United Kingdom
@@ -8979,7 +8979,7 @@ united states (including california),United States of America
 united states (porto rican merchandise & united states produce returned),United States of America (other)
 united states (porto rican merchandise),United States of America (other)
 united states (united states produce returned),United States of America
-united states and british north america,British North America & United States of America
+united states and british north america,British Northern America & United States of America
 united states and canada,Canada (Province of Canada) & United States of America
 united states and posessions,American Colonies & United States of America
 united states and possessions,American Colonies & United States of America
@@ -9223,7 +9223,7 @@ west indies (total),West Indies
 west indies britan.,British West Indies
 west indies generally,West Indies (other)
 "west indies, foreign",West Indies
-"west-aquatorial-afrika, n.b.b.",Equatorial West Africa (other)
+"west-aquatorial-afrika, n.b.b.",Equatorial Western Africa (other)
 west-indie,West Indies
 west-indien,West Indies
 weste africa (not particularly designated),Western Africa
@@ -9348,7 +9348,7 @@ zwitserland,Switzerland
 posesiones alemanas,German Colonies
 posesiones espanolas,Spanish Colonies
 "posesiones espanolas, por ordenes",Spanish Colonies (other)
-posesiones norteamericanas,British North America
+posesiones norteamericanas,British Northern America
 posesiones portuguesas,Portuguese Colonies
 "posesiones portuguesas, por ordenes",Portuguese Colonies (other)
 "uruguay, por ordenes",Uruguay (other)
@@ -9726,7 +9726,7 @@ sardinian states,Kingdom of Sardinia
 colony of nevis,Nevis
 st. barths,St. Barthelemy
 porto bello,Portobelo
-spanish north america,Spanish North America
+spanish north america,Spanish Northern America
 portuguese colonies (america),Portuguese America
 british guinea,British Guinea (Bolama)
 rotterdam,Rotterdam
