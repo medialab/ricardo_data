@@ -64,6 +64,7 @@ Aleppo,GPH_entity,Asia,6525,Aleppo,
 Aleppo & Alexandretta,group,Asia,,,Turkey (Ottoman Empire)
 Aleppo & Latakia (Alaouites),group,Asia,,,
 Alexander Bay,city/part_of,Africa,,,Orange Free State (Orange River Colony)
+Alexandretta,city/part_of,Asia,,,Turkey (Ottoman Empire)
 Alexandria,city/part_of,Africa,,Alexandria,Egypt Arab Republic (Egypt)
 Alexandria & Damietta & Jeddah & Rosetta,group,Africa,,Alexandria_Damietta_Jeddah_Rosetta,
 Alexandria & Egypt Arab Republic (Egypt),group,Africa,,Alexandria_EgyptArabRepublicEgypt,
@@ -77,7 +78,7 @@ Algeria (Regency of Algiers) & Egypt Arab Republic (Egypt) & Tripolitania (Regen
 Algeria (Regency of Algiers) & France,group,World,,Algeria (Regency of Algiers)_France,
 Algeria (Regency of Algiers) & France & French Colonies (other),group,World,,Algeria (Regency of Algiers)_France_FrenchColoniesother,France
 Algeria (Regency of Algiers) & France & Morocco & Tunisia (Regency of Tunis),group,World,,Algeria (Regency of Algiers)_France_Morocco_Tunisia (Regency of Tunis),
-Algeria (Regency of Algiers) & France & Tunis (Regency of Tunis),group,World,,,
+Algeria (Regency of Algiers) & France & Tunisia (Regency of Tunis),group,World,,,
 Algeria (Regency of Algiers) & Morocco,group,Africa,,,
 Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis),group,Africa,,,
 Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis) & Zanzibar,group,Africa,,Algeria (Regency of Algiers)_Morocco_Tunisia (Regency of Tunis)_Zanzibar,
@@ -364,7 +365,7 @@ Bismarck Archipelago (New Britain) (Neupommern),GPH_entity,Oceania,9830,,
 Bissau,city/part_of,Africa,,,Guinea-Bissau (Portuguese Guinea)
 Black Sea,geographical_area,World,,,
 Black Sea (Asia),city/part_of,Asia,,,Black Sea
-Black Sea (Asia) & Mediterranean Sea (Africa),group,World,,,
+Black Sea (Asia) & Mediterranean Sea (Africa) & Mediterranean Sea (Asia),group,World,,,
 Black Sea (Europe),city/part_of,Europe,,,Black Sea
 Black Sea (Europe) & Mediterranean Sea (Europe),group,Europe,,,
 Black Sea & Levant,group,World,,,
@@ -406,7 +407,7 @@ Bremen & Hamburg & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
 Bremen & Lübeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
-Bremerhaven & Geestemünde,group,Europe,,,Germany (Zollverein)
+Bremerhaven & Geestemünde,city/part_of,Europe,,,Bremen
 Bridgwater,city/part_of,Europe,,,United Kingdom
 British Africa,colonial_area,Africa,,BritishAfrica,United Kingdom
 British Africa (other),colonial_area,America,,BritishAfricaother,United Kingdom
@@ -494,7 +495,7 @@ British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),group,Ame
 British Western Africa,colonial_area,Africa,,BritishWestAfrica,United Kingdom
 British Western Africa (other),colonial_area,Africa,,,United Kingdom
 British Western Africa & Canada (Province of Canada),group,World,,,
-British Western Africa & French Western Africa (other) & Liberia & Spanish Africa,group,Africa,,,
+British Western Africa & French West Africa (other) & Liberia & Spanish Africa,group,Africa,,,
 British Western Africa & South Africa,group,Africa,,,United Kingdom
 British Western Asia,colonial_area,Asia,,,United Kingdom
 British West Indies,colonial_area,America,,,United Kingdom
@@ -907,7 +908,7 @@ Estonia,GPH_entity,Europe,366,Estonia,
 Estonia & Latvia,group,Europe,,,
 Estonia & Latvia & Lithuania,group,Europe,,,
 Eswatini (Swaziland),GPH_entity,Africa,572,EswatiniSwaziland,
-Eswatini (Swaziland) & Zulu,group,Africa,,,
+Eswatini (Swaziland) & Zululand,group,Africa,,,
 Ethiopia (Abyssinia),GPH_entity,Africa,530,EthiopiaAbyssinia,
 Ethiopia (Abyssinia) & Italian Africa,group,Africa,,,
 Europe,geographical_area,Europe,,Europe,
@@ -1002,7 +1003,7 @@ French Entrepôts,city/part_of,Europe,,,
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
 French Equatorial Africa & French West Africa,group,Africa,,,France
 French Equatorial Western Africa,colonial_area,Africa,,,France
-French Europe (Foreign produce),city/part_of,Europe,,,French Europe
+French Europe (Foreign produce),colonial_area,Europe,,,France
 French Guiana,GPH_entity,America,120,FrenchGuyana,
 French Guiana & French West Indies,group,America,,,France
 French Guiana & Guadeloupe & Martinique,group,America,,,
@@ -1086,7 +1087,7 @@ Germany (Zollverein) (North Sea),city/part_of,Europe,,,Germany (Zollverein)
 Germany (Zollverein) (other),city/part_of,Europe,,"GermanyZollverein,other",Germany (Zollverein)
 Germany (Zollverein) (other) & Prussia,group,Europe,,Germanyother_Prussia,
 Germany (Zollverein) & Hamburg,group,Europe,,GermanyZollverein_Hamburg,
-Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,GermanyZollverein_Hamburg_HanseTownsBremen_L�beck,
+Germany (Zollverein) & Hanse Towns,group,Europe,,,
 Germany (Zollverein) & Rhine,group,Europe,,GermanyZollverein_Rhine,
 Germany (Zollverein) & Saar,group,Europe,,GermanyZollverein_Saar,
 Ghana (Gold Coast),GPH_entity,Africa,452,GhanaGoldCoast,
@@ -1171,18 +1172,18 @@ Hamburg & Lübeck,group,Europe,,,
 Hamburg & Netherlands,group,Europe,,,
 Hamburg & North Germany,group,Europe,,Hamburg_NorthGermany,
 Hanover,GPH_entity,Europe,240,Hanover,
-Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,Hamburg_Hanover_HanseTownsBremen_L�beck,
-Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hamburg_Hanover_HanseTownsBremen_Heligoland_Kniphausen_L�beck_MecklenburgSchwerin_Oldenburg,
-Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin,group,Europe,,,
+Hanover & Hanse Towns,group,Europe,,Hamburg_Hanover_HanseTownsBremen_L�beck,
+Hanover & Hanse Towns & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hamburg_Hanover_HanseTownsBremen_Heligoland_Kniphausen_L�beck_MecklenburgSchwerin_Oldenburg,
+Hanover & Hanse Towns & Mecklenburg Schwerin,group,Europe,,,
 Hanover & Mecklenburg Schwerin,group,Europe,,,
 Hanover & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hanover_MecklenburgSchwerin_Oldenburg,
 Hanover & Mecklenburg Schwerin & Prussia,group,Europe,,Hanover_MecklenburgSchwerin_Prussia,
 Hanover & Oldenburg,group,Europe,,Hanover_Oldenburg,
-Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,Hamburg_HanseTownsBremen_L�beck,
-Hanse Towns (Bremen & Hamburg & Lübeck) (other),city/part_of,Europe,,,Hanse Towns (Bremen & Hamburg & Lübeck)
-Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg,group,Europe,,,
-Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,group,Europe,,Hamburg_HanseTownsBremen_L�beck_Netherlands,
-Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,group,Europe,,Hamburg_HanseTownsBremen_L�beck_Prussia,
+Hanse Towns,geographical_area,Europe,,Hamburg_HanseTownsBremen_L�beck,
+Hanse Towns (other),city/part_of,Europe,,,Hanse Towns
+Hanse Towns & Mecklenburg Schwerin & Oldenburg,group,Europe,,,
+Hanse Towns & Netherlands,group,Europe,,Hamburg_HanseTownsBremen_L�beck_Netherlands,
+Hanse Towns & Prussia,group,Europe,,Hamburg_HanseTownsBremen_L�beck_Prussia,
 Havana,city/part_of,America,,Havana,Cuba
 Havre Boucher,city/part_of,America,,,Nova Scotia
 Hawaii (Sandwich Is.),GPH_entity,Oceania,4,Hawaii (Sandwich Is.),
@@ -1235,7 +1236,6 @@ India & People's Republic of China (China) & Singapore,group,Asia,,India_Peoples
 India & Pondicherry,group,Asia,,,
 India & Sri Lanka (Ceylon),group,Asia,,India_SriLankaCeylon,
 India & Straits Settlements,group,Asia,,India_StraitsSettlements,
-East Indies Archipelago,geographical_area,Asia,,IndianArchipelago,
 Indian Ocean Islands,geographical_area,Oceania,,IndianOceanIslands,
 British Indian Ocean Islands,colonial_area,Oceania,,,United Kingdom
 Indian Ocean Islands (other),geographical_area,Oceania,,IndianOceanIslandsother,
@@ -1415,7 +1415,7 @@ Lauenburg & Schleswig-Holstein,group,Europe,,Holstein_Lauenburg_Schleswig,
 Le Havre,city/part_of,Europe,,LeHavre,France
 Lebanon,GPH_entity,Asia,660,Lebanon,
 Lebanon & Syria,group,Asia,,Lebanon_Syria,
-Leeaward Coast of Africa (non British),geographical_area,Africa,,,
+Leeward Coast of Africa (non British),geographical_area,Africa,,,
 Leeward Coast of Africa,geographical_area,Africa,,LeewardCoastofAfrica,
 Leeward Coast of Africa (British),geographical_area,Africa,,,
 Leeward Coast of Africa & Sierra Leone,group,Africa,,,
@@ -1561,6 +1561,7 @@ Mecklenburg Schwerin & Oldenburg,group,Europe,,MecklenburgSchwerin_Oldenburg,
 Mediterranean Sea,geographical_area,World,,,
 Mediterranean Sea (Africa),geographical_area,Africa,,,
 Mediterranean Sea (Europe),geographical_area,Europe,,,
+Mediterranean Sea (Asia),geographical_area,Asia,,,
 Melanesia,geographical_area,Oceania,,,
 Melbourne,city/part_of,Oceania,,,Victoria
 Melilla,GPH_entity,Africa,6064,Melilla,
@@ -1813,6 +1814,7 @@ Philippines & Sulu Sultanate,group,Asia,,Philippines_SuluSultanate,
 Phoenix Is.,GPH_entity,Oceania,9467,,
 Phuket Province,city/part_of,Asia,,,Thailand (Siam)
 Phuket Province & Thailand (Siam),group,Asia,,,
+Piacenza,city/part_of,Europe,,,Parma
 Piedmont,city/part_of,Europe,,,Kingdom of Sardinia
 Piedmont & Sardinia,group,Europe,,Piedmont_Sardinia,
 Piedmont & Tuscany,group,Europe,,Piedmont_Tuscany,
@@ -1928,6 +1930,7 @@ Ruanda-Urundi & Tanzania (Tanganyika),group,Africa,,,
 Rufisque,city/part_of,Africa,,,Senegal
 Rupert's Land,GPH_entity,America,1019,Rupert'sLand,
 Russia (Amur River),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Asov Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russia (Baltic Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russia (Baltic Sea) & Russia (North Sea),group,Europe,,RussiaUSSR,Russia (USSR)
 Russia (Baltic Sea) & Russia (White Sea),group,Europe,,,
@@ -2278,9 +2281,7 @@ West Indies (West),geographical_area,America,,,
 West Irian (Dutch New Guinea),GPH_entity,Oceania,851,WestIrianDutchNewGuinea,
 West Irian (Dutch New Guinea) & Dutch Oceania (other),group,Oceania,,,Netherlands
 Western Africa,geographical_area,Africa,,,
-Western Africa,geographical_area,Africa,,WestAfrica,
 Western Africa (other),geographical_area,Africa,,,
-Western Africa (other),geographical_area,Africa,,WestAfricaother,
 Western America,geographical_area,America,,WestAmerica,
 Western America (other),geographical_area,America,,,
 Western Anatolia,GPH_entity,Asia,6402,WesternAnatolia,
@@ -2333,3 +2334,4 @@ Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Afric
 Zanzibar,GPH_entity,Africa,511,Zanzibar,
 Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
+Zululand,GPH_entity,Africa,5621,,

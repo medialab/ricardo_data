@@ -159,7 +159,7 @@ afrikai portugál gyarmatok,Portuguese Africa
 afrikai spanyol birt.,Spanish Africa
 afrikai spanyol gy,Spanish Africa
 afrikai spanyol gyarmatok,Spanish Africa
-afrikanske og asiatiske havne ved middelhavet og det sorte hav,Black Sea (Asia) & Black Sea (Asia)
+afrikanske og asiatiske havne ved middelhavet og det sorte hav,Black Sea (Asia) & Mediterranean Sea (Africa) & Mediterranean Sea (Asia)
 afrique,Africa
 afrique - occidental coast,Western Africa
 afrique (côte d'),Africa Coast
@@ -309,7 +309,7 @@ alle overige lander,Other countries
 allem./autres,Germany (Zollverein) (other)
 allem./prusse,Prussia
 allem./rhin,Rhine
-allem./villes anséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
+allem./villes anséatiques,Hanse Towns
 allemagne,Germany (Zollverein)
 allemagne (+ autriche),Austria & Germany (Zollverein)
 allemagne (+ sarre),Germany (Zollverein) & Saar
@@ -339,7 +339,7 @@ allemagne et ses colonies,German Colonies & Germany (Zollverein)
 "allemagne, belgique, espagne, maroc, autres pays",Belgium & Germany (Zollverein) & Morocco & Other countries & Spain
 "allemagne, belgique,pays-bas",Belgium & Germany (Zollverein) & Netherlands
 "allemagne, lübeck",Lübeck
-"allemagne, villes anséatiques",Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck)
+"allemagne, villes anséatiques",Germany (Zollverein) & Hanse Towns
 allemanha,Germany (Zollverein)
 allemanha do norte,Germany (Zollverein)
 almanya,Germany (Zollverein)
@@ -368,7 +368,7 @@ altri paesi cont. am. c.,Central America (Continental) (other)
 altri paesi d'europa,Europe (other)
 altri paesi d'oceania,Oceania (other)
 altri paesi eq. occ. afr.,Equatorial Western Africa (other)
-altri paesi eq. or. afr.,Equatorial East Africa (other)
+altri paesi eq. or. afr.,Equatorial Eastern Africa (other)
 altri paesi insul. am. c.,Central America (Insular) (other)
 altri paesi non occ. d'asia,Eastern Asia (other)
 altri paesi occ. d'asia,Western Asia (other)
@@ -949,7 +949,7 @@ autres pays (principalement d'europe),Europe (other)
 autres pays afrique,Africa (other)
 autres pays d'afrique,Africa (other)
 "autres pays d'afrique, equatoriaux occidentaux",Equatorial Western Africa (other)
-"autres pays d'afrique, equatoriaux orientaux",Equatorial East Africa (other)
+"autres pays d'afrique, equatoriaux orientaux",Equatorial Eastern Africa (other)
 "autres pays d'afrique, méridionaux",Southern Africa (other)
 "autres pays d'afrique, septentrionaux (tanger)",Tangier
 autres pays d'amérique,America (other)
@@ -2053,9 +2053,9 @@ cipro,Cyprus
 cipru,Cyprus
 cirenaica,Cyrenaica
 cisplatine republic,Montevideo
-cittá anseatiche,Hanse Towns (Bremen & Hamburg & Lübeck)
-città anseatiche,Hanse Towns (Bremen & Hamburg & Lübeck)
-ciudades anséaticas,Hanse Towns (Bremen & Hamburg & Lübeck)
+cittá anseatiche,Hanse Towns
+città anseatiche,Hanse Towns
+ciudades anséaticas,Hanse Towns
 coast of brazil,Brazil
 coast of brazil and other portuguese american colonies,Brazil & Portuguese America (other)
 coast of guinea,Guinea Coast
@@ -3574,7 +3574,7 @@ german western africa,German Western Africa
 germanay,Germany (Zollverein)
 germania,Germany (Zollverein)
 germany,Germany (Zollverein)
-"germany (mecklenburgh schwerin, honover, oldenburgh and kniphausen, hanse towns and heligoland)",Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg
+"germany (mecklenburgh schwerin, honover, oldenburgh and kniphausen, hanse towns and heligoland)",Hanover & Hanse Towns & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg
 germany / bremen,Bremen
 germany / hambourg,Hamburg
 germany / other ports,Germany (Zollverein) (other)
@@ -3583,7 +3583,7 @@ germany and colonies,German Colonies & Germany (Zollverein)
 germany and german east africa,German East Africa & Germany (Zollverein)
 "germany, western zone",Germany (Zollverein) (other)
 germany: hamburg,Hamburg
-germany: hanse towns,Hanse Towns (Bremen & Hamburg & Lübeck)
+germany: hanse towns,Hanse Towns
 germany: lubeck,Lübeck
 germany: other german states,Germany (Zollverein) (other)
 germany: other parts,Germany (Zollverein) (other)
@@ -3949,12 +3949,12 @@ hanovre et oldenbourg (association commerciale allemande),Hanover & Oldenburg
 hanovre et oldenburg,Hanover & Oldenburg
 "hanovre, oldenburg",Hanover & Oldenburg
 hanovrien,Hanover
-hanse towns,Hanse Towns (Bremen & Hamburg & Lübeck)
-hanse towns (germany),Hanse Towns (Bremen & Hamburg & Lübeck)
-hanse towns and ports of germany,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck)
-hanse-towns,Hanse Towns (Bremen & Hamburg & Lübeck)
-hanseatic towns,Hanse Towns (Bremen & Hamburg & Lübeck)
-"hansestäderne, mecklenburg, hannover m. m.",Hanover & Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin
+hanse towns,Hanse Towns
+hanse towns (germany),Hanse Towns
+hanse towns and ports of germany,Germany (Zollverein) & Hanse Towns
+hanse-towns,Hanse Towns
+hanseatic towns,Hanse Towns
+"hansestäderne, mecklenburg, hannover m. m.",Hanover & Hanse Towns & Mecklenburg Schwerin
 "harbourg, lunebourg",World (via Harburg & Lüneburg)
 haut-sénégal et niger,Mali (French Sudan) (Upper Senegal and Niger)
 haute-volta,Burkina Faso (Upper Volta)
@@ -4994,6 +4994,7 @@ le cap,Cape Town
 le havre,Le Havre
 leedu,Lithuania
 leeward coast (non british),Leeward Coast of Africa (non British)
+leeward coast,Leeward Coast of Africa
 leeward coast of africa,Leeward Coast of Africa
 leeward coast (all),Leeward Coast of Africa
 leeward is.,Leeward Is.
@@ -5019,7 +5020,7 @@ libano,Lebanon
 líbano,Lebanon
 liberia,Liberia
 libéria,Liberia
-liberia ; britisk vest-afrika ; andre franske bes. i vest-afrika ; spanske kolonier og presidier,British Western Africa & French Western Africa (other) & Liberia & Spanish Africa
+liberia ; britisk vest-afrika ; andre franske bes. i vest-afrika ; spanske kolonier og presidier,British Western Africa & French West Africa (other) & Liberia & Spanish Africa
 libéria (république de),Liberia
 liberia*,Liberia
 libérie,Liberia
@@ -5351,9 +5352,9 @@ mecklenburg schwerin,Mecklenburg Schwerin
 mecklenburg und lübeck,Mecklenburg Schwerin & Lübeck
 mecklenburg-schwerin,Mecklenburg Schwerin
 "mecklenburg, hanower m. fl. tyska orter",Hanover & Mecklenburg Schwerin
-"mecklenburg, hansestäderna och oldenburg",Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg
-"mecklenburg, hansestäderna, hannover och oldenburg",Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg
-"mecklenburg, lübeck, hamburg, bremen och oldenburg",Hanse Towns (Bremen & Hamburg & Lübeck) & Mecklenburg Schwerin & Oldenburg
+"mecklenburg, hansestäderna och oldenburg",Hanse Towns & Mecklenburg Schwerin & Oldenburg
+"mecklenburg, hansestäderna, hannover och oldenburg",Hanse Towns & Mecklenburg Schwerin & Oldenburg
+"mecklenburg, lübeck, hamburg, bremen och oldenburg",Hanse Towns & Mecklenburg Schwerin & Oldenburg
 mecklenburgh schwerin (germany),Mecklenburg Schwerin
 mediterranean ports,Mediterranean Sea
 méditerranée,Mediterranean Sea
@@ -6050,8 +6051,8 @@ origen indeterminado,Unknown
 oroszország,Russia (USSR)
 összesen,World
 ost bri drz v americe,British America (other)
-"ost-aquatorial afrika, n.b.b.",Equatorial East Africa (other)
-"ost-aquatorial-afrika, n.b.b.",Equatorial East Africa (other)
+"ost-aquatorial afrika, n.b.b.",Equatorial Eastern Africa (other)
+"ost-aquatorial-afrika, n.b.b.",Equatorial Eastern Africa (other)
 ost-indien o. öfriga ost-asiatiska länder,Asia (other) & East Indies
 ost-indien o. öfriga ost-asiatiska länder samt australien,Asia (other) & Australia & East Indies
 ost-indien och öfriga ost-asiatiska länder,Asia (other) & East Indies
@@ -6075,7 +6076,7 @@ ostatni jihoamericke republiky,Southern America
 ostatni oblasti v severni africe,Northern Africa (other)
 ostatni oceanie,Oceania (other)
 ostatni ostrovni oblasti stredni ameriky,Central America (other)
-ostatni rovnikova afrika vychodni,Equatorial East Africa (other)
+ostatni rovnikova afrika vychodni,Equatorial Eastern Africa (other)
 ostatni rovnikova afrika zapadni,Equatorial Western Africa (other)
 ostatni spanelske drz v africe a ostatni afrika,Spanish Africa & Africa (other)
 ostatni zeme jizni ameriky,Southern America (other)
@@ -6477,7 +6478,7 @@ patagonien,Patagonia
 patagonien und den falklands-inseln,Falkland Is. & Patagonia
 pays baltiques,Estonia & Latvia & Lithuania
 pays bas,Netherlands
-pays bas et villes anséatiques,Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands
+pays bas et villes anséatiques,Hanse Towns & Netherlands
 pays d'amérique du sud,Southern America
 pays d'europe,Europe
 pays d'europe et du levant,Europe & Levant
@@ -6729,7 +6730,7 @@ ports divers,World (other)
 ports du brésil,Brazil
 ports européens de la mer noire et de la mediterranée,Black Sea (Europe) & Mediterranean Sea (Europe)
 ports francs,Free ports
-ports libres allemands,Hanse Towns (Bremen & Hamburg & Lübeck)
+ports libres allemands,Hanse Towns
 ports libres de la mer noire,Black Sea Free Ports
 ports libres des pays-bas,Dutch Free Ports
 ports libres polonais,Poland Free Port
@@ -8202,7 +8203,7 @@ stredoamericke republiky,Central America
 strefa kanalu panamskiego,Panama Canal Zone
 striats settlements,Straits Settlements
 suakin and port sudan,Port Sudan & Suakin
-suazilandie e zululandia,Eswatini (Swaziland) & Zulu
+suazilandie e zululandia,Eswatini (Swaziland) & Zululand
 sud africa,South Africa
 sud de l'europe,Southern Europe
 sud-africa,South Africa
@@ -8727,7 +8728,7 @@ turkey in europe including bulgaria and candia,Bulgaria & Crete
 "turkey, european",European Turkey
 "turkey, greece, egypt",Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire)
 "turkey, levant, egypt, etc.",Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire)
-"turkey, levant, etc.",Lebanon & Syria & Turkey (Ottoman Empire)
+"turkey, levant, etc.",Levant & Turkey (Ottoman Empire)
 "turkey, persia, egypt, aden, morocco and algeria",Aden & Algeria (Regency of Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco
 "turkey, roumania and greece",Greece & Romania & Turkey (Ottoman Empire)
 turkey: asiatic,Asian Turkey
@@ -9021,8 +9022,8 @@ uopgivet sted.,Unknown
 urss,Russia (USSR)
 urss (=russie+ ukraine+géorgie),Russia (USSR)
 urss (europe and asia),Russia (USSR)
-urss (ports européens),Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck)
-urss (ports européens)),Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck)
+urss (ports européens),Germany (Zollverein) & Hanse Towns
+urss (ports européens)),Germany (Zollverein) & Hanse Towns
 urss d'asie,Asian Russia
 urss d'europe,European Russia
 urss ports du pacifique,Russia (Pacific Ports)
@@ -9137,20 +9138,20 @@ victoria (colonie de),Victoria
 vierges e.-u,Virgin Islands (Danish West Indies)
 vietnam,Vietnam
 ville du cap,Cape Town
-villes anséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
+villes anséatiques,Hanse Towns
 villes anséatiques - hambourg,Hamburg
-villes anséatiques (autre),Hanse Towns (Bremen & Hamburg & Lübeck) (other)
+villes anséatiques (autre),Hanse Towns (other)
 "villes anséatiques (brême, hambourg)",Bremen & Hamburg
 villes anséatiques (hambourg),Hamburg
 villes anséatiques (hambourg)**,Hamburg
-villes anséatiques et hanovre,Hanover & Hanse Towns (Bremen & Hamburg & Lübeck)
-villes anséatiques et ports allemands,Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck)
-villes anséatiques et prusse,Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia
+villes anséatiques et hanovre,Hanover & Hanse Towns
+villes anséatiques et ports allemands,Germany (Zollverein) & Hanse Towns
+villes anséatiques et prusse,Hanse Towns & Prussia
 villes anséatiques-hambourg,Hamburg
-villes anséatiques**,Hanse Towns (Bremen & Hamburg & Lübeck)
-villes hanse,Hanse Towns (Bremen & Hamburg & Lübeck)
-villes hanséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
-villes-anséatiques,Hanse Towns (Bremen & Hamburg & Lübeck)
+villes anséatiques**,Hanse Towns
+villes hanse,Hanse Towns
+villes hanséatiques,Hanse Towns
+villes-anséatiques,Hanse Towns
 vindos dos depositos dos portos portuguezes,***NA
 virgin islands,British Virgin Is.
 virgin islands (leeward islands - west india islands),British Virgin Is.
@@ -9252,6 +9253,7 @@ whale fisheries,***NA
 whaling,***NA
 wigby,Digby
 windward coast,Windward Coast of Africa
+windward coast (all),Windward Coast of Africa
 windward coast of africa,Windward Coast of Africa
 windward islands,Windward Is.
 windward islands (british west indies),Windward Is.
@@ -9384,7 +9386,7 @@ berberia,Barbary Coast
 colonias españolas,Spanish Colonies
 paises-bajos,Netherlands
 deutsches zollgebiet,Germany (Zollverein)
-"frankreich, algerien, tunis",Algeria (Regency of Algiers) & France & Tunis (Regency of Tunis)
+"frankreich, algerien, tunis",Algeria (Regency of Algiers) & France & Tunisia (Regency of Tunis)
 "grossbritannien, gibraltar, malta, cypern, helgoland",Cyprus & Gibraltar & Heligoland & Malta & United Kingdom
 russland und finland,Finland & Russia (USSR)
 "türkei, montenegro",Montenegro & Turkey (Ottoman Empire)
@@ -9564,6 +9566,7 @@ rufisque (senegal),Rufisque
 dakar (senegal),Dakar
 windward coast (incl. goree & senegal & cape verde),Cape Verde & Goree & Senegal & Windward Coast of Africa
 british leeward coast (incl. sierra leone),Leeward Coast of Africa (British)
+british leeward coast (incl. and sierra leone),Leeward Coast of Africa (British)
 sierra leone (other),Sierra Leone (other)
 goree and senegal,Goree & Senegal
 canary island,Canary Is.
@@ -9744,3 +9747,4 @@ colony of the virgin islands,British Virgin Is.
 "st. thomas, ste. croix & st. john",St. Croix & St. John & St. Thomas
 st. thomas & st. croix,St. Croix & St. Thomas
 vieque,Vieques (Crab Island)
+vieque or crab island,Vieques (Crab Island)
