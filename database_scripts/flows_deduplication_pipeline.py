@@ -127,7 +127,12 @@ def deduplicate_flows():
                 and partner != "***NA"
                 and partner_sum is null
                 and f.flow is not null
+                and NOT(r1.RICname = "French Equatorial Africa" and f.source IN ("StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918", "StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918"))
+                and NOT(f.source="GowaJRHicks20132017" and f.partner = "british south africa (union)")
+                and NOT(f.source="AnuarioEstadísticoDeChileComercioExterior_1933_250" and f.partner= "islas holandesas")
         """
+        # duplicated source, removing english source in favor of the french one
+        # duplications linked to unclear entities
     )
 
     print("flow_joined created")
