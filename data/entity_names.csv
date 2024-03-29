@@ -33,7 +33,7 @@ aden and dpendencies,Aden & Aden Dependencies
 aden e stabilimenti dello stretto,Aden & Straits Settlements
 aden et colonies anglaises,Aden & British Colonies (other)
 "aden, bahrein usw.",Aden & Bahrain
-"aden, enz.",Aden & Other countries
+"aden, enz.",Aden & World (other)
 "aden, perim, etc.",Aden & Perim I.
 aden'as,Aden
 adena,Aden
@@ -288,15 +288,15 @@ all other british possessions,British Colonies (other)
 all other british possessions except china,British Colonies (other)
 all other british possessions in north america,British Northern America
 "all other british possessions, excluding china",British Colonies (other)
-all other countries,Other countries
-all other countries and ports,Other countries
+all other countries,World (other)
+all other countries and ports,World (other)
 all other countries and ports in africa,Africa (other)
 all other countries and ports in asia,Asia (other)
 all other countries and ports in south america,Southern America (other)
-"all other countries and ports, and seas",Other countries
-"all other countries, islands, and ports",Other countries
-all other foreign countries,Other countries
-"all other foreign countries, n.o.d.",Other countries
+"all other countries and ports, and seas",World (other)
+"all other countries, islands, and ports",World (other)
+all other foreign countries,World (other)
+"all other foreign countries, n.o.d.",World (other)
 all other french possessions,French Colonies (other)
 all other oceania,Oceania (other)
 all other portuguese possessions,Portuguese Colonies (other)
@@ -305,7 +305,7 @@ all other spanish possessions,Spanish Colonies (other)
 all spanish possessions other than cuba and porto rico,Spanish Colonies (other)
 all spanish possessions other than cuba and puerto rico (principally canary and philippine islands),Spanish Colonies (other)
 "all spanish possessions other than cuba, puerto rico and philippine islands",Spanish Colonies (other)
-alle overige lander,Other countries
+alle overige lander,World (other)
 allem./autres,Germany (Zollverein) (other)
 allem./prusse,Prussia
 allem./rhin,Rhine
@@ -336,7 +336,7 @@ allemagne et prusse,Germany (Zollverein) (other) & Prussia
 allemagne et rhin,Germany (Zollverein) & Rhine
 allemagne et ses colonies,German Colonies & Germany (Zollverein)
 "allemagne, autre",Germany (Zollverein) (other)
-"allemagne, belgique, espagne, maroc, autres pays",Belgium & Germany (Zollverein) & Morocco & Other countries & Spain
+"allemagne, belgique, espagne, maroc, autres pays",Belgium & Germany (Zollverein) & Morocco & Spain & World (other)
 "allemagne, belgique,pays-bas",Belgium & Germany (Zollverein) & Netherlands
 "allemagne, lübeck",Lübeck
 "allemagne, villes anséatiques",Germany (Zollverein) & Hanse Towns
@@ -345,7 +345,7 @@ allemanha do norte,Germany (Zollverein)
 almanya,Germany (Zollverein)
 alsace-lorraine,Alsace Lorraine
 alt-preussischen ostseehäfen,Prussia (Baltic Ports)
-alte tari,Other countries
+alte tari,World (other)
 altona,Altona
 altona (danem.),Altona
 altona (port franc d'),Altona
@@ -360,8 +360,8 @@ altre contrade en africa,Africa (other)
 altre contrade en america,America (other)
 altre contrade en asia,Asia (other)
 altre contrade en oceania,Oceania (other)
-altre nazioni,Other countries
-altri paesi,Other countries
+altre nazioni,World (other)
+altri paesi,World (other)
 altri paesi am. nord,Northern America (other)
 altri paesi am. sud,Southern America (other)
 altri paesi cont. am. c.,Central America (Continental) (other)
@@ -462,7 +462,7 @@ anciennes colonies espagnoles,Spanish America
 andaman islands,Andaman Is.
 andorra,Andorra
 andra britt. öar i stilla oceanen,British Oceania (other)
-"andra länder, utan närmare uppgift",Other countries
+"andra länder, utan närmare uppgift",World (other)
 andre brit. bes. i v.india,British West Indies (other)
 andre brit. besiddelser,British Colonies (other)
 andre britiske besittelser i asia,British Asia (other)
@@ -473,11 +473,11 @@ andre europeiske land,Europe (other)
 andre franske bes. i vest-afrika,French West Africa (other)
 andre ikke særlig anförte steder,Unknown
 andre land i nordafrika,Northern Africa (other)
-andre lande,Other countries
-andre lande eller uopgit,Other countries
+andre lande,World (other)
+andre lande eller uopgit,World (other)
 andre lande i amerika,America (other)
 andre lande i europa,Europe (other)
-andre steder,Other countries
+andre steder,World (other)
 andre tyske havne ved norsøen,Germany (Zollverein) (North Sea)
 andre vestlige assiatike land,Western Asia (other)
 andre vestlige assiatike land ; øvrige asiatiske land,Asia (other)
@@ -912,7 +912,7 @@ autre malaisie (britan),Malaysia (British Malaya) (other)
 autre malaisie (étrangère),Malaysia (British Malaya) (other)
 autre océanie,Oceania
 autre zollverein,Germany (Zollverein) (other)
-autres,Other countries
+autres,World (other)
 autres antilles,West Indies (other)
 autres colonies,French Colonies (other)
 autres colonies américaines,American Colonies (other)
@@ -924,7 +924,7 @@ autres colonies françaises,French Colonies (other)
 autres colonies françaises (marchandises étrangères),French Colonies (other) (Foreign produce)
 autres colonies françaises (marchandises françaises),French colonies (other) (French produce)
 "autres colonies portugaises (cap vert, sao thome, inde portugaise, macao, timor)",Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe
-autres contrées,Other countries
+autres contrées,World (other)
 autres contrées (principalement suède),Sweden
 autres contrées d'afrique,Africa (other)
 autres contrées d'amérique méridionale,Southern America (other)
@@ -932,7 +932,7 @@ autres contrées de turquie,Turkey (Ottoman Empire) (other)
 autres dominions et protectorats britan.,British Colonies (other)
 autres établissements de la côte occidentale d'afrique,Western Africa (other)
 autres établissements français en océanie,French Oceania (other)
-autres etats,Other countries
+autres etats,World (other)
 autres etats barbaresques,Barbary Coast (other)
 autres etats d'italie,Italy (other)
 autres états germaniques,Germany (Zollverein) (other)
@@ -941,10 +941,10 @@ autres iles de l'océanie,Oceania
 autres îles de l'océanie,Oceania
 autres indes orientales britanniques,British East Indies (other)
 autres parties du monde,World (other)
-autres pays,Other countries
+autres pays,World (other)
 autres pays (afrique),Africa (other)
-autres pays (marchandises étrangères),Other countries (Foreign produce)
-autres pays (marchandises françaises),Other countries (French produce)
+autres pays (marchandises étrangères),World (other) (Foreign produce)
+autres pays (marchandises françaises),World (other) (French produce)
 autres pays (principalement d'europe),Europe (other)
 autres pays afrique,Africa (other)
 autres pays d'afrique,Africa (other)
@@ -955,8 +955,8 @@ autres pays d'afrique,Africa (other)
 autres pays d'amérique,America (other)
 autres pays d'asie,Asia (other)
 "autres pays d'asie, autres",Asia (other)
-"autres pays d'asie, d'afr. et d'amérique",Other countries
-"autres pays d'asie, d'océanie, d'afrique et d'amérique",Other countries
+"autres pays d'asie, d'afr. et d'amérique",World (other)
+"autres pays d'asie, d'océanie, d'afrique et d'amérique",World (other)
 "autres pays d'asie, occidentaux",Western Asia
 autres pays d'europe,Europe (other)
 autres pays d'europe et d'amérique,America (other) & Europe (other)
@@ -971,7 +971,7 @@ autres pays de l'océanie,Oceania (other)
 autres pays divers d'asie,Asia (other)
 autres pays étrangers,World (other)
 autres pays europe et levant,Europe & Levant
-autres pays non-spécifiés,Other countries
+autres pays non-spécifiés,World (other)
 autres ports anglais,United Kingdom (other)
 autres ports antilles,West Indies (other)
 autres pos. fr. d'afrique,French Africa (other)
@@ -2249,7 +2249,7 @@ continent of europe,Europe
 continent of europe (except russia),Europe (other)
 continent of europe (including russia in europe),Europe & European Russia
 "contrées danubiennes: bulgarie, roumanie, serbie",Bulgaria & Kingdom of Serbia & Romania
-contrées diverses,Other countries
+contrées diverses,World (other)
 cook island,Cook Is.
 cook islands,Cook Is.
 cook-oarna,Cook Is.
@@ -2370,7 +2370,7 @@ cuba e portorico,Cuba & Puerto Rico
 cuba et porto rico,Cuba & Puerto Rico
 cuba et porto-rico,Cuba & Puerto Rico
 "cuba, haïti, portorico",Cuba & Haiti & Puerto Rico
-"cuba, peru, chile & other countries",Chile & Cuba & Other countries & Peru
+"cuba, peru, chile & other countries",Chile & Cuba & Peru & World (other)
 "cuba, porto rico",Cuba & Puerto Rico
 "cuba, porto rico, guadaloupe, st. croix, st. thomas, martinique, curacoa",Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas
 "cuba, porto-rico",Cuba & Puerto Rico
@@ -2525,7 +2525,7 @@ dem kirchenstaate,Papal States
 dem übrigen amerika,America (other)
 dem übrigen asien,Asia (other)
 dem übrigen westindien,West Indies (other)
-"demás países y ""a órdenes""",Other countries
+"demás países y ""a órdenes""",World (other)
 demas posesiones inglesas en europa,British Europe (other)
 demerara,Demerara
 demerara (british guiana),Demerara
@@ -2595,7 +2595,7 @@ der weser,Bremen (Weser)
 desolation island,Clipperton I.
 destination unknown,Unknown
 destination unknown (admirality),Unknown
-destinazioni varie,Other countries
+destinazioni varie,World (other)
 destino ignorado,Unknown
 destino indeterminado,Unknown
 det europæiske tyrki,European Turkey
@@ -2626,19 +2626,19 @@ dienvidafrika,South Africa
 dienvidrietumu afrika,Southern Africa (other)
 dienvidrodezija,Zimbabwe (Rhodesia) (Southern Rhodesia)
 dienvidslavija,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
-diğer,Other countries
-diger memleketler,Other countries
+diğer,World (other)
+diger memleketler,World (other)
 dinamarca,Denmark
 dínamarca,Denmark
 dinamarca y rusia,Denmark & Russia (USSR)
-divers pays,Other countries
+divers pays,World (other)
 divers ports prusse,Prussia
-diverse,Other countries
-diversos paises,Other countries
-diversos países,Other countries
-"diversos paises (chile, costa rica, cuba, dantzig, equador, estonia, grécia, guatemala, haiti, havai, honduras, jugo-slavia, japao, méxico, pérsia, peru, roménia, tcheco-slovaquia, tcheco-slovaquia, etc…)",Other countries
-"diversos paises (chile, costa rica, cuba, equador, grécia, guatemala, haiti, havai, honduras, japao, méxico, pérsia, peru, românia, zanzibar, etc.)",Other countries
-"diversos paizes: bulgaria, chili, equador, grecia, guatemala, haiti, japão, mexico, persia, perú, roumania, zanzibar)",Other countries
+diverse,World (other)
+diversos paises,World (other)
+diversos países,World (other)
+"diversos paises (chile, costa rica, cuba, dantzig, equador, estonia, grécia, guatemala, haiti, havai, honduras, jugo-slavia, japao, méxico, pérsia, peru, roménia, tcheco-slovaquia, tcheco-slovaquia, etc…)",World (other)
+"diversos paises (chile, costa rica, cuba, equador, grécia, guatemala, haiti, havai, honduras, japao, méxico, pérsia, peru, românia, zanzibar, etc.)",World (other)
+"diversos paizes: bulgaria, chili, equador, grecia, guatemala, haiti, japão, mexico, persia, perú, roumania, zanzibar)",World (other)
 djeddah,Jeddah
 djibouti,Djibouti (Afar and Issas) (French Somaliland)
 djibouti and obokh,Djibouti (Afar and Issas) (French Somaliland) & Obock
@@ -2865,7 +2865,7 @@ egypten og british-egyptian sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egy
 egypto,Egypt Arab Republic (Egypt)
 egyptom,Egypt Arab Republic (Egypt)
 eire,Ireland
-eismeer und nicht ermittelte lander,Other countries
+eismeer und nicht ermittelte lander,World (other)
 ejipto,Egypt Arab Republic (Egypt)
 ekvadora,Ecuador
 ekvadoras,Ecuador
@@ -2876,7 +2876,7 @@ ekwador,Ecuador
 el salvador,El Salvador
 elbe supérieur et affluens (commerce de terre),Elbe
 elfenbenkusten,Ivory Coast
-ellers,Other countries
+ellers,World (other)
 ellice islands,Ellice Is.
 elobey,Elobey Is.
 elsass-lothringen,Alsace Lorraine
@@ -3137,9 +3137,9 @@ ethiopie (abyssinie),Ethiopia (Abyssinia)
 ethiopie ou abyssinie,Ethiopia (Abyssinia)
 "ethiopië, enz.",Ethiopia (Abyssinia)
 etiopia,Ethiopia (Abyssinia)
-etranger,Other countries
-etranger (marchandises étrangères),Other countries (Foreign produce)
-etranger (marchandises françaises),Other countries (French produce)
+etranger,World (other)
+etranger (marchandises étrangères),World (other) (Foreign produce)
+etranger (marchandises françaises),World (other) (French produce)
 eu da america do norte,United States of America
 eu do brasil,Brazil
 europa - possessoes britannicas,British Europe
@@ -3229,11 +3229,11 @@ floridas,Florida
 flusswärts,World
 folendu salas,Falkland Is.
 for ordre,***NA
-for øvrig,Other countries
-foreign countries,Other countries
+for øvrig,World (other)
+foreign countries,World (other)
 foreign countries (non british),World (other than British)
-foreign countries not separately distinguished,Other countries
-foreign countries. other ports,Other countries
+foreign countries not separately distinguished,World (other)
+foreign countries. other ports,World (other)
 foreign east africa,Eastern Africa (other)
 foreign merchandise from the united states,United States of America (Foreign produce)
 foreign merchandise to the usa,United States of America (Foreign produce)
@@ -3241,7 +3241,7 @@ foreign new guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 foreign pacific islands,Pacific Islands (other)
 foreign possessions in india,French India
 foreign settlements on the north-west coast of america,North Western America (other)
-foreign states,Other countries
+foreign states,World (other)
 foreign states of america,Southern America (other)
 "foreign states, south america",Southern America (other)
 foreign west indies,West Indies (other)
@@ -3264,7 +3264,7 @@ fr indo-china,French Indochina
 fr. guyana,French Guiana
 "fr.- en br.- somaliland , sokotra",Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic (British Somaliland)
 fra,France
-fra andre steder,Other countries
+fra andre steder,World (other)
 frakkland,France
 framre indien,India
 franc: guadalupe,Guadeloupe
@@ -4223,7 +4223,7 @@ imported goods shipped as stores,***NA
 inagna (bahamas),Inagua
 inagua (bahamas),Inagua
 inconnu,Unknown
-inconnus,Other countries
+inconnus,World (other)
 ind. portugaises,Portuguese India
 inde,India
 inde (+ceylan),India & Sri Lanka (Ceylon)
@@ -4297,12 +4297,12 @@ indes occidentales britan.,British West Indies
 indes occidentales danoises,Virgin Islands (Danish West Indies)
 indes occidentales espagnoles,Spanish West Indies
 indes occidentales et amérique du sud,Southern America & West Indies
-indes occidentales et destinations diverses,Other countries & West Indies
+indes occidentales et destinations diverses,West Indies & World (other)
 indes occidentales et orientales,East Indies & West Indies
-indes occidentales et provenances diverses,Other countries & West Indies
+indes occidentales et provenances diverses,West Indies & World (other)
 indes occidentales etrangeres,West Indies (other)
 indes occidentales étrangères,West Indies (other)
-"indes occidentales étrangères (cuba et porto rico, haïti, autres)",Cuba & Haiti & Other countries & Puerto Rico
+"indes occidentales étrangères (cuba et porto rico, haïti, autres)",Cuba & Haiti & Puerto Rico & World (other)
 indes occidentales étrangères et anciennes colonies espagnoles,Spanish America & West Indies (other)
 indes occidentales françaises,French West Indies
 indes occidentales hollandaises,Netherlands Antilles
@@ -4462,7 +4462,7 @@ inglaterra,United Kingdom
 inglaterra y sus colonias,British Colonies & United Kingdom
 inglise,United Kingdom
 inidia inglesa,India
-inne kraje,Other countries
+inne kraje,World (other)
 inne kraje (ameryka środkowa),Central America (other)
 inne kraje (europa),Europe (other)
 installations françaises d'océanie,French Polynesia
@@ -4575,7 +4575,7 @@ islas mauricio,Mauritius
 islas polinesianas,Polynesia
 islas samoa,Samoa
 islas trinidad,Trinidad
-islas varias,Other countries
+islas varias,World (other)
 islas virgenes,Virgin Islands (Danish West Indies)
 isle of bourbon,Reunion (Bourbon I.)
 isle of bourbon (france),Reunion (Bourbon I.)
@@ -4862,7 +4862,7 @@ kinija,People's Republic of China (China)
 kipar,Cyprus
 kipra,Cyprus
 kiraso,Curacao
-kiti krastai,Other countries
+kiti krastai,World (other)
 kiuraso,Curacao
 kiva,Khiva
 klajpeda,Klaipėda (Memel)
@@ -5061,7 +5061,7 @@ lombock,Lombok
 lome,Lomé
 londres,London
 lord howe island,Lord Howe I.
-los demás países,Other countries
+los demás países,World (other)
 lotwa,Latvia
 lotyšsko,Latvia
 lourenço marques,Maputo Bay (Delagoa Bay)
@@ -5218,7 +5218,7 @@ manilla,Manila
 manilla and philippines islands,Philippines
 manille,Manila
 manitoba,Manitoba
-"mantimentos e gastos para embarcacões, fazendas demoradas, arrojos do mar, procedencias e destinos diversos",Other countries
+"mantimentos e gastos para embarcacões, fazendas demoradas, arrojos do mar, procedencias e destinos diversos",World (other)
 mantshukuo,Manchukuo
 mantzourie,Manchuria
 marchandises étrangères soumises à des droits de douane importées de russie,World (via Russia)
@@ -5338,7 +5338,7 @@ mecklembourg,Mecklenburg Schwerin
 mecklembourg- schwérin**,Mecklenburg Schwerin
 mecklembourg-oldenbourg,Mecklenburg Schwerin & Oldenburg
 mecklembourg-schwerin,Mecklenburg Schwerin
-"mecklembourg, lubeck (voie de terre) et autres pays",Lübeck & Mecklenburg Schwerin & Other countries
+"mecklembourg, lubeck (voie de terre) et autres pays",Lübeck & Mecklenburg Schwerin & World (other)
 mecklemburgo,Mecklenburg Schwerin
 mecklenberg,Mecklenburg Schwerin
 mecklenbourg-schwerin,Mecklenburg Schwerin
@@ -5571,7 +5571,7 @@ mukalla,Al Mukalla
 muscat,Oman (Sultanate of Muscat and Oman)
 "muscat and oman, trucial oman and koweit",Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman)
 muscat territory and trucial oman,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman)
-muud maad,Other countries
+muud maad,World (other)
 n-o-indie,Netherlands Antilles
 n.a. forenta stater,United States of America (other)
 nach der nieder-elbe,World (via Germany (lower Elbe))
@@ -5725,7 +5725,7 @@ newfoundland and coast of labrador,Newfoundland and Labrador (Newfoundland)
 newfoundland and coast of labrador (british north america),Newfoundland and Labrador (Newfoundland)
 newfoundland and labrador,Newfoundland and Labrador (Newfoundland)
 newfoundland_preferential,Newfoundland and Labrador (Newfoundland) (other)
-nezinamas valstis,Other countries
+nezinamas valstis,World (other)
 niassaland brytyjski,Malawi (Nyasaland) (British Central Africa Protectorate)
 niassalandia,Malawi (Nyasaland) (British Central Africa Protectorate)
 nicaragua,Nicaragua
@@ -6024,7 +6024,7 @@ oldenburg und wilhelmshafen,Oldenburg & Wilhelmshaven
 oldenburgh and kniphausen (germany),Kniphausen & Oldenburg
 oman,Oman (Sultanate of Muscat and Oman)
 oman and muscat,Oman (Sultanate of Muscat and Oman)
-önnur lönd,Other countries
+önnur lönd,World (other)
 ontario,Ontario (Upper Canada)
 ontario and quebec,Ontario (Upper Canada) & Quebec (Lower Canada)
 ontario and quebec (north america),Ontario (Upper Canada) & Quebec (Lower Canada)
@@ -6104,7 +6104,7 @@ ostpolen,Kresy
 østrig,Austria
 østrig-ungarn,Austria-Hungary (Austrian Empire)
 othe usa possessions,American Colonies (other)
-other,Other countries
+other,World (other)
 other (british west indies),British West Indies (other)
 other (pacific islands - foreign),Pacific Islands (other)
 other africa,Africa (other)
@@ -6170,8 +6170,8 @@ other carib. insular countries,West Indies (other)
 other central america,Central America (other)
 other central american countries,Central America (other)
 other chinese ports,People's Republic of China (China) (other)
-other countries,Other countries
-other countries (including east indies),Other countries
+other countries,World (other)
+other countries (including east indies),World (other)
 other countries in africa,Africa (other)
 other countries in america,America (other)
 other countries in asia,Asia (other)
@@ -6182,7 +6182,7 @@ other countries in oceania,Oceania (other)
 other countries in south america,Southern America (other)
 other countries in the far east,Eastern Asia (other)
 other countries of america,America (other)
-other country,Other countries
+other country,World (other)
 other danish possessions,Danish Colonies (other)
 other dutch east indies,Indonesia (Dutch East Indies) (other)
 other dutch islands,Indonesia (Dutch East Indies) (other)
@@ -6200,21 +6200,21 @@ other east indies,East Indies (other)
 other europe,Europe (other)
 other european countries,Europe (other)
 other european possessions,British Europe (other)
-other foreign,Other countries
+other foreign,World (other)
 other foreign africa,Africa (other)
 other foreign asia,Asia (other)
 other foreign australasia,Oceania (other)
-other foreign countries,Other countries
-other foreign countries (n.o.d.),Other countries
-other foreign countries (non british),Other countries (non British)
-other foreign countries (non europe),Other countries
+other foreign countries,World (other)
+other foreign countries (n.o.d.),World (other)
+other foreign countries (non british),World (other than British)
+other foreign countries (non europe),World (other)
 other foreign countries in africa,Africa (other)
 other foreign countries in america,America (other)
 other foreign countries in asia,Asia (other)
 other foreign countries in australasia,Oceania (other)
-other foreign country,Other countries
+other foreign country,World (other)
 other foreign pacific islands,Pacific Islands (other)
-other foreign places,Other countries
+other foreign places,World (other)
 other foreign west african ports,Western Africa (other)
 other foreign west indies,West Indies (other)
 other frech africa,French Africa (other)
@@ -6248,8 +6248,8 @@ other parts of the american continent,America (other)
 other parts of the british empire,British Colonies (other)
 other parts of the malay peninsula (foreign),Malaysia (British Malaya) (other)
 other parts of the malay peninsula (foreign) (c),Malaysia (British Malaya) (other)
-other places,Other countries
-other ports,Other countries
+other places,World (other)
+other ports,World (other)
 other ports in africa,Africa (other)
 other ports in asia,Asia (other)
 other ports in the pacific,Pacific Ports
@@ -6280,7 +6280,7 @@ other west india islands,West Indies (other)
 other west indies,West Indies (other)
 other west indies islands,West Indies (other)
 other west. equat. afri. count.,Equatorial Western Africa (other)
-others,Other countries
+others,World (other)
 others in africa,Africa (other)
 others in america,America (other)
 others in asia,Asia (other)
@@ -6303,7 +6303,7 @@ otras procedencias,World (other)
 otro países,World (other)
 otros destinos,World (other)
 otros paises,World (other)
-otros países,Other countries
+otros países,World (other)
 otros paises americanos,America (other)
 otros paises asiaticos,Asia (other)
 otros países de africa,Africa (other)
@@ -6312,16 +6312,16 @@ otros países de asia,Asia (other)
 otros países de europa,Europe (other)
 otros países de oceania,Oceania (other)
 otros paises europeos,Europe (other)
-otros países extranjeros,Other countries
+otros países extranjeros,World (other)
 ott,Turkey (Ottoman Empire)
 ottoman empire/turkey,Turkey (Ottoman Empire)
 oubangui-chari,Central African Republic (Ubangi Shari)
 oubangui-chari et tchad,Central African Republic (Ubangi Shari) & Chad
 oudjda,Oujda
 outras possessoes britannicas,British Colonies (other)
-outros países,Other countries
+outros países,World (other)
 outros paizes,World (other)
-outros territórios,Other countries
+outros territórios,World (other)
 over seas,***NA
 overig afrika,Africa (other)
 overig amerika,America (other)
@@ -6466,11 +6466,11 @@ parcel mails from all countries,***NA
 parcel post,***NA
 parcels post,***NA
 parejas francijas kol,French Colonies (other)
-parejas valstis,Other countries
+parejas valstis,World (other)
 parme et plaisance,Parma
-parme et plaisance et autres,Other countries & Parma & Piacenza
+parme et plaisance et autres,Parma & Piacenza & World (other)
 "parme, modène, lucques, toscane et etats romains",Lucca & Modena & Papal States & Parma & Tuscany
-"parme, plaisance et autres",Other countries & Parma & Piacenza
+"parme, plaisance et autres",Parma & Piacenza & World (other)
 passengers office,***NA
 patagonia,Patagonia
 patagonia: ports on the pacific,Patagonia
@@ -6488,7 +6488,7 @@ pays de l'extrême-orient,Eastern Asia
 pays de la méditerrannée,Mediterranean Sea
 pays de la plata,Argentina (La Plata)
 pays de la sainte couronne hongroise,Hungary
-pays divers,Other countries
+pays divers,World (other)
 pays divers d'afrique,Africa (other)
 pays divers d'amérique,America (other)
 pays divers d’amérique,America (other)
@@ -6496,14 +6496,14 @@ pays divers d'asie,Asia (other)
 pays divers d’asie,Asia (other)
 pays divers d'europe,Europe (other)
 pays divers d'extrême-orient,Asia (other)
-pays divers et provisions de bord,Other countries
-pays étrangers,Other countries
+pays divers et provisions de bord,World (other)
+pays étrangers,World (other)
 pays indéterminé,Unknown
-pays non dénommés,Other countries
+pays non dénommés,World (other)
 pays non dénommés (colonies),French Colonies (other)
-pays non dénommés et provisions de bord,Other countries
-pays non déterminés,Other countries
-pays non-indiqués,Other countries
+pays non dénommés et provisions de bord,World (other)
+pays non déterminés,World (other)
+pays non-indiqués,World (other)
 pays rhénans occupés,Rhineland
 pays scandinaves,Scandinavia
 pays- bas,Netherlands
@@ -7073,14 +7073,14 @@ prince edward isles,Prince Edward Is.
 principauté danube,Moldavia & Wallachia
 principautés danubiennes,Moldavia & Wallachia
 principe,Principe
-procedencias e destinos diversos,Other countries
+procedencias e destinos diversos,World (other)
 procedências e destinos nõ mencionados,Unknown
-procedencias ignoradas,Other countries
+procedencias ignoradas,World (other)
 procedencias não mencionadas,Unknown
 "procedencias não mencionadas (fazendas demoradas, arrojos do mar, etc.)",Unknown
 "procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",Unknown
 "procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes)",Unknown
-procendencias diversas,Other countries
+procendencias diversas,World (other)
 protected malay states,Johore & Kedah & Kelantan & Perlis & Trengganu
 protectorat de la république française au maroc,Morocco
 protectorate of northern nigeria,Northern Nigeria (British Nigeria)
@@ -7088,9 +7088,9 @@ protectorate of south-west africa,Namibia (South West Africa) (German South West
 protectorate of southern nigeria,Southern Nigeria (Niger Coast Protectorate)
 protectorate of southern nigeria (west africa),Southern Nigeria (Niger Coast Protectorate)
 protectorate of zanzibar,Zanzibar
-provenienze e destinationi varie,Other countries
-provenienze e destinazioni varie,Other countries
-provenienze varie,Other countries
+provenienze e destinationi varie,World (other)
+provenienze e destinazioni varie,World (other)
+provenienze varie,World (other)
 province d'ontario,Ontario (Upper Canada)
 province de la colombie britannique,British Columbia
 province de la nouvelle-ecosse,Nova Scotia
@@ -7138,18 +7138,18 @@ prusse et oldenbourg (voie de mer),Oldenburg & Prussia
 prusse(memel),Klaipėda (Memel)
 prusse**,Prussia
 prussia,Prussia
-prussia &c,Other countries & Prussia
-prussia and all other,Other countries & Prussia
+prussia &c,Prussia & World (other)
+prussia and all other,Prussia & World (other)
 prussia and all other north german,North Germany & Prussia
 prussia and all other north germany,North Germany & Prussia
-"prussia, &c",Other countries & Prussia
+"prussia, &c",Prussia & World (other)
 puerta plata,Puerto Plata
 puerto rico,Puerto Rico
 "puerto rico,am. virginøyer",Puerto Rico & Virgin Islands (Danish West Indies)
 puertos barrios,Unknown
 puertos no denominados,Unknown
 puissance du canada,Canada (Province of Canada)
-puissances étrangères (sans france),Other countries
+puissances étrangères (sans france),World (other)
 pungah,Pungah
 punta-arénas,Punta Arenas
 punto franco fiume,Fiume
@@ -7291,7 +7291,7 @@ rhodesia,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodésia,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodesia ; andre britiske områder ; portugisiske bes. i afrika,British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia)
 "rhodesia, enz.",Zimbabwe (Rhodesia) (Southern Rhodesia)
-"rhodesia, n.e., and other surrounding territories",Other countries & Zimbabwe (Rhodesia) (Southern Rhodesia)
+"rhodesia, n.e., and other surrounding territories",Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other)
 "rhodesia, southern",Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodesie,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rhodésie,Zimbabwe (Rhodesia) (Southern Rhodesia)
@@ -7775,7 +7775,7 @@ ships' stores,***NA
 ships' stores and bunkers,***NA
 ships' use,***NA
 shs,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
-shtete tjera,Other countries
+shtete tjera,World (other)
 shtetet e b. te amerikes,United States of America
 siam,Thailand (Siam)
 siam (bangkok),Thailand (Siam)
@@ -8064,7 +8064,7 @@ spanyolország,Spain
 specie,Species
 spetsbergen,Spitsbergen
 spitsbergen,Spitsbergen
-"spitzbergen, bäreninsel, jan mayen u. anderwärts nicht genan. länder",Other countries
+"spitzbergen, bäreninsel, jan mayen u. anderwärts nicht genan. länder",World (other)
 spo. státy. amer.,United States of America
 spojene staty americke,United States of America
 sri lanka,Sri Lanka (Ceylon)
@@ -8245,7 +8245,7 @@ suède et danemark,Denmark & Sweden
 suède et norvège,Norway & Sweden
 suède et norvège*,Norway & Sweden
 suède et norvège**,Norway & Sweden
-"suède, allemagne, belgique, maroc, perse, autres pays",Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden
+"suède, allemagne, belgique, maroc, perse, autres pays",Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other)
 "suède, danemark",Denmark & Sweden
 "suède, norvège",Norway & Sweden
 "suède, norvège et danemarck",Denmark & Norway & Sweden
@@ -8646,7 +8646,7 @@ tunis (french possession),Tunisia (Regency of Tunis)
 tunis and tripoli,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
 tunis et alger,Algeria (Regency of Algiers) & Tunisia (Regency of Tunis)
 tunis et tripoli,Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis)
-"tunis, other countries",Other countries & Tunisia (Regency of Tunis)
+"tunis, other countries",Tunisia (Regency of Tunis) & World (other)
 tunis**,Tunisia (Regency of Tunis)
 tunisa,Tunisia (Regency of Tunis)
 tunisi,Tunisia (Regency of Tunis)
@@ -9084,10 +9084,10 @@ vancouver's island (north america),Vancouver
 varer fra og til frihavnen,Free ports
 varer og til frilagerne,***NA
 "varer, ind- og udførte fra og til frilagerne, varer med skibe, ind- og udklarerede fra og til østersøen, nordsøen…",Free entrepots & Baltic Ports & North Sea
-varias naciones,Other countries
-varios,Other countries
-varios paises,Other countries
-varios puertos,Other countries
+varias naciones,World (other)
+varios,World (other)
+varios paises,World (other)
+varios puertos,World (other)
 västindien,West Indies
 västindiska öarna,West Indies
 västindiska öarna.,West Indies
@@ -9433,8 +9433,8 @@ united states of america (pacific ports),United States of America (Pacific Coast
 other holland indian seas,Dutch India (other)
 other portuguese west african ports,Portuguese Western Africa (other)
 other portuguese east african ports,Portuguese Eastern Africa (other)
-states over the border (non british),Other countries (non British)
-states over the border (british),Other countries (British)
+states over the border (non british),World (other than British)
+states over the border (british),World (other) (British)
 british west african settlements,British Western Africa
 ladrone islands,Mariana Is.
 angra pequena,Angra Pequena
@@ -9594,7 +9594,7 @@ beh beach,Bey-Beach
 crépee,Unknown
 leeward,Leeward Coast of Africa
 loango,Loango
-various ports,Other countries
+various ports,World (other)
 whydah,Whydah
 windward,Windward Coast of Africa
 kroo coast,Kroo Coast
@@ -9609,7 +9609,7 @@ bonny,Bonny River
 cape palmas,Cape Palmas
 badagry,Badagry
 france & holland & portugal & united states,France & Netherlands & Portugal & United States of America
-foreign countries (other),Other countries
+foreign countries (other),World (other)
 portugal & france,France & Portugal
 old calabar,Old Calabar (Efik)
 rivers (oil),Oil Rivers Protectorate

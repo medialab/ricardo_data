@@ -37,8 +37,8 @@ id,RICname_group,RICname_part
 36,Aden & Kenya (British East Africa Protectorate),Kenya (British East Africa Protectorate)
 37,Aden & Mauritius,Aden
 38,Aden & Mauritius,Mauritius
-39,Aden & Other countries,Aden
-40,Aden & Other countries,Other countries
+39,Aden & World (other),Aden
+40,Aden & World (other),World (other)
 41,Aden & Perim I.,Aden
 42,Aden & Perim I.,Perim I.
 43,Aden & Straits Settlements,Aden
@@ -426,22 +426,22 @@ id,RICname_group,RICname_part
 425,Beirut & Egypt Arab Republic (Egypt) & Syria,Syria
 426,Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),Belgium
 427,Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
-428,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,Belgium
-429,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,Germany (Zollverein)
-430,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,Iran (Persia)
-431,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,Morocco
-432,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,Other countries
-433,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,Sweden
+428,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),Belgium
+429,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),Germany (Zollverein)
+430,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),Iran (Persia)
+431,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),Morocco
+432,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),World (other)
+433,Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),Sweden
 434,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Belgium
 435,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Germany (Zollverein)
 436,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Italy
 437,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Netherlands
 438,Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),Russia (USSR)
-439,Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,Belgium
-440,Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,Germany (Zollverein)
-441,Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,Morocco
-442,Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,Other countries
-443,Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,Spain
+439,Belgium & Germany (Zollverein) & Morocco & Spain & World (other),Belgium
+440,Belgium & Germany (Zollverein) & Morocco & Spain & World (other),Germany (Zollverein)
+441,Belgium & Germany (Zollverein) & Morocco & Spain & World (other),Morocco
+442,Belgium & Germany (Zollverein) & Morocco & Spain & World (other),World (other)
+443,Belgium & Germany (Zollverein) & Morocco & Spain & World (other),Spain
 444,Belgium & Germany (Zollverein) & Netherlands,Belgium
 445,Belgium & Germany (Zollverein) & Netherlands,Germany (Zollverein)
 446,Belgium & Germany (Zollverein) & Netherlands,Netherlands
@@ -770,10 +770,10 @@ id,RICname_group,RICname_part
 769,Chennai (Madras) & India (Coast),India (Coast)
 770,Chennai (Madras) & Kolkata (Calcutta),Chennai (Madras)
 771,Chennai (Madras) & Kolkata (Calcutta),Kolkata (Calcutta)
-772,Chile & Cuba & Other countries & Peru,Chile
-773,Chile & Cuba & Other countries & Peru,Cuba
-774,Chile & Cuba & Other countries & Peru,Other countries
-775,Chile & Cuba & Other countries & Peru,Peru
+772,Chile & Cuba & Peru & World (other),Chile
+773,Chile & Cuba & Peru & World (other),Cuba
+774,Chile & Cuba & Peru & World (other),World (other)
+775,Chile & Cuba & Peru & World (other),Peru
 776,Chile & India,Chile
 777,Chile & India,India
 778,Chile & Patagonia (Pacific Coast),Chile
@@ -881,10 +881,10 @@ id,RICname_group,RICname_part
 880,Cuba & Dominican Republic (Santo Domingo) & Haiti,Cuba
 881,Cuba & Dominican Republic (Santo Domingo) & Haiti,Dominican Republic (Santo Domingo)
 882,Cuba & Dominican Republic (Santo Domingo) & Haiti,Haiti
-883,Cuba & Haiti & Other countries & Puerto Rico,Cuba
-884,Cuba & Haiti & Other countries & Puerto Rico,Haiti
-885,Cuba & Haiti & Other countries & Puerto Rico,Other countries
-886,Cuba & Haiti & Other countries & Puerto Rico,Puerto Rico
+883,Cuba & Haiti & Puerto Rico & World (other),Cuba
+884,Cuba & Haiti & Puerto Rico & World (other),Haiti
+885,Cuba & Haiti & Puerto Rico & World (other),World (other)
+886,Cuba & Haiti & Puerto Rico & World (other),Puerto Rico
 887,Cuba & Haiti & Puerto Rico,Cuba
 888,Cuba & Haiti & Puerto Rico,Haiti
 889,Cuba & Haiti & Puerto Rico,Puerto Rico
@@ -1649,9 +1649,9 @@ id,RICname_group,RICname_part
 1648,Lisbon & Porto,Porto
 1649,Lithuania & Memel,Lithuania
 1650,Lithuania & Memel,Memel
-1651,Lübeck & Mecklenburg Schwerin & Other countries,Lübeck
-1652,Lübeck & Mecklenburg Schwerin & Other countries,Mecklenburg Schwerin
-1653,Lübeck & Mecklenburg Schwerin & Other countries,Other countries
+1651,Lübeck & Mecklenburg Schwerin & World (other),Lübeck
+1652,Lübeck & Mecklenburg Schwerin & World (other),Mecklenburg Schwerin
+1653,Lübeck & Mecklenburg Schwerin & World (other),World (other)
 1654,Lucca & Modena & Papal States & Parma & Tuscany,Lucca
 1655,Lucca & Modena & Papal States & Parma & Tuscany,Modena
 1656,Lucca & Modena & Papal States & Parma & Tuscany,Papal States
@@ -1882,17 +1882,17 @@ id,RICname_group,RICname_part
 1881,Oman (Sultanate of Muscat and Oman) & Zanzibar,Zanzibar
 1882,Ontario (Upper Canada) & Quebec (Lower Canada),Ontario (Upper Canada)
 1883,Ontario (Upper Canada) & Quebec (Lower Canada),Quebec (Lower Canada)
-1884,Other countries & Parma & Piacenza,Other countries
-1885,Other countries & Parma & Piacenza,Parma
-1886,Other countries & Parma & Piacenza,Piacenza
-1887,Other countries & Prussia,Other countries
-1888,Other countries & Prussia,Prussia
-1889,Other countries & Tunisia (Regency of Tunis),Other countries
-1890,Other countries & Tunisia (Regency of Tunis),Tunisia (Regency of Tunis)
-1891,Other countries & West Indies,Other countries
-1892,Other countries & West Indies,West Indies
-1893,Other countries & Zimbabwe (Rhodesia) (Southern Rhodesia),Other countries
-1894,Other countries & Zimbabwe (Rhodesia) (Southern Rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
+1884,Parma & Piacenza & World (other),World (other)
+1885,Parma & Piacenza & World (other),Parma
+1886,Parma & Piacenza & World (other),Piacenza
+1887,Prussia & World (other),World (other)
+1888,Prussia & World (other),Prussia
+1889,Tunisia (Regency of Tunis) & World (other),World (other)
+1890,Tunisia (Regency of Tunis) & World (other),Tunisia (Regency of Tunis)
+1891,West Indies & World (other),World (other)
+1892,West Indies & World (other),West Indies
+1893,Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),World (other)
+1894,Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),Zimbabwe (Rhodesia) (Southern Rhodesia)
 1895,Pacific Islands & Peru,Pacific Islands
 1896,Pacific Islands & Peru,Peru
 1897,Pacific Islands & Vanuatu (New Hebrides),Pacific Islands
