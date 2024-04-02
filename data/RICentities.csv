@@ -483,8 +483,8 @@ British South Atlantic,colonial_area,Africa,,,United Kingdom
 British South Western Africa,colonial_area,Africa,,,United Kingdom
 British Southern Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
 British Southern Africa (other),city/part_of,Africa,,,United Kingdom
-British Southern Africa (other) & Cape Colony (Cape of Good Hope),group,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,United Kingdom
-British Southern Africa & Eastern Africa & Western Africa,group,Africa,,,
+Cape Colony (Cape of Good Hope) & South Africa (other),group,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,United Kingdom
+Eastern Africa & South Africa & Western Africa,group,Africa,,,
 British Southern America,colonial_area,America,,BritishSouthAmerica,United Kingdom
 British Southern America (other),city/part_of,America,,BritishSouthAmericaother,United Kingdom
 British Southern America & British West Indies & Guyana (British Guiana),group,America,,,United Kingdom
@@ -2294,7 +2294,6 @@ World (land and river),geographical_area,World,,Worldlandandriver,
 World (land),city/part_of,World,,,World
 World (other than British),city/part_of,World,,WorldotherthanBritish,
 World (other than Kingdom of Sardinia (land)),city/part_of,World,,WorldotherthanKingdomofSardinialand,
-World (other),city/part_of,World,,Othercountries,
 World (other),city/part_of,World,,Worldother,
 World (other) (British),city/part_of,Africa,,,United Kingdom
 World (other) (Foreign produce),city/part_of,World,,,Other countries

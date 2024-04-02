@@ -592,11 +592,11 @@ id,RICname_group,RICname_part
 591,British Northern America & United States of America,United States of America
 592,British Oceania & New Zealand,British Oceania
 593,British Oceania & New Zealand,New Zealand
-594,British Southern Africa (other) & Cape Colony (Cape of Good Hope),British Southern Africa (other)
-595,British Southern Africa (other) & Cape Colony (Cape of Good Hope),Cape Colony (Cape of Good Hope)
-596,British Southern Africa & Eastern Africa & Western Africa,British Southern Africa
-597,British Southern Africa & Eastern Africa & Western Africa,Eastern Africa
-598,British Southern Africa & Eastern Africa & Western Africa,Western Africa
+594,Cape Colony (Cape of Good Hope) & South Africa (other),Cape Colony (Cape of Good Hope)
+595,Cape Colony (Cape of Good Hope) & South Africa (other),South Africa (other)
+596,Eastern Africa & South Africa & Western Africa,Eastern Africa
+597,Eastern Africa & South Africa & Western Africa,South Africa
+598,Eastern Africa & South Africa & Western Africa,Western Africa
 599,British Southern America & British West Indies & Guyana (British Guiana),British Southern America
 600,British Southern America & British West Indies & Guyana (British Guiana),British West Indies
 601,British Southern America & British West Indies & Guyana (British Guiana),Guyana (British Guiana)

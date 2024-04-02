@@ -66,7 +66,7 @@ africa (p.n.e.),Africa (other)
 africa (west coast),Western Africa
 africa alemana,German Africa
 africa austral,Southern Africa
-africa austral inglesa,British Southern Africa
+africa austral inglesa,South Africa
 africa belga,Belgian Africa
 africa british east,British Eastern Africa
 africa del sur,South Africa
@@ -87,14 +87,14 @@ africa francesa,French Africa
 africa francesas,French Africa
 africa generally,Africa (other)
 africa inglesa,British Africa
-africa inglesa del sur,British Southern Africa
+africa inglesa del sur,South Africa
 africa italiana,Italian Africa
-africa merid. britannica,British Southern Africa
+africa merid. britannica,South Africa
 africa merid. francese,French Southern Africa
 africa merid. portoghese,Portuguese Southern Africa
-áfrica meridional británica,British Southern Africa
-africa meridionale britannica,British Southern Africa
-africa meridonal inglesa,British Southern Africa
+áfrica meridional británica,South Africa
+africa meridionale britannica,South Africa
+africa meridonal inglesa,South Africa
 africa occidental francesa,French West Africa
 africa oriental inglesa,British Eastern Africa
 africa portoghese,Portuguese Africa
@@ -169,14 +169,14 @@ afrique allemande,German Africa
 afrique anglaise,British Africa
 afrique anglaise est,British Eastern Africa
 afrique anglaise ouest,British Western Africa
-afrique anglaise sud,British Southern Africa
+afrique anglaise sud,South Africa
 afrique australe,Southern Africa
-afrique australe britannique,British Southern Africa
+afrique australe britannique,South Africa
 "afrique australe, reste de l'afrique",Southern Africa (other)
 afrique britan.,British Africa
 afrique britannique,British Africa
 afrique du sud,South Africa
-afrique du sud britannique,British Southern Africa
+afrique du sud britannique,South Africa
 afrique du sud-ouest,Namibia (South West Africa) (German South West Africa)
 afrique equat franc,French Equatorial Africa
 afrique equator francaise,French Equatorial Africa
@@ -466,7 +466,7 @@ andra britt. öar i stilla oceanen,British Oceania (other)
 andre brit. bes. i v.india,British West Indies (other)
 andre brit. besiddelser,British Colonies (other)
 andre britiske besittelser i asia,British Asia (other)
-andre britiske besittelser i syd-afrika m. v.,British Southern Africa (other)
+andre britiske besittelser i syd-afrika m. v.,South Africa (other)
 andre britiske områder,British Colonies (other)
 "andre europ. land, omfatende albania og andorra",Europe (other)
 andre europeiske land,Europe (other)
@@ -1390,7 +1390,7 @@ brit. middelhavsbesidd,British Mediterranean Sea
 "brit. middelhavsbesidd., cypern",Cyprus
 brit. nordamerika,British Northern America
 brit. possessions in africa,British Africa
-brit. sydafrika,British Southern Africa
+brit. sydafrika,South Africa
 britanie v. s irskem,United Kingdom
 britanie velka,United Kingdom
 "britanijas kol, nezin",British Colonies (other)
@@ -1413,7 +1413,7 @@ britisch oost-afrika,British Eastern Africa
 britisch ost-indien,British East Indies
 britisch ost-indien singapore,Singapore
 britisch ostafrika,British Eastern Africa
-britisch südafrika,British Southern Africa
+britisch südafrika,South Africa
 britisch und schwedisch westindien,British West Indies & Swedish West Indies
 britisch west-indien,British West Indies
 britisch westafrika,British Western Africa
@@ -1424,7 +1424,7 @@ britisch-honduras,Belize (British Honduras)
 britisch-indie (incl burma),India
 britisch-malaya,Malaysia (British Malaya)
 britisch-ost-aquatorial-afrika,British Equatorial Eastern Africa
-britisch-sudafrika,British Southern Africa
+britisch-sudafrika,South Africa
 britisch-west-aquatorial-afrika,British Equatorial Western Africa
 british africa,British Africa
 british africa (total),British Africa
@@ -1586,7 +1586,7 @@ british solomon islands protectorate,Solomon Islands (British Solomon Islands Pr
 british somaliland,Somaliland Republic (British Somaliland)
 british somaliland (somaliland republic),Somaliland Republic (British Somaliland)
 british soudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
-british south africa,British Southern Africa
+british south africa,South Africa
 british south africa (including nyasaland prot.),British Southern Africa
 british south africa (union),South Africa
 british south african colonies,British Southern Africa
@@ -1634,7 +1634,7 @@ britisk ostindia,British East Indies
 britisk ostindien,British East Indies
 "britisk ostindien , kina, siam, forøvrig",Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
 "britisk ostindien, siam, kina, forøvrig",Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam)
-britisk sydafrika,British Southern Africa
+britisk sydafrika,South Africa
 britisk vest-afrika,British Western Africa
 britiska nordamerika,British Northern America
 britiske besiddelser i nordamerika,British Northern America
@@ -1672,7 +1672,7 @@ britt. nordamerica,British Northern America
 britt. nordamerica (med bermudasöarna),British Northern America
 britt. nordamerika,British Northern America
 britt. ostafrika,British Eastern Africa
-britt. sydafrika,British Southern Africa
+britt. sydafrika,South Africa
 brittiska framre-indien,India
 brittiska guyana,Guyana (British Guiana)
 brittiska honduras,Belize (British Honduras)
@@ -1686,7 +1686,7 @@ brittiska ostafrika,British Eastern Africa
 brittiska ostindien,British East Indies
 brittiska ostindien och brittiska malakka,India & Malaysia (British Malaya)
 brittiska somalilandet,Somaliland Republic (British Somaliland)
-brittiska sydafrika,British Southern Africa
+brittiska sydafrika,South Africa
 brittiska sydvästafrika,British South Western Africa
 brittiska togo,British Togoland
 brittiska vastafrika,British Western Africa
@@ -1848,7 +1848,7 @@ cape lopez,Cape Lopez
 cape of good hope,Cape Colony (Cape of Good Hope)
 cape of good hope (south africa),Cape Colony (Cape of Good Hope)
 cape of good hope including kaffraria (south africa),Cape Colony (Cape of Good Hope)
-"cape of good hope, and british possessions in south africa",British Southern Africa (other) & Cape Colony (Cape of Good Hope)
+"cape of good hope, and british possessions in south africa",Cape Colony (Cape of Good Hope) & South Africa (other)
 cape of verds,Cape Verde
 cape town,Cape Town
 cape verd islands,Cape Verde
@@ -7933,7 +7933,7 @@ south australia,South Australia
 south australia (australia),South Australia
 south australia and northern territory,Australian Northern Territory & South Australia
 "south australia, exclusive of northern territory",South Australia
-south british africa,British Southern Africa
+south british africa,South Africa
 south china,People's Republic of China (China) (South)
 south rhodesia,Zimbabwe (Rhodesia) (Southern Rhodesia)
 south sea,Pacific Islands
@@ -8339,7 +8339,7 @@ swedish west indies. st. barths,St. Barthelemy
 "swedish, danish, dutch, french and spanish west indies",French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies)
 switzerland,Switzerland
 syd-afrika,South Africa
-syd-africa andre britiske områder,British Southern Africa (other)
+syd-africa andre britiske områder,South Africa (other)
 syd-afrika ellers,South Africa (other)
 syd-afrika-sambandet,South Africa
 syd-amerika ellers,Southern America (other)
@@ -9122,7 +9122,7 @@ vessels derelict,***NA
 vessels in distress,***NA
 vessels wrecked,***NA
 vestafrika,Western Africa
-"vestafrika, britisk sydafrika, østafrika",British Southern Africa & Eastern Africa & Western Africa
+"vestafrika, britisk sydafrika, østafrika",Eastern Africa & South Africa & Western Africa
 vestindia,West Indies
 vestindia andre brit. besiddelser,British West Indies (other)
 vestindia ellers,West Indies (other)
