@@ -280,6 +280,14 @@ id,RICname_group,RICname_part
 279,Assam & Bengal & Bihar & Odisha,Bengal
 280,Assam & Bengal & Bihar & Odisha,Bihar
 281,Assam & Bengal & Bihar & Odisha,Odisha
+,Assinie & Congo (Brazzaville) (French Congo) (Middle Congo) & Grand-Bassam,Assinie
+,Assinie & Congo (Brazzaville) (French Congo) (Middle Congo) & Grand-Bassam,Congo (Brazzaville) (French Congo) (Middle Congo)
+,Assinie & Congo (Brazzaville) (French Congo) (Middle Congo) & Grand-Bassam,Grand-Bassam
+,Assinie & Grand-Bassam,Assinie
+,Assinie & Grand-Bassam,Grand-Bassam
+,Assinie & Grand-Bassam & Senegal,Assinie
+,Assinie & Grand-Bassam & Senegal,Grand-Bassam
+,Assinie & Grand-Bassam & Senegal,Senegal
 282,Auckland Is. & Fiji,Auckland Is.
 283,Auckland Is. & Fiji,Fiji
 284,Australia (other) & Christmas I.,Australia (other)
@@ -828,8 +836,6 @@ id,RICname_group,RICname_part
 827,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 828,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,French Africa (other)
 829,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Senegal
-830,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea,Congo (Brazzaville) (French Congo) (Middle Congo)
-831,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea,French Gulf of Guinea
 832,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 833,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,French West Africa (other)
 834,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Senegal
@@ -960,8 +966,6 @@ id,RICname_group,RICname_part
 959,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi,Ruanda-Urundi
 960,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Uganda,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 961,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Uganda,Uganda
-962,Denmark & Denmark Colonies,Denmark
-963,Denmark & Denmark Colonies,Denmark Colonies
 964,Denmark & Faeroe Is.,Denmark
 965,Denmark & Faeroe Is.,Faeroe Is.
 966,Denmark & Faeroe Is. & Greenland & Iceland,Denmark
@@ -1228,8 +1232,6 @@ id,RICname_group,RICname_part
 1227,French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),Surinam (Dutch Guiana)
 1228,French Guiana & St. Pierre and Miquelon,French Guiana
 1229,French Guiana & St. Pierre and Miquelon,St. Pierre and Miquelon
-1230,French Gulf of Guinea & Senegal,French Gulf of Guinea
-1231,French Gulf of Guinea & Senegal,Senegal
 1232,French India & French Indochina,French India
 1233,French India & French Indochina,French Indochina
 1234,French India & India & Portuguese India,French India
@@ -1281,8 +1283,8 @@ id,RICname_group,RICname_part
 1280,German Africa & German Oceania,German Oceania
 1281,German Austria & Italian Austria,German Austria
 1282,German Austria & Italian Austria,Italian Austria
-1283,German China Leased Territory & German Oceania,German China Leased Territory
-1284,German China Leased Territory & German Oceania,German Oceania
+1283,German China & German Oceania,German China
+1284,German China & German Oceania,German Oceania
 1285,German Colonies & Germany (Zollverein),German Colonies
 1286,German Colonies & Germany (Zollverein),Germany (Zollverein)
 1287,German East Africa & Germany (Zollverein),German East Africa
@@ -1537,17 +1539,17 @@ id,RICname_group,RICname_part
 1536,Jakarta (Batavia) & Singapore,Singapore
 1537,Jamaica & Jamaica Dependencies,Jamaica
 1538,Jamaica & Jamaica Dependencies,Jamaica Dependencies
-1539,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Japan
-1540,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Japanese China Leased Territory
-1541,Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
+1539,Japan & Japanese China & Republic of China (Taiwan) (Formosa),Japan
+1540,Japan & Japanese China & Republic of China (Taiwan) (Formosa),Japanese China
+1541,Japan & Japanese China & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
 1542,Japan & Korea (Chosen),Japan
 1543,Japan & Korea (Chosen),Korea (Chosen)
 1544,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),Japan
 1545,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),Korea (Chosen)
 1546,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
-1547,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Japan
-1548,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Kwangtung Territory (Leased)
-1549,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
+1547,Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa),Japan
+1548,Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa),Kwangtung Territory
+1549,Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa),Republic of China (Taiwan) (Formosa)
 1550,Japan & People's Republic of China (China),Japan
 1551,Japan & People's Republic of China (China),People's Republic of China (China)
 1552,Japan & People's Republic of China (China) & Thailand (Siam),Japan
@@ -1627,8 +1629,8 @@ id,RICname_group,RICname_part
 1626,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Kuwait
 1627,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),Oman (Sultanate of Muscat and Oman)
 1628,Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),United Arab Emirates (Trucial Oman)
-1629,Kwangtung Territory (Leased) & Manchukuo,Kwangtung Territory (Leased)
-1630,Kwangtung Territory (Leased) & Manchukuo,Manchukuo
+1629,Kwangtung Territory & Manchukuo,Kwangtung Territory
+1630,Kwangtung Territory & Manchukuo,Manchukuo
 1631,Labuan I. & Straits Settlements,Labuan I.
 1632,Labuan I. & Straits Settlements,Straits Settlements
 1633,Latakia (Alaouites) & Tripoli (Syria),Latakia (Alaouites)

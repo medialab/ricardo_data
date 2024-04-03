@@ -1511,7 +1511,7 @@ british india: indian merchandise,India (Domestic produce)
 british india: other,India (Foreign produce)
 british indien,India
 british islands,British West Indies
-british leased territory,British China Leased Territory
+british leased territory,British China
 british malay states,Malaysia (British Malaya)
 british malaya,Malaysia (British Malaya)
 british med possessions,British Mediterranean Sea
@@ -1998,10 +1998,10 @@ china rusa,Russian China
 "china, including hongkong and singapore",Hong Kong & People's Republic of China (China) & Singapore
 "china, japan",Japan & People's Republic of China (China)
 "china, japan &c.",Japan & People's Republic of China (China)
-"china, leased territory: british",British China Leased Territory
+"china, leased territory: british",British China
 "china, leased territory: french",Kwanchowan
-"china, leased territory: german",German China Leased Territory
-"china, leased territory: japanese",Japanese China Leased Territory
+"china, leased territory: german",German China
+"china, leased territory: japanese",Japanese China
 "china, treaty ports",Chinese Treaty Ports
 chine,People's Republic of China (China)
 chine (+ mongolie),Mongolia & People's Republic of China (China)
@@ -2564,7 +2564,7 @@ denmark (including iceland and greenland),Denmark & Greenland & Iceland
 denmark (including iceland and the faroe islands),Denmark & Faeroe Is. & Iceland
 denmark (including iceland and the raroe islands),Denmark & Faeroe Is. & Iceland
 denmark and danish west indies,Denmark & Virgin Islands (Danish West Indies)
-denmark and dependencies,Denmark & Denmark Colonies
+denmark and dependencies,Denmark & Faeroe Is. & Greenland & Iceland
 denmark and duchies of sleswick and holstein,Denmark & Holstein & Schleswig
 denmark and faroe,Denmark & Faeroe Is.
 denmark and iceland,Denmark & Iceland
@@ -3043,12 +3043,12 @@ etablissements français dans l'inde (mahé),Mahé
 etablissements français dans l'inde (pondichéry),Pondicherry
 etablissements français dans l'inde (yanaon),Yanaon
 etablissements français dans l'océanie,French Polynesia
-etablissements français dans le golfe de guinée,French Gulf of Guinea
+etablissements français dans le golfe de guinée,Assinie & Grand-Bassam
 etablissements français de l'océanie,French Polynesia
 etablissements français de la côte des somalis,Djibouti (Afar and Issas) (French Somaliland)
 etablissements français de la côte occidentale d'afrique,French West Africa
-etablissements français du golfe de guinée,French Gulf of Guinea
-etablissements français du golfe guinée,French Gulf of Guinea
+etablissements français du golfe de guinée,Assinie & Grand-Bassam
+etablissements français du golfe guinée,Assinie & Grand-Bassam
 etablissements français en océanie,French Polynesia
 établissements français en océanie,French Polynesia
 "etablissements français en océanie, autres",French Oceania (other)
@@ -3547,7 +3547,7 @@ german east africa (germanay),German East Africa
 german east africa conquered territories,German East Africa
 german eastern africa,German East Africa
 german empire,Germany (Zollverein)
-german leased territory,German China Leased Territory
+german leased territory,German China
 german new guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 german new guinea (and dependencies),New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies
 german new guinea (germanay),New Guinea (German New Guinea) (Kaiser Wilhelmsland)
@@ -3562,7 +3562,7 @@ german possessions in eastern africa,German East Africa
 german possessions in new guinea†,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 german possessions in oceania and africa,German Africa & German Oceania
 german possessions in the pacific,German Oceania
-german possessions in the pacific (including german leased territories in china),German China Leased Territory & German Oceania
+german possessions in the pacific (including german leased territories in china),German China & German Oceania
 german possessions in western africa*,German Western Africa
 german samoa,Samoa (Western Samoa) (German Samoa)
 german solomon islands,German Solomon Is.
@@ -3641,7 +3641,7 @@ gold coast colony,Ghana (Gold Coast)
 gold goast,Ghana (Gold Coast)
 goldkuste,Ghana (Gold Coast)
 golfe arabique,Persian Gulf
-golfe de guinée et congo,Congo (Brazzaville) (French Congo) (Middle Congo) & French Gulf of Guinea
+golfe de guinée et congo,Assinie & Congo (Brazzaville) (French Congo) (Middle Congo) & Grand-Bassam
 golfe persique,Persian Gulf
 golfe persique et la mecque,Mecca & Persian Gulf
 "golfe persique, bengale, inde",Bengal & India & Persian Gulf
@@ -4683,10 +4683,10 @@ jamaïque,Jamaica
 jap,Japan
 japan,Japan
 japán,Japan
-japan (including formosa and japanese leased terrirories in china),Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa)
-japan (including formosa and japanese leased territories in china),Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa)
+japan (including formosa and japanese leased terrirories in china),Japan & Japanese China & Republic of China (Taiwan) (Formosa)
+japan (including formosa and japanese leased territories in china),Japan & Japanese China & Republic of China (Taiwan) (Formosa)
 japan (including formosa),Japan & Republic of China (Taiwan) (Formosa)
-japan (including formosa) and kwantung,Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa)
+japan (including formosa) and kwantung,Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa)
 japan (m. formosa),Japan & Republic of China (Taiwan) (Formosa)
 japan and formosa,Japan & Republic of China (Taiwan) (Formosa)
 japan and karafuto (japanese possession),Japan & Southern Sakhalin I.
@@ -4700,9 +4700,9 @@ japan und russisch asien,Asian Russia & Japan
 "japan, china, french indies, etc.",French Indochina & Japan & People's Republic of China (China)
 "japan, korea & formosa",Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa)
 japana,Japan
-japanese china,Japan China
+japanese china,Japanese China
 japanese islands,Japan Islands
-japanese leased territory,Japanese China Leased Territory
+japanese leased territory,Japanese China
 japanese oceania,Japanese Oceania
 japanese pacific mandated territories,U. S. Pacific Trust Territories (South Seas Mandate)
 japanese possessions,Japanese Colonies
@@ -4921,7 +4921,7 @@ kosta-rika,Costa Rica
 kostarika,Costa Rica
 kotonou,Cotonou
 kouang-tchéou-ouan,Kwanchowan
-kouang-toung,Kwangtung Territory (Leased)
+kouang-toung,Kwangtung Territory
 koweit,Kuwait
 kraje am. pln. oddz. nie wym.,Northern America (other)
 kraje ameryki pólnocnej oddzielnie niewymienione,Northern America (other)
@@ -4941,15 +4941,15 @@ kurasao,Curacao
 kurdistan,Kurdistan
 kust van guinea,Guinea Coast
 kuwait,Kuwait
-kwan tung,Kwangtung Territory (Leased)
+kwan tung,Kwangtung Territory
 kwangchowwan leased territory,Kwanchowan
-kwantung,Kwangtung Territory (Leased)
-kwantung leased territory,Kwangtung Territory (Leased)
-kwantung peninsula,Kwangtung Territory (Leased)
-kwantung province,Kwangtung Territory (Leased)
-kwantung province (japanese possession),Kwangtung Territory (Leased)
-"kwantung, leased territory",Kwangtung Territory (Leased)
-kwatung province (japanese possession),Kwangtung Territory (Leased)
+kwantung,Kwangtung Territory
+kwantung leased territory,Kwangtung Territory
+kwantung peninsula,Kwangtung Territory
+kwantung province,Kwangtung Territory
+kwantung province (japanese possession),Kwangtung Territory
+"kwantung, leased territory",Kwangtung Territory
+kwatung province (japanese possession),Kwangtung Territory
 kwong chow wan,Kwanchowan
 kypras,Cyprus
 la grande comore,Grand Comoro
@@ -5203,9 +5203,9 @@ mandatsgebiet kamerun,British Cameroons & Cameroun (French Cameroons)
 mandatsgebiet togo,British Togoland & Togo (French Togoland)
 mandchoukouo,Manchukuo
 mandchourie,Manchuria
-mandchuokuo et kwantung,Kwangtung Territory (Leased) & Manchukuo
+mandchuokuo et kwantung,Kwangtung Territory & Manchukuo
 mandchuria,Manchuria
-mandsjoekwo en kwantoeng,Kwangtung Territory (Leased) & Manchukuo
+mandsjoekwo en kwantoeng,Kwangtung Territory & Manchukuo
 mandsjukuo,Manchukuo
 mandzuko,Manchukuo
 mandżuria,Manchuria
@@ -7712,7 +7712,7 @@ sénégal (marchandises françaises),Senegal (French produce)
 sénégal (saint-louis),Saint-Louis (Senegal)
 senegal and west coast of africa (excluding french congo),French West Africa & Senegal
 sénégal et dépendances,Senegal & Senegal Dependencies
-sénégal et établissement français du golfe de guinée,French Gulf of Guinea & Senegal
+sénégal et établissement français du golfe de guinée,Assinie & Grand-Bassam & Senegal
 senégal et établissements français de la côte occidentale d'afrique,French West Africa & Senegal
 sénégal et etablissements français de la côte occidentale d'afrique,French West Africa & Senegal
 "senegal, dakar",Dakar
@@ -9330,7 +9330,7 @@ zona del canal,Panama Canal Zone
 zona du canal panama,Panama Canal Zone
 zone du canal,Panama Canal Zone
 zone du canal de panama,Panama Canal Zone
-zone franche,French America Free Zone
+zone franche,French America
 zone franche (pays de gex et haute-savoie),Pays de Gex & Savoy
 zone franche (pays de gex et savoie neutralisée),Pays de Gex & Savoy
 zpetne zbozi,***NA
