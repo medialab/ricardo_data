@@ -485,8 +485,6 @@ British South Atlantic,colonial_area,Africa,,,United Kingdom
 British South Western Africa,colonial_area,Africa,,,United Kingdom
 British Southern Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
 British Southern Africa (other),city/part_of,Africa,,,United Kingdom
-Cape Colony (Cape of Good Hope) & South Africa (other),group,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,
-Eastern Africa & South Africa & Western Africa,group,Africa,,,
 British Southern America,colonial_area,America,,BritishSouthAmerica,United Kingdom
 British Southern America (other),city/part_of,America,,BritishSouthAmericaother,United Kingdom
 British Southern America & British West Indies & Guyana (British Guiana),group,America,,,
@@ -577,6 +575,7 @@ Cape Colony (Cape of Good Hope) & India,group,World,,CapeColonyCapeofGoodHope_In
 Cape Colony (Cape of Good Hope) & Mauritius,group,Africa,,CapeColonyCapeofGoodHope_Mauritius,
 Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,group,World,,CapeColonyCapeofGoodHope_Mauritius_NewSouthWales,
 Cape Colony (Cape of Good Hope) & Natal,group,Africa,,CapeColonyCapeofGoodHope_Natal,
+Cape Colony (Cape of Good Hope) & South Africa (other),group,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,
 Cape Colony (Cape of Good Hope) & Western Africa,group,Africa,,,
 Cape Lopez,city/part_of,Africa,,,Gabon
 Cape Palmas,city/part_of,Africa,,,Liberia
@@ -861,6 +860,7 @@ Eastern Africa,geographical_area,Africa,,EastAfrica,
 Eastern Africa (other),city/part_of,Africa,,EastAfricaother,
 Eastern Africa & Madagascar (Malagasy Republic),group,Africa,,,
 Eastern Africa & Mauritius,group,Africa,,,
+Eastern Africa & South Africa & Western Africa,group,Africa,,,
 Eastern Asia,geographical_area,Asia,,,
 Eastern Asia (other),city/part_of,Asia,,,
 Eastern Asia (other) & French India & Japan & People's Republic of China (China),group,Asia,,,
@@ -1140,7 +1140,7 @@ Guadeloupe & Martinique & Reunion (Bourbon I.),group,World,,Guadeloupe_Martiniqu
 Guadeloupe Dependencies,city/part_of,America,,,Guadeloupe
 Guam,GPH_entity,Oceania,985,Guam,
 Guam & Philippines,group,World,,Guam_Philippines,
-Guangzhou (Canton),city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Guangzhou (Canton),GPH_entity,Asia,7124,PeoplesRepublicofChinaChina,
 Guangzhou (Canton) & Manila,group,Asia,,GuangzhouCanton_Manila,
 Guatemala,GPH_entity,America,90,Guatemala,
 Guatemala & Mexico,group,America,,Guatemala_Mexico,
@@ -1351,7 +1351,7 @@ Key River,city/part_of,America,,,Ontario (Upper Canada)
 Khar,city/part_of,Africa,,Khar,Somalia
 Khiva,GPH_entity,Asia,7030,Khiva,
 Khorramshahr (Mohammerah),city/part_of,Asia,,KhorramshahrMohammerah,Turkey (Ottoman Empire)
-Kiauchau,GPH_entity,Asia,7220,Kiauchau,
+Kiauchau,GPH_entity,Asia,7120,Kiauchau,
 Kingdom of Sardinia,GPH_entity,Europe,324,KingdomofSardinia,
 Kingdom of Sardinia (continental),city/part_of,Europe,,KingdomofSardinialand,Kingdom of Sardinia
 Kingdom of Sardinia & Monaco,group,Europe,,KingdomofSardinia_Monaco,
@@ -1453,6 +1453,7 @@ Lucca & Papal States,group,Europe,,Lucca_PapalStates,
 Lucca & Tuscany,group,Europe,,Lucca_Tuscany,
 Lüneburg,city/part_of,Europe,,,Hanover
 Lunenburg,city/part_of,America,,,Nova Scotia
+Lüshun Port (Port Arthur),GPH_entity,Asia,7134,,
 Luxemburg,GPH_entity,Europe,212,Luxemburg,
 Macao,GPH_entity,Asia,721,Macao,
 Macao & People's Republic of China (China),group,Asia,,Macao_PeoplesRepublicofChinaChina,
@@ -1816,7 +1817,6 @@ Pomona I.,city/part_of,Africa,,,Mozambique (Portuguese East Africa)
 Pondicherry,city/part_of,Asia,,Pondicherry,French India
 Pondoland,city/part_of,Africa,,,Cape Colony (Cape of Good Hope)
 Pontianak,GPH_entity,Asia,8524,Pontianak,
-Port Arthur,city/part_of,Oceania,,,Tasmania
 Port Elizabeth,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
 Port Medway,city/part_of,America,,,Nova Scotia
 Port Phillip,city/part_of,Oceania,,,Victoria
@@ -2005,7 +2005,7 @@ Setúbal,city/part_of,Europe,,Set�bal,Portugal
 Seychelles,GPH_entity,Africa,591,Seychelles,
 Seychelles & Seychelles Dependencies,group,Africa,,,
 Seychelles Dependencies,city/part_of,Africa,,,Seychelles
-Shangai,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Shangai,GPH_entity,Asia,7121,PeoplesRepublicofChinaChina,
 Shantou,city/part_of,Asia,,,People's Republic of China (China)
 Sharjah,GPH_entity,Asia,6963,,
 Shelburne,city/part_of,America,,,Nova Scotia
@@ -2310,7 +2310,7 @@ World (via Russia),geographical_area,World,,,
 World (via Schleswig-Holstein),city/part_of,World,,,World
 World (via Venlo),geographical_area,World,,,
 World Federico Tena,geographical_area,World,,WorldFedericoTena,
-Xiamen,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Xiamen (Amoy),GPH_entity,Asia,7127,PeoplesRepublicofChinaChina,
 Yanaon,city/part_of,Asia,,,French India
 Yarmouth,city/part_of,America,,,Nova Scotia
 Yemen Arab Republic (North Yemen) (Kingdom of Yemen),GPH_entity,Asia,678,YemenArabRepublicNorthYemenKingdomofYemen,
