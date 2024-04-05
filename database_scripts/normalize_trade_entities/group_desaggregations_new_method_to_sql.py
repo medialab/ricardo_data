@@ -53,8 +53,10 @@ with open("group_desaggregations_new_method.json", "r") as f:
             )
             # remove id
             del insert_data["id"]
-            if len(list(insert_data.keys())) != 28:
+            if len(list(insert_data.keys())) != 31:
                 print((len(list(insert_data.keys()))))
+                print(set(insert_data.keys()) - set(sql_inserts_keys))
+                print(sql_inserts_keys)
             else:
                 sql_inserts_keys = list(
                     insert_data.keys()
@@ -74,7 +76,7 @@ with open("group_desaggregations_new_method.json", "r") as f:
 
     cursor.executemany(
         """INSERT INTO flow_aggregated ("%s") VALUES (%s)"""
-        % ('","'.join(sql_inserts_keys), ",".join("?" for _ in range(28))),
+        % ('","'.join(sql_inserts_keys), ",".join("?" for _ in range(31))),
         sql_inserts_values,
     )
     print(
