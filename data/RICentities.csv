@@ -132,7 +132,6 @@ Anjouan,GPH_entity,Africa,5813,,
 Anjouan & Grand Comoro & Mayotte & Moheli,group,Africa,,,
 Annaba (Bône),city/part_of,Africa,,,Algeria (Regency of Algiers)
 Annam,GPH_entity,Asia,8152,,
-Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_FrenchChinaLeasedTerritory_Tonkin,
 Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_Tonkin,
 Annam & Cochin China & Tonkin,group,Asia,,Annam_CochinChina_Tonkin,
 Annapolis,city/part_of,America,,,Nova Scotia
@@ -741,7 +740,7 @@ Czechoslovakia,GPH_entity,Europe,315,Czechoslovakia,
 Czechoslovakia & Hungary,group,Europe,,,
 Dakar,city/part_of,Africa,,,Senegal
 Dalmatia,city/part_of,Europe,,,Austria-Hungary (Austrian Empire)
-Dalny,city/part_of,Asia,,,Kwangtung Territory (Leased)
+Dalny,city/part_of,Asia,,,Kwangtung Territory
 Dalny & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
 Damaraland,city/part_of,Africa,,,Namibia (South West Africa) (German South West Africa)
 Damascus,city/part_of,Asia,,,Syria
@@ -988,7 +987,6 @@ French Asia & French India & Portuguese Asia,group,Asia,,,
 French Asia & French Polynesia,group,World,,FrenchAsia_FrenchOceania,
 French Central America,colonial_area,America,,,France
 French China,colonial_area,Asia,,FrenchChina,France
-French China Leased Territory,colonial_area,Asia,,,France
 French Colonies,colonial_area,World,,FrenchColonies,France
 French Colonies (Foreign produce),city/part_of,World,,,French Colonies
 French Colonies (French produce),city/part_of,World,,FrenchColoniesFrenchproduce,French Colonies
@@ -1061,7 +1059,6 @@ German Africa & German Oceania,group,World,,,
 German Austria,colonial_area,Europe,,,Germany (Zollverein)
 German Austria & Italian Austria,group,Europe,,,
 German China,colonial_area,Asia,,GermanChina,Germany (Zollverein)
-German China & German Oceania,group,World,,GermanChinaLeasedTerritory_GermanOceania,
 German Colonies,colonial_area,World,,GermanColonies,Germany (Zollverein)
 German Colonies & Germany (Zollverein),group,World,,GermanColonies_GermanyZollverein,
 German Confederation,city/part_of,Europe,,GermanConfederation,
@@ -1291,10 +1288,9 @@ Jamaica,GPH_entity,America,51,Jamaica,
 Jamaica & Jamaica Dependencies,group,World,,,
 Jamaica Dependencies,city/part_of,America,,,Jamaica
 Japan,GPH_entity,Asia,740,Japan,
-Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
+Japan & Japanese China & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & Korea (Chosen),group,Asia,,,
 Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),group,Asia,,,
-Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_KwangtungTerritoryLeased_RepublicofChinaTaiwanFormosa,
 Japan & People's Republic of China (China),group,Asia,,Japan_PeoplesRepublicofChinaChina,
 Japan & People's Republic of China (China) & Thailand (Siam),group,Asia,,,
 Japan & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_RepublicofChinaTaiwanFormosa,
@@ -1386,7 +1382,6 @@ Kuria Muria Is.,GPH_entity,Asia,6982,,
 Kuwait,GPH_entity,Asia,690,Kuwait,
 Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,Kuwait_OmanSultanateofMuscatandOman_UnitedArabEmiratesTrucialOman,
 Kwanchowan,GPH_entity,Asia,7110,Kwanchowan,
-Kwangtung Territory,GPH_entity,Asia,7104,KwangtungTerritoryLeased,
 Kwangtung Territory & Manchukuo,group,Asia,,,
 Kyrgyzstan,GPH_entity,Asia,703,Kyrgyzstan,
 La Goulette,city/part_of,Africa,,,Tunisia (Regency of Tunis)
@@ -2290,8 +2285,8 @@ World (other than British),city/part_of,World,,WorldotherthanBritish,
 World (other than Kingdom of Sardinia (land)),city/part_of,World,,WorldotherthanKingdomofSardinialand,
 World (other),city/part_of,World,,Worldother,
 World (other) (British),city/part_of,Africa,,,United Kingdom
-World (other) (Foreign produce),city/part_of,World,,,Other countries
-World (other) (French produce),city/part_of,World,,,Other countries
+World (other) (Foreign produce),city/part_of,World,,,World (other)
+World (other) (French produce),city/part_of,World,,,World (other)
 World (river),city/part_of,World,,,World
 World (sea),geographical_area,World,,World,
 World (via Altona & Holstein & Schleswig),geographical_area,World,,WorldviaAltona_Holstein_Schleswig,
@@ -2327,3 +2322,8 @@ Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
 Zululand,GPH_entity,Africa,5621,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
