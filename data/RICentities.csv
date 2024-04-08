@@ -132,6 +132,8 @@ Anjouan,GPH_entity,Africa,5813,,
 Anjouan & Grand Comoro & Mayotte & Moheli,group,Africa,,,
 Annaba (Bône),city/part_of,Africa,,,Algeria (Regency of Algiers)
 Annam,GPH_entity,Asia,8152,,
+Annam & Cambodia (Kampuchea) & Cochin China & French China & Tonkin,group,Asia,,,
+Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,group,Asia,,,
 Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_Tonkin,
 Annam & Cochin China & Tonkin,group,Asia,,Annam_CochinChina_Tonkin,
 Annapolis,city/part_of,America,,,Nova Scotia
@@ -740,8 +742,8 @@ Czechoslovakia,GPH_entity,Europe,315,Czechoslovakia,
 Czechoslovakia & Hungary,group,Europe,,,
 Dakar,city/part_of,Africa,,,Senegal
 Dalmatia,city/part_of,Europe,,,Austria-Hungary (Austrian Empire)
-Dalny,city/part_of,Asia,,,Kwangtung Territory
-Dalny & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
+Dalian,GPH_entity,Asia,7132,,
+Dalian & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
 Damaraland,city/part_of,Africa,,,Namibia (South West Africa) (German South West Africa)
 Damascus,city/part_of,Asia,,,Syria
 Damietta,city/part_of,Africa,,,Egypt Arab Republic (Egypt)
@@ -1059,6 +1061,7 @@ German Africa & German Oceania,group,World,,,
 German Austria,colonial_area,Europe,,,Germany (Zollverein)
 German Austria & Italian Austria,group,Europe,,,
 German China,colonial_area,Asia,,GermanChina,Germany (Zollverein)
+German China & German Oceania,colonial_area,World,,,
 German Colonies,colonial_area,World,,GermanColonies,Germany (Zollverein)
 German Colonies & Germany (Zollverein),group,World,,GermanColonies_GermanyZollverein,
 German Confederation,city/part_of,Europe,,GermanConfederation,
@@ -1291,6 +1294,7 @@ Japan,GPH_entity,Asia,740,Japan,
 Japan & Japanese China & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & Korea (Chosen),group,Asia,,,
 Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),group,Asia,,,
+Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & People's Republic of China (China),group,Asia,,Japan_PeoplesRepublicofChinaChina,
 Japan & People's Republic of China (China) & Thailand (Siam),group,Asia,,,
 Japan & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_RepublicofChinaTaiwanFormosa,
@@ -1382,6 +1386,7 @@ Kuria Muria Is.,GPH_entity,Asia,6982,,
 Kuwait,GPH_entity,Asia,690,Kuwait,
 Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,Kuwait_OmanSultanateofMuscatandOman_UnitedArabEmiratesTrucialOman,
 Kwanchowan,GPH_entity,Asia,7110,Kwanchowan,
+Kwangtung Territory,GPH_entity,Asia,7104,,
 Kwangtung Territory & Manchukuo,group,Asia,,,
 Kyrgyzstan,GPH_entity,Asia,703,Kyrgyzstan,
 La Goulette,city/part_of,Africa,,,Tunisia (Regency of Tunis)
@@ -2321,9 +2326,3 @@ Zanzibar,GPH_entity,Africa,511,Zanzibar,
 Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
-Zululand,GPH_entity,Africa,5621,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
