@@ -411,7 +411,8 @@ Bremen & Hamburg & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
 Bremen & Lübeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
-Bremerhaven & Geestemünde,city/part_of,Europe,,,Bremen
+Bremerhaven & Geestemünde,group,Europe,,,
+Bremerhaven,city/part_of,Europe,,,Bremen
 Bridgwater,city/part_of,Europe,,,United Kingdom
 British Africa,colonial_area,Africa,,BritishAfrica,United Kingdom
 British Africa (other),city/part_of,America,,BritishAfricaother,United Kingdom
@@ -1050,6 +1051,7 @@ Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,group,Africa,,Gambia
 Gambia & Senegal,group,Africa,,Gambia_Senegal,
 Gambia & Sierra Leone,group,Africa,,Gambia_SierraLeone,
 Gdynia,city/part_of,Europe,,,Poland
+Geestemünde,city/part_of,Europe,,,Bremen
 Genoa,city/part_of,Europe,,Genoa,Kingdom of Sardinia
 Genoa & Kingdom of Sardinia,group,Europe,,Genoa_KingdomofSardinia,
 Genoa & Livorno,group,Europe,,Genoa_Livorno,
@@ -2326,4 +2328,3 @@ Zanzibar,GPH_entity,Africa,511,Zanzibar,
 Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
-Zululand,GPH_entity,Africa,5621,,
