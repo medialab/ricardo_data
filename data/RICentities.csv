@@ -482,7 +482,6 @@ British Northern America & United States of America,group,America,,BritishNorthA
 British Oceania,colonial_area,Oceania,,BritishOceania,United Kingdom
 British Oceania (other),city/part_of,Oceania,,BritishOceaniaother,United Kingdom
 British Oceania & New Zealand,group,Oceania,,,
-British Settlement in Oceania,colonial_area,Oceania,,,United Kingdom
 British South Atlantic,colonial_area,Africa,,,United Kingdom
 British South Western Africa,colonial_area,Africa,,,United Kingdom
 British Southern Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
@@ -1063,7 +1062,7 @@ German Africa & German Oceania,group,World,,,
 German Austria,colonial_area,Europe,,,Germany (Zollverein)
 German Austria & Italian Austria,group,Europe,,,
 German China,colonial_area,Asia,,GermanChina,Germany (Zollverein)
-German China & German Oceania,colonial_area,World,,,
+German China & German Oceania,group,World,,,
 German Colonies,colonial_area,World,,GermanColonies,Germany (Zollverein)
 German Colonies & Germany (Zollverein),group,World,,GermanColonies_GermanyZollverein,
 German Confederation,city/part_of,Europe,,GermanConfederation,
