@@ -2193,7 +2193,7 @@ Transvaal (South African Republic),GPH_entity,Africa,563,Transvaal,
 Trapani,city/part_of,Europe,,Trapani,Sicily
 Trengganu,GPH_entity,Asia,8225,Trengganu,
 Trieste,GPH_entity,Europe,326,Trieste,
-Trinidad,city/part_of,America,,,Trinidad and Tobago
+Trinidad,GPH_entity,America,1048,,
 Trinidad (other),city/part_of,America,,,Trinidad
 Trinidad and Tobago,GPH_entity,America,52,TrinidadandTobago,
 Tripoli (Syria),city/part_of,Asia,,,Lebanon
