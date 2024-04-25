@@ -678,6 +678,10 @@ Congo (Brazzaville) (French Congo) (Middle Congo),GPH_entity,Africa,484,CongoBra
 Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,group,Africa,,,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
 Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,group,Africa,,,
+Congress Poland,GPH_entity,Europe,2901,,
+Congress Poland & Cracow (Free City of Cracow),group,Europe,,,
+Congress Poland & Galicia (Kingdom of Galicia and Lodomeria) & Russian provinces,group,Europe,,,
+Congress Poland & Russia (USSR),group,Europe,,,
 Continental Europe,geographical_area,Europe,,ContinentalEurope,
 Cook Is.,GPH_entity,Oceania,925,,
 Copenhagen,city/part_of,Europe,,,Denmark
@@ -698,7 +702,7 @@ Costa Rica & Guatemala & Honduras,group,America,,CostaRica_Guatemala_Honduras,
 Costa Rica & Guatemala & Honduras & Nicaragua,group,America,,,
 Cotonou,city/part_of,Africa,,,Benin (Dahomey)
 Crab I.,city/part_of,America,,,Berbice
-Cracow (Free City of Cracow),GPH_entity,Europe,2292,CracowFreeCityofCracow,
+Cracow (Free City of Cracow),GPH_entity,Europe,2903,CracowFreeCityofCracow,
 Crete,GPH_entity,Europe,351,Crete,
 Crete & Egypt Arab Republic (Egypt),group,World,,Crete_EgyptArabRepublicEgypt,
 Crete & European Turkey,group,Europe,,Crete_EuropeanTurkey,
@@ -1043,8 +1047,7 @@ Gabon River,city/part_of,Africa,,,Gabon
 Galapagos Is.,GPH_entity,America,1301,,
 Galați,city/part_of,Europe,,,Moldavia
 Galați & Odessa,group,Europe,,,
-Galicia,city/part_of,Europe,,,Austria-Hungary (Austrian Empire)
-Galicia & Poland & Russian provinces,group,Europe,,Galicia_Poland_Russianprovinces,
+Galicia (Kingdom of Galicia and Lodomeria),GPH_entity,Europe,3001,,
 Gambia,GPH_entity,Africa,420,Gambia,
 Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,group,Africa,,Gambia_GuineaFrenchGuineaRivieresduSud_Senegal,
 Gambia & Senegal,group,Africa,,Gambia_Senegal,
@@ -1808,8 +1811,6 @@ Piedmont & Tuscany,group,Europe,,Piedmont_Tuscany,
 Piraeus,city/part_of,Europe,,Piraeus,Greece
 Pitcairn Is.,GPH_entity,Oceania,9620,,
 Poland,GPH_entity,Europe,290,Poland,
-Poland & Russia (USSR),group,Europe,,Poland_RussiaUSSR,
-Poland Free Port,city/part_of,Europe,,,Poland
 Polar countries (other),city/part_of,Arctic,,,
 Polynesia,geographical_area,Oceania,,Polynesia,
 Polynesia (other),city/part_of,Oceania,,,
@@ -1943,7 +1944,6 @@ Russian China,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian Colonies,colonial_area,World,,RussiaUSSR,Russia (USSR)
 Russian North Eastern Asia,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian North Western America,colonial_area,America,,RussiaUSSR,Russia (USSR)
-Russian Poland,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russian provinces,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Russian Turkestan,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Saar,GPH_entity,Europe,256,Saar,
