@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,27061.469,1000,francs,1859,egypte (alexandrie),"angleterre, malte",imp,?,,sea,,,,
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,4278.491,1000,francs,1859,egypte (alexandrie),autriche,imp,?,,sea,,,,
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,4278.491,1000,francs,1859,egypte (alexandrie),autriche (empire),imp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,4855.533,1000,francs,1859,egypte (alexandrie),france,imp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,2848.455,1000,francs,1859,egypte (alexandrie),toscane,imp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,933.566,1000,francs,1859,egypte (alexandrie),grèce,imp,?,,sea,,,,
@@ -13,7 +13,7 @@ AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,56.509
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,2997.15,1000,francs,1859,egypte (alexandrie),barbarie,imp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,60220.811,1000,francs,1859,egypte (alexandrie),totaux,imp,?,,sea,,,total_reporting,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,36742.185,1000,francs,1859,egypte (alexandrie),"angleterre, malte",exp,?,,sea,,,,
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,6544.044,1000,francs,1859,egypte (alexandrie),autriche,exp,?,,sea,,,,
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,6544.044,1000,francs,1859,egypte (alexandrie),autriche (empire),exp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,8807.648,1000,francs,1859,egypte (alexandrie),france,exp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,2592.771,1000,francs,1859,egypte (alexandrie),toscane,exp,?,,sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_Egypte_Fc15,696.161,1000,francs,1859,egypte (alexandrie),grèce,exp,?,,sea,,,,

@@ -1,5 +1,5 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,,1000,francs,1843,prusse (dantzig),autriche,exp,?,,land & sea,,,,
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,,1000,francs,1843,prusse (dantzig),autriche (empire),exp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,615.9,1000,francs,1843,prusse (dantzig),belgique,exp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,712.9,1000,francs,1843,prusse (dantzig),danemark,exp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,1170.7,1000,francs,1843,prusse (dantzig),france,exp,?,,land & sea,,,,
@@ -10,7 +10,7 @@ AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAlleman
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,1066.7,1000,francs,1843,prusse (dantzig),suède et norvège,exp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,1141.2,1000,francs,1843,prusse (dantzig),villes anséatiques,exp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,39433.6,1000,francs,1843,prusse (dantzig),monde,exp,?,,land & sea,,,total_subreporting,
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,49.4,1000,francs,1843,prusse (dantzig),autriche,imp,?,,land & sea,,,,
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,49.4,1000,francs,1843,prusse (dantzig),autriche (empire),imp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,39.6,1000,francs,1843,prusse (dantzig),belgique,imp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,213.1,1000,francs,1843,prusse (dantzig),danemark,imp,?,,land & sea,,,,
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_AssociationAllemande_Fc5,1891.3,1000,francs,1843,prusse (dantzig),france,imp,?,,land & sea,,,,
