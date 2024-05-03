@@ -1,16 +1,16 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,4335.0,1000,francs,1851,etats romains (ancone),autriche,exp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,1224.0,1000,francs,1851,etats romains (ancone),france,exp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,312.0,1000,francs,1851,etats romains (ancone),deux-siciles,exp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,493.0,1000,francs,1851,etats romains (ancone),iles ioniennes,exp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,398.0,1000,francs,1851,etats romains (ancone),grèce,exp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,4335,1000,francs,1851,etats romains (ancone),autriche (empire),exp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,1224,1000,francs,1851,etats romains (ancone),france,exp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,312,1000,francs,1851,etats romains (ancone),deux-siciles,exp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,493,1000,francs,1851,etats romains (ancone),iles ioniennes,exp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,398,1000,francs,1851,etats romains (ancone),grèce,exp,?,,,,,,1844-1862.
 AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,,1000,francs,1851,etats romains (ancone),suède et norvège,exp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,10705.0,1000,francs,1851,etats romains (ancone),totaux,exp,?,,,,,total_reporting,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,6866.0,1000,francs,1851,etats romains (ancone),angleterre et dépendances,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,6686.0,1000,francs,1851,etats romains (ancone),autriche,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,463.0,1000,francs,1851,etats romains (ancone),france,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,459.0,1000,francs,1851,etats romains (ancone),deux-siciles,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,71.0,1000,francs,1851,etats romains (ancone),iles ioniennes,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,246.0,1000,francs,1851,etats romains (ancone),grèce,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,562.0,1000,francs,1851,etats romains (ancone),suède et norvège,imp,?,,,,,,1844-1862.
-AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,15862.0,1000,francs,1851,etats romains (ancone),totaux,imp,?,,,,,total_reporting,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,10705,1000,francs,1851,etats romains (ancone),totaux,exp,?,,,,,total_reporting,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,6866,1000,francs,1851,etats romains (ancone),angleterre et dépendances,imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,6686,1000,francs,1851,etats romains (ancone),autriche (empire),imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,463,1000,francs,1851,etats romains (ancone),france,imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,459,1000,francs,1851,etats romains (ancone),deux-siciles,imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,71,1000,francs,1851,etats romains (ancone),iles ioniennes,imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,246,1000,francs,1851,etats romains (ancone),grèce,imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,562,1000,francs,1851,etats romains (ancone),suède et norvège,imp,?,,,,,,1844-1862.
+AnnalesDuCommerceExtérieurFaitsCommerciaux3eSérieAvisDivers_ItalieEtatsRomains_Fc6,15862,1000,francs,1851,etats romains (ancone),totaux,imp,?,,,,,total_reporting,1844-1862.
