@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 AnuarioEstadsticoDeElSalvador_1915_130,29835,1,pesos plata,1915,el salvador,alemania,exp,,,,,,,
-AnuarioEstadsticoDeElSalvador_1915_130,11437.5,1,pesos plata,1915,el salvador,austria,exp,,,,,,,
+AnuarioEstadsticoDeElSalvador_1915_130,11437.5,1,pesos plata,1915,el salvador,austria-hungría,exp,,,,,,,
 AnuarioEstadsticoDeElSalvador_1915_130,51719.84,1,pesos plata,1915,el salvador,costa rica,exp,,,,,,,
 AnuarioEstadsticoDeElSalvador_1915_130,111908.7,1,pesos plata,1915,el salvador,chile,exp,,,,,,,
 AnuarioEstadsticoDeElSalvador_1915_130,1522904.1,1,pesos plata,1915,el salvador,dinamarca,exp,,,,,,,
@@ -22,7 +22,7 @@ AnuarioEstadsticoDeElSalvador_1915_130,116925,1,pesos plata,1915,el salvador,rus
 AnuarioEstadsticoDeElSalvador_1915_130,2136824.7,1,pesos plata,1915,el salvador,suecia,exp,,,,,,,
 AnuarioEstadsticoDeElSalvador_1915_130,26409677.66,1,pesos plata,1915,el salvador,total,exp,,,,,,total_reporting,
 AnuarioEstadsticoDeElSalvador_1915_100,484795.77,1,pesos oro,1914,el salvador,alemania,imp,,,,,,,Pais de procedencia
-AnuarioEstadsticoDeElSalvador_1915_100,18095.15,1,pesos oro,1914,el salvador,austria,imp,,,,,,,Pais de procedencia
+AnuarioEstadsticoDeElSalvador_1915_100,18095.15,1,pesos oro,1914,el salvador,austria-hungría,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,138384,1,pesos oro,1914,el salvador,belgica,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,28.25,1,pesos oro,1914,el salvador,brasil,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,3633.6,1,pesos oro,1914,el salvador,colombia,imp,,,,,,,Pais de procedencia
@@ -50,7 +50,7 @@ AnuarioEstadsticoDeElSalvador_1915_100,22378.46,1,pesos oro,1914,el salvador,sue
 AnuarioEstadsticoDeElSalvador_1915_100,14202.53,1,pesos oro,1914,el salvador,suiza,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,83.87,1,pesos oro,1914,el salvador,turquia,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,40038.3,1,oro,1915,el salvador,alemania,imp,,,,,,,Pais de procedencia
-AnuarioEstadsticoDeElSalvador_1915_100,2213.31,1,oro,1915,el salvador,austria,imp,,,,,,,Pais de procedencia
+AnuarioEstadsticoDeElSalvador_1915_100,2213.31,1,oro,1915,el salvador,austria-hungría,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,10238.56,1,oro,1915,el salvador,belgica,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,6689.42,1,oro,1915,el salvador,cuba,imp,,,,,,,Pais de procedencia
 AnuarioEstadsticoDeElSalvador_1915_100,24216.94,1,oro,1915,el salvador,china,imp,,,,,,,Pais de procedencia

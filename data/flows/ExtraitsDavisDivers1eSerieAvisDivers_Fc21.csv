@@ -49,7 +49,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,176.7,1000,francs,1834,maroc,amériqu
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,131.4,1000,francs,1834,maroc,portugal,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,38.3,1000,francs,1834,maroc,espagne,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,9176.5,1000,francs,1834,maroc,monde,imp,?,,,,,total_reporting,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3999.6,1000,francs,1833,etats romains,autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3999.6,1000,francs,1833,etats romains,autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3370.5,1000,francs,1833,etats romains,angleterre,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,743.6,1000,francs,1833,etats romains,france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,930.7,1000,francs,1833,etats romains,sardaigne,exp,?,,,,,,
@@ -58,7 +58,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,330,1000,francs,1833,etats romains,de
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,592.9,1000,francs,1833,etats romains,espagne,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,243.6,1000,francs,1833,etats romains,grèce,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,11120.5,1000,francs,1833,etats romains,monde,exp,?,,,,,total_reporting,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,10335.7,1000,francs,1833,etats romains,autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,10335.7,1000,francs,1833,etats romains,autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3634.1,1000,francs,1833,etats romains,angleterre,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3555.9,1000,francs,1833,etats romains,france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,1143.4,1000,francs,1833,etats romains,sardaigne,imp,?,,,,,,
@@ -69,12 +69,12 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,262.4,1000,francs,1833,etats romains,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,21481,1000,francs,1833,etats romains,monde,imp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,11521.7,1000,francs,1833,pologne,prusse,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3660.5,1000,francs,1833,pologne,russie,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,132.5,1000,francs,1833,pologne,autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,132.5,1000,francs,1833,pologne,autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,930.6,1000,francs,1833,pologne,cracovie,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,16245.3,1000,francs,1833,pologne,monde,exp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,10664.9,1000,francs,1833,pologne,prusse,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,16215.9,1000,francs,1833,pologne,russie,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4527.7,1000,francs,1833,pologne,autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4527.7,1000,francs,1833,pologne,autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,546.6,1000,francs,1833,pologne,cracovie,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,31955.1,1000,francs,1833,pologne,monde,imp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,7779,1000,francs,1834,autriche-hongrie (trieste),angleterre et gibraltar et malte et iles ioniennes,exp,?,,,,,,
@@ -126,7 +126,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,155.2,1000,francs,1834,autriche-hongr
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,8563.9,1000,francs,1833,deux-siciles,angleterre et possessions,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4681.4,1000,francs,1833,deux-siciles,france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,2827.9,1000,francs,1833,deux-siciles,sardaigne,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,1628.9,1000,francs,1833,deux-siciles,autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,1628.9,1000,francs,1833,deux-siciles,autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,215.2,1000,francs,1833,deux-siciles,turquie et barbarie,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,1857.3,1000,francs,1833,deux-siciles,etats-unis,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,232.7,1000,francs,1833,deux-siciles,toscane,exp,?,,,,,,
@@ -136,7 +136,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,22095.7,1000,francs,1833,deux-siciles
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4766.8,1000,francs,1833,deux-siciles,angleterre et possessions,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,1131.3,1000,francs,1833,deux-siciles,france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,2728.8,1000,francs,1833,deux-siciles,sardaigne,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,796.4,1000,francs,1833,deux-siciles,autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,796.4,1000,francs,1833,deux-siciles,autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,26.9,1000,francs,1833,deux-siciles,turquie et barbarie,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,474.7,1000,francs,1833,deux-siciles,etats-unis,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,421.4,1000,francs,1833,deux-siciles,toscane,imp,?,,,,,,
@@ -224,13 +224,13 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,39.6,1000,francs,1833,iles baléares,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,16.7,1000,francs,1833,iles baléares,suède et danemark,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,936.9,1000,francs,1833,iles baléares,monde,imp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,11080.1,1000,francs,1833,egypte et syrie (alexandrie),turquie,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,10808.5,1000,francs,1833,egypte et syrie (alexandrie),autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,10808.5,1000,francs,1833,egypte et syrie (alexandrie),autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4064,1000,francs,1833,egypte et syrie (alexandrie),toscane,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3247.7,1000,francs,1833,egypte et syrie (alexandrie),angleterre et malte,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,8361.7,1000,francs,1833,egypte et syrie (alexandrie),france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,37915.6,1000,francs,1833,egypte et syrie (alexandrie),monde,exp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,13158.9,1000,francs,1833,egypte et syrie (alexandrie),turquie,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,8293.4,1000,francs,1833,egypte et syrie (alexandrie),autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,8293.4,1000,francs,1833,egypte et syrie (alexandrie),autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,6539.2,1000,francs,1833,egypte et syrie (alexandrie),toscane,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4688.6,1000,francs,1833,egypte et syrie (alexandrie),angleterre et malte,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,3465.4,1000,francs,1833,egypte et syrie (alexandrie),france,imp,?,,,,,,
@@ -240,7 +240,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,30.1,1000,francs,1834,tripoli (régen
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,4.5,1000,francs,1834,tripoli (régence de tripoli),toscane,exp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,,1000,francs,1834,tripoli (régence de tripoli),albanie,exp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,,1000,francs,1834,tripoli (régence de tripoli),candie,exp,?,,,,,,1 rouble assignation = 1.13 francs.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,57.3,1000,francs,1834,tripoli (régence de tripoli),autriche,exp,?,,,,,,1 rouble assignation = 1.13 francs.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,57.3,1000,francs,1834,tripoli (régence de tripoli),autriche (empire),exp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,,1000,francs,1834,tripoli (régence de tripoli),archipel,exp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,,1000,francs,1834,tripoli (régence de tripoli),deux-siciles,exp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,103.8,1000,francs,1834,tripoli (régence de tripoli),monde,exp,?,,,,,total_reporting,1 rouble assignation = 1.13 francs.
@@ -249,7 +249,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc21,84.6,1000,francs,1834,tripoli (régen
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,42.7,1000,francs,1834,tripoli (régence de tripoli),toscane,imp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,10.8,1000,francs,1834,tripoli (régence de tripoli),albanie,imp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,7.2,1000,francs,1834,tripoli (régence de tripoli),candie,imp,?,,,,,,1 rouble assignation = 1.13 francs.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc21,6.7,1000,francs,1834,tripoli (régence de tripoli),autriche,imp,?,,,,,,1 rouble assignation = 1.13 francs.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc21,6.7,1000,francs,1834,tripoli (régence de tripoli),autriche (empire),imp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,5.5,1000,francs,1834,tripoli (régence de tripoli),archipel,imp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,1.7,1000,francs,1834,tripoli (régence de tripoli),deux-siciles,imp,?,,,,,,1 rouble assignation = 1.13 francs.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc21,273.2,1000,francs,1834,tripoli (régence de tripoli),monde,imp,?,,,,,total_reporting,1 rouble assignation = 1.13 francs.
