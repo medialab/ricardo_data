@@ -1,5 +1,5 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,95136.3,1000,réis,1869,portugal,austria,imp,spe,,,,,,Consumo
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,95136.3,1000,réis,1869,portugal,austria-hungria,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,594.5,1000,réis,1869,portugal,belgica,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,2895587,1000,réis,1869,portugal,brazil,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,349457.1,1000,réis,1869,portugal,confederação da allemanha do norte,imp,spe,,,,,,Consumo
@@ -23,9 +23,9 @@ CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,395147.9,1000,r
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,57286.6,1000,réis,1869,portugal,turquia,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,36834.8,1000,réis,1869,portugal,procedencias e destinos diversos,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,22592177.2,1000,réis,1869,portugal,total,imp,spe,,,,,total_reporting,Consumo
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,2602,1000,réis,1869,portugal,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,2602,1000,réis,1869,portugal,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,92813.2,1000,réis,1869,portugal,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,3364129.1999999997,1000,réis,1869,portugal,brazil,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,3364129.2,1000,réis,1869,portugal,brazil,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,211819.6,1000,réis,1869,portugal,confederação da allemanha do norte,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,83928.2,1000,réis,1869,portugal,dinamarca,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,9195,1000,réis,1869,portugal,egypto,exp,spe,,,,,,Exportação nacional e nacionalisada
@@ -34,7 +34,7 @@ CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,167463.8,1000,r
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,1101255.7,1000,réis,1869,portugal,frança e suas possesões,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,9680102.1,1000,réis,1869,portugal,gran-bretanha e suas possessões,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,60,1000,réis,1869,portugal,grecia,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,1355612.0999999999,1000,réis,1869,portugal,hespanha,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,1355612.1,1000,réis,1869,portugal,hespanha,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,273795,1000,réis,1869,portugal,hollanda,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,253525.9,1000,réis,1869,portugal,italia,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1869_28,6803,1000,réis,1869,portugal,marrocos,exp,spe,,,,,,Exportação nacional e nacionalisada

@@ -1,5 +1,5 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,370533.5,1000,réis,1868,portugal,austria,imp,spe,,,,,,Consumo
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,370533.5,1000,réis,1868,portugal,austria-hungria,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,2080,1000,réis,1868,portugal,belgica,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,2903178.2,1000,réis,1868,portugal,brazil,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,24070.7,1000,réis,1868,portugal,dinamarca,imp,spe,,,,,,Consumo
@@ -24,7 +24,7 @@ CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,478140.1,1000,r
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,364681.1,1000,réis,1868,portugal,turquia,imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,35168.4,1000,réis,1868,portugal,"mantimentos e gastos para embarcacões, fazendas demoradas, arrojos do mar, procedencias e destinos diversos",imp,spe,,,,,,Consumo
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,24820699.8,1000,réis,1868,portugal,total,imp,spe,,,,,total_reporting,Consumo
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,800,1000,réis,1868,portugal,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,800,1000,réis,1868,portugal,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,139472.8,1000,réis,1868,portugal,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,2905232.8,1000,réis,1868,portugal,brazil,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,84708.3,1000,réis,1868,portugal,dinamarca,exp,spe,,,,,,Exportação nacional e nacionalisada
@@ -34,16 +34,16 @@ CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,839149,1000,ré
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,10809519.2,1000,réis,1868,portugal,gran-bretanha,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,1332485,1000,réis,1868,portugal,hespanha,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,279953.2,1000,réis,1868,portugal,hollanda,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,208583.19999999998,1000,réis,1868,portugal,italia,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,208583.2,1000,réis,1868,portugal,italia,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,115042.6,1000,réis,1868,portugal,"mantimentos e gastos para embarcacões, fazendas demoradas, arrojos do mar, procedencias e destinos diversos",exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,8415.5,1000,réis,1868,portugal,marrocos,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,435351.60000000003,1000,réis,1868,portugal,possessões portuguezas da africa,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,48877.100000000006,1000,réis,1868,portugal,possessões portuguezas da asia,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,435351.6,1000,réis,1868,portugal,possessões portuguezas da africa,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,48877.1,1000,réis,1868,portugal,possessões portuguezas da asia,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,285819.6,1000,réis,1868,portugal,prussia,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,34407.9,1000,réis,1868,portugal,republica argentina,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,3958.8,1000,réis,1868,portugal,republica do chili,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,41408.799999999996,1000,réis,1868,portugal,republica do uruguay,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,41408.8,1000,réis,1868,portugal,republica do uruguay,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,173521.2,1000,réis,1868,portugal,russia,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,168017.80000000002,1000,réis,1868,portugal,suecia,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,168017.8,1000,réis,1868,portugal,suecia,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,18040906.3,1000,réis,1868,portugal,total,exp,spe,,,,,total_reporting,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1868_28,4.8,1000,réis,1868,portugal,turquia,exp,spe,,,,,,Exportação nacional e nacionalisada

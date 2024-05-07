@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,560623,1000,réis,1874,portugal,allemanha do norte,imp,,,,,,,
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,27526,1000,réis,1874,portugal,austria,imp,,,,,,,
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,27526,1000,réis,1874,portugal,austria-hungria,imp,,,,,,,
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,64696,1000,réis,1874,portugal,belgica,imp,,,,,,,
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,3189138,1000,réis,1874,portugal,brazil,imp,,,,,,,
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,1285578,1000,réis,1874,portugal,estados unidos,imp,,,,,,,
@@ -22,7 +22,7 @@ CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,773311,1000,réi
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,16665,1000,réis,1874,portugal,procedencias e destinos diversos,imp,,,,,,,
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,28336351,1000,réis,1874,portugal,total,imp,,,,,,total_reporting,
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,890540,1000,réis,1874,portugal,allemanha do norte,exp,spe,,,,,,Exportação nacional e nacionalisada
-CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,342,1000,réis,1874,portugal,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,342,1000,réis,1874,portugal,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,399615,1000,réis,1874,portugal,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,4271283,1000,réis,1874,portugal,brazil,exp,spe,,,,,,Exportação nacional e nacionalisada
 CommercioDePortugalComAsSuasPossessesEAsNaesEstrangeiras_1874_2,210038,1000,réis,1874,portugal,dinamarca,exp,spe,,,,,,Exportação nacional e nacionalisada
