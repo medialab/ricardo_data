@@ -2,7 +2,7 @@ source,flow,unit,currency,year,reporting,partner,export_import,special_general,s
 MovimentoCommercialeDelRegnoDitalia_1871_258264,22893,1000,lire,1871,italy,america meridionale,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,7223,1000,lire,1871,italy,america centrale,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,50743,1000,lire,1871,italy,america stati uniti,imp,spe,S,,,,,Valore commerciale
-MovimentoCommercialeDelRegnoDitalia_1871_258264,172574,1000,lire,1871,italy,austria,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1871_258264,172574,1000,lire,1871,italy,austria-ungheria,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,8146,1000,lire,1871,italy,belgio,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,,1000,lire,1871,italy,brasile,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,14402,1000,lire,1871,italy,egitto,imp,spe,S,,,,,Valore commerciale
@@ -22,7 +22,7 @@ MovimentoCommercialeDelRegnoDitalia_1871_258264,39,1000,lire,1871,italy,altre na
 MovimentoCommercialeDelRegnoDitalia_1871_258264,43846,1000,lire,1871,italy,america meridionale,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,8476,1000,lire,1871,italy,america centrale,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,31855,1000,lire,1871,italy,america stati uniti,exp,spe,S,,,,,Valore commerciale
-MovimentoCommercialeDelRegnoDitalia_1871_258264,198371,1000,lire,1871,italy,austria,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1871_258264,198371,1000,lire,1871,italy,austria-ungheria,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,6849,1000,lire,1871,italy,belgio,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,844,1000,lire,1871,italy,brasile,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1871_258264,8079,1000,lire,1871,italy,egitto,exp,spe,S,,,,,Valore commerciale

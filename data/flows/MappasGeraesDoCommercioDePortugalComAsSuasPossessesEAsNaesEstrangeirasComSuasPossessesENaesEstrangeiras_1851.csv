@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,26919,1000,réis,1843,portugal,austria,imp,,,land & sea,,,,Consumo
-MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,20735,1000,réis,1848,portugal,austria,imp,,,land & sea,,,,Consumo
-MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,11068.9,1000,réis,1851,portugal,austria,imp,,,land & sea,,,,Consumo
+MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,26919,1000,réis,1843,portugal,austria (imperio),imp,,,land & sea,,,,Consumo
+MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,20735,1000,réis,1848,portugal,austria (imperio),imp,,,land & sea,,,,Consumo
+MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,11068.9,1000,réis,1851,portugal,austria (imperio),imp,,,land & sea,,,,Consumo
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,16517.89,1000,réis,1848,portugal,belgica,imp,,,land & sea,,,,Consumo
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,24462.31,1000,réis,1851,portugal,belgica,imp,,,land & sea,,,,Consumo
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,1797954.38,1000,réis,1843,portugal,brazil,imp,,,land & sea,,,,Consumo
@@ -73,9 +73,9 @@ MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPos
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,12314511.062,1000,réis,1843,portugal,total,imp,,,land & sea,,,total_reporting,Consumo
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,10805767.229,1000,réis,1848,portugal,total,imp,,,land & sea,,,total_reporting,Consumo
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,13749231.301,1000,réis,1851,portugal,total,imp,,,land & sea,,,total_reporting,Consumo
-MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,11009.556,1000,réis,1843,portugal,austria,exp,,,land & sea,,,,
-MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,9.36,1000,réis,1848,portugal,austria,exp,,,land & sea,,,,
-MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,17839.9,1000,réis,1851,portugal,austria,exp,,,land & sea,,,,
+MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,11009.556,1000,réis,1843,portugal,austria (imperio),exp,,,land & sea,,,,
+MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,9.36,1000,réis,1848,portugal,austria (imperio),exp,,,land & sea,,,,
+MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,17839.9,1000,réis,1851,portugal,austria (imperio),exp,,,land & sea,,,,
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,84.025,1000,réis,1848,portugal,baltico,exp,,,land & sea,,,,
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,3163.6,1000,réis,1843,portugal,belgica,exp,,,land & sea,,,,
 MappasGeraesDoCommercioDePortugalComAsSuasPossessesEAsNaesEstrangeirasComSuasPossessesENaesEstrangeiras_1851,33722.262,1000,réis,1848,portugal,belgica,exp,,,land & sea,,,,

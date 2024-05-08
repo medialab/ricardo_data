@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 MovimentoCommercialeDelRegnoDitalia_1868_442,4155935,1,lira,1868,italy,algeria,imp,spe,S,,,,,Valore commerciale
-MovimentoCommercialeDelRegnoDitalia_1868_442,168639359,1,lira,1868,italy,austria,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1868_442,168639359,1,lira,1868,italy,austria-ungheria,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,8460438,1,lira,1868,italy,belgio,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,1719044,1,lira,1868,italy,brasile,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,4060797,1,lira,1868,italy,città anseatiche,imp,spe,S,,,,,Valore commerciale
@@ -26,7 +26,7 @@ MovimentoCommercialeDelRegnoDitalia_1868_442,6967312,1,lira,1868,italy,zollverei
 MovimentoCommercialeDelRegnoDitalia_1868_442,4840183,1,lira,1868,italy,provenienze varie,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,896569122,1,lira,1868,italy,totale,imp,spe,S,,,,total_reporting,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,2375433,1,lira,1868,italy,algeria,exp,spe,S,,,,,Valore commerciale
-MovimentoCommercialeDelRegnoDitalia_1868_443,139575179,1,lira,1868,italy,austria,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1868_443,139575179,1,lira,1868,italy,austria-ungheria,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,3226264,1,lira,1868,italy,belgio,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,2274432,1,lira,1868,italy,brasile,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,3519028,1,lira,1868,italy,città anseatiche,exp,spe,S,,,,,Valore commerciale
@@ -53,7 +53,7 @@ MovimentoCommercialeDelRegnoDitalia_1868_443,1796517,1,lira,1868,italy,zollverei
 MovimentoCommercialeDelRegnoDitalia_1868_443,3694581,1,lira,1868,italy,provenienze e destinazioni varie,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,787101477,1,lira,1868,italy,totale,exp,spe,S,,,,total_reporting,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,82219,1,lira,1867,italy,algeria,imp,spe,S,,,,,Valore commerciale
-MovimentoCommercialeDelRegnoDitalia_1868_442,145903043,1,lira,1867,italy,austria,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1868_442,145903043,1,lira,1867,italy,austria-ungheria,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,7590550,1,lira,1867,italy,belgio,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,1803144,1,lira,1867,italy,brasile,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,695565,1,lira,1867,italy,città anseatiche,imp,spe,S,,,,,Valore commerciale
@@ -79,7 +79,7 @@ MovimentoCommercialeDelRegnoDitalia_1868_442,5688358,1,lira,1867,italy,zollverei
 MovimentoCommercialeDelRegnoDitalia_1868_442,12062686,1,lira,1867,italy,provenienze varie,imp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_442,885910961,1,lira,1867,italy,totale,imp,spe,S,,,,total_reporting,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,1752595,1,lira,1867,italy,algeria,exp,spe,S,,,,,Valore commerciale
-MovimentoCommercialeDelRegnoDitalia_1868_443,125427474,1,lira,1867,italy,austria,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1868_443,125427474,1,lira,1867,italy,austria-ungheria,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,1798903,1,lira,1867,italy,belgio,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,3153324,1,lira,1867,italy,brasile,exp,spe,S,,,,,Valore commerciale
 MovimentoCommercialeDelRegnoDitalia_1868_443,1303358,1,lira,1867,italy,città anseatiche,exp,spe,S,,,,,Valore commerciale

@@ -2,7 +2,7 @@ source,flow,unit,currency,year,reporting,partner,export_import,special_general,s
 MovimentoCommercialeDelRegnoDitalia_1876_314321,5821,1000,lire,1876,italy,america centrale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,37815,1000,lire,1876,italy,america meridionale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,49180,1000,lire,1876,italy,america stati uniti,imp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,265273,1000,lire,1876,italy,austria,imp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,265273,1000,lire,1876,italy,austria-ungheria,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,6568,1000,lire,1876,italy,belgio,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,549,1000,lire,1876,italy,brasile,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,11610,1000,lire,1876,italy,egitto,imp,spe,S,,,,,Valore attuale
@@ -21,7 +21,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,62416,1000,lire,1876,italy,turch
 MovimentoCommercialeDelRegnoDitalia_1876_314321,13128,1000,lire,1876,italy,america centrale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,42670,1000,lire,1876,italy,america meridionale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,20551,1000,lire,1876,italy,america stati uniti,exp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,187580,1000,lire,1876,italy,austria,exp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,187580,1000,lire,1876,italy,austria-ungheria,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,10570,1000,lire,1876,italy,belgio,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,72,1000,lire,1876,italy,brasile,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,8779,1000,lire,1876,italy,egitto,exp,spe,S,,,,,Valore attuale
@@ -40,7 +40,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,6104,1000,lire,1876,italy,turchi
 MovimentoCommercialeDelRegnoDitalia_1876_314321,16543,1000,lire,1875,italy,america centrale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,30060,1000,lire,1875,italy,america meridionale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,42993,1000,lire,1875,italy,america stati uniti,imp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,234640,1000,lire,1875,italy,austria,imp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,234640,1000,lire,1875,italy,austria-ungheria,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,12867,1000,lire,1875,italy,belgio,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,1768,1000,lire,1875,italy,brasile,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,12165,1000,lire,1875,italy,egitto,imp,spe,S,,,,,Valore attuale
@@ -59,7 +59,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,30436,1000,lire,1875,italy,turch
 MovimentoCommercialeDelRegnoDitalia_1876_314321,2402,1000,lire,1875,italy,america centrale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,46723,1000,lire,1875,italy,america meridionale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,29085,1000,lire,1875,italy,america stati uniti,exp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,191610,1000,lire,1875,italy,austria,exp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,191610,1000,lire,1875,italy,austria-ungheria,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,6225,1000,lire,1875,italy,belgio,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,117,1000,lire,1875,italy,brasile,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,13665,1000,lire,1875,italy,egitto,exp,spe,S,,,,,Valore attuale
@@ -78,7 +78,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,13246,1000,lire,1875,italy,turch
 MovimentoCommercialeDelRegnoDitalia_1876_314321,7074,1000,lire,1874,italy,america centrale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,39352,1000,lire,1874,italy,america meridionale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,47505,1000,lire,1874,italy,america stati uniti,imp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,234535,1000,lire,1874,italy,austria,imp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,234535,1000,lire,1874,italy,austria-ungheria,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,14429,1000,lire,1874,italy,belgio,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,1081,1000,lire,1874,italy,brasile,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,16992,1000,lire,1874,italy,egitto,imp,spe,S,,,,,Valore attuale
@@ -97,7 +97,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,79277,1000,lire,1874,italy,turch
 MovimentoCommercialeDelRegnoDitalia_1876_314321,1135,1000,lire,1874,italy,america centrale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,40842,1000,lire,1874,italy,america meridionale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,27975,1000,lire,1874,italy,america stati uniti,exp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,211108,1000,lire,1874,italy,austria,exp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,211108,1000,lire,1874,italy,austria-ungheria,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,7086,1000,lire,1874,italy,belgio,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,83,1000,lire,1874,italy,brasile,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,13335,1000,lire,1874,italy,egitto,exp,spe,S,,,,,Valore attuale
@@ -116,7 +116,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,8617,1000,lire,1874,italy,turchi
 MovimentoCommercialeDelRegnoDitalia_1876_314321,8140,1000,lire,1873,italy,america centrale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,42305,1000,lire,1873,italy,america meridionale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,49726,1000,lire,1873,italy,america stati uniti,imp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,225371,1000,lire,1873,italy,austria,imp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,225371,1000,lire,1873,italy,austria-ungheria,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,14457,1000,lire,1873,italy,belgio,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,1213,1000,lire,1873,italy,brasile,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,18137,1000,lire,1873,italy,egitto,imp,spe,S,,,,,Valore attuale
@@ -135,7 +135,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,43623,1000,lire,1873,italy,turch
 MovimentoCommercialeDelRegnoDitalia_1876_314321,3436,1000,lire,1873,italy,america centrale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,54008,1000,lire,1873,italy,america meridionale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,29264,1000,lire,1873,italy,america stati uniti,exp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,221640,1000,lire,1873,italy,austria,exp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,221640,1000,lire,1873,italy,austria-ungheria,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,4866,1000,lire,1873,italy,belgio,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,,1000,lire,1873,italy,brasile,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,19827,1000,lire,1873,italy,egitto,exp,spe,S,,,,,Valore attuale
@@ -154,7 +154,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,6738,1000,lire,1873,italy,turchi
 MovimentoCommercialeDelRegnoDitalia_1876_314321,5681,1000,lire,1872,italy,america centrale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,27147,1000,lire,1872,italy,america meridionale,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,44826,1000,lire,1872,italy,america stati uniti,imp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,218215,1000,lire,1872,italy,austria,imp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,218215,1000,lire,1872,italy,austria-ungheria,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,17815,1000,lire,1872,italy,belgio,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,286,1000,lire,1872,italy,brasile,imp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,12651,1000,lire,1872,italy,egitto,imp,spe,S,,,,,Valore attuale
@@ -174,7 +174,7 @@ MovimentoCommercialeDelRegnoDitalia_1876_314321,6,1000,lire,1872,italy,altre naz
 MovimentoCommercialeDelRegnoDitalia_1876_314321,4172,1000,lire,1872,italy,america centrale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,56647,1000,lire,1872,italy,america meridionale,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,28581,1000,lire,1872,italy,america stati uniti,exp,spe,S,,,,,Valore attuale
-MovimentoCommercialeDelRegnoDitalia_1876_314321,220494,1000,lire,1872,italy,austria,exp,spe,S,,,,,Valore attuale
+MovimentoCommercialeDelRegnoDitalia_1876_314321,220494,1000,lire,1872,italy,austria-ungheria,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,2728,1000,lire,1872,italy,belgio,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,285,1000,lire,1872,italy,brasile,exp,spe,S,,,,,Valore attuale
 MovimentoCommercialeDelRegnoDitalia_1876_314321,13644,1000,lire,1872,italy,egitto,exp,spe,S,,,,,Valore attuale

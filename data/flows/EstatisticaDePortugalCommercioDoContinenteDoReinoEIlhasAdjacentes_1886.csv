@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,4694809,1000,réis,1886,portugal e açores e madeira,allemanha,imp,spe,,,,,,Consumo
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,8444,1000,réis,1886,portugal e açores e madeira,austria,imp,spe,,,,,,Consumo
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,8444,1000,réis,1886,portugal e açores e madeira,austria-hungria,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,1536803,1000,réis,1886,portugal e açores e madeira,belgica,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,2013619,1000,réis,1886,portugal e açores e madeira,brazil,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,4798,1000,réis,1886,portugal e açores e madeira,dinamarca,imp,spe,,,,,,Consumo
@@ -16,7 +16,7 @@ EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,7411
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,523694,1000,réis,1886,portugal e açores e madeira,paizes não mencionados,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,37326315,1000,réis,1886,portugal e açores e madeira,total,imp,spe,,,,,total_reporting,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,1317885,1000,réis,1886,portugal e açores e madeira,allemanha,exp,spe,,,,,,Exportação nacional e nacionalisada
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,9263,1000,réis,1886,portugal e açores e madeira,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,9263,1000,réis,1886,portugal e açores e madeira,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,349391,1000,réis,1886,portugal e açores e madeira,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,4575408,1000,réis,1886,portugal e açores e madeira,brazil,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,206335,1000,réis,1886,portugal e açores e madeira,dinamarca,exp,spe,,,,,,Exportação nacional e nacionalisada
@@ -46,7 +46,7 @@ EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Xxiixxv,1
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Xxiixxv,4492,1000,réis,1886,portugal e açores e madeira,macau e timor,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Xxiixxv,464,1000,réis,1886,portugal e açores e madeira,macau e timor,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,3754351,1000,réis,1885,portugal e açores e madeira,allemanha,imp,spe,,,,,,Consumo
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,2272,1000,réis,1885,portugal e açores e madeira,austria,imp,spe,,,,,,Consumo
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,2272,1000,réis,1885,portugal e açores e madeira,austria-hungria,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,1064000,1000,réis,1885,portugal e açores e madeira,belgica,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,1922454,1000,réis,1885,portugal e açores e madeira,brazil,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,3384,1000,réis,1885,portugal e açores e madeira,dinamarca,imp,spe,,,,,,Consumo
@@ -64,7 +64,7 @@ EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,3966
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,399408,1000,réis,1885,portugal e açores e madeira,paizes não mencionados,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,31756156,1000,réis,1885,portugal e açores e madeira,total,imp,spe,,,,,total_reporting,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,1138896,1000,réis,1885,portugal e açores e madeira,allemanha,exp,spe,,,,,,Exportação nacional e nacionalisada
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,233,1000,réis,1885,portugal e açores e madeira,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,233,1000,réis,1885,portugal e açores e madeira,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,260251,1000,réis,1885,portugal e açores e madeira,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,4180370,1000,réis,1885,portugal e açores e madeira,brazil,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1886_Viii,118324,1000,réis,1885,portugal e açores e madeira,dinamarca,exp,spe,,,,,,Exportação nacional e nacionalisada

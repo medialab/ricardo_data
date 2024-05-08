@@ -1,8 +1,8 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,5358319,1000,réis,1889,portugal e açores e madeira,allemanha,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1986874,1000,réis,1889,portugal e açores e madeira,allemanha,exp,spe,,,,,,Exportação nacional e nacionalisada
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,566769,1000,réis,1889,portugal e açores e madeira,austria,imp,spe,,,,,,Consumo
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,15809,1000,réis,1889,portugal e açores e madeira,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,566769,1000,réis,1889,portugal e açores e madeira,austria-hungria,imp,spe,,,,,,Consumo
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,15809,1000,réis,1889,portugal e açores e madeira,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1525824,1000,réis,1889,portugal e açores e madeira,belgica,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,469369,1000,réis,1889,portugal e açores e madeira,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1803761,1000,réis,1889,portugal e açores e madeira,china,imp,spe,,,,,,Consumo
@@ -63,10 +63,10 @@ EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,47121
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,4516790,1000,réis,1887,portugal e açores e madeira,allemanha,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1902589,1000,réis,1888,portugal e açores e madeira,allemanha,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1620257,1000,réis,1887,portugal e açores e madeira,allemanha,exp,spe,,,,,,Exportação nacional e nacionalisada
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,370859,1000,réis,1888,portugal e açores e madeira,austria,imp,spe,,,,,,Consumo
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,140190,1000,réis,1887,portugal e açores e madeira,austria,imp,spe,,,,,,Consumo
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1331,1000,réis,1888,portugal e açores e madeira,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
-EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,10338,1000,réis,1887,portugal e açores e madeira,austria,exp,spe,,,,,,Exportação nacional e nacionalisada
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,370859,1000,réis,1888,portugal e açores e madeira,austria-hungria,imp,spe,,,,,,Consumo
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,140190,1000,réis,1887,portugal e açores e madeira,austria-hungria,imp,spe,,,,,,Consumo
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1331,1000,réis,1888,portugal e açores e madeira,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
+EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,10338,1000,réis,1887,portugal e açores e madeira,austria-hungria,exp,spe,,,,,,Exportação nacional e nacionalisada
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1444882,1000,réis,1888,portugal e açores e madeira,belgica,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,1522320,1000,réis,1887,portugal e açores e madeira,belgica,imp,spe,,,,,,Consumo
 EstatisticaDePortugalCommercioDoContinenteDoReinoEIlhasAdjacentes_1889_Xxi,376039,1000,réis,1888,portugal e açores e madeira,belgica,exp,spe,,,,,,Exportação nacional e nacionalisada

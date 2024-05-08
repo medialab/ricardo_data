@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,79936100,1000,réis,1907,portugal,total,imp,gen,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,12230400,1000,réis,1907,portugal,alemanha,imp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,1347200,1000,réis,1907,portugal,áustria,imp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,1347200,1000,réis,1907,portugal,áustria-hungria,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,2375900,1000,réis,1907,portugal,bélgica,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,295000,1000,réis,1907,portugal,china,imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,99100,1000,réis,1907,portugal,dinamarca,imp,gen,NS,,,,,1 conto = 1000 escudos
@@ -33,7 +33,7 @@ PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,10800,1000,réis,190
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,770100,1000,réis,1907,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",imp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,48893000,1000,réis,1907,portugal,total,exp,gen,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,6592300,1000,réis,1907,portugal,alemanha,exp,gen,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,123900,1000,réis,1907,portugal,áustria,exp,gen,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,123900,1000,réis,1907,portugal,áustria-hungria,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,1826100,1000,réis,1907,portugal,bélgica,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,17100,1000,réis,1907,portugal,china,exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,385300,1000,réis,1907,portugal,dinamarca,exp,gen,NS,,,,,1 conto = 1000 escudos
@@ -65,7 +65,7 @@ PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,9100,1000,réis,1907
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,1688400,1000,réis,1907,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",exp,gen,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,61453100,1000,réis,1907,portugal,total,imp,spe,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,10974400,1000,réis,1907,portugal,alemanha,imp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,1263300,1000,réis,1907,portugal,áustria,imp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,1263300,1000,réis,1907,portugal,áustria-hungria,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,2199700,1000,réis,1907,portugal,bélgica,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,290900,1000,réis,1907,portugal,china,imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,86400,1000,réis,1907,portugal,dinamarca,imp,spe,NS,,,,,1 conto = 1000 escudos
@@ -97,7 +97,7 @@ PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,10700,1000,réis,190
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,749300,1000,réis,1907,portugal,"procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",imp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,30410000,1000,réis,1907,portugal,total,exp,spe,NS,,,,total_reporting,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,2475400,1000,réis,1907,portugal,alemanha,exp,spe,NS,,,,,1 conto = 1000 escudos
-PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,27200,1000,réis,1907,portugal,áustria,exp,spe,NS,,,,,1 conto = 1000 escudos
+PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,27200,1000,réis,1907,portugal,áustria-hungria,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,936600,1000,réis,1907,portugal,bélgica,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,17100,1000,réis,1907,portugal,china,exp,spe,NS,,,,,1 conto = 1000 escudos
 PortugalEstatsticaComercialComrcioENavegao_1911_Xxxivxxxvii,350200,1000,réis,1907,portugal,dinamarca,exp,spe,NS,,,,,1 conto = 1000 escudos
