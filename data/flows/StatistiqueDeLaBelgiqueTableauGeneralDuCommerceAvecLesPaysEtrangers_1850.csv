@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1845,belgique,a l'aventure,exp,spe,,,,,,
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1846,belgique,a l'aventure,exp,spe,,,,,,valeur variable depuis 1846
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1845,belgique,a l'aventure,exp,spe,,,,,,
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1846,belgique,a l'aventure,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,15.766,1000000,francs belges,1845,belgique,angleterre,exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,13.388,1000000,francs belges,1846,belgique,angleterre,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,42.479,1000000,francs belges,1845,belgique,angleterre,imp,spe,,,,,,
@@ -13,10 +13,10 @@ StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.39
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.055,1000000,francs belges,1846,belgique,autres pays (afrique),exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.323,1000000,francs belges,1845,belgique,autres pays (afrique),imp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.229,1000000,francs belges,1846,belgique,autres pays (afrique),imp,spe,,,,,,valeur variable depuis 1846
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.837,1000000,francs belges,1845,belgique,autriche,exp,spe,,,,,,
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,2.056,1000000,francs belges,1846,belgique,autriche,exp,spe,,,,,,valeur variable depuis 1846
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,2.706,1000000,francs belges,1845,belgique,autriche,imp,spe,,,,,,
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,3.068,1000000,francs belges,1846,belgique,autriche,imp,spe,,,,,,valeur variable depuis 1846
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.837,1000000,francs belges,1845,belgique,autriche (empire),exp,spe,,,,,,
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,2.056,1000000,francs belges,1846,belgique,autriche (empire),exp,spe,,,,,,valeur variable depuis 1846
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,2.706,1000000,francs belges,1845,belgique,autriche (empire),imp,spe,,,,,,
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,3.068,1000000,francs belges,1846,belgique,autriche (empire),imp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.763,1000000,francs belges,1845,belgique,brésil,exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.824,1000000,francs belges,1846,belgique,brésil,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,8.555,1000000,francs belges,1845,belgique,brésil,imp,spe,,,,,,
@@ -59,7 +59,7 @@ StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.72
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.69,1000000,francs belges,1846,belgique,grand-duché de luxembourg (association commerciale allemande),imp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.023,1000000,francs belges,1845,belgique,grèce et son archipel,exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.013,1000000,francs belges,1846,belgique,grèce et son archipel,exp,spe,,,,,,valeur variable depuis 1846
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1845,belgique,grèce et son archipel,imp,spe,,,,,,
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1845,belgique,grèce et son archipel,imp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.208,1000000,francs belges,1846,belgique,grèce et son archipel,imp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.105,1000000,francs belges,1845,belgique,guatemala,exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.273,1000000,francs belges,1846,belgique,guatemala,exp,spe,,,,,,valeur variable depuis 1846
@@ -100,7 +100,7 @@ StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,33.8
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.029,1000000,francs belges,1845,belgique,pérou,exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.017,1000000,francs belges,1846,belgique,pérou,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.131,1000000,francs belges,1845,belgique,pérou,imp,spe,,,,,,
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1846,belgique,pérou,imp,spe,,,,,,valeur variable depuis 1846
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1846,belgique,pérou,imp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.163,1000000,francs belges,1845,belgique,philippines,exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.016,1000000,francs belges,1846,belgique,philippines,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.095,1000000,francs belges,1845,belgique,philippines,imp,spe,,,,,,
@@ -109,10 +109,10 @@ StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.49
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.108,1000000,francs belges,1846,belgique,portugal,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,1.46,1000000,francs belges,1845,belgique,portugal,imp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.77,1000000,francs belges,1846,belgique,portugal,imp,spe,,,,,,valeur variable depuis 1846
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1845,belgique,possessions anglaises en amérique,exp,spe,,,,,,
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1846,belgique,possessions anglaises en amérique,exp,spe,,,,,,valeur variable depuis 1846
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1845,belgique,possessions anglaises en amérique,exp,spe,,,,,,
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1846,belgique,possessions anglaises en amérique,exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.021,1000000,francs belges,1845,belgique,possessions anglaises en amérique,imp,spe,,,,,,
-StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0.0,1000000,francs belges,1846,belgique,possessions anglaises en amérique,imp,spe,,,,,,valeur variable depuis 1846
+StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,0,1000000,francs belges,1846,belgique,possessions anglaises en amérique,imp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,21.936,1000000,francs belges,1845,belgique,prusse (association commerciale allemande),exp,spe,,,,,,
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,21.622,1000000,francs belges,1846,belgique,prusse (association commerciale allemande),exp,spe,,,,,,valeur variable depuis 1846
 StatistiqueDeLaBelgiqueTableauGénéralDuCommerceAvecLesPaysÉtrangers_1850,21.967,1000000,francs belges,1845,belgique,prusse (association commerciale allemande),imp,spe,,,,,,
