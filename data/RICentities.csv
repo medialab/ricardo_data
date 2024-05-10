@@ -159,7 +159,7 @@ Arakan,city/part_of,Asia,,,Myanmar (Burma)
 Arakan & Bago (Pegu) & Mawlamyine & Rangoon,group,Asia,,,
 Arakan & Chittagong & Tanintharyi Region,group,Asia,,Arakan_Chittagong_TanintharyiRegion,
 Arakan & Tanintharyi Region,group,Asia,,Aracan_TanintharyiRegion,
-Archipel,city/part_of,Europe,,Archipel,
+Archipelago,city/part_of,Europe,,Archipel,Turkey (Ottoman Empire)
 Arctic,geographical_area,Arctic,,Arctic,
 Arctic & Faeroe Is. & Iceland,group,World,,,
 Arctic & Greenland & North Sea,group,World,,Arctic_Greenland_NorthSea,
@@ -806,9 +806,9 @@ Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Som
 Dodecanese Is. (Aegean Is.),GPH_entity,Europe,3353,DodecaneseIs.AegeanIs.,
 Dodecanese Is. (Aegean Is.) & Greece,group,Europe,,,
 Dodecanese Is. (Aegean Is.) & Italy,group,Europe,,,
-Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),group,World,,DodecaneseIs.AegeanIs._IzmirSmyrna,
-Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_Romania_TurkeyOttomanEmpire,
-Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_TurkeyOttomanEmpire,
+Archipelago & Izmir (Smyrna),group,World,,DodecaneseIs.AegeanIs._IzmirSmyrna,
+Archipelago & Romania & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_Romania_TurkeyOttomanEmpire,
+Archipelago & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_TurkeyOttomanEmpire,
 Dominica,GPH_entity,America,54,Dominica,
 Dominican Republic (Santo Domingo),GPH_entity,America,42,DominicanRepublicSantoDomingo,
 Dominican Republic (Santo Domingo) & Haiti,group,America,,DominicanRepublicSantoDomingo_Haiti,
@@ -844,7 +844,7 @@ Dutch Windward Is.,GPH_entity,America,1074,,
 East Asian Russia,city/part_of,Asia,,,Russia (USSR)
 East Frisia,city/part_of,Europe,,EastFrisia,Prussia
 East Frisia & Oldenburg,group,Europe,,,
-East India Company,city/part_of,Asia,,EastIndiaCompany,
+East India Company,city/part_of,Asia,,EastIndiaCompany,India
 East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),group,Asia,,EastIndiaCompany_PeoplesRepublicofChinaChina_SriLankaCeylon,
 East India Company & Sri Lanka (Ceylon),group,Asia,,EastIndiaCompany_SriLankaCeylon,
 East Indies,geographical_area,Asia,,EastIndies,
@@ -1001,7 +1001,7 @@ French colonies (other) (French produce),city/part_of,World,,,French Colonies (o
 French East Indies,colonial_area,Asia,,,France
 French Eastern Africa,colonial_area,Africa,,,France
 French Eastern Asia,colonial_area,Asia,,,France
-French Entrepôts,city/part_of,Europe,,,
+French Entrepôts,city/part_of,Europe,,,France
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
 French Equatorial Africa & French West Africa,group,Africa,,,
 French Equatorial Western Africa,colonial_area,Africa,,,France
