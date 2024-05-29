@@ -94,7 +94,7 @@ Altona & Hamburg,group,Europe,,Altona_Hamburg,
 Altona & Holstein,group,Europe,,,
 Altona & Holstein & Schleswig,group,Europe,,,
 Altona & Wandsbeck,group,Europe,,Altona_Wandsbeck,
-Ambon,GPH_entity,Asia,8549,AmbonIsland,
+Ambon,city/part_of,Asia,,AmbonIsland,Indonesia (Dutch East Indies)
 Ambriz,city/part_of,Africa,,,Angola
 America,geographical_area,America,,America,
 America (other),city/part_of,America,,Americaother,
@@ -1475,7 +1475,7 @@ Madeira Isles,GPH_entity,Africa,401,MadeiraIsles,
 Madeira Isles & Portugal,group,World,,MadeiraIsles_Portugal,
 Madeira Isles & Portuguese Africa,group,Africa,,,
 Madeira Isles & Tenerife,group,Africa,,,
-Madura,GPH_entity,Asia,8546,,
+Madura,city/part_of,Asia,,,Indonesia (Dutch East Indies)
 Mafia I.,GPH_entity,Africa,5109,,
 Mahé,city/part_of,Asia,,,French India
 Majorca,city/part_of,Europe,,,Balearic Islands
@@ -1899,7 +1899,7 @@ Rhine,geographical_area,Europe,,,
 Rhineland,GPH_entity,Europe,2556,Rhineland,
 Rhode Is.,city/part_of,America,,,United States of America
 Rhodes,city/part_of,Europe,,,Dodecanese Is. (Aegean Is.)
-Riau,GPH_entity,Asia,8544,Riau,
+Riau,GPH_entity,Asia,8532,Riau,
 Riga,city/part_of,Europe,,Riga,Latvia
 Rio de Janeiro,city/part_of,America,,RiodeJaneiro,Brazil
 Río de la Plata United Provinces,GPH_entity,America,1160,,
@@ -2165,7 +2165,7 @@ Tarboro,city/part_of,America,,,United States of America
 Tarsus,city/part_of,Asia,,Tarsus,Turkey (Ottoman Empire)
 Tasmania,GPH_entity,Oceania,906,Tasmania,
 Tenerife,city/part_of,Africa,,CanaryIs,Canary Is.
-Ternate,GPH_entity,Asia,8547,Ternate,
+Ternate,GPH_entity,Asia,8560,Ternate,
 Tetuan,GPH_entity,Africa,6030,Tetuan,
 Texas,GPH_entity,America,7,Texas,
 Thailand (Siam),GPH_entity,Asia,800,ThailandSiam,
