@@ -2,8 +2,10 @@
 import os
 import csv
 import argparse
+import subprocess
+from desaggregate_groups_blur_ratio_method import flow_disaggregate_groups
 from flows_deduplication_pipeline import deduplicate_flows
-from utils import source_filename 
+from utils import source_filename
 
 DATAPACKAGE_ROOT_DIR = "../"
 
@@ -12,6 +14,7 @@ DATAPACKAGE_ROOT_DIR = "../"
 
 def aggregate_flows_from_datapackage():
     from datapackage import Package
+
     ricardo_package = Package(
         os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
         DATAPACKAGE_ROOT_DIR,
@@ -58,8 +61,9 @@ def aggregate_flows_from_csv_files():
 def control_flow_files():
     with open("../data/sources.csv", "r") as sf:
         from datapackage import Package
+
         sources = csv.DictReader(sf)
-        sources_filenames = [f'{source_filename(s)}.csv' for s in sources]
+        sources_filenames = [f"{source_filename(s)}.csv" for s in sources]
 
         ricardo_package = Package(
             os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
@@ -87,6 +91,14 @@ def control_flow_files():
             print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
 
 
+def homogenize_partners():
+    print("Disaggregate trade flows to groups")
+    flow_disaggregate_groups()
+    print("Aggregate trade flows to city/part of")
+    cityPartOfSqlScript = "cat city_part_of.sql | sqlite3"
+    subprocess.call(cityPartOfSqlScript, shell=True)
+
+
 # MAIN: launch action from arg
 
 ACTIONS = {
@@ -94,6 +106,7 @@ ACTIONS = {
     "aggregate_datapackage": aggregate_flows_from_datapackage,
     "deduplicate": deduplicate_flows,
     "control_flow_files": control_flow_files,
+    "homogenize_partners": homogenize_partners,
 }
 
 if __name__ == "__main__":

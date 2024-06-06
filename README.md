@@ -69,11 +69,8 @@ The precise format (list of type of fields) of those csv files is described in t
 
 ## ./database_scripts
 
-This folder contains some python and bash scripts used to:
-- [**deduplicate_flows.py**](./db_script/RICardo_sqlite_creation.py): prepare and filter flows data and combine them into a sqlite database ready to serve the [**RICardo online exploration tool**](http://ricardo.medialab.sciences-po.fr). This scripts also create the few csv exports including in the tool.
-- [**deploy_data.sh**](./db_script/deploy.sh): copy RICardo data in the RICardo web application folder pointed in the [**config.py**](./db_script/config.py) configuration file.
-
-*and more to be documented soon...*
+This folder contains some python and bash scripts used to handle RICardo data-set.
+See [Database script README](./database_scripts/README.md) for more information.
 
 ### deprecated python2 script yet to be ported
 
