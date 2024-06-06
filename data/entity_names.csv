@@ -89,12 +89,12 @@ africa generally,Africa (other)
 africa inglesa,British Africa
 africa inglesa del sur,South Africa
 africa italiana,Italian Africa
-africa merid. britannica,South Africa
+africa merid. britannica,British Southern Africa
 africa merid. francese,French Southern Africa
 africa merid. portoghese,Portuguese Southern Africa
-áfrica meridional británica,South Africa
-africa meridionale britannica,South Africa
-africa meridonal inglesa,South Africa
+áfrica meridional británica,British Southern Africa
+africa meridionale britannica,British Southern Africa
+africa meridonal inglesa,British Southern Africa
 africa occidental francesa,French West Africa
 africa oriental inglesa,British Eastern Africa
 africa portoghese,Portuguese Africa
@@ -1589,7 +1589,7 @@ british somaliland (somaliland republic),Somaliland Republic (British Somaliland
 british soudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 british south africa,South Africa
 british south africa (including nyasaland prot.),British Southern Africa
-british south africa (union),South Africa
+british south africa (union),South African Customs Union
 british south african colonies,British Southern Africa
 british straits settlement,Straits Settlements
 british straits settlement & british borneo,British Borneo & Straits Settlements
@@ -6676,7 +6676,7 @@ port d'italie (trieste),Trieste
 port dantzig,Danzig (Free City of Danzig)
 port de mogador,Essaouira (Mogador)
 port elisabeth,Port Elizabeth
-port libre polonais,Danzig (Free City of Danzig)
+port libre polonais,Poland (other)
 port maurice,Imperia (Porto Maurizio)
 port medway,Port Medway
 port natal,Durban (Port Natal)
@@ -7919,7 +7919,7 @@ south africa and mauritius (british empire),Mauritius & South Africa
 "south africa, cape of good hope",Cape Colony (Cape of Good Hope)
 "south africa, including foreign possessions",South Africa
 "south africa, natal",Natal
-south african produce,South Africa
+south african produce,South Africa (other)
 south african republic,South Africa
 south african union,South Africa
 south america,Southern America
@@ -8211,7 +8211,7 @@ sud-africa,South Africa
 sud-ouest africa,Namibia (South West Africa) (German South West Africa)
 sud-ouest afrique,Namibia (South West Africa) (German South West Africa)
 "sudafrika, n.b.b.",South Africa (other)
-sudafrikanische union,South Africa
+sudafrikanische union,South African Customs Union
 "sudamerika, n.b.b.",Southern America (other)
 sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 sudán,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
@@ -8942,8 +8942,8 @@ union of south africa & northern rhodesia,South Africa & Zambia (Northern Rhodes
 union of south africa + bechuanaland,Botswana (Bechuanaland) & South Africa
 union of south africa + southern rhodesia,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia)
 union of south africa and rhodesia,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia)
-union of south africa: not south african produce,South Africa (Foreign produce)
-union of south africa: south african produce,South Africa (Domestic produce)
+union of south africa: not south african produce,South Africa (other)
+union of south africa: south african produce,South Africa
 union of soviet socialist reps.,Russia (USSR)
 unión soviética,Russia (USSR)
 union sud africaine,South Africa
@@ -9750,7 +9750,6 @@ st. thomas & st. croix,St. Croix & St. Thomas
 vieque,Vieques (Crab Island)
 vieque or crab island,Vieques (Crab Island)
 allemagne et autriche (empire),Austria-Hungary (Austrian Empire) & Germany (Zollverein)
-austria (empire),Austria-Hungary (Austrian Empire)
 austria (imperio),Austria-Hungary (Austrian Empire)
 austurríki hongrie,Austria-Hungary (Austrian Empire)
 austria (impero),Austria-Hungary (Austrian Empire)
