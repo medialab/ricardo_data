@@ -1,4 +1,5 @@
 import csv
+import json
 from flows import aggregate_flows_from_csv_files
 import time
 import os
@@ -277,15 +278,26 @@ def sanitize_RICentities_groups(apply=False):
         }
         with open("../data/RICentities_groups.csv", "r", encoding="utf8") as g:
             RICentities_groups = list(csv.DictReader(g))
-            missing_groups = set(groups_in_RICentities.keys()) - set(
-                (g["RICname_group"] for g in RICentities_groups)
+            groups_IN_RICgroups = set((g["RICname_group"] for g in RICentities_groups))
+            missing_groups_in_RIC_groups = (
+                set(groups_in_RICentities.keys()) - groups_IN_RICgroups
             )
-            print(f"{len(missing_groups)}/{len(groups_in_RICentities.keys())}")
+            deprecated_groups_in_RIC_groups = groups_IN_RICgroups - set(
+                groups_in_RICentities.keys()
+            )
+            print(
+                f"missing groups in RICentities_groups {len(missing_groups_in_RIC_groups)}/{len(groups_in_RICentities.keys())}"
+            )
+            print(
+                f"deprecated groups in RICentities_groups {len(deprecated_groups_in_RIC_groups)}/{len(groups_IN_RICgroups)}"
+            )
+
             missing_parts = set()
-            for g in missing_groups:
+            for g in missing_groups_in_RIC_groups:
                 for part in re.split(" &(?![^(]*\)) ", g):
                     if part not in RICnames:
                         missing_parts.add((g, part))
+            
             if len(missing_parts) > 0:
                 print(f"missing {len(missing_parts)} parts in groups. Stopping.")
                 for g, p in missing_parts:
@@ -320,14 +332,18 @@ def remove_unused_entity_names(apply=False):
         print(f"{len(entity_names_in_flows)} entity names in flows")
         with open("../data/entity_names.csv", "r") as ent_f:
             entity_names = csv.DictReader(ent_f)
-            entity_names_fields = entity_names.fieldnames
+            entity_names_fields = list(entity_names.fieldnames or [])
             entity_names = list(entity_names)
-        print(f"{len(entity_names)} entity names")
+            print(f"{len(entity_names)} entity names")
         entity_names_to_keep = [
             e for e in entity_names if e["original_name"] in entity_names_in_flows
         ]
+        entity_names_to_delete = [
+            e for e in entity_names if e["original_name"] not in entity_names_in_flows
+        ]
         print(f"{len(entity_names) - len(entity_names_to_keep)} entity names to remove")
-        print(entity_names_to_keep[:5])
+        with open("./unused_entity_names.json", "w") as f:
+            json.dump(entity_names_to_delete, f, indent=2)
         if (
             apply
             and len(entity_names_to_keep) > 0
@@ -337,6 +353,54 @@ def remove_unused_entity_names(apply=False):
                 e = csv.DictWriter(ent_f, entity_names_fields)
                 e.writeheader()
                 e.writerows(entity_names_to_keep)
+
+
+def remove_unused_RICentities(apply=False):
+    # aggregate flows
+    entity_name_csv_filename = "../data/entity_names.csv"
+    RICentities_to_keep = []
+    RICentities_fields = []
+    with open(entity_name_csv_filename, "r") as f, open(
+        "../data/RICentities_groups.csv", "r"
+    ) as fg:
+        with open("../data/RICentities.csv", "r") as ent_f:
+            RICentities = csv.DictReader(ent_f)
+            RICentities_fields = list(RICentities.fieldnames or [])
+            RICentities = list(RICentities)
+            print(f"{len(RICentities)} RICentities")
+        existing_RICnames = set((e["RICname"] for e in csv.DictReader(f)))
+        RICnames_in_groups = set((e["RICname_part"] for e in csv.DictReader(fg)))
+        existing_RICnames.update(RICnames_in_groups)
+        existing_RICnames.update(set(r["part_of_GPH_entity"] for r in RICentities))
+        existing_RICnames.discard("")
+        print(
+            f"{len(existing_RICnames)} existing RICentities in entity_names, RICentity_groups or part_of_GPH_entity"
+        )
+        RICentities_to_keep = [
+            e for e in RICentities if e["RICname"] in existing_RICnames
+        ]
+        RICentities_to_delete = [
+            e for e in RICentities if e["RICname"] not in existing_RICnames
+        ]
+        missing_RICentities = [
+            er
+            for er in existing_RICnames
+            if er not in set(e["RICname"] for e in RICentities)
+        ]
+        print(f"{len(missing_RICentities)} missing RICentity")
+        print(f"{len(RICentities) - len(RICentities_to_keep)} entity names to remove")
+        print()
+        with open("./unused_RICentities.json", "w") as f:
+            json.dump(RICentities_to_delete, f, indent=2)
+        if (
+            apply
+            and len(RICentities_to_keep) > 0
+            and len(RICentities_to_keep) - len(RICentities) != 0
+        ):
+            with open("../data/RICentities.csv", "w") as ent_f:
+                e = csv.DictWriter(ent_f, RICentities_fields)
+                e.writeheader()
+                e.writerows(RICentities_to_keep)
 
 
 #  TODO : argparse
@@ -350,6 +414,7 @@ def remove_unused_entity_names(apply=False):
 ACTIONS = {
     "align_GPH_RIC_entities": align_GPH_RIC_entities,
     "remove_unused_entity_names": remove_unused_entity_names,
+    "remove_unused_RICentities": remove_unused_RICentities,
     "sanitize_RICentities_groups": sanitize_RICentities_groups,
     "remove_unused_entity_names": remove_unused_entity_names,
 }
