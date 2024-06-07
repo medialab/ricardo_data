@@ -4,7 +4,12 @@
   "title": "RICardo, Research on International Commerce: trade between Nations from c. 1800 to 1938",
   "description": "RICardo (Research on International Commerce) is a project dedicated to trade between nations over a period spanning the beginning of the Industrial Revolution to the eve of the Second World War. It combines a historical trade database covering all of the world’s countries and a website which invites to an exploration of the history of international trade through data visualizations.",
   "version": "1.0",
-  "keywords": ["trade", "history", "economy", "19th century"],
+  "keywords": [
+    "trade",
+    "history",
+    "economy",
+    "19th century"
+  ],
   "created": "2017-12-05T10:03:50.52Z",
   "licenses": [
     {
@@ -187,10 +192,10 @@
           {
             "name": "type",
             "type": "string",
-            "description": "RICentity type: city/part_of, colonial_area, country, geographical_area, group",
+            "description": "RICentity type: locality, colonial_area, country, geographical_area, group",
             "constraints": {
               "enum": [
-                "city/part_of",
+                "locality",
                 "colonial_area",
                 "GPH_entity",
                 "geographical_area",
@@ -232,14 +237,14 @@
             "description": "slug"
           },
           {
-            "name": "part_of_GPH_entity",
+            "name": "parent_entity",
             "type": "string",
             "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in the GeoPolHist dataset."
           }
         ],
         "foreignKeys": [
           {
-            "fields": "part_of_GPH_entity",
+            "fields": "parent_entity",
             "reference": {
               "resource": "ricentities",
               "fields": "RICname"
@@ -414,10 +419,16 @@
         ],
         "foreignKeys": [
           {
-            "fields": ["modified_currency", "year"],
+            "fields": [
+              "modified_currency",
+              "year"
+            ],
             "reference": {
               "resource": "exchange_rates",
-              "fields": ["modified_currency", "year"]
+              "fields": [
+                "modified_currency",
+                "year"
+              ]
             }
           }
         ]
@@ -448,7 +459,13 @@
             "type": "string",
             "description": "translated export/import",
             "constraints": {
-              "enum": ["Exp", "Exp+Imp", "Imp", "Re-exp", "Re-imp"],
+              "enum": [
+                "Exp",
+                "Exp+Imp",
+                "Imp",
+                "Re-exp",
+                "Re-imp"
+              ],
               "required": true
             }
           },
@@ -482,7 +499,10 @@
       "title": "Trade flows transcribed from various international trade statistics volumes",
       "format": "csv",
       "schema": {
-        "missingValues": ["", "?"],
+        "missingValues": [
+          "",
+          "?"
+        ],
         "fields": [
           {
             "name": "source",
@@ -554,7 +574,10 @@
             "type": "string",
             "description": "Precise wether this trade flow is a monatory flow.",
             "constraints": {
-              "enum": ["S", "NS"]
+              "enum": [
+                "S",
+                "NS"
+              ]
             }
           },
           {
@@ -588,7 +611,9 @@
             "type": "string",
             "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
             "constraints": {
-              "enum": ["1"]
+              "enum": [
+                "1"
+              ]
             }
           },
           {
@@ -633,17 +658,31 @@
             }
           },
           {
-            "fields": ["currency", "year", "reporting"],
+            "fields": [
+              "currency",
+              "year",
+              "reporting"
+            ],
             "reference": {
               "resource": "currencies",
-              "fields": ["currency", "year", "reporting"]
+              "fields": [
+                "currency",
+                "year",
+                "reporting"
+              ]
             }
           },
           {
-            "fields": ["export_import", "special_general"],
+            "fields": [
+              "export_import",
+              "special_general"
+            ],
             "reference": {
               "resource": "expimp_spegen",
-              "fields": ["export_import", "special_general"]
+              "fields": [
+                "export_import",
+                "special_general"
+              ]
             }
           }
         ]

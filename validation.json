@@ -172,10 +172,10 @@
             {
               "name": "type",
               "type": "string",
-              "description": "RICentity type: city/part_of, colonial_area, country, geographical_area, group",
+              "description": "RICentity type: locality, colonial_area, country, geographical_area, group",
               "constraints": {
                 "enum": [
-                  "city/part_of",
+                  "locality",
                   "colonial_area",
                   "GPH_entity",
                   "geographical_area",
@@ -217,14 +217,14 @@
               "description": "slug"
             },
             {
-              "name": "part_of_GPH_entity",
+              "name": "parent_entity",
               "type": "string",
               "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in the GeoPolHist dataset."
             }
           ],
           "foreignKeys": [
             {
-              "fields": "part_of_GPH_entity",
+              "fields": "parent_entity",
               "reference": {
                 "resource": "ricentities",
                 "fields": "RICname"
@@ -271,7 +271,7 @@
           "fieldPosition": 1,
           "cells": [
             "France (Foreign produce)",
-            "city/part_of",
+            "locality",
             "Europe",
             "",
             "",

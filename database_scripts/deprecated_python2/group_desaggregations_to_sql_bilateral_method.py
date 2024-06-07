@@ -22,7 +22,7 @@ conn = sqlite3.connect(database_filename)
 conn.row_factory = dict_factory
 cursor = conn.cursor()
 
-#KEY_TO_INSERT = ['source_label','original_reporting','currency','rate','year','partner','expimp','quality_tag','unit','reporting_continent','reporting_part_of_GPH_entity','source','type','reporting_slug','reporting','original_partner','species_bullions','partner_type','partner_continent','partner_slug','spegen','reporting_type','notes','flow','partner_part_of_GPH_entity','transport_type']
+#KEY_TO_INSERT = ['source_label','original_reporting','currency','rate','year','partner','expimp','quality_tag','unit','reporting_continent','reporting_parent_entity','source','type','reporting_slug','reporting','original_partner','species_bullions','partner_type','partner_continent','partner_slug','spegen','reporting_type','notes','flow','partner_parent_entity','transport_type']
 
 with open('group_desaggregations.json', 'r') as f:
     group_desaggregations = json.load(f)
@@ -74,7 +74,7 @@ with open('group_desaggregations.json', 'r') as f:
     print "updated %s flows containing a group entitiy partner" % cursor.rowcount
 
     partners_to_complete_values = []
-    partners_to_complete_keys = ['type', 'continent', 'part_of_GPH_entity']
+    partners_to_complete_keys = ['type', 'continent', 'parent_entity']
 
     # add RICname metadata to partner column in flows for new bilateral flows to desaggregated entities from group
     cursor.execute("""SELECT * from RICentities """)

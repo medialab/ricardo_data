@@ -255,9 +255,9 @@ def change_RICnames(RICname_modifications):
     modified = _update_RICdatafile("../data/RICentities.csv", "RICname", True, True)
     print(f"{modified} lines modified in RICname from RICentities.csv")
     modified = _update_RICdatafile(
-        "../data/RICentities.csv", "part_of_GPH_entity", True, True
+        "../data/RICentities.csv", "parent_entity", True, True
     )
-    print(f"{modified} lines modified in part_of_GPH_entity from RICentities.csv")
+    print(f"{modified} lines modified in parent_entity from RICentities.csv")
     # entity name
     modified = _update_RICdatafile("../data/entity_names.csv", "RICname")
     print(f"{modified} lines modified in entity_names.csv")
@@ -297,7 +297,7 @@ def sanitize_RICentities_groups(apply=False):
                 for part in re.split(" &(?![^(]*\)) ", g):
                     if part not in RICnames:
                         missing_parts.add((g, part))
-            
+
             if len(missing_parts) > 0:
                 print(f"missing {len(missing_parts)} parts in groups. Stopping.")
                 for g, p in missing_parts:
@@ -371,10 +371,10 @@ def remove_unused_RICentities(apply=False):
         existing_RICnames = set((e["RICname"] for e in csv.DictReader(f)))
         RICnames_in_groups = set((e["RICname_part"] for e in csv.DictReader(fg)))
         existing_RICnames.update(RICnames_in_groups)
-        existing_RICnames.update(set(r["part_of_GPH_entity"] for r in RICentities))
+        existing_RICnames.update(set(r["parent_entity"] for r in RICentities))
         existing_RICnames.discard("")
         print(
-            f"{len(existing_RICnames)} existing RICentities in entity_names, RICentity_groups or part_of_GPH_entity"
+            f"{len(existing_RICnames)} existing RICentities in entity_names, RICentity_groups or parent_entity"
         )
         RICentities_to_keep = [
             e for e in RICentities if e["RICname"] in existing_RICnames

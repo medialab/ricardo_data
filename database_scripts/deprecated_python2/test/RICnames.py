@@ -41,11 +41,11 @@ def test(cursor):
         for l in r:
             print l
 
-    # part_of_GPH_entity
-    test('part_of_GPH_entity of countries should be empty',
+    # parent_entity
+    test('parent_entity of countries should be empty',
          """SELECT *
 		 	from RICentities
-		 	WHERE type = 'GPH_entity' AND part_of_GPH_entity is not null""",
+		 	WHERE type = 'GPH_entity' AND parent_entity is not null""",
          cursor)
     test('COW_code mandatory for countries',
          """SELECT *
@@ -57,16 +57,16 @@ def test(cursor):
 			 from RICentities
 			 WHERE type != 'GPH_entity' AND GPH_code is not null AND GPH_code !='' """,
          cursor)
-    test('part_of_GPH_entity must be a RICEntity country',
+    test('parent_entity must be a RICEntity country',
          """SELECT *
 			 from RICentities as r
-			 	LEFT JOIN RICentities as r2 ON r2.RICname = r.part_of_GPH_entity
-			 WHERE r.part_of_GPH_entity not null AND r2.RICname is not null AND r2.type != 'GPH_entity'""",
+			 	LEFT JOIN RICentities as r2 ON r2.RICname = r.parent_entity
+			 WHERE r.parent_entity not null AND r2.RICname is not null AND r2.type != 'GPH_entity'""",
          cursor)
-    test('part_of_GPH_entity mandatory for colonial_area and city/part_of',
+    test('parent_entity mandatory for colonial_area and locality',
          """SELECT *
 			 from RICentities 
-			 WHERE type IN ('colonial_area','city/part_of') AND part_of_GPH_entity is null""",
+			 WHERE type IN ('colonial_area','locality') AND parent_entity is null""",
          cursor)
 
     cursor.execute("""SELECT RICname,type from RICentities""")

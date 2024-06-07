@@ -49,9 +49,7 @@ def filter_partial_partners_grouped_flows(grouped_flows, partners, method):
                             "partner_type": f["%s_type" % entity_key],
                             "partner_slug": f["%s_slug" % entity_key],
                             "partner_continent": f["%s_continent" % entity_key],
-                            "partner_part_of_GPH_entity": f[
-                                "%s_part_of_GPH_entity" % entity_key
-                            ],
+                            "partner_parent_entity": f["%s_parent_entity" % entity_key],
                         }
                         for f in flows
                     ]
@@ -296,7 +294,7 @@ def flow_disaggregate_groups():
     # print( "updated %s flows containing a group entitiy partner"%cursor.rowcount)
 
     # partners_to_complete_values =[]
-    # partners_to_complete_keys = ['type', 'continent', 'part_of_GPH_entity']
+    # partners_to_complete_keys = ['type', 'continent', 'parent_entity']
 
     # # add RICname metadata to partner column in flows for new bilateral flows to desaggregated entities from group
     # cursor.execute("""SELECT * from RICentities """)

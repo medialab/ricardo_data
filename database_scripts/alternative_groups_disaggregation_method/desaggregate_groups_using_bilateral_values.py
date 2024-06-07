@@ -131,9 +131,9 @@ for (group, reporting), flows in itertools.groupby(
                     group_desaggregation["new_flows"][-1]["partner_continent"] = mirror[
                         "reporting_continent"
                     ]
-                    group_desaggregation["new_flows"][-1][
-                        "partner_part_of_GPH_entity"
-                    ] = mirror["reporting_continent"]
+                    group_desaggregation["new_flows"][-1]["partner_parent_entity"] = (
+                        mirror["reporting_continent"]
+                    )
                     # the flow amount is calculated by applying on original value the ratio calculated from mirror flows composing the group
                     group_desaggregation["new_flows"][-1]["flow"] = (
                         year_expimp[year][expimp]["flow"]
@@ -161,9 +161,11 @@ for (group, reporting), flows in itertools.groupby(
                 "partner": " & ".join(sorted(partners - coverage)),
                 # 'partner_type' : '',# /!\ to be added later
                 "flow": new_flow,
-                "quality_tag": "group_desaggregation_total"
-                if new_flow >= 0
-                else "negative_group_desaggregation_total",
+                "quality_tag": (
+                    "group_desaggregation_total"
+                    if new_flow >= 0
+                    else "negative_group_desaggregation_total"
+                ),
             }
             complete_desagg += 1
         else:
@@ -178,9 +180,11 @@ for (group, reporting), flows in itertools.groupby(
             group_desaggregation["update"] = {
                 "partner": " & ".join(sorted(partners - coverage)),
                 "flow": new_flow,
-                "quality_tag": "group_desaggregation_partial"
-                if new_flow >= 0
-                else "negative_group_desaggregation_partial",
+                "quality_tag": (
+                    "group_desaggregation_partial"
+                    if new_flow >= 0
+                    else "negative_group_desaggregation_partial"
+                ),
             }
             group_modif += 1
         group_desaggregations.append(group_desaggregation)

@@ -5,7 +5,8 @@ tasks:
   - resource:
       name: sources
       title: Trade statistics sources
-      description: Volumes of statistics, books or research papers used to compile
+      description:
+        Volumes of statistics, books or research papers used to compile
         the flows table.
       format: csv
       encoding: utf-8
@@ -21,11 +22,12 @@ tasks:
               required: true
           - name: author
             type: string
-            description: Author.s of the source when appropriate (i.e. not for statistical
+            description:
+              Author.s of the source when appropriate (i.e. not for statistical
               series)
           - name: name
             type: string
-            description: 'Name of the source: title of the volume/book/research paper'
+            description: "Name of the source: title of the volume/book/research paper"
             constraints:
               required: true
           - name: editor
@@ -39,7 +41,8 @@ tasks:
             description: Number of volume when in a serie
           - name: volume_date
             type: string
-            description: Date.s of trade described in this source when indicated in
+            description:
+              Date.s of trade described in this source when indicated in
               the source name
           - name: edition_date
             type: string
@@ -55,8 +58,9 @@ tasks:
             description: Free text notes left by the research team
           - name: source_category
             type: string
-            description: 'source category: article, book, database, statistical series,
-              website'
+            description:
+              "source category: article, book, database, statistical series,
+              website"
             constraints:
               enum:
                 - article
@@ -70,7 +74,7 @@ tasks:
             description: URL where the original source is available
           - name: type
             type: string
-            description: 'Type of source: primary, primary_yearbook, secondary, estimation'
+            description: "Type of source: primary, primary_yearbook, secondary, estimation"
             constraints:
               enum:
                 - primary
@@ -113,7 +117,8 @@ tasks:
   - resource:
       name: ricentities
       title: RICentites
-      description: RICentites are the unified nomencalture of trade reporting and
+      description:
+        RICentites are the unified nomencalture of trade reporting and
         partner names.
       format: csv
       encoding: utf-8
@@ -129,18 +134,20 @@ tasks:
               required: true
           - name: type
             type: string
-            description: 'RICentity type: city/part_of, colonial_area, country, geographical_area,
-              group'
+            description:
+              "RICentity type: locality, colonial_area, country, geographical_area,
+              group"
             constraints:
               enum:
-                - city/part_of
+                - locality
                 - colonial_area
                 - GPH_entity
                 - geographical_area
                 - group
           - name: continent
             type: string
-            description: continent the RICentity belongs to (Ocean are considered
+            description:
+              continent the RICentity belongs to (Ocean are considered
               as continents).
             constraints:
               enum:
@@ -160,18 +167,20 @@ tasks:
                 - World
           - name: GPH_code
             type: string
-            description: GeoPolHist dataset identifier mostly compatible with Correlates
+            description:
+              GeoPolHist dataset identifier mostly compatible with Correlates
               Of War (COW) identifiers.
           - name: slug
             type: string
             description: slug
-          - name: part_of_GPH_entity
+          - name: parent_entity
             type: string
-            description: indicates if this RICentity is a part of another one contineously
+            description:
+              indicates if this RICentity is a part of another one contineously
               in time. Time dependent dependencies are not coded in this variable
               but in the GeoPolHist dataset.
         foreignKeys:
-          - fields: part_of_GPH_entity
+          - fields: parent_entity
             reference:
               resource: ricentities
               fields: RICname
@@ -210,7 +219,8 @@ tasks:
   - resource:
       name: entity_names
       title: Entity names
-      description: This table documents how the partner and reporting original names
+      description:
+        This table documents how the partner and reporting original names
         in sources have been translated in a unified nomemclature.
       format: csv
       encoding: utf-8
@@ -220,7 +230,8 @@ tasks:
         fields:
           - name: original_name
             type: string
-            description: name of a reportnig and/or partner as found in source.s (unique
+            description:
+              name of a reportnig and/or partner as found in source.s (unique
               identifier)
             constraints:
               unique: true
@@ -270,7 +281,8 @@ tasks:
   - resource:
       name: ricentities_groups
       title: RICentities groups
-      description: Some RICentities are of type 'group'. This table show which entities
+      description:
+        Some RICentities are of type 'group'. This table show which entities
         are part of RICentities groups
       format: csv
       encoding: utf-8
@@ -410,7 +422,8 @@ tasks:
             description: Curencies are translated depending on the year of the flow
           - name: reporting
             type: string
-            description: Curencies are translated depending on the reporting of the
+            description:
+              Curencies are translated depending on the reporting of the
               flow
           - name: modified_currency
             type: string
@@ -529,7 +542,8 @@ tasks:
   - resource:
       name: flows
       sources:
-        - title: Trade statistics from various countries archives and research papers,
+        - title:
+            Trade statistics from various countries archives and research papers,
             see data/sources.csv for details
       encoding: utf-8
       profile: tabular-data-resource
@@ -537,8 +551,8 @@ tasks:
       format: csv
       schema:
         missingValues:
-          - ''
-          - '?'
+          - ""
+          - "?"
         fields:
           - name: source
             type: string
@@ -562,7 +576,7 @@ tasks:
             description: The currency the trade flow value is expressed in
           - name: year
             type: year
-            description: 'The year of the trade flow '
+            description: "The year of the trade flow "
             constraints:
               required: true
           - name: reporting
@@ -590,8 +604,9 @@ tasks:
                 - NS
           - name: transport_type
             type: string
-            description: 'For some flows, the transport type is precised : by land
-              or by see for instance.'
+            description:
+              "For some flows, the transport type is precised : by land
+              or by see for instance."
             constraints:
               enum:
                 - river
@@ -608,20 +623,23 @@ tasks:
                 - land & railway
           - name: statistical_period
             type: string
-            description: Some statistics are not reported by civil years. This field
+            description:
+              Some statistics are not reported by civil years. This field
               indicates those precising the statistical period (not normalized).
           - name: partner_sum
             type: string
-            description: When '1', indicates trade flows which are subtotals calculated
+            description:
+              When '1', indicates trade flows which are subtotals calculated
               in the source (this field should be a boolean...).
             constraints:
               enum:
-                - '1'
+                - "1"
           - name: world_trade_type
             type: string
-            description: 'Categorize the different types of Total trade calculations:
+            description:
+              "Categorize the different types of Total trade calculations:
               total_estimated (recent estimations), total_reporting1 (total reported
-              by the soruce), total_reporting2 (subtotals reported by the source)'
+              by the soruce), total_reporting2 (subtotals reported by the source)"
             constraints:
               enum:
                 - total_estimated
