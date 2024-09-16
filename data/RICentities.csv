@@ -1063,7 +1063,7 @@ Germany (Zollverein) (other),locality,Europe,,"GermanyZollverein,other",Germany 
 Germany (Zollverein) (other) & Prussia,group,Europe,,Germanyother_Prussia,
 Germany (Zollverein) & Hamburg,group,Europe,,GermanyZollverein_Hamburg,
 Germany (Zollverein) & Hanse Towns,group,Europe,,,
-Germany (Zollverein) & Rhine,group,Europe,,GermanyZollverein_Rhine,
+Germany (Zollverein) (Rhine),locality,Europe,,GermanyZollverein_Rhine,Germany (Zollverein)
 Germany (Zollverein) & Saar,group,Europe,,GermanyZollverein_Saar,
 Ghana (Gold Coast),GPH_entity,Africa,452,GhanaGoldCoast,
 Ghana (Gold Coast) (other),locality,Africa,,,Ghana (Gold Coast)
@@ -1861,7 +1861,6 @@ Republic of St. Mark & Trieste,group,Europe,,RepublicofSt.Mark_Trieste,
 Reunion (Bourbon I.),GPH_entity,Africa,585,Reunion,
 Reunion (Bourbon I.) (French produce),locality,Africa,,,Reunion (Bourbon I.)
 Reunion (Bourbon I.) (other),locality,Africa,,,Reunion (Bourbon I.)
-Rhine,geographical_area,Europe,,,
 Rhineland,GPH_entity,Europe,2556,Rhineland,
 Rhode Is.,locality,America,,,United States of America
 Rhodes,locality,Europe,,,Dodecanese Is. (Aegean Is.)
