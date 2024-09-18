@@ -156,6 +156,9 @@ Arakan & Bago (Pegu) & Mawlamyine & Rangoon,group,Asia,,,
 Arakan & Chittagong & Tanintharyi Region,group,Asia,,Arakan_Chittagong_TanintharyiRegion,
 Arakan & Tanintharyi Region,group,Asia,,Aracan_TanintharyiRegion,
 Archipelago,locality,Europe,,Archipel,Turkey (Ottoman Empire)
+Archipelago & Izmir (Smyrna),group,World,,DodecaneseIs.AegeanIs._IzmirSmyrna,
+Archipelago & Romania & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_Romania_TurkeyOttomanEmpire,
+Archipelago & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_TurkeyOttomanEmpire,
 Arctic,geographical_area,Arctic,,Arctic,
 Arctic & Faeroe Is. & Iceland,group,World,,,
 Arctic & Greenland & North Sea,group,World,,Arctic_Greenland_NorthSea,
@@ -206,7 +209,6 @@ Assinie & Grand-Bassam & Senegal,group,Africa,,,
 Atlantic Ocean,geographical_area,Atlantic,,AtlanticOcean,
 Auckland Is.,GPH_entity,Oceania,9205,,
 Auckland Is. & Fiji,group,Oceania,,,
-Australasia (other),locality,Oceania,,,Australasia
 Australia,GPH_entity,Oceania,900,Australia,
 Australia (French produce),locality,Oceania,,,Australia
 Australia (other),locality,Oceania,,Australiaother,Australia
@@ -405,8 +407,8 @@ Bremen & Hamburg & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
 Bremen & Lübeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
-Bremerhaven & Geestemünde,group,Europe,,,
 Bremerhaven,locality,Europe,,,Bremen
+Bremerhaven & Geestemünde,group,Europe,,,
 Bridgwater,locality,Europe,,,United Kingdom
 British Africa,colonial_area,Africa,,BritishAfrica,United Kingdom
 British Africa (other),locality,America,,BritishAfricaother,British Africa
@@ -734,9 +736,9 @@ Cyrenaica & Tripolitania (Regency of Tripoli),group,Africa,,Cyrenaica_Tripolitan
 Czechoslovakia,GPH_entity,Europe,315,Czechoslovakia,
 Czechoslovakia & Hungary,group,Europe,,,
 Dakar,locality,Africa,,,Senegal
-Dalmatia,locality,Europe,,,Austria-Hungary (Austrian Empire)
 Dalian,GPH_entity,Asia,7132,,
 Dalian & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
+Dalmatia,locality,Europe,,,Austria-Hungary (Austrian Empire)
 Damaraland,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Damascus,locality,Asia,,,Syria
 Damietta,locality,Africa,,,Egypt Arab Republic (Egypt)
@@ -794,9 +796,6 @@ Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic
 Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Somaliland),group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_SomalilandRepublicBritishSomaliland,
 Dodecanese Is. (Aegean Is.),GPH_entity,Europe,3353,DodecaneseIs.AegeanIs.,
 Dodecanese Is. (Aegean Is.) & Italy,group,Europe,,,
-Archipelago & Izmir (Smyrna),group,World,,DodecaneseIs.AegeanIs._IzmirSmyrna,
-Archipelago & Romania & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_Romania_TurkeyOttomanEmpire,
-Archipelago & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_TurkeyOttomanEmpire,
 Dominica,GPH_entity,America,54,Dominica,
 Dominican Republic (Santo Domingo),GPH_entity,America,42,DominicanRepublicSantoDomingo,
 Dominican Republic (Santo Domingo) & Haiti,group,America,,DominicanRepublicSantoDomingo_Haiti,
@@ -820,7 +819,7 @@ Dutch Colonies (other) & Natuna,group,Asia,,,
 Dutch Colonies & Netherlands,group,World,,DutchColonies_Netherlands,
 Dutch Eastern Africa,colonial_area,Africa,,,Netherlands
 Dutch Free Ports,locality,Europe,,,Netherlands
-Dutch government,locality,Europe,,Dutchgovernment,
+Dutch government,locality,Europe,,Dutchgovernment,***NA
 Dutch India,colonial_area,Asia,,,Netherlands
 Dutch India (other),locality,Asia,,,Dutch India
 Dutch Oceania,colonial_area,Oceania,,DutchOceania,Netherlands
@@ -883,9 +882,11 @@ Elmina,locality,Africa,,,Ghana (Gold Coast)
 Elobey Is.,GPH_entity,Africa,4113,,
 English Channel,geographical_area,Europe,,EnglishChannel,
 Equatorial Africa,geographical_area,Africa,,,
+Equatorial Eastern Africa,geographical_area,Africa,,,
 Equatorial Eastern Africa (other),locality,Africa,,,Equatorial Eastern Africa
 Equatorial Guinea (Spanish Guinea),GPH_entity,Africa,411,,
 Equatorial Guinea (Spanish Guinea) & Spanish Morocco,group,Africa,,,
+Equatorial Western Africa,geographical_area,Africa,,,
 Equatorial Western Africa (other),locality,Africa,,,Equatorial Western Africa
 Eritrea,GPH_entity,Africa,531,Eritrea,
 Eritrea & Italian Somaliland,group,Africa,,Eritrea_ItalianSomaliland,
@@ -1003,6 +1004,7 @@ French Indochina & Thailand (Siam),group,Asia,,,
 French Mediterranean Sea,colonial_area,Europe,,FrenchMediterranean,France
 French Northern Africa,colonial_area,Africa,,,France
 French Northern America,colonial_area,America,,FrenchNorthAmerica,France
+French Oceania,colonial_area,Oceania,,,
 French Oceania (other),locality,Oceania,,,French Oceania
 French Oceania (other) & New Caledonia,group,Oceania,,,
 French Polynesia,GPH_entity,Oceania,960,,
@@ -1046,7 +1048,7 @@ German China,colonial_area,Asia,,GermanChina,Germany (Zollverein)
 German China & German Oceania,group,World,,,
 German Colonies,colonial_area,World,,GermanColonies,Germany (Zollverein)
 German Colonies & Germany (Zollverein),group,World,,GermanColonies_GermanyZollverein,
-German Confederation (other),locality,Europe,,,
+German Confederation (other),locality,Europe,,,***NA
 German East Africa,GPH_entity,Africa,510,GermanEastAfrica,
 German East Africa & Germany (Zollverein),group,World,,GermanEastAfrica_GermanyZollverein,
 German Oceania,colonial_area,Oceania,,GermanOceania,Germany (Zollverein)
@@ -1061,9 +1063,9 @@ Germany (Zollverein) (French produce),locality,Europe,,,Germany (Zollverein)
 Germany (Zollverein) (North Sea),locality,Europe,,,Germany (Zollverein)
 Germany (Zollverein) (other),locality,Europe,,"GermanyZollverein,other",Germany (Zollverein)
 Germany (Zollverein) (other) & Prussia,group,Europe,,Germanyother_Prussia,
+Germany (Zollverein) (Rhine),locality,Europe,,GermanyZollverein_Rhine,Germany (Zollverein)
 Germany (Zollverein) & Hamburg,group,Europe,,GermanyZollverein_Hamburg,
 Germany (Zollverein) & Hanse Towns,group,Europe,,,
-Germany (Zollverein) (Rhine),locality,Europe,,GermanyZollverein_Rhine,Germany (Zollverein)
 Germany (Zollverein) & Saar,group,Europe,,GermanyZollverein_Saar,
 Ghana (Gold Coast),GPH_entity,Africa,452,GhanaGoldCoast,
 Ghana (Gold Coast) (other),locality,Africa,,,Ghana (Gold Coast)
@@ -1252,6 +1254,8 @@ Italian Colonies,colonial_area,World,,ItalianColonies,Italy
 Italian Colonies (other),locality,World,,,Italian Colonies
 Italian Colonies & Italy,group,World,,ItalianColonies_Italy,
 Italian East Africa,GPH_entity,Africa,5201,ItalianEastAfrica,
+Italian Eastern Africa,colonial_area,Africa,,,
+Italian Eastern Africa (other),locality,Africa,,,Italian Eastern Africa
 Italian Somaliland,GPH_entity,Africa,5200,ItalianSomaliland,
 Italy,GPH_entity,Europe,325,Italy,
 Italy (other),locality,Europe,,Italyother,Italy
@@ -1350,7 +1354,7 @@ Kniphausen & Oldenburg,group,Europe,,Kniphausen_Oldenburg,
 Kokand,GPH_entity,Asia,7010,Kokand,
 Kolkata (Calcutta),locality,Asia,,KolkataCalcutta,India
 Kolkata (Calcutta) & Sri Lanka (Ceylon),group,Asia,,KolkataCalcutta_SriLankaCeylon,
-Kongpot,locality,Asia,,Kongpot,
+Kongpot,locality,Asia,,Kongpot,***NA
 Kordofan,GPH_entity,Africa,6253,,
 Korea (Chosen),GPH_entity,Asia,730,KoreaChosen,
 Kos,locality,Europe,,,Dodecanese Is. (Aegean Is.)
@@ -1658,7 +1662,7 @@ Ningbo,locality,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (Ch
 Niue I.,GPH_entity,Oceania,9253,NiueI.,
 Norfolk I.,GPH_entity,Oceania,9004,,
 North Australia,locality,Oceania,,,Australia
-North German Confederation,locality,Europe,,NorthGermanConfederation,
+North German Confederation,locality,Europe,,NorthGermanConfederation,***NA
 North Germany,locality,Europe,,NorthGermany,Germany (Zollverein)
 North Germany & Prussia,group,Europe,,NorthGermany_Prussia,
 North Macedonia (Former Yugoslav Republic of Macedonia) (Macedonia),GPH_entity,Asia,343,NorthMacedoniaFormerYugoslavRepublicofMacedoniaMacedonia,
@@ -1782,7 +1786,7 @@ Piedmont & Tuscany,group,Europe,,Piedmont_Tuscany,
 Piraeus,locality,Europe,,Piraeus,Greece
 Pitcairn Is.,GPH_entity,Oceania,9620,,
 Poland,GPH_entity,Europe,290,Poland,
-Polar countries (other),locality,Arctic,,,Polar countries
+Poland Free Ports,locality,Europe,,,Poland
 Polynesia,geographical_area,Oceania,,Polynesia,
 Polynesia (other),locality,Oceania,,,Polynesia
 Pomerania,locality,Europe,,Pomerania,Prussia
@@ -2041,7 +2045,7 @@ Spanish Town,locality,America,,,Jamaica
 Spanish West Indies,colonial_area,America,,,Spain
 Spanish West Indies (other),locality,America,,,Spanish West Indies
 Spanish West Indies (West),colonial_area,America,,,Spain
-Spanish Western Africa,geographical_area,Africa,,,
+Spanish Western Africa,colonial_area,Africa,,,Spain
 Species,,,,Species,
 Spitsbergen,locality,Europe,,,Svalbard Is.
 Sri Lanka (Ceylon),GPH_entity,Asia,780,SriLankaCeylon,
@@ -2065,7 +2069,6 @@ St. Thomas,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danis
 St. Vincent,locality,America,,,St. Vincent and the Grenadines
 St. Vincent and the Grenadines,GPH_entity,America,57,St.VincentandtheGrenadines,
 St. Vincent and the Grenadines (other),locality,America,,,St. Vincent and the Grenadines
-States of America (other),locality,America,,StatesofAmericaother,States of America
 Straits Settlements,GPH_entity,Asia,827,StraitsSettlements,
 Straits Settlements & Straits Settlements Dependencies,group,World,,,
 Straits Settlements Dependencies,locality,Asia,,,Straits Settlements
@@ -2235,7 +2238,6 @@ Winneba,locality,Africa,,,Ghana (Gold Coast)
 World,geographical_area,World,,World,
 World (other than British),locality,World,,WorldotherthanBritish,World
 World (other),locality,World,,Worldother,World
-World (other) (British),locality,Africa,,,World (British)
 World (other) (Foreign produce),locality,World,,,World
 World (other) (French produce),locality,World,,,World
 World (via Altona & Holstein & Schleswig),geographical_area,World,,WorldviaAltona_Holstein_Schleswig,
@@ -2270,6 +2272,3 @@ Zeila,locality,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
 Zululand,GPH_entity,Africa,5621,,
-Poland Free Ports,locality,Europe,,,Poland
-Italian Eastern Africa,colonial_area,Africa,,,
-Italian Eastern Africa (other),locality,Africa,,,Italian Eastern Africa

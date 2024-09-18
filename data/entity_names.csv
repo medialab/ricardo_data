@@ -9,6 +9,7 @@ a bordo,***NA
 a l'aventure,Quebec (Lower Canada)
 a la orden,***NA
 a travers la russie,World (via Russia)
+a.e.f.,French Equatorial Africa
 a.o.f,French West Africa
 a.o.f.,French West Africa
 abd,United States of America
@@ -22,14 +23,19 @@ abisinija,Ethiopia (Abyssinia)
 abisynja,Ethiopia (Abyssinia)
 abyssinia,Ethiopia (Abyssinia)
 abyssinie,Ethiopia (Abyssinia)
+accra,Accra
 achem,Aceh
 acores,Azores (Western Isles)
 açores,Azores (Western Isles)
 açȏres,Azores (Western Isles)
+addah,Addah
+addidomey,Adidome
+adelaide,Adelaide
 aden,Aden
 aden (arabia),Aden
 aden and dependencies,Aden & Aden Dependencies
 aden and dpendencies,Aden & Aden Dependencies
+aden and mauritius,Aden & Mauritius
 aden e stabilimenti dello stretto,Aden & Straits Settlements
 aden et colonies anglaises,Aden & British Colonies (other)
 "aden, bahrein usw.",Aden & Bahrain
@@ -61,6 +67,7 @@ africa (british),British Africa
 africa (east coast),Eastern Africa
 africa (foreign),Africa (other)
 africa (non british),Africa (other)
+africa (non british) and arabia,Africa (other) & Arabia
 africa (p.n.e.),Africa (other)
 africa (west coast),Western Africa
 africa alemana,German Africa
@@ -68,6 +75,7 @@ africa austral,Southern Africa
 africa austral inglesa,South Africa
 africa belga,Belgian Africa
 africa british east,British Eastern Africa
+africa del sud,South Africa
 africa del sur,South Africa
 africa diversas origens,Africa (other)
 africa east and west (portuguese),Portuguese Africa
@@ -111,15 +119,20 @@ africa-diversas possessoes portuguezas,Portuguese Africa
 "africa, coast of",Africa Coast
 "africa, east coast",Eastern Africa
 "africa, including cape of good hope",Africa & Cape Colony (Cape of Good Hope)
+"africa, n.m.e.",Africa (other)
 "africa, other",Africa (other)
 "africa, west coast",Western Africa
 african,British Africa
+african coast,Africa Coast
 african countries,Africa
 african islands,African Islands
+african ports,Africa
+african ports (other),Africa (other)
 african ports on the rde sea,Red Sea (Africa)
 african possessions,British Africa
 afrik'as westküste un den canarien,Canary Is. & Western Africa
 afrika,Africa
+afrika (ausser ägypten und algier),Africa (other)
 afrika (oostkust),Eastern Africa
 afrika (westkust),Western Africa
 afrika forøvrigt,Africa (other)
@@ -213,11 +226,16 @@ afrique**,Africa
 afryka pólnocna francuska,French Africa (other)
 afryka poludniowo-zachodnia,Namibia (South West Africa) (German South West Africa)
 afryka równikowa francuska,French Equatorial Africa
+aghwey,Aghwey
 agypten,Egypt Arab Republic (Egypt)
 ägypten,Egypt Arab Republic (Egypt)
 ah,Austria-Hungary (Austrian Empire)
+ahgwey,Unknown
 aigiptas,Egypt Arab Republic (Egypt)
 aiti,Haiti
+akassa,Akassa
+akuse,Akuse
+akyab,Arakan
 alasca,Alaska
 alaska,Alaska
 alaska ; st. pierre og miquelon,Alaska & St. Pierre and Miquelon
@@ -236,6 +254,7 @@ alboran,Alboran Island
 alemanha,Germany (Zollverein)
 alemania,Germany (Zollverein)
 alep,Aleppo
+alexander's bay,Alexander Bay
 alexandre,Alexandria
 alexandria,Alexandria
 alexandria (egypt),Alexandria
@@ -318,6 +337,7 @@ allemagne du nord,North Germany
 allemagne du nord et hambourg,Hamburg & North Germany
 allemagne entière,Germany (Zollverein)
 allemagne et autriche,Austria & Germany (Zollverein)
+allemagne et autriche (empire),Austria-Hungary (Austrian Empire) & Germany (Zollverein)
 allemagne et prusse,Germany (Zollverein) (other) & Prussia
 allemagne et rhin,Germany (Zollverein) (Rhine)
 allemagne et ses colonies,German Colonies & Germany (Zollverein)
@@ -366,6 +386,7 @@ alzira,Algeria (Regency of Algiers)
 alzyras,Algeria (Regency of Algiers)
 "am, autres ports",America (other)
 ambina,Unknown
+ambriz,Ambriz
 amér. anglaise,British America
 amér. centrale,Central America
 amér. du nord brit,British Northern America
@@ -390,6 +411,7 @@ america-diversas possessoes britannicas,British America
 "america, north and south",America
 "america, other parts",America (other)
 "america, stati uniti e canada",Canada (Province of Canada) & United States of America
+"america, us",United States of America
 american (porto rico),Puerto Rico
 american ports,America (other)
 american samoa,American Samoa
@@ -530,6 +552,7 @@ angola (ou afriq.-occidentale portug.),Angola
 angola (portuguess africa),Angola
 "angola, enz.",Angola
 "angola, port. kongo",Angola & Cabinda (Portuguese Congo)
+angra pequena,Angra Pequena
 angra-pequena,Angra Pequena
 anguila,Anguilla
 anguilla,Anguilla
@@ -678,6 +701,7 @@ argentine states,Argentina (La Plata)
 argentinie,Argentina (La Plata)
 argentinië,Argentina (La Plata)
 argentinien,Argentina (La Plata)
+"argentinische republik, paraguay, uruguay",Argentina (La Plata) & Paraguay & Uruguay
 argentyna,Argentina (La Plata)
 argjentine,Argentina (La Plata)
 argyle,Argyll
@@ -694,6 +718,7 @@ aruba,Aruba
 aruba et bonaire,Aruba & Bonaire
 ascension,Ascension I.
 ascension island,Ascension I.
+ashantee,Asante (Ashanti Empire)
 ashmore island,Ashmore and Cartier Is
 asia,Asia
 asia - possessoes britannicas,British Asia
@@ -708,6 +733,7 @@ asia-minor,Western Anatolia
 asian russia,Asian Russia
 asian turkey,Asian Turkey
 asiastiska utom medelhafvet belägna länder,Asia (other)
+asiatic ports,Asia
 asiatic russia,Asian Russia
 asiatic turkey,Asian Turkey
 asiatisk rusland,Asian Russia
@@ -718,6 +744,8 @@ asie mineure,Western Anatolia
 asie orientale,Eastern Asia
 asien,Asia
 asien uden nærmere angivelse,Asia (other)
+asoba,Unknown
+assinee,Assinie
 association allemande,Germany (Zollverein)
 association commerciale allemande,Germany (Zollverein)
 atlantic ocean,Atlantic Ocean
@@ -732,7 +760,6 @@ aurtiche,Austria-Hungary (Austrian Empire)
 austr. förbundsstaten,Australia
 austral-sambandet,Australia
 australasia,Australia
-australasia (other),Australasia (other)
 australasia : fiji islands,Fiji
 australasia : new south wales,New South Wales
 australasia : new zealand,New Zealand
@@ -742,6 +769,7 @@ australasia : tasmania,Tasmania
 australasia : total,Australia
 australasia : victoira,Victoria
 australasia : west australia,Western Australia
+australasia (other),Pacific Islands
 australasia o nueva zelanda,Australia & New Zealand
 australasia: new south wales,New South Wales
 australasia: new zealand,New Zealand
@@ -780,8 +808,8 @@ australia (tasmania),Tasmania
 australia (total),Australia
 australia (victoria),Victoria
 australia (western australia),Western Australia
-australia and new zealand,Australia & New Zealand
 australia & new zealand,Australia & New Zealand
+australia and new zealand,Australia & New Zealand
 australia and new zealand (british empire),Australia & New Zealand
 australia and new zeland,Australia & New Zealand
 australia and tasmania,Australia & Tasmania
@@ -796,6 +824,7 @@ australia-oceania,Australia & Oceania
 "australia, new zealand",Australia & New Zealand
 "australia, new zealand and new caledonia",Australia & New Caledonia & New Zealand
 "australia, new zealand, and tasmania",Australia & New Zealand & Tasmania
+australian colonies,Australia
 australian commonwealth,Australia
 australiasia,Australia
 australie,Australia
@@ -824,6 +853,7 @@ australie sud,South Australia
 "australie, nle-hollande",Australia & Western Australia
 "australie, nouvelle-zélande, îles de l'océan pacifique",Australia & New Zealand & Pacific Islands
 australien,Australia
+"australien (britisch australien, deutsch neuguinea, hawaii inseln, samoa inseln, übriges)",Australia & Hawaii (Sandwich Is.) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Samoa
 australien forøvrig,Australia (other)
 australien och van diemens land,Australia
 australien uden nærmere angivelse,Australia (other)
@@ -833,6 +863,7 @@ australien und der südsee,Australia & Pacific Islands
 australija,Australia
 australischer bund,Australia
 australischer bund & neu-seeland & übrig. brit. australien,Australia & New Zealand
+"australischer bund, neu-zeeland, übriges britisches australien",Australia & New Zealand
 australja,Australia
 australlandet,Australia
 australlandet med tasmanien,Australia & Tasmania
@@ -845,14 +876,20 @@ aústria,Austria
 austria - hungary,Austria-Hungary (Austrian Empire)
 austria - lombardo veneto,Lombardy-Venetia
 austria - veneto,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
+austria (empire),Austria-Hungary (Austrian Empire)
+austria (hungary),Austria-Hungary (Austrian Empire)
+austria (imperio),Austria-Hungary (Austrian Empire)
+austria (impero),Austria-Hungary (Austrian Empire)
 austria and hungary,Austria-Hungary (Austrian Empire)
 austria hungary,Austria-Hungary (Austrian Empire)
 austria-hungaria,Austria-Hungary (Austrian Empire)
 austria-hungary,Austria-Hungary (Austrian Empire)
 austria-hungria,Austria-Hungary (Austrian Empire)
 austria-hungría,Austria-Hungary (Austrian Empire)
+áustria-hungria,Austria-Hungary (Austrian Empire)
 austria-ungheria,Austria-Hungary (Austrian Empire)
 austria-veneto,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
+austrian dominions,Austria-Hungary (Austrian Empire)
 austrián és bosznián kiv. országok,***NA
 austrian possessions in italy,Italian Austria
 austrian territories,Austria-Hungary (Austrian Empire)
@@ -864,6 +901,7 @@ austrja,Austria
 austro-hungary,Austria-Hungary (Austrian Empire)
 austro-ungaria,Austria-Hungary (Austrian Empire)
 austurríki,Austria
+austurríki hongrie,Austria-Hungary (Austrian Empire)
 ausztrália,Australia
 ausztria,Austria
 ausztria és bosznián kivüli országok,***NA
@@ -968,8 +1006,8 @@ autres west indies,West Indies (other)
 "autrice-hongrie (trieste, venise et fiume)",Fiume & Republic of St. Mark & Trieste
 autriche,Austria
 autriche - trieste,Trieste
-autriche (empire),Austria-Hungary (Austrian Empire)
 autriche ( trieste),Trieste
+autriche (empire),Austria-Hungary (Austrian Empire)
 autriche (etats d'allemagne et possessions en italie),German Austria & Italian Austria
 autriche (fiume),Fiume
 autriche (ports de l'adriatique),Austria-Hungary (Austrian Empire) (Adriatic)
@@ -996,6 +1034,7 @@ autriche-hongrie**,Austria-Hungary (Austrian Empire)
 autriche**,Austria
 avusturalya,Australia
 avusturya,Austria-Hungary (Austrian Empire)
+axim,Axim
 aziatisch rusland,Asian Russia
 aziatisch turkije,Asian Turkey
 azija (valstybe nenurodyta),Asia (other)
@@ -1014,10 +1053,13 @@ azsiai franczia birt.,French Asia
 ázsiai törökország,Asian Turkey
 azsiai törörszág,Asian Turkey
 baamas,Bahamas
+badagry,Badagry
 badische zollauschlüsse,Baden
 badische zollausschluss,Baden
 badische zollausschlüsse,Baden
 bagdad,Baghdad
+bageida,Baguida
+bageidah,Bageidah
 bägge sicilierne,Two Sicilies
 bahama,Bahamas
 bahama (iles),Bahamas
@@ -1029,6 +1071,7 @@ bahamas and turk's islands (british west india islands),Bahamas & Turks and Caic
 bahamas islands,Bahamas
 bahamas salas,Bahamas
 bahamasoarna,Bahamas
+bahia,Bahia
 bahrain,Bahrain
 bahrain-öarna,Bahrain
 bahrein,Bahrain
@@ -1036,6 +1079,7 @@ bahrein island,Bahrain
 bahrein islands,Bahrain
 "bailul, assab and masawah",Assab & Bailul & Massawah
 "bailul, assaband masawah",Assab & Bailul & Massawah
+bakana,Bakana
 bali,Bali
 bali and lombock,Bali & Lombok
 bali and lombok,Bali & Lombok
@@ -1060,6 +1104,7 @@ bandar khar,Khar
 bandaríkin,United States of America
 banka and billiton,Bangka & Belitung (Billiton)
 banka and billiton (dutch east indies),Bangka & Belitung (Billiton)
+bankok,Bangkok
 baranquilla,Barranquilla
 barbada,Barbados
 barbadas,Barbados
@@ -1074,6 +1119,8 @@ barbados_preferential,Barbados (other)
 barbadosa sala,Barbados
 barbarian states,Barbary Coast
 barbarie,Barbary Coast
+barbary,Berbera
+barbary (tripoli),Tripolitania (Regency of Tripoli)
 "barbary states - algeria, etc",Barbary Coast
 "barbary states (algeria, tunis &c.)",Barbary Coast
 "barbary states-algeria, etc.",Barbary Coast
@@ -1084,17 +1131,21 @@ barcelone,Barcelona
 barena sala,Barents I.
 bassein,Bassein River
 bassin de la sarre,Saar
+bassorah,Basra
 basutoland,Lesotho (Basutoland)
+bata,Bata (Spanish Guinea)
 batavia,Jakarta (Batavia)
 "batavia, java, and sumatra",Jakarta (Batavia) & Java & Sumatra
 bathurst,Bathurst
 bathurst et gambie,Bathurst
 bavaria,Bavaria
+baviera,Bavaria
 bavière,Bavaria
 bechuanaland,Botswana (Bechuanaland)
 bechuanaland protectorate,Botswana (Bechuanaland)
 bechuanaland protectorate and basutoland and swaziland,Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland)
 beglie un luxemburg,Belgium & Luxemburg
+beh beach,Bey-Beach
 beiden sicilien,Two Sicilies
 beira,Beira
 bel,Belgium
@@ -1107,6 +1158,7 @@ belgian congo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo
 belgian congo (including ruanda and urundi),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi
 belgian congo and ruanda urundi,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi
 belgian congo and ruanda-urundi,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi
+belgian conquered territory (german east africa),Ruanda-Urundi
 belgian kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 belgian possessions,Belgian Colonies
 belgian possessions in africa,Belgian Africa
@@ -1155,6 +1207,7 @@ belgisk kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo
 belgiska kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 belgium,Belgium
 belgium (including belgian congo),Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+belgium & holland,Belgium & Netherlands
 belgium and luxembourg,Belgium & Luxemburg
 belgium congo (zaire),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 belgium és németalföld,Belgium & Netherlands
@@ -1181,10 +1234,12 @@ bengale,Bengal
 bengale (côte de coromandel et malabar),Coromandel Coast Posts & Malabar Coast
 "bengale, ceylan",Bengal & Sri Lanka (Ceylon)
 bengasi,Benghazi
+benguella,Benguela
 benin,Benin (Dahomey)
 benin (dahomey),Benin (Dahomey)
 ber st. v. amerika,United States of America
 berbera and bulhar,Berbera & Bulhar
+berberia,Barbary Coast
 berbice (british guiana),Berbice
 berbice et demerary,Berbice & Demerara
 bermuda,Bermuda
@@ -1196,10 +1251,12 @@ bermudas-oarna,Bermuda
 "bermudas, british west india islands",Bermuda
 bermudes,Bermuda
 bes. tilh. de forente st.,American Colonies
+beypoor,Beypore
 bhutan,Bhutan
 bhutan and nepal,Bhutan & Nepal
 bilbao,Bilbao
 billiton island,Belitung (Billiton)
+bimlipatam,Bimlipatam
 bird's island,Seychelles
 birma,Myanmar (Burma)
 birma (rangoon),Myanmar (Burma)
@@ -1220,15 +1277,21 @@ bolivien,Bolivia
 bolivija,Bolivia
 boliwja,Bolivia
 bolvien,Bolivia
+boma,Boma
 bombay,Mumbai (Bombay)
 bombay (british india),Mumbai (Bombay)
 bombay and malabar coast,Malabar Coast & Mumbai (Bombay)
+bombay and scinde,Mumbai (Bombay) & Sindh
 bombay and scinde (british india),Mumbai (Bombay) & Sindh
 bombay and sinde (british india),Mumbai (Bombay) & Sindh
 bombay including kurachi (british india),Karachi & Mumbai (Bombay)
+"bombay, calcutta and kurrachee",Karachi & Kolkata (Calcutta) & Mumbai (Bombay)
 bonaire,Bonaire
+bonavista,Unknown
 bonded manufacturing warehouse,***NA
 bône et alger,Algiers & Annaba (Bône)
+bonny,Bonny River
+bonny river,Bonny River
 bordeaux,Bordeaux
 borneo,Borneo
 bornéo,Borneo
@@ -1265,6 +1328,7 @@ botswana (bechuanaland),Botswana (Bechuanaland)
 boulama,British Guinea (Bolama)
 bourbon,Reunion (Bourbon I.)
 bourbon (france),Reunion (Bourbon I.)
+bourbon (reunion),Reunion (Bourbon I.)
 bourbon (réunion),Reunion (Bourbon I.)
 bourbon (reunion) (france),Reunion (Bourbon I.)
 bourbon and mauritius,Mauritius & Reunion (Bourbon I.)
@@ -1282,6 +1346,8 @@ brasilie,Brazil
 brasilien,Brazil
 brasilien og laplatastaterne,Argentina (La Plata) & Brazil
 brasol,Brazil
+brass,Brass (Nigeria)
+brava,Brava
 brazil,Brazil
 "brazil, argentine republic, other south america",Argentina (La Plata) & Brazil & Southern America (other)
 brazilia,Brazil
@@ -1370,6 +1436,7 @@ britisch honduras (belize),Belize (British Honduras)
 britisch indien,India
 britisch indien & ceylon & britich malakka,India & Malaysia (British Malaya) & Sri Lanka (Ceylon)
 britisch indien usw.,India
+"britisch indien, ceylon, britisch malakka",India & Malaysia (British Malaya) & Sri Lanka (Ceylon)
 britisch malakka,Malaysia (British Malaya)
 britisch malakka usw.,Malaysia (British Malaya)
 britisch malaya,Malaysia (British Malaya)
@@ -1380,6 +1447,7 @@ britisch oost-afrika,British Eastern Africa
 britisch ost-indien,British East Indies
 britisch ost-indien singapore,Singapore
 britisch ostafrika,British Eastern Africa
+britisch ostindien,British East Indies
 britisch südafrika,South Africa
 britisch und schwedisch westindien,British West Indies & Swedish West Indies
 britisch west-indien,British West Indies
@@ -1398,6 +1466,7 @@ british africa (total),British Africa
 british african ports,British Africa
 british afrika,British Africa
 british america,British America
+"british america (st. johns, new brunswick)",Saint John (New Brunswick)
 british american colonies,British America
 british american colonies and newfoundland,British America & Newfoundland and Labrador (Newfoundland)
 british american possessions on the pacific,British America (Pacific)
@@ -1426,11 +1495,14 @@ british columbia (dominion of canada),British Columbia
 british columbia (north america),British Columbia
 british columbia & vancouver's island (north america),British Columbia & Vancouver
 british columbia and vancouver's island (british north america),British Columbia & Vancouver
+british conquered territory (german east africa),Tanzania (Tanganyika)
 british east africa,British Eastern Africa
 british east africa (kenia & uganda),Kenya (British East Africa Protectorate) & Uganda
+british east africa & aden,Aden & British Eastern Africa
 british east africa and aden,Aden & British Eastern Africa
 british east africa and zanzibar and pemba,British Eastern Africa & Pemba Island & Zanzibar
 british east africa protectorate,Kenya (British East Africa Protectorate)
+british east india,British East Indies
 british east india islands,British East Indies
 british east indies,British East Indies
 british east indies (exclusive of singapore and ceylon),British East Indies (other)
@@ -1444,6 +1516,7 @@ british guiana,Guyana (British Guiana)
 british guiana (total),Guyana (British Guiana)
 british guiana and falkland islands,Falkland Is. & Guyana (British Guiana)
 british guiana_preferential,Guyana (British Guiana) (other)
+british guinea,British Guinea (Bolama)
 british honduras,Belize (British Honduras)
 british honduras (belize),Belize (British Honduras)
 "british honduras, campeachy",Belize (British Honduras) & Campeche
@@ -1463,10 +1536,12 @@ british india (british east indies),India
 british india (total),India
 "british india (total) (exclusive of transit through egypt, not ascertained)",India
 british india & british straits settlement,India & Straits Settlements
+british india & ceylan,India & Sri Lanka (Ceylon)
 british india & straits settlement,India & Straits Settlements
 british india + burma,India & Myanmar (Burma)
 british india and burma,India & Myanmar (Burma)
 british india and ceylon,India & Sri Lanka (Ceylon)
+"british india, burmah and ceylon",India & Myanmar (Burma) & Sri Lanka (Ceylon)
 "british india, via : bengal",Bengal
 "british india, via : bombay (including karachi)",Karachi & Mumbai (Bombay)
 "british india, via : burmah",Myanmar (Burma)
@@ -1476,7 +1551,10 @@ british india: indian merchandise,India (Domestic produce)
 british india: other,India (Foreign produce)
 british indien,India
 british islands,British West Indies
+british kaffraria,British Kaffraria
 british leased territory,British China
+british leeward coast (incl. and sierra leone),Leeward Coast of Africa (British)
+british leeward coast (incl. sierra leone),Leeward Coast of Africa (British)
 british malay states,Malaysia (British Malaya)
 british malaya,Malaysia (British Malaya)
 british med possessions,British Mediterranean Sea
@@ -1551,6 +1629,7 @@ british south africa,South Africa
 british south africa (including nyasaland prot.),British Southern Africa
 british south africa (union),South African Customs Union
 british south african colonies,British Southern Africa
+british southern africa,British Southern Africa
 british straits settlement,Straits Settlements
 british straits settlement & british borneo,British Borneo & Straits Settlements
 british straits settlements,Straits Settlements
@@ -1559,6 +1638,7 @@ british togoland,British Togoland
 british wale fisheries,***NA
 british west africa,British Western Africa
 british west africa and south africa,British Western Africa & South Africa
+british west african settlements,British Western Africa
 british west india islands,British West Indies
 british west india islands (total),British West Indies
 british west india islands and bahamas,Bahamas & British West Indies
@@ -1570,6 +1650,7 @@ british west indies and british honduras,Belize (British Honduras) & British Wes
 british west indies including bermuda,British West Indies
 british west indies possessions,British West Indies
 british western equatorial africa,British Equatorial Western Africa
+british westindien,British West Indies
 british-malakka,Malaysia (British Malaya)
 britisish borneo,British Borneo
 britisk afrika uden nærmere angivelse id.,British Africa
@@ -1653,6 +1734,7 @@ britu kol rytu afrikoj,British Eastern Africa
 britu kolon centr amerikoj - trinite et tobago,Trinidad and Tobago
 britu siaures borneo,Sabah (North Borneo)
 brooketon (brunei),Brooketon
+browse island,Browse I.
 brtiske drzavy v rovnikove africe zapadni,British Equatorial Western Africa
 brunei,Brunei
 brunei (inclusive of sarawak),Brunei & Sarawak
@@ -1673,6 +1755,7 @@ buénos-ayres**,Buenos Aires
 buesnos-aires,Buenos Aires
 bugarska,Bulgaria
 bul,Bulgaria
+bulama,British Guinea (Bolama)
 "bulg., serbie",Bulgaria & Kingdom of Serbia
 "bulg., serbie, roumanie",Bulgaria & Kingdom of Serbia & Romania
 bulgaaria,Bulgaria
@@ -1699,6 +1782,8 @@ burma,Myanmar (Burma)
 burmah,Myanmar (Burma)
 burmah (british india),Myanmar (Burma)
 "burmah, pegu, and siam",Myanmar (Burma) & Thailand (Siam)
+burutu,Burutu
+bushire,Bushehr
 bussarah,Basra
 bussora,Basra
 butan,Bhutan
@@ -1719,9 +1804,11 @@ california,California (Great Bear Republic)
 californie,California (Great Bear Republic)
 "californie, mazatlan",California (Great Bear Republic)
 californien,California (Great Bear Republic)
+calingapatam,Kalingapatnam
 callao,Callao
 cambodge,Cambodia (Kampuchea)
 cambodia,Cambodia (Kampuchea)
+cameroon,Kamerun
 cameroons,Kamerun
 cameroun,Cameroun (French Cameroons)
 cameroun (mandat français),Cameroun (French Cameroons)
@@ -1769,7 +1856,9 @@ canárias,Canary Is.
 canarias (islas),Canary Is.
 canaries,Canary Is.
 "canaries, açores",Azores (Western Isles) & Canary Is.
+canary,Canary Is.
 canary is.,Canary Is.
+canary island,Canary Is.
 canary island (spanish africa),Canary Is.
 canary islands,Canary Is.
 canary islands (for orders),Canary Is. (other)
@@ -1791,6 +1880,8 @@ cap haïtien,Cap-Haïtien
 cap rouge,Cap-Rouge
 cap vert,Cape Verde
 cap-vert,Cape Verde
+cape coast,Cape Coast Castle
+cape coast castle,Cape Coast Castle
 cape colony,Cape Colony (Cape of Good Hope)
 cape colony (colonia del cabo),Cape Colony (Cape of Good Hope)
 cape colony & natal,Cape Colony (Cape of Good Hope) & Natal
@@ -1798,12 +1889,14 @@ cape colony and mauritus,Cape Colony (Cape of Good Hope) & Mauritius
 cape colony and natal,Cape Colony (Cape of Good Hope) & Natal
 cape de verd islands,Cape Verde
 cape de verde,Cape Verde
+cape de verde island,Cape Verde
 cape de verde islands,Cape Verde
 cape lopez,Cape Lopez
 cape of good hope,Cape Colony (Cape of Good Hope)
 cape of good hope (south africa),Cape Colony (Cape of Good Hope)
 cape of good hope including kaffraria (south africa),Cape Colony (Cape of Good Hope)
 "cape of good hope, and british possessions in south africa",Cape Colony (Cape of Good Hope) & South Africa (other)
+cape palmas,Cape Palmas
 cape town,Cape Town
 cape verd islands,Cape Verde
 cape verd islands (portugal),Cape Verde
@@ -1813,9 +1906,11 @@ cape verde islands,Cape Verde
 capland,Cape Colony (Cape of Good Hope)
 caplandet,Cape Colony (Cape of Good Hope)
 capstaden,Cape Town
+car nocobar islands,Nicobar Is.
 carisco,Corisco I.
 caroline islands,Caroline Is.
 carriacou,Carriacou
+cassab,Unknown
 cassamans,Casamance
 castellorizo,Kastellorizo
 caucasia,Caucasus
@@ -1897,11 +1992,13 @@ checoeslovaquia,Czechoslovakia
 checoeslovaquia (inclus. eslovaquia),Czechoslovakia
 checoslovaquia,Czechoslovakia
 chekoslovakia,Czechoslovakia
+chicago,Chicago
 chiile,Chile
 chiina,People's Republic of China (China)
 chile,Chile
 chile (including the pacific coast of patagonia),Chile & Patagonia (Pacific Coast)
 chile and pacific coast of patagonia,Chile & Patagonia (Pacific Coast)
+"chile, por ordenes",Chile (other)
 chili,Chile
 chili (including the pacific coast of patagonia),Chile & Patagonia (Pacific Coast)
 chili (république du),Chile
@@ -1909,6 +2006,7 @@ chili et inde,Chile & India
 chili et perou,Chile & Peru
 chili et pérou,Chile & Peru
 chili**,Chile
+chiloane,Chiloane
 china,People's Republic of China (China)
 china (excl macao),People's Republic of China (China)
 china (excluding hongkong),People's Republic of China (China)
@@ -1925,6 +2023,7 @@ china & hong kong,Hong Kong & People's Republic of China (China)
 china & hongkong & kiautschou,Hong Kong & Kiauchau & People's Republic of China (China)
 china + manchuria (including kwantung peninsula),Manchuria & People's Republic of China (China)
 china alemana,German China
+china and batavia,Jakarta (Batavia) & People's Republic of China (China)
 china and east india company's territories and ceylon,East India Company & People's Republic of China (China) & Sri Lanka (Ceylon)
 china and hong kong,Hong Kong & People's Republic of China (China)
 china and japan,Japan & People's Republic of China (China)
@@ -1943,6 +2042,7 @@ china rusa,Russian China
 "china, french indies, etc",French Indochina & People's Republic of China (China)
 "china, french indies, etc.",French Indochina & People's Republic of China (China)
 "china, hong kong",Hong Kong & People's Republic of China (China)
+"china, hongkong, kiautschou",Hong Kong & Kiauchau & People's Republic of China (China)
 "china, japan",Japan & People's Republic of China (China)
 "china, japan &c.",Japan & People's Republic of China (China)
 "china, leased territory: british",British China
@@ -2006,6 +2106,9 @@ ciudades anséaticas,Hanse Towns
 coast of brazil,Brazil
 coast of brazil and other portuguese american colonies,Brazil & Portuguese America (other)
 coast of guinea,Guinea Coast
+coastwise,Unknown
+cocanada,Kakinada
+cochin,Cochin China
 cochin china,Cochin China
 cochin china and annam,Cochin China & Tonkin
 "cochin china, cambodia",Cambodia (Kampuchea) & Cochin China
@@ -2018,10 +2121,12 @@ cochinchine,Cochin China
 cochinchine et cambodge,Cambodia (Kampuchea) & Cochin China
 cochinchine et royaume de siam,Cochin China & Thailand (Siam)
 cochinine,Cochin China
+cocoa islands,Cocos (Keeling) Is.
 coconada,Chennai (Madras)
 cocos en christmas eilanden,Christmas I. & Cocos (Keeling) Is.
 cocos island,Cocos (Keeling) Is.
 col. brit. insul. am. c.,British Central America
+collingapatam,Collingapatam
 collo,Collo
 colombia,Colombia (New Granada) (Gran Colombia)
 colómbia,Colombia (New Granada) (Gran Colombia)
@@ -2048,6 +2153,7 @@ colonia del capo,Cape Colony (Cape of Good Hope)
 colonia do cabo,Cape Colony (Cape of Good Hope)
 colonias danesas,Danish Colonies
 colonias espanolas,Spanish Colonies
+colonias españolas,Spanish Colonies
 colonias francesas,French Colonies
 colonias holandesas,Dutch Colonies
 colonias inglesas,British Colonies
@@ -2080,6 +2186,7 @@ colonies allemandes,German Colonies
 colonies am. nord,British Northern America
 colonies américaines,American Colonies
 colonies anglaises,British Colonies
+colonies anglaises (autre),British Colonies (other)
 colonies anglaises (marchandises étrangères),British Colonies (Foreign produce)
 colonies anglaises (marchandises françaises),British Colonies (French produce)
 colonies anglaises d'amérique,British America
@@ -2109,8 +2216,8 @@ colonies françaises (sauf algérie),French Colonies (other)
 colonies françaises d'europe (marchandises étrangères),French Europe (Foreign produce)
 colonies françaises de l'afrique de l'est,French Eastern Africa
 colonies françaises de l'afrique de l'ouest,French West Africa
-colonies françaises de la côte occidentale d'afrique (marchandises françaises),French West Africa (French produce)
 colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French West Africa (Foreign produce)
+colonies françaises de la côte occidentale d'afrique (marchandises françaises),French West Africa (French produce)
 colonies hollandaises,Dutch Colonies
 colonies hollandaises (autre),Dutch Colonies (other)
 colonies hollandaises en amérique,Netherlands Antilles
@@ -2139,8 +2246,16 @@ colony and protectorate of kenya & uganda protectorate,Kenya (British East Afric
 colony and protectorate of nigeria,Nigeria
 colony and protectorate of southern nigeria,Southern Nigeria (Niger Coast Protectorate)
 colony of antigua,Antigua and Barbuda (Antigua)
+colony of dominica,Dominica
+colony of gambia,Gambia
+colony of lagos,Lagos
+colony of natal,Natal
+colony of nevis,Nevis
 colony of southern nigeria,Lagos
 colony of southern nigeria (lagos),Lagos
+colony of the cape of good hope,Cape Colony (Cape of Good Hope)
+colony of the east africa protectorate,Kenya (British East Africa Protectorate)
+colony of the virgin islands,British Virgin Is.
 columbia,Colombia (New Granada) (Gran Colombia)
 columbia am caraibischen meere,Colombia (New Granada) (Gran Colombia) (other)
 "columbia, ecuador and venezuela",Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela
@@ -2183,6 +2298,8 @@ congo francês,Congo (Brazzaville) (French Congo) (Middle Congo)
 congo free state,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 congo free state§,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 congo free state‡,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+congo free states,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+congo river,Unknown
 congo state,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 congo-belge,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 "congo, sénégal et autres établissements français côte occidental d'afrique",Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal
@@ -2205,6 +2322,7 @@ corck,Cork
 corea,Korea (Chosen)
 coree,Korea (Chosen)
 corée,Korea (Chosen)
+coringa,Coringa (India)
 corps expéditionnaire d'orient (grèce),Corps Expeditionnaire d'Orient (Gallipoli and Dardanelles)
 corsica,Corsica
 cós,Kos
@@ -2292,12 +2410,14 @@ côtes orient. mexique,Mexico (East)
 côtes orientales d'afrique,Eastern Africa
 crab island,Crab I.
 cracovie,Cracow (Free City of Cracow)
+crépee,Unknown
 creta,Crete
 crete,Crete
 crète,Crete
 crête,Crete
 crete (turkey),Crete
 crozett,Crozet Is.
+crozetts,Crozet Is.
 cub,Cuba
 cuba,Cuba
 cuba (+porto rico),Cuba & Puerto Rico
@@ -2331,6 +2451,7 @@ curaçao island,Curacao
 "curaçao, enz.",Curacao
 curacoa,Curacao
 curaçoa,Curacao
+curacos,Curacao
 curapano,Carúpano
 curazao,Curacao
 curcacao,Curacao
@@ -2357,12 +2478,15 @@ daani,Denmark
 dahomej,Benin (Dahomey)
 dahomey,Benin (Dahomey)
 dairen,Dalian
+dakar,Dakar
+dakar (senegal),Dakar
 dalmatia,Dalmatia
 dalny,Dalian
 "dalny, corée et vladivostok",Dalian & Korea (Chosen) & Vladivostok
 "dalny, korea, vladivostock",Dalian & Korea (Chosen) & Vladivostok
 "dalny, korea, wladiwostok",Dalian & Korea (Chosen) & Vladivostok
 damao,Unknown
+damara land,Damaraland
 damascus,Damascus
 danciga,Danzig (Free City of Danzig)
 danciga un memele,Danzig (Free City of Danzig) & Memel
@@ -2418,9 +2542,9 @@ danish west india islands,Virgin Islands (Danish West Indies)
 danish west india islands (denmark),Virgin Islands (Danish West Indies)
 danish west india islands (ste. croix and st. thomas),St. Croix & St. Thomas
 danish west indies,Virgin Islands (Danish West Indies)
-danish west indies (other),Virgin Islands (Danish West Indies) (other)
 danish west indies : st. thomas,St. Thomas
 danish west indies : ste. croix,St. Croix
+danish west indies (other),Virgin Islands (Danish West Indies) (other)
 "danish west indies (ste. croix, st. thomas and st. john)",St. Croix & St. John & St. Thomas
 danish west indies. st. thomas,St. Thomas
 danja,Denmark
@@ -2443,6 +2567,7 @@ danube kingdoms,Moldavia & Wallachia
 danube principalities,Moldavia & Wallachia
 danzig,Danzig (Free City of Danzig)
 daressalam,Dar es Salaam
+dartmouth,Dartmouth
 de badensiska tullexklaverna,Unknown
 de brême et de lubeck,World (via Bremen & Lübeck)
 de dansk-vestindiske øer,Virgin Islands (Danish West Indies)
@@ -2461,6 +2586,7 @@ de naufragios,***NA
 de vestindiske öer,West Indies
 deep sea cable,***NA
 deep sea fisheries,***NA
+degema,Degema (Nigeria)
 delagoa bay,Maputo Bay (Delagoa Bay)
 delegoa bay,Maputo Bay (Delagoa Bay)
 delhi,Delhi
@@ -2556,6 +2682,7 @@ deutsch westafrika,German Western Africa
 deutsche freihafen,Bremen & Hamburg
 deutsche freihasen,Bremen & Hamburg
 deutsches reich,Germany (Zollverein)
+deutsches zollgebiet,Germany (Zollverein)
 deux siciles,Two Sicilies
 deux-siciles,Two Sicilies
 deux-siciles (naples),Naples
@@ -2697,6 +2824,7 @@ east africa : east africa protectorate and uganda protectorate,Kenya (British Ea
 east africa : nyasaland protectorate,Malawi (Nyasaland) (British Central Africa Protectorate)
 east africa : uganda protectorate,Uganda
 east africa : zanzibar and pemba,Pemba Island & Zanzibar
+east africa (non british),Eastern Africa (other)
 east africa other territories under british influence,British Eastern Africa
 east africa portugal,Mozambique (Portuguese East Africa)
 east africa protectorate,Kenya (British East Africa Protectorate)
@@ -2710,6 +2838,7 @@ east india company's territories and ceylon,East India Company & Sri Lanka (Ceyl
 east indies,East Indies
 east indies (dutch),Indonesia (Dutch East Indies)
 east indies (except ceylon),East Indies (other)
+east indies (non british),East Indies (other)
 east indies (total),East Indies
 east indies & siam & philippines islands,East Indies & Philippines & Thailand (Siam)
 east indies and other parts of asia,Asia (other) & East Indies
@@ -2719,6 +2848,7 @@ east indies britan.,British East Indies
 "east indies, china, etc.",Asia (other) & East Indies
 "east indies, siam",East Indies & Thailand (Siam)
 east london,East London
+east of the volta,Volta Region
 eastern africa : native states,Eastern Africa (other)
 eastern africa : native states†,Eastern Africa (other)
 eastern africa (extending from the colonial territory of the natal to the limits of abyssinia),Eastern Africa (other)
@@ -2754,6 +2884,7 @@ egypt (including the transit from india),Egypt Arab Republic (Egypt)
 "egypt (mediterranean ports, including the transit from india, &c.)",Egypt Arab Republic (Egypt) (other)
 egypt (ports on the mediterranean),Egypt Arab Republic (Egypt) (other)
 egypt (turkey in africa),Egypt Arab Republic (Egypt)
+egypt & sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypt and anglo-egyptian sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypt and sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypt and tripoli(turkey in africa),Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli)
@@ -2816,7 +2947,9 @@ elbe supérieur et affluens (commerce de terre),Elbe
 elfenbenkusten,Ivory Coast
 ellers,World (other)
 ellice islands,Ellice Is.
+elmina,Elmina
 elobey,Elobey Is.
+eloby,Elobey Is.
 elsass-lothringen,Alsace Lorraine
 elvetia,Switzerland
 "elvetia, spania, suedia si norvegia, statele americel",Norway & Spain & Sweden & Switzerland & United States of America
@@ -3093,6 +3226,7 @@ europe méridionale,Southern Europe
 europe septentrionale,Northern Europe
 european countries,Europe
 european ports,Europe
+european ports (other),Europe (other)
 european turkey,European Turkey
 european turkey and crete,Crete & European Turkey
 europeesch rusland,European Russia
@@ -3127,6 +3261,7 @@ fench guiana,French Guiana
 fernambouc,Pernambuco
 fernando po,Fernando Po (Bioko)
 fernando po (spain),Fernando Po (Bioko)
+fernando po & river muni,Fernando Po (Bioko) & Río Muni
 fernando po* (spain),Fernando Po (Bioko)
 fernando poo,Fernando Po (Bioko)
 feroe,Faeroe Is.
@@ -3136,6 +3271,7 @@ fidji,Fiji
 fidjiöarna,Fiji
 fiji,Fiji
 fiji islands,Fiji
+filand,Finland
 filipinas,Philippines
 filipinu salas,Philippines
 filipiny,Philippines
@@ -3162,10 +3298,14 @@ florida,Florida
 floridas,Florida
 flusswärts,World
 folendu salas,Falkland Is.
+foo chow,Fuzhou
+foochoo,Fuzhou
 for ordre,***NA
 for øvrig,World (other)
+forcados river,Forçados River
 foreign countries,World (other)
 foreign countries (non british),World (other than British)
+foreign countries (other),World (other)
 foreign countries not separately distinguished,World (other)
 foreign countries. other ports,World (other)
 foreign east africa,Eastern Africa (other)
@@ -3191,6 +3331,7 @@ förente staterne,United States of America
 formosa,Republic of China (Taiwan) (Formosa)
 formosa (japanese possession),Republic of China (Taiwan) (Formosa)
 formosa (taiwan),Republic of China (Taiwan) (Formosa)
+fort rock,Rocky Point
 fort saint georges,Fort St. George
 found at sea,***NA
 fr indo-china,French Indochina
@@ -3217,6 +3358,7 @@ france (marchandises étrangères),France (Foreign produce)
 france (marchandises étrangères) (autre),France (Foreign produce) (other)
 france (marchandises françaises),France (French produce)
 france (mer),France
+france & holland & portugal & united states,France & Netherlands & Portugal & United States of America
 france and algeria,Algeria (Regency of Algiers) & France
 france and colonies,France & French Colonies
 france and dependencies,France & French Colonies
@@ -3270,6 +3412,7 @@ franczia-nyugot-india,French West Indies
 francziaország,France
 frankfurt,Frankfurt
 frankreich,France
+"frankreich, algerien, tunis",Algeria (Regency of Algiers) & France & Tunisia (Regency of Tunis)
 frankrig,France
 frankrige,France
 frankrijk,France
@@ -3326,22 +3469,27 @@ franzosisch afrika,French Africa
 französisch amerika,French America
 französisch australien,French Polynesia
 französisch guayana,French Guiana
+französisch hinterindien,French Indochina
 französisch indien,French India
 franzosisch indochina,French Indochina
 französisch marokko,Morocco
 französisch ostindien,French India
 französisch westafrika,French West Africa
 franzosisch westindien,French West Indies
+französisch westindien,French West Indies
 free orange states,Orange Free State (Orange River Colony)
 free state of ireland,Ireland
+freetown sierra leone,Freetown
 "freihafen bremerhaven, geestemünde",Bremerhaven & Geestemünde
 freihafen hamburg,Hamburg
 "freihafen hamburg, curhaven",Cuxhaven & Hamburg
+"freihäfen hamburg, cuxhaven",Cuxhaven & Hamburg
 fremmed vestindien,West Indies (other)
 fremmed vestindien (undt. kuba og portoriko),West Indies (other)
 french africa,French Africa
 french african ports,French Africa
 french cameroons,Cameroun (French Cameroons)
+french cameroons (duala),Cameroun (French Cameroons)
 french central america,French Central America
 french china,French China
 french cochin-china,Cochin China
@@ -3419,7 +3567,7 @@ french south africa,French Southern Africa
 french sudan,Mali (French Sudan) (Upper Senegal and Niger)
 french sumaliland (france),Djibouti (Afar and Issas) (French Somaliland)
 french togoland,Togo (French Togoland)
-togo (french togoland),Togo (French Togoland)
+french togoland (lome),Togo (French Togoland)
 french west africa,French West Africa
 french west africa (france),French West Africa
 french west africa & togo,French West Africa & Togo (French Togoland)
@@ -3448,6 +3596,7 @@ from ships,***NA
 futa djallon (boko),Futa Djallon
 futuna,Alo (Futuna)
 gabon,Gabon
+gaboon river,Gabon River
 gambia,Gambia
 gambia (west africa),Gambia
 gambie,Gambia
@@ -3497,6 +3646,7 @@ german samoa,Samoa (Western Samoa) (German Samoa)
 german solomon islands,German Solomon Is.
 german south west africa,Namibia (South West Africa) (German South West Africa)
 german south-west africa,Namibia (South West Africa) (German South West Africa)
+german states,Germany (Zollverein)
 german west africa,German Western Africa
 german west africa (germanay),German Western Africa
 german western africa,German Western Africa
@@ -3508,6 +3658,7 @@ germany / bremen,Bremen
 germany / hambourg,Hamburg
 germany / other ports,Germany (Zollverein) (other)
 germany / total empire,Germany (Zollverein)
+germany & german east africa,German East Africa & Germany (Zollverein)
 germany and colonies,German Colonies & Germany (Zollverein)
 germany and german east africa,German East Africa & Germany (Zollverein)
 "germany, western zone",Germany (Zollverein) (other)
@@ -3565,6 +3716,8 @@ gold coast,Ghana (Gold Coast)
 gold coast (including togoland),Gold Coast-Togoland (Neutral Zone)
 gold coast and british mandated territory of togoland,Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone)
 gold coast colony,Ghana (Gold Coast)
+gold coast winward (british),Ghana (Gold Coast)
+gold coast winward (foreign),Ghana (Gold Coast) (other)
 gold goast,Ghana (Gold Coast)
 goldkuste,Ghana (Gold Coast)
 golfe arabique,Persian Gulf
@@ -3572,11 +3725,16 @@ golfe de guinée et congo,Assinie & Congo (Brazzaville) (French Congo) (Middle C
 golfe persique,Persian Gulf
 golfe persique et la mecque,Mecca & Persian Gulf
 "golfe persique, bengale, inde",Bengal & India & Persian Gulf
+gopaalpore,Gopalpur
 gorda cay,Gorda Cay
+goree,Goree
 gorée,Goree
+goree and senegal,Goree & Senegal
 górna wolta,Burkina Faso (Upper Volta)
 görögország,Greece
 gothembourg,Gothenburg
+gothenburg,Gothenburg
+gough's island,Gough I.
 gouvernement hollandais,Dutch government
 gr brittannie en iersche vrijstaat,Ireland & United Kingdom
 gra-bretanha,United Kingdom
@@ -3601,10 +3759,13 @@ gran-bretanha e suas possessões,British Colonies & United Kingdom
 granada,Grenada
 granada (winward island),Grenada
 granada inglesa,Grenada
+grand bassam,Grand-Bassam
 grand canary,Gran Canaria
 grand cayman,Grand Cayman
 grand duché de luxembourg,Luxemburg
 grand duché oldenbourg,Oldenburg
+grand lahou,Grand-Lahou
+grand popo,Grand Popo
 grand total,World
 grand-duché de luxembourg,Luxemburg
 grand-duché de luxembourg (association commerciale allemande),Luxemburg
@@ -3631,6 +3792,7 @@ great britain and british west indies,British West Indies
 great britain and dependencies,British Colonies & United Kingdom
 great britain and ireland,Ireland & United Kingdom
 great britain and northern ireland,United Kingdom
+great fish bay,Tigres Bay
 grece,Greece
 grèce,Greece
 grèce (avec iles ioniennes),Greece & Ionian Is.
@@ -3658,6 +3820,8 @@ grecja,Greece
 grecja z kreta,Crete & Greece
 greece,Greece
 greece (exclusive of the ionian islands),Greece
+greece & candia,Crete & Greece
+greece & ionian islands,Greece & Ionian Is.
 greece and crete,Crete & Greece
 greece and grecian archipelago,Greece & Ionian Is.
 greece and malta,Greece & Malta
@@ -3707,6 +3871,8 @@ grossbritannien,United Kingdom
 großbritannien,United Kingdom
 grossbritannien und irland,United Kingdom
 grossbritannien und irland (other),United Kingdom (other)
+"grossbritannien, gibraltar, malta, cypern, helgoland",Cyprus & Gibraltar & Heligoland & Malta & United Kingdom
+"grossbritannien, helgoland",Heligoland & United Kingdom
 grroenland,Greenland
 grusien,Georgia
 guadaloupe,Guadeloupe
@@ -3740,6 +3906,7 @@ guayana francesa,French Guiana
 guayana holandesa,Surinam (Dutch Guiana)
 guayana inglesa,Guyana (British Guiana)
 guayaquil,Guayaquil
+guernesey,Guernsey
 guiana,French Guiana
 guiana (british),Guyana (British Guiana)
 guiana (england),Guyana (British Guiana)
@@ -3791,6 +3958,7 @@ guyana (france),French Guiana
 guyana (fransch),French Guiana
 guyana (nederlandsch),Surinam (Dutch Guiana)
 guyana (netherlands),Surinam (Dutch Guiana)
+guyana britanica,Guyana (British Guiana)
 guyana francesa,French Guiana
 guyana holandesa,Surinam (Dutch Guiana)
 guyana inglesa,Guyana (British Guiana)
@@ -3847,6 +4015,7 @@ haiti republika,Haiti
 "haiti, vestl. del av øia haiti",Haiti
 halifax,Halifax
 halifax (nova scotia),Halifax
+halifax island,Halifax I.
 hambourg,Hamburg
 hambourg (association commerciale allemande),Hamburg
 hambourg (union douanière allemande),Hamburg
@@ -3892,6 +4061,7 @@ havane (cuba),Havana
 havane (esp.),Havana
 havane et porto rico,Cuba & Puerto Rico
 "havane, porto-rico",Cuba & Puerto Rico
+havannah,Havana
 havre,Havre Boucher
 hawai,Hawaii (Sandwich Is.)
 hawaï,Hawaii (Sandwich Is.)
@@ -3903,6 +4073,7 @@ hawaii (united states of america),Hawaii (Sandwich Is.)
 hawaiian islands,Hawaii (Sandwich Is.)
 hawaiian merchandise to the usa,Hawaii (Sandwich Is.)
 "hawaiian merchandise to the usa, u.s produce returned to the usa",Hawaii (Sandwich Is.)
+hawaiische inseln,Hawaii (Sandwich Is.)
 haway,Hawaii (Sandwich Is.)
 hayti,Haiti
 hayti and san domingo,Dominican Republic (Santo Domingo) & Haiti
@@ -3960,10 +4131,12 @@ holandes indija,Indonesia (Dutch East Indies)
 holandesas (islas),Netherlands Antilles
 holandija,Netherlands
 holandja,Netherlands
+hollam's bird island,Penguin Is.
 holland,Netherlands
 holland -nyugot-india,Netherlands Antilles
 holland and belgium,Belgium & Netherlands
 holland and dutch colonies,Dutch Colonies & Netherlands
+holland and hamburg,Hamburg & Netherlands
 holland guyana,Surinam (Dutch Guiana)
 holland kelet-india,Indonesia (Dutch East Indies)
 holland nyugot-india,Netherlands Antilles
@@ -3995,6 +4168,7 @@ hollandsk ostindien,Indonesia (Dutch East Indies)
 holstein,Holstein
 holsten,Holstein
 holsten. altona,Altona & Holstein
+homewood harbour,Homewood Harbour
 honduras,Honduras
 honduras (british settlements),Belize (British Honduras)
 honduras (british),Belize (British Honduras)
@@ -4007,6 +4181,7 @@ honduras (republica),Honduras
 honduras (république de),Honduras
 honduras (spanish),Honduras
 honduras anglais,Belize (British Honduras)
+honduras brit,Belize (British Honduras)
 honduras britanica,Belize (British Honduras)
 honduras británica,Belize (British Honduras)
 honduras britanicas,Belize (British Honduras)
@@ -4014,7 +4189,6 @@ honduras británicas,Belize (British Honduras)
 honduras britȃnicas,Belize (British Honduras)
 honduras britannicas,Belize (British Honduras)
 honduras britannique,Belize (British Honduras)
-honduras brit,Belize (British Honduras)
 honduras brytyjski,Belize (British Honduras)
 honduras en panama,Honduras & Panama
 honduras inglesas,Belize (British Honduras)
@@ -4044,6 +4218,7 @@ hungary,Hungary
 hungria,Hungary
 hungría,Hungary
 húngria,Hungary
+hurd's island,Heard and McDonald Is.
 i alt,World
 i. canarias,Canary Is.
 ialy,Italy
@@ -4142,6 +4317,7 @@ iles soulou,Sulu Sultanate
 iles vierges,Virgin Islands (Danish West Indies)
 ils d'acores,Azores (Western Isles)
 ils philippines,Philippines
+im ganzen,World
 imported goods re-exported by sea,***NA
 imported goods shipped as stores,***NA
 inagna (bahamas),Inagua
@@ -4155,6 +4331,7 @@ inde (+ceylan),India & Sri Lanka (Ceylon)
 inde (etab. fr. de l'),French India
 inde (y-compris ceylan),India & Sri Lanka (Ceylon)
 inde anglaise,India
+inde anglaise et ceylan,India & Sri Lanka (Ceylon)
 "inde anglaise, chine et singapour",India & People's Republic of China (China) & Singapore
 "inde anglaise, singapour et chine",India & People's Republic of China (China) & Singapore
 inde brit. et birmanie,India & Myanmar (Burma)
@@ -4352,6 +4529,7 @@ indje francuskie,French India
 indje holenderskie,Indonesia (Dutch East Indies)
 indje portugalskie,Portuguese India
 indland,India
+indo,India
 indo-china,French Indochina
 "indo-china, french",French Indochina
 indo-chine,French Indochina
@@ -4382,6 +4560,8 @@ i̇ngiltere,United Kingdom
 inglaterra,United Kingdom
 inglaterra y sus colonias,British Colonies & United Kingdom
 inglise,United Kingdom
+inhambane,Inhambane
+inhammessengo,Unknown
 inidia inglesa,India
 inne kraje,World (other)
 inne kraje (ameryka środkowa),Central America (other)
@@ -4413,8 +4593,8 @@ iran a afganistan,Afghanistan & Iran (Persia)
 iran en aghanistan,Afghanistan & Iran (Persia)
 irande,Ireland
 iraq,Iraq (Mesopotamia)
-iraq (foreign),Iraq (Mesopotamia) (other)
 iraq (autre),Iraq (Mesopotamia) (other)
+iraq (foreign),Iraq (Mesopotamia) (other)
 iraq (mesopotamia),Iraq (Mesopotamia)
 iraq and koweit,Iraq (Mesopotamia) & Kuwait
 iraque,Iraq (Mesopotamia)
@@ -4426,6 +4606,7 @@ irish free state,Ireland
 irland,Ireland
 írland,Ireland
 irlanda,Ireland
+"irlanda , estado libre",Ireland
 irlanda (estado livre),Ireland
 irlande,Ireland
 irlande (etat libre),Ireland
@@ -4486,6 +4667,7 @@ islas filipinas,Philippines
 "islas filipinas, o sea de la occeania directamente",Philippines
 islas hawaii,Hawaii (Sandwich Is.)
 islas holandesas,Netherlands Antilles
+islas italianas del mar egeo,Dodecanese Is. (Aegean Is.)
 islas madeira,Madeira Isles
 islas madera,Madeira Isles
 islas maderas,Madeira Isles
@@ -4499,6 +4681,7 @@ islas virgenes,Virgin Islands (Danish West Indies)
 isle of bourbon,Reunion (Bourbon I.)
 isle of bourbon (france),Reunion (Bourbon I.)
 isles canaries,Canary Is.
+isles de los,Unknown
 "isles of guernsey, jersey, alderney, and man (foreign goods)",Channel Is. & Isle of Man
 isole antille ed america centrale,Central America & West Indies
 isole ionie,Ionian Is.
@@ -4523,6 +4706,8 @@ italian east africa,Italian East Africa
 italian east africa (eritrea and somaliland),Eritrea & Italian Somaliland
 italian east africa (somaliland and eritrea),Eritrea & Italian Somaliland
 "italian east africa, etc",Italian Eastern Africa
+italian eastern africa,Italian Eastern Africa
+italian eastern africa (other),Italian Eastern Africa (other)
 italian ita-afrikka,Italian Africa
 italian libia cyrenaica,Cyrenaica
 italian ports not specified,Italy (other)
@@ -4530,6 +4715,7 @@ italian possessions,Italian Colonies
 italian possessions in africa,Italian Africa
 italian possessions in eastern africa,Italian Eastern Africa
 italian somaliland,Italian Somaliland
+italian states,Italy
 italie,Italy
 italië,Italy
 "italie (deux-siciles, etats sardes)",Kingdom of Sardinia & Two Sicilies
@@ -4582,6 +4768,7 @@ itlay,Italy
 iugo-eslavia,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 iugoslávia,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 ivory coast,Ivory Coast
+"ivory coast, togoland and dahomey",Benin (Dahomey) & German Togoland & Ivory Coast
 jaapan,Japan
 jaffa,Jaffa
 jamaica,Jamaica
@@ -4674,6 +4861,8 @@ java islands,Java
 "java, sumatra and other parts of dutch east indies",Indonesia (Dutch East Indies) (other) & Java & Sumatra
 "java, sumatra**",Java & Sumatra
 java/dutch east indies,Java
+jebba,Jebba
+jellah coffee,Unknown
 jemen,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 jemena,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 jérémie,Jérémie
@@ -4702,6 +4891,8 @@ jungfruöarna,Virgin Islands (Danish West Indies)
 juzno africka unija,South Africa
 kaanada,Canada (Province of Canada)
 kaap de goede hoop,Cape Colony (Cape of Good Hope)
+kafani,Unknown
+kaffraria,British Kaffraria
 kaffraria (south africa),British Kaffraria
 kaiser wilhelm land,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 kalifornien,California (Great Bear Republic)
@@ -4733,6 +4924,7 @@ kanariska oarna,Canary Is.
 kanaru salos,Canary Is.
 kap verde-öarna,Cape Verde
 kap-verde oarna,Cape Verde
+kapland,Cape Colony (Cape of Good Hope)
 kaplandet,Cape Colony (Cape of Good Hope)
 kapstaden,Cape Town
 kapverde salas,Cape Verde
@@ -4763,6 +4955,7 @@ kenya et uganda,Kenya (British East Africa Protectorate) & Uganda
 kerguelen island,Kerguelen Is.
 kerguelen islands,Kerguelen Is.
 kerkelijke staat,Papal States
+key river,Key River
 "keyna, uganda",Kenya (British East Africa Protectorate) & Uganda
 khanat de khiva,Khiva
 kiauchau,Kiauchau
@@ -4773,6 +4966,7 @@ kina og mandschuriet,Manchuria & People's Republic of China (China)
 kina un mandzurija,Manchuria & People's Republic of China (China)
 kine,People's Republic of China (China)
 kingdom of siam,Thailand (Siam)
+kingston jamaica,Kingston
 kinija,People's Republic of China (China)
 kipar,Cyprus
 kipra,Cyprus
@@ -4812,6 +5006,7 @@ kolumbia,Colombia (New Granada) (Gran Colombia)
 kolumbie,Colombia (New Granada) (Gran Colombia)
 kolumbija,Colombia (New Granada) (Gran Colombia)
 kolumbja,Colombia (New Granada) (Gran Colombia)
+konakry,Conakry
 kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 kongo (belgijas),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 kongó allám,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
@@ -4824,6 +5019,7 @@ kongó-állam,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo
 kongostaat,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 kongostaten,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 kongpot,Kongpot
+kooria mooria,Kuria Muria Is.
 kooria mooria islands (arabia),Kuria Muria Is.
 kordofán,Kordofan
 korea,Korea (Chosen)
@@ -4835,6 +5031,7 @@ kosta rika,Costa Rica
 kosta-rika,Costa Rica
 kostarika,Costa Rica
 kotonou,Cotonou
+kotonu,Cotonou
 kouang-tchéou-ouan,Kwanchowan
 kouang-toung,Kwangtung Territory
 koweit,Kuwait
@@ -4845,6 +5042,7 @@ kraje oceanii oddz. nie wym.,Oceania (other)
 "kraje wysp. am. srodk. (oprócz kuby, s. domingo, haiti)",Southern America (other)
 kreta,Crete
 kribi,Kribi
+kroo coast,Kroo Coast
 kuba,Cuba
 kúba,Cuba
 "kuba, haiti a s. domingo",Cuba & Dominican Republic (Santo Domingo) & Haiti
@@ -4852,9 +5050,12 @@ kúba,Cuba
 "kuba, portoriko",Cuba & Puerto Rico
 "kuba, vestindien",Cuba & West Indies (other)
 kuddalore,Kuddalore
+kurachee,Karachi
 kurasao,Curacao
 kurdistan,Kurdistan
+kurrachee,Karachi
 kust van guinea,Guinea Coast
+kutonu,Cotonou
 kuwait,Kuwait
 kwan tung,Kwangtung Territory
 kwangchowwan leased territory,Kwanchowan
@@ -4868,6 +5069,7 @@ kwatung province (japanese possession),Kwangtung Territory
 kwong chow wan,Kwanchowan
 kypras,Cyprus
 la grande comore,Grand Comoro
+la guayra,La Guaira
 la guayra et cuba,Cuba & La Guaira
 la havane,Havana
 la india,India
@@ -4885,7 +5087,9 @@ la plata-provinserne,Argentina (La Plata)
 labrador,Labrador
 labuan,Labuan I.
 laccadive islands,Laccadive Islands
+lacepede islands,Lacepede Is.
 ladrone island,Mariana Is.
+ladrone islands,Mariana Is.
 lagos,Lagos
 lagos (marchandises étrangères),Lagos
 lagos (marchandises françaises),Lagos (French produce)
@@ -4907,10 +5111,12 @@ lauenbourg,Lauenburg
 le cap,Cape Town
 le havre,Le Havre
 leedu,Lithuania
-leeward coast (non british),Leeward Coast of Africa (non British)
+leeward,Leeward Coast of Africa
 leeward coast,Leeward Coast of Africa
-leeward coast of africa,Leeward Coast of Africa
 leeward coast (all),Leeward Coast of Africa
+leeward coast (non british),Leeward Coast of Africa (non British)
+leeward coast lagos,Lagos
+leeward coast of africa,Leeward Coast of Africa
 leeward is.,Leeward Is.
 leeward islands,Leeward Is.
 leewardsoarna,Leeward Is.
@@ -4930,6 +5136,7 @@ lettonie,Latvia
 levant,Levant
 levant and black sea,Black Sea & Levant
 "leward island (l.i antigua, l.i dominica, l.i st.christopher, montserrat, nevis, virgin island)",Leeward Is.
+leychelles,Seychelles
 libano,Lebanon
 líbano,Lebanon
 liberia,Liberia
@@ -4961,6 +5168,7 @@ lithuania,Lithuania
 lithuanie,Lithuania
 lithuanie (y compris memel),Lithuania & Memel
 littauen,Lithuania
+little popo,Anecho (Little Popo)
 lituania,Lithuania
 lituȃnia,Lithuania
 lituanie,Lithuania
@@ -4971,10 +5179,18 @@ livonia,Latvia
 livourne,Livorno
 ĺndia,India
 loanda,Loanda
+loango,Loango
+lohmey,Unknown
+lokoja,Lokoja
 lombock,Lombok
 lome,Lomé
+lomé,Lomé
+lomeh,Unknown
+london,London
 londres,London
+long island,Long I.
 lord howe island,Lord Howe I.
+lorenzo marques,Maputo
 los demás países,World (other)
 lotwa,Latvia
 lotyšsko,Latvia
@@ -5040,15 +5256,18 @@ madère,Madeira Isles
 "madra, calcutta",Chennai (Madras) & Kolkata (Calcutta)
 madras,Chennai (Madras)
 madras (british india),Chennai (Madras)
+madras and calcutta,Chennai (Madras) & Kolkata (Calcutta)
 madras and coromandel coast,Chennai (Madras) & Coromandel Coast Posts
 madras et littoral indien,Chennai (Madras) & India (Coast)
 mafia island,Mafia I.
 maisto produktai laivams,***NA
 makatea island,Makatea Is.
+malabar coast,Malabar Coast
 malaca,Malacca
 malacca,Malacca
 malacca et penang,Malacca & Penang
 malaga,Málaga
+malagas island,Malgas I.
 malaisie,Malaysia (British Malaya)
 malaisie brit.,Malaysia (British Malaya)
 malaisie britan,Malaysia (British Malaya)
@@ -5077,6 +5296,7 @@ malden island,Malden I.
 maldive islands,Maldive Islands
 maldive islands (including sandwich isles),Maldive Islands
 maldives,Maldive Islands
+maldon island,Malden I.
 malesia brit. (stab. str.),Straits Settlements
 malt,Malta
 malta,Malta
@@ -5123,6 +5343,7 @@ mandzuko,Manchukuo
 mandżuria,Manchuria
 mandzurija,Manchuria
 mandzusko,Manchukuo
+mangalore,Mangalore
 manica e sofala,Manica Province & Sofala Province
 manila,Manila
 manilla,Manila
@@ -5135,6 +5356,7 @@ mantzourie,Manchuria
 marchandises étrangères soumises à des droits de douane importées de russie,World (via Russia)
 marchandises soumises au tarif spécial,***NA
 margarita,Margarita I.
+margaritta,Margarita I.
 margaritta (venezuela),Margarita I.
 mariana,Mariana Is.
 maroc,Morocco
@@ -5218,6 +5440,7 @@ mascut,Oman (Sultanate of Muscat and Oman)
 maskat territory and trucial oman,Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman)
 massa et carrare,Massa and Carrara
 massawah,Massawah
+masulipatam,Machilipatnam
 maurice,Mauritius
 maurice (île),Mauritius
 "maurice, cap, australie",Australia & Cape Colony (Cape of Good Hope) & Mauritius
@@ -5242,8 +5465,10 @@ mayotte & nossi-bé,Mayotte & Nossi Be
 mayotte et dépendances,Mayotte
 "mayotte, anjouan, la grande comore, mohéli",Anjouan & Grand Comoro & Mayotte & Moheli
 "mayotte, nossi-bé et sainte-marie de madagascar",Mayotte & Nossi Be & St. Marie de Madagascar
+mayumba,Mayumba
 mazambique,Mozambique (Portuguese East Africa)
 mazattan,Mazatlán
+mazeppa bay,Mazeppa Bay
 mechul,Unknown
 mecklembourg,Mecklenburg Schwerin
 mecklembourg- schwérin**,Mecklenburg Schwerin
@@ -5282,6 +5507,7 @@ meksika,Mexico
 meksiko,Mexico
 meksyk,Mexico
 melanesia,Melanesia
+melbourne,Melbourne
 melilla,Melilla
 melilla**,Melilla
 mellem-amerika ellers,Central America (other)
@@ -5315,6 +5541,7 @@ mexico and central america and panama,Central America & Mexico & Panama
 mexico and central amrica and west indies,Central America & Mexico & West Indies
 mexico en centraal-amerika,Central America & Mexico
 mexico och öfriga länder i central-amerika,Central America & Mexico
+mexico und zentralamerika,Central America & Mexico
 "mexico, central america and west indies",Central America & Mexico & West Indies
 mexico's golf,Gulf of Mexico
 mexico's ostküste,Mexico (other)
@@ -5436,6 +5663,7 @@ monde*,World
 mongolia,Mongolia
 mongolie,Mongolia
 mongoliet,Mongolia
+monrovia,Monrovia
 monte cristo,Unknown
 monte video,Montevideo
 montenegro,Montenegro
@@ -5458,9 +5686,11 @@ morocco and algeria,Algeria (Regency of Algiers) & Morocco
 morocco and barbary states,Barbary Coast
 "morocco, french protectorate",Morocco
 "morocco, spanish zone & tangier",Spanish Morocco & Tangier
+moroundava,Morondava
 morrocco,Morocco
 morroco,Morocco
 mosquito coast,Mosquito Coast
+mossamedes,Moçâmedes
 moulmain,Mawlamyine
 moulmein,Mawlamyine
 moyen-congo,Congo (Brazzaville) (French Congo) (Middle Congo)
@@ -5487,6 +5717,7 @@ nach lübeck per stecknitz,World (via Lübeck)
 nach und über harburg,World (via Harburg)
 nach und über lüneburg,World (via Lüneburg)
 nagapatam,Nagapattinam
+nagasaki,Nagasaki
 nagore,Nagore
 nagy-britannia,United Kingdom
 nagybritannia,United Kingdom
@@ -5542,6 +5773,7 @@ nederländska ostindien,Indonesia (Dutch East Indies)
 nederlandske besiddelser,Dutch Colonies
 nederlansk india,Indonesia (Dutch East Indies)
 nedj et hedjaz,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+negapatam,Nagapattinam
 negri sembilan,Negeri Sembilan
 německo,Germany (Zollverein)
 németalföld,Netherlands
@@ -5578,9 +5810,11 @@ neuve-terre,Newfoundland and Labrador (Newfoundland)
 nevis,Nevis
 nevis (british west india islands),Nevis
 nevis (leeward islands - west india islands),Nevis
+new bedford,New Bedford
 new brunswick,New Brunswick
 new brunswick (british north america),New Brunswick
 new brunswick (north america),New Brunswick
+new calabar,New Calabar (Kalabari)
 new caledonia,New Caledonia and Dependencies
 new foundland,Newfoundland and Labrador (Newfoundland)
 new foundland and labrador,Newfoundland and Labrador (Newfoundland)
@@ -5603,8 +5837,10 @@ new pomerania,Bismarck Archipelago (New Britain) (Neupommern)
 new providence,New Providence
 new south wales,New South Wales
 new south wales (australia),New South Wales
+new south wales and van diemen's land,New South Wales & Tasmania
 "new south wales, queensland, south australia, tasmania, victoria, west australia",Australia
 new south wales/victoria/south australia/tasmania,New South Wales & South Australia & Tasmania & Victoria
+new york,New York
 new zealand,New Zealand
 new zealand (australia),New Zealand
 new zealand (british oceania),New Zealand
@@ -5634,6 +5870,7 @@ nicaragua,Nicaragua
 nicaragua**,Nicaragua
 nicaraguay,Nicaragua
 nicht ermittelt,Unknown
+nicht ermittelt (seewärts),***NA
 nickerie (dutch),Nickerie
 nicobar islands,Nicobar Is.
 niederland indien,Indonesia (Dutch East Indies)
@@ -5645,12 +5882,14 @@ niederländisch indien,Indonesia (Dutch East Indies)
 niederländisch indien usw.,Indonesia (Dutch East Indies)
 niederländisch ostindien,Indonesia (Dutch East Indies)
 niederländisch west-indien,Netherlands Antilles
+niederländisch westindien,Netherlands Antilles
 niederländisch-amerika,Dutch America
 niemcy,Germany (Zollverein)
 niet gespecif passagiersgoederen en postpakketten,***NA
 nieuw zeeland,New Zealand
 nieuw-zeeland,New Zealand
 niger,Niger
+niger coast protectorate,Southern Nigeria (Niger Coast Protectorate)
 niger français,Niger
 niger francuski,Niger
 niger protectorate (west africa),Niger
@@ -5731,12 +5970,14 @@ north am. provinces,British Northern America
 north america,Northern America
 north america (including british north america),Northern America
 north american colonies,British Northern America
+north australia,North Australia
 north borneo,Sabah (North Borneo)
 north china,People's Republic of China (China) (North)
 north east rhodesia,Northeastern Rhodesia
 north eastern rhodesia,Northeastern Rhodesia
 north german union,North German Confederation
 north germany,North Germany
+north south wales,New South Wales
 north west coast of america,North Western America
 north western rhodesia,Barotseland_North_Western Rhodesia (Northwestern Rhodesia)
 north yemen,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
@@ -5763,6 +6004,7 @@ norvegija,Norway
 norvegjie,Norway
 norveska,Norway
 norway,Norway
+norway & sweden,Norway & Sweden
 norway and sweden,Norway & Sweden
 norway and sweden and denmark,Denmark & Norway & Sweden
 "norway, sweden",Norway & Sweden
@@ -5825,12 +6067,14 @@ novy zizni wales atd,New South Wales
 nowa zelandja,New Zealand
 nowe hebrydy,Vanuatu (New Hebrides)
 nueva granada,Colombia (New Granada) (Gran Colombia)
+nueva guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 nueva guinea holandesa,West Irian (Dutch New Guinea)
 nueva iberia,New Iberia
 nueva zeland,New Zealand
 nueva zelanda,New Zealand
 nueva zelandia,New Zealand
 nueva-granada,Colombia (New Granada) (Gran Colombia)
+nuevas hebridas,Vanuatu (New Hebrides)
 nufaundlendu salas,Newfoundland and Labrador (Newfoundland)
 nuova zelanda,New Zealand
 ny zeeland,New Zealand
@@ -5897,12 +6141,14 @@ ogólem,World
 ohter british north american possessions,British Northern America (other)
 ohter british possessions,British Colonies (other)
 øier i stillehavet,Pacific Islands
+oil rivers,Oil Rivers Protectorate
 "okeanijas salas, britanijas kolon",British Oceania
 "okeanijas salas, franc kolon",French Polynesia
 olanda,Netherlands
 olandija,Netherlands
 olandu indija,Indonesia (Dutch East Indies)
 olaszország,Italy
+old calabar,Old Calabar (Efik)
 oldenbourg,Oldenburg
 oldenbourg (association commerciale allemande),Oldenburg
 "oldenbourg, hanovre, mecklembourg",Hanover & Mecklenburg Schwerin & Oldenburg
@@ -5914,6 +6160,7 @@ oldenburg und wilhelmshafen,Oldenburg & Wilhelmshaven
 oldenburgh and kniphausen (germany),Kniphausen & Oldenburg
 oman,Oman (Sultanate of Muscat and Oman)
 oman and muscat,Oman (Sultanate of Muscat and Oman)
+onitsha,Onitsha
 önnur lönd,World (other)
 ontario,Ontario (Upper Canada)
 ontario and quebec,Ontario (Upper Canada) & Quebec (Lower Canada)
@@ -5925,6 +6172,7 @@ ooestenrijk,Austria
 oostenrijk,Austria
 oostenrijk-hongarije,Austria-Hungary (Austrian Empire)
 "oostenrijk, hongarije en tshechoslowakije",Austria & Czechoslovakia & Hungary
+opobo,Opobo
 oporto,Porto
 optional,***NA
 orange,Orange Free State (Orange River Colony)
@@ -5933,6 +6181,7 @@ orange free state (orange river colony),Orange Free State (Orange River Colony)
 orange river colony,Orange Free State (Orange River Colony)
 oranje kolonie,Orange Free State (Orange River Colony)
 oranje-fristaten,Orange Free State (Orange River Colony)
+ordenes y rancho,***NA
 orégon,Oregon (Oregon Country)
 oriental republic of uruguay,Uruguay
 origen indeterminado,Unknown
@@ -5952,6 +6201,7 @@ ost. brit. džr. v amer.,British America (other)
 ost. brit. džr. v asii,British Asia (other)
 ost. franc. džr. v africe,French Africa (other)
 østafrika,Eastern Africa
+ostafrika ohne deutsche schutzgebiete,Eastern Africa (other)
 ostantni oblasti v severni africe,Northern Africa (other)
 østasien uden nærmere angivelse,Eastern Asia (other)
 ostatní afríka,Africa (other)
@@ -5978,7 +6228,10 @@ ostatni zeme severni ameriky,Northern America (other)
 østerrig,Austria-Hungary (Austrian Empire)
 österrike,Austria
 østerrike,Austria
+österrike (imperium),Austria-Hungary (Austrian Empire)
+østerrike-ungarn,Austria-Hungary (Austrian Empire)
 osterrike-ungern,Austria-Hungary (Austrian Empire)
+österrike-ungern,Austria-Hungary (Austrian Empire)
 osterrikiska staterne,Austria-Hungary (Austrian Empire)
 ostfriesland,East Frisia
 ostfrise,East Frisia
@@ -5990,6 +6243,7 @@ ostindien och öfriga ost-asiatiska länder samt australien,Asia (other) & Austr
 "ostindien, kina, asien forøvrig",Asia (other) & East Indies & People's Republic of China (China)
 "ostindien, kina, asien forøvrigt",Asia (other) & East Indies & People's Republic of China (China)
 ostindien. australien,Australia & East Indies
+"ostindische inseln (niederländisch ostindien, philippinien)",Indonesia (Dutch East Indies) & Philippines
 ostpolen,Kresy
 østrig,Austria
 østrig-ungarn,Austria-Hungary (Austrian Empire)
@@ -6112,7 +6366,10 @@ other french africa,French Africa (other)
 other french african ports,French Africa (other)
 other french posessions,French Colonies (other)
 other french possessions,French Colonies (other)
+other french possessions in africa,French Africa (other)
 other german ports,Germany (Zollverein) (other)
+other german possessions in africa,German Africa (other)
+other holland indian seas,Dutch India (other)
 other islands in the indian seas,Indian Ocean Islands (other)
 other islands in the pacific,Pacific Islands (other)
 other islands in the pacific (british),British Oceania (other)
@@ -6131,6 +6388,7 @@ other pacific islands,Oceania (other)
 other parts (australia),Australia (other)
 other parts of africa,Africa (other)
 other parts of australasia,Australia (other)
+other parts of british empire,British Colonies (other)
 other parts of europe,Europe (other)
 other parts of south america,Southern America (other)
 other parts of the american continent,America (other)
@@ -6147,7 +6405,10 @@ other ports of asia,Asia (other)
 other ports of europe,Europe (other)
 other portuguese africa,Portuguese Africa (other)
 other portuguese african ports,Portuguese Africa (other)
+other portuguese east african ports,Portuguese Eastern Africa (other)
 other portuguese possessions,Portuguese Colonies (other)
+other portuguese possessions in africa,Portuguese Africa (other)
+other portuguese west african ports,Portuguese Western Africa (other)
 other possessions in the indian seas (except in borneo and new guinea) (holland),Dutch Oceania (other)
 other possessions in the indian seas (holland),Dutch Oceania (other)
 other south africa,South Africa (other)
@@ -6256,7 +6517,7 @@ ovriga mellanamerika,Central America (other)
 øvrige lande i nordafrika,Northern Africa (other)
 øvrige nordamerika,Northern America (other)
 øvrige nordamerika (meksiko),Mexico
-øvrige polarlande,Polar countries (other)
+øvrige polarlande,Arctic
 øvrige sydafrika,South Africa (other)
 øvrige sydamerika,Southern America (other)
 "øvrige sydamerika, sydamerika uden nærmere angivelse",Southern America (other)
@@ -6300,6 +6561,7 @@ países bajos,Netherlands
 paises de africa,Africa
 países de américa,America (other)
 países de europa,Europe (other)
+paises-bajos,Netherlands
 paizes não mencionados,Unknown
 pakistan,Pakistan
 palaos island,Palau
@@ -6406,6 +6668,7 @@ pays-bas et colonies,Dutch Colonies & Netherlands
 pays-bas et possessions,Dutch Colonies & Netherlands
 "pays-bas, belgique",Belgium & Netherlands
 pays-bas**,Netherlands
+peacock's bay,Peacock Bay
 pêche (seulement au long cours),***NA
 pêche hareng,***NA
 pedro and morant cays,Morant Cays & Pedro Bank
@@ -6414,6 +6677,7 @@ pégu,Bago (Pegu)
 "pégu, rangoon",Bago (Pegu) & Rangoon
 penang,Penang
 "penang, singapore, and malacca",Malacca & Penang & Singapore
+penguin island,Penguin Is.
 péninsule ibérique,Portugal & Spain
 péninsule italique,Italy
 péninsule malaise,Malaysia (British Malaya) (other)
@@ -6421,9 +6685,11 @@ péninsule malaise,Malaysia (British Malaya) (other)
 péninsule malay,Malaysia (British Malaya) (other)
 péninsule scandinave,Norway & Sweden
 peñón de la gomera,Penon de Velez
+pensa cola,Pensacola
 pequenas antillas britanicas,British West Indies (other)
 perak,Perak
 perim,Perim I.
+pernambuco,Pernambuco
 perou,Peru
 pérou,Peru
 pérou (bas pérou),Peru
@@ -6448,6 +6714,7 @@ persia (or persian gulf),Iran (Persia)
 persian gulf,Persian Gulf
 persie,Iran (Persia)
 persien,Iran (Persia)
+"persien, aden, bahrein, übriges asien",Aden & Bahrain & Iran (Persia)
 persija,Iran (Persia)
 persja,Iran (Persia)
 peru,Peru
@@ -6505,6 +6772,7 @@ plata,Argentina (La Plata)
 plata (port de montevideo seulement),Montevideo
 plata-provinserne,Argentina (La Plata)
 pleasant island (nauru),Nauru
+plumpudding island,Kennedy I.
 poland,Poland
 poland (incl. danzig),Danzig (Free City of Danzig) & Poland
 poland (including dantzig),Danzig (Free City of Danzig) & Poland
@@ -6530,15 +6798,15 @@ pólland,Poland
 pólland og danzig,Danzig (Free City of Danzig) & Poland
 pólnocnej,Northern Africa (other)
 pologne,Poland
-pologne (congrès),Congress Poland
 pologne (+ dantzig),Danzig (Free City of Danzig) & Poland
 pologne (+dantzig),Danzig (Free City of Danzig) & Poland
+pologne (congrès),Congress Poland
+"pologne (congrès), galicie, provinces russes",Congress Poland & Galicia (Kingdom of Galicia and Lodomeria) & Russian provinces
 pologne (y compris dantzig),Danzig (Free City of Danzig) & Poland
 pologne et dantzig,Danzig (Free City of Danzig) & Poland
 pologne russe et autrichienne par vistule,Congress Poland & Cracow (Free City of Cracow)
 pologne-dantzig,Danzig (Free City of Danzig) & Poland
 pologne-danzig,Danzig (Free City of Danzig) & Poland
-"pologne (congrès), galicie, provinces russes",Congress Poland & Galicia (Kingdom of Galicia and Lodomeria) & Russian provinces
 polonia,Poland
 polȏnia,Poland
 polónia — dantzig,Danzig (Free City of Danzig) & Poland
@@ -6551,7 +6819,10 @@ poludniowej,Southern Africa (other)
 polyneisen,Polynesia
 polynesië,Polynesia
 polynesie en micronesie,Federated States of Micronesia & French Polynesia
+pomona island,Pomona I.
+pondicherry,Pondicherry
 pondichéry,Pondicherry
+pondoland,Pondoland
 pontianak,Pontianak
 poola,Poland
 port arthur,Lüshun Port (Port Arthur)
@@ -6560,12 +6831,18 @@ port d'italie (trieste),Trieste
 port dantzig,Danzig (Free City of Danzig)
 port de mogador,Essaouira (Mogador)
 port elisabeth,Port Elizabeth
+port elizabeth,Port Elizabeth
 port libre polonais,Poland Free Ports
 port maurice,Imperia (Porto Maurizio)
 port medway,Port Medway
 port natal,Durban (Port Natal)
 port of balaklava (in the occupation of the allied forces),Balaklava
 port of bangkok,Bangkok
+port of cape town,Cape Town
+port of east london,East London
+port of simon's town,Port Simon
+port of waterloo bay,Waterloo Bay
+port phillip,Port Phillip
 port said,Port Said
 port said (arabia),Port Said
 port said (egypt),Port Said
@@ -6575,7 +6852,9 @@ port. asien u. übrig. asien,Portuguese Asia & Asia (other)
 port. bez. in zuid-afrika,Portuguese Southern Africa
 port. oost-afrika,Mozambique (Portuguese East Africa)
 port. west-afrika,Portuguese Western Africa
+porto bello,Portobelo
 porto novo,Porto Novo
+porto prince,Port-au-Prince
 porto rico,Puerto Rico
 porto rico (spain),Puerto Rico
 porto rico (spanish),Puerto Rico
@@ -6620,6 +6899,8 @@ ports libres des pays-bas,Dutch Free Ports
 ports libres polonais,Poland Free Ports
 ports non occupés de l'algérie,Algeria (Regency of Algiers) (other)
 ports océan pacifique,Pacific Ports
+ports of asia (other),Asia (other)
+ports of europe (other),Europe (other)
 ports of the crinea (in the temporary occupation of the allied forces),Crimea Ports
 ports russes baltique,Russia (Baltic Sea)
 ports russes mer noire,Russia (Black Sea)
@@ -6644,6 +6925,9 @@ portugal (porto et lisbonne),Lisbon & Porto
 portugal (porto),Porto
 portugal (porto)**,Porto
 portugal (saint-ubes sétuval),Setúbal
+portugal & france,France & Portugal
+portugal & portuguese east africa,Mozambique (Portuguese East Africa) & Portugal
+portugal & spain,Portugal & Spain
 portugal and azores and madeira,Azores (Western Isles) & Madeira Isles & Portugal
 portugal and dependencies,Portugal & Portuguese Colonies
 portugal and madeira,Madeira Isles & Portugal
@@ -6666,6 +6950,7 @@ portugal og madeira,Madeira Isles & Portugal
 portugal posesiones orientales,Portuguese Asia
 portugal proper,Portugal
 portugal undt. kapverdeøiene,Portugal
+portugal west indies,Portuguese West Indies
 "portugal, açores et madère",Azores (Western Isles) & Madeira Isles & Portugal
 "portugal, azores",Azores (Western Isles) & Portugal
 "portugal, espagne",Portugal & Spain
@@ -6708,6 +6993,7 @@ portuguese africa,Portuguese Africa
 portuguese asia,Portuguese Asia
 portuguese china,Portuguese China
 portuguese colonies,Portuguese Colonies
+portuguese colonies (america),Portuguese America
 portuguese east africa,Mozambique (Portuguese East Africa)
 portuguese east africa (portugal),Mozambique (Portuguese East Africa)
 portuguese east africa for reconsignment,Portuguese Eastern Africa (other)
@@ -6748,24 +7034,39 @@ portuguese west africa (cape verd islands),Cape Verde
 portuguese west africa (continental territory),Portuguese Western Africa (other)
 portuguese west africa (portugal),Portuguese Western Africa
 portuguese west africa and angola,Portuguese Western Africa
+pos. britanicas en asia,British Asia
+pos. holandesas en am. cent.,Dutch Central America
 poseciones holandesas,Dutch Colonies
+posesiones alemanas,German Colonies
 posesiones alemanas en africa,German Africa
 posesiones alemanas en oceania,German Oceania
+posesiones belgas,Belgian Colonies
+posesiones belgas en africa,Belgian Africa
+posesiones britanicas en africa,British Africa
+posesiones britanicas en amer. central,British Central America
+posesiones britanicas en oceania,British Oceania
+posesiones britanicas in europa,British Europe
 posesiones danesas en america,Danish America
 posesiones danesas en américa,Danish America
 posesiones danesas en euorpa,Danish Europe
 posesiones danesas en europa,Danish Europe
+posesiones dinamarquesas,Danish Colonies
+posesiones espanolas,Spanish Colonies
+posesiones espanolas en africa,Spanish Africa
+"posesiones espanolas, por ordenes",Spanish Colonies (other)
 posesiones francesas,French Colonies
 posesiones francesas de asia y oceanía,French Asia & French Polynesia
 posesiones francesas en africa,French Africa
 posesiones francesas en africa (senagambia),Senegal
 posesiones francesas en africa occidental,French West Africa
 posesiones francesas en africa oriental,French Eastern Africa
+posesiones francesas en amer. central,French Central America
 posesiones francesas en america,French America
 posesiones francesas en américa,French America
 posesiones francesas en asia,French Asia
 posesiones francesas en asia y oceania,French Asia & French Polynesia
 posesiones francesas en oceania,French Polynesia
+"posesiones francesas, por ordenes",French Colonies (other)
 posesiones holandesas,Dutch Colonies
 posesiones holandesas en america,Dutch America
 posesiones holandesas en américa,Dutch America
@@ -6784,7 +7085,14 @@ posesiones inglesas en asia,British Asia
 posesiones inglesas en asia y oceania,British Asia & British Oceania
 posesiones inglesas en europa,British Europe
 posesiones inglesas en oceania,British Oceania
+posesiones italianas,Italian Colonies
+posesiones italianas en africa,Italian Africa
 posesiones italianas en africa (eritrea y somalia),Eritrea & Italian Somaliland
+posesiones jaopnesas,Japanese Colonies
+posesiones norteamer. en amer. central,American Central America
+posesiones norteamer. en oceania,American Oceania
+posesiones norteamericanas,British Northern America
+posesiones portuguesas,Portuguese Colonies
 posesiones portuguesas (isla de la madera),Madeira Isles
 posesiones portuguesas en africa,Portuguese Africa
 posesiones portuguesas en africa occidental,Portuguese Western Africa
@@ -6792,6 +7100,7 @@ posesiones portuguesas en america,Portuguese America
 posesiones portuguesas en asia,Portuguese Asia
 posesiones portuguesas en asia y oceania,East Timor (Portuguese Timor) & Macao & Portuguese India
 posesiones portuguesas en europa,Portuguese Europe
+"posesiones portuguesas, por ordenes",Portuguese Colonies (other)
 posiadlości brytańskie na malakka,Malaysia (British Malaya)
 posiadlości brytańskie na malakka i borneo pólnocne,British Borneo & Malaysia (British Malaya)
 posiadlości brytańskie na morzu śródziemnem,British Mediterranean Sea
@@ -6818,6 +7127,7 @@ possedimenti inglesi in asia,British Asia
 possedimenti olandesi,Dutch Colonies
 possessed end of italy,Trieste
 possession danoise en amérique,Danish America
+possession island,Possession I.
 possessions allemandes (côte occidentale d'afrique),German Western Africa
 possessions allemandes (côte orientale d'afrique),German East Africa
 possessions allemandes en océanie,German Oceania
@@ -6873,6 +7183,7 @@ possessions espagnoles en amérique,Spanish America
 possessions espagnoles en amérique (cuba & porto-rico),Cuba & Puerto Rico
 possessions etrangeres des indes occidentales,West Indies (other)
 possessions fraçaises dans l'inde,French India
+possessions françaises,French Colonies
 possessions françaises (côte maritime),French Africa (other)
 possessions françaises (haut-congo),Congo (Brazzaville) (French Congo) (Middle Congo)
 possessions françaises d'amérique,French America
@@ -6937,6 +7248,7 @@ poulo-pinang,Penang
 pour compte gouvernement hollandais,Dutch government
 pour la consommation à la mer,***NA
 pozostale niewymienione kraje azji,Asia (other)
+pram pram,Prampram
 prancuzija,France
 prancuzu somalija,Djibouti (Afar and Issas) (French Somaliland)
 prancuzu togo,Togo (French Togoland)
@@ -6950,6 +7262,8 @@ prince edward island (british north america),Prince Edward Is.
 prince edward island (north america),Prince Edward Is.
 prince edward islands,Prince Edward Is.
 prince edward isles,Prince Edward Is.
+prince edward's island,Prince Edward Is.
+prince of wales' bay,Prince of Wales Bay
 principauté danube,Moldavia & Wallachia
 principautés danubiennes,Moldavia & Wallachia
 principe,Principe
@@ -7026,6 +7340,7 @@ puertos no denominados,Unknown
 puissance du canada,Canada (Province of Canada)
 puissances étrangères (sans france),World (other)
 pungah,Pungah
+punta arena,Punta Arenas
 punta-arénas,Punta Arenas
 punto franco fiume,Fiume
 punto franco trieste,Trieste
@@ -7038,6 +7353,8 @@ queensland (australia),Queensland
 queensland a vychodni pobrzi australie,Queensland
 quénia,Kenya (British East Africa Protectorate)
 quilimane,Quelimane
+quillemine,Quelimane
+quittah,Keta
 r-u. de gr. bretagne et irlande du nord,United Kingdom
 r. de panama,Panama
 r. niger,Niger
@@ -7053,6 +7370,7 @@ rangoon et moulmain,Mawlamyine & Rangoon
 rangoun,Rangoon
 řecko,Greece
 red sea,Red Sea
+redonda,Redonda
 reg. art. e antart. -pesca,***NA
 régence,Tripolitania (Regency of Tripoli)
 régence de tripoli,Tripolitania (Regency of Tripoli)
@@ -7120,9 +7438,9 @@ republica filipinas,Philippines
 republics of central america,Central America
 republik haiti,Haiti
 république argentine,Argentina (La Plata)
+république argentine (autre),Argentina (La Plata) (other)
 république argentine (cabotage),Argentina (La Plata) (other)
 république argentine (la plata),Argentina (La Plata)
-république argentine (autre),Argentina (La Plata) (other)
 "république argentine, uruguay, paraguay",Argentina (La Plata) & Paraguay & Uruguay
 république d'haïti,Haiti
 république d'haïti. république dominicaine. porto-rico,Dominican Republic (Santo Domingo) & Haiti & Puerto Rico
@@ -7150,6 +7468,7 @@ reunion,Reunion (Bourbon I.)
 réunion,Reunion (Bourbon I.)
 reunion (bourbon) (france),Reunion (Bourbon I.)
 réunion (marchandises françaises),Reunion (Bourbon I.) (French produce)
+reunion (other),Reunion (Bourbon I.) (other)
 reunion island,Reunion (Bourbon I.)
 reunion isles,Reunion (Bourbon I.)
 rhanat de bokhava,Bokhara
@@ -7189,7 +7508,12 @@ rio janeiro,Rio de Janeiro
 rio-de-la-plata,Argentina (La Plata)
 rio-de-la-plata**,Argentina (La Plata)
 rio-de-oro,Río de Oro
+rio-del-ray,Rio del Rey
+rio-del-rey,Rio del Rey
+river gambia,Gambia
+river niger,Niger River
 river plate,Uruguay
+rivers (oil),Oil Rivers Protectorate
 rivière rouge,Red River
 rivières du sud du sénégal,Guinea (French Guinea) (Rivieres du Sud)
 rjeka,Fiume
@@ -7208,6 +7532,7 @@ roma,Papal States
 roma (provincie),Papal States
 romagna,Romagna
 romagne,Romagna
+roman states,Papal States
 romania,Romania
 románia,Romania
 romanie,Romania
@@ -7217,6 +7542,7 @@ romenia,Romania
 roménia,Romania
 rootsi,Sweden
 ross sea,Ross Dependency
+rotterdam,Rotterdam
 roumania,Romania
 roumanie,Romania
 roumélie orientale,Eastern Rumelia
@@ -7246,6 +7572,8 @@ ruanda / urundi,Ruanda-Urundi
 ruanda urundi,Ruanda-Urundi
 ruanda-urundi,Ruanda-Urundi
 ruckwaren,***NA
+rufisque,Rufisque
+rufisque (senegal),Rufisque
 rum,Romania
 rumænien,Romania
 rumania,Romania
@@ -7389,6 +7717,7 @@ russland (udssr),Russia (USSR)
 russland in asien,Asian Russia
 rußland in asien,Asian Russia
 rußland in europa,European Russia
+russland und finland,Finland & Russia (USSR)
 rusya,Russia (USSR)
 rwanda and burundi,Ruanda-Urundi
 ryska ost-asien,East Asian Russia
@@ -7426,6 +7755,7 @@ saint domingue,Dominican Republic (Santo Domingo)
 saint helena,St. Helena
 saint helene,St. Helena
 saint kitts,St. Kitts
+saint louis,Saint-Louis (Senegal)
 saint lucia,St. Lucia
 saint martin,Sint Maarten
 "saint martin, french",St. Martin
@@ -7463,10 +7793,13 @@ sainte-marie de madagascar,St. Marie de Madagascar
 "sainte-marie de madagascar, mayotte, etc.",Mayotte & Nossi Be & St. Marie de Madagascar
 "sainte-marie, mayotte et nossi-bé.",Mayotte & Nossi Be & St. Marie de Madagascar
 saksa,Germany (Zollverein)
+salagah,Salaga
 salonique,Thessaloniki
+salt pond,Saltpond
 salvador,El Salvador
 salvadora,El Salvador
 salwador,El Salvador
+samarang,Semarang
 sambas,Sambas
 samoa,Samoa
 samoa (iles),Samoa
@@ -7474,6 +7807,7 @@ samoa (sous mandat de la n. zélande),Samoa (Western Samoa) (German Samoa)
 samoa inseln,Samoa (Western Samoa) (German Samoa)
 samoa islands,Samoa (Western Samoa) (German Samoa)
 samoa occidentale,Samoa (Western Samoa) (German Samoa)
+samoa-inseln,Samoa
 "samoa, jaunzelandes mandat",Samoa (Western Samoa) (German Samoa)
 "samoa, us",American Samoa
 samos,Samos
@@ -7481,6 +7815,7 @@ samtals,World
 san domingo,Dominican Republic (Santo Domingo)
 san domingo - haiti,Dominican Republic (Santo Domingo) & Haiti
 san domingo (dominican republic),Dominican Republic (Santo Domingo)
+san francisco,San Francisco
 "san francisco, california",California (Great Bear Republic)
 san john river,Saint John River
 san juan,San Juan
@@ -7512,6 +7847,7 @@ santio domingo,Dominican Republic (Santo Domingo)
 santo domingo,Dominican Republic (Santo Domingo)
 santo domingo (west indies),Dominican Republic (Santo Domingo)
 santo tomas,St. Thomas
+santos,Santos
 sao domingos,Dominican Republic (Santo Domingo)
 sao salvador,El Salvador
 sao thome et principe,Sao Tome-Principe
@@ -7520,6 +7856,8 @@ sao thome i principe,Sao Tome-Principe
 sao tome e principe,Sao Tome-Principe
 são-domingos,Dominican Republic (Santo Domingo)
 saona (colonie dominicaine),Saona Island
+sapelli,Sapele (Nigeria)
+sapelo,Sapele (Nigeria)
 saravaka,Sarawak
 sarawak,Sarawak
 sarawak and brunei,Brunei & Sarawak
@@ -7536,8 +7874,10 @@ sardaigne et piémont,Piedmont & Sardinia
 sardaigne et toscane,Kingdom of Sardinia & Tuscany
 sardaigne-gênes,Genoa
 sardaigne**,Sardinia
+sardegna,Sardinia
 sardenha,Kingdom of Sardinia
 sardinia,Sardinia
+sardinian states,Kingdom of Sardinia
 sardinian territories,Kingdom of Sardinia
 "sardinian territories, tuscany, papal states, two sicilies and austrian territories",Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies
 sardinien,Kingdom of Sardinia
@@ -7571,13 +7911,16 @@ scotland,Scotland
 sea,***NA
 sealing,Seal Island
 "seekabel, strandgut und andere waren",***NA
+seerbro,Unknown
 seewärts andere waren,***NA
+sekondi,Sekondi-Takoradi
 selangor,Selangore
 senegal,Senegal
 sénégal,Senegal
 sénégal (gorée),Goree
 sénégal (marchandises françaises),Senegal (French produce)
 sénégal (saint-louis),Saint-Louis (Senegal)
+senegal (st. louis),Saint-Louis (Senegal)
 senegal and west coast of africa (excluding french congo),French West Africa & Senegal
 sénégal et dépendances,Senegal & Senegal Dependencies
 sénégal et établissement français du golfe de guinée,Assinie & Grand-Bassam & Senegal
@@ -7596,6 +7939,7 @@ sénégambie,Gambia & Senegal
 senegambien,Senegambia
 senegeal,Senegal
 ser,Kingdom of Serbia
+serampore,Serampore
 serawak,Sarawak
 serb-croat-slovene state,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
 serb-kroat-slow,"Yugoslavia (Kingdom of Serbs, Croats and Slovenes)"
@@ -7621,6 +7965,7 @@ servie,Kingdom of Serbia
 servië,Kingdom of Serbia
 seselu salas,Seychelles
 seszele,Seychelles
+sette cama,Setté Cama
 settlements of the hudson's bay company,Rupert's Land
 settlements of the hudson's bay company (british north america),Rupert's Land
 severni britska amerika,British Northern America
@@ -7632,6 +7977,7 @@ seychelles islands,Seychelles
 seylan,Sri Lanka (Ceylon)
 shang haï,Shangai
 shang-haï,Shangai
+shangai,Shangai
 shanghai,Shangai
 shelburne,Shelburne
 ship's stores,***NA
@@ -7672,6 +8018,7 @@ siera--leone,Sierra Leone
 siera-leone,Sierra Leone
 sierra leona,Sierra Leone
 sierra leone,Sierra Leone
+sierra leone (other),Sierra Leone (other)
 sierra leone (west africa),Sierra Leone
 sierra-leone,Sierra Leone
 sili,Chile
@@ -7761,6 +8108,7 @@ soudan franc,Mali (French Sudan) (Upper Senegal and Niger)
 soudan français,Mali (French Sudan) (Upper Senegal and Niger)
 soulou ou soloo,Sulu Sultanate
 soumeanee and meckran,Makran & Sonmiani
+sourabaya,Surabaya
 sous-le-vent (iles),Leeward Is.
 south africa,South Africa
 south africa - cape colony,Cape Colony (Cape of Good Hope)
@@ -7779,8 +8127,11 @@ south africa : rhodesia,Zimbabwe (Rhodesia) (Southern Rhodesia)
 south africa : swaziland†,Eswatini (Swaziland)
 south africa : swaziland‡,Eswatini (Swaziland)
 south africa : transvaal,Transvaal (South African Republic)
+south africa & north-east rhodesia,South Africa & Northeastern Rhodesia
 south africa and mauritius,Mauritius & South Africa
 south africa and mauritius (british empire),Mauritius & South Africa
+south africa colonies,South Africa
+south africa union,South Africa
 "south africa, cape of good hope",Cape Colony (Cape of Good Hope)
 "south africa, including foreign possessions",South Africa
 "south africa, natal",Natal
@@ -7801,6 +8152,7 @@ south australia and northern territory,Australian Northern Territory & South Aus
 "south australia, exclusive of northern territory",South Australia
 south british africa,South Africa
 south china,People's Republic of China (China) (South)
+south coast,South Coast
 south rhodesia,Zimbabwe (Rhodesia) (Southern Rhodesia)
 south sea,Pacific Islands
 south sea islands,Pacific Islands
@@ -7809,6 +8161,7 @@ south seas and pacific,Pacific Islands
 south shetland islands,South Shetland Is.
 south west africa,Namibia (South West Africa) (German South West Africa)
 south west africa protectorate,Namibia (South West Africa) (German South West Africa)
+south west coast (africa),South Western Africa
 south-west africa protectorate,Namibia (South West Africa) (German South West Africa)
 south-west africa territory,Namibia (South West Africa) (German South West Africa)
 southern & northern rhodesia,Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia)
@@ -7873,6 +8226,7 @@ spanija,Spain
 spanijas kolon nez,Spanish Colonies (other)
 spanis america,Spanish America
 spanisch afrika,Spanish Africa
+"spanisch westindien (cuba, portorico)",Cuba & Puerto Rico
 spanisch-west-aquatorial afrika,Equatorial Guinea (Spanish Guinea)
 spanish africa,Spanish Africa
 spanish america,Spanish America
@@ -7885,9 +8239,11 @@ spanish european ports on the mediterranean,Spain (Mediterranean Coast)
 spanish guinea,Equatorial Guinea (Spanish Guinea)
 spanish honduras,Honduras
 spanish morocco,Spanish Morocco
+spanish north america,Spanish Northern America
 spanish oceania,Spanish Oceania
 spanish ports,Spain
 spanish ports (venezuelan),Spain
+spanish ports in africa,Spanish Africa
 spanish ports in north africa,Spanish Northern Africa
 spanish ports in north africa (spain),Spanish Northern Africa
 spanish ports in northern africa,Spanish Northern Africa
@@ -7956,9 +8312,12 @@ st vincent,St. Vincent
 st vincenta sala,St. Vincent and the Grenadines
 "st, helena",St. Helena
 "st, helena and ascension islands",Ascension I. & St. Helena
+st. barth,St. Barthelemy
 st. barthelemy,St. Barthelemy
 st. barthelemy (norvegian colonies),St. Barthelemy
 st. bartholomew,St. Barthelemy
+st. barths,St. Barthelemy
+st. barts,St. Barthelemy
 st. christoper (british west india islands),St. Kitts
 st. christopher,St. Kitts
 st. christopher (leeward islands - west india islands),St. Kitts
@@ -7974,6 +8333,10 @@ st. eustatius,Sint Eustatius
 st. francisco,San Francisco
 st. helena,St. Helena
 st. helena and ascension,Ascension I. & St. Helena
+st. jago,Spanish Town
+st. john,St. John
+st. john's river,Saint John River
+st. john's river (new brunswick),Saint John (New Brunswick)
 st. kitts,St. Kitts
 st. kitts and nevis,St. Kitts-Nevis
 st. kitts-nevis,St. Kitts-Nevis
@@ -7982,6 +8345,7 @@ st. lucia (british west india islands),St. Lucia
 st. lucia (winward islands - west india islands),St. Lucia
 st. martin,St. Martin
 st. martins,St. Martin
+st. paul de loanda,Luanda
 st. pierre,St. Pierre and Miquelon
 st. pierre (france),St. Pierre and Miquelon
 st. pierre and miquelon,St. Pierre and Miquelon
@@ -7989,14 +8353,17 @@ st. pierre and miquelon (france),St. Pierre and Miquelon
 st. pierre et miquelon,St. Pierre and Miquelon
 st. thomas,St. Thomas
 st. thomas (w.i.),St. Thomas
+st. thomas & st. croix,St. Croix & St. Thomas
 st. thomas island,St. Thomas
 st. thomas und portorico,Puerto Rico & St. Thomas
 st. thomas w. i.,St. Thomas
 "st. thomas, st. croix und portorico",Puerto Rico & St. Croix & St. Thomas
+"st. thomas, ste. croix & st. john",St. Croix & St. John & St. Thomas
 st. thome,Sao Tome
 st. vicente (winward island),St. Vincent and the Grenadines
 st. vincent,St. Vincent
 st. vincent (british west india islands),St. Vincent and the Grenadines
+st. vincent (portuguese west africa),Cape Verde
 st. vincent (winward islands - west india islands),St. Vincent and the Grenadines
 st. vincent w. i.,St. Vincent and the Grenadines
 st. vincent_preferential,St. Vincent and the Grenadines (other)
@@ -8010,10 +8377,12 @@ state of north borneo,Sabah (North Borneo)
 statele americel,United States of America
 statele unite,United States of America
 statele-unite,United States of America
-states of america,States of America (other)
-"states of america (staten van amerika, niet afronderluk genoemd)",States of America (other)
+states of america,America (other)
+"states of america (staten van amerika, niet afronderluk genoemd)",America (other)
 states of argentine confederation,Argentina (La Plata)
 states of the rio de la plata,Argentina (La Plata)
+states over the border (british),British Africa (other)
+states over the border (non british),Africa (other)
 stati del plata,Argentina (La Plata)
 stati dell'america centrale,Central America
 stati sardi,Kingdom of Sardinia
@@ -8133,6 +8502,7 @@ suma total,World
 sumatra,Sumatra
 sumatra (dutch east indies),Sumatra
 sumatra (holland),Sumatra
+sumatra and java,Java & Sumatra
 "sumatra, java",Java & Sumatra
 "sumatra, java, and other islands in the indian seas",Indian Ocean Islands (other) & Java & Sumatra
 summa,World
@@ -8187,6 +8557,7 @@ swains island,Swan Is.
 swakopmund,Swakopmund
 swan island,Swan Is.
 swan river,Swan River
+swatow,Shantou
 swaziland,Eswatini (Swaziland)
 swe,Sweden
 sweden,Sweden
@@ -8195,13 +8566,14 @@ sweden & norway,Norway & Sweden
 sweden and dependencies,Sweden & Swedish Colonies
 sweden and norway,Norway & Sweden
 swedish colonies,Swedish Colonies
+swedish possessions,Swedish Colonies
 swedish west indies,Swedish West Indies
 swedish west indies (st. bartholomew),St. Barthelemy
 swedish west indies. st. barths,St. Barthelemy
 "swedish, danish, dutch, french and spanish west indies",French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies)
 switzerland,Switzerland
-syd-afrika,South Africa
 syd-africa andre britiske områder,South Africa (other)
+syd-afrika,South Africa
 syd-afrika ellers,South Africa (other)
 syd-afrika-sambandet,South Africa
 syd-amerika ellers,Southern America (other)
@@ -8238,6 +8610,7 @@ szpicberg,Spitsbergen
 szwajcarja,Switzerland
 szwecja,Sweden
 tabago,Tobago
+table bay,Table Bay
 tachkent,Uzbekistan
 tacna,Tacna
 taganyika,Tanzania (Tanganyika)
@@ -8259,8 +8632,9 @@ tanganyika territory,Tanzania (Tanganyika)
 tanger,Tangier
 tanger-marokko,Tangier
 tangier morocco,Tangier
-tanzania (tanganyika) (german east africa),Tanzania (Tanganyika)
 tanzania,Tanzania (Tanganyika)
+tanzania (tanganyika) (german east africa),Tanzania (Tanganyika)
+tarboro,Tarboro
 tasmania,Tasmania
 tasmȃnia,Tasmania
 tasmania (australia),Tasmania
@@ -8280,6 +8654,7 @@ tchecoslovaquie,Czechoslovakia
 tchécoslovaquie,Czechoslovakia
 tchéquoslovaquie,Czechoslovakia
 tékkóslóvakía,Czechoslovakia
+tellicherry,Thalassery
 temporary depots,***NA
 temporary warehouse,***NA
 tenerife,Tenerife
@@ -8306,6 +8681,7 @@ territoire du tanganyika,Tanzania (Tanganyika)
 territoire militaire du niger,Niger
 territoires du nord-ouest,Northwest Territories
 territoires nouvellement occupés,Central Powers Occupied Territories
+territorio del saar,Saar
 territory of british north borneo,Sabah (North Borneo)
 territory of new guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 territory of papua,Papua (British New Guinea)
@@ -8333,6 +8709,7 @@ thrace,Thrace
 thursday island,Thursday I.
 tibet,Tibet
 tierszt szabad kitöko,Trieste
+timbuctu,Timbuktu
 timor,East Timor (Portuguese Timor)
 tjeckoslovak,Czechoslovakia
 tjeckoslovakien,Czechoslovakia
@@ -8341,8 +8718,9 @@ tjekkoslovakiet,Czechoslovakia
 tobago,Tobago
 tobago (british west india islands),Tobago
 tobago (winward islands - west india islands),Tobago
-togo (deutsch),German Togoland
 togo,Togo (French Togoland)
+togo (deutsch),German Togoland
+togo (french togoland),Togo (French Togoland)
 togo (german west africa),German Togoland
 togo (mandat français),Togo (French Togoland)
 togo (marchandises étrangères),Togo (French Togoland)
@@ -8420,6 +8798,7 @@ totals,World
 totaluri,World
 totaux,World
 totaux (étranger + france),World
+trans volta districts of gold coast,Volta Region
 transit par russie,World (via Russia)
 transjordanie,Jordan (Transjordan)
 transvaal,Transvaal (South African Republic)
@@ -8545,6 +8924,7 @@ türkei in afrika,African Turkey
 türkei in asien,Asian Turkey
 türkei in europa,European Turkey
 türkei in europa & montenegro,European Turkey & Montenegro
+"türkei, montenegro",Montenegro & Turkey (Ottoman Empire)
 "turkeit, asiastiska",Asian Turkey
 "turkeit, europeiska",European Turkey
 turkestan,Russian Turkestan
@@ -8740,9 +9120,11 @@ ubekjendt sted.,Unknown
 übriges amerika,America (other)
 übriges asien,Asia (other)
 übriges australia,Australia (other)
+übriges australische inseln,Pacific Islands
 übriges brit. amerika,British America (other)
 übriges polynesien,Polynesia (other)
 ubriges spanisch-afrika,Spanish Africa (other)
+übriges südamerika,Southern America (other)
 ucraina,Ukraine
 ucraïne,Ukraine
 "uebrige ausfuhr, land- und flusswärts",World
@@ -8756,6 +9138,7 @@ ukraina,Ukraine
 ukraine,Ukraine
 ukraine. russie,Russia (USSR)
 ukrania,Ukraine
+umtata river,Mthatha River
 uncertain places,Unknown
 und über altona,World (via Altona)
 unfederated malay states,Johore & Kedah & Kelantan & Perlis & Trengganu
@@ -8830,6 +9213,7 @@ united states,United States of America
 united states : california,California (Great Bear Republic)
 united states : ports on the atlantic,United States of America (Atlantic Coast)
 "united states (""etats de l'amérique"")",United States of America
+united states (atlantic ports),United States of America (Atlantic Coast)
 united states (domestic merchandise),United States of America (Domestic produce)
 united states (domestic& foreign merchandise),United States of America
 united states (foreign merchandise),United States of America (Foreign produce)
@@ -8851,9 +9235,11 @@ united states of america : cuba‡,Cuba
 united states of america : on the atlantic,United States of America (Atlantic Coast)
 united states of america : on the pacific,United States of America (Pacific Coast)
 united states of america : porto rico‡,Puerto Rico
+united states of america (atlantic ports),United States of America (Atlantic Coast)
 united states of america (including california)†,United States of America
 united states of america (on the atlantic),United States of America (Atlantic Coast)
 united states of america (on the pacific)),United States of America (Pacific Coast)
+united states of america (pacific ports),United States of America (Pacific Coast)
 united states of america (total),United States of America
 united states of america & british america,British America & United States of America
 united states of america and alaska,Alaska & United States of America
@@ -8899,6 +9285,7 @@ uruguay or cisplatine republic,Uruguay
 "uruguay, argentine",Argentina (La Plata) & Uruguay
 "uruguay, chile, sydamerika forøvrig",Chile & Southern America (other) & Uruguay
 "uruguay, paraguay",Paraguay & Uruguay
+"uruguay, por ordenes",Uruguay (other)
 uruguay*,Uruguay
 uruguay**,Uruguay
 urugvaj,Uruguay
@@ -8933,8 +9320,10 @@ valachie (port d'ibraila),Wallachia
 valparaiso,Valparaíso
 valparaiso (chili),Valparaíso
 van diemen's land,Tasmania
+van reenen's cove (great namaqualand),Namaqualand
 vancouver,Vancouver
 vancouver (canadá),Vancouver
+vancouver's island,Vancouver
 vancouver's island (north america),Vancouver
 varer fra og til frihavnen,Free ports
 varer og til frilagerne,***NA
@@ -8943,6 +9332,7 @@ varias naciones,World (other)
 varios,World (other)
 varios paises,World (other)
 varios puertos,World (other)
+various ports,World (other)
 västindien,West Indies
 västindiska öarna,West Indies
 västindiska öarna.,West Indies
@@ -8972,6 +9362,7 @@ verawel,Veraval
 vereenigde staten van noord amerika,United States of America
 verein. st. v. amerika,United States of America
 verein. st. von amerika,United States of America
+vereinigte staaten von amerika,United States of America
 verenigde staaten van noord-amerika,United States of America
 vessels derelict,***NA
 vessels in distress,***NA
@@ -8988,8 +9379,11 @@ vestur-afrika,Western Africa
 victoria,Victoria
 victoria (australia),Victoria
 victoria (australie),Victoria
+victoria (cameroons),British Cameroons
 victoria (camerouns),Victoria (Cameroun)
 victoria (colonie de),Victoria
+vieque,Vieques (Crab Island)
+vieque or crab island,Vieques (Crab Island)
 vierges e.-u,Virgin Islands (Danish West Indies)
 ville du cap,Cape Town
 villes anséatiques,Hanse Towns
@@ -9014,9 +9408,11 @@ virgin islands american,Virgin Islands (Danish West Indies)
 virgin islands of the united states,Virgin Islands (Danish West Indies)
 virgin islands of the us,Virgin Islands (Danish West Indies)
 "virgin islands, us",Virgin Islands (Danish West Indies)
+virgin isles (british),British Virgin Is.
 vladivostock,Vladivostok
 vladivostok,Vladivostok
 vokietija,Germany (Zollverein)
+volta river,Volta Region
 von der nieder-elbe,World (via Germany (lower Elbe))
 von der ober-elbe,World (via Germany (upper Elbe))
 von holstein pr. lüb.-hamb. eisenb.,Holstein
@@ -9027,11 +9423,13 @@ von und über lübeck per stecknitz,World (via Lübeck)
 von und über lüneburg,World (via Lüneburg)
 voorm russ oostzee-prov,Russia (Baltic Sea)
 vrige vestindien,West Indies (other)
+walfish bay,Walvis Bay
 wallachia and moldavia,Moldavia & Wallachia
 wallachia and moldavia (turkey),Moldavia & Wallachia
 wallis island,Wallis and Futuna Is.
 wallis island (france),Wallis and Futuna Is.
 walwich bay,Walvis Bay
+warri,Warri
 wegry,Hungary
 wei hai wei,Weihaiwei
 wei-hai-wei,Weihaiwei
@@ -9057,6 +9455,7 @@ west africa : the colony and protectorate of southern nigeria†,Southern Nigeri
 west africa : the colony and protectorate of southern nigeria‡,Southern Nigeria (Niger Coast Protectorate)
 west africa : the gold coast,Ghana (Gold Coast)
 west africa (british),British Western Africa
+west africa (non british),Western Africa (other)
 west africa (not particularly designated),Western Africa
 west africa portugal,Portuguese Western Africa
 west africa settlement (gambia and sierra leone),Gambia & Sierra Leone
@@ -9064,6 +9463,7 @@ west africa settlements,Gambia & Sierra Leone
 west africa settlements (gambia and sierra leone),Gambia & Sierra Leone
 west australia,Western Australia
 west british africa,British Western Africa
+west coast (africa),Western Africa
 west coast africa,Western Africa
 west coast of africa,Western Africa
 west india islands,West Indies
@@ -9080,6 +9480,7 @@ west indies generally,West Indies (other)
 "west-aquatorial-afrika, n.b.b.",Equatorial Western Africa (other)
 west-indie,West Indies
 west-indien,West Indies
+westafrika ohne deutsche schutzgebiete,Western Africa (other)
 weste africa (not particularly designated),Western Africa
 western australasia,Western Australia
 western australia,Western Australia
@@ -9104,12 +9505,19 @@ whale fisheries,***NA
 "whale fisheries, northern",***NA
 "whale fisheries, southern",***NA
 whaling,***NA
+whemé,Unknown
+whydah,Whydah
 wigby,Digby
+windward,Windward Coast of Africa
+windward (british),Ghana (Gold Coast)
 windward coast,Windward Coast of Africa
 windward coast (all),Windward Coast of Africa
+windward coast (incl. goree & senegal & cape verde),Cape Verde & Goree & Senegal & Windward Coast of Africa
 windward coast of africa,Windward Coast of Africa
 windward islands,Windward Is.
 windward islands (british west indies),Windward Is.
+winnebah,Winneba
+winward,Windward Coast of Africa
 winward coast of africa,Windward Coast of Africa
 winward islands,Windward Is.
 wladiwostok,Vladivostok
@@ -9127,6 +9535,7 @@ wyspy kanaryjskie,Canary Is.
 wyspy wloskie morza egejskiego,Dodecanese Is. (Aegean Is.)
 wyspy zielonego przyladka,Cape Verde
 yarmouth,Yarmouth
+yarmouth (nova scotia),Yarmouth
 yemen,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 yémen,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 yenizelanda,New Zealand
@@ -9148,6 +9557,7 @@ yunanistan,Greece
 z.-amerikas sav. valstis,United States of America
 zaire,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 zaire (kinshasa) (belgian congo),Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
+zambezi,Zambezi
 zambia (northern rhodesia),Zambia (Northern Rhodesia)
 zanzibar,Zanzibar
 zanzibár,Zanzibar
@@ -9164,12 +9574,14 @@ zeilah et berberah,Berbera & Zeila
 zelta krasts,Ghana (Gold Coast)
 zemveja salas,Leeward Is.
 zentralamerikanische republiken,Central America
+"zentralamerikanische republiken (guatemala, costarica, honduras, nicaragua, salvador)",Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua
 zeyla,Zeila
 ziemelautrumu rodezija,Zambia (Northern Rhodesia)
 ziemelborneo,Sabah (North Borneo)
 zilonkaula krasts,Ivory Coast
 zimbabwe (rhodesia) (southern rhodesia),Zimbabwe (Rhodesia) (Southern Rhodesia)
 zlote wybrzeże,Ghana (Gold Coast)
+zollausschluss helgoland,Heligoland
 zollausschluß helgoland,Heligoland
 zollverein,Germany (Zollverein)
 zollverein o associazione tedesca,Germany (Zollverein)
@@ -9197,415 +9609,3 @@ zweden,Sweden
 zwiazek poludniowo-afrykański,South Africa
 zwitserland,Switzerland
 þýskaland,Germany (Zollverein)
-"africa, n.m.e.",Africa (other)
-posesiones alemanas,German Colonies
-posesiones espanolas,Spanish Colonies
-"posesiones espanolas, por ordenes",Spanish Colonies (other)
-posesiones norteamericanas,British Northern America
-posesiones portuguesas,Portuguese Colonies
-"posesiones portuguesas, por ordenes",Portuguese Colonies (other)
-"uruguay, por ordenes",Uruguay (other)
-"posesiones francesas, por ordenes",French Colonies (other)
-africa del sud,South Africa
-ordenes y rancho,***NA
-"chile, por ordenes",Chile (other)
-posesiones jaopnesas,Japanese Colonies
-guyana britanica,Guyana (British Guiana)
-"irlanda , estado libre",Ireland
-posesiones italianas,Italian Colonies
-pos. britanicas en asia,British Asia
-posesiones britanicas in europa,British Europe
-posesiones britanicas en amer. central,British Central America
-posesiones francesas en amer. central,French Central America
-posesiones norteamer. en oceania,American Oceania
-posesiones norteamer. en amer. central,American Central America
-posesiones britanicas en africa,British Africa
-posesiones espanolas en africa,Spanish Africa
-posesiones britanicas en oceania,British Oceania
-posesiones belgas en africa,Belgian Africa
-posesiones italianas en africa,Italian Africa
-islas italianas del mar egeo,Dodecanese Is. (Aegean Is.)
-pos. holandesas en am. cent.,Dutch Central America
-nuevas hebridas,Vanuatu (New Hebrides)
-posesiones belgas,Belgian Colonies
-posesiones dinamarquesas,Danish Colonies
-territorio del saar,Saar
-nueva guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
-austria (empire),Austria-Hungary (Austrian Empire)
-baviera,Bavaria
-berberia,Barbary Coast
-colonias españolas,Spanish Colonies
-paises-bajos,Netherlands
-deutsches zollgebiet,Germany (Zollverein)
-"frankreich, algerien, tunis",Algeria (Regency of Algiers) & France & Tunisia (Regency of Tunis)
-"grossbritannien, gibraltar, malta, cypern, helgoland",Cyprus & Gibraltar & Heligoland & Malta & United Kingdom
-russland und finland,Finland & Russia (USSR)
-"türkei, montenegro",Montenegro & Turkey (Ottoman Empire)
-afrika (ausser ägypten und algier),Africa (other)
-britisch ostindien,British East Indies
-"ostindische inseln (niederländisch ostindien, philippinien)",Indonesia (Dutch East Indies) & Philippines
-"argentinische republik, paraguay, uruguay",Argentina (La Plata) & Paraguay & Uruguay
-mexico und zentralamerika,Central America & Mexico
-übriges südamerika,Southern America (other)
-vereinigte staaten von amerika,United States of America
-"australien (britisch australien, deutsch neuguinea, hawaii inseln, samoa inseln, übriges)",Australia & Hawaii (Sandwich Is.) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Samoa
-nicht ermittelt (seewärts),***NA
-"freihäfen hamburg, cuxhaven",Cuxhaven & Hamburg
-zollausschluss helgoland,Heligoland
-"grossbritannien, helgoland",Heligoland & United Kingdom
-ostafrika ohne deutsche schutzgebiete,Eastern Africa (other)
-kapland,Cape Colony (Cape of Good Hope)
-westafrika ohne deutsche schutzgebiete,Western Africa (other)
-"britisch indien, ceylon, britisch malakka",India & Malaysia (British Malaya) & Sri Lanka (Ceylon)
-"china, hongkong, kiautschou",Hong Kong & Kiauchau & People's Republic of China (China)
-französisch hinterindien,French Indochina
-"persien, aden, bahrein, übriges asien",Aden & Bahrain & Iran (Persia)
-british westindien,British West Indies
-"zentralamerikanische republiken (guatemala, costarica, honduras, nicaragua, salvador)",Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua
-französisch westindien,French West Indies
-niederländisch westindien,Netherlands Antilles
-"spanisch westindien (cuba, portorico)",Cuba & Puerto Rico
-"australischer bund, neu-zeeland, übriges britisches australien",Australia & New Zealand
-samoa-inseln,Samoa
-übriges australische inseln,Australasia (other)
-hawaiische inseln,Hawaii (Sandwich Is.)
-im ganzen,World
-colony of the cape of good hope,Cape Colony (Cape of Good Hope)
-port of cape town,Cape Town
-port of simon's town,Port Simon
-port elizabeth,Port Elizabeth
-port of east london,East London
-port of waterloo bay,Waterloo Bay
-table bay,Table Bay
-bombay and scinde,Mumbai (Bombay) & Sindh
-west africa (non british),Western Africa (other)
-united states of america (atlantic ports),United States of America (Atlantic Coast)
-united states of america (pacific ports),United States of America (Pacific Coast)
-other holland indian seas,Dutch India (other)
-other portuguese west african ports,Portuguese Western Africa (other)
-other portuguese east african ports,Portuguese Eastern Africa (other)
-states over the border (non british),World (other than British)
-states over the border (british),World (other) (British)
-british west african settlements,British Western Africa
-ladrone islands,Mariana Is.
-angra pequena,Angra Pequena
-gough's island,Gough I.
-east africa (non british),Eastern Africa (other)
-bourbon (reunion),Reunion (Bourbon I.)
-akyab,Arakan
-browse island,Browse I.
-vancouver's island,Vancouver
-bankok,Bangkok
-bassorah,Basra
-bageida,Baguida
-mossamedes,Moçâmedes
-bimlipatam,Bimlipatam
-cocanada,Kakinada
-bushire,Bushehr
-maldon island,Malden I.
-calingapatam,Kalingapatnam
-halifax island,Halifax I.
-gopaalpore,Gopalpur
-masulipatam,Machilipatnam
-inhambane,Inhambane
-reunion (other),Reunion (Bourbon I.) (other)
-quillemine,Quelimane
-fort rock,Rocky Point
-cochin,Cochin China
-mangalore,Mangalore
-tellicherry,Thalassery
-lacepede islands,Lacepede Is.
-st. paul de loanda,Luanda
-lorenzo marques,Maputo
-barbary,Berbera
-congo river,Unknown
-prince of wales' bay,Prince of Wales Bay
-kurrachee,Karachi
-cape coast castle,Cape Coast Castle
-benguella,Benguela
-crozetts,Crozet Is.
-zambezi,Zambezi
-st. john's river (new brunswick),Saint John (New Brunswick)
-collingapatam,Collingapatam
-shangai,Shangai
-pondicherry,Pondicherry
-moroundava,Morondava
-beypoor,Beypore
-pomona island,Pomona I.
-bonny river,Bonny River
-nagasaki,Nagasaki
-north australia,North Australia
-malagas island,Malgas I.
-long island,Long I.
-plumpudding island,Kennedy I.
-foochoo,Fuzhou
-possession island,Possession I.
-gaboon river,Gabon River
-madras and calcutta,Chennai (Madras) & Kolkata (Calcutta)
-coringa,Coringa (India)
-hollam's bird island,Penguin Is.
-penguin island,Penguin Is.
-san francisco,San Francisco
-great fish bay,Tigres Bay
-prince edward's island,Prince Edward Is.
-kooria mooria,Kuria Muria Is.
-hurd's island,Heard and McDonald Is.
-van reenen's cove (great namaqualand),Namaqualand
-cape de verde island,Cape Verde
-port phillip,Port Phillip
-swatow,Shantou
-santos,Santos
-adelaide,Adelaide
-samarang,Semarang
-melbourne,Melbourne
-umtata river,Mthatha River
-kaffraria,British Kaffraria
-guernesey,Guernsey
-key river,Key River
-sourabaya,Surabaya
-gothenburg,Gothenburg
-leychelles,Seychelles
-cassab,Unknown
-negapatam,Nagapattinam
-alexander's bay,Alexander Bay
-pernambuco,Pernambuco
-peacock's bay,Peacock Bay
-west coast (africa),Western Africa
-bahia,Bahia
-homewood harbour,Homewood Harbour
-mazeppa bay,Mazeppa Bay
-south west coast (africa),South Western Africa
-holland and hamburg,Hamburg & Netherlands
-car nocobar islands,Nicobar Is.
-african coast,Africa Coast
-punta arena,Punta Arenas
-coastwise,Unknown
-la guayra,La Guaira
-ambriz,Ambriz
-porto prince,Port-au-Prince
-cocoa islands,Cocos (Keeling) Is.
-st. jago,Spanish Town
-malabar coast,Malabar Coast
-new york,New York
-havannah,Havana
-serampore,Serampore
-dartmouth,Dartmouth
-kingston jamaica,Kingston
-london,London
-china and batavia,Jakarta (Batavia) & People's Republic of China (China)
-new bedford,New Bedford
-new south wales and van diemen's land,New South Wales & Tasmania
-bonavista,Unknown
-"british america (st. johns, new brunswick)",Saint John (New Brunswick)
-colony of dominica,Dominica
-st. john,St. John
-st. barts,St. Barthelemy
-brava,Brava
-portugal west indies,Portuguese West Indies
-yarmouth (nova scotia),Yarmouth
-virgin isles (british),British Virgin Is.
-margaritta,Margarita I.
-a.e.f.,French Equatorial Africa
-inde anglaise et ceylan,India & Sri Lanka (Ceylon)
-colonies anglaises (autre),British Colonies (other)
-possessions françaises,French Colonies
-colony of gambia,Gambia
-"america, us",United States of America
-austria (hungary),Austria-Hungary (Austrian Empire)
-goree,Goree
-rufisque (senegal),Rufisque
-dakar (senegal),Dakar
-windward coast (incl. goree & senegal & cape verde),Cape Verde & Goree & Senegal & Windward Coast of Africa
-british leeward coast (incl. sierra leone),Leeward Coast of Africa (British)
-british leeward coast (incl. and sierra leone),Leeward Coast of Africa (British)
-sierra leone (other),Sierra Leone (other)
-goree and senegal,Goree & Senegal
-canary island,Canary Is.
-united states (atlantic ports),United States of America (Atlantic Coast)
-fernando po & river muni,Fernando Po (Bioko) & Río Muni
-congo free states,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
-st. vincent (portuguese west africa),Cape Verde
-dakar,Dakar
-konakry,Conakry
-other french possessions in africa,French Africa (other)
-east of the volta,Volta Region
-spanish ports in africa,Spanish Africa
-other german possessions in africa,German Africa (other)
-other portuguese possessions in africa,Portuguese Africa (other)
-trans volta districts of gold coast,Volta Region
-african ports (other),Africa (other)
-kotonu,Cotonou
-"ivory coast, togoland and dahomey",Benin (Dahomey) & German Togoland & Ivory Coast
-monrovia,Monrovia
-addidomey,Adidome
-ahgwey,Unknown
-assinee,Assinie
-bageidah,Bageidah
-beh beach,Bey-Beach
-crépee,Unknown
-leeward,Leeward Coast of Africa
-loango,Loango
-various ports,World (other)
-whydah,Whydah
-windward,Windward Coast of Africa
-kroo coast,Kroo Coast
-kutonu,Cotonou
-ashantee,Asante (Ashanti Empire)
-river niger,Niger River
-salagah,Salaga
-grand bassam,Grand-Bassam
-lomeh,Unknown
-lohmey,Unknown
-bonny,Bonny River
-cape palmas,Cape Palmas
-badagry,Badagry
-france & holland & portugal & united states,France & Netherlands & Portugal & United States of America
-foreign countries (other),World (other)
-portugal & france,France & Portugal
-old calabar,Old Calabar (Efik)
-rivers (oil),Oil Rivers Protectorate
-little popo,Anecho (Little Popo)
-colony of the east africa protectorate,Kenya (British East Africa Protectorate)
-south africa union,South Africa
-australian colonies,Australia
-ports of europe (other),Europe (other)
-ports of asia (other),Asia (other)
-south africa colonies,South Africa
-africa (non british) and arabia,Africa (other) & Arabia
-colony of lagos,Lagos
-accra,Accra
-axim,Axim
-cape coast,Cape Coast Castle
-quittah,Keta
-salt pond,Saltpond
-sekondi,Sekondi-Takoradi
-akassa,Akassa
-asoba,Unknown
-brass,Brass (Nigeria)
-burutu,Burutu
-degema,Degema (Nigeria)
-forcados river,Forçados River
-lokoja,Lokoja
-onitsha,Onitsha
-opobo,Opobo
-sapelo,Sapele (Nigeria)
-warri,Warri
-cameroon,Kamerun
-chicago,Chicago
-lomé,Lomé
-pram pram,Prampram
-addah,Addah
-rio-del-ray,Rio del Rey
-jebba,Jebba
-sapelli,Sapele (Nigeria)
-new calabar,New Calabar (Kalabari)
-grand lahou,Grand-Lahou
-winnebah,Winneba
-damara land,Damaraland
-walfish bay,Walvis Bay
-timbuctu,Timbuktu
-elmina,Elmina
-sette cama,Setté Cama
-akuse,Akuse
-volta river,Volta Region
-mayumba,Mayumba
-boma,Boma
-eloby,Elobey Is.
-pensa cola,Pensacola
-aghwey,Aghwey
-grand popo,Grand Popo
-bata,Bata (Spanish Guinea)
-bakana,Bakana
-south coast,South Coast
-tarboro,Tarboro
-jellah coffee,Unknown
-kafani,Unknown
-seerbro,Unknown
-gold coast winward (british),Ghana (Gold Coast)
-gold coast winward (foreign),Ghana (Gold Coast) (other)
-canary,Canary Is.
-leeward coast lagos,Lagos
-winward,Windward Coast of Africa
-whemé,Unknown
-windward (british),Ghana (Gold Coast)
-river gambia,Gambia
-indo,India
-portugal & portuguese east africa,Mozambique (Portuguese East Africa) & Portugal
-south africa & north-east rhodesia,South Africa & Northeastern Rhodesia
-germany & german east africa,German East Africa & Germany (Zollverein)
-british east africa & aden,Aden & British Eastern Africa
-redonda,Redonda
-st. barth,St. Barthelemy
-curacos,Curacao
-swedish possessions,Swedish Colonies
-colony of natal,Natal
-north south wales,New South Wales
-chiloane,Chiloane
-foo chow,Fuzhou
-pondoland,Pondoland
-inhammessengo,Unknown
-st. john's river,Saint John River
-british kaffraria,British Kaffraria
-french cameroons (duala),Cameroun (French Cameroons)
-french togoland (lome),Togo (French Togoland)
-victoria (cameroons),British Cameroons
-rio-del-rey,Rio del Rey
-british conquered territory (german east africa),Tanzania (Tanganyika)
-belgian conquered territory (german east africa),Ruanda-Urundi
-sumatra and java,Java & Sumatra
-"british india, burmah and ceylon",India & Myanmar (Burma) & Sri Lanka (Ceylon)
-aden and mauritius,Aden & Mauritius
-european ports (other),Europe (other)
-asiatic ports,Asia
-african ports,Africa
-other parts of british empire,British Colonies (other)
-filand,Finland
-sardegna,Sardinia
-egypt & sudan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
-greece & candia,Crete & Greece
-belgium & holland,Belgium & Netherlands
-portugal & spain,Portugal & Spain
-british india & ceylan,India & Sri Lanka (Ceylon)
-barbary (tripoli),Tripolitania (Regency of Tripoli)
-norway & sweden,Norway & Sweden
-austrian dominions,Austria-Hungary (Austrian Empire)
-"bombay, calcutta and kurrachee",Karachi & Kolkata (Calcutta) & Mumbai (Bombay)
-kurachee,Karachi
-german states,Germany (Zollverein)
-greece & ionian islands,Greece & Ionian Is.
-italian states,Italy
-roman states,Papal States
-sardinian states,Kingdom of Sardinia
-colony of nevis,Nevis
-st. barths,St. Barthelemy
-porto bello,Portobelo
-spanish north america,Spanish Northern America
-portuguese colonies (america),Portuguese America
-british guinea,British Guinea (Bolama)
-rotterdam,Rotterdam
-senegal (st. louis),Saint-Louis (Senegal)
-rufisque,Rufisque
-bulama,British Guinea (Bolama)
-niger coast protectorate,Southern Nigeria (Niger Coast Protectorate)
-oil rivers,Oil Rivers Protectorate
-saint louis,Saint-Louis (Senegal)
-isles de los,Unknown
-freetown sierra leone,Freetown
-british east india,British East Indies
-east indies (non british),East Indies (other)
-colony of the virgin islands,British Virgin Is.
-"st. thomas, ste. croix & st. john",St. Croix & St. John & St. Thomas
-st. thomas & st. croix,St. Croix & St. Thomas
-vieque,Vieques (Crab Island)
-vieque or crab island,Vieques (Crab Island)
-allemagne et autriche (empire),Austria-Hungary (Austrian Empire) & Germany (Zollverein)
-austria (imperio),Austria-Hungary (Austrian Empire)
-austurríki hongrie,Austria-Hungary (Austrian Empire)
-austria (impero),Austria-Hungary (Austrian Empire)
-áustria-hungria,Austria-Hungary (Austrian Empire)
-österrike-ungern,Austria-Hungary (Austrian Empire)
-österrike (imperium),Austria-Hungary (Austrian Empire)
-østerrike-ungarn,Austria-Hungary (Austrian Empire)
-british southern africa,British Southern Africa
-italian eastern africa,Italian Eastern Africa
-italian eastern africa (other),Italian Eastern Africa (other)
