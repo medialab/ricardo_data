@@ -1,262 +1,240 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,63002.0,1,guld.,1875,netherlands,mecklenberg,invoer tot verbruik,gen,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,61352.0,1,guld.,1875,netherlands,mecklenberg,uitvoer uit het vrije verkeer,gen,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,12800.0,1,guld.,1876,netherlands,mecklenberg,invoer tot verbruik,gen,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,7447.0,1,guld.,1876,netherlands,mecklenberg,uitvoer uit het vrije verkeer,gen,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,21706403.0,1,guld.,1910,netherlands,turkey,exp (uitvoer uit het vrije verkeer),spe,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,557285.0,1,guld.,1913,netherlands,africa (east coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,12485234.0,1,guld.,1913,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6228980.0,1,guld.,1913,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2499865.0,1,guld.,1913,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,arabia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6802221.0,1,guld.,1913,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4247.0,1,guld.,1913,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3858621.0,1,guld.,1913,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,352050585.0,1,guld.,1913,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,42147978.0,1,guld.,1913,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6729666.0,1,guld.,1913,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,39161.0,1,guld.,1913,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,celebes,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,476070.0,1,guld.,1913,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,25850590.0,1,guld.,1913,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,11304849.0,1,guld.,1913,netherlands,china,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1654218.0,1,guld.,1913,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3969987.0,1,guld.,1913,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,486861.0,1,guld.,1913,netherlands,curacao,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2118182.0,1,guld.,1913,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,9065579.0,1,guld.,1913,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,14286381.0,1,guld.,1913,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,99944284.0,1,guld.,1913,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,33210557.0,1,guld.,1913,netherlands,france,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,23057.0,1,guld.,1913,netherlands,gibraltar,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,28454346.0,1,guld.,1913,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,339635463.0,1,guld.,1913,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2564191.0,1,guld.,1913,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,214602.0,1,guld.,1913,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,guiana (france),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,445386.0,1,guld.,1913,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,68135624.0,1,guld.,1913,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1140105.0,1,guld.,1913,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,12098804.0,1,guld.,1913,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2471604.0,1,guld.,1913,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,528451512.0,1,guld.,1913,netherlands,java,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1039527.0,1,guld.,1913,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1281175.0,1,guld.,1913,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,141755.0,1,guld.,1913,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,19648.0,1,guld.,1913,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1377.0,1,guld.,1913,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3824104.0,1,guld.,1913,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1764965.0,1,guld.,1913,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,45893170.0,1,guld.,1913,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,5380.0,1,guld.,1913,netherlands,oldenburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3375826.0,1,guld.,1913,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,37477.0,1,guld.,1913,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,101.0,1,guld.,1913,netherlands,persia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,35744.0,1,guld.,1913,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,13428353.0,1,guld.,1913,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,195075.0,1,guld.,1913,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1058552803.0,1,guld.,1913,netherlands,germany,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,126856430.0,1,guld.,1913,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,34345338.0,1,guld.,1913,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,366112739.0,1,guld.,1913,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,13037300.0,1,guld.,1913,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2342322.0,1,guld.,1913,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,99400747.0,1,guld.,1913,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4193599.0,1,guld.,1913,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,10972162.0,1,guld.,1913,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,uruguay,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,442733442.0,1,guld.,1913,netherlands,united sates of america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,68863591.0,1,guld.,1913,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3917885423.0,1,guld.,1913,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,334588.0,1,guld.,1914,netherlands,africa (east coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,11668693.0,1,guld.,1914,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6716112.0,1,guld.,1914,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2208306.0,1,guld.,1914,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,865.0,1,guld.,1914,netherlands,arabia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3334159.0,1,guld.,1914,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,61214.0,1,guld.,1914,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3464734.0,1,guld.,1914,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,245941085.0,1,guld.,1914,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,26942332.0,1,guld.,1914,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3690292.0,1,guld.,1914,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,182664.0,1,guld.,1914,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,celebes,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,785617.0,1,guld.,1914,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,18044917.0,1,guld.,1914,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,8890239.0,1,guld.,1914,netherlands,china,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2475502.0,1,guld.,1914,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3988764.0,1,guld.,1914,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,452694.0,1,guld.,1914,netherlands,curacao,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1731402.0,1,guld.,1914,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6993461.0,1,guld.,1914,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,12375303.0,1,guld.,1914,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,89439785.0,1,guld.,1914,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,27388483.0,1,guld.,1914,netherlands,france,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,gibraltar,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,25948904.0,1,guld.,1914,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,326306558.0,1,guld.,1914,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1518612.0,1,guld.,1914,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,123826.0,1,guld.,1914,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,guiana (france),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,729539.0,1,guld.,1914,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,47089991.0,1,guld.,1914,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1095064.0,1,guld.,1914,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,10731638.0,1,guld.,1914,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4534914.0,1,guld.,1914,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,394971669.0,1,guld.,1914,netherlands,java,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,48074.0,1,guld.,1914,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,491376.0,1,guld.,1914,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,130395.0,1,guld.,1914,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,11345.0,1,guld.,1914,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4470.0,1,guld.,1914,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1407760.0,1,guld.,1914,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1266923.0,1,guld.,1914,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,24991879.0,1,guld.,1914,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,oldenburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2498829.0,1,guld.,1914,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,401745.0,1,guld.,1914,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,persia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,27121.0,1,guld.,1914,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,15068201.0,1,guld.,1914,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,159569.0,1,guld.,1914,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,825771082.0,1,guld.,1914,netherlands,germany,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,63108511.0,1,guld.,1914,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,36475463.0,1,guld.,1914,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,188168026.0,1,guld.,1914,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,14793056.0,1,guld.,1914,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1719711.0,1,guld.,1914,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,70009182.0,1,guld.,1914,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3036424.0,1,guld.,1914,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6032563.0,1,guld.,1914,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,uruguay,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,300689644.0,1,guld.,1914,netherlands,united sates of america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,42597528.0,1,guld.,1914,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2889151809.0,1,guld.,1914,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,7779982.0,1,guld.,1913,netherlands,africa (east coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,12259461.0,1,guld.,1913,netherlands,africa (west coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1465527.0,1,guld.,1913,netherlands,algeria,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,720503.0,1,guld.,1913,netherlands,antilles,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,arabia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3376968.0,1,guld.,1913,netherlands,australia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,393522.0,1,guld.,1913,netherlands,azores,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,107699.0,1,guld.,1913,netherlands,barbarian states,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,339627624.0,1,guld.,1913,netherlands,belgium,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,970596.0,1,guld.,1913,netherlands,brazil,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,54653425.0,1,guld.,1913,netherlands,bremen,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,628001.0,1,guld.,1913,netherlands,bulgaria,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,172703.0,1,guld.,1913,netherlands,celebes,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,165627.0,1,guld.,1913,netherlands,central america,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,234247.0,1,guld.,1913,netherlands,chile,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2592041.0,1,guld.,1913,netherlands,china,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2417486.0,1,guld.,1913,netherlands,"colombia, ecuador, venezuela",exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1855169.0,1,guld.,1913,netherlands,cuba,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,576081.0,1,guld.,1913,netherlands,curacao,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,18260192.0,1,guld.,1913,netherlands,denmark,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4838231.0,1,guld.,1913,netherlands,egypt,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4988716.0,1,guld.,1913,netherlands,english america,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,8358396.0,1,guld.,1913,netherlands,english india,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,31422990.0,1,guld.,1913,netherlands,france,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,580676.0,1,guld.,1913,netherlands,gibraltar,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,5286622.0,1,guld.,1913,netherlands,greece,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,656314838.0,1,guld.,1913,netherlands,great britain,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4938775.0,1,guld.,1913,netherlands,guiana (netherlands),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,263373.0,1,guld.,1913,netherlands,guiana (england),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4227.0,1,guld.,1913,netherlands,guiana (france),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,311459.0,1,guld.,1913,netherlands,haiti,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,59413265.0,1,guld.,1913,netherlands,hamburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,27508758.0,1,guld.,1913,netherlands,ireland,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,22238665.0,1,guld.,1913,netherlands,italy,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1460849.0,1,guld.,1913,netherlands,japan,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,162769096.0,1,guld.,1913,netherlands,java,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1612355.0,1,guld.,1913,netherlands,cape of good hope,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,440114.0,1,guld.,1913,netherlands,lubeck,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1020539.0,1,guld.,1913,netherlands,malta,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4356581.0,1,guld.,1913,netherlands,morocco,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,35987.0,1,guld.,1913,netherlands,mauritius,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,163816.0,1,guld.,1913,netherlands,mecklenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,480803.0,1,guld.,1913,netherlands,mexico,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,23181717.0,1,guld.,1913,netherlands,norway,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,8600.0,1,guld.,1913,netherlands,oldenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3542335.0,1,guld.,1913,netherlands,austria-hungary,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,107439.0,1,guld.,1913,netherlands,peru and bolivia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,148172.0,1,guld.,1913,netherlands,persia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,104669.0,1,guld.,1913,netherlands,philippine islands,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,9396946.0,1,guld.,1913,netherlands,portugal,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,980.0,1,guld.,1913,netherlands,portuguese indies,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1363176982.0,1,guld.,1913,netherlands,germany,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,8069623.0,1,guld.,1913,netherlands,rio de la plata (buenos aires),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,7168968.0,1,guld.,1913,netherlands,romania,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,30645966.0,1,guld.,1913,netherlands,russia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,147866.0,1,guld.,1913,netherlands,siam,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,siberia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,11926814.0,1,guld.,1913,netherlands,spain,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,143369.0,1,guld.,1913,netherlands,pacific ocean,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,20793418.0,1,guld.,1913,netherlands,turkey,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1913,netherlands,uruguay,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,131270737.0,1,guld.,1913,netherlands,united sates of america,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,26084260.0,1,guld.,1913,netherlands,sweden,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3082984846.0,1,guld.,1913,netherlands,total,exp (uitvoer uit het vrije verkeer),spe,,,,,total_reporting,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4517511.0,1,guld.,1914,netherlands,africa (east coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,15122764.0,1,guld.,1914,netherlands,africa (west coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,808836.0,1,guld.,1914,netherlands,algeria,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1080490.0,1,guld.,1914,netherlands,antilles,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,arabia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,344745.0,1,guld.,1914,netherlands,australia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,348600.0,1,guld.,1914,netherlands,azores,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,121132.0,1,guld.,1914,netherlands,barbarian states,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,219471255.0,1,guld.,1914,netherlands,belgium,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1000281.0,1,guld.,1914,netherlands,brazil,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,48016135.0,1,guld.,1914,netherlands,bremen,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,718559.0,1,guld.,1914,netherlands,bulgaria,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,90117.0,1,guld.,1914,netherlands,celebes,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,362076.0,1,guld.,1914,netherlands,central america,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,312711.0,1,guld.,1914,netherlands,chile,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1807261.0,1,guld.,1914,netherlands,china,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1990362.0,1,guld.,1914,netherlands,"colombia, ecuador, venezuela",exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2238813.0,1,guld.,1914,netherlands,cuba,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,565824.0,1,guld.,1914,netherlands,curacao,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,18648535.0,1,guld.,1914,netherlands,denmark,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6781235.0,1,guld.,1914,netherlands,egypt,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2116954.0,1,guld.,1914,netherlands,english america,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,6611037.0,1,guld.,1914,netherlands,english india,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,23059563.0,1,guld.,1914,netherlands,france,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1025250.0,1,guld.,1914,netherlands,gibraltar,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,3256394.0,1,guld.,1914,netherlands,greece,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,602195839.0,1,guld.,1914,netherlands,great britain,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4051964.0,1,guld.,1914,netherlands,guiana (netherlands),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,397220.0,1,guld.,1914,netherlands,guiana (england),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1588.0,1,guld.,1914,netherlands,guiana (france),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,219142.0,1,guld.,1914,netherlands,haiti,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,33674743.0,1,guld.,1914,netherlands,hamburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,17674735.0,1,guld.,1914,netherlands,ireland,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,19931975.0,1,guld.,1914,netherlands,italy,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1474558.0,1,guld.,1914,netherlands,japan,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,143239663.0,1,guld.,1914,netherlands,java,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1200993.0,1,guld.,1914,netherlands,cape of good hope,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,268761.0,1,guld.,1914,netherlands,lubeck,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,951759.0,1,guld.,1914,netherlands,malta,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2216573.0,1,guld.,1914,netherlands,morocco,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,35801.0,1,guld.,1914,netherlands,mauritius,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,106457.0,1,guld.,1914,netherlands,mecklenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,495279.0,1,guld.,1914,netherlands,mexico,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,24387438.0,1,guld.,1914,netherlands,norway,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,oldenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1642509.0,1,guld.,1914,netherlands,austria-hungary,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,52726.0,1,guld.,1914,netherlands,peru and bolivia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,23049.0,1,guld.,1914,netherlands,persia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,69520.0,1,guld.,1914,netherlands,philippine islands,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,5395587.0,1,guld.,1914,netherlands,portugal,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1204.0,1,guld.,1914,netherlands,portuguese indies,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,1043512429.0,1,guld.,1914,netherlands,germany,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,5203494.0,1,guld.,1914,netherlands,rio de la plata (buenos aires),exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,4559889.0,1,guld.,1914,netherlands,romania,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,21710565.0,1,guld.,1914,netherlands,russia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,137008.0,1,guld.,1914,netherlands,siam,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,siberia,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,9169002.0,1,guld.,1914,netherlands,spain,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,88489.0,1,guld.,1914,netherlands,pacific ocean,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,8981585.0,1,guld.,1914,netherlands,turkey,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,,1,guld.,1914,netherlands,uruguay,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,163978922.0,1,guld.,1914,netherlands,united sates of america,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,24676878.0,1,guld.,1914,netherlands,sweden,exp (uitvoer uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 164-165
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914,2505243784.0,1,guld.,1914,netherlands,total,exp (uitvoer uit het vrije verkeer),spe,,,,,total_reporting,cf.Photos Kiel 164-165
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",557285,1,guld.,1913,netherlands,africa (east coast),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",12485234,1,guld.,1913,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6228980,1,guld.,1913,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2499865,1,guld.,1913,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6802221,1,guld.,1913,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4247,1,guld.,1913,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3858621,1,guld.,1913,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",352050585,1,guld.,1913,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",42147978,1,guld.,1913,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6729666,1,guld.,1913,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",39161,1,guld.,1913,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",476070,1,guld.,1913,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",25850590,1,guld.,1913,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",11304849,1,guld.,1913,netherlands,china,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1654218,1,guld.,1913,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3969987,1,guld.,1913,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",486861,1,guld.,1913,netherlands,curacao,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2118182,1,guld.,1913,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",9065579,1,guld.,1913,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",14286381,1,guld.,1913,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",99944284,1,guld.,1913,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",33210557,1,guld.,1913,netherlands,france,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",23057,1,guld.,1913,netherlands,gibraltar,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",28454346,1,guld.,1913,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",339635463,1,guld.,1913,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2564191,1,guld.,1913,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",214602,1,guld.,1913,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",445386,1,guld.,1913,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",68135624,1,guld.,1913,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1140105,1,guld.,1913,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",12098804,1,guld.,1913,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2471604,1,guld.,1913,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",528451512,1,guld.,1913,netherlands,java,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1039527,1,guld.,1913,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1281175,1,guld.,1913,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",141755,1,guld.,1913,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",19648,1,guld.,1913,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1377,1,guld.,1913,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3824104,1,guld.,1913,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1764965,1,guld.,1913,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",45893170,1,guld.,1913,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",5380,1,guld.,1913,netherlands,oldenburg,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3375826,1,guld.,1913,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",37477,1,guld.,1913,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",101,1,guld.,1913,netherlands,persia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",35744,1,guld.,1913,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",13428353,1,guld.,1913,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",195075,1,guld.,1913,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1058552803,1,guld.,1913,netherlands,prussia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",126856430,1,guld.,1913,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",34345338,1,guld.,1913,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",366112739,1,guld.,1913,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",13037300,1,guld.,1913,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2342322,1,guld.,1913,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",99400747,1,guld.,1913,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4193599,1,guld.,1913,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",10972162,1,guld.,1913,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",442733442,1,guld.,1913,netherlands,united sates of america,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",68863591,1,guld.,1913,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3917885423,1,guld.,1913,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",334588,1,guld.,1914,netherlands,africa (east coast),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",11668693,1,guld.,1914,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6716112,1,guld.,1914,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2208306,1,guld.,1914,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",865,1,guld.,1914,netherlands,arabia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3334159,1,guld.,1914,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",61214,1,guld.,1914,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3464734,1,guld.,1914,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",245941085,1,guld.,1914,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",26942332,1,guld.,1914,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3690292,1,guld.,1914,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",182664,1,guld.,1914,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",785617,1,guld.,1914,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",18044917,1,guld.,1914,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",8890239,1,guld.,1914,netherlands,china,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2475502,1,guld.,1914,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3988764,1,guld.,1914,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",452694,1,guld.,1914,netherlands,curacao,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1731402,1,guld.,1914,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6993461,1,guld.,1914,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",12375303,1,guld.,1914,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",89439785,1,guld.,1914,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",27388483,1,guld.,1914,netherlands,france,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",25948904,1,guld.,1914,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",326306558,1,guld.,1914,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1518612,1,guld.,1914,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",123826,1,guld.,1914,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",729539,1,guld.,1914,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",47089991,1,guld.,1914,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1095064,1,guld.,1914,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",10731638,1,guld.,1914,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4534914,1,guld.,1914,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",394971669,1,guld.,1914,netherlands,java,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",48074,1,guld.,1914,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",491376,1,guld.,1914,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",130395,1,guld.,1914,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",11345,1,guld.,1914,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4470,1,guld.,1914,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1407760,1,guld.,1914,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1266923,1,guld.,1914,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",24991879,1,guld.,1914,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2498829,1,guld.,1914,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",401745,1,guld.,1914,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",27121,1,guld.,1914,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",15068201,1,guld.,1914,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",159569,1,guld.,1914,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",825771082,1,guld.,1914,netherlands,prussia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",63108511,1,guld.,1914,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",36475463,1,guld.,1914,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",188168026,1,guld.,1914,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",14793056,1,guld.,1914,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1719711,1,guld.,1914,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",70009182,1,guld.,1914,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3036424,1,guld.,1914,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6032563,1,guld.,1914,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",300689644,1,guld.,1914,netherlands,united sates of america,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",42597528,1,guld.,1914,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2889151809,1,guld.,1914,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",7779982,1,guld.,1913,netherlands,africa (east coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",12259461,1,guld.,1913,netherlands,africa (west coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1465527,1,guld.,1913,netherlands,algeria,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",720503,1,guld.,1913,netherlands,antilles,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3376968,1,guld.,1913,netherlands,australia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",393522,1,guld.,1913,netherlands,azores,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",107699,1,guld.,1913,netherlands,barbarian states,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",339627624,1,guld.,1913,netherlands,belgium,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",970596,1,guld.,1913,netherlands,brazil,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",54653425,1,guld.,1913,netherlands,bremen,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",628001,1,guld.,1913,netherlands,bulgaria,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",172703,1,guld.,1913,netherlands,celebes,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",165627,1,guld.,1913,netherlands,central america,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",234247,1,guld.,1913,netherlands,chile,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2592041,1,guld.,1913,netherlands,china,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2417486,1,guld.,1913,netherlands,"colombia, ecuador, venezuela",exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1855169,1,guld.,1913,netherlands,cuba,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",576081,1,guld.,1913,netherlands,curacao,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",18260192,1,guld.,1913,netherlands,denmark,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4838231,1,guld.,1913,netherlands,egypt,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4988716,1,guld.,1913,netherlands,english america,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",8358396,1,guld.,1913,netherlands,english india,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",31422990,1,guld.,1913,netherlands,france,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",580676,1,guld.,1913,netherlands,gibraltar,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",5286622,1,guld.,1913,netherlands,greece,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",656314838,1,guld.,1913,netherlands,great britain,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4938775,1,guld.,1913,netherlands,guiana (netherlands),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",263373,1,guld.,1913,netherlands,guiana (england),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4227,1,guld.,1913,netherlands,guiana (france),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",311459,1,guld.,1913,netherlands,haiti,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",59413265,1,guld.,1913,netherlands,hamburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",27508758,1,guld.,1913,netherlands,ireland,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",22238665,1,guld.,1913,netherlands,italy,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1460849,1,guld.,1913,netherlands,japan,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",162769096,1,guld.,1913,netherlands,java,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1612355,1,guld.,1913,netherlands,cape of good hope,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",440114,1,guld.,1913,netherlands,lubeck,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1020539,1,guld.,1913,netherlands,malta,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4356581,1,guld.,1913,netherlands,morocco,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",35987,1,guld.,1913,netherlands,mauritius,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",163816,1,guld.,1913,netherlands,mecklenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",480803,1,guld.,1913,netherlands,mexico,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",23181717,1,guld.,1913,netherlands,norway,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",8600,1,guld.,1913,netherlands,oldenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3542335,1,guld.,1913,netherlands,austria-hungary,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",107439,1,guld.,1913,netherlands,peru and bolivia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",148172,1,guld.,1913,netherlands,persia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",104669,1,guld.,1913,netherlands,philippine islands,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",9396946,1,guld.,1913,netherlands,portugal,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",980,1,guld.,1913,netherlands,portuguese indies,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1363176982,1,guld.,1913,netherlands,prussia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",8069623,1,guld.,1913,netherlands,rio de la plata (buenos aires),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",7168968,1,guld.,1913,netherlands,romania,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",30645966,1,guld.,1913,netherlands,russia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",147866,1,guld.,1913,netherlands,siam,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",11926814,1,guld.,1913,netherlands,spain,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",143369,1,guld.,1913,netherlands,pacific ocean,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",20793418,1,guld.,1913,netherlands,turkey,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",131270737,1,guld.,1913,netherlands,united sates of america,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",26084260,1,guld.,1913,netherlands,sweden,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3082984846,1,guld.,1913,netherlands,total,exp (uitvoer uit het vrije verkeer),spe,,,,,total_reporting,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4517511,1,guld.,1914,netherlands,africa (east coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",15122764,1,guld.,1914,netherlands,africa (west coast),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",808836,1,guld.,1914,netherlands,algeria,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1080490,1,guld.,1914,netherlands,antilles,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",344745,1,guld.,1914,netherlands,australia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",348600,1,guld.,1914,netherlands,azores,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",121132,1,guld.,1914,netherlands,barbarian states,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",219471255,1,guld.,1914,netherlands,belgium,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1000281,1,guld.,1914,netherlands,brazil,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",48016135,1,guld.,1914,netherlands,bremen,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",718559,1,guld.,1914,netherlands,bulgaria,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",90117,1,guld.,1914,netherlands,celebes,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",362076,1,guld.,1914,netherlands,central america,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",312711,1,guld.,1914,netherlands,chile,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1807261,1,guld.,1914,netherlands,china,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1990362,1,guld.,1914,netherlands,"colombia, ecuador, venezuela",exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2238813,1,guld.,1914,netherlands,cuba,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",565824,1,guld.,1914,netherlands,curacao,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",18648535,1,guld.,1914,netherlands,denmark,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6781235,1,guld.,1914,netherlands,egypt,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2116954,1,guld.,1914,netherlands,english america,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",6611037,1,guld.,1914,netherlands,english india,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",23059563,1,guld.,1914,netherlands,france,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1025250,1,guld.,1914,netherlands,gibraltar,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",3256394,1,guld.,1914,netherlands,greece,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",602195839,1,guld.,1914,netherlands,great britain,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4051964,1,guld.,1914,netherlands,guiana (netherlands),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",397220,1,guld.,1914,netherlands,guiana (england),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1588,1,guld.,1914,netherlands,guiana (france),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",219142,1,guld.,1914,netherlands,haiti,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",33674743,1,guld.,1914,netherlands,hamburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",17674735,1,guld.,1914,netherlands,ireland,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",19931975,1,guld.,1914,netherlands,italy,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1474558,1,guld.,1914,netherlands,japan,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",143239663,1,guld.,1914,netherlands,java,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1200993,1,guld.,1914,netherlands,cape of good hope,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",268761,1,guld.,1914,netherlands,lubeck,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",951759,1,guld.,1914,netherlands,malta,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2216573,1,guld.,1914,netherlands,morocco,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",35801,1,guld.,1914,netherlands,mauritius,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",106457,1,guld.,1914,netherlands,mecklenburg,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",495279,1,guld.,1914,netherlands,mexico,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",24387438,1,guld.,1914,netherlands,norway,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1642509,1,guld.,1914,netherlands,austria-hungary,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",52726,1,guld.,1914,netherlands,peru and bolivia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",23049,1,guld.,1914,netherlands,persia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",69520,1,guld.,1914,netherlands,philippine islands,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",5395587,1,guld.,1914,netherlands,portugal,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1204,1,guld.,1914,netherlands,portuguese indies,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",1043512429,1,guld.,1914,netherlands,prussia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",5203494,1,guld.,1914,netherlands,rio de la plata (buenos aires),exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",4559889,1,guld.,1914,netherlands,romania,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",21710565,1,guld.,1914,netherlands,russia,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",137008,1,guld.,1914,netherlands,siam,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",9169002,1,guld.,1914,netherlands,spain,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",88489,1,guld.,1914,netherlands,pacific ocean,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",8981585,1,guld.,1914,netherlands,turkey,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",163978922,1,guld.,1914,netherlands,united sates of america,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",24676878,1,guld.,1914,netherlands,sweden,exp (uitvoer uit het vrije verkeer),spe,,,,,,
+"Statistiek van den In-, Uit- en Doorvoer. Koninkrijk Der Nederlanden_vol.2_1914_II-III",2505243784,1,guld.,1914,netherlands,total,exp (uitvoer uit het vrije verkeer),spe,,,,,total_reporting,
