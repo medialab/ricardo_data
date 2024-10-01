@@ -1,12 +1,11 @@
-version: 4.28.3
-time: 145.302
+version: 4.40.8
+time: 72.878
 errors: []
 tasks:
   - resource:
       name: sources
       title: Trade statistics sources
-      description:
-        Volumes of statistics, books or research papers used to compile
+      description: Volumes of statistics, books or research papers used to compile
         the flows table.
       format: csv
       encoding: utf-8
@@ -22,12 +21,11 @@ tasks:
               required: true
           - name: author
             type: string
-            description:
-              Author.s of the source when appropriate (i.e. not for statistical
+            description: Author.s of the source when appropriate (i.e. not for statistical
               series)
           - name: name
             type: string
-            description: "Name of the source: title of the volume/book/research paper"
+            description: 'Name of the source: title of the volume/book/research paper'
             constraints:
               required: true
           - name: editor
@@ -41,8 +39,7 @@ tasks:
             description: Number of volume when in a serie
           - name: volume_date
             type: string
-            description:
-              Date.s of trade described in this source when indicated in
+            description: Date.s of trade described in this source when indicated in
               the source name
           - name: edition_date
             type: string
@@ -58,9 +55,8 @@ tasks:
             description: Free text notes left by the research team
           - name: source_category
             type: string
-            description:
-              "source category: article, book, database, statistical series,
-              website"
+            description: 'source category: article, book, database, statistical series,
+              website'
             constraints:
               enum:
                 - article
@@ -74,7 +70,7 @@ tasks:
             description: URL where the original source is available
           - name: type
             type: string
-            description: "Type of source: primary, primary_yearbook, secondary, estimation"
+            description: 'Type of source: primary, primary_yearbook, secondary, estimation'
             constraints:
               enum:
                 - primary
@@ -85,11 +81,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: b9c255c52ca9037398380bfb078c2088
-        bytes: 920275
+        hash: c31457c53900895689a8014d7346413a
+        bytes: 1039895
         fields: 14
-        rows: 4581
-    time: 0.166
+        rows: 5312
+    time: 0.223
     scope:
       - hash-count-error
       - byte-count-error
@@ -117,8 +113,7 @@ tasks:
   - resource:
       name: ricentities
       title: RICentites
-      description:
-        RICentites are the unified nomencalture of trade reporting and
+      description: RICentites are the unified nomencalture of trade reporting and
         partner names.
       format: csv
       encoding: utf-8
@@ -134,9 +129,8 @@ tasks:
               required: true
           - name: type
             type: string
-            description:
-              "RICentity type: locality, colonial_area, country, geographical_area,
-              group"
+            description: 'RICentity type: locality, colonial_area, country, geographical_area,
+              group'
             constraints:
               enum:
                 - locality
@@ -146,8 +140,7 @@ tasks:
                 - group
           - name: continent
             type: string
-            description:
-              continent the RICentity belongs to (Ocean are considered
+            description: continent the RICentity belongs to (Ocean are considered
               as continents).
             constraints:
               enum:
@@ -167,16 +160,14 @@ tasks:
                 - World
           - name: GPH_code
             type: string
-            description:
-              GeoPolHist dataset identifier mostly compatible with Correlates
+            description: GeoPolHist dataset identifier mostly compatible with Correlates
               Of War (COW) identifiers.
           - name: slug
             type: string
             description: slug
           - name: parent_entity
             type: string
-            description:
-              indicates if this RICentity is a part of another one contineously
+            description: indicates if this RICentity is a part of another one contineously
               in time. Time dependent dependencies are not coded in this variable
               but in the GeoPolHist dataset.
         foreignKeys:
@@ -187,10 +178,10 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 549ffa02d602bbf3220694cf0deeecbf
-        bytes: 136478
+        hash: 587634683f946f2f7dd3e21407917d40
+        bytes: 139597
         fields: 6
-        rows: 2157
+        rows: 2275
     time: 0.1
     scope:
       - hash-count-error
@@ -219,8 +210,7 @@ tasks:
   - resource:
       name: entity_names
       title: Entity names
-      description:
-        This table documents how the partner and reporting original names
+      description: This table documents how the partner and reporting original names
         in sources have been translated in a unified nomemclature.
       format: csv
       encoding: utf-8
@@ -230,8 +220,7 @@ tasks:
         fields:
           - name: original_name
             type: string
-            description:
-              name of a reportnig and/or partner as found in source.s (unique
+            description: name of a reportnig and/or partner as found in source.s (unique
               identifier)
             constraints:
               unique: true
@@ -249,11 +238,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: f723e501ab44793ab99d2d81607dae3d
-        bytes: 424291
+        hash: 724441db7030d290859a628211620850
+        bytes: 429388
         fields: 2
-        rows: 9363
-    time: 0.254
+        rows: 9621
+    time: 0.265
     scope:
       - hash-count-error
       - byte-count-error
@@ -281,8 +270,7 @@ tasks:
   - resource:
       name: ricentities_groups
       title: RICentities groups
-      description:
-        Some RICentities are of type 'group'. This table show which entities
+      description: Some RICentities are of type 'group'. This table show which entities
         are part of RICentities groups
       format: csv
       encoding: utf-8
@@ -313,11 +301,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 327cf236b6a9a32f1383cf321beae2d7
-        bytes: 112828
+        hash: 6d0162599de4051b470c5729b6238524
+        bytes: 131339
         fields: 3
-        rows: 1697
-    time: 0.087
+        rows: 2016
+    time: 0.086
     scope:
       - hash-count-error
       - byte-count-error
@@ -379,7 +367,7 @@ tasks:
         bytes: 905645
         fields: 5
         rows: 7750
-    time: 0.326
+    time: 0.238
     scope:
       - hash-count-error
       - byte-count-error
@@ -422,8 +410,7 @@ tasks:
             description: Curencies are translated depending on the year of the flow
           - name: reporting
             type: string
-            description:
-              Curencies are translated depending on the reporting of the
+            description: Curencies are translated depending on the reporting of the
               flow
           - name: modified_currency
             type: string
@@ -440,11 +427,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: a95f0276d28efe3d894f64ff83c3d15b
-        bytes: 1504816
+        hash: 094e36988938d36f48c8b2838840c5ff
+        bytes: 1572364
         fields: 4
-        rows: 36199
-    time: 0.981
+        rows: 36965
+    time: 0.887
     scope:
       - hash-count-error
       - byte-count-error
@@ -510,11 +497,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 237e814a036cb07e0cb3310971f267e6
-        bytes: 3129
+        hash: 8e7de8ecd8457c92681cdc541e85ac4b
+        bytes: 3305
         fields: 4
-        rows: 110
-    time: 0.008
+        rows: 114
+    time: 0.007
     scope:
       - hash-count-error
       - byte-count-error
@@ -542,8 +529,7 @@ tasks:
   - resource:
       name: flows
       sources:
-        - title:
-            Trade statistics from various countries archives and research papers,
+        - title: Trade statistics from various countries archives and research papers,
             see data/sources.csv for details
       encoding: utf-8
       profile: tabular-data-resource
@@ -551,8 +537,8 @@ tasks:
       format: csv
       schema:
         missingValues:
-          - ""
-          - "?"
+          - ''
+          - '?'
         fields:
           - name: source
             type: string
@@ -576,7 +562,7 @@ tasks:
             description: The currency the trade flow value is expressed in
           - name: year
             type: year
-            description: "The year of the trade flow "
+            description: 'The year of the trade flow '
             constraints:
               required: true
           - name: reporting
@@ -604,9 +590,8 @@ tasks:
                 - NS
           - name: transport_type
             type: string
-            description:
-              "For some flows, the transport type is precised : by land
-              or by see for instance."
+            description: 'For some flows, the transport type is precised : by land
+              or by see for instance.'
             constraints:
               enum:
                 - river
@@ -623,23 +608,20 @@ tasks:
                 - land & railway
           - name: statistical_period
             type: string
-            description:
-              Some statistics are not reported by civil years. This field
+            description: Some statistics are not reported by civil years. This field
               indicates those precising the statistical period (not normalized).
           - name: partner_sum
             type: string
-            description:
-              When '1', indicates trade flows which are subtotals calculated
+            description: When '1', indicates trade flows which are subtotals calculated
               in the source (this field should be a boolean...).
             constraints:
               enum:
-                - "1"
+                - '1'
           - name: world_trade_type
             type: string
-            description:
-              "Categorize the different types of Total trade calculations:
+            description: 'Categorize the different types of Total trade calculations:
               total_estimated (recent estimations), total_reporting1 (total reported
-              by the soruce), total_reporting2 (subtotals reported by the source)"
+              by the soruce), total_reporting2 (subtotals reported by the source)'
             constraints:
               enum:
                 - total_estimated
@@ -1232,7 +1214,6 @@ tasks:
         - data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1928.csv
         - data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1932.csv
         - data/flows/AnuarioEstadsticoRepblicaDeCostaRica_1936.csv
-        - data/flows/AuswartigerHandelDesDeutschenZollgebiets_18801896.csv
         - data/flows/BahamasBlueBook_1828.csv
         - data/flows/BahamasBlueBook_1830.csv
         - data/flows/BahamasBlueBook_1831.csv
@@ -2284,7 +2265,7 @@ tasks:
         - data/flows/EstadisticaComercialDeLaRepublicaDeChile_1896.csv
         - data/flows/EstadisticaComercialDeLaRepublicaDeChile_1898.csv
         - data/flows/EstadisticaDeImportacionExportacionRepublicaDelEcuador_1933.csv
-        - data/flows/EstadisticaGeneralDelComercioEsteriorDeLaRepblicaArgentina_1875.csv
+        - data/flows/EstadisticaGeneralDelComercioEsteriorDeLaRepublicaArgentina_1875.csv
         - data/flows/EstadisticaGeneralDelComercioEsteriorDeLaRepublicaArgentina_1872.csv
         - data/flows/EstadisticaGeneralDelComercioEsteriorDeLaRepublicaArgentina_1873.csv
         - data/flows/EstadisticaGeneralDelComercioEsteriorDeLaRepublicaArgentina_1874.csv
@@ -3002,7 +2983,6 @@ tasks:
         - data/flows/StatisticalAbstractForTheSeveralBritishColoniesPossessionsAndProtectorates_18931907_Vol45.csv
         - data/flows/StatisticalAbstractForTheSeveralBritishOverseaDominionsAndProtectorates_19011915_53.csv
         - data/flows/StatisticalAbstractForTheSeveralBritishOverseaDominionsAndProtectorates_19051919_55.csv
-        - data/flows/StatisticalAbstractForTheSeveralBritishOverseaDominionsAndProtectorates_19051919_Vol55.csv
         - data/flows/StatisticalAbstractForTheSeveralBritishOverseaDominionsAndProtectorates_19071921_56.csv
         - data/flows/StatisticalAbstractForTheSeveralBritishOverseaDominionsAndProtectorates_19091923_57.csv
         - data/flows/StatisticalAbstractForTheSeveralBritishOverseaDominionsAndProtectorates_19111925_58.csv
@@ -3081,65 +3061,34 @@ tasks:
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1850.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1851.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1856.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1861.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1866.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1871.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1873.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1874.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1876.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1877.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1878.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1879.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1880.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1881.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1882.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1883.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1884.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1885.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1886.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1887.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1888.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1889.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1890.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1891.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1892.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1893.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1894.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1895.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1896.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1897.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1898.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1899.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1900.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1901.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1902.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1903.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1904.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1905.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1906.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1907.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1908.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1909.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1910.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1911.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1913.csv
         - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1914.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1915.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1916.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1917.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1918.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1920.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1921.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1922.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1923.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1924.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1925.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1926.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1927.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1928.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1929.csv
-        - data/flows/StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1931.csv
         - data/flows/StatistikDesWarenverkehrsDerSchweizMitDemAuslande_1890.csv
         - data/flows/StatistiqueDeLaBelgiqueTableauGeneralDuCommerceAvecLesPaysEtrangers_1841.csv
         - data/flows/StatistiqueDeLaBelgiqueTableauGeneralDuCommerceAvecLesPaysEtrangers_1846.csv
@@ -3297,7 +3246,6 @@ tasks:
         - data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1933.csv
         - data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1934.csv
         - data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1936.csv
-        - data/flows/StatistischesHandbuchFurDasDeutscheReich_Vol2.csv
         - data/flows/StatistischesJahrbuchFrDasDeutscheReich_1903.csv
         - data/flows/StatistischesJahrbuchFrDasDeutscheReich_1910.csv
         - data/flows/StatistischesJahrbuchFrDasDeutscheReich_1915.csv
@@ -3307,7 +3255,6 @@ tasks:
         - data/flows/StatistischesJahrbuchFrDasDeutscheReich_1938.csv
         - data/flows/StatistischesJahrbuchFurDasDeutscheReich_1911.csv
         - data/flows/StatistischesJahrbuchFurDasDeutscheReich_1915.csv
-        - data/flows/StatistischesJahrbuchFurDasDeutscheReich.csv
         - data/flows/StatsNz_LongtermDataSeriesHOverseasTradeAndPayments.csv
         - data/flows/SuomenmaanVirallinenTilastoKauppa_1903_I.csv
         - data/flows/SuomenmaanVirallinenTilastoKauppa_1904_I.csv
@@ -3739,14 +3686,657 @@ tasks:
         - data/flows/ArgentinaAnuarioDeLaDireccinGeneralDeEstadstica_1901.csv
         - data/flows/BalanzaDelComercioDeEspaa_1826.csv
         - data/flows/BalanzaDelComercioDeEspaa_1827.csv
+        - data/flows/AuswrtigerHandelDesDeutschenZollgebiets_18801896.csv
+        - data/flows/StatistischesHandbuchFrDasDeutscheReich_18701905_Vol2.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1909.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1901.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1899.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1896.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1893.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1890.csv
+        - data/flows/StatisticalRegisterOfTheProvinceOfTheCapeOfGoodHope_1887.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1884.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1883.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1882.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1881.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1880.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1879.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1878.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1877.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1876.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1875.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1874.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1873.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1872.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1871.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1870.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1869.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1868.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1867.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1866.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1865.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1864.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1863.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1862.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1861.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1860.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1859.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1858.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1857.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1856.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1855.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1854.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1853.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1852.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1851.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1850.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1849.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1848.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1847.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1846.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1845.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1844.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1843.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1842.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1841.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1840.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1839.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1838.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1837.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1836.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1835.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1834.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1832.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1831.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1830.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1829.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1828.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1827.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1825.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1824.csv
+        - data/flows/ColonyOfTheCapeOfGoodHopeBlueBook_1822.csv
+        - data/flows/ColonyOfDominicaBlueBook_1887.csv
+        - data/flows/ColonyOfDominicaBlueBook_1886.csv
+        - data/flows/ColonyOfDominicaBlueBook_1885.csv
+        - data/flows/ColonyOfDominicaBlueBook_1884.csv
+        - data/flows/ColonyOfDominicaBlueBook_1883.csv
+        - data/flows/ColonyOfDominicaBlueBook_1882.csv
+        - data/flows/ColonyOfDominicaBlueBook_1881.csv
+        - data/flows/ColonyOfDominicaBlueBook_1880.csv
+        - data/flows/ColonyOfDominicaBlueBook_1879.csv
+        - data/flows/ColonyOfDominicaBlueBook_1878.csv
+        - data/flows/ColonyOfDominicaBlueBook_1868.csv
+        - data/flows/ColonyOfDominicaBlueBook_1867.csv
+        - data/flows/ColonyOfDominicaBlueBook_1866.csv
+        - data/flows/ColonyOfDominicaBlueBook_1863.csv
+        - data/flows/ColonyOfDominicaBlueBook_1862.csv
+        - data/flows/ColonyOfDominicaBlueBook_1859.csv
+        - data/flows/ColonyOfDominicaBlueBook_1858.csv
+        - data/flows/ColonyOfDominicaBlueBook_1857.csv
+        - data/flows/ColonyOfDominicaBlueBook_1856.csv
+        - data/flows/ColonyOfDominicaBlueBook_1854.csv
+        - data/flows/ColonyOfDominicaBlueBook_1852.csv
+        - data/flows/ColonyOfDominicaBlueBook_1850.csv
+        - data/flows/ColonyOfDominicaBlueBook_1849.csv
+        - data/flows/ColonyOfDominicaBlueBook_1847.csv
+        - data/flows/ColonyOfDominicaBlueBook_1845.csv
+        - data/flows/ColonyOfDominicaBlueBook_1843.csv
+        - data/flows/ColonyOfDominicaBlueBook_1842.csv
+        - data/flows/ColonyOfDominicaBlueBook_1841.csv
+        - data/flows/ColonyOfDominicaBlueBook_1840.csv
+        - data/flows/ColonyOfDominicaBlueBook_1835.csv
+        - data/flows/ColonyOfDominicaBlueBook_1834.csv
+        - data/flows/ColonyOfDominicaBlueBook_1833.csv
+        - data/flows/ColonyOfDominicaBlueBook_1832.csv
+        - data/flows/ColonyOfDominicaBlueBook_1831.csv
+        - data/flows/ColonyOfDominicaBlueBook_1830.csv
+        - data/flows/ColonyOfDominicaBlueBook_1829.csv
+        - data/flows/ColonyOfDominicaBlueBook_1828.csv
+        - data/flows/StatistiquesDuCommerceExtrieurDesPossessionsFranaises_1938.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1919.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1918.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1917.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1916.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1915.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1914.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1913.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1912.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1911.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1910.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1909.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1908.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1907.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1906.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1905.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1904.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1903.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1902.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1901.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1900.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1898.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1897.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1896.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1895.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1894.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1893.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1892.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1891.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1890.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1889.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1888.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1887.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1886.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1885.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1884.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1882.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1881.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1880.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1879.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1878.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1877.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1876.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1875.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1874.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1873.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1872.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1871.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1870.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1869.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1868.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1867.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1866.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1865.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1864.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1863.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1862.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1861.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1860.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1859.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1858.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1857.csv
+        - data/flows/ColonyOfTheGambiaBlueBook_1856.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1855.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1853.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1851.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1849.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1847.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1846.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1844.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1843.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1840.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1838.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1836.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1834.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1833.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1832.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1831.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1830.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1829.csv
+        - data/flows/ColonyOfBathurstAndItsDependenciesBlueBook_1828.csv
+        - data/flows/GoldCoastColonyBlueBook_192728.csv
+        - data/flows/GoldCoastColonyBlueBook_192627.csv
+        - data/flows/GoldCoastColonyBlueBook_192526.csv
+        - data/flows/GoldCoastColonyBlueBook_192425.csv
+        - data/flows/GoldCoastColonyBlueBook_192324.csv
+        - data/flows/GoldCoastColonyBlueBook_192223.csv
+        - data/flows/GoldCoastColonyBlueBook_1921.csv
+        - data/flows/GoldCoastColonyBlueBook_1920.csv
+        - data/flows/GoldCoastColonyBlueBook_1919.csv
+        - data/flows/GoldCoastColonyBlueBook_1918.csv
+        - data/flows/GoldCoastColonyBlueBook_1916.csv
+        - data/flows/GoldCoastColonyBlueBook_1915.csv
+        - data/flows/GoldCoastColonyBlueBook_1914.csv
+        - data/flows/GoldCoastColonyBlueBook_1913.csv
+        - data/flows/GoldCoastColonyBlueBook_1912.csv
+        - data/flows/GoldCoastColonyBlueBook_1911.csv
+        - data/flows/GoldCoastColonyBlueBook_1910.csv
+        - data/flows/GoldCoastColonyBlueBook_1909.csv
+        - data/flows/GoldCoastColonyBlueBook_1908.csv
+        - data/flows/GoldCoastColonyBlueBook_1907.csv
+        - data/flows/GoldCoastColonyBlueBook_1906.csv
+        - data/flows/GoldCoastColonyBlueBook_1905.csv
+        - data/flows/GoldCoastColonyBlueBook_1904.csv
+        - data/flows/GoldCoastColonyBlueBook_1903.csv
+        - data/flows/GoldCoastColonyBlueBook_1902.csv
+        - data/flows/GoldCoastColonyBlueBook_1901.csv
+        - data/flows/GoldCoastColonyBlueBook_1900.csv
+        - data/flows/GoldCoastColonyBlueBook_1899.csv
+        - data/flows/GoldCoastColonyBlueBook_1898.csv
+        - data/flows/GoldCoastColonyBlueBook_1897.csv
+        - data/flows/GoldCoastColonyBlueBook_1896.csv
+        - data/flows/GoldCoastColonyBlueBook_1895.csv
+        - data/flows/GoldCoastColonyBlueBook_1894.csv
+        - data/flows/GoldCoastColonyBlueBook_1893.csv
+        - data/flows/GoldCoastColonyBlueBook_1892.csv
+        - data/flows/GoldCoastColonyBlueBook_1891.csv
+        - data/flows/GoldCoastColonyBlueBook_1890.csv
+        - data/flows/GoldCoastColonyBlueBook_1889.csv
+        - data/flows/GoldCoastColonyBlueBook_1888.csv
+        - data/flows/GoldCoastColonyBlueBook_1887.csv
+        - data/flows/GoldCoastColonyBlueBook_1885.csv
+        - data/flows/GoldCoastColonyBlueBook_1884.csv
+        - data/flows/GoldCoastColonyBlueBook_1883.csv
+        - data/flows/GoldCoastColonyBlueBook_1882.csv
+        - data/flows/GoldCoastColonyBlueBook_1881.csv
+        - data/flows/GoldCoastColonyBlueBook_1880.csv
+        - data/flows/GoldCoastColonyBlueBook_1879.csv
+        - data/flows/GoldCoastColonyBlueBook_1878.csv
+        - data/flows/GoldCoastColonyBlueBook_1877.csv
+        - data/flows/GoldCoastColonyBlueBook_1876.csv
+        - data/flows/GoldCoastColonyBlueBook_1875.csv
+        - data/flows/GoldCoastColonyBlueBook_1872.csv
+        - data/flows/GoldCoastColonyBlueBook_1871.csv
+        - data/flows/GoldCoastColonyBlueBook_1870.csv
+        - data/flows/GoldCoastColonyBlueBook_1869.csv
+        - data/flows/GoldCoastColonyBlueBook_1868.csv
+        - data/flows/GoldCoastColonyBlueBook_1867.csv
+        - data/flows/GoldCoastColonyBlueBook_1861.csv
+        - data/flows/GoldCoastColonyBlueBook_1860.csv
+        - data/flows/GoldCoastColonyBlueBook_1859.csv
+        - data/flows/GoldCoastColonyBlueBook_1858.csv
+        - data/flows/GoldCoastColonyBlueBook_1857.csv
+        - data/flows/GoldCoastColonyBlueBook_1856.csv
+        - data/flows/GoldCoastColonyBlueBook_1855.csv
+        - data/flows/GoldCoastColonyBlueBook_1854.csv
+        - data/flows/GoldCoastColonyBlueBook_1852.csv
+        - data/flows/GoldCoastColonyBlueBook_1850.csv
+        - data/flows/GoldCoastColonyBlueBook_1848.csv
+        - data/flows/GoldCoastColonyBlueBook_1846.csv
+        - data/flows/EastAfricaProtectorateBlueBook_191516.csv
+        - data/flows/EastAfricaProtectorateBlueBook_191415.csv
+        - data/flows/EastAfricaProtectorateBlueBook_191314.csv
+        - data/flows/EastAfricaProtectorateBlueBook_191213.csv
+        - data/flows/EastAfricaProtectorateBlueBook_191112.csv
+        - data/flows/EastAfricaProtectorateBlueBook_191011.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190809.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190708.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190607.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190506.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190405.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190304.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190203.csv
+        - data/flows/EastAfricaProtectorateBlueBook_190102.csv
+        - data/flows/ColonyOfLagosBlueBook_1905.csv
+        - data/flows/ColonyOfLagosBlueBook_1904.csv
+        - data/flows/ColonyOfLagosBlueBook_1903.csv
+        - data/flows/ColonyOfLagosBlueBook_1902.csv
+        - data/flows/ColonyOfLagosBlueBook_1901.csv
+        - data/flows/ColonyOfLagosBlueBook_1900.csv
+        - data/flows/ColonyOfLagosBlueBook_1899.csv
+        - data/flows/ColonyOfLagosBlueBook_1898.csv
+        - data/flows/ColonyOfLagosBlueBook_1897.csv
+        - data/flows/ColonyOfLagosBlueBook_1896.csv
+        - data/flows/ColonyOfLagosBlueBook_1895.csv
+        - data/flows/ColonyOfLagosBlueBook_1894.csv
+        - data/flows/ColonyOfLagosBlueBook_1893.csv
+        - data/flows/ColonyOfLagosBlueBook_1892.csv
+        - data/flows/ColonyOfLagosBlueBook_1891.csv
+        - data/flows/ColonyOfLagosBlueBook_1890.csv
+        - data/flows/ColonyOfLagosBlueBook_1889.csv
+        - data/flows/ColonyOfLagosBlueBook_1888.csv
+        - data/flows/ColonyOfLagosBlueBook_1887.csv
+        - data/flows/ColonyOfLagosBlueBook_1886.csv
+        - data/flows/ColonyOfLagosBlueBook_1885.csv
+        - data/flows/ColonyOfLagosBlueBook_1884.csv
+        - data/flows/ColonyOfLagosBlueBook_1883.csv
+        - data/flows/ColonyOfLagosBlueBook_1882.csv
+        - data/flows/ColonyOfLagosBlueBook_1881.csv
+        - data/flows/ColonyOfLagosBlueBook_1880.csv
+        - data/flows/ColonyOfLagosBlueBook_1879.csv
+        - data/flows/ColonyOfLagosBlueBook_1878.csv
+        - data/flows/ColonyOfLagosBlueBook_1877.csv
+        - data/flows/ColonyOfLagosBlueBook_1876.csv
+        - data/flows/ColonyOfLagosBlueBook_1875.csv
+        - data/flows/ColonyOfLagosBlueBook_1874.csv
+        - data/flows/ColonyOfLagosBlueBook_1873.csv
+        - data/flows/ColonyOfLagosBlueBook_1872.csv
+        - data/flows/ColonyOfLagosBlueBook_1871.csv
+        - data/flows/ColonyOfLagosBlueBook_1870.csv
+        - data/flows/ColonyOfLagosBlueBook_1869.csv
+        - data/flows/ColonyOfLagosBlueBook_1868.csv
+        - data/flows/ColonyOfLagosBlueBook_1867.csv
+        - data/flows/ColonyOfLagosBlueBook_1866.csv
+        - data/flows/ColonyOfLagosBlueBook_1865.csv
+        - data/flows/ColonyOfLagosBlueBook_1863.csv
+        - data/flows/NyasalandProtectorateBlueBook_1928.csv
+        - data/flows/NyasalandProtectorateBlueBook_1927.csv
+        - data/flows/NyasalandProtectorateBlueBook_1926.csv
+        - data/flows/NyasalandProtectorateBlueBook_1925.csv
+        - data/flows/NyasalandProtectorateBlueBook_1924.csv
+        - data/flows/NyasalandProtectorateBlueBook_1923.csv
+        - data/flows/NyasalandProtectorateBlueBook_1922.csv
+        - data/flows/NyasalandProtectorateBlueBook_1921.csv
+        - data/flows/NyasalandProtectorateBlueBook_1920.csv
+        - data/flows/NyasalandProtectorateBlueBook_191819.csv
+        - data/flows/NyasalandProtectorateBlueBook_191718.csv
+        - data/flows/NyasalandProtectorateBlueBook_191617.csv
+        - data/flows/NyasalandProtectorateBlueBook_191516.csv
+        - data/flows/NyasalandProtectorateBlueBook_191415.csv
+        - data/flows/NyasalandProtectorateBlueBook_191314.csv
+        - data/flows/NyasalandProtectorateBlueBook_191213.csv
+        - data/flows/NyasalandProtectorateBlueBook_191112.csv
+        - data/flows/NyasalandProtectorateBlueBook_191011.csv
+        - data/flows/NyasalandProtectorateBlueBook_190910.csv
+        - data/flows/NyasalandProtectorateBlueBook_190809.csv
+        - data/flows/NyasalandProtectorateBlueBook_190708.csv
+        - data/flows/BritishCentralAfricaProtectorateBlueBook_190607.csv
+        - data/flows/BritishCentralAfricaProtectorateBlueBook_190506.csv
+        - data/flows/BritishCentralAfricaProtectorateBlueBook_190405.csv
+        - data/flows/ColonyOfMontserratBlueBook_1887.csv
+        - data/flows/ColonyOfMontserratBlueBook_1886.csv
+        - data/flows/ColonyOfMontserratBlueBook_1885.csv
+        - data/flows/ColonyOfMontserratBlueBook_1884.csv
+        - data/flows/ColonyOfMontserratBlueBook_1883.csv
+        - data/flows/ColonyOfMontserratBlueBook_1882.csv
+        - data/flows/ColonyOfMontserratBlueBook_1881.csv
+        - data/flows/ColonyOfMontserratBlueBook_1880.csv
+        - data/flows/ColonyOfMontserratBlueBook_1879.csv
+        - data/flows/ColonyOfMontserratBlueBook_1878.csv
+        - data/flows/ColonyOfMontserratBlueBook_1877.csv
+        - data/flows/ColonyOfMontserratBlueBook_1874.csv
+        - data/flows/ColonyOfMontserratBlueBook_1873.csv
+        - data/flows/ColonyOfMontserratBlueBook_1868.csv
+        - data/flows/ColonyOfMontserratBlueBook_1867.csv
+        - data/flows/ColonyOfMontserratBlueBook_1866.csv
+        - data/flows/ColonyOfMontserratBlueBook_1865.csv
+        - data/flows/ColonyOfMontserratBlueBook_1864.csv
+        - data/flows/ColonyOfMontserratBlueBook_1863.csv
+        - data/flows/ColonyOfMontserratBlueBook_1862.csv
+        - data/flows/ColonyOfMontserratBlueBook_1859.csv
+        - data/flows/ColonyOfMontserratBlueBook_1858.csv
+        - data/flows/ColonyOfMontserratBlueBook_1857.csv
+        - data/flows/ColonyOfMontserratBlueBook_1856.csv
+        - data/flows/ColonyOfMontserratBlueBook_1855.csv
+        - data/flows/ColonyOfMontserratBlueBook_1853.csv
+        - data/flows/ColonyOfMontserratBlueBook_1851.csv
+        - data/flows/ColonyOfMontserratBlueBook_1850.csv
+        - data/flows/ColonyOfMontserratBlueBook_1848.csv
+        - data/flows/ColonyOfMontserratBlueBook_1846.csv
+        - data/flows/ColonyOfMontserratBlueBook_1844.csv
+        - data/flows/ColonyOfMontserratBlueBook_1842.csv
+        - data/flows/ColonyOfMontserratBlueBook_1840.csv
+        - data/flows/ColonyOfMontserratBlueBook_1830.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1886.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1885.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1884.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1878.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1877.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1874.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1873.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1872.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1868.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1866.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1865.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1864.csv
+        - data/flows/BlueBookForTheColonyOfNatal_1863.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1933.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1932.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1931.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1930.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1929.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1928.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1927.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1926.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1925.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1924.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1923.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1922.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1921.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1920.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1919.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1915.csv
+        - data/flows/BlueBookOfTheColonyAndProtectorateOfNigeria_1914.csv
+        - data/flows/UgandaProtectorateBlueBook_191617.csv
+        - data/flows/UgandaProtectorateBlueBook_191516.csv
+        - data/flows/UgandaProtectorateBlueBook_191415.csv
+        - data/flows/UgandaProtectorateBlueBook_191314.csv
+        - data/flows/UgandaProtectorateBlueBook_191213.csv
+        - data/flows/UgandaProtectorateBlueBook_191112.csv
+        - data/flows/UgandaProtectorateBlueBook_191011.csv
+        - data/flows/UgandaProtectorateBlueBook_190910.csv
+        - data/flows/UgandaProtectorateBlueBook_190809.csv
+        - data/flows/UgandaProtectorateBlueBook_190708.csv
+        - data/flows/UgandaProtectorateBlueBook_190607.csv
+        - data/flows/UgandaProtectorateBlueBook_190506.csv
+        - data/flows/UgandaProtectorateBlueBook_190405.csv
+        - data/flows/UgandaProtectorateBlueBook_190304.csv
+        - data/flows/UgandaProtectorateBlueBook_190203.csv
+        - data/flows/MaltaBlueBook_1938.csv
+        - data/flows/MaltaBlueBook_1937.csv
+        - data/flows/MaltaBlueBook_1936.csv
+        - data/flows/MaltaBlueBook_1935.csv
+        - data/flows/MaltaBlueBook_1934.csv
+        - data/flows/MaltaBlueBook_1933.csv
+        - data/flows/MaltaBlueBook_1932.csv
+        - data/flows/MaltaBlueBook_1931.csv
+        - data/flows/MaltaBlueBook_1930.csv
+        - data/flows/MaltaBlueBook_1929.csv
+        - data/flows/MaltaBlueBook_1928.csv
+        - data/flows/MaltaBlueBook_1927.csv
+        - data/flows/MaltaBlueBook_1926.csv
+        - data/flows/MaltaBlueBook_1925.csv
+        - data/flows/MaltaBlueBook_1924.csv
+        - data/flows/MaltaBlueBook_1923.csv
+        - data/flows/MaltaBlueBook_1922.csv
+        - data/flows/MaltaBlueBook_1921.csv
+        - data/flows/MaltaBlueBook_191920.csv
+        - data/flows/MaltaBlueBook_191718.csv
+        - data/flows/MaltaBlueBook_191415.csv
+        - data/flows/MaltaBlueBook_191112.csv
+        - data/flows/MaltaBlueBook_190809.csv
+        - data/flows/MaltaBlueBook_190708.csv
+        - data/flows/MaltaBlueBook_190607.csv
+        - data/flows/MaltaBlueBook_190506.csv
+        - data/flows/MaltaBlueBook_190405.csv
+        - data/flows/MaltaBlueBook_190304.csv
+        - data/flows/MaltaBlueBook_190203.csv
+        - data/flows/MaltaBlueBook_1901.csv
+        - data/flows/MaltaBlueBook_1900.csv
+        - data/flows/MaltaBlueBook_1899.csv
+        - data/flows/MaltaBlueBook_1898.csv
+        - data/flows/MaltaBlueBook_1897.csv
+        - data/flows/MaltaBlueBook_1896.csv
+        - data/flows/MaltaBlueBook_1895.csv
+        - data/flows/MaltaBlueBook_1894.csv
+        - data/flows/MaltaBlueBook_1893.csv
+        - data/flows/MaltaBlueBook_1892.csv
+        - data/flows/MaltaBlueBook_1891.csv
+        - data/flows/MaltaBlueBook_1890.csv
+        - data/flows/MaltaBlueBook_1889.csv
+        - data/flows/MaltaBlueBook_1888.csv
+        - data/flows/MaltaBlueBook_1887.csv
+        - data/flows/MaltaBlueBook_1886.csv
+        - data/flows/MaltaBlueBook_1885.csv
+        - data/flows/MaltaBlueBook_1884.csv
+        - data/flows/MaltaBlueBook_1883.csv
+        - data/flows/MaltaBlueBook_1882.csv
+        - data/flows/MaltaBlueBook_1881.csv
+        - data/flows/MaltaBlueBook_1880.csv
+        - data/flows/MaltaBlueBook_1879.csv
+        - data/flows/MaltaBlueBook_1878.csv
+        - data/flows/MaltaBlueBook_1877.csv
+        - data/flows/MaltaBlueBook_1876.csv
+        - data/flows/MaltaBlueBook_1875.csv
+        - data/flows/MaltaBlueBook_1874.csv
+        - data/flows/MaltaBlueBook_1873.csv
+        - data/flows/MaltaBlueBook_1872.csv
+        - data/flows/MaltaBlueBook_1871.csv
+        - data/flows/MaltaBlueBook_1870.csv
+        - data/flows/MaltaBlueBook_1869.csv
+        - data/flows/MaltaBlueBook_1868.csv
+        - data/flows/MaltaBlueBook_1867.csv
+        - data/flows/MaltaBlueBook_1866.csv
+        - data/flows/MaltaBlueBook_1865.csv
+        - data/flows/MaltaBlueBook_1864.csv
+        - data/flows/MaltaBlueBook_1863.csv
+        - data/flows/MaltaBlueBook_1862.csv
+        - data/flows/MaltaBlueBook_1861.csv
+        - data/flows/MaltaBlueBook_1860.csv
+        - data/flows/MaltaBlueBook_1859.csv
+        - data/flows/MaltaBlueBook_1858.csv
+        - data/flows/MaltaBlueBook_1857.csv
+        - data/flows/MaltaBlueBook_1855.csv
+        - data/flows/MaltaBlueBook_1853.csv
+        - data/flows/MaltaBlueBook_1851.csv
+        - data/flows/MaltaBlueBook_1849.csv
+        - data/flows/MaltaBlueBook_1847.csv
+        - data/flows/MaltaBlueBook_1845.csv
+        - data/flows/MaltaBlueBook_1843.csv
+        - data/flows/MaltaBlueBook_1841.csv
+        - data/flows/MaltaBlueBook_1839.csv
+        - data/flows/MaltaBlueBook_1838.csv
+        - data/flows/MaltaBlueBook_1837.csv
+        - data/flows/MaltaBlueBook_1836.csv
+        - data/flows/MaltaBlueBook_1835.csv
+        - data/flows/MaltaBlueBook_1834.csv
+        - data/flows/MaltaBlueBook_1833.csv
+        - data/flows/MaltaBlueBook_1831.csv
+        - data/flows/MaltaBlueBook_1830.csv
+        - data/flows/MaltaBlueBook_1829.csv
+        - data/flows/MaltaBlueBook_1828.csv
+        - data/flows/MaltaBlueBook_1827.csv
+        - data/flows/MaltaBlueBook_1825.csv
+        - data/flows/MaltaBlueBook_1824.csv
+        - data/flows/MaltaBlueBook_1823.csv
+        - data/flows/ColonyOfNevisBlueBook_1882.csv
+        - data/flows/ColonyOfNevisBlueBook_1881.csv
+        - data/flows/ColonyOfNevisBlueBook_1879.csv
+        - data/flows/ColonyOfNevisBlueBook_1878.csv
+        - data/flows/ColonyOfNevisBlueBook_1870.csv
+        - data/flows/ColonyOfNevisBlueBook_1869.csv
+        - data/flows/ColonyOfNevisBlueBook_1868.csv
+        - data/flows/ColonyOfNevisBlueBook_1867.csv
+        - data/flows/ColonyOfNevisBlueBook_1864.csv
+        - data/flows/ColonyOfNevisBlueBook_1863.csv
+        - data/flows/ColonyOfNevisBlueBook_1862.csv
+        - data/flows/ColonyOfNevisBlueBook_1861.csv
+        - data/flows/ColonyOfNevisBlueBook_1860.csv
+        - data/flows/ColonyOfNevisBlueBook_1859.csv
+        - data/flows/ColonyOfNevisBlueBook_1858.csv
+        - data/flows/ColonyOfNevisBlueBook_1857.csv
+        - data/flows/ColonyOfNevisBlueBook_1856.csv
+        - data/flows/ColonyOfNevisBlueBook_1855.csv
+        - data/flows/ColonyOfNevisBlueBook_1853.csv
+        - data/flows/ColonyOfNevisBlueBook_1851.csv
+        - data/flows/ColonyOfNevisBlueBook_1849.csv
+        - data/flows/ColonyOfNevisBlueBook_1847.csv
+        - data/flows/ColonyOfNevisBlueBook_1845.csv
+        - data/flows/ColonyOfNevisBlueBook_1843.csv
+        - data/flows/ColonyOfNevisBlueBook_1841.csv
+        - data/flows/SierraLeoneBlueBook_1904.csv
+        - data/flows/SierraLeoneBlueBook_1903.csv
+        - data/flows/SierraLeoneBlueBook_1902.csv
+        - data/flows/SierraLeoneBlueBook_1901.csv
+        - data/flows/SierraLeoneBlueBook_1900.csv
+        - data/flows/SierraLeoneBlueBook_1899.csv
+        - data/flows/SierraLeoneBlueBook_1898.csv
+        - data/flows/SierraLeoneBlueBook_1897.csv
+        - data/flows/SierraLeoneBlueBook_1896.csv
+        - data/flows/SierraLeoneBlueBook_1895.csv
+        - data/flows/SierraLeoneBlueBook_1894.csv
+        - data/flows/SierraLeoneBlueBook_1893.csv
+        - data/flows/SierraLeoneBlueBook_1892.csv
+        - data/flows/SierraLeoneBlueBook_1891.csv
+        - data/flows/SierraLeoneBlueBook_1890.csv
+        - data/flows/SierraLeoneBlueBook_1889.csv
+        - data/flows/SierraLeoneBlueBook_1888.csv
+        - data/flows/SierraLeoneBlueBook_1887.csv
+        - data/flows/SierraLeoneBlueBook_1886.csv
+        - data/flows/SierraLeoneBlueBook_1885.csv
+        - data/flows/SierraLeoneBlueBook_1884.csv
+        - data/flows/SierraLeoneBlueBook_1883.csv
+        - data/flows/SierraLeoneBlueBook_1882.csv
+        - data/flows/SierraLeoneBlueBook_1881.csv
+        - data/flows/SierraLeoneBlueBook_1880.csv
+        - data/flows/SierraLeoneBlueBook_1879.csv
+        - data/flows/SierraLeoneBlueBook_1878.csv
+        - data/flows/SierraLeoneBlueBook_1877.csv
+        - data/flows/SierraLeoneBlueBook_1876.csv
+        - data/flows/SierraLeoneBlueBook_1875.csv
+        - data/flows/SierraLeoneBlueBook_1874.csv
+        - data/flows/SierraLeoneBlueBook_1873.csv
+        - data/flows/SierraLeoneBlueBook_1872.csv
+        - data/flows/SierraLeoneBlueBook_1871.csv
+        - data/flows/SierraLeoneBlueBook_1870.csv
+        - data/flows/SierraLeoneBlueBook_1869.csv
+        - data/flows/SierraLeoneBlueBook_1868.csv
+        - data/flows/SierraLeoneBlueBook_1867.csv
+        - data/flows/SierraLeoneBlueBook_1866.csv
+        - data/flows/SierraLeoneBlueBook_1865.csv
+        - data/flows/SierraLeoneBlueBook_1864.csv
+        - data/flows/SierraLeoneBlueBook_1863.csv
+        - data/flows/SierraLeoneBlueBook_1862.csv
+        - data/flows/SierraLeoneBlueBook_1861.csv
+        - data/flows/SierraLeoneBlueBook_1860.csv
+        - data/flows/SierraLeoneBlueBook_1859.csv
+        - data/flows/SierraLeoneBlueBook_1858.csv
+        - data/flows/SierraLeoneBlueBook_1857.csv
+        - data/flows/SierraLeoneBlueBook_1856.csv
+        - data/flows/SierraLeoneBlueBook_1855.csv
+        - data/flows/SierraLeoneBlueBook_1853.csv
+        - data/flows/SierraLeoneBlueBook_1851.csv
+        - data/flows/SierraLeoneBlueBook_1849.csv
+        - data/flows/SierraLeoneBlueBook_1847.csv
+        - data/flows/SierraLeoneBlueBook_1845.csv
+        - data/flows/SierraLeoneBlueBook_1843.csv
+        - data/flows/SierraLeoneBlueBook_1841.csv
+        - data/flows/SierraLeoneBlueBook_1839.csv
+        - data/flows/SierraLeoneBlueBook_1837.csv
+        - data/flows/SierraLeoneBlueBook_1835.csv
+        - data/flows/SierraLeoneBlueBook_1834.csv
+        - data/flows/SierraLeoneBlueBook_1833.csv
+        - data/flows/SierraLeoneBlueBook_1832.csv
+        - data/flows/SierraLeoneBlueBook_1831.csv
+        - data/flows/SierraLeoneBlueBook_1830.csv
+        - data/flows/SierraLeoneBlueBook_1829.csv
+        - data/flows/SierraLeoneBlueBook_1828.csv
+        - data/flows/SierraLeoneBlueBook_1827.csv
+        - data/flows/SierraLeoneBlueBook_1826.csv
+        - data/flows/SierraLeoneBlueBook_1825.csv
+        - data/flows/SierraLeoneBlueBook_1824.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1887.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1886.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1885.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1884.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1883.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1882.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1881.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1880.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1879.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1878.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1875.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1867.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1865.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1864.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1863.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1862.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1861.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1859.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1858.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1857.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1856.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1855.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1854.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1853.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1852.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1851.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1849.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1848.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1847.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1846.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1845.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1844.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1843.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1839.csv
+        - data/flows/ColonyOfTheVirginIslandsBlueBook_1841.csv
       scheme: multipart
       hashing: md5
       stats:
-        hash: e58c70fbdcfa446f64a57e7180b4824f
-        bytes: 87047728
+        hash: 7e15e2a2d2bdd64da8cd1d814b8f8ccb
+        bytes: 88736848
         fields: 15
-        rows: 631669
-    time: 143.072
+        rows: 645630
+    time: 70.538
     scope:
       - hash-count-error
       - byte-count-error
