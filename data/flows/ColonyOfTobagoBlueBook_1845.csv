@@ -1,0 +1,11 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTobagoBlueBook_1845_160161,32872,1,£,1845,colony of tobago,great britain,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_160161,28259,1,£,1845,colony of tobago,british west indies,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_160161,863,1,£,1845,colony of tobago,british north america,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_160161,1685,1,£,1845,colony of tobago,united states of america,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_160161,2857,1,£,1845,colony of tobago,foreign states,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_160161,66536,1,£,1845,colony of tobago,total,imp,gen,,,,,total_reporting,
+ColonyOfTobagoBlueBook_1845_168169,83299,1,£,1845,colony of tobago,great britain,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_168169,528,1,£,1845,colony of tobago,british west indies,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_168169,108,1,£,1845,colony of tobago,british north america,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1845_168169,83936,1,£,1845,colony of tobago,total,exp,gen,,,,,total_reporting,
