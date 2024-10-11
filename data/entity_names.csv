@@ -1119,6 +1119,7 @@ barbados_preferential,Barbados (other)
 barbadosa sala,Barbados
 barbarian states,Barbary Coast
 barbarie,Barbary Coast
+barbarijsche staten,Barbary Coast
 barbary,Berbera
 barbary (tripoli),Tripolitania (Regency of Tripoli)
 "barbary states - algeria, etc",Barbary Coast
@@ -1864,6 +1865,8 @@ canary islands,Canary Is.
 canary islands (for orders),Canary Is. (other)
 canary islands (spain),Canary Is.
 "canary islands, cape of good hope",Canary Is. & Cape Colony (Cape of Good Hope)
+"canary islands, cape of good hope, british east indies",British East Indies & Canary Is. & Cape Colony (Cape of Good Hope)
+"canary islands, cape of good hope, british east indies, madagascar",British East Indies & Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic)
 "canary islands, cape of good hope, madagascar",Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic)
 candia,Crete
 candie,Crete
@@ -2960,10 +2963,12 @@ empire ottoman,Turkey (Ottoman Empire)
 enclave de cabinda,Cabinda (Portuguese Congo)
 enclaves (territoire de lubeck),Lübeck
 engelsch america,British America
+engelsch amerika,British America
 engelsch-amerika,British America
 engelsch-egyptische soedan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 engelsch-indië,India
 engelsche oost indische bezittingen,British East Indies
+engelsche oost-indische bezittingen,British East Indies
 engelsk-egyptisk sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 engelsk-egyptisk sudan ; etiopia ; britiske områder ; fransk somalkyst ; erytrea og ital. somalk,Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 engl-agypt sudan,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
@@ -2976,6 +2981,7 @@ english channel (for orders),English Channel
 english east indies,British East Indies
 english india,India
 english indies,India
+english indies (east),India
 englitera,United Kingdom
 ensemble,World
 ensemble des possessions danoises,Danish Colonies
@@ -3866,6 +3872,7 @@ grønland,Greenland
 grønnland,Greenland
 groot brittanje,United Kingdom
 groot-britannië,United Kingdom
+groot-brittanje,United Kingdom
 groot-brittannie,United Kingdom
 grossbritannien,United Kingdom
 großbritannien,United Kingdom
@@ -4358,6 +4365,7 @@ independent somali ports,Independent Somali Ports
 indes,India
 indes (comptoirs hollandais),Indonesia (Dutch East Indies)
 indes anglaises,India
+indes anglaises (orientales),India
 indes anglaises et straits s,India & Straits Settlements
 indes anglaises et straits settlements,India & Straits Settlements
 "indes anglaises, australie, birmanie, hong kong, singapour",Australia & Hong Kong & India & Myanmar (Burma) & Singapore
@@ -6172,6 +6180,7 @@ ooestenrijk,Austria
 oostenrijk,Austria
 oostenrijk-hongarije,Austria-Hungary (Austrian Empire)
 "oostenrijk, hongarije en tshechoslowakije",Austria & Czechoslovakia & Hungary
+oostkust van afrika,Eastern Africa
 opobo,Opobo
 oporto,Porto
 optional,***NA
@@ -7308,6 +7317,7 @@ provisions de bord,***NA
 provv. bordo bast. est.,***NA
 provviste di bordo,***NA
 pruisen,Prussia
+pruissen,Prussia
 prusia,Prussia
 prusse,Prussia
 prusse (association commerciale allemande),Prussia
@@ -9360,6 +9370,7 @@ venise,Republic of St. Mark
 ver. staten van-amerika,United States of America
 verawel,Veraval
 vereenigde staten van noord amerika,United States of America
+vereenigde staten van noord-amerika,United States of America
 verein. st. v. amerika,United States of America
 verein. st. von amerika,United States of America
 vereinigte staaten von amerika,United States of America
@@ -9612,21 +9623,15 @@ zwitserland,Switzerland
 nederlanden,Netherlands
 napels en sicilië,Naples & Sicily
 oostenrijk (empire),Austria-Hungary (Austrian Empire)
-pruissen,Prussia
 rusland (oost en witte zee),Russia (Baltic Sea) & Russia (White Sea)
 rusland (zwarte zee),Russia (Black Sea)
 sardinië,Sardinia
 nederlandsche oost indische bezittingen,Indonesia (Dutch East Indies)
-barbarijsche staten,Barbary Coast
-engelsch amerika,British America
 californië,California (Great Bear Republic)
-portugal,Portugal
 pruissen (en hanover),Hanover & Prussia
 britsch guiana,Guyana (British Guiana)
 st christopher-nevis,St. Kitts-Nevis
-st kitts,St. Kitts
 st christopher,St. Kitts
-saba,Saba
 sombrero,Sombrero
 statia,Sint Eustatius
 unreadable,***NA
@@ -9637,14 +9642,12 @@ st. martin (french),St. Martin
 st. johns,St. John
 flensburg,Flensburg
 testigos (island),Los Testigos Is.
-st. croix,St. Croix
 margarritta (island),Margarita I.
 penang & malacca,Malacca & Penang
 singapore & malacca,Malacca & Singapore
 borneo (proper),Borneo
 malayan peninsula,Malaysia (British Malaya)
 singapore & penang,Penang & Singapore
-sumatra,Sumatra
 west malay peninsula,Malaysia (British Malaya) (West)
 french cochin-china & french india,Cochin China & French India
 east malay peninsula,Malaysia (British Malaya) (East)
@@ -9672,27 +9675,16 @@ singora,Singora
 tringannu,Trengganu
 achinese ports,Aceh
 christmas & cocos islands,Christmas I. & Cocos (Keeling) Is.
-ceylon,Sri Lanka (Ceylon)
-kedah,Kedah
-hongkong,Hong Kong
-rhio,Riau
 netherlands archipelago,Indonesia (Dutch East Indies) (other)
-australia,Australia
 acheen (achinese ports),Aceh
-java,Java
 natunas and anambas islands,Anambas Is. & Natuna
-riow and lingga archipelago,Lingga I. & Riau
+riow and lingga archipelago,Lingga Is. & Riau
 sumatra (east coast),Sumatra (East)
 sumatra (west coast),Sumatra (West)
 siam (east coast),Thailand (Siam) (East)
 siam (west coast),Thailand (Siam) (West)
 moluccas,Maluku (Mollucas)
-japan,Japan
 sulu and philippines,Philippines & Sulu Sultanate
-other dutch islands,Indonesia (Dutch East Indies) (other)
-other foreign countries,World (other)
-bali and lombok,Bali & Lombok
-french india,French India
 other south american ports,Southern America (other)
 colony of tobago,Tobago
 saint martin (danish west indies),St. Martin
@@ -9706,7 +9698,6 @@ all other countries of asia,Asia (other)
 other countries of south america,Southern America (other)
 other countries of europe,Europe (other)
 other countries of north america,Northern America (other)
-venezuela,Venezuela
 other countries of asia,Asia (other)
 canary isles,Canary Is.
 havanna,Havana
@@ -9719,7 +9710,6 @@ spanish and spanish west indies,Spain & Spanish West Indies
 spanish and spanish colonies not in spanish west indies,Spain & Spanish Colonies (other)
 colony of turks and caicos islands,Turks and Caicos Is.
 british north amercia,British Northern America
-united states,United States of America
 dereliet,***NA
 (seizure ?),***NA
 south america (other),Southern America (other)

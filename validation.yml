@@ -1,5 +1,5 @@
 version: 4.40.8
-time: 72.878
+time: 68.84
 errors: []
 tasks:
   - resource:
@@ -81,11 +81,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: c31457c53900895689a8014d7346413a
-        bytes: 1039895
+        hash: ab5b1d6626d0d5f60fd0be2e2fabae56
+        bytes: 1069062
         fields: 14
-        rows: 5312
-    time: 0.223
+        rows: 5488
+    time: 0.168
     scope:
       - hash-count-error
       - byte-count-error
@@ -178,11 +178,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 587634683f946f2f7dd3e21407917d40
-        bytes: 139597
+        hash: 9d367ddbdd4fd868ac16e9e29bf472c6
+        bytes: 140709
         fields: 6
-        rows: 2275
-    time: 0.1
+        rows: 2303
+    time: 0.085
     scope:
       - hash-count-error
       - byte-count-error
@@ -238,11 +238,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 724441db7030d290859a628211620850
-        bytes: 429388
+        hash: e6553e4e582f7e6503b3c15facddfb15
+        bytes: 423475
         fields: 2
-        rows: 9621
-    time: 0.265
+        rows: 9715
+    time: 0.199
     scope:
       - hash-count-error
       - byte-count-error
@@ -301,11 +301,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 6d0162599de4051b470c5729b6238524
-        bytes: 131339
+        hash: d577608c8909f1e901a76f9ebb5071c9
+        bytes: 131530
         fields: 3
-        rows: 2016
-    time: 0.086
+        rows: 2033
+    time: 0.077
     scope:
       - hash-count-error
       - byte-count-error
@@ -367,7 +367,7 @@ tasks:
         bytes: 905645
         fields: 5
         rows: 7750
-    time: 0.238
+    time: 0.232
     scope:
       - hash-count-error
       - byte-count-error
@@ -427,11 +427,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 094e36988938d36f48c8b2838840c5ff
-        bytes: 1572364
+        hash: 1b5048618608147940fd80782295df23
+        bytes: 1583520
         fields: 4
-        rows: 36965
-    time: 0.887
+        rows: 37184
+    time: 0.771
     scope:
       - hash-count-error
       - byte-count-error
@@ -497,10 +497,10 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 8e7de8ecd8457c92681cdc541e85ac4b
-        bytes: 3305
+        hash: 7bf35f8df3cbe04a1d810b8f4f34e84e
+        bytes: 3354
         fields: 4
-        rows: 114
+        rows: 115
     time: 0.007
     scope:
       - hash-count-error
@@ -4329,14 +4329,135 @@ tasks:
         - data/flows/ColonyOfTheVirginIslandsBlueBook_1843.csv
         - data/flows/ColonyOfTheVirginIslandsBlueBook_1839.csv
         - data/flows/ColonyOfTheVirginIslandsBlueBook_1841.csv
+        - data/flows/StatistiekVanDenHandelEnDeScheepvaartVanHetKoningrijkDerNederlanden_1860.csv
+        - data/flows/StatistiekVanDenHandelEnDeScheepvaartVanHetKoningrijkDerNederlanden_1862.csv
+        - data/flows/StatistiekVanDenHandelEnDeScheepvaartVanHetKoningrijkDerNederlanden_1864.csv
+        - data/flows/StatistiekVanDenHandelEnDeScheepvaartVanHetKoningrijkDerNederlanden_1866.csv
+        - data/flows/StatistiekVanDenHandelEnDeScheepvaartVanHetKoningrijkDerNederlanden_1868_Vol2.csv
+        - data/flows/StatistiekVanDenHandelEnDeScheepvaartVanHetKoningrijkDerNederlanden_1869_Vol2.csv
+        - data/flows/ColonyOfStChristopherNevisAndAnguillaBlueBook_1886.csv
+        - data/flows/ColonyOfStChristopherNevisAndAnguillaBlueBook_1885.csv
+        - data/flows/ColonyOfStChristopherNevisAndAnguillaBlueBook_1884.csv
+        - data/flows/ColonyOfStKittsNevisBlueBook_1883.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1882.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1881.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1880.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1879.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1878.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1870.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1869.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1868.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1867.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1864.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1863.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1862.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1861.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1860.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1859.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1857.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1856.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1855.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1853.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1851.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1849.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1847.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1846.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1844.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1842.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1840.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1839.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1833.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1829.csv
+        - data/flows/ColonyOfStChristopherBlueBook_1828.csv
+        - data/flows/StraitsSettlementsBlueBook_1872.csv
+        - data/flows/StraitsSettlementsBlueBook_1873.csv
+        - data/flows/StraitsSettlementsBlueBook_1875.csv
+        - data/flows/StraitsSettlementsBlueBook_1876.csv
+        - data/flows/StraitsSettlementsBlueBook_1877.csv
+        - data/flows/StraitsSettlementsBlueBook_1881.csv
+        - data/flows/StraitsSettlementsBlueBook_1888.csv
+        - data/flows/StraitsSettlementsBlueBook_1904.csv
+        - data/flows/StraitsSettlementsBlueBook_1907.csv
+        - data/flows/StraitsSettlementsBlueBook_1908.csv
+        - data/flows/StraitsSettlementsBlueBook_1910.csv
+        - data/flows/StraitsSettlementsBlueBook_1912.csv
+        - data/flows/StraitsSettlementsBlueBook_1915.csv
+        - data/flows/StraitsSettlementsBlueBook_1917.csv
+        - data/flows/StraitsSettlementsBlueBook_1920.csv
+        - data/flows/StraitsSettlementsBlueBook_1921.csv
+        - data/flows/StraitsSettlementsBlueBook_1922.csv
+        - data/flows/StraitsSettlementsBlueBook_1924.csv
+        - data/flows/StraitsSettlementsBlueBook_1925.csv
+        - data/flows/StraitsSettlementsBlueBook_1926.csv
+        - data/flows/ColonyOfTobagoBlueBook_1888.csv
+        - data/flows/ColonyOfTobagoBlueBook_1886.csv
+        - data/flows/ColonyOfTobagoBlueBook_1885.csv
+        - data/flows/ColonyOfTobagoBlueBook_1884.csv
+        - data/flows/ColonyOfTobagoBlueBook_1883.csv
+        - data/flows/ColonyOfTobagoBlueBook_1882.csv
+        - data/flows/ColonyOfTobagoBlueBook_1881.csv
+        - data/flows/ColonyOfTobagoBlueBook_1880.csv
+        - data/flows/ColonyOfTobagoBlueBook_1879.csv
+        - data/flows/ColonyOfTobagoBlueBook_1878.csv
+        - data/flows/ColonyOfTobagoBlueBook_1876.csv
+        - data/flows/ColonyOfTobagoBlueBook_1845.csv
+        - data/flows/ColonyOfTobagoBlueBook_1843.csv
+        - data/flows/ColonyOfTobagoBlueBook_1841.csv
+        - data/flows/ColonyOfTobagoBlueBook_1840.csv
+        - data/flows/ColonyOfTobagoBlueBook_1839.csv
+        - data/flows/ColonyOfTobagoBlueBook_1838.csv
+        - data/flows/ColonyOfTobagoBlueBook_1837.csv
+        - data/flows/ColonyOfTobagoBlueBook_1836.csv
+        - data/flows/ColonyOfTobagoBlueBook_1833.csv
+        - data/flows/ColonyOfTobagoBlueBook_1832.csv
+        - data/flows/ColonyOfTobagoBlueBook_1831.csv
+        - data/flows/ColonyOfTobagoBlueBook_1830.csv
+        - data/flows/ColonyOfTobagoBlueBook_1829.csv
+        - data/flows/ColonyOfTobagoBlueBook_1828.csv
+        - data/flows/ColonyOfTobagoBlueBook_1824.csv
+        - data/flows/TrinidadBlueBook_1888.csv
+        - data/flows/TrinidadBlueBook_1887.csv
+        - data/flows/TrinidadBlueBook_1886.csv
+        - data/flows/TrinidadBlueBook_1885.csv
+        - data/flows/TrinidadBlueBook_1884.csv
+        - data/flows/TrinidadBlueBook_1883.csv
+        - data/flows/TrinidadBlueBook_1882.csv
+        - data/flows/TrinidadBlueBook_1881.csv
+        - data/flows/TrinidadBlueBook_1880.csv
+        - data/flows/TrinidadBlueBook_1879.csv
+        - data/flows/TrinidadBlueBook_1878.csv
+        - data/flows/TrinidadBlueBook_1877.csv
+        - data/flows/TrinidadBlueBook_1876.csv
+        - data/flows/TrinidadBlueBook_1875.csv
+        - data/flows/TrinidadBlueBook_1874.csv
+        - data/flows/TrinidadBlueBook_1873.csv
+        - data/flows/TrinidadAndTobagoBlueBook_191415.csv
+        - data/flows/TrinidadAndTobagoBlueBook_191112.csv
+        - data/flows/TrinidadAndTobagoBlueBook_190809.csv
+        - data/flows/TrinidadAndTobagoBlueBook_190506.csv
+        - data/flows/TrinidadAndTobagoBlueBook_190304.csv
+        - data/flows/TrinidadAndTobagoBlueBook_190102.csv
+        - data/flows/TrinidadAndTobagoBlueBook_1890.csv
+        - data/flows/TrinidadAndTobagoBlueBook_1889.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1891.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1890.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1889.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1886.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1885.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1883.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1882.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1881.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1880.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1879.csv
+        - data/flows/ColonyOfTurksAndCaicosBlueBook_1878.csv
       scheme: multipart
       hashing: md5
       stats:
-        hash: 7e15e2a2d2bdd64da8cd1d814b8f8ccb
-        bytes: 88736848
+        hash: d4e885592daf638d5a73b5221e3778a2
+        bytes: 89767227
         fields: 15
-        rows: 645630
-    time: 70.538
+        rows: 655941
+    time: 66.96
     scope:
       - hash-count-error
       - byte-count-error
