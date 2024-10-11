@@ -118,6 +118,8 @@ American West Indies,colonial_area,America,,,United States of America
 Amirante Is.,GPH_entity,Africa,5921,,
 Amirante Is. & Mauritius & Seychelles,group,Africa,,,
 Amsterdam,locality,Europe,,Amsterdam,Netherlands
+Anambas Is.,locality,Asia,,,Riau
+Anambas Is. & Natuna,group,Asia,,,
 Ancona,GPH_entity,Europe,3271,Ancona,
 Andaman Is.,GPH_entity,Asia,7501,AndamanIs,
 Andorra,GPH_entity,Europe,232,Andorra,
@@ -134,6 +136,7 @@ Annam,GPH_entity,Asia,8152,,
 Annam & Cambodia (Kampuchea) & Cochin China & French China & Tonkin,group,Asia,,,
 Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,group,Asia,,,
 Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_Tonkin,
+Annam & Cambodia (Kampuchea) & Laos & Tonkin,group,Asia,,,
 Annam & Cochin China & Tonkin,group,Asia,,Annam_CochinChina_Tonkin,
 Annapolis,locality,America,,,Nova Scotia
 Annobon I.,GPH_entity,Africa,4111,,
@@ -645,6 +648,7 @@ Civitavecchia,locality,Europe,,Civitavecchia,Papal States
 Clarke Is.,locality,Oceania,,,New South Wales
 Clipperton I.,GPH_entity,America,9610,ClippertonI.,
 Cochin China,GPH_entity,Asia,8151,CochinChina,
+Cochin China & French India,group,Asia,,,
 Cochin China & Java & Philippines & Thailand (Siam),group,Asia,,CochinChina_IndonesiaDutchEastIndies_Philippines_ThailandSiam,
 Cochin China & Macao & People's Republic of China (China),group,Asia,,CochinChina_Macao_PeoplesRepublicofChinaChina,
 Cochin China & Oceania & People's Republic of China (China),group,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina,
@@ -942,6 +946,7 @@ Fiume & Italy,group,Europe,,,
 Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,group,Europe,,Fiume_KingdomofSardinia_Milan_PapalStates_RepublicofSt.Mark_Tuscany_TwoSicilies,
 Fiume & Republic of St. Mark & Trieste,group,Europe,,Fiume_RepublicofStMark_Trieste,
 Fiume & Trieste,group,Europe,,Fiume_Trieste,
+Flensburg,locality,Europe,,,Schleswig
 Florida,GPH_entity,America,1008,,
 Forçados River,locality,Africa,,,Nigeria
 Fort St. George,locality,Asia,,FortSt.George,India
@@ -1158,6 +1163,7 @@ Hanover & Mecklenburg Schwerin,group,Europe,,,
 Hanover & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hanover_MecklenburgSchwerin_Oldenburg,
 Hanover & Mecklenburg Schwerin & Prussia,group,Europe,,Hanover_MecklenburgSchwerin_Prussia,
 Hanover & Oldenburg,group,Europe,,Hanover_Oldenburg,
+Hanover & Prussia,group,Europe,,,
 Hanse Towns,geographical_area,Europe,,Hamburg_HanseTownsBremen_L�beck,
 Hanse Towns (other),locality,Europe,,,Hanse Towns
 Hanse Towns & Mecklenburg Schwerin & Oldenburg,group,Europe,,,
@@ -1383,6 +1389,7 @@ Laccadive Islands,locality,Asia,,,India
 Lacepede Is.,locality,Oceania,,,Western Australia
 Lagos,GPH_entity,Africa,4781,Lagos,
 Lagos (French produce),locality,Africa,,,Lagos
+Laos,GPH_entity,Asia,812,,
 Larnaca,locality,Europe,,Larnaca,Turkey (Ottoman Empire)
 Las Palmas,locality,Africa,,CanaryIs,Canary Is.
 Latakia (Alaouites),GPH_entity,Asia,6526,,
@@ -1409,6 +1416,8 @@ Libya,GPH_entity,Africa,620,LibyaTripolitaniaCyrenaicaFezzan,
 Libya & Tunisia (Regency of Tunis),group,Africa,,,
 Liechtenstein,GPH_entity,Europe,223,,
 Liepãja,locality,Europe,,Liep�ja,Latvia
+Lingga Is.,locality,Asia,,,Riau
+Lingga Is. & Riau,group,Asia,,,
 Lisbon,locality,Europe,,Lisbon,Portugal
 Lisbon & Porto,group,Europe,,Lisbon_Porto,
 Lithuania,GPH_entity,Europe,368,Lithuania,
@@ -1425,6 +1434,7 @@ London,locality,Europe,,London,United Kingdom
 Long I.,locality,Africa,,,Seychelles
 Loos Is.,GPH_entity,Africa,4383,,
 Lord Howe I.,GPH_entity,Oceania,9007,,
+Los Testigos Is.,locality,America,,,Venezuela
 Louisiana,GPH_entity,America,1013,,
 Loyalty Is.,locality,Oceania,,,New Caledonia and Dependencies
 Luanda,locality,Africa,,,Angola
@@ -1468,6 +1478,7 @@ Malacca,GPH_entity,Asia,8271,Malacca,
 Malacca & Myanmar (Burma) & Singapore,group,Asia,,Malacca_MyanmarBurma_Singapore,
 Malacca & Penang,group,Asia,,Malacca_Penang,
 Malacca & Penang & Singapore,group,Asia,,Malacca_Penang_Singapore,
+Malacca & Singapore,group,Asia,,,
 Málaga,locality,Europe,,M�laga,Spain
 Malawi (Nyasaland) (British Central Africa Protectorate),GPH_entity,Africa,553,MalawiNyasalandBritishCentralAfricaProtectorate,
 Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,group,World,,MalawiNyasalandBritishCentralAfricaProtectorate_StraitsSettlements_StraitsSettlementsDependencies,
@@ -1501,6 +1512,7 @@ Manila,locality,Asia,,Manila,Philippines
 Manitoba,GPH_entity,America,10204,Manitoba,
 Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,group,America,,Manitoba_NorthwestTerritories_OntarioUpperCanada_QuebecLowerCanada_RupertsLand,
 Manitoba & Northwest Territories & Ontario (Upper Canada) & Quebec (Lower Canada),group,America,,,
+Manjung (Dindings),GPH_entity,Asia,8218,,
 Maputo,locality,Africa,,,Mozambique (Portuguese East Africa)
 Maputo Bay (Delagoa Bay),locality,Africa,,MaputoBayDelagoaBay,Mozambique (Portuguese East Africa)
 Maranhão,locality,America,,Maranh�o,Brazil
@@ -1609,6 +1621,7 @@ Namibia (South West Africa) (German South West Africa) & South Africa,group,Afri
 Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
 Nantes,locality,Europe,,Nantes,France
 Naples,locality,Europe,,Naples,Two Sicilies
+Naples & Sicily,group,Europe,,,
 Nassau (Bahamas),locality,America,,Nassau,Bahamas
 Natal,GPH_entity,Africa,562,Natal,
 Natuna,locality,Asia,,NatunaIslands,Riau
@@ -1617,6 +1630,7 @@ Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),group,Oceania,,Nauru_
 Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,Nauru_SamoaWesternSamoaGermanSamoa,
 Navassa I.,GPH_entity,America,1044,,
 Negeri Sembilan,GPH_entity,Asia,8210,NegeriSembilan,
+Negeri Sembilan & Rembau,group,Asia,,,
 Nepal,GPH_entity,Asia,790,,
 Netherlands,GPH_entity,Europe,210,Netherlands,
 Netherlands (other),locality,Europe,,,Netherlands
@@ -1748,6 +1762,7 @@ Parma & Piacenza & World (other),group,World,,Othercountries_Parma_Piacenza,
 Patagonia,locality,America,,Patagonia,Chile
 Patagonia (Atlantic Coast),locality,America,,ArgentinaLaPlata,Argentina (La Plata)
 Patagonia (Pacific Coast),locality,America,,,Chile
+Patani,GPH_entity,Asia,8002,,
 Patras,locality,Europe,,Patras,Greece
 Patras & Pylos,group,Europe,,Patras_Pylos,
 Pays de Gex,locality,Europe,,,France
@@ -1757,6 +1772,7 @@ Pedro Bank,GPH_entity,America,1054,,
 Pemba Island,locality,Africa,,,Zanzibar
 Pemba Island & Zanzibar,group,Africa,,PembaIsland_Zanzibar,
 Penang,GPH_entity,Asia,8272,Penang,
+Penang & Singapore,group,Asia,,,
 Penguin Is.,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Penon de Velez,GPH_entity,Africa,6065,,
 Pensacola,locality,America,,,Florida
@@ -1769,6 +1785,7 @@ People's Republic of China (China) & East Indies & Pacific Islands,group,Asia,,,
 People's Republic of China (China) & Philippines,group,Asia,,PeoplesRepublicofChinaChina_Philippines,
 People's Republic of China (China) & Philippines & Thailand (Siam),group,Asia,,PeoplesRepublicofChinaChina_Philippines_ThailandSiam,
 Perak,GPH_entity,Asia,8201,Perak,
+Perak & Selangore,group,Asia,,,
 Perim I.,GPH_entity,Asia,6802,PerimI.,
 Perlis,GPH_entity,Asia,8224,,
 Pernambuco,locality,America,,Pernambuco,Brazil
@@ -1861,6 +1878,7 @@ Red Sea (Africa),geographical_area,Africa,,,
 Red Sea (Arabia),geographical_area,Asia,,,
 Redonda,locality,America,,,Antigua and Barbuda (Antigua)
 Redoubt Kali,locality,Europe,,RussiaUSSR,Russia (USSR)
+Rembau,GPH_entity,Asia,8212,,
 Republic of China (Taiwan) (Formosa),GPH_entity,Asia,713,RepublicofChinaTaiwanFormosa,
 Republic of St. Mark,GPH_entity,Europe,3261,RepublicofSt.Mark,
 Republic of St. Mark & Trieste,group,Europe,,RepublicofSt.Mark_Trieste,
@@ -1919,6 +1937,7 @@ Safi,locality,Africa,,,Morocco
 Sahara,geographical_area,Africa,,,
 Saint John (New Brunswick),locality,America,,,New Brunswick
 Saint John River,locality,America,,SaintJohnRiver,New Brunswick
+Saint Michael,locality,America,,,Barbados
 Saint-Louis (Senegal),locality,Africa,,,Senegal
 Saint-Paul and Amsterdam,locality,Oceania,,,French and Southern Antarctic Territories (F.S.A.T.)
 Salaga,locality,Africa,,,Ghana (Gold Coast)
@@ -1965,6 +1984,7 @@ Senegal & Senegal Dependencies,group,Africa,,,
 Senegal Dependencies,locality,Africa,,,Senegal
 Senegambia,geographical_area,Africa,,,
 Serampore,locality,Asia,,,India
+Seremban (Songei Ujong),GPH_entity,Asia,8211,,
 Serrana Bank,GPH_entity,America,1103,,
 Setté Cama,locality,Africa,,,Gabon
 Setúbal,locality,Europe,,Set�bal,Portugal
@@ -1983,6 +2003,7 @@ Sikkim,GPH_entity,Asia,761,,
 Sindh,GPH_entity,Asia,7693,Sindh,
 Singapore,GPH_entity,Asia,830,Singapore,
 Singapore & Straits Settlements,group,Asia,,Singapore_StraitsSettlements,
+Singora,locality,Asia,,,Thailand (Siam)
 Sint Eustatius,GPH_entity,America,1068,,
 Sint Maarten,GPH_entity,America,1073,,
 Sitka (Arkhangelsk),locality,Europe,,RussiaUSSR,Alaska
@@ -1992,6 +2013,7 @@ Sofala Province,locality,Africa,,,Mozambique (Portuguese East Africa)
 Solomon Islands (British Solomon Islands Protectorate),GPH_entity,Oceania,940,SolomonIslandsBritishSolomonIslandsProtectorate,
 Somalia,GPH_entity,Africa,520,Somalia,
 Somaliland Republic (British Somaliland),GPH_entity,Africa,521,SomalilandRepublicBritishSomaliland,
+Sombrero,locality,America,,,Anguilla
 Sonmiani,locality,Asia,,,Pakistan
 South Africa,GPH_entity,Africa,560,SouthAfrica,
 South Africa (other),locality,Africa,,,South Africa
@@ -2025,6 +2047,7 @@ Spain (Mediterranean Coast),locality,Europe,,,Spain
 Spain (Spanish flag),locality,Europe,,SpainSpanishflag,Spain
 Spain & Italy & Europe (other),group,Europe,,Spain_Italy_Europeother,
 Spain & Spanish Colonies,group,World,,Spain_SpanishColonies,
+Spain & Spanish Colonies (other),group,World,,,
 Spain & Spanish West Indies,group,World,,,
 Spanish Africa,colonial_area,Africa,,SpanishAfrica,Spain
 Spanish Africa (other),locality,Africa,,,Spanish Africa
@@ -2081,6 +2104,8 @@ Suez Canal Zone,GPH_entity,Africa,6514,SuezCanalZone,
 Sulawesi (Celebes),locality,Asia,,SulawesiCelebes,Indonesia (Dutch East Indies)
 Sulu Sultanate,GPH_entity,Asia,8401,SuluSultanate,
 Sumatra,locality,Asia,,Sumatra,Indonesia (Dutch East Indies)
+Sumatra (East),locality,Asia,,,Sumatra
+Sumatra (West),locality,Asia,,,Sumatra
 Sumbawa,locality,Asia,,,Indonesia (Dutch East Indies)
 Sund,locality,Europe,,Sund,Denmark
 Sunda Islands,geographical_area,Asia,,SundaIslands,
@@ -2126,6 +2151,8 @@ Ternate,GPH_entity,Asia,8560,Ternate,
 Tetuan,GPH_entity,Africa,6030,Tetuan,
 Texas,GPH_entity,America,7,Texas,
 Thailand (Siam),GPH_entity,Asia,800,ThailandSiam,
+Thailand (Siam) (East),locality,Asia,,,Thailand (Siam)
+Thailand (Siam) (West),locality,Asia,,,Thailand (Siam)
 Thalassery,locality,Asia,,,India
 Thessaloniki,locality,Europe,,Thessaloniki,Greece
 Thoothukudi (Tuticorin),locality,Asia,,ThoothukudiTuticorin,India
@@ -2172,6 +2199,7 @@ Two Sicilies,GPH_entity,Europe,329,TwoSicilies,
 U. S. Pacific Trust Territories (South Seas Mandate),GPH_entity,Oceania,980,,
 Uganda,GPH_entity,Africa,500,Uganda,
 Ukraine,GPH_entity,Europe,369,,
+Ulu Muar,GPH_entity,Asia,8214,,
 Union Island,locality,America,,,St. Vincent and the Grenadines
 United Arab Emirates (Trucial Oman),GPH_entity,Asia,696,,
 United Kingdom,GPH_entity,Europe,200,UnitedKingdom,
@@ -2274,31 +2302,3 @@ Zeila,locality,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
 Zululand,GPH_entity,Africa,5621,,
-Naples & Sicily,group,Europe,,,
-Hanover & Prussia,group,Europe,,,
-Sombrero,locality,America,,,Anguilla
-Flensburg,locality,Europe,,,Schleswig
-Los Testigos Is.,locality,America,,,Venezuela
-Malacca & Singapore,group,Asia,,,
-Penang & Singapore,group,Asia,,,
-Cochin China & French India,group,Asia,,,
-Thailand (Siam) (West),locality,Asia,,,Thailand (Siam)
-Perak & Selangore,group,Asia,,,
-Ulu Muar,GPH_entity,Asia,8214,,
-Seremban (Songei Ujong),GPH_entity,Asia,8211,,
-Rembau,GPH_entity,Asia,8212,,
-Manjung (Dindings),GPH_entity,Asia,8218,,
-Negeri Sembilan & Rembau,group,Asia,,,
-Annam & Cambodia (Kampuchea) & Laos & Tonkin,group,Asia,,,
-Patani,GPH_entity,Asia,8219,,
-Singora,locality,Asia,,,Thailand (Siam)
-Anambas Is. & Natuna,group,Asia,,,
-Lingga Is. & Riau,group,Asia,,,
-Sumatra (East),locality,Asia,,,Sumatra
-Sumatra (West),locality,Asia,,,Sumatra
-Thailand (Siam) (East),locality,Asia,,,Thailand (Siam)
-Spain & Spanish Colonies (other),group,World,,,
-Saint Michael,locality,America,,,Barbados
-Lingga Is.,locality,Asia,,,Riau
-Laos,GPH_entity,Asia,812,,
-Anambas Is.,locality,Asia,,,Riau
