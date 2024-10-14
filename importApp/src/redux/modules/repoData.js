@@ -2,8 +2,8 @@ import { get, post } from "axios";
 import {
   apiUri,
   branchUri,
-  referenceUri,
   owner,
+  referenceUri,
   repoName,
   repoRawContent,
 } from "../../config/default";
@@ -14,8 +14,8 @@ import Octokat from "octokat";
 import { Base64 } from "js-base64";
 import { unparse } from "papaparse";
 
-import { INIT_TABLES } from "./referenceTables";
 import { csvParse } from "d3-dsv";
+import { INIT_TABLES } from "./referenceTables";
 
 export const FETCH_TABLE_REQUEST = "FETCH_TABLE_REQUEST";
 export const FETCH_TABLE_SUCCESS = "FETCH_TABLE_SUCCESS";
@@ -58,7 +58,7 @@ export const fetchBranches = (payload) => (dispatch) => {
     type: FETCH_BRANCHES_REQUEST,
     payload,
   });
-  return get(branchUri)
+  return get(`${branchUri}?cb=${Date.now()}`)
     .then((res) => {
       return dispatch({
         type: FETCH_BRANCHES_SUCCESS,
@@ -83,7 +83,7 @@ export const fetchTable = (payload) => (dispatch) => {
     type: FETCH_TABLE_REQUEST,
     payload,
   });
-  return get(`${apiUri}/${table.path}?ref=${branch}`)
+  return get(`${apiUri}/${table.path}?ref=${branch}?cb=${Date.now()}`)
     .then((res) =>
       dispatch({
         type: FETCH_TABLE_SUCCESS,
@@ -109,7 +109,7 @@ export const fetchAllTables = (payload) => (dispatch) => {
     type: FETCH_DATAPACKAGE_REQUEST,
   });
   try {
-    get(`${repoRawContent}/${branch}/datapackage.json`, {
+    get(`${repoRawContent}/${branch}/datapackage.json?cb=${Date.now()}`, {
       responseType: "json",
       responseEncoding: "utf8",
     }).then((res) => {
@@ -127,10 +127,14 @@ export const fetchAllTables = (payload) => (dispatch) => {
       });
       Promise.all(
         tablesList.map((table) => {
-          return get(`${repoRawContent}/${branch}/${table.path}`, {
-            responseType: "text",
-            responseEncoding: "utf8",
-          }).then((res) => {
+          return get(
+            //cb param is a cachebuster: we always want last versions
+            `${repoRawContent}/${branch}/${table.path}?cb=${Date.now()}`,
+            {
+              responseType: "text",
+              responseEncoding: "utf8",
+            }
+          ).then((res) => {
             return { ...table, data: res.data };
           });
         })
@@ -194,7 +198,7 @@ export const updateRemoteFiles = (payload) => (dispatch) => {
           });
           try {
             const exists = await get(
-              `${repoRawContent}/${branch}/${file.filePath}`,
+              `${repoRawContent}/${branch}/${file.filePath}?cb=${Date.now()}`,
               { responseType: "text", responseEncoding: "utf8" }
             );
             if (exists.status === 200) {
