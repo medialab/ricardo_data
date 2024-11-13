@@ -837,9 +837,9 @@ id,RICname_group,RICname_part
 836,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 837,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,French Africa (other)
 838,Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,Senegal
-839,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
-840,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,French West Africa (other)
-841,Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,Senegal
+839,Congo (Brazzaville) (French Congo) (Middle Congo) & French Western Africa (other) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
+840,Congo (Brazzaville) (French Congo) (Middle Congo) & French Western Africa (other) & Senegal,French Western Africa (other)
+841,Congo (Brazzaville) (French Congo) (Middle Congo) & French Western Africa (other) & Senegal,Senegal
 842,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Congo (Brazzaville) (French Congo) (Middle Congo)
 843,Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,Senegal
 844,Congress Poland & Cracow (Free City of Cracow),Congress Poland
@@ -1244,8 +1244,8 @@ id,RICname_group,RICname_part
 1243,French Indochina & Thailand (Siam),Thailand (Siam)
 1244,French Oceania (other) & New Caledonia,French Oceania (other)
 1245,French Oceania (other) & New Caledonia,New Caledonia
-1246,French West Africa & Senegal,French West Africa
-1247,French West Africa & Senegal,Senegal
+1246,French Western Africa & Senegal,French Western Africa
+1247,French Western Africa & Senegal,Senegal
 1248,French West Africa & Togo (French Togoland),French West Africa
 1249,French West Africa & Togo (French Togoland),Togo (French Togoland)
 1250,French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),French West Indies

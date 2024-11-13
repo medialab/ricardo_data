@@ -2219,8 +2219,8 @@ colonies françaises (sauf algérie),French Colonies (other)
 colonies françaises d'europe (marchandises étrangères),French Europe (Foreign produce)
 colonies françaises de l'afrique de l'est,French Eastern Africa
 colonies françaises de l'afrique de l'ouest,French West Africa
-colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French West Africa (Foreign produce)
-colonies françaises de la côte occidentale d'afrique (marchandises françaises),French West Africa (French produce)
+colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French Western Africa (Foreign produce)
+colonies françaises de la côte occidentale d'afrique (marchandises françaises),French Western Africa (French produce)
 colonies hollandaises,Dutch Colonies
 colonies hollandaises (autre),Dutch Colonies (other)
 colonies hollandaises en amérique,Netherlands Antilles
@@ -2305,7 +2305,7 @@ congo free states,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian C
 congo river,Unknown
 congo state,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 congo-belge,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
-"congo, sénégal et autres établissements français côte occidental d'afrique",Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal
+"congo, sénégal et autres établissements français côte occidental d'afrique",Congo (Brazzaville) (French Congo) (Middle Congo) & French Western Africa (other) & Senegal
 "congo, sénégal et autres établissements français de la côte d'afrique",Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal
 constantinople,Istanbul (Constantinople)
 constantinople et autres ports turcs,Istanbul (Constantinople) & Turkey (Ottoman Empire) (other)
@@ -2371,12 +2371,12 @@ côte occidentale d'afrique possessions anglaises,British Western Africa
 côte occidentale d'afrique possessions britaniques,British Western Africa
 côte occidentale d'afrique possessions britanniques,British Western Africa
 côte occidentale d'afrique possessions espagnoles,Spanish Western Africa
-côte occidentale d'afrique possessions françaises,French West Africa
+côte occidentale d'afrique possessions françaises,French Western Africa
 côte occidentale d'afrique possessions portugaises,Portuguese Western Africa
 côte occidentale d'afrique-possessions allemandes,German Western Africa
 côte occidentale d'afrique-possessions britanniques,British Western Africa
 côte occidentale d'afrique-possessions espagnoles,Spanish Western Africa
-côte occidentale d'afrique-possessions françaises,French West Africa
+côte occidentale d'afrique-possessions françaises,French Western Africa
 côte occidentale d'afrique-possessions portugaises,Portuguese Western Africa
 côte occidentale de la péninsule,Malaysia (British Malaya) (West)
 côte ocidentale malaise,Malaysia (British Malaya) (West)
@@ -3121,7 +3121,7 @@ etablissements français dans l'océanie,French Polynesia
 etablissements français dans le golfe de guinée,Assinie & Grand-Bassam
 etablissements français de l'océanie,French Polynesia
 etablissements français de la côte des somalis,Djibouti (Afar and Issas) (French Somaliland)
-etablissements français de la côte occidentale d'afrique,French West Africa
+etablissements français de la côte occidentale d'afrique,French Western Africa
 etablissements français du golfe de guinée,Assinie & Grand-Bassam
 etablissements français du golfe guinée,Assinie & Grand-Bassam
 etablissements français en océanie,French Polynesia
@@ -7934,8 +7934,8 @@ senegal (st. louis),Saint-Louis (Senegal)
 senegal and west coast of africa (excluding french congo),French West Africa & Senegal
 sénégal et dépendances,Senegal & Senegal Dependencies
 sénégal et établissement français du golfe de guinée,Assinie & Grand-Bassam & Senegal
-senégal et établissements français de la côte occidentale d'afrique,French West Africa & Senegal
-sénégal et etablissements français de la côte occidentale d'afrique,French West Africa & Senegal
+senégal et établissements français de la côte occidentale d'afrique,French Western Africa & Senegal
+sénégal et etablissements français de la côte occidentale d'afrique,French Western Africa & Senegal
 "senegal, dakar",Dakar
 "senegal, goree",Goree
 "sénégal, haut-sénégal, niger",Mali (French Sudan) (Upper Senegal and Niger) & Senegal
@@ -9717,3 +9717,4 @@ cork,Cork
 cochin-china (annam),Annam
 "andra länder, utan närmare uppgift & öfriga verldsdelar",World (other)
 autres parties du monde et autres pays non spécifiés,World (other)
+"guatémala, costa rica, honduras, san salvador, nicaragua et panama",Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua & Panama

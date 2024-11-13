@@ -674,7 +674,7 @@ Comoros & Madagascar (Malagasy Republic),group,Africa,,,
 Conakry,locality,Africa,,,Guinea (French Guinea) (Rivieres du Sud)
 Congo (Brazzaville) (French Congo) (Middle Congo),GPH_entity,Africa,484,CongoBrazzavilleFrenchCongoMiddleCongo,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,group,Africa,,,
-Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
+Congo (Brazzaville) (French Congo) (Middle Congo) & French Western Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
 Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,group,Africa,,,
 Congress Poland,GPH_entity,Europe,2901,,
 Congress Poland & Cracow (Free City of Cracow),group,Europe,,,
@@ -1018,10 +1018,10 @@ French Polynesia,GPH_entity,Oceania,960,,
 French Southern Africa,colonial_area,Africa,,,France
 French Southern America,colonial_area,America,,,France
 French West Africa,GPH_entity,Africa,430,FrenchWestAfrica,
-French West Africa (Foreign produce),locality,Africa,,,French West Africa
-French West Africa (French produce),locality,Africa,,,French West Africa
-French West Africa (other),locality,Africa,,,French West Africa
-French West Africa & Senegal,group,Africa,,FrenchWestAfrica_Senegal,
+French Western Africa (Foreign produce),locality,Africa,,,French West Africa
+French Western Africa (French produce),locality,Africa,,,French West Africa
+French Western Africa (other),locality,Africa,,,French West Africa
+French Western Africa & Senegal,group,Africa,,FrenchWestAfrica_Senegal,
 French West Africa & Togo (French Togoland),group,Africa,,,
 French West Indies,colonial_area,America,,FrenchWestIndies,France
 French West Indies (West),colonial_area,America,,,France
@@ -2302,3 +2302,5 @@ Zeila,locality,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
 Zululand,GPH_entity,Africa,5621,,
+French Western Africa,colonial_area,Africa,,,
+Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua & Panama,group,America,,,
