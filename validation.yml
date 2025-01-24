@@ -1,5 +1,5 @@
 version: 4.40.8
-time: 68.84
+time: 115.669
 errors: []
 tasks:
   - resource:
@@ -85,7 +85,7 @@ tasks:
         bytes: 1069062
         fields: 14
         rows: 5488
-    time: 0.168
+    time: 0.294
     scope:
       - hash-count-error
       - byte-count-error
@@ -178,11 +178,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 9d367ddbdd4fd868ac16e9e29bf472c6
-        bytes: 140709
+        hash: d6881567eecccde5db02e320662fc97f
+        bytes: 140978
         fields: 6
-        rows: 2303
-    time: 0.085
+        rows: 2308
+    time: 0.161
     scope:
       - hash-count-error
       - byte-count-error
@@ -238,11 +238,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: e6553e4e582f7e6503b3c15facddfb15
-        bytes: 423475
+        hash: 6628eec7fc8e3ade7d18f16a92eafc32
+        bytes: 423915
         fields: 2
-        rows: 9715
-    time: 0.199
+        rows: 9719
+    time: 0.338
     scope:
       - hash-count-error
       - byte-count-error
@@ -263,10 +263,44 @@ tasks:
       - constraint-error
       - unique-error
     partial: false
-    errors: []
+    errors:
+      - cells:
+          - andre franske bes. i vest-afrika
+          - French West Africa (other)
+        rowNumber: 477
+        rowPosition: 478
+        code: foreign-key-error
+        name: ForeignKey Error
+        tags:
+          - '#table'
+          - '#row'
+        note: 'for "RICname": values "French West Africa (other)" not found in the
+          lookup table "ricentities" as "RICname"'
+        message: 'Row at position "478" violates the foreign key: for "RICname": values
+          "French West Africa (other)" not found in the lookup table "ricentities"
+          as "RICname"'
+        description: Values in the foreign key fields should exist in the reference
+          table
+      - cells:
+          - senegal and west coast of africa (excluding french congo)
+          - French West Africa & Senegal
+        rowNumber: 7933
+        rowPosition: 7934
+        code: foreign-key-error
+        name: ForeignKey Error
+        tags:
+          - '#table'
+          - '#row'
+        note: 'for "RICname": values "French West Africa & Senegal" not found in the
+          lookup table "ricentities" as "RICname"'
+        message: 'Row at position "7934" violates the foreign key: for "RICname":
+          values "French West Africa & Senegal" not found in the lookup table "ricentities"
+          as "RICname"'
+        description: Values in the foreign key fields should exist in the reference
+          table
     stats:
-      errors: 0
-    valid: true
+      errors: 2
+    valid: false
   - resource:
       name: ricentities_groups
       title: RICentities groups
@@ -301,11 +335,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: d577608c8909f1e901a76f9ebb5071c9
-        bytes: 131530
+        hash: 35f8835d4e14394be23e24fd0d505f23
+        bytes: 132904
         fields: 3
-        rows: 2033
-    time: 0.077
+        rows: 2049
+    time: 0.143
     scope:
       - hash-count-error
       - byte-count-error
@@ -326,10 +360,29 @@ tasks:
       - constraint-error
       - unique-error
     partial: false
-    errors: []
+    errors:
+      - cells:
+          - '642'
+          - British Western Africa & French West Africa (other) & Liberia & Spanish
+            Africa
+          - French West Africa (other)
+        rowNumber: 642
+        rowPosition: 643
+        code: foreign-key-error
+        name: ForeignKey Error
+        tags:
+          - '#table'
+          - '#row'
+        note: 'for "RICname_part": values "French West Africa (other)" not found in
+          the lookup table "ricentities" as "RICname"'
+        message: 'Row at position "643" violates the foreign key: for "RICname_part":
+          values "French West Africa (other)" not found in the lookup table "ricentities"
+          as "RICname"'
+        description: Values in the foreign key fields should exist in the reference
+          table
     stats:
-      errors: 0
-    valid: true
+      errors: 1
+    valid: false
   - resource:
       name: exchange_rates
       title: Exchange rates
@@ -367,7 +420,7 @@ tasks:
         bytes: 905645
         fields: 5
         rows: 7750
-    time: 0.232
+    time: 0.382
     scope:
       - hash-count-error
       - byte-count-error
@@ -427,11 +480,11 @@ tasks:
       scheme: file
       hashing: md5
       stats:
-        hash: 1b5048618608147940fd80782295df23
-        bytes: 1583520
+        hash: 25e2e4682722fb3ad5bfc75bcd33d0e8
+        bytes: 1583555
         fields: 4
-        rows: 37184
-    time: 0.771
+        rows: 37185
+    time: 1.284
     scope:
       - hash-count-error
       - byte-count-error
@@ -4453,11 +4506,11 @@ tasks:
       scheme: multipart
       hashing: md5
       stats:
-        hash: d4e885592daf638d5a73b5221e3778a2
-        bytes: 89767227
+        hash: e53dfd55c0e09ba0855d9ad84ca9d771
+        bytes: 89758239
         fields: 15
-        rows: 655941
-    time: 66.96
+        rows: 655884
+    time: 112.497
     scope:
       - hash-count-error
       - byte-count-error
@@ -4483,6 +4536,6 @@ tasks:
       errors: 0
     valid: true
 stats:
-  errors: 0
+  errors: 3
   tasks: 8
-valid: true
+valid: false
