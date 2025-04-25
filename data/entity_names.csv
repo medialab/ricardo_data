@@ -1811,16 +1811,16 @@ cambodge,Cambodia (Kampuchea)
 cambodia,Cambodia (Kampuchea)
 cameroon,Kamerun
 cameroons,Kamerun
-cameroun,Cameroun (French Cameroons)
-cameroun (mandat français),Cameroun (French Cameroons)
-cameroun (sous mandat français),Cameroun (French Cameroons)
-cameroun (territoire à mandat),Cameroun (French Cameroons)
+cameroun,Cameroun (French Cameroon)
+cameroun (mandat français),Cameroun (French Cameroon)
+cameroun (sous mandat français),Cameroun (French Cameroon)
+cameroun (territoire à mandat),Cameroun (French Cameroon)
 cameroun brit,British Cameroons
 cameroun britan,British Cameroons
-cameroun franc,Cameroun (French Cameroons)
-cameroun français,Cameroun (French Cameroons)
+cameroun franc,Cameroun (French Cameroon)
+cameroun français,Cameroun (French Cameroon)
 camerun,Kamerun
-camerun francès,Cameroun (French Cameroons)
+camerun francès,Cameroun (French Cameroon)
 canada,Canada (Province of Canada)
 canadá,Canada (Province of Canada)
 canadà,Canada (Province of Canada)
@@ -3453,7 +3453,7 @@ franska guinea,Guinea (French Guinea) (Rivieres du Sud)
 franska guyana,French Guiana
 franska indien,French India
 franska indokina,French Indochina
-franska kamerun,Cameroun (French Cameroons)
+franska kamerun,Cameroun (French Cameroon)
 franska marocko,Morocco
 franska niger-omradet,Niger
 franska ostafrika,French Eastern Africa
@@ -3494,8 +3494,8 @@ fremmed vestindien,West Indies (other)
 fremmed vestindien (undt. kuba og portoriko),West Indies (other)
 french africa,French Africa
 french african ports,French Africa
-french cameroons,Cameroun (French Cameroons)
-french cameroons (duala),Cameroun (French Cameroons)
+french cameroons,Cameroun (French Cameroon)
+french cameroons (duala),Cameroun (French Cameroon)
 french central america,French Central America
 french china,French China
 french cochin-china,Cochin China
@@ -3526,7 +3526,7 @@ french indo-chinese protectorates,French Indochina
 french indochina,French Indochina
 french indochina (saigon),Ho Chi Minh City
 french islands,French West Indies
-french kamerun,Cameroun (French Cameroons)
+french kamerun,Cameroun (French Cameroon)
 french leased territory,French China
 french madagascar,Madagascar (Malagasy Republic)
 french morocco,Morocco
@@ -3577,7 +3577,7 @@ french togoland (lome),Togo (French Togoland)
 french west africa,French West Africa
 french west africa (france),French West Africa
 french west africa & togo,French West Africa & Togo (French Togoland)
-french west africa and french mandated territories of togoland and cameroons,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland)
+french west africa and french mandated territories of togoland and cameroons,Cameroun (French Cameroon) & French West Africa & Togo (French Togoland)
 french west african possessions,French West Africa
 french west and equatorial africa,French Equatorial Africa & French West Africa
 french west india and st. pierre and miquelon,French West Indies & St. Pierre and Miquelon
@@ -4912,10 +4912,10 @@ kamerún,Kamerun
 kamerun & togo,German Togoland & Kamerun
 "kamerun, etc",Kamerun
 "kamerun, pod mandatem brytyjskim",British Cameroons
-"kamerun, pod mandatem francuskim",Cameroun (French Cameroons)
+"kamerun, pod mandatem francuskim",Cameroun (French Cameroon)
 "kameruna, brit mand",British Cameroons
-"kameruna, franc mand",Cameroun (French Cameroons)
-kamerunas,Cameroun (French Cameroons)
+"kameruna, franc mand",Cameroun (French Cameroon)
+kamerunas,Cameroun (French Cameroon)
 kamtchatka,Kamchatka
 kamtschatka,Kamchatka
 kanada,Canada (Province of Canada)
@@ -5335,11 +5335,11 @@ manciuria,Manchuria
 mandat. d. australien,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa)
 mandatsgebeit palästina,Palestine
 mandatsgebeit syrien-libanon,Lebanon & Syria
-mandatsgebiet deutsch kamerun,British Cameroons & Cameroun (French Cameroons)
+mandatsgebiet deutsch kamerun,British Cameroons & Cameroun (French Cameroon)
 mandatsgebiet deutsch ostafrika,Ruanda-Urundi & Tanzania (Tanganyika)
 mandatsgebiet deutsch südwestafrika,Namibia (South West Africa) (German South West Africa)
 mandatsgebiet in der südsee,New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa)
-mandatsgebiet kamerun,British Cameroons & Cameroun (French Cameroons)
+mandatsgebiet kamerun,British Cameroons & Cameroun (French Cameroon)
 mandatsgebiet togo,British Togoland & Togo (French Togoland)
 mandchoukouo,Manchukuo
 mandchourie,Manchuria
@@ -8739,7 +8739,7 @@ togo (territoire à mandat),Togo (French Togoland)
 togo et autres pays,Togo (French Togoland)
 togo et autres pays (marchandises étrangères),Togo (French Togoland)
 togo et autres pays (marchandises françaises),Togo (French Togoland) (French produce)
-togo et cameroun,Cameroun (French Cameroons) & Togo (French Togoland)
+togo et cameroun,Cameroun (French Cameroon) & Togo (French Togoland)
 "togo, francijas mandat",Togo (French Togoland)
 "togo, pod mandatem brytyjskim",British Togoland
 "togo, pod mandatem francuskim",Togo (French Togoland)

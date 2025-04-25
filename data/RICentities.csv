@@ -434,7 +434,7 @@ British Borneo & Dutch Borneo,group,Asia,,,
 British Borneo & Malaysia (British Malaya),group,Asia,,,
 British Borneo & Straits Settlements,group,Asia,,,
 British Cameroons,GPH_entity,Africa,472,BritishCameroons,
-British Cameroons & Cameroun (French Cameroons),group,Africa,,,
+British Cameroons & Cameroun (French Cameroon),group,Africa,,,
 British Cameroons & Nigeria,group,Africa,,,
 British Cameroons & Northern Nigeria (British Nigeria),group,Africa,,BritishCameroons_NorthernNigeriaBritishNigeria,
 British Central Africa,colonial_area,Africa,,,United Kingdom
@@ -535,9 +535,9 @@ Callao,locality,America,,Callao,Peru
 Cambodia (Kampuchea),GPH_entity,Asia,811,CambodiaKampuchea,
 Cambodia (Kampuchea) & Cochin China,group,Asia,,CambodiaKampuchea_CochinChina,
 Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,CambodiaKampuchea_CochinChina_Tonkin,
-Cameroun (French Cameroons),GPH_entity,Africa,471,CamerounFrenchCameroons,
-Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),group,Africa,,CamerounFrenchCameroons_FrenchWestAfrica_TogoFrenchTogoland,
-Cameroun (French Cameroons) & Togo (French Togoland),group,Africa,,,
+Cameroun (French Cameroon),GPH_entity,Africa,471,CamerounFrenchCameroons,
+Cameroun (French Cameroon) & French West Africa & Togo (French Togoland),group,Africa,,CamerounFrenchCameroons_FrenchWestAfrica_TogoFrenchTogoland,
+Cameroun (French Cameroon) & Togo (French Togoland),group,Africa,,,
 Campeche,locality,America,,,Mexico
 Canada (Atlantic Coast),locality,America,,,Canada (Province of Canada)
 Canada (Pacific Coast),locality,America,,,Canada (Province of Canada)
@@ -806,7 +806,7 @@ Dominica,GPH_entity,America,54,Dominica,
 Dominican Republic (Santo Domingo),GPH_entity,America,42,DominicanRepublicSantoDomingo,
 Dominican Republic (Santo Domingo) & Haiti,group,America,,DominicanRepublicSantoDomingo_Haiti,
 Dominican Republic (Santo Domingo) & Haiti & Puerto Rico,group,America,,,
-Douala,locality,Africa,,,Cameroun (French Cameroons)
+Douala,locality,Africa,,,Cameroun (French Cameroon)
 Dunkirk,locality,Europe,,Dunkirk,France
 Durban (Port Natal),locality,Africa,,,Natal
 Dutch Africa,colonial_area,Africa,,,Netherlands
@@ -2228,7 +2228,7 @@ Venice,locality,Europe,,,Italy
 Vera Cruz,locality,America,,VeraCruz,Mexico
 Veraval,locality,Asia,,,India
 Victoria,GPH_entity,Oceania,904,Victoria,
-Victoria (Cameroun),locality,Africa,,,Cameroun (French Cameroons)
+Victoria (Cameroun),locality,Africa,,,
 Vieques (Crab Island),locality,America,,,Puerto Rico
 Virgin Gorda,locality,America,,,British Virgin Is.
 Virgin Islands (Danish West Indies),GPH_entity,America,5,VirginIslandsDanishWestIndies,

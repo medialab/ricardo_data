@@ -577,8 +577,8 @@ id,RICname_group,RICname_part
 576,British Borneo & Malaysia (British Malaya),Malaysia (British Malaya)
 577,British Borneo & Straits Settlements,British Borneo
 578,British Borneo & Straits Settlements,Straits Settlements
-579,British Cameroons & Cameroun (French Cameroons),British Cameroons
-580,British Cameroons & Cameroun (French Cameroons),Cameroun (French Cameroons)
+579,British Cameroons & Cameroun (French Cameroon),British Cameroons
+580,British Cameroons & Cameroun (French Cameroon),Cameroun (French Cameroon)
 581,British Cameroons & Nigeria,British Cameroons
 582,British Cameroons & Nigeria,Nigeria
 583,British Cameroons & Northern Nigeria (British Nigeria),British Cameroons
@@ -678,11 +678,11 @@ id,RICname_group,RICname_part
 677,Cambodia (Kampuchea) & Cochin China & Tonkin,Cambodia (Kampuchea)
 678,Cambodia (Kampuchea) & Cochin China & Tonkin,Cochin China
 679,Cambodia (Kampuchea) & Cochin China & Tonkin,Tonkin
-680,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),Cameroun (French Cameroons)
-681,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),French West Africa
-682,Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),Togo (French Togoland)
-683,Cameroun (French Cameroons) & Togo (French Togoland),Cameroun (French Cameroons)
-684,Cameroun (French Cameroons) & Togo (French Togoland),Togo (French Togoland)
+680,Cameroun (French Cameroon) & French West Africa & Togo (French Togoland),Cameroun (French Cameroon)
+681,Cameroun (French Cameroon) & French West Africa & Togo (French Togoland),French West Africa
+682,Cameroun (French Cameroon) & French West Africa & Togo (French Togoland),Togo (French Togoland)
+683,Cameroun (French Cameroon) & Togo (French Togoland),Cameroun (French Cameroon)
+684,Cameroun (French Cameroon) & Togo (French Togoland),Togo (French Togoland)
 685,Canada (Province of Canada) & Central America & Southern America & United States of America,Canada (Province of Canada)
 686,Canada (Province of Canada) & Central America & Southern America & United States of America,Central America
 687,Canada (Province of Canada) & Central America & Southern America & United States of America,Southern America
