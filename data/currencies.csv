@@ -2040,9 +2040,9 @@ francs,1937,cameroun,french franc
 francs,1938,cameroun,french franc
 dollars,1910,can,us dollar
 franc,1851,canada,french franc
-$,1852,canada,us dollar
+$,1852,canada,canadian dollar
 franc,1853,canada,french franc
-$,1854,canada,us dollar
+$,1854,canada,canadian dollar
 livre sterling,1855,canada,sterling pound
 livre sterling,1856,canada,sterling pound
 livre sterling,1857,canada,sterling pound
@@ -2050,25 +2050,25 @@ franc,1858,canada,french franc
 dollar,1859,canada,canadian dollar
 dollar,1860,canada,canadian dollar
 dollar,1861,canada,canadian dollar
-dollars,1868,canada,us dollar
-dollars,1869,canada,us dollar
-dollars,1870,canada,us dollar
-dollars,1871,canada,us dollar
-dollars,1872,canada,us dollar
-dollars,1873,canada,us dollar
+dollars,1868,canada,canadian dollar
+dollars,1869,canada,canadian dollar
+dollars,1870,canada,canadian dollar
+dollars,1871,canada,canadian dollar
+dollars,1872,canada,canadian dollar
+dollars,1873,canada,canadian dollar
 livre sterling,1873,canada,sterling pound
-dollars,1874,canada,us dollar
-dollars,1875,canada,us dollar
+dollars,1874,canada,canadian dollar
+dollars,1875,canada,canadian dollar
 livre sterling,1875,canada,sterling pound
-dollars,1876,canada,us dollar
-dollars,1877,canada,us dollar
-dollars,1878,canada,us dollar
-dollars,1879,canada,us dollar
-dollars,1880,canada,us dollar
+dollars,1876,canada,canadian dollar
+dollars,1877,canada,canadian dollar
+dollars,1878,canada,canadian dollar
+dollars,1879,canada,canadian dollar
+dollars,1880,canada,canadian dollar
 livre sterling,1880,canada,sterling pound
-dollars,1881,canada,us dollar
-dollars,1882,canada,us dollar
-dollars,1883,canada,us dollar
+dollars,1881,canada,canadian dollar
+dollars,1882,canada,canadian dollar
+dollars,1883,canada,canadian dollar
 livre sterling,1890,canada,sterling pound
 sterling,1890,canada,sterling pound
 livre sterling,1899,canada,sterling pound
@@ -8430,9 +8430,9 @@ livre sterling,1904,protectorate of southern nigeria,sterling pound
 livre sterling,1905,protectorate of southern nigeria,sterling pound
 francs,1862,province du canada,french franc
 francs,1863,province du canada,french franc
-dollars,1865,province du canada,us dollar
-dollars,1866,province du canada,us dollar
-dollars,1867,province du canada,us dollar
+dollars,1865,province du canada,canadian dollar
+dollars,1866,province du canada,canadian dollar
+dollars,1867,province du canada,canadian dollar
 krans,1910,prs,iranian qiran
 francs,1832,prusse,french franc
 francs,1839,prusse,french franc
@@ -16194,13 +16194,13 @@ francs,1825,france,french franc
 francs,1826,france,french franc
 francs,1932,syrie et liban,french franc
 francs,1933,syrie et liban,french franc
-dollar,1859,province du canada,us dollar
-dollar,1860,province du canada,us dollar
-dollar,1861,province du canada,us dollar
-dollars,1868,province du canada,us dollar
-dollars,1869,province du canada,us dollar
-dollars,1870,province du canada,us dollar
-dollars,1871,province du canada,us dollar
+dollar,1859,province du canada,canadian dollar
+dollar,1860,province du canada,canadian dollar
+dollar,1861,province du canada,canadian dollar
+dollars,1868,province du canada,canadian dollar
+dollars,1869,province du canada,canadian dollar
+dollars,1870,province du canada,canadian dollar
+dollars,1871,province du canada,canadian dollar
 franc,1858,province du canada,french franc
 francs,1841,autriche-hongrie (trieste),french franc
 francs,1842,autriche-hongrie (trieste),french franc

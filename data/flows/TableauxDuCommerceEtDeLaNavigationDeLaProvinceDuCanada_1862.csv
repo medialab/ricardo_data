@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,15224417.0,1,dollar,1862,province du canada,grande-bretagne,Exp,?,,,,,,
-TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,826871.0,1,dollar,1862,province du canada,colonies de l'amérique du nord,Exp,?,,,,,,
-TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,13775.0,1,dollar,1862,province du canada,indes occidentales anglaises,Exp,?,,,,,,
-TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,16980810.0,1,dollar,1862,province du canada,etats-unis,Exp,?,,,,,,
-TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,550252.0,1,dollar,1862,province du canada,autres pays étrangers,Exp,?,,,,,,
-TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,33596125.0,1,dollar,1862,province du canada,total,Exp,?,,,,,total_reporting,
+TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,15224417,1,dollar,1862,province du canada,grande-bretagne,Exp,spe,,,,,,
+TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,826871,1,dollar,1862,province du canada,colonies de l'amérique du nord,Exp,spe,,,,,,
+TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,13775,1,dollar,1862,province du canada,indes occidentales anglaises,Exp,spe,,,,,,
+TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,16980810,1,dollar,1862,province du canada,etats-unis,Exp,spe,,,,,,
+TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,550252,1,dollar,1862,province du canada,autres pays étrangers,Exp,spe,,,,,,
+TableauxDuCommerceEtDeLaNavigationDeLaProvinceDuCanada_1862_224,33596125,1,dollar,1862,province du canada,total,Exp,spe,,,,,total_reporting,
