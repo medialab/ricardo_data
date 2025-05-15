@@ -4,12 +4,7 @@
   "title": "RICardo, Research on International Commerce: trade between Nations from c. 1800 to 1938",
   "description": "RICardo (Research on International Commerce) is a project dedicated to trade between nations over a period spanning the beginning of the Industrial Revolution to the eve of the Second World War. It combines a historical trade database covering all of the world’s countries and a website which invites to an exploration of the history of international trade through data visualizations.",
   "version": "1.0",
-  "keywords": [
-    "trade",
-    "history",
-    "economy",
-    "19th century"
-  ],
+  "keywords": ["trade", "history", "economy", "19th century"],
   "created": "2017-12-05T10:03:50.52Z",
   "licenses": [
     {
@@ -493,16 +488,10 @@
         ],
         "foreignKeys": [
           {
-            "fields": [
-              "modified_currency",
-              "year"
-            ],
+            "fields": ["modified_currency", "year"],
             "reference": {
               "resource": "exchange_rates",
-              "fields": [
-                "modified_currency",
-                "year"
-              ]
+              "fields": ["modified_currency", "year"]
             }
           }
         ]
@@ -533,13 +522,7 @@
             "type": "string",
             "description": "translated export/import",
             "constraints": {
-              "enum": [
-                "Exp",
-                "Exp+Imp",
-                "Imp",
-                "Re-exp",
-                "Re-imp"
-              ],
+              "enum": ["Exp", "Exp+Imp", "Imp", "Re-exp", "Re-imp"],
               "required": true
             }
           },
@@ -573,10 +556,7 @@
       "title": "Trade flows transcribed from various international trade statistics volumes",
       "format": "csv",
       "schema": {
-        "missingValues": [
-          "",
-          "?"
-        ],
+        "missingValues": ["", "?"],
         "fields": [
           {
             "name": "source",
@@ -648,10 +628,7 @@
             "type": "string",
             "description": "Precise wether this trade flow is a monatory flow.",
             "constraints": {
-              "enum": [
-                "S",
-                "NS"
-              ]
+              "enum": ["S", "NS"]
             }
           },
           {
@@ -685,9 +662,7 @@
             "type": "string",
             "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
             "constraints": {
-              "enum": [
-                "1"
-              ]
+              "enum": ["1"]
             }
           },
           {
@@ -732,31 +707,17 @@
             }
           },
           {
-            "fields": [
-              "currency",
-              "year",
-              "reporting"
-            ],
+            "fields": ["currency", "year", "reporting"],
             "reference": {
               "resource": "currencies",
-              "fields": [
-                "currency",
-                "year",
-                "reporting"
-              ]
+              "fields": ["currency", "year", "reporting"]
             }
           },
           {
-            "fields": [
-              "export_import",
-              "special_general"
-            ],
+            "fields": ["export_import", "special_general"],
             "reference": {
               "resource": "expimp_spegen",
-              "fields": [
-                "export_import",
-                "special_general"
-              ]
+              "fields": ["export_import", "special_general"]
             }
           }
         ]
@@ -819,7 +780,6 @@
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc20.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc21.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc2.csv",
-        "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc4.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc5.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc6.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Bresil_Fc7.csv",
@@ -856,8 +816,6 @@
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_CotesDafrique_Fc7.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc11.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc13.csv",
-        "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc15.csv",
-        "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc18.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc23.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc24.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Danemark_Fc6.csv",
@@ -1065,7 +1023,6 @@
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_SuedeEtNorvege_Fc12.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_SuedeEtNorvege_Fc19.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_SuedeEtNorvege_Fc20.csv",
-        "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_SuedeEtNorvege_Fc8.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Turquie_Fc14.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Turquie_Fc1.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Turquie_Fc20.csv",
@@ -1079,8 +1036,6 @@
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Uruguay_Fc6.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Uruguay_Fc8.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Uruguay_Fc9.csv",
-        "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Venezuela_Fc1.csv",
-        "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Venezuela_Fc2.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Venezuela_Fc4.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Venezuela_Fc6.csv",
         "data/flows/AnnalesDuCommerceExterieurFaitsCommerciaux3eSerieAvisDivers_Venezuela_Fc7.csv",
@@ -3583,10 +3538,6 @@
         "data/flows/TableauDecennalDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesEtrangeres_18771886_Vol1.csv",
         "data/flows/TableauDecennalDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesEtrangeres_18871896.csv",
         "data/flows/TableauDecennalDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesEtrangeres_18871896_Vol1.csv",
-        "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1905.csv",
-        "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1906.csv",
-        "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1907.csv",
-        "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1908.csv",
         "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1909.csv",
         "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1910.csv",
         "data/flows/TableauDesImportationsExportationsEtNavigationDuCanada_1912.csv",
@@ -3692,10 +3643,8 @@
         "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1875.csv",
         "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1894.csv",
         "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1895.csv",
-        "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1897.csv",
         "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1898.csv",
         "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1899.csv",
-        "data/flows/TablesOfTheTradeAndNavigationOfTheDominionOfCanada_1904_Vol1.csv",
         "data/flows/TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851.csv",
         "data/flows/TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1855.csv",
         "data/flows/TablesShowingTheTradeOfTheUnitedKingdomWithDifferentForeignCountriesAndBritishPossessions_18311840.csv",

@@ -84,11 +84,14 @@ def control_flow_files():
             missing_file_in_sources = [
                 f for f in filenames if f not in sources_filenames
             ]
+            deprecated_file_in_datapackage = [f for f in flows_resource.descriptor["path"] if f.split('/')[-1] not in filenames]
             print("missing in datapackage")
             print(len(missing_file_in_datapackage))
             print("missing in sources")
             print(len(missing_file_in_sources))
             print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
+            print(f"{len(deprecated_file_in_datapackage)} deprecated file in datapackage")
+            print(deprecated_file_in_datapackage)
 
 
 def homogenize_partners():
