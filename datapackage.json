@@ -246,9 +246,83 @@
           {
             "fields": "parent_entity",
             "reference": {
-              "resource": "ricentities",
+              "resource": "ricentities_parents",
               "fields": "RICname"
             }
+          }
+        ]
+      }
+    },
+    {
+      "name": "ricentities_parents",
+      "title": "_RICentites_",
+      "description": "just a copy of RIcentities resource to cope with the self-loop issue https://github.com/frictionlessdata/frictionless-py/issues/1725",
+      "format": "csv",
+      "encoding": "utf-8",
+      "path": "data/RICentities.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "name": "RICname",
+            "type": "string",
+            "description": "name of the RICentities (unique identifier)",
+            "constraints": {
+              "unique": true,
+              "required": true
+            }
+          },
+          {
+            "name": "type",
+            "type": "string",
+            "description": "RICentity type: locality, colonial_area, country, geographical_area, group",
+            "constraints": {
+              "enum": [
+                "locality",
+                "colonial_area",
+                "GPH_entity",
+                "geographical_area",
+                "group"
+              ]
+            }
+          },
+          {
+            "name": "continent",
+            "type": "string",
+            "description": "continent the RICentity belongs to (Ocean are considered as continents).",
+            "constraints": {
+              "enum": [
+                "Adriatic",
+                "Africa",
+                "America",
+                "Antarctic",
+                "Arctic",
+                "Asia",
+                "Atlantic",
+                "Baltic",
+                "Europe",
+                "Mediterranean",
+                "Oceania",
+                "Pacific",
+                "Red Sea",
+                "World"
+              ]
+            }
+          },
+          {
+            "name": "GPH_code",
+            "type": "string",
+            "description": "GeoPolHist dataset identifier mostly compatible with Correlates Of War (COW) identifiers."
+          },
+          {
+            "name": "slug",
+            "type": "string",
+            "description": "slug"
+          },
+          {
+            "name": "parent_entity",
+            "type": "string",
+            "description": "indicates if this RICentity is a part of another one contineously in time. Time dependent dependencies are not coded in this variable but in the GeoPolHist dataset."
           }
         ]
       }
