@@ -2040,9 +2040,9 @@ francs,1937,cameroun,french franc
 francs,1938,cameroun,french franc
 dollars,1910,can,us dollar
 franc,1851,canada,french franc
-$,1852,canada,canadian dollar
+$,1852,canada,us dollar
 franc,1853,canada,french franc
-$,1854,canada,canadian dollar
+$,1854,canada,us dollar
 livre sterling,1855,canada,sterling pound
 livre sterling,1856,canada,sterling pound
 livre sterling,1857,canada,sterling pound
@@ -37184,3 +37184,29 @@ straits settlements $,1926,straits settlements,straits settlements dollar
 £,1879,colony of turks and caicos islands,sterling pound
 £,1878,colony of turks and caicos islands,sterling pound
 franc,1833,sardaigne,french franc
+franc,1864,brésil (fernambouc),french franc
+francs,1865,brésil,french franc
+reis,1873,brésil (bahia),brazilian reis
+milreis,1871,brésil,brazilian milreis
+reis,1870,brésil,brazilian reis
+francs,1845,brésil (pernambouc),french franc
+réis,1878,portugal,portuguese reis
+réis,1880,portugal,portuguese reis
+réis,1881,portugal,portuguese reis
+réis,1882,portugal,portuguese reis
+réis,1883,portugal,portuguese reis
+réis,1884,portugal,portuguese reis
+réis,1885,portugal,portuguese reis
+réis,1886,portugal,portuguese reis
+réis,1887,portugal,portuguese reis
+réis,1888,portugal,portuguese reis
+réis,1889,portugal,portuguese reis
+réis,1890,portugal,portuguese reis
+réis,1891,portugal,portuguese reis
+réis,1892,portugal,portuguese reis
+réis,1893,portugal,portuguese reis
+réis,1894,portugal,portuguese reis
+réis,1895,portugal,portuguese reis
+francs,1833,royaume de Pologne,french franc
+francs,1834,royaume de Pologne,french franc
+francs,1843,royaume de Pologne,french franc
