@@ -1,0 +1,24 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1869_223,219963,1,£,1869,sierra leone,united kingdom,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,15854,1,£,1869,sierra leone,france,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,6736,1,£,1869,sierra leone,germany,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,740,1,£,1869,sierra leone,british east india,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,86,1,£,1869,sierra leone,madeira,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,234,1,£,1869,sierra leone,teneriffe,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,1425,1,£,1869,sierra leone,gambia,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,1777,1,£,1869,sierra leone,goree,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,5489,1,£,1869,sierra leone,windward coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,1366,1,£,1869,sierra leone,leeward coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,76,1,£,1869,sierra leone,liberia,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,36033,1,£,1869,sierra leone,united states of america,imp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,289779,1,£,1869,sierra leone,total,imp,gen,,,,,total_reporting,
+SierraLeoneBlueBook_1869_223,140042,1,£,1869,sierra leone,united kingdom,exp,gen,,,,,,
+SierraLeoneBlueBook_1869_223,105585,1,£,1869,sierra leone,france,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,1050,1,£,1869,sierra leone,germany,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,9075,1,£,1869,sierra leone,gambia,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,54192,1,£,1869,sierra leone,windward coast,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,15967,1,£,1869,sierra leone,leeward coast,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,2818,1,£,1869,sierra leone,liberia,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,57001,1,£,1869,sierra leone,united states of america,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,19131,1,£,1869,sierra leone,freetown sierra leone,exp,gen,,,,,,Includes exports from Isle of Sherbro
+SierraLeoneBlueBook_1869_223,404862,1,£,1869,sierra leone,total,exp,gen,,,,,total_reporting,Includes exports from Isle of Sherbro

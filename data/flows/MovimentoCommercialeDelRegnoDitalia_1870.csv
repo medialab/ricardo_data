@@ -1,0 +1,53 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+MovimentoCommercialeDelRegnoDitalia_1870_342,214791,1,lira,1870,italy,algeria,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,147295391,1,lira,1870,italy,austria-ungheria,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,8964439,1,lira,1870,italy,belgio,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,509223,1,lira,1870,italy,brasile,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,,1,lira,1870,italy,città anseatiche,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,4602698,1,lira,1870,italy,egitto,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,224994382,1,lira,1870,italy,francia,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,6480350,1,lira,1870,italy,grecia,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,3973664,1,lira,1870,italy,indie orientali,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,240440667,1,lira,1870,italy,inghilterra,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,9487382,1,lira,1870,italy,isole antille ed america centrale,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,42644,1,lira,1870,italy,messico ed altri paesi dell'america settent,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,38790176,1,lira,1870,italy,olanda,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,771860,1,lira,1870,italy,portogallo,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,13039549,1,lira,1870,italy,repubbliche dell'america meridionale,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,6457322,1,lira,1870,italy,roma (provincie),imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,34891166,1,lira,1870,italy,russia,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,2440359,1,lira,1870,italy,spagna,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,39027248,1,lira,1870,italy,stati-uniti d'america,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,3822153,1,lira,1870,italy,"svezia, norvegia e danimarca",imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,49372952,1,lira,1870,italy,svizzera,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,2902081,1,lira,1870,italy,tunisi e tripoli,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,42504744,1,lira,1870,italy,turchia,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,12917314,1,lira,1870,italy,zollverein o associazione tedesca,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,1775128,1,lira,1870,italy,provenienze e destinationi varie,imp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,895717683,1,lira,1870,italy,totale,imp,spe,S,,,,total_reporting,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,418111,1,lira,1870,italy,algeria,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,132633242,1,lira,1870,italy,austria-ungheria,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,6782888,1,lira,1870,italy,belgio,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,57612,1,lira,1870,italy,brasile,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,,1,lira,1870,italy,città anseatiche,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,6622196,1,lira,1870,italy,egitto,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,203574402,1,lira,1870,italy,francia,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,3456982,1,lira,1870,italy,grecia,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,1021178,1,lira,1870,italy,indie orientali,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,115650841,1,lira,1870,italy,inghilterra,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,1997615,1,lira,1870,italy,isole antille ed america centrale,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,,1,lira,1870,italy,messico ed altri paesi dell'america settent,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,8043749,1,lira,1870,italy,olanda,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,179487,1,lira,1870,italy,portogallo,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,33580324,1,lira,1870,italy,repubbliche dell'america meridionale,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,18459079,1,lira,1870,italy,roma (provincie),exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,24540538,1,lira,1870,italy,russia,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,3126481,1,lira,1870,italy,spagna,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,34802380,1,lira,1870,italy,stati-uniti d'america,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,2831747,1,lira,1870,italy,"svezia, norvegia e danimarca",exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,135103415,1,lira,1870,italy,svizzera,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,4732795,1,lira,1870,italy,tunisi e tripoli,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,10049731,1,lira,1870,italy,turchia,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,4794556,1,lira,1870,italy,zollverein o associazione tedesca,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,3837574,1,lira,1870,italy,provenienze e destinationi varie,exp,spe,S,,,,,Valore commerciale
+MovimentoCommercialeDelRegnoDitalia_1870_342,756256905,1,lira,1870,italy,totale,exp,spe,S,,,,total_reporting,Valore commerciale

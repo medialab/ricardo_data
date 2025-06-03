@@ -1,0 +1,129 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+NorthernRhodesiaBlueBook_1924_T113,135440,1,£,1923,northern rhodesia,united kingdom,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,20,1,£,1923,northern rhodesia,india,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,13191,1,£,1923,northern rhodesia,north east rhodesia,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,41505,1,£,1923,northern rhodesia,southern rhodesia,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,83996,1,£,1923,northern rhodesia,union of south africa,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,177,1,£,1923,northern rhodesia,nyassaland protectorate,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,313,1,£,1923,northern rhodesia,tanganyika,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,90812,1,£,1923,northern rhodesia,belgium,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,86917,1,£,1923,northern rhodesia,belgian congo,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,9,1,£,1923,northern rhodesia,france,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,6836,1,£,1923,northern rhodesia,germany,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,10,1,£,1923,northern rhodesia,holland,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,88,1,£,1923,northern rhodesia,italy,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,55,1,£,1923,northern rhodesia,portuguese east africa,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,16,1,£,1923,northern rhodesia,egypt,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,2400,1,£,1923,northern rhodesia,united states of america,exp,gen,,,,,,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,64614,1,£,1924,northern rhodesia,united kingdom,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,2018,1,£,1924,northern rhodesia,north east rhodesia,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,20890,1,£,1924,northern rhodesia,southern rhodesia,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,106803,1,£,1924,northern rhodesia,union of south africa,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,162,1,£,1924,northern rhodesia,nyassaland protectorate,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,46208,1,£,1924,northern rhodesia,belgium,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,104279,1,£,1924,northern rhodesia,belgian congo,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,61080,1,£,1924,northern rhodesia,germany,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,106,1,£,1924,northern rhodesia,holland,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,383,1,£,1924,northern rhodesia,portuguese east africa,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,15,1,£,1924,northern rhodesia,switzerland,exp,spe,NS,,,,,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,461785,1,£,1923,northern rhodesia,total,exp,gen,,,,,total_reporting,Includes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T113,406558,1,£,1924,northern rhodesia,total,exp,spe,,,,,total_reporting,Excludes imported goods re-exported
+NorthernRhodesiaBlueBook_1924_T89t91,213371,1,£,1923,northern rhodesia,united kingdom,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2923,1,£,1923,northern rhodesia,canada,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,11610,1,£,1923,northern rhodesia,india,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,956,1,£,1923,northern rhodesia,ceylon,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1731,1,£,1923,northern rhodesia,australia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,15,1,£,1923,northern rhodesia,new zealand,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,6,1,£,1923,northern rhodesia,british east india islands,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,50,1,£,1923,northern rhodesia,straits settlements,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,56,1,£,1923,northern rhodesia,kenya colony,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,472,1,£,1923,northern rhodesia,nyassaland protectorate,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,31,1,£,1923,northern rhodesia,british west india islands,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,21,1,£,1923,northern rhodesia,mesopotamia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,204,1,£,1923,northern rhodesia,austria,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,5966,1,£,1923,northern rhodesia,belgium,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,3605,1,£,1923,northern rhodesia,belgian congo,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1008,1,£,1923,northern rhodesia,czecho-slovakia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,38,1,£,1923,northern rhodesia,denmark,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2731,1,£,1923,northern rhodesia,france,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1,1,£,1923,northern rhodesia,cochin china,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,8241,1,£,1923,northern rhodesia,germany,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,89,1,£,1923,northern rhodesia,greece,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,5468,1,£,1923,northern rhodesia,holland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,187,1,£,1923,northern rhodesia,dutch east india islands,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,732,1,£,1923,northern rhodesia,italy,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,414,1,£,1923,northern rhodesia,norway,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,206,1,£,1923,northern rhodesia,portugal,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,20,1,£,1923,northern rhodesia,madeira,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1175,1,£,1923,northern rhodesia,portuguese east africa,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,151,1,£,1923,northern rhodesia,portuguese west africa,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,102,1,£,1923,northern rhodesia,russia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,150,1,£,1923,northern rhodesia,spain,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2805,1,£,1923,northern rhodesia,sweden,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,695,1,£,1923,northern rhodesia,switzerland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,36,1,£,1923,northern rhodesia,turkish empire,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,59,1,£,1923,northern rhodesia,china,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,4273,1,£,1923,northern rhodesia,japan (including formosa),imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,7,1,£,1923,northern rhodesia,palestine,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,95,1,£,1923,northern rhodesia,siam,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1,1,£,1923,northern rhodesia,egypt,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,46954,1,£,1923,northern rhodesia,united states of america,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2088,1,£,1923,northern rhodesia,mexico,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,95,1,£,1923,northern rhodesia,argentine republic,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,479,1,£,1923,northern rhodesia,brazil,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,26,1,£,1923,northern rhodesia,chili,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,7,1,£,1923,northern rhodesia,cuba,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,18,1,£,1923,northern rhodesia,uruguay,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,182634,1,£,1923,northern rhodesia,south african produce,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,306354,1,£,1924,northern rhodesia,united kingdom,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,9,1,£,1924,northern rhodesia,ireland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,5010,1,£,1924,northern rhodesia,canada,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,13249,1,£,1924,northern rhodesia,india,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1081,1,£,1924,northern rhodesia,ceylon,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1234,1,£,1924,northern rhodesia,australia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,22,1,£,1924,northern rhodesia,new zealand,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,4,1,£,1924,northern rhodesia,hong kong,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,35,1,£,1924,northern rhodesia,straits settlements,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,52,1,£,1924,northern rhodesia,kenya colony,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1635,1,£,1924,northern rhodesia,nyassaland protectorate,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,6,1,£,1924,northern rhodesia,newfoundland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,26,1,£,1924,northern rhodesia,british west india islands,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,23,1,£,1924,northern rhodesia,mesopotamia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,788,1,£,1924,northern rhodesia,austria,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,12728,1,£,1924,northern rhodesia,belgium,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2203,1,£,1924,northern rhodesia,belgian congo,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1443,1,£,1924,northern rhodesia,czecho-slovakia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,201,1,£,1924,northern rhodesia,denmark,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,9,1,£,1924,northern rhodesia,finland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,9091,1,£,1924,northern rhodesia,france,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,16,1,£,1924,northern rhodesia,cochin china,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,12385,1,£,1924,northern rhodesia,germany,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,41,1,£,1924,northern rhodesia,greece,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,7062,1,£,1924,northern rhodesia,holland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,143,1,£,1924,northern rhodesia,dutch east india islands,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,3051,1,£,1924,northern rhodesia,italy,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,549,1,£,1924,northern rhodesia,norway,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,10,1,£,1924,northern rhodesia,poland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,232,1,£,1924,northern rhodesia,portugal,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,13,1,£,1924,northern rhodesia,madeira,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2028,1,£,1924,northern rhodesia,portuguese east africa,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,226,1,£,1924,northern rhodesia,russia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,152,1,£,1924,northern rhodesia,spain,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,4223,1,£,1924,northern rhodesia,sweden,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,1301,1,£,1924,northern rhodesia,switzerland,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,23,1,£,1924,northern rhodesia,turkish empire,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,278,1,£,1924,northern rhodesia,china,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,6348,1,£,1924,northern rhodesia,japan (including formosa),imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,4,1,£,1924,northern rhodesia,palestine,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,19,1,£,1924,northern rhodesia,persia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,160,1,£,1924,northern rhodesia,siam,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,5,1,£,1924,northern rhodesia,abyssinia,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,2,1,£,1924,northern rhodesia,egypt,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,61188,1,£,1924,northern rhodesia,united states of america,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,3,1,£,1924,northern rhodesia,philippine islands,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,229,1,£,1924,northern rhodesia,mexico,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,204,1,£,1924,northern rhodesia,argentine republic,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,446,1,£,1924,northern rhodesia,brazil,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,28,1,£,1924,northern rhodesia,cuba,imp,gen,NS,,,,,
+NorthernRhodesiaBlueBook_1924_T89t91,502002,1,£,1923,northern rhodesia,total,imp,gen,NS,,,,total_reporting,
+NorthernRhodesiaBlueBook_1924_T89t91,662642,1,£,1924,northern rhodesia,total,imp,gen,NS,,,,total_reporting,

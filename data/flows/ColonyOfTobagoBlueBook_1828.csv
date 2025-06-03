@@ -1,0 +1,11 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTobagoBlueBook_1828,52872,1,£,1828,colony of tobago,great britain,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,16391,1,£,1828,colony of tobago,british west indies,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,20678,1,£,1828,colony of tobago,british north america,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,9991,1,£,1828,colony of tobago,foreign states,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,99933,1,£,1828,colony of tobago,total,imp,gen,,,,,total_reporting,
+ColonyOfTobagoBlueBook_1828,198375,1,£,1828,colony of tobago,great britain,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,4040,1,£,1828,colony of tobago,british west indies,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,7265,1,£,1828,colony of tobago,british north america,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,620,1,£,1828,colony of tobago,foreign states,exp,gen,,,,,,
+ColonyOfTobagoBlueBook_1828,210301,1,£,1828,colony of tobago,total,exp,gen,,,,,total_reporting,

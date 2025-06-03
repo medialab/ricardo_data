@@ -1,0 +1,9 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1892_188189,83521,1,£,1892,colony of gambia,united kingdom,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1892_188189,31476,1,£,1892,colony of gambia,british colonies,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1892_188189,54976,1,£,1892,colony of gambia,foreign countries,imp,gen,,,,,,
+ColonyOfTheGambiaBlueBook_1892_188189,169973,1,£,1892,colony of gambia,total,imp,gen,,,,,total_reporting,
+ColonyOfTheGambiaBlueBook_1892_188189,23484,1,£,1892,colony of gambia,united kingdom,exp,spe,,,,,,
+ColonyOfTheGambiaBlueBook_1892_188189,1,1,£,1892,colony of gambia,british colonies,exp,spe,,,,,,
+ColonyOfTheGambiaBlueBook_1892_188189,124218,1,£,1892,colony of gambia,foreign countries,exp,spe,,,,,,
+ColonyOfTheGambiaBlueBook_1892_188189,147702,1,£,1892,colony of gambia,total,exp,spe,,,,,total_reporting,

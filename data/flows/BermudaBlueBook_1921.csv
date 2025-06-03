@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BermudaBlueBook_1921_60,351289,1,£,1921,bermuda,united kingdom,imp,gen,,,,,,
+BermudaBlueBook_1921_60,221152,1,£,1921,bermuda,dominion of canada,imp,gen,,,,,,
+BermudaBlueBook_1921_60,18150,1,£,1921,bermuda,british west indies,imp,gen,,,,,,
+BermudaBlueBook_1921_60,187,1,£,1921,bermuda,india,imp,gen,,,,,,
+BermudaBlueBook_1921_60,749188,1,£,1921,bermuda,united states of america,imp,gen,,,,,,
+BermudaBlueBook_1921_60,274,1,£,1921,bermuda,teneriffe,imp,gen,,,,,,
+BermudaBlueBook_1921_60,1340240,1,£,1921,bermuda,total,imp,gen,,,,,total_reporting,
+BermudaBlueBook_1921_60,2263,1,£,1921,bermuda,dominion of canada,exp,spe,,,,,,
+BermudaBlueBook_1921_60,5687,1,£,1921,bermuda,british west indies,exp,spe,,,,,,
+BermudaBlueBook_1921_60,131065,1,£,1921,bermuda,united states of america,exp,spe,,,,,,
+BermudaBlueBook_1921_60,139015,1,£,1921,bermuda,total,exp,spe,,,,,total_reporting,

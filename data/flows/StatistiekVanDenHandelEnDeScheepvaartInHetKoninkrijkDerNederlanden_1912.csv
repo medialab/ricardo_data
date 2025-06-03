@@ -1,265 +1,240 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1875,netherlands,lubeck,invoer tot verbruik,gen,,,,,,Pas de donnees
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1563.0,1,guld.,1875,netherlands,lubeck,uitvoer uit het vrije verkeer,gen,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1876,netherlands,lubeck,invoer tot verbruik,gen,,,,,,Pas de donnees
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1876,netherlands,lubeck,uitvoer uit het vrije verkeer,gen,,,,,,Pas de donnees
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6099832.0,1,guld.,1910,netherlands,spain,exp (uitvoer uit het vrije verkeer),spe,,,,,,
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,288547.0,1,guld.,1911,netherlands,africa (east coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8223213.0,1,guld.,1911,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6529987.0,1,guld.,1911,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2179765.0,1,guld.,1911,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,arabia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4935318.0,1,guld.,1911,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,841.0,1,guld.,1911,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1957479.0,1,guld.,1911,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,323677418.0,1,guld.,1911,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,36318426.0,1,guld.,1911,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5060147.0,1,guld.,1911,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1098619.0,1,guld.,1911,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,celebes,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,14276.0,1,guld.,1911,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22127543.0,1,guld.,1911,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11045292.0,1,guld.,1911,netherlands,china,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3413334.0,1,guld.,1911,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,738325.0,1,guld.,1911,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,722098.0,1,guld.,1911,netherlands,curcacao,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2021053.0,1,guld.,1911,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4785973.0,1,guld.,1911,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6529943.0,1,guld.,1911,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,88120603.0,1,guld.,1911,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,39461851.0,1,guld.,1911,netherlands,france,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7080.0,1,guld.,1911,netherlands,gibraltar,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25122464.0,1,guld.,1911,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,339100829.0,1,guld.,1911,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1125172.0,1,guld.,1911,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,139453.0,1,guld.,1911,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3273.0,1,guld.,1911,netherlands,guiana (france),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,566227.0,1,guld.,1911,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,56014042.0,1,guld.,1911,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2436658.0,1,guld.,1911,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11172042.0,1,guld.,1911,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1112801.0,1,guld.,1911,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,455748770.0,1,guld.,1911,netherlands,java,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2429205.0,1,guld.,1911,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,239578.0,1,guld.,1911,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,153359.0,1,guld.,1911,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25518.0,1,guld.,1911,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3787967.0,1,guld.,1911,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,203283.0,1,guld.,1911,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,montenegro,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,39325849.0,1,guld.,1911,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,oldenbrug,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3985453.0,1,guld.,1911,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,348079.0,1,guld.,1911,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,persia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6876.0,1,guld.,1911,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11399489.0,1,guld.,1911,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4944449.0,1,guld.,1911,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,841426484.0,1,guld.,1911,netherlands,germany,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,30934574.0,1,guld.,1911,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,82595941.0,1,guld.,1911,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,366564344.0,1,guld.,1911,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,serbia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4389300.0,1,guld.,1911,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2149530.0,1,guld.,1911,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,88575533.0,1,guld.,1911,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,126400.0,1,guld.,1911,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11116374.0,1,guld.,1911,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,330609621.0,1,guld.,1911,netherlands,united states of america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,45782466.0,1,guld.,1911,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3333258633.0,1,guld.,1911,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8426249.0,1,guld.,1912,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5180060.0,1,guld.,1912,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,251478.0,1,guld.,1912,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,864.0,1,guld.,1912,netherlands,arabia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3481745.0,1,guld.,1912,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1582.0,1,guld.,1912,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3228104.0,1,guld.,1912,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,343631951.0,1,guld.,1912,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,31657454.0,1,guld.,1912,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5450534.0,1,guld.,1912,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,409742.0,1,guld.,1912,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,celebes,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,21912.0,1,guld.,1912,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25872608.0,1,guld.,1912,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,17406544.0,1,guld.,1912,netherlands,china,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,855312.0,1,guld.,1912,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3960935.0,1,guld.,1912,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,306683.0,1,guld.,1912,netherlands,curcacao,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2152547.0,1,guld.,1912,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6990378.0,1,guld.,1912,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,9439348.0,1,guld.,1912,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,87384437.0,1,guld.,1912,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,30657658.0,1,guld.,1912,netherlands,france,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,gibraltar,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,38155302.0,1,guld.,1912,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,354440987.0,1,guld.,1912,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1490637.0,1,guld.,1912,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,83442.0,1,guld.,1912,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,guiana (france),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,161143.0,1,guld.,1912,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,66508627.0,1,guld.,1912,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1940732.0,1,guld.,1912,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,13229343.0,1,guld.,1912,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2649605.0,1,guld.,1912,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,495867698.0,1,guld.,1912,netherlands,java,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,197.0,1,guld.,1912,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2069395.0,1,guld.,1912,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,134846.0,1,guld.,1912,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1345917.0,1,guld.,1912,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25640.0,1,guld.,1912,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3662528.0,1,guld.,1912,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,164641.0,1,guld.,1912,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,montenegro,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,47007396.0,1,guld.,1912,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,oldenbrug,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6259051.0,1,guld.,1912,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,70806.0,1,guld.,1912,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,53244.0,1,guld.,1912,netherlands,persia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1914235.0,1,guld.,1912,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11128362.0,1,guld.,1912,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,141558.0,1,guld.,1912,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,973663349.0,1,guld.,1912,netherlands,germany,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,105752599.0,1,guld.,1912,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,59226867.0,1,guld.,1912,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,291756130.0,1,guld.,1912,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,serbia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2038500.0,1,guld.,1912,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4202722.0,1,guld.,1912,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,103031628.0,1,guld.,1912,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1221328.0,1,guld.,1912,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,10608735.0,1,guld.,1912,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,362001800.0,1,guld.,1912,netherlands,united states of america,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,59843567.0,1,guld.,1912,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3603080026.0,1,guld.,1912,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6027134.0,1,guld.,1911,netherlands,africa (east coast),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,15067073.0,1,guld.,1911,netherlands,africa (west coast),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1267604.0,1,guld.,1911,netherlands,algeria,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,396629.0,1,guld.,1911,netherlands,antilles,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,arabia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4694732.0,1,guld.,1911,netherlands,australia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,291730.0,1,guld.,1911,netherlands,azores,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,115526.0,1,guld.,1911,netherlands,barbarian states,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,318920618.0,1,guld.,1911,netherlands,belgium,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2687435.0,1,guld.,1911,netherlands,brazil,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,10958100.0,1,guld.,1911,netherlands,bremen,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,665441.0,1,guld.,1911,netherlands,bulgaria,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,celebes,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,12973.0,1,guld.,1911,netherlands,central america,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,413595.0,1,guld.,1911,netherlands,chile,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1296535.0,1,guld.,1911,netherlands,china,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1225707.0,1,guld.,1911,netherlands,"colombia, ecuador, venezuela",exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,133879.0,1,guld.,1911,netherlands,cuba,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,651779.0,1,guld.,1911,netherlands,curcacao,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,15309727.0,1,guld.,1911,netherlands,denmark,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4668643.0,1,guld.,1911,netherlands,egypt,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2253122.0,1,guld.,1911,netherlands,english america,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5074261.0,1,guld.,1911,netherlands,english india,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,26392355.0,1,guld.,1911,netherlands,france,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,402097.0,1,guld.,1911,netherlands,gibraltar,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6343402.0,1,guld.,1911,netherlands,greece,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,554539080.0,1,guld.,1911,netherlands,great britain,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5890851.0,1,guld.,1911,netherlands,guiana (netherlands),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,271326.0,1,guld.,1911,netherlands,guiana (england),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,415.0,1,guld.,1911,netherlands,guiana (france),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,163192.0,1,guld.,1911,netherlands,haiti,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,57111160.0,1,guld.,1911,netherlands,hamburg,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25016069.0,1,guld.,1911,netherlands,ireland,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22858127.0,1,guld.,1911,netherlands,italy,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1287127.0,1,guld.,1911,netherlands,japan,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,125575124.0,1,guld.,1911,netherlands,java,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,626677.0,1,guld.,1911,netherlands,cape of good hope,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1516397.0,1,guld.,1911,netherlands,lubeck,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,447717.0,1,guld.,1911,netherlands,malta,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1317462.0,1,guld.,1911,netherlands,morocco,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,12216.0,1,guld.,1911,netherlands,mauritius,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,187039.0,1,guld.,1911,netherlands,mecklenburg,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,131042.0,1,guld.,1911,netherlands,mexico,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,montenegro,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,16696884.0,1,guld.,1911,netherlands,norway,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2506.0,1,guld.,1911,netherlands,oldenbrug,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2218110.0,1,guld.,1911,netherlands,austria-hungary,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,68716.0,1,guld.,1911,netherlands,peru and bolivia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2850.0,1,guld.,1911,netherlands,persia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,27102.0,1,guld.,1911,netherlands,philippine islands,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8315409.0,1,guld.,1911,netherlands,portugal,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1204.0,1,guld.,1911,netherlands,portuguese indies,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1288560189.0,1,guld.,1911,netherlands,germany,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,15889671.0,1,guld.,1911,netherlands,rio de la plata (buenos aires),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7998810.0,1,guld.,1911,netherlands,romania,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,17576991.0,1,guld.,1911,netherlands,russia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,690.0,1,guld.,1911,netherlands,serbia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,99514.0,1,guld.,1911,netherlands,siam,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1911,netherlands,siberia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7512900.0,1,guld.,1911,netherlands,spain,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,52963.0,1,guld.,1911,netherlands,pacific ocean,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,19819912.0,1,guld.,1911,netherlands,turkey,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,105091534.0,1,guld.,1911,netherlands,united states of america,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,20201951.0,1,guld.,1911,netherlands,sweden,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2732387022.0,1,guld.,1911,netherlands,total,exp (uitover uit het vrije verkeer),spe,,,,,total_reporting,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8067740.0,1,guld.,1912,netherlands,africa (east coast),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,10891859.0,1,guld.,1912,netherlands,africa (west coast),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1148127.0,1,guld.,1912,netherlands,algeria,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,516788.0,1,guld.,1912,netherlands,antilles,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,arabia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3432789.0,1,guld.,1912,netherlands,australia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,344724.0,1,guld.,1912,netherlands,azores,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,121448.0,1,guld.,1912,netherlands,barbarian states,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,370795519.0,1,guld.,1912,netherlands,belgium,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2185437.0,1,guld.,1912,netherlands,brazil,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,43832386.0,1,guld.,1912,netherlands,bremen,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,592527.0,1,guld.,1912,netherlands,bulgaria,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,80635.0,1,guld.,1912,netherlands,celebes,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,55753.0,1,guld.,1912,netherlands,central america,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,500404.0,1,guld.,1912,netherlands,chile,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5390441.0,1,guld.,1912,netherlands,china,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1840137.0,1,guld.,1912,netherlands,"colombia, ecuador, venezuela",exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,466366.0,1,guld.,1912,netherlands,cuba,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,644328.0,1,guld.,1912,netherlands,curcacao,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,23233864.0,1,guld.,1912,netherlands,denmark,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4895555.0,1,guld.,1912,netherlands,egypt,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2715322.0,1,guld.,1912,netherlands,english america,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7951559.0,1,guld.,1912,netherlands,english india,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25065419.0,1,guld.,1912,netherlands,france,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,536585.0,1,guld.,1912,netherlands,gibraltar,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4801477.0,1,guld.,1912,netherlands,greece,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,604714785.0,1,guld.,1912,netherlands,great britain,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5547434.0,1,guld.,1912,netherlands,guiana (netherlands),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,288526.0,1,guld.,1912,netherlands,guiana (england),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,360.0,1,guld.,1912,netherlands,guiana (france),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,294215.0,1,guld.,1912,netherlands,haiti,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,55931125.0,1,guld.,1912,netherlands,hamburg,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22480287.0,1,guld.,1912,netherlands,ireland,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,23506528.0,1,guld.,1912,netherlands,italy,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,555517.0,1,guld.,1912,netherlands,japan,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,154291837.0,1,guld.,1912,netherlands,java,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1344046.0,1,guld.,1912,netherlands,cape of good hope,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,488544.0,1,guld.,1912,netherlands,lubeck,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1060575.0,1,guld.,1912,netherlands,malta,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1996802.0,1,guld.,1912,netherlands,morocco,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7569.0,1,guld.,1912,netherlands,mauritius,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,136596.0,1,guld.,1912,netherlands,mecklenburg,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,168733.0,1,guld.,1912,netherlands,mexico,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7426.0,1,guld.,1912,netherlands,montenegro,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22418422.0,1,guld.,1912,netherlands,norway,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,oldenbrug,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2399139.0,1,guld.,1912,netherlands,austria-hungary,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,77814.0,1,guld.,1912,netherlands,peru and bolivia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4978.0,1,guld.,1912,netherlands,persia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,58394.0,1,guld.,1912,netherlands,philippine islands,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8681155.0,1,guld.,1912,netherlands,portugal,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6504.0,1,guld.,1912,netherlands,portuguese indies,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1454838798.0,1,guld.,1912,netherlands,germany,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8244483.0,1,guld.,1912,netherlands,rio de la plata (buenos aires),exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6702117.0,1,guld.,1912,netherlands,romania,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25129203.0,1,guld.,1912,netherlands,russia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3375.0,1,guld.,1912,netherlands,serbia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,139660.0,1,guld.,1912,netherlands,siam,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,,1,guld.,1912,netherlands,siberia,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,9115979.0,1,guld.,1912,netherlands,spain,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,50618.0,1,guld.,1912,netherlands,pacific ocean,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,19256963.0,1,guld.,1912,netherlands,turkey,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,135516772.0,1,guld.,1912,netherlands,united states of america,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,27538025.0,1,guld.,1912,netherlands,sweden,exp (uitover uit het vrije verkeer),spe,,,,,,cf.Photos Kiel 158-159
-StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3113114503.0,1,guld.,1912,netherlands,total,exp (uitover uit het vrije verkeer),spe,,,,,total_reporting,cf.Photos Kiel 158-159
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,288547,1,guld.,1911,netherlands,africa (east coast),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8223213,1,guld.,1911,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6529987,1,guld.,1911,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2179765,1,guld.,1911,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4935318,1,guld.,1911,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,841,1,guld.,1911,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1957479,1,guld.,1911,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,323677418,1,guld.,1911,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,36318426,1,guld.,1911,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5060147,1,guld.,1911,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1098619,1,guld.,1911,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,14276,1,guld.,1911,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22127543,1,guld.,1911,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11045292,1,guld.,1911,netherlands,china,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3413334,1,guld.,1911,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,738325,1,guld.,1911,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,722098,1,guld.,1911,netherlands,curcacao,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2021053,1,guld.,1911,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4785973,1,guld.,1911,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6529943,1,guld.,1911,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,88120603,1,guld.,1911,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,39461851,1,guld.,1911,netherlands,france,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7080,1,guld.,1911,netherlands,gibraltar,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25122464,1,guld.,1911,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,339100829,1,guld.,1911,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1125172,1,guld.,1911,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,139453,1,guld.,1911,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3273,1,guld.,1911,netherlands,guiana (france),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,566227,1,guld.,1911,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,56014042,1,guld.,1911,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2436658,1,guld.,1911,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11172042,1,guld.,1911,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1112801,1,guld.,1911,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,455748770,1,guld.,1911,netherlands,java,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2429205,1,guld.,1911,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,239578,1,guld.,1911,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,153359,1,guld.,1911,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25518,1,guld.,1911,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3787967,1,guld.,1911,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,203283,1,guld.,1911,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,39325849,1,guld.,1911,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3985453,1,guld.,1911,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,348079,1,guld.,1911,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6876,1,guld.,1911,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11399489,1,guld.,1911,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4944449,1,guld.,1911,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,841426484,1,guld.,1911,netherlands,prussia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,30934574,1,guld.,1911,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,82595941,1,guld.,1911,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,366564344,1,guld.,1911,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4389300,1,guld.,1911,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2149530,1,guld.,1911,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,88575533,1,guld.,1911,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,126400,1,guld.,1911,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11116374,1,guld.,1911,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,330609621,1,guld.,1911,netherlands,united states of america,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,45782466,1,guld.,1911,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3333258633,1,guld.,1911,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8426249,1,guld.,1912,netherlands,africa (west coast),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5180060,1,guld.,1912,netherlands,algeria,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,251478,1,guld.,1912,netherlands,antilles,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,864,1,guld.,1912,netherlands,arabia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3481745,1,guld.,1912,netherlands,australia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1582,1,guld.,1912,netherlands,azores,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3228104,1,guld.,1912,netherlands,barbarian states,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,343631951,1,guld.,1912,netherlands,belgium,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,31657454,1,guld.,1912,netherlands,brazil,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5450534,1,guld.,1912,netherlands,bremen,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,409742,1,guld.,1912,netherlands,bulgaria,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,21912,1,guld.,1912,netherlands,central america,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25872608,1,guld.,1912,netherlands,chile,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,17406544,1,guld.,1912,netherlands,china,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,855312,1,guld.,1912,netherlands,"colombia, ecuador, venezuela",imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3960935,1,guld.,1912,netherlands,cuba,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,306683,1,guld.,1912,netherlands,curcacao,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2152547,1,guld.,1912,netherlands,denmark,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6990378,1,guld.,1912,netherlands,egypt,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,9439348,1,guld.,1912,netherlands,english america,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,87384437,1,guld.,1912,netherlands,english india,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,30657658,1,guld.,1912,netherlands,france,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,38155302,1,guld.,1912,netherlands,greece,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,354440987,1,guld.,1912,netherlands,great britain,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1490637,1,guld.,1912,netherlands,guiana (netherlands),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,83442,1,guld.,1912,netherlands,guiana (england),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,161143,1,guld.,1912,netherlands,haiti,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,66508627,1,guld.,1912,netherlands,hamburg,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1940732,1,guld.,1912,netherlands,ireland,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,13229343,1,guld.,1912,netherlands,italy,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2649605,1,guld.,1912,netherlands,japan,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,495867698,1,guld.,1912,netherlands,java,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,197,1,guld.,1912,netherlands,cape of good hope,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2069395,1,guld.,1912,netherlands,lubeck,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,134846,1,guld.,1912,netherlands,malta,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1345917,1,guld.,1912,netherlands,morocco,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25640,1,guld.,1912,netherlands,mauritius,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3662528,1,guld.,1912,netherlands,mecklenburg,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,164641,1,guld.,1912,netherlands,mexico,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,47007396,1,guld.,1912,netherlands,norway,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6259051,1,guld.,1912,netherlands,austria-hungary,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,70806,1,guld.,1912,netherlands,peru and bolivia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,53244,1,guld.,1912,netherlands,persia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1914235,1,guld.,1912,netherlands,philippine islands,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,11128362,1,guld.,1912,netherlands,portugal,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,141558,1,guld.,1912,netherlands,portuguese indies,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,973663349,1,guld.,1912,netherlands,prussia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,105752599,1,guld.,1912,netherlands,rio de la plata (buenos aires),imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,59226867,1,guld.,1912,netherlands,romania,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,291756130,1,guld.,1912,netherlands,russia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2038500,1,guld.,1912,netherlands,siam,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4202722,1,guld.,1912,netherlands,siberia,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,103031628,1,guld.,1912,netherlands,spain,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1221328,1,guld.,1912,netherlands,pacific ocean,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,10608735,1,guld.,1912,netherlands,turkey,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,362001800,1,guld.,1912,netherlands,united states of america,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,59843567,1,guld.,1912,netherlands,sweden,imp (invoer tot verbruik),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3603080026,1,guld.,1912,netherlands,total,imp (invoer tot verbruik),spe,,,,,total_reporting,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6027134,1,guld.,1911,netherlands,africa (east coast),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,15067073,1,guld.,1911,netherlands,africa (west coast),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1267604,1,guld.,1911,netherlands,algeria,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,396629,1,guld.,1911,netherlands,antilles,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4694732,1,guld.,1911,netherlands,australia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,291730,1,guld.,1911,netherlands,azores,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,115526,1,guld.,1911,netherlands,barbarian states,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,318920618,1,guld.,1911,netherlands,belgium,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2687435,1,guld.,1911,netherlands,brazil,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,10958100,1,guld.,1911,netherlands,bremen,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,665441,1,guld.,1911,netherlands,bulgaria,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,12973,1,guld.,1911,netherlands,central america,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,413595,1,guld.,1911,netherlands,chile,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1296535,1,guld.,1911,netherlands,china,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1225707,1,guld.,1911,netherlands,"colombia, ecuador, venezuela",exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,133879,1,guld.,1911,netherlands,cuba,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,651779,1,guld.,1911,netherlands,curcacao,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,15309727,1,guld.,1911,netherlands,denmark,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4668643,1,guld.,1911,netherlands,egypt,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2253122,1,guld.,1911,netherlands,english america,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5074261,1,guld.,1911,netherlands,english india,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,26392355,1,guld.,1911,netherlands,france,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,402097,1,guld.,1911,netherlands,gibraltar,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6343402,1,guld.,1911,netherlands,greece,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,554539080,1,guld.,1911,netherlands,great britain,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5890851,1,guld.,1911,netherlands,guiana (netherlands),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,271326,1,guld.,1911,netherlands,guiana (england),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,415,1,guld.,1911,netherlands,guiana (france),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,163192,1,guld.,1911,netherlands,haiti,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,57111160,1,guld.,1911,netherlands,hamburg,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25016069,1,guld.,1911,netherlands,ireland,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22858127,1,guld.,1911,netherlands,italy,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1287127,1,guld.,1911,netherlands,japan,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,125575124,1,guld.,1911,netherlands,java,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,626677,1,guld.,1911,netherlands,cape of good hope,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1516397,1,guld.,1911,netherlands,lubeck,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,447717,1,guld.,1911,netherlands,malta,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1317462,1,guld.,1911,netherlands,morocco,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,12216,1,guld.,1911,netherlands,mauritius,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,187039,1,guld.,1911,netherlands,mecklenburg,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,131042,1,guld.,1911,netherlands,mexico,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,16696884,1,guld.,1911,netherlands,norway,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2506,1,guld.,1911,netherlands,oldenbrug,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2218110,1,guld.,1911,netherlands,austria-hungary,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,68716,1,guld.,1911,netherlands,peru and bolivia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2850,1,guld.,1911,netherlands,persia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,27102,1,guld.,1911,netherlands,philippine islands,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8315409,1,guld.,1911,netherlands,portugal,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1204,1,guld.,1911,netherlands,portuguese indies,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1288560189,1,guld.,1911,netherlands,prussia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,15889671,1,guld.,1911,netherlands,rio de la plata (buenos aires),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7998810,1,guld.,1911,netherlands,romania,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,17576991,1,guld.,1911,netherlands,russia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,690,1,guld.,1911,netherlands,serbia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,99514,1,guld.,1911,netherlands,siam,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7512900,1,guld.,1911,netherlands,spain,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,52963,1,guld.,1911,netherlands,pacific ocean,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,19819912,1,guld.,1911,netherlands,turkey,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,105091534,1,guld.,1911,netherlands,united states of america,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,20201951,1,guld.,1911,netherlands,sweden,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2732387022,1,guld.,1911,netherlands,total,exp (uitover uit het vrije verkeer),spe,,,,,total_reporting,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8067740,1,guld.,1912,netherlands,africa (east coast),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,10891859,1,guld.,1912,netherlands,africa (west coast),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1148127,1,guld.,1912,netherlands,algeria,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,516788,1,guld.,1912,netherlands,antilles,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3432789,1,guld.,1912,netherlands,australia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,344724,1,guld.,1912,netherlands,azores,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,121448,1,guld.,1912,netherlands,barbarian states,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,370795519,1,guld.,1912,netherlands,belgium,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2185437,1,guld.,1912,netherlands,brazil,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,43832386,1,guld.,1912,netherlands,bremen,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,592527,1,guld.,1912,netherlands,bulgaria,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,80635,1,guld.,1912,netherlands,celebes,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,55753,1,guld.,1912,netherlands,central america,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,500404,1,guld.,1912,netherlands,chile,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5390441,1,guld.,1912,netherlands,china,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1840137,1,guld.,1912,netherlands,"colombia, ecuador, venezuela",exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,466366,1,guld.,1912,netherlands,cuba,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,644328,1,guld.,1912,netherlands,curcacao,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,23233864,1,guld.,1912,netherlands,denmark,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4895555,1,guld.,1912,netherlands,egypt,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2715322,1,guld.,1912,netherlands,english america,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7951559,1,guld.,1912,netherlands,english india,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25065419,1,guld.,1912,netherlands,france,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,536585,1,guld.,1912,netherlands,gibraltar,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4801477,1,guld.,1912,netherlands,greece,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,604714785,1,guld.,1912,netherlands,great britain,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,5547434,1,guld.,1912,netherlands,guiana (netherlands),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,288526,1,guld.,1912,netherlands,guiana (england),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,360,1,guld.,1912,netherlands,guiana (france),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,294215,1,guld.,1912,netherlands,haiti,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,55931125,1,guld.,1912,netherlands,hamburg,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22480287,1,guld.,1912,netherlands,ireland,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,23506528,1,guld.,1912,netherlands,italy,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,555517,1,guld.,1912,netherlands,japan,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,154291837,1,guld.,1912,netherlands,java,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1344046,1,guld.,1912,netherlands,cape of good hope,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,488544,1,guld.,1912,netherlands,lubeck,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1060575,1,guld.,1912,netherlands,malta,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1996802,1,guld.,1912,netherlands,morocco,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7569,1,guld.,1912,netherlands,mauritius,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,136596,1,guld.,1912,netherlands,mecklenburg,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,168733,1,guld.,1912,netherlands,mexico,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,7426,1,guld.,1912,netherlands,montenegro,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,22418422,1,guld.,1912,netherlands,norway,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,2399139,1,guld.,1912,netherlands,austria-hungary,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,77814,1,guld.,1912,netherlands,peru and bolivia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,4978,1,guld.,1912,netherlands,persia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,58394,1,guld.,1912,netherlands,philippine islands,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8681155,1,guld.,1912,netherlands,portugal,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6504,1,guld.,1912,netherlands,portuguese indies,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,1454838798,1,guld.,1912,netherlands,prussia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,8244483,1,guld.,1912,netherlands,rio de la plata (buenos aires),exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,6702117,1,guld.,1912,netherlands,romania,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,25129203,1,guld.,1912,netherlands,russia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3375,1,guld.,1912,netherlands,serbia,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,139660,1,guld.,1912,netherlands,siam,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,9115979,1,guld.,1912,netherlands,spain,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,50618,1,guld.,1912,netherlands,pacific ocean,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,19256963,1,guld.,1912,netherlands,turkey,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,135516772,1,guld.,1912,netherlands,united states of america,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,27538025,1,guld.,1912,netherlands,sweden,exp (uitover uit het vrije verkeer),spe,,,,,,
+StatistiekVanDenHandelEnDeScheepvaartInHetKoninkrijkDerNederlanden_1912,3113114503,1,guld.,1912,netherlands,total,exp (uitover uit het vrije verkeer),spe,,,,,total_reporting,

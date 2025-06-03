@@ -1,0 +1,9 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfAntiguaBlueBook_1843_168171,125339,1,sterling,1843,colony of antigua,great britain,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1843_168171,19137,1,sterling,1843,colony of antigua,british west indies,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1843_168171,16466,1,sterling,1843,colony of antigua,british north america,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1843_168171,53192,1,sterling,1843,colony of antigua,united states,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1843_168171,11319,1,sterling,1843,colony of antigua,other countries,imp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1843_168171,225453,1,sterling,1843,colony of antigua,total,imp,gen,,,,,total_reporting,
+ColonyOfAntiguaBlueBook_1843_168171,368934,1,sterling,1843,colony of antigua,great britain,exp,gen,,,,,,
+ColonyOfAntiguaBlueBook_1843_168171,368934,1,sterling,1843,colony of antigua,total,exp,gen,,,,,total_reporting,

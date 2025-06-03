@@ -1,0 +1,41 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+TrinidadAndTobagoBlueBook_1921_20334,1675885,1,pounds,1921,trinidad and tobago,uk,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,1155027,1,pounds,1921,trinidad and tobago,british north america,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,122690,1,pounds,1921,trinidad and tobago,british east indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,50978,1,pounds,1921,trinidad and tobago,british guiana,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,92432,1,pounds,1921,trinidad and tobago,british west indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,3714,1,pounds,1921,trinidad and tobago,american west indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,2096,1,pounds,1921,trinidad and tobago,belgium,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,5478,1,pounds,1921,trinidad and tobago,denmark,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,55758,1,pounds,1921,trinidad and tobago,france,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,8049,1,pounds,1921,trinidad and tobago,french west indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,16570,1,pounds,1921,trinidad and tobago,germany,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,80738,1,pounds,1921,trinidad and tobago,holland,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,7768,1,pounds,1921,trinidad and tobago,italy,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,9603,1,pounds,1921,trinidad and tobago,japan,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,200,1,pounds,1921,trinidad and tobago,norway,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,12674,1,pounds,1921,trinidad and tobago,portugal,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,3149,1,pounds,1921,trinidad and tobago,spain,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,663,1,pounds,1921,trinidad and tobago,sweden,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,2454770,1,pounds,1921,trinidad and tobago,us,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,934198,1,pounds,1921,trinidad and tobago,venezuela,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,52997,1,pounds,1921,trinidad and tobago,other countries,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,97754,1,pounds,1921,trinidad and tobago,parcel post,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,6843191,1,pounds,1921,trinidad and tobago,total,imp,,NS,,,,total_reporting,Country whence consigned
+TrinidadAndTobagoBlueBook_1921_20334,1865212,1,pounds,1921,trinidad and tobago,uk,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,361435,1,pounds,1921,trinidad and tobago,british north america,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,4670,1,pounds,1921,trinidad and tobago,british east indies,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,30389,1,pounds,1921,trinidad and tobago,british guiana,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,69579,1,pounds,1921,trinidad and tobago,british west indies,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,8455,1,pounds,1921,trinidad and tobago,other british possessions,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,15599,1,pounds,1921,trinidad and tobago,belgium,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,119768,1,pounds,1921,trinidad and tobago,france,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,128296,1,pounds,1921,trinidad and tobago,germany,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,171153,1,pounds,1921,trinidad and tobago,holland,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,6482,1,pounds,1921,trinidad and tobago,italy,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,1080042,1,pounds,1921,trinidad and tobago,us,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,5871,1,pounds,1921,trinidad and tobago,venezuela,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,118518,1,pounds,1921,trinidad and tobago,other countries,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,1332,1,pounds,1921,trinidad and tobago,ships stores,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,106594,1,pounds,1921,trinidad and tobago,bunkers,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1921_20334,4093395,1,pounds,1921,trinidad and tobago,total,exp,spe,NS,,,,total_reporting,Country of final destination

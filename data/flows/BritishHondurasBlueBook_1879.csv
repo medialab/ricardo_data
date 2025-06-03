@@ -1,0 +1,11 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BritishHondurasBlueBook_1879_123124,79284,1,£,1879,british honduras,united kingdom,imp,gen,,,,,,
+BritishHondurasBlueBook_1879_123124,974,1,£,1879,british honduras,jamaica,imp,gen,,,,,,
+BritishHondurasBlueBook_1879_123124,87557,1,£,1879,british honduras,united kingdom,exp,spe,,,,,,
+BritishHondurasBlueBook_1879_123124,59733,1,£,1879,british honduras,united states of america,imp,gen,,,,,,
+BritishHondurasBlueBook_1879_123124,19280,1,£,1879,british honduras,central american states,imp,gen,,,,,,
+BritishHondurasBlueBook_1879_123124,609,1,£,1879,british honduras,mexico,imp,gen,,,,,,
+BritishHondurasBlueBook_1879_123124,159883,1,£,1879,british honduras,total,imp,gen,,,,,total_reporting,
+BritishHondurasBlueBook_1879_123124,21932,1,£,1879,british honduras,united states of america,exp,spe,,,,,,
+BritishHondurasBlueBook_1879_123124,513,1,£,1879,british honduras,central american states,exp,spe,,,,,,
+BritishHondurasBlueBook_1879_123124,110003,1,£,1879,british honduras,total,exp,spe,,,,,total_reporting,

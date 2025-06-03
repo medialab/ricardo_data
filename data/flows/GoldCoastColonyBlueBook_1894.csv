@@ -1,0 +1,24 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GoldCoastColonyBlueBook_1894_X1,582274,1,£,1894,gold coast colony,united kingdom,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,1,1,£,1894,gold coast colony,barbadoes,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,10146,1,£,1894,gold coast colony,lagos,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,3021,1,£,1894,gold coast colony,sierra leone,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,7313,1,£,1894,gold coast colony,african ports (other),imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,79113,1,£,1894,gold coast colony,united states of america,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,16550,1,£,1894,gold coast colony,france,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,87966,1,£,1894,gold coast colony,germany,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,23812,1,£,1894,gold coast colony,holland,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,614,1,£,1894,gold coast colony,portuguese colonies,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,2020,1,£,1894,gold coast colony,sweden,imp,gen,S,,,,,With expenses
+GoldCoastColonyBlueBook_1894_X1,812830,1,£,1894,gold coast colony,total,imp,gen,S,,,,total_reporting,With expenses
+GoldCoastColonyBlueBook_1894_X1,571387,1,£,1894,gold coast colony,united kingdom,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,29135,1,£,1894,gold coast colony,lagos,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,91,1,£,1894,gold coast colony,sierra leone,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,227,1,£,1894,gold coast colony,african ports (other),exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,27869,1,£,1894,gold coast colony,united states of america,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,71127,1,£,1894,gold coast colony,france,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,104480,1,£,1894,gold coast colony,germany,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,63,1,£,1894,gold coast colony,holland,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,4430,1,£,1894,gold coast colony,portugal,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,5,1,£,1894,gold coast colony,portuguese colonies,exp,spe,S,,,,,
+GoldCoastColonyBlueBook_1894_X1,808854,1,£,1894,gold coast colony,total,exp,spe,S,,,,total_reporting,

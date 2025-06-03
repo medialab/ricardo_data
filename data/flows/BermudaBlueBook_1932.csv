@@ -1,0 +1,11 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BermudaBlueBook_1932_80,717213,1,£,1932,bermuda,united kingdom,imp,gen,,,,,,
+BermudaBlueBook_1932_80,437129,1,£,1932,bermuda,cominion of canada,imp,gen,,,,,,
+BermudaBlueBook_1932_80,50758,1,£,1932,bermuda,british west indies,imp,gen,,,,,,
+BermudaBlueBook_1932_80,639839,1,£,1932,bermuda,united states of america,imp,gen,,,,,,
+BermudaBlueBook_1932_80,46587,1,£,1932,bermuda,other countries,imp,gen,,,,,,
+BermudaBlueBook_1932_80,1891526,1,£,1932,bermuda,total,imp,gen,,,,,total_reporting,
+BermudaBlueBook_1932_80,28698,1,£,1932,bermuda,cominion of canada,exp,spe,,,,,,
+BermudaBlueBook_1932_80,171,1,£,1932,bermuda,british west indies,exp,spe,,,,,,
+BermudaBlueBook_1932_80,64592,1,£,1932,bermuda,united states of america,exp,spe,,,,,,
+BermudaBlueBook_1932_80,93461,1,£,1932,bermuda,total,exp,spe,,,,,total_reporting,

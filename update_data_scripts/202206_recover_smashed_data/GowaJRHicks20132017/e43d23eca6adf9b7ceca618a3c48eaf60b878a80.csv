@@ -1,0 +1,48 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GowaJRHicks20132017,6655767,1,$,1923,british guiana,united kingdom,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,2661740,1,$,1923,british guiana,canada,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,2504,1,$,1923,british guiana,bermuda,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,46,1,$,1923,british guiana,british south africa,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,541090,1,$,1923,british guiana,british west indies,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,191677,1,$,1923,british guiana,british east indies,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,832,1,$,1923,british guiana,hong kong,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,1086,1,$,1923,british guiana,newfoundland,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,271,1,$,1923,british guiana,straits settlements,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,9266,1,$,1923,british guiana,belgium,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,160,1,$,1923,british guiana,brazil,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,5655,1,$,1923,british guiana,denmark,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,32530,1,$,1923,british guiana,dutch guiana,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,12183,1,$,1923,british guiana,dutch west indies,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,57798,1,$,1923,british guiana,france,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,4492,1,$,1923,british guiana,french guiana,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,1919,1,$,1923,british guiana,french west indies,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,127185,1,$,1923,british guiana,germany,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,329084,1,$,1923,british guiana,holland,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,10701,1,$,1923,british guiana,italy,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,22387,1,$,1923,british guiana,latvia,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,2851,1,$,1923,british guiana,norway,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,17273,1,$,1923,british guiana,portugal,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,61841,1,$,1923,british guiana,portuguese posessions,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,19187,1,$,1923,british guiana,spain,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,1678,1,$,1923,british guiana,sweden,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,2002710,1,$,1923,british guiana,united states,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,14185,1,$,1923,british guiana,venezuela,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,22913,1,$,1923,british guiana,other countries,imp,,S,,,,,Country from which consigned
+GowaJRHicks20132017,8090737,1,$,1923,british guiana,united kingdom,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,5954440,1,$,1923,british guiana,canada,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,11346,1,$,1923,british guiana,bahamas,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,12258,1,$,1923,british guiana,bermuda,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,435950,1,$,1923,british guiana,british west indies,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,6637,1,$,1923,british guiana,newfoundland,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,1114235,1,$,1923,british guiana,belgium,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,46303,1,$,1923,british guiana,dutch guiana,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,1215,1,$,1923,british guiana,dutch west indies,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,26053,1,$,1923,british guiana,french guiana,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,5093,1,$,1923,british guiana,french west indies,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,938899,1,$,1923,british guiana,holland,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,91,1,$,1923,british guiana,portuguese posessions,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,751215,1,$,1923,british guiana,united states,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,688,1,$,1923,british guiana,venezuela,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,47,1,$,1923,british guiana,other countries,exp,spe,S,,,,,Country from which consigned
+GowaJRHicks20132017,12811011,1,$,1923,british guiana,total,imp,,S,,,,total_reporting,Country from which consigned
+GowaJRHicks20132017,17395207,1,$,1923,british guiana,total,exp,spe,S,,,,total_reporting,Country to which consigned

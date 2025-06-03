@@ -1,0 +1,54 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1911_W1,271192,1,pounds,1911,sierra leone,uk,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,77157,1,pounds,1911,sierra leone,gambia,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,753,1,pounds,1911,sierra leone,gold coast,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,3025,1,pounds,1911,sierra leone,nigeria,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,470,1,pounds,1911,sierra leone,france,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,523486,1,pounds,1911,sierra leone,germany,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,16414,1,pounds,1911,sierra leone,bissao,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,170,1,pounds,1911,sierra leone,boulama,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,4724,1,pounds,1911,sierra leone,conakry,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,9,1,pounds,1911,sierra leone,congo,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,24,1,pounds,1911,sierra leone,fernando po,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,4139,1,pounds,1911,sierra leone,guinea française,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,210,1,pounds,1911,sierra leone,ivory coast,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,546,1,pounds,1911,sierra leone,liberia,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,97236,1,pounds,1911,sierra leone,"senegal, dakar",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,156,1,pounds,1911,sierra leone,"senegal, goree",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,4383,1,pounds,1911,sierra leone,"senegal, rufisque",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,386,1,pounds,1911,sierra leone,"senegal, st louis",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,78,1,pounds,1911,sierra leone,grand canary,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1911_W1,1004558,1,pounds,1911,sierra leone,total,exp,spe,,,,,total_reporting,
+SierraLeoneBlueBook_1911_W1,950815,1,pounds,1911,sierra leone,uk,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,24722,1,pounds,1911,sierra leone,gambia,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,1112,1,pounds,1911,sierra leone,gold coast,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,32,1,pounds,1911,sierra leone,northern nigeria,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,10177,1,pounds,1911,sierra leone,southern nigeria,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,6,1,pounds,1911,sierra leone,ascension,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,1,1,pounds,1911,sierra leone,cape town,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,30,1,pounds,1911,sierra leone,gibraltar,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,1421,1,pounds,1911,sierra leone,belgium,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,308,1,pounds,1911,sierra leone,bissao,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,32,1,pounds,1911,sierra leone,cameroons,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,3928,1,pounds,1911,sierra leone,conakry,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,401,1,pounds,1911,sierra leone,congo,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,15,1,pounds,1911,sierra leone,denmark,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,56,1,pounds,1911,sierra leone,fernando po,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,11221,1,pounds,1911,sierra leone,france,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,142169,1,pounds,1911,sierra leone,germany,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,16848,1,pounds,1911,sierra leone,grand canary,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,8657,1,pounds,1911,sierra leone,guinea française,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,57393,1,pounds,1911,sierra leone,holland,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,61,1,pounds,1911,sierra leone,italy,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,2618,1,pounds,1911,sierra leone,ivory coast,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,9573,1,pounds,1911,sierra leone,liberia,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,14,1,pounds,1911,sierra leone,loanda,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,8305,1,pounds,1911,sierra leone,madeira,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,6,1,pounds,1911,sierra leone,norway,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,2230,1,pounds,1911,sierra leone,"senegal, dakar",imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,5,1,pounds,1911,sierra leone,"senegal, rufisque",imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,3,1,pounds,1911,sierra leone,"senegal, st louis",imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,106,1,pounds,1911,sierra leone,spain,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,4261,1,pounds,1911,sierra leone,teneriffe,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,10705,1,pounds,1911,sierra leone,usa,imp,spe,,,,,,Excludes goods entered for transhipment
+SierraLeoneBlueBook_1911_W1,1267231,1,pounds,1911,sierra leone,total,imp,,,,,,total_reporting,Excludes goods entered for transhipment

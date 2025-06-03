@@ -1,0 +1,10 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTobagoBlueBook_1880_157158,6529,1,£,1880,colony of tobago,united kingdom,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,38390,1,£,1880,colony of tobago,british west indies,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,52,1,£,1880,colony of tobago,french west indies,imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,95,1,£,1880,colony of tobago,saint martin (danish west indies),imp,gen,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,45138,1,£,1880,colony of tobago,total,imp,gen,,,,,total_reporting,
+ColonyOfTobagoBlueBook_1880_157158,71417,1,£,1880,colony of tobago,united kingdom,exp,spe,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,5859,1,£,1880,colony of tobago,british west indies,exp,spe,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,274,1,£,1880,colony of tobago,french west indies,exp,spe,,,,,,
+ColonyOfTobagoBlueBook_1880_157158,77540,1,£,1880,colony of tobago,total,exp,spe,,,,,total_reporting,

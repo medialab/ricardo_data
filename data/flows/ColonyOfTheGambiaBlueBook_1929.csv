@@ -1,0 +1,41 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1929_98,124472,1,pounds,1929,gambia,uk,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,6,1,pounds,1929,gambia,nigeria,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,843,1,pounds,1929,gambia,sierra leone,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,20925,1,pounds,1929,gambia,belgium,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,34,1,pounds,1929,gambia,canary islands,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,194,1,pounds,1929,gambia,cape verde islands,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,52653,1,pounds,1929,gambia,denmark,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,262060,1,pounds,1929,gambia,france,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,176,1,pounds,1929,gambia,french west african possessions,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,235468,1,pounds,1929,gambia,germany,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,86294,1,pounds,1929,gambia,holland,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,101,1,pounds,1929,gambia,liberia,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,35,1,pounds,1929,gambia,portugal,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_98,783261,1,pounds,1929,gambia,total,exp,spe,NS,,,,total_reporting,Country to which exported
+ColonyOfTheGambiaBlueBook_1929_97,205543,1,pounds,1929,gambia,uk,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,22,1,pounds,1929,gambia,gold coast,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,432,1,pounds,1929,gambia,india,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,825,1,pounds,1929,gambia,nigeria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,62563,1,pounds,1929,gambia,sierra leone,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,33,1,pounds,1929,gambia,algeria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,417,1,pounds,1929,gambia,austria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,9113,1,pounds,1929,gambia,belgium,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,1693,1,pounds,1929,gambia,canary islands,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,1993,1,pounds,1929,gambia,cape verde islands,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,22,1,pounds,1929,gambia,cuba,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,1692,1,pounds,1929,gambia,czecho-slovakia,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,539,1,pounds,1929,gambia,denmark,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,276,1,pounds,1929,gambia,egypt,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,236762,1,pounds,1929,gambia,france,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,9918,1,pounds,1929,gambia,french west african possessions,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,15728,1,pounds,1929,gambia,germany,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,5838,1,pounds,1929,gambia,holland,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,1039,1,pounds,1929,gambia,italy,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,811,1,pounds,1929,gambia,morocco,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,101,1,pounds,1929,gambia,norway,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,133,1,pounds,1929,gambia,portugal,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,1083,1,pounds,1929,gambia,sweden,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,1023,1,pounds,1929,gambia,switzerland,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,39562,1,pounds,1929,gambia,us,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1929_97,597161,1,pounds,1929,gambia,total,imp,gen,NS,,,,total_reporting,Country of origin

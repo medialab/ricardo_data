@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BermudaBlueBook_1923_60,708413,1,£,1923,bermuda,united kingdom,imp,gen,,,,,,
+BermudaBlueBook_1923_60,239048,1,£,1923,bermuda,dominion of canada,imp,gen,,,,,,
+BermudaBlueBook_1923_60,20718,1,£,1923,bermuda,british west indies,imp,gen,,,,,,
+BermudaBlueBook_1923_60,406,1,£,1923,bermuda,india,imp,gen,,,,,,
+BermudaBlueBook_1923_60,913576,1,£,1923,bermuda,united states of america,imp,gen,,,,,,
+BermudaBlueBook_1923_60,240,1,£,1923,bermuda,cuba,imp,gen,,,,,,
+BermudaBlueBook_1923_60,1882401,1,£,1923,bermuda,total,imp,gen,,,,,total_reporting,
+BermudaBlueBook_1923_60,3973,1,£,1923,bermuda,dominion of canada,exp,spe,,,,,,
+BermudaBlueBook_1923_60,2474,1,£,1923,bermuda,british west indies,exp,spe,,,,,,
+BermudaBlueBook_1923_60,113068,1,£,1923,bermuda,united states of america,exp,spe,,,,,,
+BermudaBlueBook_1923_60,119515,1,£,1923,bermuda,total,exp,spe,,,,,total_reporting,

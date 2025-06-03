@@ -1,0 +1,11 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheVirginIslandsBlueBook_1845_168169,1692,1,sterling,1845,colony of the virgin islands,united kingdom,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_168169,1541,1,sterling,1845,colony of the virgin islands,british west indies,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_168169,118,1,sterling,1845,colony of the virgin islands,british north america,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_168169,301,1,sterling,1845,colony of the virgin islands,united states of america,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_168169,5549,1,sterling,1845,colony of the virgin islands,foreign states,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_168169,9201,1,sterling,1845,colony of the virgin islands,total,imp,gen,,,,,total_reporting,
+ColonyOfTheVirginIslandsBlueBook_1845_172173,12273,1,sterling,1845,colony of the virgin islands,united kingdom,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_172173,1052,1,sterling,1845,colony of the virgin islands,british west indies,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_172173,1497,1,sterling,1845,colony of the virgin islands,foreign states,exp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1845_172173,14805,1,sterling,1845,colony of the virgin islands,total,exp,gen,,,,,total_reporting,

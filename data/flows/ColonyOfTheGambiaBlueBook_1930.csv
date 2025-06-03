@@ -1,0 +1,43 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1930_101,171885,1,pounds,1930,gambia,uk,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,15,1,pounds,1930,gambia,nigeria,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,2454,1,pounds,1930,gambia,sierra leone,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,29,1,pounds,1930,gambia,canary islands,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,92,1,pounds,1930,gambia,cape verde islands,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,38554,1,pounds,1930,gambia,denmark,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,358950,1,pounds,1930,gambia,france,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,591,1,pounds,1930,gambia,french west african possessions,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,159994,1,pounds,1930,gambia,germany,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,145300,1,pounds,1930,gambia,holland,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,30,1,pounds,1930,gambia,liberia,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,390,1,pounds,1930,gambia,portuguese guinea,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_101,878284,1,pounds,1930,gambia,total,exp,spe,NS,,,,total_reporting,Country to which exported
+ColonyOfTheGambiaBlueBook_1930_100,182262,1,pounds,1930,gambia,uk,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,155,1,pounds,1930,gambia,canada,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,3144,1,pounds,1930,gambia,gold coast,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,532,1,pounds,1930,gambia,india,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,913,1,pounds,1930,gambia,nigeria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,54133,1,pounds,1930,gambia,sierra leone,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,94,1,pounds,1930,gambia,algeria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,61,1,pounds,1930,gambia,austria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,7217,1,pounds,1930,gambia,belgium,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,1759,1,pounds,1930,gambia,canary islands,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,1705,1,pounds,1930,gambia,cape verde islands,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,29290,1,pounds,1930,gambia,china,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,1570,1,pounds,1930,gambia,czecho-slovakia,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,258,1,pounds,1930,gambia,denmark,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,157692,1,pounds,1930,gambia,france,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,16548,1,pounds,1930,gambia,french west african possessions,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,19524,1,pounds,1930,gambia,germany,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,9302,1,pounds,1930,gambia,holland,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,2368,1,pounds,1930,gambia,italy,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,53,1,pounds,1930,gambia,japan,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,1471,1,pounds,1930,gambia,morocco,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,381,1,pounds,1930,gambia,portugal,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,220,1,pounds,1930,gambia,portuguese guinea,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,83,1,pounds,1930,gambia,spain,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,1011,1,pounds,1930,gambia,sweden,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,1809,1,pounds,1930,gambia,switzerland,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,18,1,pounds,1930,gambia,syria,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,36412,1,pounds,1930,gambia,us,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1930_100,529985,1,pounds,1930,gambia,total,imp,gen,NS,,,,total_reporting,Country of origin

@@ -1,0 +1,41 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1924_191192,1203323,1,pounds,1924,sierra leone,uk,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,61390,1,pounds,1924,sierra leone,gambia,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,2586,1,pounds,1924,sierra leone,gold coast,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,57379,1,pounds,1924,sierra leone,nigeria,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,8441,1,pounds,1924,sierra leone,france,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,67573,1,pounds,1924,sierra leone,french west african possessions,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,25030,1,pounds,1924,sierra leone,germany,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,66,1,pounds,1924,sierra leone,high seas,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,7104,1,pounds,1924,sierra leone,holland,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,69944,1,pounds,1924,sierra leone,usa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,1422,1,pounds,1924,sierra leone,liberia,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,5937,1,pounds,1924,sierra leone,portuguese west africa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,3,1,pounds,1924,sierra leone,spanish west africa,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,100,1,pounds,1924,sierra leone,belgium,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,55,1,pounds,1924,sierra leone,canary islands,exp,spe,NS,,,,,Country of final destination
+SierraLeoneBlueBook_1924_191192,1510353,1,pounds,1924,sierra leone,total,exp,spe,NS,,,,total_reporting,Country of final destination
+SierraLeoneBlueBook_1924_191192,1124103,1,pounds,1924,sierra leone,uk,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,2680,1,pounds,1924,sierra leone,canada,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,6268,1,pounds,1924,sierra leone,gambia,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,5391,1,pounds,1924,sierra leone,gold coast,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,21240,1,pounds,1924,sierra leone,nigeria,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,19,1,pounds,1924,sierra leone,victoria (camerouns),imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,5,1,pounds,1924,sierra leone,gibraltar,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,13732,1,pounds,1924,sierra leone,belgium,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,9,1,pounds,1924,sierra leone,cuba,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,80,1,pounds,1924,sierra leone,denmark,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,71895,1,pounds,1924,sierra leone,france,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,101523,1,pounds,1924,sierra leone,germany,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,46223,1,pounds,1924,sierra leone,holland,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,556,1,pounds,1924,sierra leone,italy,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,82,1,pounds,1924,sierra leone,japan,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,1529,1,pounds,1924,sierra leone,liberia,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,47,1,pounds,1924,sierra leone,portugal,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,71,1,pounds,1924,sierra leone,spain,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,304,1,pounds,1924,sierra leone,sweden,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,208725,1,pounds,1924,sierra leone,usa,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,23460,1,pounds,1924,sierra leone,french possessions,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,7411,1,pounds,1924,sierra leone,spanish possessions,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,594,1,pounds,1924,sierra leone,portuguese possessions,imp,gen,NS,,,,,Country of origin
+SierraLeoneBlueBook_1924_191192,1635947,1,pounds,1924,sierra leone,total,imp,gen,NS,,,,total_reporting,Country of origin

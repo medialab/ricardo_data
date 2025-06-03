@@ -1,0 +1,13 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+MaltaBlueBook_1841_214217,25773,1,£,1841,malta,great britain,imp,gen,,,Year ends 30th September,,,
+MaltaBlueBook_1841_214217,4250,1,£,1841,malta,other british colonies,imp,gen,,,Year ends 30th September,,,
+MaltaBlueBook_1841_214217,1795,1,£,1841,malta,united states of america,imp,gen,,,Year ends 30th September,,,
+MaltaBlueBook_1841_214217,529371,1,£,1841,malta,other foreign countries,imp,gen,,,Year ends 30th September,,,
+MaltaBlueBook_1841_214217,561189,1,£,1841,malta,total,imp,gen,,,Year ends 30th September,,total_reporting,
+MaltaBlueBook_1841_214217,14025,1,£,1840,malta,great britain,imp,gen,,,,,,
+MaltaBlueBook_1841_214217,2614,1,£,1840,malta,other british colonies,imp,gen,,,,,,
+MaltaBlueBook_1841_214217,1000,1,£,1840,malta,united states of america,imp,gen,,,,,,
+MaltaBlueBook_1841_214217,424032,1,£,1840,malta,other foreign countries,imp,gen,,,,,,
+MaltaBlueBook_1841_214217,446671,1,£,1840,malta,total,imp,gen,,,,,total_reporting,
+MaltaBlueBook_1841_214217,204540,1,£,1841,malta,total,exp,gen,,,Year ends 30th September,,total_reporting,
+MaltaBlueBook_1841_214217,298504,1,£,1840,malta,total,exp,gen,,,,,total_reporting,

@@ -1,0 +1,394 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+GowaJRHicks20132017,828159,1,pounds,1921,south west africa,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,303246,1,pounds,1921,south west africa,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,379998,1,pounds,1921,south west africa,belgium,exp,,,,,,,
+GowaJRHicks20132017,20,1,pounds,1921,south west africa,madagascar,exp,,,,,,,
+GowaJRHicks20132017,59542,1,pounds,1921,south west africa,germany,exp,,,,,,,
+GowaJRHicks20132017,1947,1,pounds,1921,south west africa,netherlands,exp,,,,,,,
+GowaJRHicks20132017,247,1,pounds,1921,south west africa,portuguese west africa,exp,,,,,,,
+GowaJRHicks20132017,20,1,pounds,1921,south west africa,canary islands,exp,,,,,,,
+GowaJRHicks20132017,2762,1,pounds,1921,south west africa,us,exp,,,,,,,
+GowaJRHicks20132017,283,1,pounds,1921,south west africa,brazil,exp,,,,,,,
+GowaJRHicks20132017,354815,1,pounds,1922,south west africa,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,80,1,pounds,1922,south west africa,mauritius,exp,,,,,,,
+GowaJRHicks20132017,423568,1,pounds,1922,south west africa,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,323610,1,pounds,1922,south west africa,belgium,exp,,,,,,,
+GowaJRHicks20132017,5080,1,pounds,1922,south west africa,france,exp,,,,,,,
+GowaJRHicks20132017,12,1,pounds,1922,south west africa,madagascar,exp,,,,,,,
+GowaJRHicks20132017,73677,1,pounds,1922,south west africa,germany,exp,,,,,,,
+GowaJRHicks20132017,6035,1,pounds,1922,south west africa,netherlands,exp,,,,,,,
+GowaJRHicks20132017,328,1,pounds,1922,south west africa,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,437,1,pounds,1922,south west africa,portuguese west africa,exp,,,,,,,
+GowaJRHicks20132017,65,1,pounds,1922,south west africa,canary islands,exp,,,,,,,
+GowaJRHicks20132017,15780,1,pounds,1922,south west africa,us,exp,,,,,,,
+GowaJRHicks20132017,1426704,1,pounds,1923,south west africa,united kingdom,exp,,,,,,,
+GowaJRHicks20132017,102,1,pounds,1923,south west africa,mauritius,exp,,,,,,,
+GowaJRHicks20132017,545327,1,pounds,1923,south west africa,union of south africa,exp,,,,,,,
+GowaJRHicks20132017,434850,1,pounds,1923,south west africa,belgium,exp,,,,,,,
+GowaJRHicks20132017,41461,1,pounds,1923,south west africa,denmark,exp,,,,,,,
+GowaJRHicks20132017,32465,1,pounds,1923,south west africa,france,exp,,,,,,,
+GowaJRHicks20132017,148518,1,pounds,1923,south west africa,germany,exp,,,,,,,
+GowaJRHicks20132017,17842,1,pounds,1923,south west africa,netherlands,exp,,,,,,,
+GowaJRHicks20132017,6125,1,pounds,1923,south west africa,portuguese east africa,exp,,,,,,,
+GowaJRHicks20132017,247,1,pounds,1923,south west africa,canary islands,exp,,,,,,,
+GowaJRHicks20132017,1720,1,pounds,1923,south west africa,us,exp,,,,,,,
+GowaJRHicks20132017,1576224,1,pounds,1921,south west africa,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,1203487,1,pounds,1922,south west africa,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,2655361,1,pounds,1923,south west africa,total,exp,,,,,,total_reporting,
+GowaJRHicks20132017,5482,1,pounds,1919,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,1196,1,pounds,1919,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,31,1,pounds,1919,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,27,1,pounds,1919,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,5,1,pounds,1919,south west africa,nigeria,imp,,,,,,,country of origin
+GowaJRHicks20132017,11,1,pounds,1919,south west africa,zanzibar,imp,,,,,,,country of origin
+GowaJRHicks20132017,6,1,pounds,1919,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,918,1,pounds,1919,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,49,1,pounds,1919,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,4,1,pounds,1919,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,2344,1,pounds,1919,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,218,1,pounds,1919,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,260,1,pounds,1919,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,519,1,pounds,1919,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1919,south west africa,japan,imp,,,,,,,country of origin
+GowaJRHicks20132017,6017,1,pounds,1919,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,1135116,1,pounds,1919,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,74421,1,pounds,1920,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,66,1,pounds,1920,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,9,1,pounds,1920,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,86,1,pounds,1920,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,369,1,pounds,1920,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,2435,1,pounds,1920,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,12,1,pounds,1920,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,3556,1,pounds,1920,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,140,1,pounds,1920,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,5095,1,pounds,1920,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,185166,1,pounds,1920,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,15,1,pounds,1920,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,19281,1,pounds,1920,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,444,1,pounds,1920,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,1276,1,pounds,1920,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,82,1,pounds,1920,south west africa,portugal,imp,,,,,,,country of origin
+GowaJRHicks20132017,88,1,pounds,1920,south west africa,madeira,imp,,,,,,,country of origin
+GowaJRHicks20132017,100,1,pounds,1920,south west africa,portuguese east africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,23,1,pounds,1920,south west africa,ussr,imp,,,,,,,country of origin
+GowaJRHicks20132017,373,1,pounds,1920,south west africa,spain,imp,,,,,,,country of origin
+GowaJRHicks20132017,68,1,pounds,1920,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,16122,1,pounds,1920,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,7221,1,pounds,1920,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,8,1,pounds,1920,south west africa,turkey,imp,,,,,,,country of origin
+GowaJRHicks20132017,338,1,pounds,1920,south west africa,china,imp,,,,,,,country of origin
+GowaJRHicks20132017,92,1,pounds,1920,south west africa,japan,imp,,,,,,,country of origin
+GowaJRHicks20132017,22973,1,pounds,1920,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,12,1,pounds,1920,south west africa,brazil,imp,,,,,,,country of origin
+GowaJRHicks20132017,12,1,pounds,1920,south west africa,mexico,imp,,,,,,,country of origin
+GowaJRHicks20132017,1789364,1,pounds,1920,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,31285,1,pounds,1921,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,3,1,pounds,1921,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,34,1,pounds,1921,south west africa,british west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,1586,1,pounds,1921,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,13,1,pounds,1921,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,1294,1,pounds,1921,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,223,1,pounds,1921,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,103,1,pounds,1921,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,34,1,pounds,1921,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,2696,1,pounds,1921,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,176763,1,pounds,1921,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,5505,1,pounds,1921,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,143,1,pounds,1921,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,153,1,pounds,1921,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,96,1,pounds,1921,south west africa,madeira,imp,,,,,,,country of origin
+GowaJRHicks20132017,15,1,pounds,1921,south west africa,portuguese west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,37,1,pounds,1921,south west africa,spain,imp,,,,,,,country of origin
+GowaJRHicks20132017,80,1,pounds,1921,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,2536,1,pounds,1921,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,2846,1,pounds,1921,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,30,1,pounds,1921,south west africa,egypt,imp,,,,,,,country of origin
+GowaJRHicks20132017,15177,1,pounds,1921,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,143,1,pounds,1921,south west africa,brazil,imp,,,,,,,country of origin
+GowaJRHicks20132017,12,1,pounds,1921,south west africa,other foreign country,imp,,,,,,,country of origin
+GowaJRHicks20132017,859326,1,pounds,1921,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,31926,1,pounds,1922,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,524,1,pounds,1922,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,9,1,pounds,1922,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,53,1,pounds,1922,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,55,1,pounds,1922,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,1354,1,pounds,1922,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,544,1,pounds,1922,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,123,1,pounds,1922,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,95,1,pounds,1922,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,796,1,pounds,1922,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,64,1,pounds,1922,south west africa,other french possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,213841,1,pounds,1922,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,1755,1,pounds,1922,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,7,1,pounds,1922,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,8,1,pounds,1922,south west africa,hungary,imp,,,,,,,country of origin
+GowaJRHicks20132017,709,1,pounds,1922,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,185,1,pounds,1922,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,67,1,pounds,1922,south west africa,poland,imp,,,,,,,country of origin
+GowaJRHicks20132017,3,1,pounds,1922,south west africa,portugal,imp,,,,,,,country of origin
+GowaJRHicks20132017,24,1,pounds,1922,south west africa,madeira,imp,,,,,,,country of origin
+GowaJRHicks20132017,35,1,pounds,1922,south west africa,ussr,imp,,,,,,,country of origin
+GowaJRHicks20132017,25,1,pounds,1922,south west africa,spain,imp,,,,,,,country of origin
+GowaJRHicks20132017,34,1,pounds,1922,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,2401,1,pounds,1922,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,3411,1,pounds,1922,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,132,1,pounds,1922,south west africa,china,imp,,,,,,,country of origin
+GowaJRHicks20132017,27,1,pounds,1922,south west africa,japan,imp,,,,,,,country of origin
+GowaJRHicks20132017,86,1,pounds,1922,south west africa,siam,imp,,,,,,,country of origin
+GowaJRHicks20132017,9,1,pounds,1922,south west africa,egypt,imp,,,,,,,country of origin
+GowaJRHicks20132017,24770,1,pounds,1922,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,738356,1,pounds,1922,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,68055,1,pounds,1923,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,1237,1,pounds,1923,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,17,1,pounds,1923,south west africa,madagascar,imp,,,,,,,country of origin
+GowaJRHicks20132017,7,1,pounds,1923,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,4,1,pounds,1923,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1923,south west africa,portuguese west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,71,1,pounds,1923,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,370,1,pounds,1923,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,69762,1,pounds,1923,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,133,1,pounds,1923,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,1606,1,pounds,1923,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,4387,1,pounds,1923,south west africa,burma,imp,,,,,,,country of origin
+GowaJRHicks20132017,93,1,pounds,1923,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,269,1,pounds,1923,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,1849,1,pounds,1923,south west africa,malta,imp,,,,,,,country of origin
+GowaJRHicks20132017,243124,1,pounds,1923,south west africa,british malaya,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1923,south west africa,mesopotamia,imp,,,,,,,country of origin
+GowaJRHicks20132017,2935,1,pounds,1923,south west africa,anglo-egyptian sudan,imp,,,,,,,country of origin
+GowaJRHicks20132017,96,1,pounds,1923,south west africa,british south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,17,1,pounds,1923,south west africa,kenya,imp,,,,,,,country of origin
+GowaJRHicks20132017,1380,1,pounds,1923,south west africa,nigeria,imp,,,,,,,country of origin
+GowaJRHicks20132017,3214,1,pounds,1923,south west africa,mauritius,imp,,,,,,,country of origin
+GowaJRHicks20132017,209,1,pounds,1923,south west africa,zanzibar,imp,,,,,,,country of origin
+GowaJRHicks20132017,19,1,pounds,1923,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,19,1,pounds,1923,south west africa,southwest africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,81,1,pounds,1923,south west africa,british guiana,imp,,,,,,,country of origin
+GowaJRHicks20132017,85,1,pounds,1923,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,461,1,pounds,1923,south west africa,australia,imp,,,,,,,country of origin
+GowaJRHicks20132017,4152,1,pounds,1923,south west africa,new zealand,imp,,,,,,,country of origin
+GowaJRHicks20132017,4327,1,pounds,1923,south west africa,ireland,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1923,south west africa,belgian congo,imp,,,,,,,country of origin
+GowaJRHicks20132017,88,1,pounds,1923,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,136,1,pounds,1923,south west africa,madagascar,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1923,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,16914,1,pounds,1923,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,8,1,pounds,1923,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,3696,1,pounds,1923,south west africa,surinam,imp,,,,,,,country of origin
+GowaJRHicks20132017,56,1,pounds,1923,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,289358,1,pounds,1923,south west africa,angola,imp,,,,,,,country of origin
+GowaJRHicks20132017,800858,1,pounds,1923,south west africa,roumania,imp,,,,,,,country of origin
+GowaJRHicks20132017,106477,1,pounds,1924,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,1414,1,pounds,1924,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,13,1,pounds,1924,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,20,1,pounds,1924,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1924,south west africa,malta,imp,,,,,,,country of origin
+GowaJRHicks20132017,8,1,pounds,1924,south west africa,british east india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,10,1,pounds,1924,south west africa,mesopotamia,imp,,,,,,,country of origin
+GowaJRHicks20132017,188,1,pounds,1924,south west africa,british south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,3,1,pounds,1924,south west africa,zanzibar,imp,,,,,,,country of origin
+GowaJRHicks20132017,25,1,pounds,1924,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,603,1,pounds,1924,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,70,1,pounds,1924,south west africa,ireland,imp,,,,,,,country of origin
+GowaJRHicks20132017,247,1,pounds,1924,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,4121,1,pounds,1924,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,888,1,pounds,1924,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,784,1,pounds,1924,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,137,1,pounds,1924,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,1946,1,pounds,1924,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,7,1,pounds,1924,south west africa,other french possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,396363,1,pounds,1924,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,10,1,pounds,1924,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,22558,1,pounds,1924,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,21,1,pounds,1924,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,34,1,pounds,1924,south west africa,hungary,imp,,,,,,,country of origin
+GowaJRHicks20132017,1814,1,pounds,1924,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,6577,1,pounds,1924,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,3944,1,pounds,1924,south west africa,poland,imp,,,,,,,country of origin
+GowaJRHicks20132017,104,1,pounds,1924,south west africa,portugal,imp,,,,,,,country of origin
+GowaJRHicks20132017,22,1,pounds,1924,south west africa,madeira,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1924,south west africa,portuguese west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,14,1,pounds,1924,south west africa,roumania,imp,,,,,,,country of origin
+GowaJRHicks20132017,125,1,pounds,1924,south west africa,ussr,imp,,,,,,,country of origin
+GowaJRHicks20132017,150,1,pounds,1924,south west africa,spain,imp,,,,,,,country of origin
+GowaJRHicks20132017,103,1,pounds,1924,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,13292,1,pounds,1924,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,8261,1,pounds,1924,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,21,1,pounds,1924,south west africa,turkey,imp,,,,,,,country of origin
+GowaJRHicks20132017,16,1,pounds,1924,south west africa,yugoslavia,imp,,,,,,,country of origin
+GowaJRHicks20132017,25,1,pounds,1924,south west africa,china,imp,,,,,,,country of origin
+GowaJRHicks20132017,682,1,pounds,1924,south west africa,japan,imp,,,,,,,country of origin
+GowaJRHicks20132017,447,1,pounds,1924,south west africa,siam,imp,,,,,,,country of origin
+GowaJRHicks20132017,21,1,pounds,1924,south west africa,egypt,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1924,south west africa,morocco,imp,,,,,,,country of origin
+GowaJRHicks20132017,49517,1,pounds,1924,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,446,1,pounds,1924,south west africa,argentine,imp,,,,,,,country of origin
+GowaJRHicks20132017,6352,1,pounds,1924,south west africa,brazil,imp,,,,,,,country of origin
+GowaJRHicks20132017,5,1,pounds,1924,south west africa,mexico,imp,,,,,,,country of origin
+GowaJRHicks20132017,138,1,pounds,1924,south west africa,guatemala,imp,,,,,,,country of origin
+GowaJRHicks20132017,1006753,1,pounds,1924,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,164857,1,pounds,1926,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,2400,1,pounds,1926,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,898,1,pounds,1926,south west africa,burma,imp,,,,,,,country of origin
+GowaJRHicks20132017,27,1,pounds,1926,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,21,1,pounds,1926,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,13,1,pounds,1926,south west africa,hong kong,imp,,,,,,,country of origin
+GowaJRHicks20132017,7,1,pounds,1926,south west africa,mesopotamia,imp,,,,,,,country of origin
+GowaJRHicks20132017,26,1,pounds,1926,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,1610,1,pounds,1926,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,86,1,pounds,1926,south west africa,australia,imp,,,,,,,country of origin
+GowaJRHicks20132017,543,1,pounds,1926,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,7341,1,pounds,1926,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,10956,1,pounds,1926,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,4219,1,pounds,1926,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,194,1,pounds,1926,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,3964,1,pounds,1926,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,689,1,pounds,1926,south west africa,other french possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,696917,1,pounds,1926,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,32,1,pounds,1926,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,15854,1,pounds,1926,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,468,1,pounds,1926,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,374,1,pounds,1926,south west africa,hungary,imp,,,,,,,country of origin
+GowaJRHicks20132017,4226,1,pounds,1926,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,9249,1,pounds,1926,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,1860,1,pounds,1926,south west africa,yugoslavia,imp,,,,,,,country of origin
+GowaJRHicks20132017,21,1,pounds,1926,south west africa,egypt,imp,,,,,,,country of origin
+GowaJRHicks20132017,1260176,1,pounds,1926,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,126140,1,pounds,1927,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,3266,1,pounds,1927,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,49,1,pounds,1927,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,5,1,pounds,1927,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,28,1,pounds,1927,south west africa,mesopotamia,imp,,,,,,,country of origin
+GowaJRHicks20132017,10,1,pounds,1927,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,1345,1,pounds,1927,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,95,1,pounds,1927,south west africa,australia,imp,,,,,,,country of origin
+GowaJRHicks20132017,110,1,pounds,1927,south west africa,ireland,imp,,,,,,,country of origin
+GowaJRHicks20132017,619,1,pounds,1927,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,10452,1,pounds,1927,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,11033,1,pounds,1927,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,2042,1,pounds,1927,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,1042,1,pounds,1927,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,5531,1,pounds,1927,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,670,1,pounds,1927,south west africa,other french possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,510607,1,pounds,1927,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,9,1,pounds,1927,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,30266,1,pounds,1927,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,8731,1,pounds,1927,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1927,south west africa,surinam and curacao,imp,,,,,,,country of origin
+GowaJRHicks20132017,627,1,pounds,1927,south west africa,hungary,imp,,,,,,,country of origin
+GowaJRHicks20132017,4232,1,pounds,1927,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,11632,1,pounds,1927,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,2,1,pounds,1927,south west africa,yugoslavia,imp,,,,,,,country of origin
+GowaJRHicks20132017,1498846,1,pounds,1927,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,161295,1,pounds,1928,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,3065,1,pounds,1928,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,160,1,pounds,1928,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,44,1,pounds,1928,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,261,1,pounds,1928,south west africa,british east india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,57,1,pounds,1928,south west africa,hong kong,imp,,,,,,,country of origin
+GowaJRHicks20132017,178,1,pounds,1928,south west africa,mesopotamia,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1928,south west africa,british west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,53,1,pounds,1928,south west africa,kenya,imp,,,,,,,country of origin
+GowaJRHicks20132017,2,1,pounds,1928,south west africa,zanzibar,imp,,,,,,,country of origin
+GowaJRHicks20132017,38,1,pounds,1928,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,4163,1,pounds,1928,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,211,1,pounds,1928,south west africa,australia,imp,,,,,,,country of origin
+GowaJRHicks20132017,95,1,pounds,1928,south west africa,ireland,imp,,,,,,,country of origin
+GowaJRHicks20132017,2157,1,pounds,1928,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,20271,1,pounds,1928,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,16022,1,pounds,1928,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,1071,1,pounds,1928,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,2596,1,pounds,1928,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,7707,1,pounds,1928,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,286,1,pounds,1928,south west africa,other french possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,556293,1,pounds,1928,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,7,1,pounds,1928,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,16028,1,pounds,1928,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,7000,1,pounds,1928,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,2723,1,pounds,1928,south west africa,hungary,imp,,,,,,,country of origin
+GowaJRHicks20132017,5227,1,pounds,1928,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,3,1,pounds,1928,south west africa,other italian possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,14031,1,pounds,1928,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,3622,1,pounds,1928,south west africa,poland,imp,,,,,,,country of origin
+GowaJRHicks20132017,402,1,pounds,1928,south west africa,portugal,imp,,,,,,,country of origin
+GowaJRHicks20132017,36,1,pounds,1928,south west africa,madeira,imp,,,,,,,country of origin
+GowaJRHicks20132017,117,1,pounds,1928,south west africa,portuguese west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,18,1,pounds,1928,south west africa,roumania,imp,,,,,,,country of origin
+GowaJRHicks20132017,385,1,pounds,1928,south west africa,ussr,imp,,,,,,,country of origin
+GowaJRHicks20132017,484,1,pounds,1928,south west africa,spain,imp,,,,,,,country of origin
+GowaJRHicks20132017,731,1,pounds,1928,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,33571,1,pounds,1928,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,8795,1,pounds,1928,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,12,1,pounds,1928,south west africa,turkey,imp,,,,,,,country of origin
+GowaJRHicks20132017,135,1,pounds,1928,south west africa,china,imp,,,,,,,country of origin
+GowaJRHicks20132017,669,1,pounds,1928,south west africa,japan,imp,,,,,,,country of origin
+GowaJRHicks20132017,513,1,pounds,1928,south west africa,latvia,imp,,,,,,,country of origin
+GowaJRHicks20132017,906,1,pounds,1928,south west africa,siam,imp,,,,,,,country of origin
+GowaJRHicks20132017,4,1,pounds,1928,south west africa,egypt,imp,,,,,,,country of origin
+GowaJRHicks20132017,1,1,pounds,1928,south west africa,morocco,imp,,,,,,,country of origin
+GowaJRHicks20132017,145706,1,pounds,1928,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,254,1,pounds,1928,south west africa,argentine,imp,,,,,,,country of origin
+GowaJRHicks20132017,14696,1,pounds,1928,south west africa,brazil,imp,,,,,,,country of origin
+GowaJRHicks20132017,37,1,pounds,1928,south west africa,venezuela,imp,,,,,,,country of origin
+GowaJRHicks20132017,1694353,1,pounds,1928,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,225287,1,pounds,1929,south west africa,united kingdom,imp,,,,,,,country of origin
+GowaJRHicks20132017,3277,1,pounds,1929,south west africa,india,imp,,,,,,,country of origin
+GowaJRHicks20132017,103,1,pounds,1929,south west africa,ceylon,imp,,,,,,,country of origin
+GowaJRHicks20132017,87,1,pounds,1929,south west africa,straits settlements,imp,,,,,,,country of origin
+GowaJRHicks20132017,148,1,pounds,1929,south west africa,british east india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,331,1,pounds,1929,south west africa,mesopotamia,imp,,,,,,,country of origin
+GowaJRHicks20132017,31,1,pounds,1929,south west africa,zanzibar,imp,,,,,,,country of origin
+GowaJRHicks20132017,133,1,pounds,1929,south west africa,british west india islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,3215,1,pounds,1929,south west africa,canada,imp,,,,,,,country of origin
+GowaJRHicks20132017,276,1,pounds,1929,south west africa,australia,imp,,,,,,,country of origin
+GowaJRHicks20132017,208,1,pounds,1929,south west africa,ireland,imp,,,,,,,country of origin
+GowaJRHicks20132017,2595,1,pounds,1929,south west africa,austria,imp,,,,,,,country of origin
+GowaJRHicks20132017,20217,1,pounds,1929,south west africa,belgium,imp,,,,,,,country of origin
+GowaJRHicks20132017,17686,1,pounds,1929,south west africa,czechoslovakia,imp,,,,,,,country of origin
+GowaJRHicks20132017,1066,1,pounds,1929,south west africa,denmark,imp,,,,,,,country of origin
+GowaJRHicks20132017,20330,1,pounds,1929,south west africa,finland,imp,,,,,,,country of origin
+GowaJRHicks20132017,8074,1,pounds,1929,south west africa,france,imp,,,,,,,country of origin
+GowaJRHicks20132017,302,1,pounds,1929,south west africa,other french possessions,imp,,,,,,,country of origin
+GowaJRHicks20132017,664546,1,pounds,1929,south west africa,germany,imp,,,,,,,country of origin
+GowaJRHicks20132017,48,1,pounds,1929,south west africa,greece,imp,,,,,,,country of origin
+GowaJRHicks20132017,19611,1,pounds,1929,south west africa,netherlands,imp,,,,,,,country of origin
+GowaJRHicks20132017,1948,1,pounds,1929,south west africa,netherlands indies,imp,,,,,,,country of origin
+GowaJRHicks20132017,1202,1,pounds,1929,south west africa,hungary,imp,,,,,,,country of origin
+GowaJRHicks20132017,4853,1,pounds,1929,south west africa,italy,imp,,,,,,,country of origin
+GowaJRHicks20132017,20101,1,pounds,1929,south west africa,norway,imp,,,,,,,country of origin
+GowaJRHicks20132017,3773,1,pounds,1929,south west africa,poland,imp,,,,,,,country of origin
+GowaJRHicks20132017,408,1,pounds,1929,south west africa,portugal,imp,,,,,,,country of origin
+GowaJRHicks20132017,19,1,pounds,1929,south west africa,madeira,imp,,,,,,,country of origin
+GowaJRHicks20132017,11,1,pounds,1929,south west africa,portuguese east africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,445,1,pounds,1929,south west africa,portuguese west africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,266,1,pounds,1929,south west africa,ussr,imp,,,,,,,country of origin
+GowaJRHicks20132017,243,1,pounds,1929,south west africa,spain,imp,,,,,,,country of origin
+GowaJRHicks20132017,236,1,pounds,1929,south west africa,canary islands,imp,,,,,,,country of origin
+GowaJRHicks20132017,23695,1,pounds,1929,south west africa,sweden,imp,,,,,,,country of origin
+GowaJRHicks20132017,6452,1,pounds,1929,south west africa,switzerland,imp,,,,,,,country of origin
+GowaJRHicks20132017,22,1,pounds,1929,south west africa,turkey,imp,,,,,,,country of origin
+GowaJRHicks20132017,96,1,pounds,1929,south west africa,yugoslavia,imp,,,,,,,country of origin
+GowaJRHicks20132017,78,1,pounds,1929,south west africa,china,imp,,,,,,,country of origin
+GowaJRHicks20132017,531,1,pounds,1929,south west africa,japan,imp,,,,,,,country of origin
+GowaJRHicks20132017,222,1,pounds,1929,south west africa,lithuania,imp,,,,,,,country of origin
+GowaJRHicks20132017,66,1,pounds,1929,south west africa,iran,imp,,,,,,,country of origin
+GowaJRHicks20132017,889,1,pounds,1929,south west africa,siam,imp,,,,,,,country of origin
+GowaJRHicks20132017,12,1,pounds,1929,south west africa,morocco,imp,,,,,,,country of origin
+GowaJRHicks20132017,176584,1,pounds,1929,south west africa,us,imp,,,,,,,country of origin
+GowaJRHicks20132017,652,1,pounds,1929,south west africa,argentine,imp,,,,,,,country of origin
+GowaJRHicks20132017,16683,1,pounds,1929,south west africa,brazil,imp,,,,,,,country of origin
+GowaJRHicks20132017,2,1,pounds,1929,south west africa,cuba,imp,,,,,,,country of origin
+GowaJRHicks20132017,135,1,pounds,1929,south west africa,guatemala,imp,,,,,,,country of origin
+GowaJRHicks20132017,55,1,pounds,1929,south west africa,venezuela,imp,,,,,,,country of origin
+GowaJRHicks20132017,6,1,pounds,1929,south west africa,chile,imp,,,,,,,country of origin
+GowaJRHicks20132017,1720553,1,pounds,1929,south west africa,union of south africa,imp,,,,,,,country of origin
+GowaJRHicks20132017,1152204,1,pounds,1919,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,2129247,1,pounds,1920,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,1100133,1,pounds,1921,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,1021428,1,pounds,1922,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,1159978,1,pounds,1923,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,1634779,1,pounds,1924,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,2326844,1,pounds,1926,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,2370116,1,pounds,1927,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,2726492,1,pounds,1928,south west africa,total,imp,,,,,,total_reporting,country of origin
+GowaJRHicks20132017,2967809,1,pounds,1929,south west africa,total,imp,,,,,,total_reporting,country of origin

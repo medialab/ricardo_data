@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 DanmarksVareindfrselOgudfrsel_1932_186187,1729138,1000,kr.,1930,danmark,i alt,imp,gen,,,,,total_reporting,
 DanmarksVareindfrselOgudfrsel_1932_186187,590834,1000,kr.,1930,danmark,tyskland,imp,gen,,,,,,
-DanmarksVareindfrselOgudfrsel_1932_186187,250998,1000,kr.,1930,danmark,storbritannien;irske fristat,imp,gen,,,,,,
+DanmarksVareindfrselOgudfrsel_1932_186187,250998,1000,kr.,1930,danmark,"storbritannien,irske fristat",imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,40993,1000,kr.,1930,danmark,norge,imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,122902,1000,kr.,1930,danmark,sverige,imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,2680,1000,kr.,1930,danmark,island,imp,gen,,,,,,
@@ -50,7 +50,7 @@ DanmarksVareindfrselOgudfrsel_1932_186187,1869,1000,kr.,1930,danmark,sydafrikans
 DanmarksVareindfrselOgudfrsel_1932_186187,1444,1000,kr.,1930,danmark,øvrige afrika,imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,899,1000,kr.,1930,danmark,sydvestasien,imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,5207,1000,kr.,1930,danmark,britisk indien,imp,gen,,,,,,
-DanmarksVareindfrselOgudfrsel_1932_186187,1029,1000,kr.,1930,danmark,ceylon;siam,imp,gen,,,,,,
+DanmarksVareindfrselOgudfrsel_1932_186187,1029,1000,kr.,1930,danmark,"ceylon,siam",imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,1,1000,kr.,1930,danmark,fransk bagindien,imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,21551,1000,kr.,1930,danmark,hollandsk ostindien,imp,gen,,,,,,
 DanmarksVareindfrselOgudfrsel_1932_186187,235,1000,kr.,1930,danmark,filippinerne,imp,gen,,,,,,

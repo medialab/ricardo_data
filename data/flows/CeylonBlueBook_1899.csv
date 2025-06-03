@@ -1,0 +1,86 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+CeylonBlueBook_1899_U3,31555193,1,rupees,1899,ceylon,united kingdom,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,3520,1,rupees,1899,ceylon,aden,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,779676,1,rupees,1899,ceylon,australia,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,65678928,1,rupees,1899,ceylon,british possessions in india,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,662,1,rupees,1899,ceylon,british possessions in east africa,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,10484,1,rupees,1899,ceylon,canada,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,796,1,rupees,1899,ceylon,gibraltar,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,977703,1,rupees,1899,ceylon,hongkong,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,7060,1,rupees,1899,ceylon,malta,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,45052,1,rupees,1899,ceylon,mauritius,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,7519,1,rupees,1899,ceylon,natal,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,1588,1,rupees,1899,ceylon,new zealand,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,675097,1,rupees,1899,ceylon,straits settlements,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,1948323,1,rupees,1899,ceylon,maldive islands,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,838319,1,rupees,1899,ceylon,austria hungary,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,349590,1,rupees,1899,ceylon,belgium,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,1806374,1,rupees,1899,ceylon,china (excluding hongkong),imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,2846,1,rupees,1899,ceylon,denmark,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,1915,1,rupees,1899,ceylon,dutch indies,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,31032,1,rupees,1899,ceylon,egypt,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,392386,1,rupees,1899,ceylon,france,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,1507313,1,rupees,1899,ceylon,india (non british),imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,2053929,1,rupees,1899,ceylon,germany,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,411189,1,rupees,1899,ceylon,holland,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,296357,1,rupees,1899,ceylon,italy,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,930928,1,rupees,1899,ceylon,japan,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,8717,1,rupees,1899,ceylon,other foreign countries in africa,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,15819,1,rupees,1899,ceylon,norway,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,1118989,1,rupees,1899,ceylon,russia,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,638,1,rupees,1899,ceylon,siam,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,7199,1,rupees,1899,ceylon,spain,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,123748,1,rupees,1899,ceylon,sweden,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,154012,1,rupees,1899,ceylon,switzerland,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,834,1,rupees,1899,ceylon,turkey in asia,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,248595,1,rupees,1899,ceylon,united states of america,imp,gen,S,,,,,
+CeylonBlueBook_1899_U3,111992349,1,rupees,1899,ceylon,total,imp,gen,S,,,,total_reporting,
+CeylonBlueBook_1899_U3,60918048,1,rupees,1899,ceylon,united kingdom,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,8492,1,rupees,1899,ceylon,aden,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,6655623,1,rupees,1899,ceylon,australia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,27788,1,rupees,1899,ceylon,british west indies,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,4343621,1,rupees,1899,ceylon,british possessions in india,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,24825,1,rupees,1899,ceylon,british possessions in east africa,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,628398,1,rupees,1899,ceylon,canada,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,31497,1,rupees,1899,ceylon,cape colony,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,3200,1,rupees,1899,ceylon,gibraltar,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,359604,1,rupees,1899,ceylon,hongkong,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,43401,1,rupees,1899,ceylon,malta,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,43323,1,rupees,1899,ceylon,mauritius,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,90,1,rupees,1899,ceylon,natal,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,69115,1,rupees,1899,ceylon,new zealand,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,566068,1,rupees,1899,ceylon,straits settlements,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,46762,1,rupees,1899,ceylon,maldive islands,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,939,1,rupees,1899,ceylon,other british possessions in asia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,28480,1,rupees,1899,ceylon,zanzibar,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,22,1,rupees,1899,ceylon,arabia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,584070,1,rupees,1899,ceylon,austria hungary,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,2522977,1,rupees,1899,ceylon,belgium,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,227653,1,rupees,1899,ceylon,china (excluding hongkong),exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,100406,1,rupees,1899,ceylon,denmark,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,8364,1,rupees,1899,ceylon,dutch indies,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,67730,1,rupees,1899,ceylon,egypt,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,743683,1,rupees,1899,ceylon,france,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,61149,1,rupees,1899,ceylon,india (non british),exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,4749222,1,rupees,1899,ceylon,germany,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,1077,1,rupees,1899,ceylon,greece,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,363834,1,rupees,1899,ceylon,holland,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,165181,1,rupees,1899,ceylon,italy,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,67918,1,rupees,1899,ceylon,japan,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,2224,1,rupees,1899,ceylon,madagascar,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,2563,1,rupees,1899,ceylon,other foreign countries in africa,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,2880,1,rupees,1899,ceylon,norway,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,1952,1,rupees,1899,ceylon,other foreign countries in australasia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,592,1,rupees,1899,ceylon,persia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,206,1,rupees,1899,ceylon,phillipines,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,2738950,1,rupees,1899,ceylon,russia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,80,1,rupees,1899,ceylon,roumania,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,84,1,rupees,1899,ceylon,reunion,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,6337,1,rupees,1899,ceylon,south america,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,50,1,rupees,1899,ceylon,siam,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,175588,1,rupees,1899,ceylon,spain,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,27169,1,rupees,1899,ceylon,sweden,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,2887,1,rupees,1899,ceylon,turkey in europe,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,4185,1,rupees,1899,ceylon,turkey in asia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,13667360,1,rupees,1899,ceylon,united states of america,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1899_U3,100095681,1,rupees,1899,ceylon,total,exp,spe,S,,,,total_reporting,Produce and manufacture of the colony

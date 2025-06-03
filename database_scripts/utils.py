@@ -61,7 +61,7 @@ def sqlitetables2csv(sqlitefilename, tablenames, output_dir="out_data"):
 
 
 def csv2sqlite(csv_path, sqlite_filename, sqlite_schema_filename=None):
-    create_options = ""
+    create_options = "-I"
     if sqlite_schema_filename:
         conn = sqlite3.connect(sqlite_filename)
         c = conn.cursor()
@@ -69,7 +69,7 @@ def csv2sqlite(csv_path, sqlite_filename, sqlite_schema_filename=None):
             c.executescript(schema.read())
         conn.commit()
         conn.close()
-        create_options = "--no-create"
+        create_options = "--no-create -I"
     commandline = """csvsql --db sqlite:///%s %s --insert %s""" % (
         sqlite_filename, create_options, csv_path)
     subprocess.call(commandline, shell=True)

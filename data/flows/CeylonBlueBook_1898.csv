@@ -1,0 +1,87 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+CeylonBlueBook_1898_U3,26269887,1,rupees,1898,ceylon,united kingdom,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,5568,1,rupees,1898,ceylon,aden,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,685205,1,rupees,1898,ceylon,australia,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,60334419,1,rupees,1898,ceylon,british possessions in india,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,755,1,rupees,1898,ceylon,gibraltar,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,1477370,1,rupees,1898,ceylon,hongkong,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,2537,1,rupees,1898,ceylon,malta,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,85828,1,rupees,1898,ceylon,mauritius,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,1407716,1,rupees,1898,ceylon,straits settlements,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,311,1,rupees,1898,ceylon,new zealand,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,16312,1,rupees,1898,ceylon,africa,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,123571,1,rupees,1898,ceylon,austria hungary,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,194495,1,rupees,1898,ceylon,belgium,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,525,1,rupees,1898,ceylon,brazil,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,1056291,1,rupees,1898,ceylon,china (excluding hongkong),imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,1026,1,rupees,1898,ceylon,denmark,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,221209,1,rupees,1898,ceylon,dutch indies,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,7210,1,rupees,1898,ceylon,dutch possessions in india,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,54569,1,rupees,1898,ceylon,egypt,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,387378,1,rupees,1898,ceylon,france,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,1087691,1,rupees,1898,ceylon,french possessions in india,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,1751446,1,rupees,1898,ceylon,germany,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,193325,1,rupees,1898,ceylon,holland,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,69806,1,rupees,1898,ceylon,italy,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,449555,1,rupees,1898,ceylon,japan,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,620193,1,rupees,1898,ceylon,maldive islands,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,3273,1,rupees,1898,ceylon,norway,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,22066,1,rupees,1898,ceylon,phillipines,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,881120,1,rupees,1898,ceylon,russia,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,104,1,rupees,1898,ceylon,siam,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,3573,1,rupees,1898,ceylon,spain,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,76595,1,rupees,1898,ceylon,sweden,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,137166,1,rupees,1898,ceylon,switzerland,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,520,1,rupees,1898,ceylon,turkey in asia,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,264429,1,rupees,1898,ceylon,united states of america,imp,gen,S,,,,,
+CeylonBlueBook_1898_U3,97893058,1,rupees,1898,ceylon,total,imp,gen,S,,,,total_reporting,
+CeylonBlueBook_1898_U3,52433352,1,rupees,1898,ceylon,united kingdom,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,10532,1,rupees,1898,ceylon,aden,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,6339246,1,rupees,1898,ceylon,australia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,6326,1,rupees,1898,ceylon,bermudas,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,5793515,1,rupees,1898,ceylon,british possessions in india,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,8881,1,rupees,1898,ceylon,british possessions in africa,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,129183,1,rupees,1898,ceylon,canada,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,57189,1,rupees,1898,ceylon,cape colony,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,624,1,rupees,1898,ceylon,cyprus,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,7020,1,rupees,1898,ceylon,gibraltar,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,402690,1,rupees,1898,ceylon,hongkong,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,36263,1,rupees,1898,ceylon,malta,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,33349,1,rupees,1898,ceylon,mauritius,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,1473297,1,rupees,1898,ceylon,straits settlements,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,64062,1,rupees,1898,ceylon,new zealand,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,22253,1,rupees,1898,ceylon,africa,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,152,1,rupees,1898,ceylon,arabia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,509457,1,rupees,1898,ceylon,austria hungary,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,2346044,1,rupees,1898,ceylon,belgium,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,645,1,rupees,1898,ceylon,brazil,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,10686,1,rupees,1898,ceylon,buenos ayres,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,157296,1,rupees,1898,ceylon,china (excluding hongkong),exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,151046,1,rupees,1898,ceylon,denmark,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,14831,1,rupees,1898,ceylon,dutch indies,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,117816,1,rupees,1898,ceylon,egypt,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,941354,1,rupees,1898,ceylon,france,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,52999,1,rupees,1898,ceylon,french possessions in india,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,330,1,rupees,1898,ceylon,french possessions in china,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,3799636,1,rupees,1898,ceylon,germany,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,1405,1,rupees,1898,ceylon,greece,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,172324,1,rupees,1898,ceylon,holland,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,272490,1,rupees,1898,ceylon,italy,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,46794,1,rupees,1898,ceylon,japan,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,35983,1,rupees,1898,ceylon,maldive islands,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,50,1,rupees,1898,ceylon,nicobar islands,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,506,1,rupees,1898,ceylon,norway,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,304,1,rupees,1898,ceylon,persia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,298,1,rupees,1898,ceylon,phillipines,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,2406770,1,rupees,1898,ceylon,russia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,2786,1,rupees,1898,ceylon,sandwich islands,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,300,1,rupees,1898,ceylon,siam,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,103766,1,rupees,1898,ceylon,spain,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,7849,1,rupees,1898,ceylon,sweden,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,14935,1,rupees,1898,ceylon,turkey in europe,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,3101,1,rupees,1898,ceylon,turkey in asia,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,5283632,1,rupees,1898,ceylon,united states of america,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,1285,1,rupees,1898,ceylon,uruguay,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,12181,1,rupees,1898,ceylon,west india islands,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,1496,1,rupees,1898,ceylon,zanzibar,exp,spe,S,,,,,Produce and manufacture of the colony
+CeylonBlueBook_1898_U3,83288352,1,rupees,1898,ceylon,total,exp,spe,S,,,,total_reporting,Produce and manufacture of the colony

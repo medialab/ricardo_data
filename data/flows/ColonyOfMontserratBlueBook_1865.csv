@@ -1,0 +1,10 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfMontserratBlueBook_1865_130132,834,1,£,1865,montserrat,united kingdom,imp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,14222,1,£,1865,montserrat,british colonies (other),imp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,607,1,£,1865,montserrat,british north america,imp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,131,1,£,1865,montserrat,foreign countries,imp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,15794,1,£,1865,montserrat,total,imp,gen,,,,,total_reporting,
+ColonyOfMontserratBlueBook_1865_130132,14927,1,£,1865,montserrat,united kingdom,exp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,5397,1,£,1865,montserrat,british colonies (other),exp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,594,1,£,1865,montserrat,foreign countries,exp,gen,,,,,,
+ColonyOfMontserratBlueBook_1865_130132,20918,1,£,1865,montserrat,total,exp,gen,,,,,total_reporting,

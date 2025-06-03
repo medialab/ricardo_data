@@ -1,7 +1,7 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,1921900.0,1,pound sterling,1851,province of canada,great britain,Exp,?,,,,,,
-TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,259379.0,1,pound sterling,1851,province of canada,north american colonies,Exp,?,,,,,,
-TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,978.0,1,pound sterling,1851,province of canada,british west indies,Exp,?,,,,,,
-TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,1017886.0,1,pound sterling,1851,province of canada,united states,Exp,?,,,,,,
-TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,41036.0,1,pound sterling,1851,province of canada,other foreign countries,Exp,?,,,,,,
-TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,3241180.0,1,pound sterling,1851,province of canada,total,Exp,?,,,,,total_reporting,
+TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,1921900,1,pound sterling,1851,province of canada,great britain,Exp,spe,,,,,,
+TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,259379,1,pound sterling,1851,province of canada,north american colonies,Exp,spe,,,,,,
+TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,978,1,pound sterling,1851,province of canada,british west indies,Exp,spe,,,,,,
+TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,1017886,1,pound sterling,1851,province of canada,united states,Exp,spe,,,,,,
+TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,41036,1,pound sterling,1851,province of canada,other foreign countries,Exp,spe,,,,,,
+TablesOfTheTradeAndNavigationOfTheProvinceOfCanada_1851_498,3241180,1,pound sterling,1851,province of canada,total,Exp,spe,,,,,total_reporting,

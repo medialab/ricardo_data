@@ -1,0 +1,44 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+TrinidadAndTobagoBlueBook_1923_20352,1258679,1,pounds,1923,trinidad and tobago,uk,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,866933,1,pounds,1923,trinidad and tobago,british north america,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,271287,1,pounds,1923,trinidad and tobago,british east indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,30685,1,pounds,1923,trinidad and tobago,british guiana,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,63165,1,pounds,1923,trinidad and tobago,british west indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,290,1,pounds,1923,trinidad and tobago,other british possessions,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,16526,1,pounds,1923,trinidad and tobago,argentine,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,5087,1,pounds,1923,trinidad and tobago,belgium,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,7402,1,pounds,1923,trinidad and tobago,denmark,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,63671,1,pounds,1923,trinidad and tobago,france,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,3986,1,pounds,1923,trinidad and tobago,french west indies,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,38937,1,pounds,1923,trinidad and tobago,germany,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,85763,1,pounds,1923,trinidad and tobago,holland,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,12010,1,pounds,1923,trinidad and tobago,italy,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,5200,1,pounds,1923,trinidad and tobago,norway,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,11013,1,pounds,1923,trinidad and tobago,portugal,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,6628,1,pounds,1923,trinidad and tobago,spain,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,6373,1,pounds,1923,trinidad and tobago,sweden,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,6022,1,pounds,1923,trinidad and tobago,switzerland,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,1051687,1,pounds,1923,trinidad and tobago,us,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,353143,1,pounds,1923,trinidad and tobago,venezuela,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,32207,1,pounds,1923,trinidad and tobago,other countries,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,88024,1,pounds,1923,trinidad and tobago,parcel post,imp,,NS,,,,,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,4284718,1,pounds,1923,trinidad and tobago,total,imp,,NS,,,,total_reporting,Country whence consigned
+TrinidadAndTobagoBlueBook_1923_20352,2143641,1,pounds,1923,trinidad and tobago,uk,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,293059,1,pounds,1923,trinidad and tobago,british north america,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,6126,1,pounds,1923,trinidad and tobago,british east indies,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,57998,1,pounds,1923,trinidad and tobago,british guiana,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,95526,1,pounds,1923,trinidad and tobago,british west indies,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,66007,1,pounds,1923,trinidad and tobago,other british possessions,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,15268,1,pounds,1923,trinidad and tobago,belgium,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,3411,1,pounds,1923,trinidad and tobago,denmark,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,311880,1,pounds,1923,trinidad and tobago,france,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,89836,1,pounds,1923,trinidad and tobago,germany,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,90107,1,pounds,1923,trinidad and tobago,holland,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,38910,1,pounds,1923,trinidad and tobago,italy,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,38578,1,pounds,1923,trinidad and tobago,spain,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,890213,1,pounds,1923,trinidad and tobago,us,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,2307,1,pounds,1923,trinidad and tobago,venezuela,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,71509,1,pounds,1923,trinidad and tobago,other countries,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,352,1,pounds,1923,trinidad and tobago,ships stores,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,83650,1,pounds,1923,trinidad and tobago,bunkers,exp,spe,NS,,,,,Country of final destination
+TrinidadAndTobagoBlueBook_1923_20352,4298378,1,pounds,1923,trinidad and tobago,total,exp,spe,NS,,,,total_reporting,Country of final destination

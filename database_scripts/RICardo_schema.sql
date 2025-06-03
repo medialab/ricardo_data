@@ -59,8 +59,8 @@ CREATE TABLE `RICentities`
 	`continent`			TEXT,
 	`GPH_code` 			TEXT,
 	`slug`				TEXT,
-	`part_of_GPH_entity`	TEXT,
-	FOREIGN KEY (part_of_GPH_entity) 	REFERENCES RICentities(RICname)
+	`parent_entity`	TEXT,
+	FOREIGN KEY (parent_entity) 	REFERENCES RICentities(RICname)
 );
 
 --territorial entities
@@ -74,7 +74,7 @@ CREATE TABLE `entity_names`
 
 CREATE TABLE `RICentities_groups`
 (
-	`id`						INTEGER PRIMARY KEY AUTOINCREMENT,
+	`id`						INTEGER,
 	`RICname_group`				TEXT,
 	`RICname_part`				TEXT,
 	FOREIGN KEY (RICname_part) 	REFERENCES RICentities(RICname),

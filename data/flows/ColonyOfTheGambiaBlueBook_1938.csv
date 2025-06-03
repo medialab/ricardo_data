@@ -1,0 +1,80 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1938_125,67445,1,pounds,1938,gambia,uk,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,106,1,pounds,1938,gambia,gold coast,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,138,1,pounds,1938,gambia,nigeria,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,3986,1,pounds,1938,gambia,sierra leone,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,61452,1,pounds,1938,gambia,belgium,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,25,1,pounds,1938,gambia,cape verde islands,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,47967,1,pounds,1938,gambia,denmark,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,27703,1,pounds,1938,gambia,france,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,2799,1,pounds,1938,gambia,french west african possessions,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,283,1,pounds,1938,gambia,germany,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,43797,1,pounds,1938,gambia,holland,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_125,255701,1,pounds,1938,gambia,total,exp,spe,NS,,,,total_reporting,Country of consignment
+ColonyOfTheGambiaBlueBook_1938_123124,126990,1,pounds,1938,gambia,uk,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,59,1,pounds,1938,gambia,australia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,2,1,pounds,1938,gambia,british guiana,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,4,1,pounds,1938,gambia,british malaya,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1768,1,pounds,1938,gambia,british west indies,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,9810,1,pounds,1938,gambia,burma,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,5974,1,pounds,1938,gambia,canada,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,61,1,pounds,1938,gambia,ceylon,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,205,1,pounds,1938,gambia,cyprus,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,13,1,pounds,1938,gambia,gold coast,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1358,1,pounds,1938,gambia,hong kong,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,3346,1,pounds,1938,gambia,india,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,427,1,pounds,1938,gambia,ireland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,45,1,pounds,1938,gambia,kenya,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,616,1,pounds,1938,gambia,new zealand,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,595,1,pounds,1938,gambia,nigeria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,309,1,pounds,1938,gambia,nyasaland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,28754,1,pounds,1938,gambia,sierra leone,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,19,1,pounds,1938,gambia,straits settlements,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,424,1,pounds,1938,gambia,union of south africa,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,5,1,pounds,1938,gambia,zanzibar,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,124,1,pounds,1938,gambia,algeria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,81,1,pounds,1938,gambia,argentina,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,380,1,pounds,1938,gambia,austria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,4342,1,pounds,1938,gambia,belgium,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,52,1,pounds,1938,gambia,brazil,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,189,1,pounds,1938,gambia,canary islands,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,382,1,pounds,1938,gambia,cape verde islands,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1,1,pounds,1938,gambia,chile,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,632,1,pounds,1938,gambia,china,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1,1,pounds,1938,gambia,costa rica,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,6,1,pounds,1938,gambia,cuba,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,3866,1,pounds,1938,gambia,czecho-slovakia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1054,1,pounds,1938,gambia,denmark,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,755,1,pounds,1938,gambia,dutch east indies,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1591,1,pounds,1938,gambia,dutch west indies,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,31,1,pounds,1938,gambia,egypt,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,106,1,pounds,1938,gambia,finland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,15064,1,pounds,1938,gambia,france,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,234,1,pounds,1938,gambia,french indo-china,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,2058,1,pounds,1938,gambia,french west african possessions,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,34204,1,pounds,1938,gambia,germany,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,27,1,pounds,1938,gambia,greece,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,3277,1,pounds,1938,gambia,holland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,2092,1,pounds,1938,gambia,hungary,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,4679,1,pounds,1938,gambia,italy,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,4022,1,pounds,1938,gambia,japan,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,34,1,pounds,1938,gambia,liberia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,12,1,pounds,1938,gambia,madagascar,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1116,1,pounds,1938,gambia,madeira,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1721,1,pounds,1938,gambia,morocco,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,54,1,pounds,1938,gambia,norway,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,12,1,pounds,1938,gambia,poland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,266,1,pounds,1938,gambia,portugal,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,657,1,pounds,1938,gambia,portuguese guinea,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,33,1,pounds,1938,gambia,russia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,17,1,pounds,1938,gambia,siam,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,4,1,pounds,1938,gambia,sicily,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,691,1,pounds,1938,gambia,spain,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,1427,1,pounds,1938,gambia,sweden,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,627,1,pounds,1938,gambia,switzerland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,230,1,pounds,1938,gambia,syria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,60,1,pounds,1938,gambia,turkey,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,9699,1,pounds,1938,gambia,us,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,44,1,pounds,1938,gambia,uruguay,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,702,1,pounds,1938,gambia,venezuela,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1938_123124,277440,1,pounds,1938,gambia,total,imp,gen,NS,,,,total_reporting,Country of origin

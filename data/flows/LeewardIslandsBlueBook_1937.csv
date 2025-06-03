@@ -1,0 +1,37 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+LeewardIslandsBlueBook_1937_5354,110030,1,£,1937,antigua,united kingdom,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,50495,1,£,1937,antigua,british north america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,54173,1,£,1937,antigua,other british colonies,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,42000,1,£,1937,antigua,united states of america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,14361,1,£,1937,antigua,other foreign countries,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,277115,1,£,1937,antigua,total,imp,gen,NS,,,,total_reporting,Includes inter-Presidency trade
+LeewardIslandsBlueBook_1937_5354,113337,1,£,1937,st. kitts-nevis,united kingdom,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,58352,1,£,1937,st. kitts-nevis,british north america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,41952,1,£,1937,st. kitts-nevis,other british colonies,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,40824,1,£,1937,st. kitts-nevis,united states of america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,28741,1,£,1937,st. kitts-nevis,other foreign countries,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,285676,1,£,1937,st. kitts-nevis,total,imp,gen,NS,,,,total_reporting,Includes inter-Presidency trade
+LeewardIslandsBlueBook_1937_5354,50526,1,£,1937,dominica,united kingdom,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,25791,1,£,1937,dominica,british north america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,17525,1,£,1937,dominica,other british colonies,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,14197,1,£,1937,dominica,united states of america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,11876,1,£,1937,dominica,other foreign countries,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,125372,1,£,1937,dominica,total,imp,gen,NS,,,,total_reporting,Includes inter-Presidency trade
+LeewardIslandsBlueBook_1937_5354,18983,1,£,1937,montserrat,united kingdom,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,18588,1,£,1937,montserrat,canada,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,5395,1,£,1937,montserrat,other british possessions,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,8583,1,£,1937,montserrat,united states of america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,2113,1,£,1937,montserrat,other foreign countries,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,63165,1,£,1937,montserrat,total,imp,gen,NS,,,,total_reporting,Includes inter-Presidency trade
+LeewardIslandsBlueBook_1937_5354,295054,1,£,1937,leeward is.,united kingdom,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,154102,1,£,1937,leeward is.,british north america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,119410,1,£,1937,leeward is.,other british colonies,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,109074,1,£,1937,leeward is.,united states of america,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,62243,1,£,1937,leeward is.,other foreign countries,imp,gen,NS,,,,,
+LeewardIslandsBlueBook_1937_5354,739883,1,£,1937,leeward is.,total,imp,gen,NS,,,,total_reporting,Excludes inter-Presidency trade
+LeewardIslandsBlueBook_1937_76,682864,1,£,1937,leeward is.,united kingdom,exp,spe,NS,,,,,
+LeewardIslandsBlueBook_1937_76,83646,1,£,1937,leeward is.,british north america,exp,spe,NS,,,,,
+LeewardIslandsBlueBook_1937_76,12580,1,£,1937,leeward is.,other british colonies,exp,spe,NS,,,,,
+LeewardIslandsBlueBook_1937_76,28356,1,£,1937,leeward is.,united states of america,exp,spe,NS,,,,,
+LeewardIslandsBlueBook_1937_76,23990,1,£,1937,leeward is.,other foreign countries,exp,spe,NS,,,,,
+LeewardIslandsBlueBook_1937_76,831436,1,£,1937,leeward is.,total,exp,spe,NS,,,,total_reporting,Excludes inter-Presidency trade

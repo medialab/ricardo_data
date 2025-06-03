@@ -1,6 +1,6 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3081.9,1000,francs,1830,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1783.7,1000,francs,1830,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1783.7,1000,francs,1830,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,371.6,1000,francs,1830,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,447.4,1000,francs,1830,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1830,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -14,7 +14,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1830,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,7967.9,1000,francs,1830,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3177.3,1000,francs,1830,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2483.4,1000,francs,1830,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1688.5,1000,francs,1830,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1688.5,1000,francs,1830,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1996.2,1000,francs,1830,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1343.7,1000,francs,1830,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1297.8,1000,francs,1830,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -27,21 +27,21 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1830,iles ioniennes,fran
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1830,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,14772.8,1000,francs,1830,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3374.1,1000,francs,1831,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1155.2,1000,francs,1831,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1155.2,1000,francs,1831,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,386.4,1000,francs,1831,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,346.7,1000,francs,1831,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1831,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,104.8,1000,francs,1831,iles ioniennes,russie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,563.1,1000,francs,1831,iles ioniennes,sardaigne,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,250.2,1000,francs,1831,iles ioniennes,france,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,21.0,1000,francs,1831,iles ioniennes,etats romains,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,21,1000,francs,1831,iles ioniennes,etats romains,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1831,iles ioniennes,suède et norvège,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1831,iles ioniennes,belgique,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1831,iles ioniennes,hambourg,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,6201.5,1000,francs,1831,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2482.0,1000,francs,1831,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2482,1000,francs,1831,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2401.6,1000,francs,1831,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1570.6,1000,francs,1831,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1570.6,1000,francs,1831,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1911.7,1000,francs,1831,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1392.8,1000,francs,1831,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1112.2,1000,francs,1831,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -54,10 +54,10 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1831,iles ioniennes,fran
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1831,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,12768.8,1000,francs,1831,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3071.8,1000,francs,1832,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1847.6,1000,francs,1832,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,289.0,1000,francs,1832,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,268.0,1000,francs,1832,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,308.0,1000,francs,1832,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1847.6,1000,francs,1832,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,289,1000,francs,1832,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,268,1000,francs,1832,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,308,1000,francs,1832,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,288.7,1000,francs,1832,iles ioniennes,russie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1285.8,1000,francs,1832,iles ioniennes,sardaigne,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,377.7,1000,francs,1832,iles ioniennes,france,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -67,10 +67,10 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1832,iles ioniennes,belg
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1832,iles ioniennes,hambourg,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,7812.2,1000,francs,1832,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2496.7,1000,francs,1832,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2795.0,1000,francs,1832,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1874.4,1000,francs,1832,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2795,1000,francs,1832,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1874.4,1000,francs,1832,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1999.2,1000,francs,1832,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1457.0,1000,francs,1832,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1457,1000,francs,1832,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1221.9,1000,francs,1832,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1074.4,1000,francs,1832,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,893.7,1000,francs,1832,iles ioniennes,deux-siciles,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -79,11 +79,11 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1832,iles ioniennes,sard
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,100.1,1000,francs,1832,iles ioniennes,suède et norvège,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1832,iles ioniennes,france,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1832,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,13973.0,1000,francs,1832,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,13973,1000,francs,1832,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1709.7,1000,francs,1833,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1604.8,1000,francs,1833,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1604.8,1000,francs,1833,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,307.8,1000,francs,1833,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,595.0,1000,francs,1833,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,595,1000,francs,1833,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,617.8,1000,francs,1833,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,308.2,1000,francs,1833,iles ioniennes,russie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,426.3,1000,francs,1833,iles ioniennes,sardaigne,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -95,11 +95,11 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1833,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,6271.3,1000,francs,1833,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3048.5,1000,francs,1833,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2808.8,1000,francs,1833,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2016.9,1000,francs,1833,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2016.9,1000,francs,1833,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1959.9,1000,francs,1833,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1362.0,1000,francs,1833,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1141.0,1000,francs,1833,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,984.0,1000,francs,1833,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1362,1000,francs,1833,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1141,1000,francs,1833,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,984,1000,francs,1833,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1011.1,1000,francs,1833,iles ioniennes,deux-siciles,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,44.8,1000,francs,1833,iles ioniennes,toscane,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1833,iles ioniennes,sardaigne,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -108,7 +108,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1833,iles ioniennes,fran
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1833,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,14643.2,1000,francs,1833,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,angleterre,exp,?,,,,,,illisible
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,autriche,exp,?,,,,,,illisible
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,autriche (empire),exp,?,,,,,,illisible
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,grèce,exp,?,,,,,,illisible
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,turquie,exp,?,,,,,,illisible
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,pays-bas,exp,?,,,,,,illisible
@@ -122,7 +122,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,iles ioniennes,monde,exp,?,,,,,total_reporting,illisible
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3161.8,1000,francs,1834,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2984.2,1000,francs,1834,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1998.1,1000,francs,1834,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1998.1,1000,francs,1834,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1552.9,1000,francs,1834,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1912.5,1000,francs,1834,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1215.6,1000,francs,1834,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -140,7 +140,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4111.5,1000,francs,1834,pays-bas,etat
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,11077.9,1000,francs,1834,pays-bas,villes anséatiques,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,9305.3,1000,francs,1834,pays-bas,france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4456.7,1000,francs,1834,pays-bas,russie,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1475.0,1000,francs,1834,pays-bas,suède et norvège,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1475,1000,francs,1834,pays-bas,suède et norvège,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1228.7,1000,francs,1834,pays-bas,prusse,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2003.1,1000,francs,1834,pays-bas,indes occidentales,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,458.7,1000,francs,1834,pays-bas,hanovre,exp,?,,,,,,
@@ -164,7 +164,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10012.5,1000,francs,1834,pays-bas,rus
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8250.8,1000,francs,1834,pays-bas,suède et norvège,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,7653.2,1000,francs,1834,pays-bas,prusse,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,5431.7,1000,francs,1834,pays-bas,indes occidentales,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,6493.0,1000,francs,1834,pays-bas,hanovre,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,6493,1000,francs,1834,pays-bas,hanovre,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4040.1,1000,francs,1834,pays-bas,danemark,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,5009.8,1000,francs,1834,pays-bas,chine et philippines,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4566.1,1000,francs,1834,pays-bas,brésil,imp,?,,,,,,
@@ -178,11 +178,11 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8655.6,1000,francs,1834,pays-bas,inde
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,248844.9,1000,francs,1834,pays-bas,monde,imp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4832.7,1000,francs,1834,uruguay (montevideo),angleterre,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2115.1,1000,francs,1834,uruguay (montevideo),etats-unis,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1551.0,1000,francs,1834,uruguay (montevideo),brésil,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1551,1000,francs,1834,uruguay (montevideo),brésil,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,uruguay (montevideo),etats de la méditerranée,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2019.7,1000,francs,1834,uruguay (montevideo),france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,uruguay (montevideo),buenos-aires,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,12640.0,1000,francs,1834,uruguay (montevideo),monde,exp,?,,,,,total_reporting,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,12640,1000,francs,1834,uruguay (montevideo),monde,exp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3959.7,1000,francs,1834,uruguay (montevideo),angleterre,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2595.7,1000,francs,1834,uruguay (montevideo),etats-unis,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2374.9,1000,francs,1834,uruguay (montevideo),brésil,imp,?,,,,,,
@@ -210,11 +210,11 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1148.5,1000,francs,1834,norvège,port
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1102.7,1000,francs,1834,norvège,france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,747.7,1000,francs,1834,norvège,espagne,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,norvège,hollande,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,670.0,1000,francs,1834,norvège,suède,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,25362.0,1000,francs,1834,norvège,monde,imp,?,,,,,total_reporting,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,670,1000,francs,1834,norvège,suède,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,25362,1000,francs,1834,norvège,monde,imp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,18.4,1000,francs,1834,norvège (christiania),villes anséatiques,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,348.6,1000,francs,1834,norvège (christiania),danemark,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,433.0,1000,francs,1834,norvège (christiania),angleterre,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,433,1000,francs,1834,norvège (christiania),angleterre,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10.5,1000,francs,1834,norvège (christiania),russie,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,769.1,1000,francs,1834,norvège (christiania),france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1834,norvège (christiania),espagne,exp,?,,,,,,
@@ -226,29 +226,29 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,323.1,1000,francs,1834,norvège (chri
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,301.9,1000,francs,1834,norvège (christiania),france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,120.3,1000,francs,1834,norvège (christiania),espagne,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,5290.8,1000,francs,1834,norvège (christiania),monde,imp,?,,,,,total_subreporting,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4403.4,1000,francs,1834,pologne,russie,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8746.5,1000,francs,1834,pologne,prusse,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,49.3,1000,francs,1834,pologne,autriche,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1418.7,1000,francs,1834,pologne,cracovie,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,14617.9,1000,francs,1834,pologne,monde,exp,?,,,,,total_reporting,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,13834.1,1000,francs,1834,pologne,russie,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,12001.2,1000,francs,1834,pologne,prusse,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3607.7,1000,francs,1834,pologne,autriche,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,522.1,1000,francs,1834,pologne,cracovie,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,29965.1,1000,francs,1834,pologne,monde,imp,?,,,,,total_reporting,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4403.4,1000,francs,1834,royaume de Pologne,russie,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8746.5,1000,francs,1834,royaume de Pologne,prusse,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,49.3,1000,francs,1834,royaume de Pologne,autriche (empire),exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1418.7,1000,francs,1834,royaume de Pologne,cracovie,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,14617.9,1000,francs,1834,royaume de Pologne,monde,exp,?,,,,,total_reporting,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,13834.1,1000,francs,1834,royaume de Pologne,russie,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,12001.2,1000,francs,1834,royaume de Pologne,prusse,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3607.7,1000,francs,1834,royaume de Pologne,autriche (empire),imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,522.1,1000,francs,1834,royaume de Pologne,cracovie,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,29965.1,1000,francs,1834,royaume de Pologne,monde,imp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,11788.1,1000,francs,1834,deux-siciles,angleterre et possessions,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3789.1,1000,francs,1834,deux-siciles,sardaigne,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4974.2,1000,francs,1834,deux-siciles,france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,227.3,1000,francs,1834,deux-siciles,toscane,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2788.1,1000,francs,1834,deux-siciles,autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2788.1,1000,francs,1834,deux-siciles,autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,792.1,1000,francs,1834,deux-siciles,russie,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2574.3,1000,francs,1834,deux-siciles,etats-unis,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,29789.2,1000,francs,1834,deux-siciles,monde,exp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10811.8,1000,francs,1834,deux-siciles,angleterre et possessions,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3535.7,1000,francs,1834,deux-siciles,sardaigne,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2983.0,1000,francs,1834,deux-siciles,france,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2983,1000,francs,1834,deux-siciles,france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,954.2,1000,francs,1834,deux-siciles,toscane,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,938.7,1000,francs,1834,deux-siciles,autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,938.7,1000,francs,1834,deux-siciles,autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,272.9,1000,francs,1834,deux-siciles,russie,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,154.9,1000,francs,1834,deux-siciles,etats-unis,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,20429.1,1000,francs,1834,deux-siciles,monde,imp,?,,,,,total_reporting,
@@ -259,15 +259,15 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1835,espagne (carthagèn
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1835,espagne (carthagène),porto rico,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,250.9,1000,francs,1835,espagne (carthagène),monde,exp,?,,,,,total_subreporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,523.1,1000,francs,1835,espagne (carthagène),angleterre,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,442.0,1000,francs,1835,espagne (carthagène),france,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,442,1000,francs,1835,espagne (carthagène),france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,48.8,1000,francs,1835,espagne (carthagène),sardaigne,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,694.8,1000,francs,1835,espagne (carthagène),cuba,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,137.5,1000,francs,1835,espagne (carthagène),porto rico,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1846.2,1000,francs,1835,espagne (carthagène),monde,imp,?,,,,,total_subreporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4139.6,1000,francs,1825,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1438.8,1000,francs,1825,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1438.8,1000,francs,1825,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1407.7,1000,francs,1825,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1013.0,1000,francs,1825,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1013,1000,francs,1825,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,455.7,1000,francs,1825,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,356.7,1000,francs,1825,iles ioniennes,russie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,310.3,1000,francs,1825,iles ioniennes,sardaigne,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -279,7 +279,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1825,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,9432.9,1000,francs,1825,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3457.5,1000,francs,1825,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3145.1,1000,francs,1825,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2708.9,1000,francs,1825,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2708.9,1000,francs,1825,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2528.1,1000,francs,1825,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1777.4,1000,francs,1825,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1563.7,1000,francs,1825,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -292,7 +292,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1825,iles ioniennes,fran
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1825,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,18361.9,1000,francs,1825,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3617.5,1000,francs,1826,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1738.5,1000,francs,1826,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1738.5,1000,francs,1826,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1787.3,1000,francs,1826,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1517.8,1000,francs,1826,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,608.4,1000,francs,1826,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -306,20 +306,20 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1826,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10450.6,1000,francs,1826,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3885.7,1000,francs,1826,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3913.3,1000,francs,1826,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3063.4,1000,francs,1826,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2084.0,1000,francs,1826,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3063.4,1000,francs,1826,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2084,1000,francs,1826,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2479.9,1000,francs,1826,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1787.3,1000,francs,1826,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1979.9,1000,francs,1826,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1380.5,1000,francs,1826,iles ioniennes,deux-siciles,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,347.1,1000,francs,1826,iles ioniennes,toscane,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,88.0,1000,francs,1826,iles ioniennes,sardaigne,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,88,1000,francs,1826,iles ioniennes,sardaigne,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,160.5,1000,francs,1826,iles ioniennes,suède et norvège,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1826,iles ioniennes,france,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1826,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,21169.6,1000,francs,1826,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4100.6,1000,francs,1827,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1412.8,1000,francs,1827,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1412.8,1000,francs,1827,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2370.4,1000,francs,1827,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1831.7,1000,francs,1827,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,373.6,1000,francs,1827,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -333,20 +333,20 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1827,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10576.1,1000,francs,1827,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3760.8,1000,francs,1827,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3156.1,1000,francs,1827,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2400.3,1000,francs,1827,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2400.3,1000,francs,1827,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2371.9,1000,francs,1827,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1552.1,1000,francs,1827,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1553.0,1000,francs,1827,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1553,1000,francs,1827,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1880.8,1000,francs,1827,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1980.8,1000,francs,1827,iles ioniennes,deux-siciles,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,423.0,1000,francs,1827,iles ioniennes,toscane,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,423,1000,francs,1827,iles ioniennes,toscane,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,639.7,1000,francs,1827,iles ioniennes,sardaigne,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,236.8,1000,francs,1827,iles ioniennes,suède et norvège,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1827,iles ioniennes,france,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1827,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,19955.3,1000,francs,1827,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3974.5,1000,francs,1828,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1997.8,1000,francs,1828,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1997.8,1000,francs,1828,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1706.2,1000,francs,1828,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1195.7,1000,francs,1828,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,583.3,1000,francs,1828,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -360,20 +360,20 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1828,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10852.7,1000,francs,1828,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4096.5,1000,francs,1828,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3298.9,1000,francs,1828,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2951.3,1000,francs,1828,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2951.3,1000,francs,1828,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3291.1,1000,francs,1828,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1157.9,1000,francs,1828,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1621.0,1000,francs,1828,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1782.0,1000,francs,1828,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1621,1000,francs,1828,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1782,1000,francs,1828,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1939.5,1000,francs,1828,iles ioniennes,deux-siciles,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,661.5,1000,francs,1828,iles ioniennes,toscane,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,300.0,1000,francs,1828,iles ioniennes,sardaigne,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,300,1000,francs,1828,iles ioniennes,sardaigne,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,393.1,1000,francs,1828,iles ioniennes,suède et norvège,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,127.5,1000,francs,1828,iles ioniennes,france,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1828,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,21620.3,1000,francs,1828,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3081.9,1000,francs,1829,iles ioniennes,angleterre,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1783.7,1000,francs,1829,iles ioniennes,autriche,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1783.7,1000,francs,1829,iles ioniennes,autriche (empire),exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,371.6,1000,francs,1829,iles ioniennes,grèce,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,447.4,1000,francs,1829,iles ioniennes,turquie,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1829,iles ioniennes,pays-bas,exp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -387,10 +387,10 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1829,iles ioniennes,hamb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,7967.9,1000,francs,1829,iles ioniennes,monde,exp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2951.4,1000,francs,1829,iles ioniennes,turquie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2637.6,1000,francs,1829,iles ioniennes,angleterre,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2057.3,1000,francs,1829,iles ioniennes,autriche,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2057.3,1000,francs,1829,iles ioniennes,autriche (empire),imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,2111.2,1000,francs,1829,iles ioniennes,russie,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1119.2,1000,francs,1829,iles ioniennes,grèce,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1446.0,1000,francs,1829,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1446,1000,francs,1829,iles ioniennes,malte,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1499.6,1000,francs,1829,iles ioniennes,etats romains,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,1598.3,1000,francs,1829,iles ioniennes,deux-siciles,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1829,iles ioniennes,toscane,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
@@ -400,14 +400,14 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc25,111.9,1000,francs,1829,iles ioniennes
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,,1000,francs,1829,iles ioniennes,brésil,imp,?,,,,,,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,16199.5,1000,francs,1829,iles ioniennes,monde,imp,?,,,,,total_reporting,Rétrospectif commerce par pays commence en 1825.
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,13130.5,1000,francs,1834,egypte (alexandrie),turquie,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8968.0,1000,francs,1834,egypte (alexandrie),autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8968,1000,francs,1834,egypte (alexandrie),autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3497.4,1000,francs,1834,egypte (alexandrie),toscane,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,992.3,1000,francs,1834,egypte (alexandrie),angleterre et malte,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8693.0,1000,francs,1834,egypte (alexandrie),france,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,8693,1000,francs,1834,egypte (alexandrie),france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,36048.9,1000,francs,1834,egypte (alexandrie),monde,exp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,17961.8,1000,francs,1834,egypte (alexandrie),turquie,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,16131.0,1000,francs,1834,egypte (alexandrie),autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,16131,1000,francs,1834,egypte (alexandrie),autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,10179.8,1000,francs,1834,egypte (alexandrie),toscane,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4908.0,1000,francs,1834,egypte (alexandrie),angleterre et malte,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc25,4908,1000,francs,1834,egypte (alexandrie),angleterre et malte,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,3925.4,1000,francs,1834,egypte (alexandrie),france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc25,53746.5,1000,francs,1834,egypte (alexandrie),monde,imp,?,,,,,total_reporting,

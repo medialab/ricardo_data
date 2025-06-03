@@ -1,0 +1,38 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+MaltaBlueBook_1885_P4,117324,1,£,1885,malta,united kingdom,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,584,1,£,1885,malta,gibraltar,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,20553,1,£,1885,malta,british india,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,3418,1,£,1885,malta,austrian dominions,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,677,1,£,1885,malta,belgium & holland,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,8277,1,£,1885,malta,france,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,12523,1,£,1885,malta,algiers,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,30951,1,£,1885,malta,greece,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,128355,1,£,1885,malta,italy,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,269285,1,£,1885,malta,russia,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,3,1,£,1885,malta,spain,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,55503,1,£,1885,malta,turkey,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,60883,1,£,1885,malta,barbary (tripoli),imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,34021,1,£,1885,malta,tunis,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,4368,1,£,1885,malta,egypt,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,1099,1,£,1885,malta,united states of america,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,748259,1,£,1885,malta,total,imp,spe,,,,,total_reporting,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1885_P4,8295,1,£,1885,malta,united kingdom,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,460,1,£,1885,malta,gibraltar,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,72,1,£,1885,malta,cyprus,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,698,1,£,1885,malta,british india,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,134,1,£,1885,malta,australia,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,43,1,£,1885,malta,austrian dominions,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,70,1,£,1885,malta,belgium & holland,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,106,1,£,1885,malta,france,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,212,1,£,1885,malta,algiers,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,94,1,£,1885,malta,germany,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,1255,1,£,1885,malta,greece,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,16019,1,£,1885,malta,italy,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,525,1,£,1885,malta,russia,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,24,1,£,1885,malta,spain,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,1912,1,£,1885,malta,turkey,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,6010,1,£,1885,malta,barbary (tripoli),exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,2737,1,£,1885,malta,tunis,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,7411,1,£,1885,malta,egypt,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,49,1,£,1885,malta,united states of america,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1885_P4,53051,1,£,1885,malta,total,exp,spe,,,,,total_reporting,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.

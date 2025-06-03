@@ -1,0 +1,39 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+MaltaBlueBook_1895_Q3,174350,1,£,1895,malta,united kingdom,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,7,1,£,1895,malta,gibraltar,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,251,1,£,1895,malta,cyprus,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,150,1,£,1895,malta,british india,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,1877,1,£,1895,malta,australia,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,44755,1,£,1895,malta,austria-hungary,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,5397,1,£,1895,malta,belgium & holland,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,17047,1,£,1895,malta,france,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,1755,1,£,1895,malta,algiers,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,2920,1,£,1895,malta,germany,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,23245,1,£,1895,malta,greece,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,161451,1,£,1895,malta,italy,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,223309,1,£,1895,malta,russia,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,4307,1,£,1895,malta,spain,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,46478,1,£,1895,malta,turkey,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,56859,1,£,1895,malta,barbary (tripoli),imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,33980,1,£,1895,malta,tunis,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,4517,1,£,1895,malta,egypt,imp,spe,,,,,,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,802891,1,£,1895,malta,total,imp,spe,,,,,total_reporting,Value of cargoes imported and actually landed at this port. Only imports subject to duty.
+MaltaBlueBook_1895_Q3,524,1,£,1895,malta,united kingdom,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,222,1,£,1895,malta,gibraltar,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,247,1,£,1895,malta,british india,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,8,1,£,1895,malta,australia,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,135,1,£,1895,malta,austria-hungary,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,6,1,£,1895,malta,belgium & holland,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,11,1,£,1895,malta,france,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,85,1,£,1895,malta,algiers,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,69,1,£,1895,malta,germany,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,37,1,£,1895,malta,greece,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,673,1,£,1895,malta,italy,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,220,1,£,1895,malta,russia,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,2,1,£,1895,malta,spain,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,305,1,£,1895,malta,turkey,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,14855,1,£,1895,malta,barbary (tripoli),exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,28728,1,£,1895,malta,tunis,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,1211,1,£,1895,malta,egypt,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,16,1,£,1895,malta,united states of america,exp,spe,,,,,,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.
+MaltaBlueBook_1895_Q3,54171,1,£,1895,malta,total,exp,spe,,,,,total_reporting,Value of exports from portion of cargoes which were actually landed at this port. Only articles subject to import duty.

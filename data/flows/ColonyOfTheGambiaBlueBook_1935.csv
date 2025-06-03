@@ -1,0 +1,76 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1935_114,90900,1,pounds,1935,gambia,uk,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,88,1,pounds,1935,gambia,gold coast,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,12,1,pounds,1935,gambia,nigeria,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,512,1,pounds,1935,gambia,sierra leone,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,83428,1,pounds,1935,gambia,belgium,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,62,1,pounds,1935,gambia,cape verde islands,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,76632,1,pounds,1935,gambia,denmark,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,516,1,pounds,1935,gambia,france,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,2484,1,pounds,1935,gambia,french west african possessions,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,38003,1,pounds,1935,gambia,germany,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,83465,1,pounds,1935,gambia,holland,exp,spe,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_114,376102,1,pounds,1935,gambia,total,exp,spe,NS,,,,total_reporting,Country of consignment
+ColonyOfTheGambiaBlueBook_1935_112113,223868,1,pounds,1935,gambia,uk,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,158,1,pounds,1935,gambia,australia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,4,1,pounds,1935,gambia,british east indies,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,123,1,pounds,1935,gambia,british west indies,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,8232,1,pounds,1935,gambia,canada,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,214,1,pounds,1935,gambia,ceylon,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,130,1,pounds,1935,gambia,cyprus,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,188,1,pounds,1935,gambia,gold coast,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,316,1,pounds,1935,gambia,hong kong,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,53853,1,pounds,1935,gambia,india,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,284,1,pounds,1935,gambia,ireland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,27,1,pounds,1935,gambia,kenya,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,448,1,pounds,1935,gambia,new zealand,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,746,1,pounds,1935,gambia,nigeria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,67153,1,pounds,1935,gambia,sierra leone,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,65,1,pounds,1935,gambia,southern rhodesia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,19,1,pounds,1935,gambia,straits settlements,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,14,1,pounds,1935,gambia,union of south africa,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,4,1,pounds,1935,gambia,zanzibar,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,133,1,pounds,1935,gambia,algeria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,243,1,pounds,1935,gambia,argentina,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,183,1,pounds,1935,gambia,austria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,11287,1,pounds,1935,gambia,belgium,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,93,1,pounds,1935,gambia,brazil,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,880,1,pounds,1935,gambia,canary islands,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,1650,1,pounds,1935,gambia,cape verde islands,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,445,1,pounds,1935,gambia,china,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,7,1,pounds,1935,gambia,costa rica,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,7826,1,pounds,1935,gambia,czecho-slovakia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,1331,1,pounds,1935,gambia,denmark,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,1748,1,pounds,1935,gambia,dutch west indies,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,701,1,pounds,1935,gambia,egypt,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,35151,1,pounds,1935,gambia,france,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,1982,1,pounds,1935,gambia,french west african possessions,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,17830,1,pounds,1935,gambia,germany,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,14,1,pounds,1935,gambia,greece,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,20,1,pounds,1935,gambia,hawaii,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,5380,1,pounds,1935,gambia,holland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,2467,1,pounds,1935,gambia,hungary,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,4623,1,pounds,1935,gambia,italy,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,4319,1,pounds,1935,gambia,japan,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,6,1,pounds,1935,gambia,latvia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,40,1,pounds,1935,gambia,liberia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,11,1,pounds,1935,gambia,madagascar,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,526,1,pounds,1935,gambia,madeira,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,165,1,pounds,1935,gambia,manchuria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,1096,1,pounds,1935,gambia,morocco,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,78,1,pounds,1935,gambia,norway,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,338,1,pounds,1935,gambia,poland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,975,1,pounds,1935,gambia,portugal,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,236,1,pounds,1935,gambia,roumania,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,192,1,pounds,1935,gambia,russia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,6,1,pounds,1935,gambia,siam,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,1135,1,pounds,1935,gambia,spain,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,3570,1,pounds,1935,gambia,sweden,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,2957,1,pounds,1935,gambia,switzerland,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,275,1,pounds,1935,gambia,syria,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,67,1,pounds,1935,gambia,turkey,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,17321,1,pounds,1935,gambia,us,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,5,1,pounds,1935,gambia,uruguay,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,97,1,pounds,1935,gambia,venezuela,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,32,1,pounds,1935,gambia,yugoslavia,imp,gen,NS,,,,,Country of origin
+ColonyOfTheGambiaBlueBook_1935_112113,483287,1,pounds,1935,gambia,total,imp,gen,NS,,,,total_reporting,Country of origin

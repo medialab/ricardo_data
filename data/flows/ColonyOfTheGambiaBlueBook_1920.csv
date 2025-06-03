@@ -1,0 +1,29 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1920_76,1958878,1,pounds,1920,gambia,uk,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,4,1,pounds,1920,gambia,nigeria,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,15557,1,pounds,1920,gambia,sierra leone,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,73186,1,pounds,1920,gambia,belgium,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,21459,1,pounds,1920,gambia,denmark,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,266996,1,pounds,1920,gambia,france,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,20617,1,pounds,1920,gambia,french possessions,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,2,1,pounds,1920,gambia,liberia,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,19,1,pounds,1920,gambia,portuguese possessions,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_76,2356718,1,pounds,1920,gambia,total,exp,spe,NS,,,,total_reporting,Country to which exported
+ColonyOfTheGambiaBlueBook_1920_75,1424651,1,pounds,1920,gambia,uk,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,33,1,pounds,1920,gambia,gold coast,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,142,1,pounds,1920,gambia,nigeria,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,301446,1,pounds,1920,gambia,sierra leone,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,3327,1,pounds,1920,gambia,belgium,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,20780,1,pounds,1920,gambia,brazil,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,183001,1,pounds,1920,gambia,france,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,137603,1,pounds,1920,gambia,french possessions,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,113,1,pounds,1920,gambia,germany,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,24166,1,pounds,1920,gambia,holland,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,438,1,pounds,1920,gambia,italy,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,8360,1,pounds,1920,gambia,morocco,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,20258,1,pounds,1920,gambia,portuguese possessions,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,454,1,pounds,1920,gambia,spain,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,14197,1,pounds,1920,gambia,spanish possessions,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,8071,1,pounds,1920,gambia,sweden,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,229029,1,pounds,1920,gambia,us,imp,gen,NS,,,,,Country of consignment when country of origin unobtainable
+ColonyOfTheGambiaBlueBook_1920_75,2376069,1,pounds,1920,gambia,total,imp,gen,NS,,,,total_reporting,Country of consignment when country of origin unobtainable

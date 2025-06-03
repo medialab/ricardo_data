@@ -1,0 +1,45 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+SierraLeoneBlueBook_1906_W1,181614,1,pounds,1906,sierra leone,uk,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,44516,1,pounds,1906,sierra leone,gambia,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,412,1,pounds,1906,sierra leone,gold coast,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,1210,1,pounds,1906,sierra leone,southern nigeria,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,332,1,pounds,1906,sierra leone,france,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,231824,1,pounds,1906,sierra leone,germany,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,17578,1,pounds,1906,sierra leone,bissao,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,378,1,pounds,1906,sierra leone,boulama,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,738,1,pounds,1906,sierra leone,liberia,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,33204,1,pounds,1906,sierra leone,"senegal, dakar",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,3526,1,pounds,1906,sierra leone,"senegal, goree",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,3795,1,pounds,1906,sierra leone,"senegal, rufisque",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,468,1,pounds,1906,sierra leone,"senegal, st louis",exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,531,1,pounds,1906,sierra leone,leeward coast,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,6216,1,pounds,1906,sierra leone,windward coast,exp,spe,,,,,,Produce and manufacture of the colony
+SierraLeoneBlueBook_1906_W1,526342,1,pounds,1906,sierra leone,total,exp,spe,,,,,total_reporting,
+SierraLeoneBlueBook_1906_W1,657661,1,pounds,1906,sierra leone,uk,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,14300,1,pounds,1906,sierra leone,gambia,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,332,1,pounds,1906,sierra leone,gold coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,241,1,pounds,1906,sierra leone,northern nigeria,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,8894,1,pounds,1906,sierra leone,southern nigeria,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,66,1,pounds,1906,sierra leone,ascension,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,6,1,pounds,1906,sierra leone,cape town,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,328,1,pounds,1906,sierra leone,demerara,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,87,1,pounds,1906,sierra leone,jamaica,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,10094,1,pounds,1906,sierra leone,belgium,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,620,1,pounds,1906,sierra leone,bissao,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,1,1,pounds,1906,sierra leone,boulama,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,3526,1,pounds,1906,sierra leone,france,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,109269,1,pounds,1906,sierra leone,germany,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,3208,1,pounds,1906,sierra leone,grand canary,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,9250,1,pounds,1906,sierra leone,holland,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,21528,1,pounds,1906,sierra leone,leeward coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,3285,1,pounds,1906,sierra leone,liberia,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,179,1,pounds,1906,sierra leone,madeira,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,2529,1,pounds,1906,sierra leone,"senegal, dakar",imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,2,1,pounds,1906,sierra leone,"senegal, goree",imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,44,1,pounds,1906,sierra leone,"senegal, rufisque",imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,190,1,pounds,1906,sierra leone,"senegal, st louis",imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,28,1,pounds,1906,sierra leone,spain,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,405,1,pounds,1906,sierra leone,teneriffe,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,17666,1,pounds,1906,sierra leone,usa,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,22112,1,pounds,1906,sierra leone,windward coast,imp,gen,,,,,,
+SierraLeoneBlueBook_1906_W1,885851,1,pounds,1906,sierra leone,total,imp,,,,,,total_reporting,

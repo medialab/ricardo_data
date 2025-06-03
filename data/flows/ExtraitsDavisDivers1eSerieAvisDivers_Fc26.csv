@@ -1,13 +1,13 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,turquie (salonique),angleterre,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,219.0,1000,francs,1835,turquie (salonique),autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,219,1000,francs,1835,turquie (salonique),autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,423.1,1000,francs,1835,turquie (salonique),grèce,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,533.5,1000,francs,1835,turquie (salonique),turquie,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,482.7,1000,francs,1835,turquie (salonique),france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,10.7,1000,francs,1835,turquie (salonique),sardaigne,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1717.9,1000,francs,1835,turquie (salonique),monde,exp,?,,,,,total_subreporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1101.4,1000,francs,1835,turquie (salonique),angleterre,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,774.3,1000,francs,1835,turquie (salonique),autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,774.3,1000,francs,1835,turquie (salonique),autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,673.3,1000,francs,1835,turquie (salonique),grèce,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,543.7,1000,francs,1835,turquie (salonique),turquie,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,474.2,1000,francs,1835,turquie (salonique),france,imp,?,,,,,,
@@ -21,30 +21,30 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc26,375.7,1000,francs,1835,turquie (tréb
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,turquie (trébizonde),sicile (trapana),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,35002.3,1000,francs,1835,turquie (trébizonde),monde,exp,?,,,,,total_subreporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,22155.3,1000,francs,1835,turquie (trébizonde),turquie (constantinople et autres ports),imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,12825.0,1000,francs,1835,turquie (trébizonde),perse (tauris),imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1527.0,1000,francs,1835,turquie (trébizonde),autriche (trieste),imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,12825,1000,francs,1835,turquie (trébizonde),perse (tauris),imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1527,1000,francs,1835,turquie (trébizonde),autriche (trieste),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1610.4,1000,francs,1835,turquie (trébizonde),angleterre,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,535.4,1000,francs,1835,turquie (trébizonde),russie,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,7.1,1000,francs,1835,turquie (trébizonde),sicile (trapana),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,38660.2,1000,francs,1835,turquie (trébizonde),monde,imp,?,,,,,total_subreporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1500.6,1000,francs,1835,malte,angletere,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1289.0,1000,francs,1835,malte,deux-siciles,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1289,1000,francs,1835,malte,deux-siciles,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2886.4,1000,francs,1835,malte,etats barbaresques,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2685.9,1000,francs,1835,malte,turquie (levant),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1045.2,1000,francs,1835,malte,toscane,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1245.7,1000,francs,1835,malte,egypte,exp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,831.9,1000,francs,1835,malte,autriche,exp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,831.9,1000,francs,1835,malte,autriche (empire),exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,18.6,1000,francs,1835,malte,etats-unis,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,246.8,1000,francs,1835,malte,france,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,522.7,1000,francs,1835,malte,sardaigne,exp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,13699.5,1000,francs,1835,malte,monde,exp,?,,,,,total_reporting,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,6481.7,1000,francs,1835,malte,angletere,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4783.0,1000,francs,1835,malte,deux-siciles,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4783,1000,francs,1835,malte,deux-siciles,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,61.8,1000,francs,1835,malte,etats barbaresques,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,malte,turquie (levant),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,461.7,1000,francs,1835,malte,toscane,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,106.6,1000,francs,1835,malte,egypte,imp,?,,,,,,
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,453.4,1000,francs,1835,malte,autriche,imp,?,,,,,,
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,453.4,1000,francs,1835,malte,autriche (empire),imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,888.7,1000,francs,1835,malte,etats-unis,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,638.4,1000,francs,1835,malte,france,imp,?,,,,,,
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,242.9,1000,francs,1835,malte,sardaigne,imp,?,,,,,,
@@ -58,7 +58,7 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2303.8,1000,francs,1835,autriche-hong
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,8731.6,1000,francs,1835,autriche-hongrie (trieste),etats romains,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,900.8,1000,francs,1835,autriche-hongrie (trieste),france,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2221.2,1000,francs,1835,autriche-hongrie (trieste),russie,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,483.0,1000,francs,1835,autriche-hongrie (trieste),espagne,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,483,1000,francs,1835,autriche-hongrie (trieste),espagne,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,237.7,1000,francs,1835,autriche-hongrie (trieste),portugal,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,3700.1,1000,francs,1835,autriche-hongrie (trieste),grèce,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,autriche-hongrie (trieste),indes orientales etrangeres,exp,?,,,,,,Valeur officielle
@@ -73,14 +73,14 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc26,7637.6,1000,francs,1835,autriche-hong
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,6383.7,1000,francs,1835,autriche-hongrie (trieste),etats romains,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,5327.7,1000,francs,1835,autriche-hongrie (trieste),france,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4956.3,1000,francs,1835,autriche-hongrie (trieste),russie,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4439.0,1000,francs,1835,autriche-hongrie (trieste),espagne,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4439,1000,francs,1835,autriche-hongrie (trieste),espagne,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,3494.6,1000,francs,1835,autriche-hongrie (trieste),portugal,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2774.5,1000,francs,1835,autriche-hongrie (trieste),grèce,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,983.2,1000,francs,1835,autriche-hongrie (trieste),indes orientales etrangeres,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,842.0,1000,francs,1835,autriche-hongrie (trieste),sardaigne,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,842,1000,francs,1835,autriche-hongrie (trieste),sardaigne,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,109727.8,1000,francs,1835,autriche-hongrie (trieste),monde,imp,?,,,,,total_reporting,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1411.0,1000,francs,1835,autriche-hongrie (fiume),france,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,93.0,1000,francs,1835,autriche-hongrie (fiume),russie,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1411,1000,francs,1835,autriche-hongrie (fiume),france,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,93,1000,francs,1835,autriche-hongrie (fiume),russie,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,108.8,1000,francs,1835,autriche-hongrie (fiume),sardaigne,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,autriche-hongrie (fiume),ports de l'adriatique,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,46.4,1000,francs,1835,autriche-hongrie (fiume),deux-siciles,exp,?,,,,,,Valeur officielle
@@ -88,37 +88,37 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc26,20.5,1000,francs,1835,autriche-hongri
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1784.2,1000,francs,1835,autriche-hongrie (fiume),monde,exp,?,,,,,total_reporting,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,13.2,1000,francs,1835,autriche-hongrie (fiume),france,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,151.3,1000,francs,1835,autriche-hongrie (fiume),russie,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,24.0,1000,francs,1835,autriche-hongrie (fiume),sardaigne,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,24,1000,francs,1835,autriche-hongrie (fiume),sardaigne,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,81.8,1000,francs,1835,autriche-hongrie (fiume),ports de l'adriatique,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,6.7,1000,francs,1835,autriche-hongrie (fiume),deux-siciles,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,14.1,1000,francs,1835,autriche-hongrie (fiume),tunis et alger,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,293.7,1000,francs,1835,autriche-hongrie (fiume),monde,imp,?,,,,,total_reporting,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,127.8,1000,francs,1835,espagne (bilbao),angleterre,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,259.0,1000,francs,1835,espagne (bilbao),france,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,259,1000,francs,1835,espagne (bilbao),france,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,espagne (bilbao),suède et norvège,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2055.1,1000,francs,1835,espagne (bilbao),monde,exp,?,,,,,total_subreporting,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1871.6,1000,francs,1835,espagne (bilbao),angleterre,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1005.5,1000,francs,1835,espagne (bilbao),france,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,13.3,1000,francs,1835,espagne (bilbao),suède et norvège,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4829.8,1000,francs,1835,espagne (bilbao),monde,imp,?,,,,,total_subreporting,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,3043.0,1000,francs,1835,espagne (santander),france,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1430.0,1000,francs,1835,espagne (santander),angleterre,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,3043,1000,francs,1835,espagne (santander),france,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1430,1000,francs,1835,espagne (santander),angleterre,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,espagne (santander),colombie,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,espagne (santander),suède et norvège,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,espagne (santander),possessions anglaises,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2862.0,1000,francs,1835,espagne (santander),cuba,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,39.0,1000,francs,1835,espagne (santander),porto rico,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,10.0,1000,francs,1835,espagne (santander),philippines,exp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,7386.0,1000,francs,1835,espagne (santander),monde,exp,?,,,,,total_subreporting,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,891.0,1000,francs,1835,espagne (santander),france,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,300.0,1000,francs,1835,espagne (santander),angleterre,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1290.0,1000,francs,1835,espagne (santander),colombie,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,675.0,1000,francs,1835,espagne (santander),suède et norvège,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,550.0,1000,francs,1835,espagne (santander),possessions anglaises,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4219.0,1000,francs,1835,espagne (santander),cuba,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2842.0,1000,francs,1835,espagne (santander),porto rico,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,185.0,1000,francs,1835,espagne (santander),philippines,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,11033.0,1000,francs,1835,espagne (santander),monde,imp,?,,,,,total_subreporting,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2862,1000,francs,1835,espagne (santander),cuba,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,39,1000,francs,1835,espagne (santander),porto rico,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,10,1000,francs,1835,espagne (santander),philippines,exp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,7386,1000,francs,1835,espagne (santander),monde,exp,?,,,,,total_subreporting,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,891,1000,francs,1835,espagne (santander),france,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,300,1000,francs,1835,espagne (santander),angleterre,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1290,1000,francs,1835,espagne (santander),colombie,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,675,1000,francs,1835,espagne (santander),suède et norvège,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,550,1000,francs,1835,espagne (santander),possessions anglaises,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4219,1000,francs,1835,espagne (santander),cuba,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,2842,1000,francs,1835,espagne (santander),porto rico,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,185,1000,francs,1835,espagne (santander),philippines,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,11033,1000,francs,1835,espagne (santander),monde,imp,?,,,,,total_subreporting,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,98.4,1000,francs,1835,espagne (corogne),angleterre,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,41.1,1000,francs,1835,espagne (corogne),france,exp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,espagne (corogne),etats-unis,exp,?,,,,,,Valeur officielle
@@ -128,8 +128,8 @@ ExtraitsDavisDivers1eSérieAvisDivers_Fc26,,1000,francs,1835,espagne (corogne),p
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,495.9,1000,francs,1835,espagne (corogne),monde,exp,?,,,,,total_subreporting,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1652.3,1000,francs,1835,espagne (corogne),angleterre,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,860.2,1000,francs,1835,espagne (corogne),france,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,273.0,1000,francs,1835,espagne (corogne),etats-unis,imp,?,,,,,,Valeur officielle
-ExtraitsDavisDivers1eSérieAvisDivers_Fc26,113.0,1000,francs,1835,espagne (corogne),suède et norvège,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,273,1000,francs,1835,espagne (corogne),etats-unis,imp,?,,,,,,Valeur officielle
+ExtraitsDavisDivers1eSérieAvisDivers_Fc26,113,1000,francs,1835,espagne (corogne),suède et norvège,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,1572.6,1000,francs,1835,espagne (corogne),cuba,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,175.8,1000,francs,1835,espagne (corogne),porto rico,imp,?,,,,,,Valeur officielle
 ExtraitsDavisDivers1eSérieAvisDivers_Fc26,4697.5,1000,francs,1835,espagne (corogne),monde,imp,?,,,,,total_subreporting,Valeur officielle

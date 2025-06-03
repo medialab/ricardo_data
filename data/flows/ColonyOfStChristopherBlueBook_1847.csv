@@ -1,0 +1,12 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfStChristopherBlueBook_1847_158159,108505,1,£,1847,st christopher,united kingdom,imp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_158159,11525,1,£,1847,st christopher,british west indies,imp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_158159,7927,1,£,1847,st christopher,british north america,imp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_158159,39825,1,£,1847,st christopher,united states of america,imp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_158159,8250,1,£,1847,st christopher,foreign states,imp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_158159,176580,1,£,1847,st christopher,total,imp,gen,,,,,total_reporting,
+ColonyOfStChristopherBlueBook_1847_168169,144976,1,£,1847,st christopher,united kingdom,exp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_168169,13840,1,£,1847,st christopher,british west indies,exp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_168169,4313,1,£,1847,st christopher,british north america,exp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_168169,8826,1,£,1847,st christopher,foreign states,exp,gen,,,,,,
+ColonyOfStChristopherBlueBook_1847_168169,171955,1,£,1847,st christopher,total,exp,gen,,,,,total_reporting,

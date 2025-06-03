@@ -1,5 +1,5 @@
 source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_45,260400.0,1000,Franc,1899,algérie,france,Imp,Spe,NS,,,,,France's exports to Algeria
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_45,260400,1000,Franc,1899,algérie,france,Imp,Spe,NS,,,,,France's exports to Algeria
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,363.234,1000,Franc,1899,algérie,russie (mer baltique),Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1424.177,1000,Franc,1899,algérie,russie (mer noire),Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1268.433,1000,Franc,1899,algérie,suède,Imp,Spe,NS,,,,,
@@ -12,7 +12,7 @@ TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1286.987,1000,Franc,1899,algérie,suisse,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1893.418,1000,Franc,1899,algérie,portugal,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,5641.322,1000,Franc,1899,algérie,espagne,Imp,Spe,NS,,,,,
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,2671.991,1000,Franc,1899,algérie,autriche,Imp,Spe,NS,,,,,
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,2671.991,1000,Franc,1899,algérie,autriche-hongrie,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,2885.556,1000,Franc,1899,algérie,italie,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,62.775,1000,Franc,1899,algérie,grèce,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1260.079,1000,Franc,1899,algérie,roumanie,Imp,Spe,NS,,,,,
@@ -57,7 +57,7 @@ TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,23.925,1000,Franc,1899,algérie,epaves et sauvetages,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,,1000,Franc,1899,algérie,provisions de bord,Imp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,40525.789,1000,Franc,1899,algérie,total étranger,Imp,Spe,NS,,,1,,
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_43,271500.0,1000,Franc,1899,algérie,france,Exp,Spe,NS,,,,,France's imports from Algeria
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_43,271500,1000,Franc,1899,algérie,france,Exp,Spe,NS,,,,,France's imports from Algeria
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,930.504,1000,Franc,1899,algérie,russie (mer baltique),Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1382.498,1000,Franc,1899,algérie,russie (mer noire),Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,3.645,1000,Franc,1899,algérie,suède,Exp,Spe,NS,,,,,
@@ -70,10 +70,10 @@ TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,2.374,1000,Franc,1899,algérie,suisse,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,237.688,1000,Franc,1899,algérie,portugal,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,2328.411,1000,Franc,1899,algérie,espagne,Exp,Spe,NS,,,,,
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1416.236,1000,Franc,1899,algérie,autriche,Exp,Spe,NS,,,,,
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,1416.236,1000,Franc,1899,algérie,autriche-hongrie,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,4537.964,1000,Franc,1899,algérie,italie,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,166.443,1000,Franc,1899,algérie,grèce,Exp,Spe,NS,,,,,
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,162.0,1000,Franc,1899,algérie,roumanie,Exp,Spe,NS,,,,,
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,162,1000,Franc,1899,algérie,roumanie,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,2.708,1000,Franc,1899,algérie,turquie,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,355.378,1000,Franc,1899,algérie,possessions anglaises dans la méditerranée,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,8.41,1000,Franc,1899,algérie,egypte,Exp,Spe,NS,,,,,
@@ -115,7 +115,7 @@ TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,,1000,Franc,1899,algérie,epaves et sauvetages,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,295.864,1000,Franc,1899,algérie,provisions de bord,Exp,Spe,NS,,,,,
 TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_721,53040.079,1000,Franc,1899,algérie,total étranger,Exp,Spe,NS,,,1,,
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_45,225500.0,1000,Franc,1898,algérie,france,Imp,Spe,NS,,,,,France's exports to Algeria
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_43,224500.0,1000,Franc,1898,algérie,france,Exp,Spe,NS,,,,,France's imports from Algeria
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_45,216200.0,1000,Franc,1897,algérie,france,Imp,Spe,NS,,,,,France's exports to Algeria
-TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_43,237900.0,1000,Franc,1897,algérie,france,Exp,Spe,NS,,,,,France's imports from Algeria
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_45,225500,1000,Franc,1898,algérie,france,Imp,Spe,NS,,,,,France's exports to Algeria
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_43,224500,1000,Franc,1898,algérie,france,Exp,Spe,NS,,,,,France's imports from Algeria
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_45,216200,1000,Franc,1897,algérie,france,Imp,Spe,NS,,,,,France's exports to Algeria
+TableauGénéralDuCommerceDeLaFranceAvecSesColoniesEtLesPuissancesÉtrangères_1899_43,237900,1000,Franc,1897,algérie,france,Exp,Spe,NS,,,,,France's imports from Algeria

@@ -1,0 +1,10 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheVirginIslandsBlueBook_1884_140141,7232,1,sterling,1884,colony of the virgin islands,"st. thomas, ste. croix & st. john",imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,1,1,sterling,1884,colony of the virgin islands,st. martins,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,7,1,sterling,1884,colony of the virgin islands,st. domingo,imp,gen,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,7239,1,sterling,1884,colony of the virgin islands,total,imp,gen,,,,,total_reporting,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,22,1,sterling,1884,colony of the virgin islands,antigua,exp,spe,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,10,1,sterling,1884,colony of the virgin islands,dominica,exp,spe,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,3455,1,sterling,1884,colony of the virgin islands,"st. thomas, ste. croix & st. john",exp,spe,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,2,1,sterling,1884,colony of the virgin islands,st. domingo,exp,spe,,,,,,
+ColonyOfTheVirginIslandsBlueBook_1884_140141,3489,1,sterling,1884,colony of the virgin islands,total,exp,spe,,,,,total_reporting,

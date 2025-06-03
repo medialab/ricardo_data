@@ -1,0 +1,11 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+BritishHondurasBlueBook_1845_158159,194129,1,£,1845,british honduras,great britain,imp,gen,,,,,,
+BritishHondurasBlueBook_1845_158159,1322,1,£,1845,british honduras,british colonies. west indies,imp,gen,,,,,,
+BritishHondurasBlueBook_1845_158159,62081,1,£,1845,british honduras,united states of america,imp,gen,,,,,,
+BritishHondurasBlueBook_1845_158159,15541,1,£,1845,british honduras,foreign states,imp,gen,,,,,,
+BritishHondurasBlueBook_1845_158159,273073,1,£,1845,british honduras,total,imp,gen,,,,,total_reporting,
+BritishHondurasBlueBook_1845_168169,239336,1,£,1845,british honduras,great britain,exp,gen,,,,,,
+BritishHondurasBlueBook_1845_168169,360,1,£,1845,british honduras,british colonies. west indies,exp,gen,,,,,,
+BritishHondurasBlueBook_1845_168169,37177,1,£,1845,british honduras,united states of america,exp,gen,,,,,,
+BritishHondurasBlueBook_1845_168169,4976,1,£,1845,british honduras,foreign states,exp,gen,,,,,,
+BritishHondurasBlueBook_1845_168169,281850,1,£,1845,british honduras,total,exp,gen,,,,,total_reporting,

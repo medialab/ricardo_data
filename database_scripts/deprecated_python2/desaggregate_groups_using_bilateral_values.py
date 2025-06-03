@@ -110,7 +110,7 @@ for (group, reporting), flows in itertools.groupby(group_flows, lambda e: (e['pa
                     group_desaggregation['new_flows'][-1]['partner'] = mirror['reporting']
                     group_desaggregation['new_flows'][-1]['partner_type'] = mirror['reporting_type']
                     group_desaggregation['new_flows'][-1]['partner_continent'] = mirror['reporting_continent']
-                    group_desaggregation['new_flows'][-1]['partner_part_of_GPH_entity'] = mirror['reporting_continent']
+                    group_desaggregation['new_flows'][-1]['partner_parent_entity'] = mirror['reporting_continent']
                     # the flow amount is calculated by applying on original value the ratio calculated from mirror flows composing the group
                     group_desaggregation['new_flows'][-1]['flow'] = year_expimp[year][expimp]['flow'] * \
                         flow_in_pounds(mirror)/mirror_total

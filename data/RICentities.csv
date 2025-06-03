@@ -1,558 +1,757 @@
-RICname,type,continent,GPH_code,slug,part_of_GPH_entity
+RICname,type,continent,GPH_code,slug,parent_entity
 ***NA,,,,NOTAVAILABLE,
-A Coruna,city/part_of,Europe,,ACoruna,Spain
+A Coruna,locality,Europe,,ACoruna,Spain
+Accra,locality,Africa,,,Ghana (Gold Coast)
 Aceh,GPH_entity,Asia,8531,Aceh,
+Adana,locality,Asia,,,Turkey (Ottoman Empire)
+Adana & Tarsus,group,Asia,,,
+Addah,locality,Africa,,,Ivory Coast
+Adelaide,locality,Oceania,,,South Australia
 Aden,GPH_entity,Asia,681,Aden,
 Aden & Aden Dependencies,group,Asia,,,
-Aden & Algeria (Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia),group,World,,Aden_Algeria (Algiers)_AsianTurkey_EgyptArabRepublicEgypt_IranPersia,
-Aden & Algeria (Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco,group,World,,Aden_Algeria (Algiers)_AsianTurkey_EgyptArabRepublicEgypt_IranPersia_Morocco,
-Aden & Arabia,geographical_area,Asia,,,
+Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia),group,World,,Aden_Algeria (Regency of Algiers)_AsianTurkey_EgyptArabRepublicEgypt_IranPersia,
+Aden & Algeria (Regency of Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco,group,World,,Aden_Algeria (Regency of Algiers)_AsianTurkey_EgyptArabRepublicEgypt_IranPersia_Morocco,
+Aden & Arabia,group,Asia,,,
 Aden & Asian Turkey & Egypt Arab Republic (Egypt),group,World,,Aden_AsianTurkey_EgyptArabRepublicEgypt,
-Aden & British colonies (other),group,World,,,
-Aden & British East Africa,group,World,,Aden_BritishEastAfrica,
+Aden & Bahrain,group,Asia,,,
+Aden & Bahrain & Iran (Persia),group,Asia,,,
+Aden & British Colonies (other),group,World,,,
+Aden & British Eastern Africa,group,World,,Aden_BritishEastAfrica,
 Aden & India,group,Asia,,Aden_India,
-Aden & Other countries,geographical_area,World,,,
+Aden & India & Sri Lanka (Ceylon),group,Asia,,,
+Aden & Kenya (British East Africa Protectorate),group,Africa,,,
+Aden & Mauritius,group,World,,,
 Aden & Perim I.,group,Asia,,,
 Aden & Straits Settlements,group,Asia,,,
-Aden Dependencies,city/part_of,Asia,,,Aden
+Aden & World (other),group,World,,,
+Aden Dependencies,locality,Asia,,,Aden
 Aden Protectorate,GPH_entity,Asia,682,,
+Adidome,locality,Africa,,,Volta Region
 Adriatic Ports,geographical_area,Europe,,,
 Afghanistan,GPH_entity,Asia,700,Afghanistan,
 Afghanistan & Asian Turkey & Iran (Persia),group,Asia,,Afghanistan_AsianTurkey_IranPersia,
 Afghanistan & Baluchistan (Kalat),group,Asia,,Afghanistan_BaluchistanKalat,
+Afghanistan & Bhutan & Nepal,group,Asia,,,
 Afghanistan & Iran (Persia),group,Asia,,,
+Afghanistan & Iran (Persia) & Iraq (Mesopotamia),group,Asia,,,
 Africa,geographical_area,Africa,,Africa,
-Africa (other),geographical_area,Africa,,Africaother,
-Africa & Cape Colony (Cape of Good Hope),geographical_area,Africa,,Africa_CapeColony,
+Africa (other),locality,Africa,,Africaother,Africa
+Africa (other) & Arabia,group,World,,,
+Africa (other) & Asia (other),group,World,,,
+Africa (other) & Asia (other) & Japan,group,World,,,
+Africa (other) & Western Africa,group,Africa,,WestAfrica_Africaother,
+Africa & Australia & People's Republic of China (China),group,World,,,
+Africa & Cape Colony (Cape of Good Hope),group,Africa,,Africa_CapeColony,
 Africa Coast,geographical_area,Africa,,AfricaCoast,
-Africa Coast (West) (other),geographical_area,Africa,,,
-Africa Coast & Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),geographical_area,Africa,,,
-Africa Ports (other),geographical_area,Africa,,,
-Africa Ports (other) & Asia Ports (other),geographical_area,World,,,
-African Mediterranean Ports,geographical_area,Africa,,,
-African Mediterranean Ports & Asian Black Sea Ports,geographical_area,World,,,
-African Turkey,city/part_of,Africa,,AfricanTurkey,Turkey (Ottoman Empire)
+Africa Coast & Barbary Coast,group,Africa,,,
+African Islands,geographical_area,Africa,,,
+African Turkey,locality,Africa,,AfricanTurkey,Turkey (Ottoman Empire)
 African Turkey & Asian Turkey & European Turkey,group,World,,AfricanTurkey_AsianTurkey_EuropeanTurkey,
-Al Mukalla,city/part_of,Asia,,AlMukalla,Federation of South Arabia
+Aghwey,locality,Africa,,,Ouidah
+Akassa,locality,Africa,,,Nigeria
+Akuse,locality,Africa,,,Ghana (Gold Coast)
+Al Mukalla,locality,Asia,,AlMukalla,Federation of South Arabia
 Alaska,GPH_entity,America,3,Alaska,
+Alaska & St. Pierre and Miquelon,group,America,,,
 Alaska & United States of America,group,America,,,
 Albania,GPH_entity,Europe,339,Albania,
+Albania & Andorra,group,Europe,,,
 "Albania & Fiume & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",group,Europe,,Albania_Fiume_YugoslaviaKingdomofSerbsCroatsandSlovenes,
 Albania & Kingdom of Serbia & Montenegro,group,Europe,,Albania_KingdomofSerbia_Montenegro,
 "Albania & Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",group,Europe,,Albania_YugoslaviaKingdomofSerbsCroatsandSlovenes,
+Alboran Island,locality,Europe,,,Spain
 Aleppo,GPH_entity,Asia,6525,Aleppo,
-Alexandria,city/part_of,Africa,,Alexandria,Egypt Arab Republic (Egypt)
+Aleppo & Alexandretta,group,Asia,,,
+Aleppo & Latakia (Alaouites),group,Asia,,,
+Alexander Bay,locality,Africa,,,Orange Free State (Orange River Colony)
+Alexandretta,locality,Asia,,,Turkey (Ottoman Empire)
+Alexandria,locality,Africa,,Alexandria,Egypt Arab Republic (Egypt)
 Alexandria & Damietta & Jeddah & Rosetta,group,Africa,,Alexandria_Damietta_Jeddah_Rosetta,
 Alexandria & Egypt Arab Republic (Egypt),group,Africa,,Alexandria_EgyptArabRepublicEgypt,
 Alexandria & Suez Canal Zone,group,Africa,,Alexandria_SuezCanalZone,
-Algarve,city/part_of,Europe,,Algarve,Portugal
-Algeria (Algiers),GPH_entity,Africa,615,Algeria (Algiers),
-Algeria (Algiers) (other),city/part_of,Africa,,,Algeria (Algiers)
-Algeria (Algiers) & France,group,World,,Algeria (Algiers)_France,
-Algeria (Algiers) & France & French Colonies (other),group,World,,Algeria (Algiers)_France_FrenchColoniesother,
-Algeria (Algiers) & France & Morocco & Tunisia (Tunis),group,World,,Algeria (Algiers)_France_Morocco_Tunisia (Tunis),
-Algeria (Algiers) & Morocco,group,Africa,,,
-Algeria (Algiers) & Morocco & Tripolitania & Tunisia (Tunis),group,Africa,,Algeria (Algiers)_LibyaTripolitaniaCyrenaicaFezzan_Morocco_Tunisia (Tunis),
-Algeria (Algiers) & Morocco & Tunisia (Tunis) & Zanzibar,group,Africa,,Algeria (Algiers)_Morocco_Tunisia (Tunis)_Zanzibar,
-Algeria (Algiers) & Tunisia (Tunis),group,Africa,,,
-Algiers,city/part_of,Africa,,Algiers,Algeria (Algiers)
-Algiers & Annaba (Bône),group,Africa,,Algiers_AnnabaBône,
-Algoa Bay,city/part_of,Africa,,,Cape Colony (Cape of Good Hope)
+Algarve,locality,Europe,,Algarve,Portugal
+Algeria (Regency of Algiers),GPH_entity,Africa,615,Algeria (Regency of Algiers),
+Algeria (Regency of Algiers) (other),locality,Africa,,,Algeria (Regency of Algiers)
+Algeria (Regency of Algiers) & Egypt Arab Republic (Egypt),group,Africa,,,
+Algeria (Regency of Algiers) & Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),group,Africa,,,
+Algeria (Regency of Algiers) & France,group,World,,Algeria (Regency of Algiers)_France,
+Algeria (Regency of Algiers) & France & French Colonies (other),group,World,,Algeria (Regency of Algiers)_France_FrenchColoniesother,
+Algeria (Regency of Algiers) & France & Morocco & Tunisia (Regency of Tunis),group,World,,Algeria (Regency of Algiers)_France_Morocco_Tunisia (Regency of Tunis),
+Algeria (Regency of Algiers) & France & Tunisia (Regency of Tunis),group,World,,,
+Algeria (Regency of Algiers) & Morocco,group,Africa,,,
+Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis),group,Africa,,,
+Algeria (Regency of Algiers) & Morocco & Tunisia (Regency of Tunis) & Zanzibar,group,Africa,,Algeria (Regency of Algiers)_Morocco_Tunisia (Regency of Tunis)_Zanzibar,
+Algeria (Regency of Algiers) & Tunisia (Regency of Tunis),group,Africa,,,
+Algiers,locality,Africa,,Algiers,Algeria (Regency of Algiers)
+Algiers & Annaba (Bône),group,Africa,,Algiers_AnnabaB�ne,
+Algoa Bay,locality,Africa,,,Cape Colony (Cape of Good Hope)
 Alhucemas,GPH_entity,Africa,6061,,
 Alo (Futuna),GPH_entity,Oceania,9324,,
 Alsace Lorraine,GPH_entity,Europe,2201,,
-Altona,city/part_of,Europe,,Altona,Holstein
+Altona,locality,Europe,,Altona,Holstein
 Altona & Hamburg,group,Europe,,Altona_Hamburg,
+Altona & Holstein,group,Europe,,,
+Altona & Holstein & Schleswig,group,Europe,,,
 Altona & Wandsbeck,group,Europe,,Altona_Wandsbeck,
-Ambon Island,city/part_of,Asia,,AmbonIsland,Indonesia (Dutch East Indies)
+Ambon,locality,Asia,,AmbonIsland,Indonesia (Dutch East Indies)
+Ambriz,locality,Africa,,,Angola
 America,geographical_area,America,,America,
-America (other),geographical_area,America,,Americaother,
-America (other) & Europe (other),geographical_area,World,,Americaother_Europeother,
-America & Pacific Islands & West Indies (other),geographical_area,World,,,
+America (other),locality,America,,Americaother,America
+America (other) & Europe (other),group,World,,Americaother_Europeother,
+America & Pacific Islands & West Indies (other),group,World,,,
 American America,colonial_area,America,,,United States of America
-American America Is. & British America Is. & French America Is.,group,America,,,
+American America & British America & Dutch America & French America,group,America,,,
+American America & British America & French America,group,America,,,
+American Asia,colonial_area,Asia,,,United States of America
+American Asia & American Oceania,group,World,,,
+American Central America,colonial_area,America,,,United States of America
 American China,colonial_area,Asia,,AmericanChina,United States of America
 American Colonies,colonial_area,World,,,United States of America
+American Colonies (other),locality,World,,,American Colonies
+American Colonies & French West Indies,group,America,,,
+American Colonies & Netherlands Antilles,group,America,,,
 American Colonies & United States of America,group,World,,AmericanColonies_UnitedStatesofAmerica,
 American Oceania,colonial_area,Oceania,,AmericanOceania,United States of America
+American Polynesia,colonial_area,Oceania,,,United States of America
 American Samoa,GPH_entity,Oceania,991,,
+American West Indies,colonial_area,America,,,United States of America
 Amirante Is.,GPH_entity,Africa,5921,,
 Amirante Is. & Mauritius & Seychelles,group,Africa,,,
-Amsterdam,city/part_of,Europe,,Amsterdam,Netherlands
-Amur River Ports,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Amsterdam,locality,Europe,,Amsterdam,Netherlands
+Anambas Is.,locality,Asia,,,Riau
+Anambas Is. & Natuna,group,Asia,,,
 Ancona,GPH_entity,Europe,3271,Ancona,
 Andaman Is.,GPH_entity,Asia,7501,AndamanIs,
 Andorra,GPH_entity,Europe,232,Andorra,
+Anecho (Little Popo),GPH_entity,Africa,4346,,
 Angola,GPH_entity,Africa,540,Angola,
-Angola & Kabinda (Portuguese Congo),group,Africa,,,
-Angola & Portuguese West Africa,group,Africa,,,
-Angra Pequena,city/part_of,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
+Angola & Cabinda (Portuguese Congo),group,Africa,,,
+Angra Pequena,locality,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
+Anguilla,GPH_entity,America,1062,,
+Anguilla & St. Kitts-Nevis,group,America,,,
 Anjouan,GPH_entity,Africa,5813,,
-Annaba (Bône),city/part_of,Africa,,,Algeria (Algiers)
+Anjouan & Grand Comoro & Mayotte & Moheli,group,Africa,,,
+Annaba (Bône),locality,Africa,,,Algeria (Regency of Algiers)
 Annam,GPH_entity,Asia,8152,,
-Annam & Cambodia (Kampuchea) & Cochin China & French China Leased Territory & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_FrenchChinaLeasedTerritory_Tonkin,
+Annam & Cambodia (Kampuchea) & Cochin China & French China & Tonkin,group,Asia,,,
+Annam & Cambodia (Kampuchea) & Cochin China & Kwanchowan & Tonkin,group,Asia,,,
 Annam & Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,Annam_CambodiaKampuchea_CochinChina_Tonkin,
+Annam & Cambodia (Kampuchea) & Laos & Tonkin,group,Asia,,,
 Annam & Cochin China & Tonkin,group,Asia,,Annam_CochinChina_Tonkin,
+Annapolis,locality,America,,,Nova Scotia
+Annobon I.,GPH_entity,Africa,4111,,
 Antarctic,geographical_area,Antarctic,,Antarctic,
-Antarctic & Arctic,geographical_area,World,,,
-Antigua and Barbuda,GPH_entity,America,58,Antigua_Barbuda,
-Antwerp,city/part_of,Europe,,Antwerp,Belgium
+Antarctic & Arctic,group,World,,,
+Antigua and Barbuda (Antigua),GPH_entity,America,58,Antigua_Barbuda,
+Antsiranana (Diego-Suarez),locality,Africa,,,Madagascar (Malagasy Republic)
+Antwerp,locality,Europe,,Antwerp,Belgium
 Arabia,geographical_area,Asia,,Arabia,
-Arabia (Asia),geographical_area,Asia,,,
-Arabia (land),geographical_area,Asia,,Arabialand,
-Arabia (other),geographical_area,Asia,,Arabiaother,
-Arabia (sea),geographical_area,Asia,,,
-Arabia (sea) & Persian Gulf Ports,geographical_area,Asia,,,
-Arabia & Hejaz Sultanate & Iraq (Mesopotamia),geographical_area,Asia,,,
-Arabia & Persian Gulf Ports,geographical_area,Asia,,,
-Arabia & Persian Gulf Ports & Red Sea,geographical_area,Asia,,,
-Arakan,city/part_of,Asia,,,Myanmar (Burma)
+Arabia (other),locality,Asia,,Arabiaother,Arabia
+Arabia (sea),locality,Asia,,,Arabia
+Arabia & Asian Turkey & Iran (Persia),group,Asia,,AsianTurkey_IranPersia_MiddleEast,
+Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,group,Asia,,,
+Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,group,Asia,,,
+Arabia & Hejaz Sultanate & Iraq (Mesopotamia),group,Asia,,,
+Arabia & Persian Gulf,group,Asia,,,
+Arabia & Persian Gulf & Red Sea,group,Asia,,,
+Arakan,locality,Asia,,,Myanmar (Burma)
 Arakan & Bago (Pegu) & Mawlamyine & Rangoon,group,Asia,,,
 Arakan & Chittagong & Tanintharyi Region,group,Asia,,Arakan_Chittagong_TanintharyiRegion,
 Arakan & Tanintharyi Region,group,Asia,,Aracan_TanintharyiRegion,
-Archipel,city/part_of,Europe,,Archipel,
+Archipelago,locality,Europe,,Archipel,Turkey (Ottoman Empire)
+Archipelago & Izmir (Smyrna),group,World,,DodecaneseIs.AegeanIs._IzmirSmyrna,
+Archipelago & Romania & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_Romania_TurkeyOttomanEmpire,
+Archipelago & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_TurkeyOttomanEmpire,
 Arctic,geographical_area,Arctic,,Arctic,
-Arctic & Greenland & North Sea,geographical_area,World,,Arctic_Greenland_NorthSea,
+Arctic & Faeroe Is. & Iceland,group,World,,,
+Arctic & Greenland & North Sea,group,World,,Arctic_Greenland_NorthSea,
+Arctic & North Sea,group,World,,,
 Argentina (La Plata),GPH_entity,America,160,ArgentinaLaPlata,
-Argentina (La Plata) (other),city/part_of,America,,ArgentinaLaPlata,Argentina (La Plata)
-Argentina (La Plata) & Brazil & Southern America (other),geographical_area,America,,Argentina (Río de la Plata)_Brazil_SouthernAmerica,
+Argentina (La Plata) (other),locality,America,,ArgentinaLaPlata,Argentina (La Plata)
+Argentina (La Plata) & Brazil,group,America,,,
+Argentina (La Plata) & Brazil & Southern America (other),group,America,,Argentina (R�o de la Plata)_Brazil_SouthernAmerica,
 Argentina (La Plata) & Chile,group,America,,ArgentinaLaPlata_Chile,
 Argentina (La Plata) & Paraguay & Uruguay,group,America,,ArgentinaLaPlata_Paraguay_Uruguay,
 Argentina (La Plata) & Patagonia (Atlantic Coast),group,America,,ArgentinaLaPlata_PatagoniaAtlanticCoast,
-Argentina (La Plata) & Southern America (other),geographical_area,America,,Argentina (Río de la Plata)_SouthernAmericaother,
+Argentina (La Plata) & Southern America (other),group,America,,Argentina (R�o de la Plata)_SouthernAmericaother,
 Argentina (La Plata) & Uruguay,group,America,,ArgentinaLaPlata_Uruguay,
-Argentina (La Plata) Ports,city/part_of,America,,ArgentinaLaPlata,Argentina (La Plata)
-Arica,city/part_of,America,,Arica,Chile
+Argyll,locality,Europe,,,Scotland
+Arica,locality,America,,Arica,Chile
 Arica & Tacna,group,America,,Arica_Tacna,
-Arkhangelsk,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
 Armenia,GPH_entity,Europe,371,,
 Armenia & Kurdistan,group,Europe,,,
 Aruba,GPH_entity,America,1069,,
 Aruba & Bonaire,group,America,,Aruba_Bonaire,
-Arwad,city/part_of,Asia,,,Syria
-Ascension I.,GPH_entity,Atlantic,4070,AscensionI.,
-Ascension I. & St. Helena,group,Atlantic,,AscensionI._St.Helena,
+Arwad,locality,Asia,,,Syria
+Asante (Ashanti Empire),GPH_entity,Africa,4521,,
+Ascension I.,GPH_entity,Africa,4070,AscensionI.,
+Ascension I. & St. Helena,group,Africa,,AscensionI._St.Helena,
 Ashmore and Cartier Is,GPH_entity,Oceania,9008,,
 Asia,geographical_area,Asia,,Asia,
-Asia (other),geographical_area,Asia,,Asiaother,
-Asia (other) & British East Indies & People's Republic of China (China) & Indonesia (Dutch East Indies),geographical_area,Asia,,,
-Asia (other) & East Indies,geographical_area,Asia,,Asiaother_EastIndies,
-Asia Ports (other),geographical_area,Asia,,,
-Asian Russia,city/part_of,Asia,,RussiaUSSR,Russia (USSR)
-Asian Russia (other),city/part_of,Asia,,,Russia (USSR)
-Asian Turkey,city/part_of,Asia,,AsianTurkey,Turkey (Ottoman Empire)
+Asia (other),locality,Asia,,Asiaother,Asia
+Asia (other) & Australia & East Indies,group,World,,,
+Asia (other) & British East Indies & People's Republic of China (China) & Indonesia (Dutch East Indies),group,Asia,,,
+Asia (other) & British East Indies & People's Republic of China (China) & Thailand (Siam),group,Asia,,,
+Asia (other) & East Indies,group,Asia,,Asiaother_EastIndies,
+Asia (other) & East Indies & People's Republic of China (China),group,Asia,,,
+Asian Russia,locality,Asia,,RussiaUSSR,Russia (USSR)
+Asian Russia (other),locality,Asia,,,Asian Russia
+Asian Russia & Japan,group,Asia,,,
+Asian Turkey,locality,Asia,,AsianTurkey,Turkey (Ottoman Empire)
 Asian Turkey & Cyprus,group,World,,AsianTurkey_Cyprus,
 Asian Turkey & European Turkey,group,World,,AsianTurkey_EuropeanTurkey,
-Asian Turkey & Iran (Persia) & Middle-East,geographical_area,Asia,,AsianTurkey_IranPersia_MiddleEast,
 Assab,GPH_entity,Africa,5331,,
 Assab & Bailul & Massawah,group,Africa,,Assab_Bailul_Massawah,
 Assam,GPH_entity,Asia,7572,,
 Assam & Bengal,group,Asia,,Assam_Bengal,
 Assam & Bengal & Bihar & Odisha,group,Asia,,Assam_Bengal_Bihar_Odisha,
+Assinie,GPH_entity,Africa,4373,,
+Assinie & Congo (Brazzaville) (French Congo) (Middle Congo) & Grand-Bassam,group,Africa,,,
+Assinie & Grand-Bassam,group,Africa,,,
+Assinie & Grand-Bassam & Senegal,group,Africa,,,
 Atlantic Ocean,geographical_area,Atlantic,,AtlanticOcean,
-Auckland,city/part_of,Oceania,,,New Zealand
+Auckland Is.,GPH_entity,Oceania,9205,,
+Auckland Is. & Fiji,group,Oceania,,,
 Australia,GPH_entity,Oceania,900,Australia,
-Australia (other),city/part_of,Oceania,,Australiaother,Australia
+Australia (French produce),locality,Oceania,,,Australia
+Australia (other),locality,Oceania,,Australiaother,Australia
+Australia (other) & Christmas I.,group,Oceania,,,
 Australia & British Oceania & Tasmania,group,Oceania,,,
 Australia & Canada (Province of Canada),group,World,,Australia_CanadaProvinceofCanada,
 Australia & Cape Colony (Cape of Good Hope) & Mauritius,group,World,,Australia_CapeColonyCapeofGoodHope_Mauritius,
+Australia & East Indies,group,Oceania,,,
 Australia & Hawaii (Sandwich Is.),group,World,,Australia_Hawaii (Sandwich Is.),
+Australia & Hawaii (Sandwich Is.) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Samoa,group,Oceania,,,
+Australia & Hong Kong & India & Myanmar (Burma) & Singapore,group,World,,,
 Australia & New Caledonia & New Zealand,group,Oceania,,Australia_NewCaledonia_NewZealand,
 Australia & New Zealand,group,Oceania,,Australia_NewZealand,
+Australia & New Zealand & Pacific Islands,group,Oceania,,,
 Australia & New Zealand & Tasmania,group,Oceania,,,
-Australia & Oceania,geographical_area,Oceania,,Australia_Oceania,
-Australia & Pacific Islands,geographical_area,Oceania,,Australia_PacificIslands,
-Australia & Polynesia,geographical_area,Oceania,,Australia_Polynesia,
+Australia & Oceania,group,Oceania,,Australia_Oceania,
+Australia & Oceania (other),group,Oceania,,,
+Australia & Pacific Islands,group,Oceania,,Australia_PacificIslands,
+Australia & Polynesia,group,Oceania,,Australia_Polynesia,
 Australia & Tasmania,group,Oceania,,,
 Australia & Western Australia,group,Oceania,,Australia_WesternAustralia,
-Australian Northern Territory,city/part_of,Oceania,,,Australia
-Australian Northern Territory & South Australia,group,Oceania,,,Australia
+Australian Northern Territory,locality,Oceania,,,Australia
+Australian Northern Territory & South Australia,group,Oceania,,,
 Austria,GPH_entity,Europe,305,Austria,
-Austria & Austrian Dependencies,group,World,,,
-Austria & Cracow (Free City of Cracow),group,Europe,,Austria_CracowFreeCityofCracow,
+Austria & Czechoslovakia & Hungary,group,Europe,,,
 Austria & Germany (Zollverein),group,Europe,,Austria_GermanyZollverein,
-Austria & Italy,group,Europe,,Austria-Hungary_Italy,
-Austria & Lombardy-Venetia,group,Europe,,Austria-Hungary_Lombardy-Venetia,
-Austria Ports,city/part_of,Europe,,,Austria
-Austria Ports (Adriatic),city/part_of,Europe,,,Austria
-Austria Ports & Trieste,group,Europe,,,
-Austria-Hungary,GPH_entity,Europe,300,Austria-Hungary,
-Austrian Dependencies,city/part_of,Europe,,,Austria
+Austria-Hungary (Austrian Empire),GPH_entity,Europe,300,Austria-Hungary,
+Austria-Hungary (Austrian Empire) (Adriatic),locality,Europe,,,Austria-Hungary (Austrian Empire)
+Austria-Hungary (Austrian Empire) & Austrian Dependencies,group,World,,,
+Austria-Hungary (Austrian Empire) & Bosnia-Herzegovina,group,Europe,,,
+Austria-Hungary (Austrian Empire) & Cracow (Free City of Cracow),group,Europe,,Austria_CracowFreeCityofCracow,
+Austria-Hungary (Austrian Empire) & Germany (Zollverein),group,Europe,,,
+Austria-Hungary (Austrian Empire) & Italy,group,Europe,,Austria-Hungary_Italy,
+Austria-Hungary (Austrian Empire) & Lombardy-Venetia,group,Europe,,Austria-Hungary_Lombardy-Venetia,
+Austria-Hungary (Austrian Empire) & Saxony,group,Europe,,,
+Austria-Hungary (Austrian Empire) & Trieste,group,Europe,,,
+Austrian Dependencies,locality,Europe,,,Austria-Hungary (Austrian Empire)
+Axim,locality,Africa,,,Ghana (Gold Coast)
 Azores (Western Isles),GPH_entity,Africa,400,AzoresWesternIsles,
-Azores (Western Isles) & Africa Coast (West),geographical_area,Africa,,,
 Azores (Western Isles) & Canary Is.,group,Africa,,AzoresWesternIsles_CanaryIs,
+Azores (Western Isles) & Canary Is. & Cape Verde,group,Africa,,,
 Azores (Western Isles) & Cape Verde & Madeira Isles,group,Africa,,AzoresWesternIsles_CapeVerde_MadeiraIsles,
 Azores (Western Isles) & Madeira Isles,group,Africa,,AzoresWesternIsles_MadeiraIsles,
 Azores (Western Isles) & Madeira Isles & Portugal,group,World,,AzoresWesternIsles_MadeiraIsles_Portugal,
+Azores (Western Isles) & Madeira Isles & Tenerife,group,Africa,,,
 Azores (Western Isles) & Portugal,group,World,,,
+Azores (Western Isles) & Western Africa,group,Africa,,,
+Badagry,locality,Africa,,,Nigeria
 Baden,GPH_entity,Europe,267,Baden,
-Baghdad,city/part_of,Asia,,Baghdad,Iraq (Mesopotamia)
-Bago (Pegu),city/part_of,Asia,,BagoPegu,Myanmar (Burma)
+Bageidah,locality,Africa,,,German Togoland
+Baghdad,locality,Asia,,Baghdad,Iraq (Mesopotamia)
+Bago (Pegu),locality,Asia,,BagoPegu,Myanmar (Burma)
 Bago (Pegu) & Bengal,group,Asia,,BagoPegu_Bengal,
 Bago (Pegu) & Rangoon,group,Asia,,BagoPegu_Rangoon,
+Baguida,locality,Africa,,,German Togoland
 Bahamas,GPH_entity,America,31,Bahamas,
 Bahamas & British West Indies,group,America,,,
 Bahamas & Turks and Caicos Is.,group,America,,Bahamas_TurksandCaicosIs.,
-Bahia,city/part_of,America,,Bahia,Brazil
-Bahia & Pernambuco & Pará & Rio de Janeiro,city/part_of,America,,,Brazil
-Bahia & Pernambuco & Rio de Janeiro,city/part_of,America,,,Brazil
+Bahia,locality,America,,Bahia,Brazil
+Bahia & Pernambuco & Pará & Rio de Janeiro,group,America,,,
+Bahia & Pernambuco & Rio de Janeiro,group,America,,,
 Bahrain,GPH_entity,Asia,692,Bahrain,
-Bailul,city/part_of,Africa,,,Eritrea
-Balaklava,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Balearic Islands,city/part_of,Europe,,BalearicIslands,Spain
+Bailul,locality,Africa,,,Eritrea
+Bakana,locality,Africa,,,Nigeria
+Balaklava,locality,Europe,,RussiaUSSR,Russia (USSR)
+Balearic Islands,locality,Europe,,BalearicIslands,Spain
 Balearic Islands & Spain,group,Europe,,BalearicIslands_Spain,
-Bali,GPH_entity,Asia,8541,Bali,
+Bali,GPH_entity,Asia,8501,Bali,
 Bali & Java & Riau,group,Asia,,Bali_Java_Riau,
 Bali & Lombok,group,Asia,,Bali_Lombok,
 Bali & Lombok & Sumbawa,group,Asia,,Bali_Lombok_Sumbawa,
 Balkans,geographical_area,Europe,,Balkans,
 Baltic Ports,geographical_area,Europe,,,
-Baltic Ports & Belgium & Germany (Zollverein),geographical_area,Europe,,,
-Baltimore,city/part_of,America,,Baltimore,United States of America
-Baltiysk (Pillau),city/part_of,Europe,,,Prussia
-Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),group,Europe,,BaltiyskPillau_BraniewoBraunsberg_KaliningradKönigsberg_PrimorskFischhausen,
+Baltic Ports & Belgium & Germany (Zollverein),group,Europe,,,
+Baltimore,locality,America,,Baltimore,United States of America
+Baltiysk (Pillau),locality,Europe,,,Prussia
+Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),group,Europe,,BaltiyskPillau_BraniewoBraunsberg_KaliningradK�nigsberg_PrimorskFischhausen,
 Baluchistan (Kalat),GPH_entity,Asia,7588,,
-Banadir,city/part_of,Africa,,Banadir,Italian Somaliland
-Bangka Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Bangka Island & Belitung,group,Asia,,BangkaIsland_Belitung,
+Banadir,locality,Africa,,Banadir,Italian Somaliland
+Bangka,locality,Asia,,,Belitung (Billiton)
+Bangka & Belitung (Billiton),group,Asia,,BangkaIsland_Belitung,
+Bangkok,locality,Asia,,,Thailand (Siam)
 Barbados,GPH_entity,America,53,Barbados,
-Barbary Coast (Algiers  & Morocco & Tripolitania & Tunis) & Egypt Arab Republic (Egypt),group,Africa,,,
-Barbary Coast (Algiers & Morocco & Tripolitania & Tunis),group,Africa,,,
-Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) (other),city/part_of,Africa,,,Barbary Coast (Algiers & Morocco & Tripolitania & Tunis)
-Barbary Coast (Algiers & Morocco & Tripolitania & Tunis) & Turkey (Ottoman Empire),group,World,,,
-Barcelona,city/part_of,Europe,,Barcelona,Spain
+Barbados (other),locality,America,,,Barbados
+Barbados & Trinidad and Tobago,group,America,,,
+Barbary Coast,geographical_area,Africa,,,
+Barbary Coast (other),locality,Africa,,,Barbary Coast
+Barbary Coast & Egypt Arab Republic (Egypt),group,Africa,,,
+Barbary Coast & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),group,World,,,
+Barbary Coast & Turkey (Ottoman Empire),group,World,,,
+Barbuda,GPH_entity,America,1058,,
+Barcelona,locality,Europe,,Barcelona,Spain
+Barents I.,locality,Europe,,,Svalbard Is.
 Barotseland_North_Western Rhodesia (Northwestern Rhodesia),GPH_entity,Africa,5519,Barotseland_North_WesternRhodesiaNorthwesternRhodesia,
-Basra,city/part_of,Asia,,Basra,Iraq (Mesopotamia)
-Bassein River,city/part_of,Asia,,BasseinRiver,Myanmar (Burma)
-Bathurst,city/part_of,America,,Bathurst,New Brunswick
+Barranquilla,locality,America,,,Colombia (New Granada) (Gran Colombia)
+Basra,locality,Asia,,Basra,Iraq (Mesopotamia)
+Bassein River,locality,Asia,,BasseinRiver,Myanmar (Burma)
+Bata (Spanish Guinea),locality,Africa,,,Equatorial Guinea (Spanish Guinea)
+Bathurst,locality,Africa,,Bathurst,Gambia
 Bavaria,GPH_entity,Europe,245,Bavaria,
 Bavaria & Frankfurt & Saxony,group,Europe,,Bavaria_Frankfurt_Saxony,
 Bavaria & Saxony,group,Europe,,Bavaria_Saxony,
-Beira,city/part_of,Africa,,Beira,Mozambique
-Beirut,city/part_of,Asia,,Beirut,Lebanon
+Beira,locality,Africa,,Beira,Mozambique (Portuguese East Africa)
+Beirut,locality,Asia,,Beirut,Lebanon
 Beirut & Egypt Arab Republic (Egypt),group,World,,Beirut_EgyptArabRepublicEgypt,
 Beirut & Egypt Arab Republic (Egypt) & Syria,group,World,,Beirut_EgyptArabRepublicEgypt_Syria,
 Belgian Africa,colonial_area,Africa,,,Belgium
+Belgian Colonies,colonial_area,World,,,Belgium
+Belgian Colonies (other),locality,World,,,Belgian Colonies
 Belgium,GPH_entity,Europe,211,Belgium,
 Belgium & Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),group,World,,Belgium_DemocraticRepublicoftheCongoZaireKinshasaBelgianCongoCongoFreeState,
-Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Other countries & Sweden,geographical_area,World,,Belgium_GermanyZollverein_IranPersia_Morocco_Othercountries_Sweden,
+Belgium & Germany (Zollverein) & Iran (Persia) & Morocco & Sweden & World (other),group,World,,Belgium_GermanyZollverein_IranPersia_Morocco_Othercountries_Sweden,
 Belgium & Germany (Zollverein) & Italy & Netherlands & Russia (USSR),group,Europe,,Belgium_GermanyZollverein_Italy_Netherlands_RussiaUSSR,
-Belgium & Germany (Zollverein) & Morocco & Other countries & Spain,geographical_area,World,,Belgium_GermanyZollverein_Morocco_Othercountries_Spain,
+Belgium & Germany (Zollverein) & Morocco & Spain & World (other),group,World,,Belgium_GermanyZollverein_Morocco_Othercountries_Spain,
 Belgium & Germany (Zollverein) & Netherlands,group,Europe,,Belgium_GermanyZollverein_Netherlands,
 Belgium & Luxemburg,group,Europe,,Belgium_Luxemburg,
 Belgium & Netherlands,group,Europe,,Belgium_Netherlands,
-Belitung,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Belitung (Billiton),GPH_entity,Asia,8530,,
 Belize (British Honduras),GPH_entity,America,80,BelizeBritishHonduras,
 Belize (British Honduras) & British West Indies,group,America,,,
-Belize (British Honduras) & British West Indies & Guyana (British Guiana),group,America,,,
-Bengal,city/part_of,Asia,,Bengal,India
-Bengal & India & Persian Gulf,geographical_area,Asia,,Bengal_India_PersianGulf,
+Campeche & Honduras,group,America,,,
+Campeche & Honduras & Mosquito Coast,group,America,,,
+Belize (British Honduras) & Costa Rica & El Salvador,group,America,,,
+Bengal,locality,Asia,,Bengal,India
+Bengal & Chennai (Madras) & Mumbai (Bombay) & Myanmar (Burma),group,Asia,,,
+Bengal & India & Persian Gulf,group,Asia,,Bengal_India_PersianGulf,
 Bengal & Myanmar (Burma),group,Asia,,Bengal_MyanmarBurma,
 Bengal & Sri Lanka (Ceylon),group,Asia,,Bengal_SriLankaCeylon,
-Benghazi,city/part_of,Africa,,Benghazi,Cyrenaica
-Benghazi & Tripolitania,group,Africa,,,
+Benghazi,locality,Africa,,Benghazi,Cyrenaica
+Benghazi & Tripolitania (Regency of Tripoli),group,Africa,,,
+Benguela,locality,Africa,,,Angola
 Benin (Dahomey),GPH_entity,Africa,434,BeninDahomey,
-Berbera,city/part_of,Africa,,,Somalia
+Benin (Dahomey) & German Togoland & Ivory Coast,group,Africa,,,
+Berbera,locality,Africa,,,Somalia
 Berbera & Bulhar,group,Africa,,Berbera_Bulhar,
+Berbera & Bulhar & Zeila,group,Africa,,,
+Berbera & Zeila,group,Africa,,,
 Berbice,GPH_entity,America,1114,Berbice,
 Berbice & Demerara,group,America,,,
 Bermuda,GPH_entity,America,30,Bermuda,
+Bermuda (other),locality,America,,,Bermuda
 Bermuda & British West Indies,group,America,,,
+Berwick,locality,Europe,,,United Kingdom
+Berwick & Isle of Man & United Kingdom,group,Europe,,,
+Bey-Beach,locality,Africa,,,German Togoland
+Beypore,locality,Asia,,,India
 Bhutan,GPH_entity,Asia,760,,
 Bhutan & Nepal,group,Asia,,,
-Bihar,city/part_of,Asia,,,India
-Bilbao,city/part_of,Europe,,Bilbao,Spain
-Billiton Is.,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Bintan Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
+Bihar,locality,Asia,,,India
+Bilbao,locality,Europe,,Bilbao,Spain
+Bimlipatam,locality,Asia,,,India
+Bintan,locality,Asia,,,Riau
 Bismarck Archipelago (New Britain) (Neupommern),GPH_entity,Oceania,9830,,
-Black Sea,geographical_area,Europe,,,
-Black Sea & Levant,geographical_area,World,,,
-Black Sea & Russia (USSR),geographical_area,Europe,,BlackSea_RussiaUSSR,
-Black Sea European Ports & Mediterranean European Ports,geographical_area,Europe,,,
-Black Sea Ports & Mediterranean Ports,geographical_area,World,,,
+Bissau,locality,Africa,,,Guinea-Bissau (Portuguese Guinea)
+Black Sea,geographical_area,World,,,
+Black Sea (Asia),locality,Asia,,,Black Sea
+Black Sea (Asia) & Mediterranean Sea (Africa) & Mediterranean Sea (Asia),group,World,,,
+Black Sea (Europe),locality,Europe,,,Black Sea
+Black Sea (Europe) & Mediterranean Sea (Europe),group,Europe,,,
+Black Sea & Levant,group,World,,,
+Black Sea & Mediterranean Sea,group,World,,,
+Black Sea & Russia (USSR),group,Europe,,BlackSea_RussiaUSSR,
+Black Sea Free Ports,locality,,,,Turkey (Ottoman Empire)
+Bogotá,locality,America,,,Colombia (New Granada) (Gran Colombia)
+Bohemia,GPH_entity,Europe,3150,,
 Bokhara,GPH_entity,Asia,7020,Bokhara,
 Bolivia,GPH_entity,America,145,Bolivia,
 Bolivia-Peru Confederation,GPH_entity,America,136,,
+Boma,locality,Africa,,,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 Bonaire,GPH_entity,America,1066,,
-Bordeaux,city/part_of,Europe,,Bordeaux,France
+Bonny River,locality,Africa,,,Nigeria
+Bordeaux,locality,Europe,,Bordeaux,France
 Borneo,geographical_area,Asia,,,
-Borneo & Malaysia (British Malaya),geographical_area,Asia,,,
-Bosaso,city/part_of,Africa,,Bosaso,Italian Somaliland
+Borneo & Malaysia (British Malaya),group,Asia,,,
+Bosaso,locality,Africa,,Bosaso,Italian Somaliland
 Bosnia,GPH_entity,Europe,3461,Bosnia,
 Bosnia-Herzegovina,GPH_entity,Europe,346,Bosnia-Herzegovina,
-Boston,city/part_of,America,,Boston,United States of America
+Boston,locality,America,,Boston,United States of America
 Botswana (Bechuanaland),GPH_entity,Africa,571,BotswanaBechuanaland,
 Botswana (Bechuanaland) & Eswatini (Swaziland) & Lesotho (Basutoland),group,Africa,,BotswanaBechuanaland_EswatiniSwaziland_LesothoBasutoland,
 Botswana (Bechuanaland) & South Africa,group,Africa,,BotswanaBechuanaland_SouthAfrica,
-Braniewo (Braunsberg),city/part_of,Europe,,,Prussia
+Bougainville (Republic of the North Solomons),GPH_entity,Oceania,9101,,
+Braniewo (Braunsberg),locality,Europe,,,Prussia
+Brass (Nigeria),locality,Africa,,,Nigeria
+Brava,locality,Africa,,,Cape Verde
 Brazil,GPH_entity,America,140,Brazil,
 Brazil & Chile,group,America,,Brazil_Chile,
 Brazil & Colombia (New Granada) (Gran Colombia),group,America,,Brazil_ColombiaNewGranadaGranColombia,
-Brazil & Northern America & West Indies,geographical_area,America,,,
-Brazil & R�o de la Plata United Provinces,group,America,,,
-Brazil Ports,city/part_of,America,,,Brazil
+Brazil & Northern America & West Indies,group,America,,,
+Brazil & Portuguese America (other),group,America,,,
 Bremen,GPH_entity,Europe,246,Bremen,
+Bremen (Weser),locality,Europe,,,Bremen
 Bremen & Hamburg,group,Europe,,Bremen_Hamburg,
+Bremen & Hamburg & Mecklenburg Schwerin,group,Europe,,,
+Bremen & Hamburg & Prussia,group,Europe,,,
 Bremen & Hanover,group,Europe,,Bremen_Hanover,
 Bremen & Lübeck,group,Europe,,Bremen_Lubeck,
 Bremen & Prussia,group,Europe,,Bremen_Prussia,
+Bremerhaven,locality,Europe,,,Bremen
+Bremerhaven & Geestemünde,group,Europe,,,
+Bridgwater,locality,Europe,,,United Kingdom
 British Africa,colonial_area,Africa,,BritishAfrica,United Kingdom
-British Africa (other),colonial_area,America,,BritishAfricaother,United Kingdom
-British Africa & Gibraltar,group,World,,BritishAfrica_Gibraltar,
+British Africa (other),locality,America,,BritishAfricaother,British Africa
+British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
 British America,colonial_area,America,,BritishAmerica,United Kingdom
 British America (Atlantic),colonial_area,America,,BritishAmericaAtlantic,United Kingdom
-British America (other),colonial_area,America,,BritishAmericaother,United Kingdom
+British America (French produce),locality,America,,,British America
+British America (other),locality,America,,BritishAmericaother,British America
+British America (other) & Canada (Province of Canada),group,America,,,
 British America (Pacific),colonial_area,America,,BritishAmericaPacific,United Kingdom
+British America & Newfoundland and Labrador (Newfoundland),group,America,,,
+British America & United States of America,group,America,,,
+British Arabia,colonial_area,Asia,,,United Kingdom
 British Asia,colonial_area,Asia,,BritishAsia,United Kingdom
-British Asia (other),colonial_area,Asia,,BritishAsiaother,United Kingdom
+British Asia (other),locality,Asia,,BritishAsiaother,British Asia
 British Asia (other) & India,group,Asia,,BritishAsiaother_India,
 British Asia & British Oceania,group,World,,BritishAsia_BritishOceania,
-British Borneo,city/part_of,Asia,,,Malaysia (British Malaya)
+British Borneo,colonial_area,Asia,,,United Kingdom
 British Borneo & Dutch Borneo,group,Asia,,,
+British Borneo & Malaysia (British Malaya),group,Asia,,,
+British Borneo & Straits Settlements,group,Asia,,,
 British Cameroons,GPH_entity,Africa,472,BritishCameroons,
+British Cameroons & Cameroun (French Cameroon),group,Africa,,,
 British Cameroons & Nigeria,group,Africa,,,
 British Cameroons & Northern Nigeria (British Nigeria),group,Africa,,BritishCameroons_NorthernNigeriaBritishNigeria,
 British Central Africa,colonial_area,Africa,,,United Kingdom
 British Central America,colonial_area,America,,,United Kingdom
 British China,colonial_area,Asia,,BritishChina,United Kingdom
-British China Leased Territory,colonial_area,Asia,,,United Kingdom
 British Colonies,colonial_area,World,,BritishColonies,United Kingdom
-British Colonies (other),colonial_area,World,,BritishColoniesother,United Kingdom
+British Colonies (Foreign produce),locality,World,,,British Colonies
+British Colonies (French produce),locality,World,,,British Colonies
+British Colonies (other),locality,World,,BritishColoniesother,British Colonies
 British Colonies & United Kingdom,group,World,,BritishColonies_UnitedKingdom,
 British Columbia,GPH_entity,America,1027,BritishColumbia,
-British Columbia & British East North America,group,America,,BritishColumbia_BritishEastNorthAmerica,
+British Columbia & British North Eastern America,group,America,,BritishColumbia_BritishEastNorthAmerica,
 British Columbia & Rupert's Land,group,America,,BritishColumbia_Rupert'sLand,
 British Columbia & Vancouver,group,America,,BritishColumbia_Vancouver,
-British East Africa,colonial_area,Africa,,BritishEastAfrica,United Kingdom
-British East Africa (Other),colonial_area,Africa,,BritishEastAfricaOther,United Kingdom
-British East Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),group,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_EgyptArabRepublicEgypt_MadagascarMalagasyRepublic,
-British East Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),group,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_MadagascarMalagasyRepublic,
-British East Africa & Pemba Island & Zanzibar,group,Africa,,,
-British East Asia,colonial_area,Asia,,,
-British East Asia (other),colonial_area,Asia,,,
 British East Indies,colonial_area,Asia,,BritishEastIndies,United Kingdom
-British East Indies (other),colonial_area,Asia,,BritishEastIndiesother,United Kingdom
+British East Indies (other),locality,Asia,,BritishEastIndiesother,British East Indies
+British East Indies & Canary Is. & Cape Colony (Cape of Good Hope),group,World,,,
+British East Indies & Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),group,World,,,
 British East Indies & Thailand (Siam),group,Asia,,,
-British East North America,colonial_area,America,,,United Kingdom
-British Equatorial East Africa,colonial_area,Africa,,,United Kingdom
-British Equatorial West Africa,colonial_area,Africa,,,United Kingdom
+British Eastern Africa,colonial_area,Africa,,BritishEastAfrica,United Kingdom
+British Eastern Africa (other),locality,Africa,,BritishEastAfricaOther,British Eastern Africa
+British Eastern Africa & Cape Colony (Cape of Good Hope) & Egypt Arab Republic (Egypt) & Madagascar (Malagasy Republic),group,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_EgyptArabRepublicEgypt_MadagascarMalagasyRepublic,
+British Eastern Africa & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),group,Africa,,BritishEastAfrica_CapeColonyCapeofGoodHope_MadagascarMalagasyRepublic,
+British Eastern Africa & Pemba Island & Zanzibar,group,Africa,,,
+British Eastern Asia,colonial_area,Asia,,,United Kingdom
+British Eastern Asia (other),locality,Asia,,,British Eastern Asia
+British Equatorial Eastern Africa,colonial_area,Africa,,,United Kingdom
+British Equatorial Western Africa,colonial_area,Africa,,,United Kingdom
 British Europe,colonial_area,Europe,,BritishEurope,United Kingdom
-British Europe (other),colonial_area,Europe,,,United Kingdom
+British Europe (other),locality,Europe,,,British Europe
 British Europe & United Kingdom,group,Europe,,BritishEurope_UnitedKingdom,
+British Guinea (Bolama),GPH_entity,Africa,4044,,
+British Indian Ocean Islands,colonial_area,Oceania,,,United Kingdom
+British Indochina,colonial_area,Asia,,,United Kingdom
 British Kaffraria,GPH_entity,Africa,5614,BritishKaffraria,
-British Mediterranean,colonial_area,Mediterranean,,BritishMediterranean,United Kingdom
-British Mediterranean & United Kingdom,group,Europe,,BritishMediterranean_UnitedKingdom,
-British North America,colonial_area,America,,BritishNorthAmerica,United Kingdom
-British North America (other),colonial_area,America,,BritishNorthAmericaother,United Kingdom
-British North America (other) & Canada (Province of Canada),group,America,,,United Kingdom
-British North America & United States of America,group,America,,BritishNorthAmerica_UnitedStatesofAmerica,
-British North and Central America,colonial_area,America,,,United Kingdom
+British Mediterranean Sea,colonial_area,World,,BritishMediterranean,United Kingdom
+British Mediterranean Sea & United Kingdom,group,Europe,,BritishMediterranean_UnitedKingdom,
+British North Central America,colonial_area,America,,,United Kingdom
+British North Eastern America,colonial_area,America,,,United Kingdom
+British Northern Africa,colonial_area,Africa,,,United Kingdom
+British Northern America,colonial_area,America,,BritishNorthAmerica,United Kingdom
+British Northern America (other),locality,America,,BritishNorthAmericaother,British Northern America
+British Northern America (other) & Canada (Province of Canada),group,America,,,
+British Northern America & United States of America,group,America,,BritishNorthAmerica_UnitedStatesofAmerica,
 British Oceania,colonial_area,Oceania,,BritishOceania,United Kingdom
-British Oceania (other),colonial_area,Oceania,,BritishOceaniaother,United Kingdom
+British Oceania (other),locality,Oceania,,BritishOceaniaother,British Oceania
 British Oceania & New Zealand,group,Oceania,,,
-British Ports,city/part_of,Europe,,,United Kingdom
-British Settlement in Oceania,colonial_area,Oceania,,,United Kingdom
-British South Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
-British South Africa & Cape Colony (Cape of Good Hope),group,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,
-British South America,colonial_area,America,,BritishSouthAmerica,United Kingdom
-British South America (other),colonial_area,America,,BritishSouthAmericaother,United Kingdom
-British South America & British West Indies & Guyana (British Guiana),group,America,,,United Kingdom
-British South America & French South America,group,America,,,
-British South Atlantic,colonial_area,Atlantic,,,United Kingdom
-British South West Africa,colonial_area,Africa,,,United Kingdom
+British South Atlantic,colonial_area,Africa,,,United Kingdom
+British South Western Africa,colonial_area,Africa,,,United Kingdom
+British Southern Africa,colonial_area,Africa,,BritishSouthAfrica,United Kingdom
+British Southern America,colonial_area,America,,BritishSouthAmerica,United Kingdom
+British Southern America (other),locality,America,,BritishSouthAmericaother,British Southern America
+British Southern America & British West Indies & Guyana (British Guiana),group,America,,,
+British Southern America & French Southern America,group,America,,,
 British Togoland,GPH_entity,Africa,462,,
+British Togoland & Togo (French Togoland),group,Africa,,,
 British Virgin Is.,GPH_entity,America,1061,,
-British Virgin Is. & Puerto Rico & Virgin Islands (Danish West Indies),group,America,,BritishVirginIs_PuertoRico_VirginIslandsDanishWestIndies,
-British West Africa,colonial_area,Africa,,BritishWestAfrica,United Kingdom
-British West Africa (other),colonial_area,Africa,,,United Kingdom
 British West Indies,colonial_area,America,,,United Kingdom
-British West Indies (other),colonial_area,America,,,United Kingdom
+British West Indies (other),locality,America,,,British West Indies
 British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,group,America,,,
-British West Indies & Guyana (British Guiana),colonial_area,America,,,United Kingdom
+British West Indies & Guyana (British Guiana),group,America,,,
+British West Indies & Swedish West Indies,group,America,,,
 British West Indies & United Kingdom,group,World,,,
-British World,colonial_area,World,,BritishWorld,
-Brooketon,city/part_of,Asia,,Brooketon,Brunei
+British Western Africa,colonial_area,Africa,,BritishWestAfrica,United Kingdom
+British Western Africa (other),locality,Africa,,,British Western Africa
+British Western Africa & Canada (Province of Canada),group,World,,,
+British Western Africa & French Western Africa (other) & Liberia & Spanish Africa,group,Africa,,,
+British Western Africa & South Africa,group,Africa,,,
+British Western Asia,colonial_area,Asia,,,United Kingdom
+British World,colonial_area,World,,BritishWorld,United Kingdom
+Brooketon,locality,Asia,,Brooketon,Brunei
+Browse I.,locality,Oceania,,,Western Australia
 Brunei,GPH_entity,Asia,835,Brunei,
 Brunei & Sabah (North Borneo) & Sarawak,group,Asia,,Brunei_SabahNorthBorneo_Sarawak,
 Brunei & Sarawak,group,Asia,,Brunei_Sarawak,
 Brunswick,GPH_entity,Europe,244,Brunswick,
-Bruxelles,city/part_of,Europe,,,Belgium
-Buceo,city/part_of,America,,Buceo,Uruguay
+Bruxelles,locality,Europe,,,Belgium
+Buceo,locality,America,,Buceo,Uruguay
 Buenos Aires,GPH_entity,America,1161,BuenosAires,
 Buenos Aires & Montevideo,group,America,,BuenosAires_Montevideo,
 Bulgaria,GPH_entity,Europe,355,Bulgaria,
 Bulgaria & Crete,group,Europe,,Bulgaria_Crete_EuropeanTurkey,
+Bulgaria & Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),group,World,,,
+Bulgaria & European Turkey,group,Europe,,,
 Bulgaria & Kingdom of Serbia,group,Europe,,Bulgaria_KingdomofSerbia,
 Bulgaria & Kingdom of Serbia & Montenegro,group,Europe,,Bulgaria_EuropeanTurkey_KingdomofSerbia_Montenegro,
 Bulgaria & Kingdom of Serbia & Montenegro & Romania,group,Europe,,Bulgaria_EuropeanTurkey_KingdomofSerbia_Montenegro_Romania,
 Bulgaria & Kingdom of Serbia & Romania,group,Europe,,Bulgaria_KingdomofSerbia_Romania,
 Bulgaria & Turkey (Ottoman Empire),group,World,,,
-Bulhar,city/part_of,Africa,,,Somalia
+Bulhar,locality,Africa,,,Somalia
 Burkina Faso (Upper Volta),GPH_entity,Africa,439,,
-Busia,city/part_of,Africa,,Busia,Kenya (British East Africa Protectorate)
-Cadix,city/part_of,Europe,,Cadix,Spain
+Burutu,locality,Africa,,,Nigeria
+Bushehr,locality,Asia,,,Iran (Persia)
+Cabinda (Portuguese Congo),GPH_entity,Africa,5403,,
+Cadix,locality,Europe,,Cadix,Spain
 California (Great Bear Republic),GPH_entity,America,1014,CaliforniaGreatBearRepublic,
-Callao,city/part_of,America,,Callao,Peru
+Callao,locality,America,,Callao,Peru
 Cambodia (Kampuchea),GPH_entity,Asia,811,CambodiaKampuchea,
 Cambodia (Kampuchea) & Cochin China,group,Asia,,CambodiaKampuchea_CochinChina,
 Cambodia (Kampuchea) & Cochin China & Tonkin,group,Asia,,CambodiaKampuchea_CochinChina_Tonkin,
-Cameroun (French Cameroons),GPH_entity,Africa,471,CamerounFrenchCameroons,
-Cameroun (French Cameroons) & French West Africa & Togo (French Togoland),group,Africa,,CamerounFrenchCameroons_FrenchWestAfrica_TogoFrenchTogoland,
-Canada (Atlantic Coast),city/part_of,America,,,Canada (Province of Canada)
-Canada (Pacific Coast),city/part_of,America,,,Canada (Province of Canada)
+Cameroun (French Cameroon),GPH_entity,Africa,471,CamerounFrenchCameroons,
+Cameroun (French Cameroon) & French West Africa & Togo (French Togoland),group,Africa,,CamerounFrenchCameroons_FrenchWestAfrica_TogoFrenchTogoland,
+Cameroun (French Cameroon) & Togo (French Togoland),group,Africa,,,
+Campeche,locality,America,,,Mexico
+Canada (Atlantic Coast),locality,America,,,Canada (Province of Canada)
+Canada (Pacific Coast),locality,America,,,Canada (Province of Canada)
 Canada (Province of Canada),GPH_entity,America,20,CanadaProvinceofCanada,
-Canada (Province of Canada) & Central America & Southern America & United States of America,geographical_area,America,,,
-Canada (Province of Canada) & Central America & United States of America,geographical_area,America,,Canada_CentralAmerica_UnitedStatesofAmerica,
+Canada (Province of Canada) (other),locality,America,,,Canada (Province of Canada)
+Canada (Province of Canada) & Central America & Southern America & United States of America,group,America,,,
+Canada (Province of Canada) & Central America & United States of America,group,America,,Canada_CentralAmerica_UnitedStatesofAmerica,
 Canada (Province of Canada) & Newfoundland and Labrador (Newfoundland),group,America,,CanadaProvinceofCanada_NewfoundlandandLabradorNewfoundland,
-Canada (Province of Canada) & Southern America,geographical_area,America,,Canada_Othercountries_SouthernAmerica,
-Canada (Province of Canada) & Southern America & United States of America,geographical_area,America,,Canada_SouthernAmerica_UnitedStatesofAmerica,
+Canada (Province of Canada) & Southern America,group,America,,Canada_Othercountries_SouthernAmerica,
+Canada (Province of Canada) & Southern America & United States of America,group,America,,Canada_SouthernAmerica_UnitedStatesofAmerica,
 Canada (Province of Canada) & United States of America,group,America,,CanadaProvinceofCanada_UnitedStatesofAmerica,
 Canary Is.,GPH_entity,Africa,410,CanaryIs,
+Canary Is. (other),locality,Africa,,,Canary Is.
 Canary Is. & Cape Colony (Cape of Good Hope),group,Africa,,CanaryIs_CapeColonyCapeofGoodHope,
 Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),group,Africa,,CanaryIs_CapeColonyCapeofGoodHope_MadagascarMalagasyRepublic,
+Canary Is. & Cape Colony (Cape of Good Hope) & Madeira Isles,group,Africa,,,
 Canary Is. & Madeira Isles,group,Africa,,CanaryIs_MadeiraIsles,
 Canary Is. & Spain,group,World,,CanaryIs_Spain,
 Canary Is. & Spanish Morocco,group,Africa,,CanaryIs_SpanishMorocco,
 Canary Is. & Tenerife,group,Africa,,CanaryIs_Tenerife,
-Cap-Haïtien,city/part_of,America,,Cap-Haïtien,Haiti
-Cap-Rouge,city/part_of,America,,Cap-Rouge,Quebec (Lower Canada)
+Canary Is. & Western Africa,group,Africa,,,
+Cap-Haïtien,locality,America,,Cap-Ha�tien,Haiti
+Cap-Rouge,locality,America,,Cap-Rouge,Quebec (Lower Canada)
 Cape Breton I.,GPH_entity,America,1021,,
 Cape Breton I. & Nova Scotia,group,America,,CapeBretonI._NovaScotia,
+Cape Coast Castle,locality,Africa,,,Ghana (Gold Coast)
 Cape Colony (Cape of Good Hope),GPH_entity,Africa,561,CapeColonyCapeofGoodHope,
 Cape Colony (Cape of Good Hope) & East Indies & Mauritius,group,World,,CapeColonyCapeofGoodHope_EastIndies_Mauritius,
+Cape Colony (Cape of Good Hope) & Eastern Africa,group,Africa,,,
 Cape Colony (Cape of Good Hope) & Gambia & Guinea (French Guinea) (Rivieres du Sud) & Mauritius & Senegal,group,Africa,,CapeColonyCapeofGoodHope_Gambia_GuineaFrenchGuineaRivieresduSud_Mauritius_Senegal,
+Cape Colony (Cape of Good Hope) & Guinea (French Guinea) (Rivieres du Sud),group,Africa,,,
 Cape Colony (Cape of Good Hope) & India,group,World,,CapeColonyCapeofGoodHope_India,
 Cape Colony (Cape of Good Hope) & Mauritius,group,Africa,,CapeColonyCapeofGoodHope_Mauritius,
 Cape Colony (Cape of Good Hope) & Mauritius & New South Wales,group,World,,CapeColonyCapeofGoodHope_Mauritius_NewSouthWales,
 Cape Colony (Cape of Good Hope) & Natal,group,Africa,,CapeColonyCapeofGoodHope_Natal,
-Cape Town,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
+Cape Colony (Cape of Good Hope) & South Africa (other),group,Africa,,BritishSouthAfrica_CapeColonyCapeofGoodHope,
+Cape Colony (Cape of Good Hope) & Western Africa,group,Africa,,,
+Cape Lopez,locality,Africa,,,Gabon
+Cape Palmas,locality,Africa,,,Liberia
+Cape Town,locality,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
 Cape Verde,GPH_entity,Africa,402,CapeVerde,
-"Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India (incl. Goa, Diu, Daman) & Sao Tome-Principe",group,World,,CapeVerde_EastTimorPortugueseTimor_Macao_PortugueseIndiainclGoaDiuDaman_SaoTomePrincipe,
+Cape Verde (other),locality,Africa,,,Cape Verde
+Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe,group,World,,CapeVerde_EastTimorPortugueseTimor_Macao_PortugueseIndiainclGoaDiuDaman_SaoTomePrincipe,
+Cape Verde & Goree & Senegal & Windward Coast of Africa,group,Africa,,,
 Caroline Is.,GPH_entity,Oceania,9810,CarolineIs.,
-Cartagena (Colombia),city/part_of,America,,ColombiaNewGranadaGranColombia,Colombia (New Granada) (Gran Colombia)
-Cartagena (Spain),city/part_of,Europe,,CartagenaSpain,Spain
-Casablanca,city/part_of,Africa,,Casablanca,Morocco
+Carriacou,locality,America,,,Grenada
+Cartagena (Colombia),locality,America,,ColombiaNewGranadaGranColombia,Colombia (New Granada) (Gran Colombia)
+Cartagena (Spain),locality,Europe,,CartagenaSpain,Spain
+Carúpano,locality,America,,,Venezuela
+Casablanca,locality,Africa,,Casablanca,Morocco
 Casablanca & El Jadida (Mazaghan),group,Africa,,Casablanca_ElJadidaMazaghan,
+Casamance,locality,Africa,,,Senegal
+Catalonia,locality,Europe,,,Spain
 Caucasus,geographical_area,World,,,
-Caucasus (other),geographical_area,Europe,,,
+Caucasus (other),locality,Europe,,,Caucasus
+Cayenne,locality,America,,,French Guiana
 Cayman Is.,GPH_entity,America,1033,CaymanIs,
 Central Africa,geographical_area,Africa,,,
+Central African Republic (Ubangi Shari),GPH_entity,Africa,482,,
+Central African Republic (Ubangi Shari) & Chad,group,Africa,,,
+Central African Republic (Ubangi Shari) & Congo (Brazzaville) (French Congo) (Middle Congo),group,Africa,,,
 Central America,geographical_area,America,,CentralAmerica,
-Central America (Continental) (other),geographical_area,America,,,
-Central America (Insular) (other),geographical_area,America,,,
-Central America (other),geographical_area,America,,,
-Central America & Guatemala,geographical_area,America,,,
-Central America & Mexico,geographical_area,America,,CentralAmerica_Mexico,
-Central America & Mexico & Panama,geographical_area,America,,,
-Central America & Mexico & West Indies,geographical_area,America,,,
-Central America & Southern America,geographical_area,America,,CentralAmerica_SouthernAmerica,
-Central America & Southern America & West Indies (other),geographical_area,America,,,
-Central America & Spanish America,geographical_area,America,,CentralAmerica_SpanishAmerica,
-Central America & West Indies,geographical_area,America,,,
+Central America (Continental) (other),locality,America,,,Central America
+Central America (Insular) (other),locality,America,,,Central America
+Central America (other),locality,America,,,Central America
+Central America (West),geographical_area,America,,,
+Central America & Guatemala,group,America,,,
+Central America & Mexico,group,America,,CentralAmerica_Mexico,
+Central America & Mexico (other),group,America,,,
+Central America & Mexico & Panama,group,America,,,
+Central America & Mexico & West Indies,group,America,,,
+Central America & Southern America,group,America,,CentralAmerica_SouthernAmerica,
+Central America & Southern America & West Indies (other),group,America,,,
+Central America & Spanish America,group,America,,CentralAmerica_SpanishAmerica,
+Central America & West Indies,group,America,,,
 Central Asia,geographical_area,Asia,,,
-Central Powers Occupied Territories,colonial_area,World,,,
-Cephalonia,city/part_of,Europe,,Cephalonia,Greece
+Central Powers Occupied Territories,geographical_area,World,,,
+Cephalonia,locality,Europe,,Cephalonia,Greece
 Ceuta,GPH_entity,Africa,6062,Ceuta,
 Ceuta & Melilla,group,Europe,,,
+Chad,GPH_entity,Africa,483,,
 Chafarinas,GPH_entity,Africa,6063,Chafarinas,
-Chania,city/part_of,Europe,,Chania,Egypt Arab Republic (Egypt)
-Channel Is.,GPH_entity,Europe,2003,ChannelIs.,United Kingdom
+Chania,locality,Europe,,Chania,Egypt Arab Republic (Egypt)
+Channel Is.,GPH_entity,Europe,2003,ChannelIs.,
 Channel Is. & Isle of Man,group,Europe,,ChannelIs._IsleofMan,
 Channel Is. & United Kingdom,group,Europe,,ChannelIs_UnitedKingdom,
-Chennai (Madras),city/part_of,Asia,,ChennaiMadras,India
-Chennai (Madras) & Indian Coast,group,Asia,,ChennaiMadras_IndianCoast,
+Chennai (Madras),locality,Asia,,ChennaiMadras,India
+Chennai (Madras) & Coromandel Coast Posts,group,Asia,,,
+Chennai (Madras) & India (Coast),group,Asia,,ChennaiMadras_IndianCoast,
 Chennai (Madras) & Kolkata (Calcutta),group,Asia,,ChennaiMadras_KolkataCalcutta,
+Chicago,locality,America,,,United States of America
 Chile,GPH_entity,America,155,Chile,
-Chile & Cuba & Other countries & Peru,geographical_area,World,,Chile_Cuba_Othercountries_Peru,
+Chile (other),locality,America,,,Chile
+Chile & Cuba & Peru & World (other),group,World,,Chile_Cuba_Othercountries_Peru,
 Chile & India,group,America,,Chile_India,
 Chile & Patagonia (Pacific Coast),group,America,,,
 Chile & Peru,group,America,,Chile_Peru,
-Chinese Ports (other),city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
-Chinese Treaty Ports,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Chile & Southern America (other) & Uruguay,group,America,,,
+Chiloane,locality,Africa,,,Mozambique (Portuguese East Africa)
+Chinese Treaty Ports,locality,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
 Chinese Treaty Ports & Hong Kong,group,Asia,,,
-Chios,city/part_of,Europe,,,Greece
-Chittagong,city/part_of,Asia,,Chittagong,India
-Christmas I.,GPH_entity,Asia,9001,ChristmasI.,
-Cilicia,city/part_of,Asia,,,Turkey (Ottoman Empire)
-Civitavecchia,city/part_of,Europe,,Civitavecchia,Papal States
-Clarke Is.,city/part_of,Oceania,,,New South Wales
+Chios,locality,Europe,,,Greece
+Chittagong,locality,Asia,,Chittagong,India
+Christmas I.,GPH_entity,Oceania,9001,ChristmasI.,
+Christmas I. & Cocos (Keeling) Is.,group,Oceania,,,
+Cilicia,locality,Asia,,,Turkey (Ottoman Empire)
+Civitavecchia,locality,Europe,,Civitavecchia,Papal States
+Clarke Is.,locality,Oceania,,,New South Wales
 Clipperton I.,GPH_entity,America,9610,ClippertonI.,
 Cochin China,GPH_entity,Asia,8151,CochinChina,
+Cochin China & French India,group,Asia,,,
 Cochin China & Java & Philippines & Thailand (Siam),group,Asia,,CochinChina_IndonesiaDutchEastIndies_Philippines_ThailandSiam,
 Cochin China & Macao & People's Republic of China (China),group,Asia,,CochinChina_Macao_PeoplesRepublicofChinaChina,
-Cochin China & Oceania & People's Republic of China (China),geographical_area,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina,
-Cochin China & Oceania & People's Republic of China (China) & Philippines,geographical_area,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina_Philippines,
+Cochin China & Oceania & People's Republic of China (China),group,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina,
+Cochin China & Oceania & People's Republic of China (China) & Philippines,group,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina_Philippines,
 Cochin China & People's Republic of China (China),group,Asia,,CochinChina_PeoplesRepublicofChinaChina,
 Cochin China & Thailand (Siam),group,Asia,,CochinChina_ThailandSiam,
 Cochin China & Tonkin,group,Asia,,,
 Cocos (Keeling) Is.,GPH_entity,Oceania,9002,,
-Colón,city/part_of,America,,Colón,Panama
-Collo,city/part_of,Africa,,,Algeria (Algiers)
+Collingapatam,locality,Asia,,,India
+Collo,locality,Africa,,,Algeria (Regency of Algiers)
 Colombia (New Granada) (Gran Colombia),GPH_entity,America,100,ColombiaNewGranadaGranColombia,
+Colombia (New Granada) (Gran Colombia) (other),locality,America,,,Colombia (New Granada) (Gran Colombia)
 Colombia (New Granada) (Gran Colombia) & Ecuador & Venezuela,group,America,,ColombiaNewGranadaGranColombia_Ecuador_Venezuela,
+Colombia (New Granada) (Gran Colombia) & Galapagos Is.,group,America,,,
 Colombia (New Granada) (Gran Colombia) & Guatemala,group,America,,ColombiaNewGranadaGranColombia_Guatemala,
 Colombia (New Granada) (Gran Colombia) & Guatemala & Venezuela,group,America,,ColombiaNewGranadaGranColombia_Guatemala_Venezuela,
 Colombia (New Granada) (Gran Colombia) & Panama,group,America,,ColombiaNewGranadaGranColombia_Panama,
 Colombia (New Granada) (Gran Colombia) & Venezuela,group,America,,ColombiaNewGranadaGranColombia_Venezuela,
+Colón,locality,America,,Col�n,Panama
+Colón & Panama,group,America,,,
+Comoros,GPH_entity,Africa,581,,
+Comoros & Madagascar (Malagasy Republic),group,Africa,,,
+Conakry,locality,Africa,,,Guinea (French Guinea) (Rivieres du Sud)
 Congo (Brazzaville) (French Congo) (Middle Congo),GPH_entity,Africa,484,CongoBrazzavilleFrenchCongoMiddleCongo,
 Congo (Brazzaville) (French Congo) (Middle Congo) & French Africa (other) & Senegal,group,Africa,,,
-Congo (Brazzaville) (French Congo) (Middle Congo) & French West Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
+Congo (Brazzaville) (French Congo) (Middle Congo) & French Western Africa (other) & Senegal,group,Africa,,CongoBrazzavilleFrenchCongoMiddleCongo_FrenchWestAfricaother_Senegal,
 Congo (Brazzaville) (French Congo) (Middle Congo) & Senegal,group,Africa,,,
+Congress Poland,GPH_entity,Europe,2901,,
+Congress Poland & Cracow (Free City of Cracow),group,Europe,,,
+Congress Poland & Galicia (Kingdom of Galicia and Lodomeria) & Russian provinces,group,Europe,,,
+Congress Poland & Russia (USSR),group,Europe,,,
 Continental Europe,geographical_area,Europe,,ContinentalEurope,
 Cook Is.,GPH_entity,Oceania,925,,
+Copenhagen,locality,Europe,,,Denmark
 Corfu,GPH_entity,Europe,3351,,
 Corfu & Malta,group,Europe,,Corfu_Malta,
-Cork,city/part_of,Europe,,Cork,Ireland
+Coringa (India),locality,Asia,,,India
+Corisco I.,GPH_entity,Africa,4112,,
+Cork,locality,Europe,,Cork,Ireland
 Coromandel Coast Posts,GPH_entity,Asia,7503,CoromandelCoastPosts,
 Coromandel Coast Posts & Malabar Coast,group,Asia,,CoromandelCoastPosts_MalabarCoast,
-Corps Expeditionnaire d'Orient (Gallipoli and Dardanelles),colonial_area,Asia,,,
-Corsica,city/part_of,Europe,,,France
+Corps Expeditionnaire d'Orient (Gallipoli and Dardanelles),geographical_area,Asia,,,
+Corsica,locality,Europe,,,France
 Costa Rica,GPH_entity,America,94,CostaRica,
 Costa Rica & El Salvador & Guatemala,group,America,,CostaRica_ElSalvador_Guatemala,
 Costa Rica & El Salvador & Guatemala & Honduras,group,America,,CostaRica_ElSalvador_Guatemala_Honduras,
 Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,group,America,,CostaRica_ElSalvador_Guatemala_Honduras_Nicaragua,
 Costa Rica & Guatemala & Honduras,group,America,,CostaRica_Guatemala_Honduras,
 Costa Rica & Guatemala & Honduras & Nicaragua,group,America,,,
-Cracow (Free City of Cracow),GPH_entity,Europe,2292,CracowFreeCityofCracow,
+Cotonou,locality,Africa,,,Benin (Dahomey)
+Crab I.,locality,America,,,Berbice
+Cracow (Free City of Cracow),GPH_entity,Europe,2903,CracowFreeCityofCracow,
 Crete,GPH_entity,Europe,351,Crete,
 Crete & Egypt Arab Republic (Egypt),group,World,,Crete_EgyptArabRepublicEgypt,
 Crete & European Turkey,group,Europe,,Crete_EuropeanTurkey,
 Crete & Greece,group,Europe,,Crete_Greece,
-Crimea Ports,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Crete & Turkey (Ottoman Empire),group,World,,,
+Crimea Ports,locality,Europe,,RussiaUSSR,Russia (USSR)
 Croatia,GPH_entity,Europe,344,,
 Croatia & Dalmatia & Illyria,group,Europe,,Croatia_Dalmatia_Illyria,
 Croatia & Kingdom of Serbia,group,Europe,,Croatia_KingdomofSerbia,
 Crozet Is.,GPH_entity,Oceania,9974,CrozetIs.,
 Cuba,GPH_entity,America,40,Cuba,
 Cuba & Curacao & Guadeloupe & Martinique & Puerto Rico & St. Croix & St. Thomas,group,America,,Cuba_Curacao_Guadeloupe_Martinique_PuertoRico_StCroix_StThomas,
-Cuba & Haiti & Other countries & Puerto Rico,geographical_area,World,,Cuba_Haiti_Othercountries_PuertoRico,
+Cuba & Dominican Republic (Santo Domingo) & Haiti,group,America,,,
+Cuba & Haiti & Puerto Rico,group,America,,,
+Cuba & Haiti & Puerto Rico & World (other),group,World,,Cuba_Haiti_Othercountries_PuertoRico,
 Cuba & La Guaira,group,America,,Cuba_LaGuaira,
 Cuba & Philippines & Puerto Rico,group,America,,Cuba_Philippines_PuertoRico,
 Cuba & Puerto Rico,group,America,,Cuba_PuertoRico,
 Cuba & Spain,group,World,,Cuba_Spain,
-Cuba & West Indies (other),geographical_area,America,,,
+Cuba & West Indies (other),group,America,,,
 Curacao,GPH_entity,America,1065,Curacao,
 Curacao & Dutch Windward Is. & Sint Eustatius,group,America,,Curacao_DutchWindwardIs._SintEustatius,
+Curacao & Jamaica,group,America,,,
 Curacao & Jamaica & Trinidad and Tobago,group,America,,Curacao_Jamaica_TrinidadandTobago,
 Curacao & Netherlands,group,World,,,
-Cuxhaven,city/part_of,Europe,,,Hamburg
+Curacao & Surinam (Dutch Guiana),group,America,,,
+Cuxhaven,locality,Europe,,,Hamburg
+Cuxhaven & Hamburg,group,Europe,,,
 Cuxhaven & Heligoland,group,Europe,,Cuxhaven_Heligoland,
 Cyprus,GPH_entity,Europe,352,Cyprus,
+Cyprus & Gibraltar,group,Europe,,,
+Cyprus & Gibraltar & Heligoland & Malta & United Kingdom,group,Europe,,,
 Cyprus & Gibraltar & Malta,group,Europe,,Cyprus_Gibraltar_Malta,
-Cyprus & Gozo & Kingdom of Serbia & Malta,group,Europe,,Cyprus_Gozo_KingdomofSerbia_Malta,
 Cyprus & Gozo & Malta,group,Europe,,Cyprus_Gozo_Malta,
 Cyprus & Malta,group,Europe,,,
 Cyprus & Palestine,group,World,,,
 Cyrenaica,GPH_entity,Africa,6202,,
-Cyrenaica & Tripolitania,group,Africa,,Cyrenaica_Tripolitania,
+Cyrenaica & Tripolitania (Regency of Tripoli),group,Africa,,Cyrenaica_Tripolitania,
 Czechoslovakia,GPH_entity,Europe,315,Czechoslovakia,
-Dalmatia,city/part_of,Europe,,,Austria
-Dalny,city/part_of,Asia,,,Japan
-Dalny & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
-Damietta,city/part_of,Africa,,,Egypt Arab Republic (Egypt)
+Czechoslovakia & Hungary,group,Europe,,,
+Dakar,locality,Africa,,,Senegal
+Dalian,GPH_entity,Asia,7132,,
+Dalian & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
+Dalmatia,locality,Europe,,,Austria-Hungary (Austrian Empire)
+Damaraland,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
+Damascus,locality,Asia,,,Syria
+Damietta,locality,Africa,,,Egypt Arab Republic (Egypt)
 Danish America,colonial_area,America,,DanishAmerica,Denmark
 Danish America & Spanish America,group,America,,DanishAmerica_SpanishAmerica,
 Danish Colonies,colonial_area,World,,DanishColonies,Denmark
+Danish Colonies (other),locality,World,,,Danish Colonies
 Danish Colonies & Denmark,group,World,,DanishColonies_Denmark,
 Danish Europe,colonial_area,Europe,,DanishEurope,Denmark
 Danish Guyana,colonial_area,America,,,Denmark
@@ -561,15 +760,19 @@ Danish India & French India & India,group,Asia,,,
 Danzig (Free City of Danzig),GPH_entity,Europe,291,DanzigFreeCityofDanzig,
 Danzig (Free City of Danzig) & Memel,group,Europe,,DanzigFreeCityofDanzig_Memel,
 Danzig (Free City of Danzig) & Poland,group,Europe,,DanzigFreeCityofDanzig_Poland,
-Davis Strait,city/part_of,America,,,Greenland
+Dar es Salaam,locality,Africa,,,Tanzania (Tanganyika)
+Dartmouth,locality,America,,,Nova Scotia
+Davis Strait,locality,America,,,Greenland
 Davis Strait & Greenland,group,America,,DavisStrait_Greenland,
-Delhi,city/part_of,Asia,,Delhi,India
-Demerara,city/part_of,America,,,Demerara and Essequibo
+Degema (Nigeria),locality,Africa,,,Nigeria
+Delhi,locality,Asia,,Delhi,India
+Demerara,locality,America,,,Demerara and Essequibo
 Demerara and Essequibo,GPH_entity,America,1113,,
 Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State),GPH_entity,Africa,490,DemocraticRepublicoftheCongoZaireKinshasaBelgianCongoCongoFreeState,
 Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Ruanda-Urundi,group,Africa,,DemocraticRepublicoftheCongoZaireKinshasaBelgianCongoCongoFreeState_RuandaUrundi,
+Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State) & Uganda,group,Africa,,,
 Denmark,GPH_entity,Europe,390,Denmark,
-Denmark & Denmark Colonies,group,World,,,
+Denmark (other),locality,Europe,,,Denmark
 Denmark & Faeroe Is.,group,Europe,,Denmark_FaeroeIs.,
 Denmark & Faeroe Is. & Greenland & Iceland,group,World,,Denmark_FaeroeIs._Greenland_Iceland,
 Denmark & Faeroe Is. & Iceland,group,Europe,,Denmark_FaeroeIs._Iceland,
@@ -583,13 +786,15 @@ Denmark & Norway & Russia (USSR) & Sweden,group,Europe,,Denmark_Norway_RussiaUSS
 Denmark & Norway & Sweden,group,Europe,,Denmark_Norway_Sweden,
 Denmark & Russia (USSR),group,Europe,,Denmark_RussiaUSSR,
 Denmark & Russia (USSR) & Sweden,group,Europe,,Denmark_RussiaUSSR_Sweden,
+Denmark & Saxony,group,Europe,,,
 Denmark & Sweden,group,Europe,,Denmark_Sweden,
 Denmark & Virgin Islands (Danish West Indies),group,World,,Denmark_VirginIslandsDanishWestIndies,
-Denmark Colonies,colonial_area,World,,,Denmark
-Denmark Ports,city/part_of,Europe,,,Denmark
-Diyarbakir,city/part_of,Asia,,,Turkey (Ottoman Empire)
+Digby,locality,America,,,Nova Scotia
+Diyarbakir,locality,Asia,,,Turkey (Ottoman Empire)
 Djibouti (Afar and Issas) (French Somaliland),GPH_entity,Africa,522,DjiboutiAfarandIssasFrenchSomaliland,
 Djibouti (Afar and Issas) (French Somaliland) & Eritrea,group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_Eritrea,
+Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia),group,Africa,,,
+Djibouti (Afar and Issas) (French Somaliland) & Ethiopia (Abyssinia) & Eritrea & Italian Somaliland & Sudan (Anglo-Egyptian Sudan) (Mahdist State),group,Africa,,,
 Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland,group,Africa,,,
 Djibouti (Afar and Issas) (French Somaliland) & Italian Somaliland & Somaliland Republic (British Somaliland),group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_ItalianSomaliland_SomalilandRepublicBritishSomaliland,
 Djibouti (Afar and Issas) (French Somaliland) & Obock,group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_Obock,
@@ -597,93 +802,120 @@ Djibouti (Afar and Issas) (French Somaliland) & Socotra I. & Somaliland Republic
 Djibouti (Afar and Issas) (French Somaliland) & Somaliland Republic (British Somaliland),group,Africa,,DjiboutiAfarandIssasFrenchSomaliland_SomalilandRepublicBritishSomaliland,
 Dodecanese Is. (Aegean Is.),GPH_entity,Europe,3353,DodecaneseIs.AegeanIs.,
 Dodecanese Is. (Aegean Is.) & Italy,group,Europe,,,
-Dodecanese Is. (Aegean Is.) & Izmir (Smyrna),group,World,,DodecaneseIs.AegeanIs._IzmirSmyrna,
-Dodecanese Is. (Aegean Is.) & Romania & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_Romania_TurkeyOttomanEmpire,
-Dodecanese Is. (Aegean Is.) & Turkey (Ottoman Empire),group,World,,DodecaneseIsAegeanIs_TurkeyOttomanEmpire,
 Dominica,GPH_entity,America,54,Dominica,
 Dominican Republic (Santo Domingo),GPH_entity,America,42,DominicanRepublicSantoDomingo,
 Dominican Republic (Santo Domingo) & Haiti,group,America,,DominicanRepublicSantoDomingo_Haiti,
-Dunkirk,city/part_of,Europe,,Dunkirk,France
+Dominican Republic (Santo Domingo) & Haiti & Puerto Rico,group,America,,,
+Douala,locality,Africa,,,Cameroun (French Cameroon)
+Dunkirk,locality,Europe,,Dunkirk,France
+Durban (Port Natal),locality,Africa,,,Natal
+Dutch Africa,colonial_area,Africa,,,Netherlands
 Dutch America,colonial_area,America,,DutchAmerica,Netherlands
 Dutch Asia,colonial_area,Asia,,DutchAsia,Netherlands
-Dutch Asia (other),colonial_area,Asia,,,Netherlands
+Dutch Asia (other),locality,Asia,,,Dutch Asia
 Dutch Asia (other) & Java,group,Asia,,,
 Dutch Asia & Dutch Oceania,group,World,,DutchAsia_DutchOceania,
-Dutch Borneo,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Dutch Borneo & Java,colonial_area,Asia,,,Netherlands
-Dutch Borneo & Sarawak,colonial_area,Asia,,,
+Dutch Borneo,colonial_area,Asia,,,Netherlands
+Dutch Borneo & Java,group,Asia,,,
+Dutch Borneo & Sarawak,group,Asia,,,
+Dutch Central America,colonial_area,America,,,Netherlands
 Dutch Colonies,colonial_area,World,,DutchColonies,Netherlands
-Dutch Colonies (other),colonial_area,World,,DutchColoniesother,Netherlands
+Dutch Colonies (other),locality,World,,DutchColoniesother,Dutch Colonies
+Dutch Colonies (other) & Natuna,group,Asia,,,
 Dutch Colonies & Netherlands,group,World,,DutchColonies_Netherlands,
-Dutch East Africa,colonial_area,Africa,,,Netherlands
-Dutch East Asia,colonial_area,Asia,,,
-Dutch government,city/part_of,Europe,,Dutchgovernment,
-Dutch Islands,colonial_area,World,,,Netherlands
+Dutch Eastern Africa,colonial_area,Africa,,,Netherlands
+Dutch Free Ports,locality,Europe,,,Netherlands
+Dutch government,locality,Europe,,Dutchgovernment,***NA
+Dutch India,colonial_area,Asia,,,Netherlands
+Dutch India (other),locality,Asia,,,Dutch India
 Dutch Oceania,colonial_area,Oceania,,DutchOceania,Netherlands
-Dutch Oceania (other),colonial_area,Oceania,,DutchOceaniaother,Netherlands
+Dutch Oceania (other),locality,Oceania,,DutchOceaniaother,Dutch Oceania
 Dutch Posts (Gold Coast),GPH_entity,Africa,4535,DutchPostsGoldCoast,
-Dutch South West Africa,colonial_area,Africa,,,Netherlands
+Dutch South Western Africa,colonial_area,Africa,,,Netherlands
 Dutch Windward Is.,GPH_entity,America,1074,,
-East Asian Russia,city/part_of,Asia,,,Russia (USSR)
-East Frisia,city/part_of,Europe,,EastFrisia,Prussia
-East India Company,city/part_of,Asia,,EastIndiaCompany,
+East Asian Russia,locality,Asia,,,Russia (USSR)
+East Frisia,locality,Europe,,EastFrisia,Prussia
+East Frisia & Oldenburg,group,Europe,,,
+East India Company,locality,Asia,,EastIndiaCompany,India
 East India Company & People's Republic of China (China) & Sri Lanka (Ceylon),group,Asia,,EastIndiaCompany_PeoplesRepublicofChinaChina_SriLankaCeylon,
 East India Company & Sri Lanka (Ceylon),group,Asia,,EastIndiaCompany_SriLankaCeylon,
 East Indies,geographical_area,Asia,,EastIndies,
-East Indies (other),geographical_area,Asia,,EastIndiesother,
+East Indies (other),locality,Asia,,EastIndiesother,East Indies
 East Indies & Guinea (French Guinea) (Rivieres du Sud) & People's Republic of China (China),group,World,,EastIndies_GuineaFrenchGuineaRivieresduSud_PeoplesRepublicofChinaChina,
 East Indies & People's Republic of China (China),group,Asia,,EastIndies_PeoplesRepublicofChinaChina,
-East Indies & Thailand (Siam),geographical_area,Asia,,EastIndies_ThailandSiam,
-East Indies & West Indies,geographical_area,World,,,
-East London,city/part_of,Africa,,,South Africa
+East Indies & Philippines & Thailand (Siam),group,Asia,,,
+East Indies & Thailand (Siam),group,Asia,,EastIndies_ThailandSiam,
+East Indies & West Indies,group,World,,,
+East London,locality,Africa,,,South Africa
+East Prussia,locality,Europe,,,Prussia
 East Timor (Portuguese Timor),GPH_entity,Asia,860,EastTimorPortugueseTimor,
 East Timor (Portuguese Timor) & Macao,group,Asia,,EastTimorPortugueseTimor_Macao,
+East Timor (Portuguese Timor) & Macao & Portuguese India,group,Asia,,,
 Eastern Africa,geographical_area,Africa,,EastAfrica,
-Eastern Africa (other),geographical_area,Africa,,EastAfricaother,
-Eastern Africa Ports (other),geographical_area,Africa,,,
+Eastern Africa (other),locality,Africa,,EastAfricaother,Eastern Africa
+Eastern Africa & Madagascar (Malagasy Republic),group,Africa,,,
+Eastern Africa & Mauritius,group,Africa,,,
+Eastern Africa & South Africa & Western Africa,group,Africa,,,
 Eastern Asia,geographical_area,Asia,,,
-Eastern Asia (other),geographical_area,Asia,,,
-Eastern Asia & India,geographical_area,Asia,,,
-Eastern Asia & People's Republic of China (China),geographical_area,Asia,,,
+Eastern Asia (other),locality,Asia,,,Eastern Asia
+Eastern Asia (other) & French India & Japan & People's Republic of China (China),group,Asia,,,
+Eastern Asia (other) & Japan & People's Republic of China (China),group,Asia,,,
+Eastern Asia & India,group,Asia,,,
+Eastern Asia & People's Republic of China (China),group,Asia,,,
 Eastern Rumelia,GPH_entity,Europe,3551,EasternRumelia,
 Ecuador,GPH_entity,America,130,Ecuador,
 Ecuador & Guatemala,group,America,,Ecuador_Guatemala,
 Ecuador & Peru,group,America,,Ecuador_Peru,
 Egypt Arab Republic (Egypt),GPH_entity,Africa,651,EgyptArabRepublicEgypt,
+Egypt Arab Republic (Egypt) (other),locality,Africa,,,Egypt Arab Republic (Egypt)
 Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies,group,World,,EgyptArabRepublicEgypt_Othercountries,
 Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),group,World,,,
 Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),group,World,,EgyptArabRepublicEgypt_Greece_TurkeyOttomanEmpire,
 Egypt Arab Republic (Egypt) & Indian Transit,group,World,,EgyptArabRepublicEgypt_IndianTransit,
-Egypt Arab Republic (Egypt) & North Sudan (Sudan) (Anglo-Egyptian),group,Africa,,EgyptArabRepublicEgypt_NorthSudanSudanAngloEgyptian,
+Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire),group,Asia,,,
+Egypt Arab Republic (Egypt) & Moldavia,group,World,,,
+Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State),group,Africa,,EgyptArabRepublicEgypt_NorthSudanSudanAngloEgyptian,
 Egypt Arab Republic (Egypt) & Syria,group,World,,EgyptArabRepublicEgypt_Syria,
-Egypt Arab Republic (Egypt) & Tripolitania,group,Africa,,,
+Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli),group,Africa,,,
 Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),group,World,,EgyptArabRepublicEgypt_TurkeyOttomanEmpire,
-Egypt Arab Republic (Egypt) Dependencies,city/part_of,World,,,Egypt Arab Republic (Egypt)
-Egypt Arab Republic (Egypt) Ports (other),city/part_of,Africa,,,Egypt Arab Republic (Egypt)
-El Jadida (Mazaghan),city/part_of,Africa,,,Morocco
+Egypt Arab Republic (Egypt) Dependencies,locality,Africa,,,Egypt Arab Republic (Egypt)
+El Jadida (Mazaghan),locality,Africa,,,Morocco
 El Salvador,GPH_entity,America,92,ElSalvador,
-Elbe,city/part_of,Europe,,Elbe,Germany (Zollverein)
-Ellice Is.,city/part_of,Oceania,,,Gilbert and Ellice Is.
+El Salvador & Honduras & Nicaragua,group,America,,,
+Elbe,locality,Europe,,Elbe,Germany (Zollverein)
+Ellice Is.,locality,Oceania,,,Gilbert and Ellice Is.
+Elmina,locality,Africa,,,Ghana (Gold Coast)
+Elobey Is.,GPH_entity,Africa,4113,,
 English Channel,geographical_area,Europe,,EnglishChannel,
-Equatorial East Africa (other),geographical_area,Africa,,,
+Equatorial Africa,geographical_area,Africa,,,
+Equatorial Eastern Africa,geographical_area,Africa,,,
+Equatorial Eastern Africa (other),locality,Africa,,,Equatorial Eastern Africa
 Equatorial Guinea (Spanish Guinea),GPH_entity,Africa,411,,
-Equatorial West Africa (other),geographical_area,Africa,,,
+Equatorial Guinea (Spanish Guinea) & Spanish Morocco,group,Africa,,,
+Equatorial Western Africa,geographical_area,Africa,,,
+Equatorial Western Africa (other),locality,Africa,,,Equatorial Western Africa
 Eritrea,GPH_entity,Africa,531,Eritrea,
 Eritrea & Italian Somaliland,group,Africa,,Eritrea_ItalianSomaliland,
-Erzurum,city/part_of,Asia,,Erzurum,Turkey (Ottoman Empire)
-Essaouira (Mogador),city/part_of,Africa,,EssaouiraMogador,Morocco
+Erzurum,locality,Asia,,Erzurum,Turkey (Ottoman Empire)
+Essaouira (Mogador),locality,Africa,,EssaouiraMogador,Morocco
 Essaouira (Mogador) & Safi,group,Africa,,EssaouiraMogador_Safi,
 Estonia,GPH_entity,Europe,366,Estonia,
+Estonia & Latvia,group,Europe,,,
+Estonia & Latvia & Lithuania,group,Europe,,,
 Eswatini (Swaziland),GPH_entity,Africa,572,EswatiniSwaziland,
+Eswatini (Swaziland) & Zululand,group,Africa,,,
 Ethiopia (Abyssinia),GPH_entity,Africa,530,EthiopiaAbyssinia,
+Ethiopia (Abyssinia) & Italian Africa,group,Africa,,,
 Europe,geographical_area,Europe,,Europe,
-Europe (other),geographical_area,Europe,,Europeother,
-Europe & European Russia,geographical_area,Europe,,Europe_EuropeanRussia,
-Europe & Levant,geographical_area,World,,Levant_Europe,
+Europe (other),locality,Europe,,Europeother,Europe
+Europe & European Russia,group,Europe,,Europe_EuropeanRussia,
+Europe & Levant,group,World,,Levant_Europe,
 European America,colonial_area,America,,EuropeanAmerica,
-European Ports,geographical_area,Europe,,,
-European Russia,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-European Turkey,city/part_of,Europe,,EuropeanTurkey,Turkey (Ottoman Empire)
+European America (other),locality,America,,,European America
+European Russia,locality,Europe,,RussiaUSSR,Russia (USSR)
+European Turkey,locality,Europe,,EuropeanTurkey,Turkey (Ottoman Empire)
+European Turkey & Montenegro,group,Europe,,,
+European Turkey & Romania,group,Europe,,,
 Faeroe Is.,GPH_entity,Europe,11,FaeroeIs.,
 Faeroe Is. & Greenland,group,World,,FaeroeIs._Greenland,
 Faeroe Is. & Greenland & Iceland,group,World,,FaeroeIs._Greenland_Iceland,
@@ -691,17 +923,22 @@ Faeroe Is. & Iceland,group,Europe,,FaeroeIs._Iceland,
 Falkland Is.,GPH_entity,America,1163,FalklandIs.,
 Falkland Is. & Falkland Is. Dependencies,group,World,,,
 Falkland Is. & Guyana (British Guiana),group,America,,FalklandIs_GuyanaBrGuiana,
+Falkland Is. & Patagonia,group,America,,,
 Falkland Is. & Uruguay,group,America,,FalklandIs._Uruguay,
-Falkland Is. Dependencies,city/part_of,America,,,Falkland Is.
+Falkland Is. Dependencies,locality,America,,,Falkland Is.
 Fanning I.,GPH_entity,Oceania,9453,,
 Far Eastern Republic,GPH_entity,Europe,735,,
 Federated Malay States,GPH_entity,Asia,821,FederatedMalayStates,
 Federated Malay States & Straits Settlements,group,Asia,,,
+Federated States of Micronesia,GPH_entity,Oceania,987,,
+Federated States of Micronesia & French Polynesia,group,Oceania,,,
 Federation of South Arabia,GPH_entity,Asia,6801,,
-Feodosia,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Feodosia,locality,Europe,,RussiaUSSR,Russia (USSR)
 Fernando Po (Bioko),GPH_entity,Africa,413,FernandoPoBioko,
-Figueira,city/part_of,Europe,,Figueira,Portugal
+Fernando Po (Bioko) & Río Muni,group,Africa,,,
+Figueira,locality,Europe,,Figueira,Portugal
 Fiji,GPH_entity,Oceania,950,Fiji,
+Fiji & Tonga (Haʻapai),group,Oceania,,,
 Finland,GPH_entity,Europe,375,Finland,
 Finland & Russia (USSR),group,Europe,,Finland_RussiaUSSR,
 Fiume,GPH_entity,Europe,3343,Fiume,
@@ -709,140 +946,172 @@ Fiume & Italy,group,Europe,,,
 Fiume & Kingdom of Sardinia & Milan & Papal States & Republic of St. Mark & Tuscany & Two Sicilies,group,Europe,,Fiume_KingdomofSardinia_Milan_PapalStates_RepublicofSt.Mark_Tuscany_TwoSicilies,
 Fiume & Republic of St. Mark & Trieste,group,Europe,,Fiume_RepublicofStMark_Trieste,
 Fiume & Trieste,group,Europe,,Fiume_Trieste,
-Fort St. George,city/part_of,Asia,,FortSt.George,India
+Flensburg,locality,Europe,,,Schleswig
+Florida,GPH_entity,America,1008,,
+Forçados River,locality,Africa,,,Nigeria
+Fort St. George,locality,Asia,,FortSt.George,India
 France,GPH_entity,Europe,220,France,
-France (Atlantic Coast),city/part_of,Europe,,,France
-France (Foreign produce),city/part_of,Europe,,,France
-France (French produce),city/part_of,Europe,,FranceFrenchproduce,France
+France (Atlantic Coast),locality,Europe,,,France
+France (Foreign produce),locality,Europe,,,France
+France (Foreign produce) (other),locality,Europe,,,France
+France (French produce),locality,Europe,,FranceFrenchproduce,France
 France (French produce) & French Colonies (French produce),group,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,
-France (Mediterranean Coast),city/part_of,Europe,,,France
-France (sea),city/part_of,Europe,,Francesea,France
+France (Mediterranean Coast),locality,Europe,,,France
+France (other),locality,Europe,,,France
+France & French Africa,group,World,,,
 France & French Colonies,group,World,,France_FrenchColonies,
-France & French Mediterranean,group,Europe,,France_FrenchMediterranean,
+France & French Mediterranean Sea,group,Europe,,France_FrenchMediterranean,
+France & Monaco,group,Europe,,,
 France & Netherlands,group,Europe,,France_Netherlands,
+France & Netherlands & Portugal & United States of America,group,World,,,
+France & Portugal,group,Europe,,,
 France & Tahiti,group,World,,France_Tahiti,
 Frankfurt,GPH_entity,Europe,247,Frankfurt,
-Franz Josef Land,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Franz Josef Land,locality,Europe,,RussiaUSSR,Russia (USSR)
 Free entrepots,geographical_area,World,,,
-Free entrepots & Baltic Ports & North Sea,geographical_area,Europe,,,
+Free entrepots & Baltic Ports & North Sea,group,Europe,,,
 Free ports,geographical_area,World,,Freeports,
+Freetown,locality,Africa,,,Sierra Leone
 French Africa,colonial_area,Africa,,FrenchAfrica,France
-French Africa (other),colonial_area,Africa,,FrenchAfricaother,France
+French Africa (other),locality,Africa,,FrenchAfricaother,French Africa
 French America,colonial_area,America,,FrenchAmerica,France
-French America Free Zone,colonial_area,America,,,France
+French and Southern Antarctic Territories (F.S.A.T.),GPH_entity,Oceania,9970,,
 French Asia,colonial_area,Asia,,FrenchAsia,France
+French Asia (other),locality,Asia,,,French Asia
 French Asia & French India,group,Asia,,,
 French Asia & French India & Portuguese Asia,group,Asia,,,
-French Asia & French Oceania,group,World,,FrenchAsia_FrenchOceania,
+French Asia & French Polynesia,group,World,,FrenchAsia_FrenchOceania,
 French Central America,colonial_area,America,,,France
 French China,colonial_area,Asia,,FrenchChina,France
-French China Leased Territory,colonial_area,Asia,,,France
 French Colonies,colonial_area,World,,FrenchColonies,France
-French Colonies (Foreign produce),colonial_area,World,,,France
-French Colonies (French produce),colonial_area,World,,FrenchColoniesFrenchproduce,France
-French Colonies (other),colonial_area,World,,FrenchColoniesother,France
-French East Africa,colonial_area,Africa,,,France
-French East Asia,colonial_area,Asia,,,
-French East Indies,colonial_area,Asia,,,
-French Entrepôts,city/part_of,Europe,,,
+French Colonies (Foreign produce),locality,World,,,French Colonies
+French Colonies (French produce),locality,World,,FrenchColoniesFrenchproduce,French Colonies
+French Colonies (other),locality,World,,FrenchColoniesother,French Colonies
+French Colonies (other) (Foreign produce),locality,World,,,French Colonies
+French colonies (other) (French produce),locality,World,,,French Colonies
+French Eastern Africa,colonial_area,Africa,,,France
+French Entrepôts,locality,Europe,,,France
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
 French Equatorial Africa & French West Africa,group,Africa,,,
-French Equatorial West Africa,colonial_area,Africa,,,France
+French Equatorial Western Africa,colonial_area,Africa,,,France
+French Europe (Foreign produce),colonial_area,Europe,,,France
 French Guiana,GPH_entity,America,120,FrenchGuyana,
 French Guiana & French West Indies,group,America,,,
 French Guiana & Guadeloupe & Martinique,group,America,,,
 French Guiana & Guyana (British Guiana) & Surinam (Dutch Guiana),group,America,,FrenchGuyana_GuyanaBrGuiana_Surinam (Dutch Guiana),
-French Guiana & St. Pierre and Miquelon,group,America,,FrenchGuyana_StPierreandMiquelon,
-French Gulf of Guinea,colonial_area,Africa,,FrenchGulfofGuinea,France
-French Gulf of Guinea & Senegal,group,Africa,,FrenchGulfofGuinea_Senegal,
 French India,GPH_entity,Asia,751,FrenchIndia,
-"French India & India & Portuguese India (incl. Goa, Diu, Daman)",group,Asia,,FrenchIndia_India_PortugueseIndiainclGoaDiuDaman,
+French India & French Indochina,group,Asia,,,
+French India & India & Portuguese India,group,Asia,,FrenchIndia_India_PortugueseIndiainclGoaDiuDaman,
 French Indochina,GPH_entity,Asia,810,FrenchIndochina,
+French Indochina (French produce),locality,Asia,,,French Indochina
 French Indochina & Japan & People's Republic of China (China),group,Asia,,FrenchIndochina_Japan_PeoplesRepublicofChinaChina,
 French Indochina & People's Republic of China (China),group,Asia,,FrenchIndochina_PeoplesRepublicofChinaChina,
-French Mediterranean,colonial_area,Europe,,FrenchMediterranean,France
-French North America,colonial_area,America,,FrenchNorthAmerica,France
-French Oceania,colonial_area,Oceania,,FrenchOceania,France
-French Oceania (other),colonial_area,Oceania,,,France
+French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),group,Asia,,,
+French Indochina & Thailand (Siam),group,Asia,,,
+French Mediterranean Sea,colonial_area,Europe,,FrenchMediterranean,France
+French Northern Africa,colonial_area,Africa,,,France
+French Northern America,colonial_area,America,,FrenchNorthAmerica,France
+French Oceania,colonial_area,Oceania,,,
+French Oceania (other),locality,Oceania,,,French Oceania
 French Oceania (other) & New Caledonia,group,Oceania,,,
 French Polynesia,GPH_entity,Oceania,960,,
-French Ports,city/part_of,Europe,,,France
-French South Africa,colonial_area,Africa,,,France
+French Southern Africa,colonial_area,Africa,,,France
+French Southern America,colonial_area,America,,,France
 French West Africa,GPH_entity,Africa,430,FrenchWestAfrica,
-French West Africa (other),city/part_of,Africa,,,French West Africa
-French West Africa & Senegal,group,Africa,,FrenchWestAfrica_Senegal,
+French Western Africa (Foreign produce),locality,Africa,,,French West Africa
+French Western Africa (French produce),locality,Africa,,,French West Africa
+French Western Africa (other),locality,Africa,,,French West Africa
+French Western Africa & Senegal,group,Africa,,FrenchWestAfrica_Senegal,
 French West Africa & Togo (French Togoland),group,Africa,,,
 French West Indies,colonial_area,America,,FrenchWestIndies,France
 French West Indies (West),colonial_area,America,,,France
 French West Indies & Netherlands Antilles & Spanish West Indies & St. Barthelemy & Virgin Islands (Danish West Indies),group,America,,FrenchWestIndies_NetherlandsAntilles_SpanishWestIndies_StBarthelemy_VirginIslandsDanishWestIndies,
 French West Indies & St. Pierre and Miquelon,group,America,,,
 Futa Djallon,GPH_entity,Africa,4381,,
+Fuzhou,locality,Asia,,,People's Republic of China (China)
 Gabon,GPH_entity,Africa,481,Gabon,
-Galicia,city/part_of,Europe,,,Austria
-Galicia & Poland & Russian provinces,group,Europe,,Galicia_Poland_Russianprovinces,
+Gabon River,locality,Africa,,,Gabon
+Galapagos Is.,GPH_entity,America,1301,,
+Galați,locality,Europe,,,Moldavia
+Galați & Odessa,group,Europe,,,
+Galicia (Kingdom of Galicia and Lodomeria),GPH_entity,Europe,3001,,
 Gambia,GPH_entity,Africa,420,Gambia,
 Gambia & Guinea (French Guinea) (Rivieres du Sud) & Senegal,group,Africa,,Gambia_GuineaFrenchGuineaRivieresduSud_Senegal,
 Gambia & Senegal,group,Africa,,Gambia_Senegal,
 Gambia & Sierra Leone,group,Africa,,Gambia_SierraLeone,
-Genoa,city/part_of,Europe,,Genoa,Kingdom of Sardinia
+Gdynia,locality,Europe,,,Poland
+Geestemünde,locality,Europe,,,Bremen
+Genoa,locality,Europe,,Genoa,Kingdom of Sardinia
 Genoa & Kingdom of Sardinia,group,Europe,,Genoa_KingdomofSardinia,
 Genoa & Livorno,group,Europe,,Genoa_Livorno,
 Genoa & Trieste,group,Europe,,Genoa_Trieste,
 Georgia,GPH_entity,Europe,372,,
 German Africa,colonial_area,Africa,,GermanAfrica,Germany (Zollverein)
+German Africa (other),locality,Africa,,,German Africa
+German Africa & German Oceania,group,World,,,
 German Austria,colonial_area,Europe,,,Germany (Zollverein)
 German Austria & Italian Austria,group,Europe,,,
 German China,colonial_area,Asia,,GermanChina,Germany (Zollverein)
-German China Leased Territory,colonial_area,Asia,,,Germany (Zollverein)
-German China Leased Territory & German Oceania,group,World,,GermanChinaLeasedTerritory_GermanOceania,
+German China & German Oceania,group,World,,,
 German Colonies,colonial_area,World,,GermanColonies,Germany (Zollverein)
 German Colonies & Germany (Zollverein),group,World,,GermanColonies_GermanyZollverein,
-German Confederation,city/part_of,Europe,,GermanConfederation,
-German Confederation (other),city/part_of,Europe,,,
+German Confederation (other),locality,Europe,,,***NA
 German East Africa,GPH_entity,Africa,510,GermanEastAfrica,
 German East Africa & Germany (Zollverein),group,World,,GermanEastAfrica_GermanyZollverein,
 German Oceania,colonial_area,Oceania,,GermanOceania,Germany (Zollverein)
-German Ports,city/part_of,Europe,,,Germany (Zollverein)
-German Ports (other),city/part_of,Europe,,,Germany (Zollverein)
-German Ports & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,GermanPorts_Hamburg_HanseTownsBremen_Lübeck,
 German Solomon Is.,GPH_entity,Oceania,9401,,
 German Togoland,GPH_entity,Africa,460,,
 German Togoland & Kamerun,group,Africa,,GermanTogoland_Kamerun,
-German Togoland & Kamerun & Namibia (South West Africa) (German South West Africa),group,Africa,,GermanTogoland_Kamerun_NamibiaSouthWestAfricaGermanSouthWestAfrica,
-German West Africa,colonial_area,Africa,,GermanWestAfrica,Germany (Zollverein)
 German West Indies,colonial_area,America,,,Germany (Zollverein)
+German Western Africa,colonial_area,Africa,,GermanWestAfrica,Germany (Zollverein)
 Germany (Zollverein),GPH_entity,Europe,255,GermanyZollverein,
-Germany (Zollverein) (other),city/part_of,Europe,,"GermanyZollverein,other",Germany (Zollverein)
+Germany (Zollverein) (Baltic Sea),locality,Europe,,,Germany (Zollverein)
+Germany (Zollverein) (French produce),locality,Europe,,,Germany (Zollverein)
+Germany (Zollverein) (North Sea),locality,Europe,,,Germany (Zollverein)
+Germany (Zollverein) (other),locality,Europe,,"GermanyZollverein,other",Germany (Zollverein)
 Germany (Zollverein) (other) & Prussia,group,Europe,,Germanyother_Prussia,
+Germany (Zollverein) (Rhine),locality,Europe,,GermanyZollverein_Rhine,Germany (Zollverein)
 Germany (Zollverein) & Hamburg,group,Europe,,GermanyZollverein_Hamburg,
-Germany (Zollverein) & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,GermanyZollverein_Hamburg_HanseTownsBremen_Lübeck,
-Germany (Zollverein) & Rhine,group,Europe,,GermanyZollverein_Rhine,
+Germany (Zollverein) & Hanse Towns,group,Europe,,,
 Germany (Zollverein) & Saar,group,Europe,,GermanyZollverein_Saar,
 Ghana (Gold Coast),GPH_entity,Africa,452,GhanaGoldCoast,
+Ghana (Gold Coast) (other),locality,Africa,,,Ghana (Gold Coast)
 Ghana (Gold Coast) & Gold Coast-Togoland (Neutral Zone),group,Africa,,,
 Gibraltar,GPH_entity,Europe,231,Gibraltar,
 Gibraltar & Ionian Is. & Malta & United Kingdom,group,Europe,,Gibraltar_IonianIs._Malta_UnitedKingdom,
 Gibraltar & Malta,group,Europe,,Gibraltar_Malta,
+Gibraltar & Malta & United Kingdom,group,Europe,,,
 Gibraltar & Newfoundland and Labrador (Newfoundland) & United Kingdom,group,Europe,,Gibraltar_NewfoundlandandLabradorNewfoundland_UnitedKingdom,
 Gibraltar & Portugal & Spain,group,Europe,,Gibraltar_Portugal_Spain,
 Gibraltar & Spain,group,Europe,,Gibraltar_Spain,
 Gibraltar & Spain & Spanish Colonies,group,World,,Gibraltar_Spain_SpanishColonies,
 Gibraltar & United Kingdom,group,Europe,,Gibraltar_UnitedKingdom,
-Gijón,city/part_of,Europe,,Gijón,Spain
+Gijón,locality,Europe,,,Spain
 Gilbert and Ellice Is.,GPH_entity,Oceania,945,GilbertandElliceIs.,
-Goa,city/part_of,Asia,,,"Portuguese India (incl. Goa, Diu, Daman)"
+Goa,GPH_entity,Asia,7591,,
 Gold Coast-Togoland (Neutral Zone),GPH_entity,Africa,4559,,
-Gonaïves,city/part_of,America,,Gonaïves,Haiti
+Gonaïves,locality,America,,Gona�ves,Haiti
+Gopalpur,locality,Asia,,,India
+Gorda Cay,locality,America,,,Bahamas
 Goree,GPH_entity,Africa,4338,Goree,
 Goree & Senegal,group,Africa,,Goree_Senegal,
-Gozo,city/part_of,Europe,,,Malta
+Gothenburg,locality,Europe,,,Sweden
+Gough I.,locality,Africa,,,Tristan da Cunha
+Gozo,locality,Europe,,,Malta
 Gozo & Malta,group,Europe,,Gozo_Malta,
-Grand Cayman,city/part_of,America,,,Cayman Is.
+Gran Canaria,locality,Africa,,,Canary Is.
+Grand Cayman,locality,America,,,Cayman Is.
+Grand Comoro,GPH_entity,Africa,5811,,
+Grand Popo,GPH_entity,Africa,4344,,
+Grand-Bassam,GPH_entity,Africa,4372,,
+Grand-Lahou,locality,Africa,,,Ivory Coast
 Greece,GPH_entity,Europe,350,Greece,
 Greece & Ionian Is.,group,Europe,,Greece_IonianIs.,
-Greece & Istanbul (Constantinople) & Levant,geographical_area,World,,Greece_IstanbulConstantinople_Levant,
+Greece & Istanbul (Constantinople) & Levant,group,World,,Greece_IstanbulConstantinople_Levant,
+Greece & Italy & Levant,group,World,,,
 Greece & Malta,group,Europe,,Greece_Malta,
 Greece & Malta & Turkey (Ottoman Empire),group,World,,Greece_Malta_TurkeyOttomanEmpire,
+Greece & Netherlands & Norway & Spain & Switzerland & United States of America,group,World,,,
 Greece & Romania & Turkey (Ottoman Empire),group,World,,Greece_Romania_TurkeyOttomanEmpire,
 Greece & Russia (USSR) & Turkey (Ottoman Empire),group,World,,Greece_RussiaUSSR_TurkeyOttomanEmpire,
 Greece & Turkey (Ottoman Empire),group,World,,Greece_TurkeyOttomanEmpire,
@@ -851,646 +1120,850 @@ Greenland,GPH_entity,America,10,Greenland,
 Greenland & Iceland,group,World,,Greenland_Iceland,
 Greenland & Svalbard Is.,group,World,,Greenland_SvalbardIs.,
 Grenada,GPH_entity,America,55,Grenada,
+Grenadines,locality,America,,,St. Vincent and the Grenadines
 Guadeloupe,GPH_entity,America,65,Guadeloupe,
-Guadeloupe Dependencies,city/part_of,America,,,Guadeloupe
 Guadeloupe & Guadeloupe Dependencies,group,America,,,
 Guadeloupe & Martinique,group,America,,Guadeloupe_Martinique,
 Guadeloupe & Martinique & Reunion (Bourbon I.),group,World,,Guadeloupe_Martinique_Reunion,
+Guadeloupe Dependencies,locality,America,,,Guadeloupe
 Guam,GPH_entity,Oceania,985,Guam,
 Guam & Philippines,group,World,,Guam_Philippines,
-Guangzhou (Canton),city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Guangzhou (Canton),GPH_entity,Asia,7124,PeoplesRepublicofChinaChina,
 Guangzhou (Canton) & Manila,group,Asia,,GuangzhouCanton_Manila,
 Guatemala,GPH_entity,America,90,Guatemala,
 Guatemala & Mexico,group,America,,Guatemala_Mexico,
 Guatemala & Mexico & Texas,group,America,,Guatemala_Mexico_Texas,
 Guatemala & Nicaragua,group,America,,Guatemala_Nicaragua,
-Guayaquil,city/part_of,America,,Guayaquil,Ecuador
-Guesloff,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Guayaquil,locality,America,,Guayaquil,Ecuador
+Guernsey,locality,Europe,,,Channel Is.
+Guesloff,locality,Europe,,RussiaUSSR,Russia (USSR)
 Guinea (French Guinea) (Rivieres du Sud),GPH_entity,Africa,438,GuineaFrenchGuineaRivieresduSud,
 Guinea Coast,geographical_area,Africa,,GuineaCoast,
 Guinea-Bissau (Portuguese Guinea),GPH_entity,Africa,404,Guinea-BissauPortugueseGuinea,
+Güiria,locality,America,,,Venezuela
+Gulf of Mexico,geographical_area,America,,,
 Guyana (British Guiana),GPH_entity,America,110,GuyanaBr.Guiana,
-Hadhramaut,city/part_of,Asia,,,Aden Protectorate
+Guyana (British Guiana) (other),locality,America,,,Guyana (British Guiana)
+Guyana (British Guiana) & Venezuela,group,America,,,
+Hadhramaut,locality,Asia,,,Aden Protectorate
 Haiti,GPH_entity,America,41,Haiti,
+Haiti & Puerto Rico,group,America,,,
 Haiti & Venezuela,group,America,,Haiti_Venezuela,
-Halifax,city/part_of,America,,Halifax,United States of America
+Halifax,locality,America,,Halifax,Nova Scotia
+Halifax I.,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Hamburg,GPH_entity,Europe,248,Hamburg,
+Hamburg & Lübeck,group,Europe,,,
+Hamburg & Netherlands,group,Europe,,,
 Hamburg & North Germany,group,Europe,,Hamburg_NorthGermany,
 Hanover,GPH_entity,Europe,240,Hanover,
-Hanover & Hanse Towns (Bremen & Hamburg &  Lübeck) & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hamburg_Hanover_HanseTownsBremen_Heligoland_Kniphausen_Lübeck_MecklenburgSchwerin_Oldenburg,
-Hanover & Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,Hamburg_Hanover_HanseTownsBremen_Lübeck,
+Hanover & Hanse Towns,group,Europe,,Hamburg_Hanover_HanseTownsBremen_L�beck,
+Hanover & Hanse Towns & Heligoland & Kniphausen & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hamburg_Hanover_HanseTownsBremen_Heligoland_Kniphausen_L�beck_MecklenburgSchwerin_Oldenburg,
+Hanover & Hanse Towns & Mecklenburg Schwerin,group,Europe,,,
+Hanover & Mecklenburg Schwerin,group,Europe,,,
 Hanover & Mecklenburg Schwerin & Oldenburg,group,Europe,,Hanover_MecklenburgSchwerin_Oldenburg,
 Hanover & Mecklenburg Schwerin & Prussia,group,Europe,,Hanover_MecklenburgSchwerin_Prussia,
 Hanover & Oldenburg,group,Europe,,Hanover_Oldenburg,
-Hanse Towns (Bremen & Hamburg & Lübeck),group,Europe,,Hamburg_HanseTownsBremen_Lübeck,
-Hanse Towns (Bremen & Hamburg & Lübeck) & Netherlands,group,Europe,,Hamburg_HanseTownsBremen_Lübeck_Netherlands,
-Hanse Towns (Bremen & Hamburg & Lübeck) & Prussia,group,Europe,,Hamburg_HanseTownsBremen_Lübeck_Prussia,
-Havana,city/part_of,America,,Havana,Cuba
+Hanover & Prussia,group,Europe,,,
+Hanse Towns,geographical_area,Europe,,Hamburg_HanseTownsBremen_L�beck,
+Hanse Towns (other),locality,Europe,,,Hanse Towns
+Hanse Towns & Mecklenburg Schwerin & Oldenburg,group,Europe,,,
+Hanse Towns & Netherlands,group,Europe,,Hamburg_HanseTownsBremen_L�beck_Netherlands,
+Hanse Towns & Prussia,group,Europe,,Hamburg_HanseTownsBremen_L�beck_Prussia,
+Havana,locality,America,,Havana,Cuba
+Havre Boucher,locality,America,,,Nova Scotia
 Hawaii (Sandwich Is.),GPH_entity,Oceania,4,Hawaii (Sandwich Is.),
 Hawaii (Sandwich Is.) & Puerto Rico & United States of America,group,World,,Hawaii (Sandwich Is.)_PuertoRico_UnitedStatesofAmerica,
+Hawaii (Sandwich Is.) & Samoa,group,Oceania,,,
 Hawaii (Sandwich Is.) & United States of America,group,World,,Hawaii (Sandwich Is.)_UnitedStatesofAmerica,
+Heard and McDonald Is.,GPH_entity,Oceania,9005,,
 Hejaz Sultanate,GPH_entity,Asia,671,,
-Hejaz Sultanate & Turkish Ports,group,Asia,,HejazSultanate_TurkishPorts,
+Hejaz Sultanate & Turkey (Ottoman Empire) (other),group,Asia,,HejazSultanate_TurkishPorts,
 Heligoland,GPH_entity,Europe,2249,Heligoland,
-Hengam Is.,city/part_of,Asia,,,Iran (Persia)
-Ho Chi Minh City,city/part_of,Asia,,HoChiMinhCity,French Indochina
+Heligoland & United Kingdom,group,Europe,,,
+Hengam Is.,locality,Asia,,,Iran (Persia)
+Ho Chi Minh City,locality,Asia,,HoChiMinhCity,French Indochina
 Holstein,GPH_entity,Europe,2248,Holstein,
-Holstein & Lauenburg & Schleswig,group,Europe,,Holstein_Lauenburg_Schleswig,
-Holstein & Schleswig,group,Europe,,Holstein_Schleswig,
+Holstein & Schleswig,group,Europe,,,
+Homewood Harbour,locality,Africa,,,Cape Colony (Cape of Good Hope)
 Honduras,GPH_entity,America,91,Honduras,
-Honduras & Mexican East Coast,group,America,,Honduras_MexicanEastCoast,
+Honduras & Mexico (East),group,America,,Honduras_MexicanEastCoast,
 Honduras & Panama,group,America,,,
 Hong Kong,GPH_entity,Asia,720,HongKong,
 Hong Kong & India,group,Asia,,HongKong_India,
+Hong Kong & Kiauchau & People's Republic of China (China),group,Asia,,,
 Hong Kong & People's Republic of China (China),group,Asia,,HongKong_PeoplesRepublicofChinaChina,
 Hong Kong & People's Republic of China (China) & Singapore,group,Asia,,HongKong_PeoplesRepublicofChinaChina_Singapore,
-Honolulu,city/part_of,Oceania,,,Hawaii (Sandwich Is.)
+Honolulu,locality,Oceania,,,Hawaii (Sandwich Is.)
 Hungary,GPH_entity,Europe,310,Hungary,
 Iceland,GPH_entity,Europe,395,Iceland,
-Ichaboe Island,city/part_of,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
-Illyria,city/part_of,Europe,,,Austria
-Imperia (Porto Maurizio),city/part_of,Europe,,ImperiaPortoMaurizio,Kingdom of Sardinia
-Independant Indian Ocean Islands,geographical_area,Oceania,,IndependantIndianOceanIslands,
-Independant Indian Ocean Islands (other),geographical_area,Oceania,,IndependantIndianOceanIslandsother,
+Ichaboe Island,locality,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
+Illyria,locality,Europe,,,Austria-Hungary (Austrian Empire)
+Imperia (Porto Maurizio),locality,Europe,,ImperiaPortoMaurizio,Kingdom of Sardinia
+Inagua,locality,America,,,Bahamas
+Inagua & Nassau (Bahamas) & Turks and Caicos Is.,group,America,,,
+Independent Somali Ports,geographical_area,Africa,,,
 India,GPH_entity,Asia,750,India,
-India (Domestic produce),city/part_of,Asia,,,India
-India (Foreign produce),city/part_of,Asia,,,India
-India (other),city/part_of,Asia,,Indiaother,India
+India (Coast),locality,Asia,,,India
+India (Domestic produce),locality,Asia,,,India
+India (Foreign produce),locality,Asia,,,India
+India (other),locality,Asia,,Indiaother,India
 India & Japan & People's Republic of China (China),group,Asia,,India_Japan_PeoplesRepublicofChinaChina,
+India & Malaysia (British Malaya),group,Asia,,,
+India & Malaysia (British Malaya) & Sri Lanka (Ceylon),group,Asia,,,
 India & Mauritius,group,World,,India_Mauritius,
 India & Myanmar (Burma),group,Asia,,India_MyanmarBurma,
+India & Myanmar (Burma) & Sri Lanka (Ceylon),group,Asia,,,
 India & Myanmar (Burma) & Straits Settlements,group,Asia,,India_MyanmarBurma_StraitsSettlements,
 India & New South Wales & United Kingdom,group,World,,India_NewSouthWales_UnitedKingdom,
 India & Pacific Islands & People's Republic of China (China),group,World,,India_PacificIslands_PeoplesRepublicofChinaChina,
 India & People's Republic of China (China),group,Asia,,India_PeoplesRepublicofChinaChina,
 India & People's Republic of China (China) & Singapore,group,Asia,,India_PeoplesRepublicofChinaChina_Singapore,
+India & Pondicherry,group,Asia,,,
 India & Sri Lanka (Ceylon),group,Asia,,India_SriLankaCeylon,
 India & Straits Settlements,group,Asia,,India_StraitsSettlements,
-Indian Archipelago,geographical_area,Asia,,IndianArchipelago,
-Indian Coast,city/part_of,Asia,,,India
 Indian Ocean Islands,geographical_area,Oceania,,IndianOceanIslands,
-Indian Ocean Islands (British),colonial_area,Oceania,,,United Kingdom
-Indian Ocean Islands (other),geographical_area,Oceania,,IndianOceanIslandsother,
-Indian Ocean Islands (other) & Java & Sumatra,geographical_area,Asia,,IndianOceanIslandsother_Java_Sumatra,
-Indian Ports (other),city/part_of,Asia,,,India
-Indian Ports (other) & Karachi & Mumbai (Bombay),group,Asia,,IndianPortsother_Karachi_MumbaiBombay,
-Indian Ports (other) & Mumbai (Bombay),group,Asia,,IndianPortsother_MumbaiBombay,
-Indian Transit,city/part_of,Africa,,,Egypt Arab Republic (Egypt)
+Indian Ocean Islands (other),locality,Oceania,,IndianOceanIslandsother,Indian Ocean Islands
+Indian Ocean Islands (other) & Java & Sumatra,group,Asia,,IndianOceanIslandsother_Java_Sumatra,
+Indian Transit,locality,Africa,,,Egypt Arab Republic (Egypt)
 Indonesia (Dutch East Indies),GPH_entity,Asia,850,IndonesiaDutchEastIndies,
-Indonesia (Dutch East Indies) (other),city/part_of,Asia,,IndonesiaDutchEastIndiesother,Indonesia (Dutch East Indies)
+Indonesia (Dutch East Indies) (other),locality,Asia,,IndonesiaDutchEastIndiesother,Indonesia (Dutch East Indies)
 Indonesia (Dutch East Indies) (other) & Java,group,Asia,,IndonesiaDutchEastIndiesother_Java,
+Indonesia (Dutch East Indies) (other) & Java & Sumatra,group,Asia,,,
 Indonesia (Dutch East Indies) & Netherlands Antilles,group,World,,,
+Indonesia (Dutch East Indies) & Philippines,group,Asia,,,
+Inhambane,locality,Africa,,,Mozambique (Portuguese East Africa)
 International waters,geographical_area,World,,Internationalwaters,
 Ionian Is.,GPH_entity,Europe,3349,IonianIs.,
 Ionian Is. & Malta,group,Europe,,IonianIs._Malta,
 Ionian Is. & Malta & United Kingdom,group,Europe,,IonianIs._Malta_UnitedKingdom,
 Ionian Is. & Morea,group,Europe,,IonianIs._Morea,
+Ionian Is. & Republic of St. Mark & Trieste,group,Europe,,,
 Ionian Is. & United Kingdom,group,Europe,,IonianIs._UnitedKingdom,
-Iquique,city/part_of,America,,Iquique,Chile
+Iquique,locality,America,,Iquique,Chile
 Iran (Persia),GPH_entity,Asia,630,IranPersia,
+Iran (Persia) & Iraq (Mesopotamia),group,Asia,,,
+Iran (Persia) & Western Anatolia,group,Asia,,,
 Iraq (Mesopotamia),GPH_entity,Asia,645,IraqMesopotamia,
+Iraq (Mesopotamia) (other),locality,Asia,,,Iraq (Mesopotamia)
 Iraq (Mesopotamia) & Kuwait,group,Asia,,,
 Ireland,GPH_entity,Europe,205,Ireland,
+Ireland (other),locality,Europe,,,Ireland
 Ireland & United Kingdom,group,Europe,,Ireland_UnitedKingdom,
-Isle of Man,city/part_of,Europe,,,United Kingdom
+Isle of Man,GPH_entity,Europe,2004,,
 Israel,GPH_entity,Asia,666,Israel,
-Istanbul (Constantinople),city/part_of,Asia,,,Turkey (Ottoman Empire)
-Istanbul (Constantinople) & Izmir (Smyrna),group,Asia,,,Turkey (Ottoman Empire)
-Istanbul (Constantinople) & Turkish Ports,group,Asia,,,Turkey (Ottoman Empire)
+Istanbul (Constantinople),locality,Asia,,,Turkey (Ottoman Empire)
+Istanbul (Constantinople) & Izmir (Smyrna),group,Asia,,,
+Istanbul (Constantinople) & Turkey (Ottoman Empire) (other),group,Asia,,,
 Italian Africa,colonial_area,Africa,,ItalianAfrica,Italy
-Italian Africa (other),colonial_area,Africa,,,Italy
+Italian Africa (other),locality,Africa,,,Italian Africa
+Italian Asia,colonial_area,Asia,,,Italy
 Italian Austria,colonial_area,Europe,,ItalianAustria,Italy
 Italian Colonies,colonial_area,World,,ItalianColonies,Italy
+Italian Colonies (other),locality,World,,,Italian Colonies
 Italian Colonies & Italy,group,World,,ItalianColonies_Italy,
-Italian East Africa,colonial_area,Africa,,ItalianEastAfrica,Italy
+Italian East Africa,GPH_entity,Africa,5201,ItalianEastAfrica,
+Italian Eastern Africa,colonial_area,Africa,,,
+Italian Eastern Africa (other),locality,Africa,,,Italian Eastern Africa
 Italian Somaliland,GPH_entity,Africa,5200,ItalianSomaliland,
 Italy,GPH_entity,Europe,325,Italy,
-Italy (other),city/part_of,Europe,,Italyother,Italy
+Italy (other),locality,Europe,,Italyother,Italy
+Italy & Malta,group,Europe,,,
 Italy & Sardinia,group,Europe,,Italy_Sardinia,
+Italy & Sicily,group,Europe,,,
 Ivory Coast,GPH_entity,Africa,437,IvoryCoast,
-Izmir (Smyrna),city/part_of,Asia,,IzmirSmyrna,Turkey (Ottoman Empire)
-Jérémie,city/part_of,America,,Jérémie,Haiti
-Jacmel,city/part_of,America,,Jacmel,Haiti
-Jakarta (Batavia),city/part_of,Asia,,JakartaBatavia,Indonesia (Dutch East Indies)
+Izmir (Smyrna),locality,Asia,,IzmirSmyrna,Turkey (Ottoman Empire)
+Jacmel,locality,America,,Jacmel,Haiti
+Jaffa,locality,Asia,,,Israel
+Jakarta (Batavia),locality,Asia,,JakartaBatavia,Indonesia (Dutch East Indies)
 Jakarta (Batavia) & Java & Sumatra,group,Asia,,JakartaBatavia_Java_Sumatra,
+Jakarta (Batavia) & People's Republic of China (China),group,Asia,,,
 Jakarta (Batavia) & Singapore,group,Asia,,JakartaBatavia_Singapore,
 Jamaica,GPH_entity,America,51,Jamaica,
 Jamaica & Jamaica Dependencies,group,World,,,
-Jamaica Dependencies,city/part_of,America,,,Jamaica
+Jamaica Dependencies,locality,America,,,Jamaica
 Japan,GPH_entity,Asia,740,Japan,
-Japan & Japanese China Leased Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
+Japan & Japanese China & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & Korea (Chosen),group,Asia,,,
-Japan & Kwangtung Territory (Leased) & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_KwangtungTerritoryLeased_RepublicofChinaTaiwanFormosa,
+Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa),group,Asia,,,
+Japan & Kwangtung Territory & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & People's Republic of China (China),group,Asia,,Japan_PeoplesRepublicofChinaChina,
+Japan & People's Republic of China (China) & Thailand (Siam),group,Asia,,,
 Japan & Republic of China (Taiwan) (Formosa),group,Asia,,Japan_RepublicofChinaTaiwanFormosa,
 Japan & Southern Sakhalin I.,group,Asia,,Japan_SouthernSakhalinI.,
-Japan China,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
-Japan Islands,city/part_of,Asia,,JapanIslands,Japan
-Japanese China Leased Territory,colonial_area,Asia,,,Japan
-Java,city/part_of,Asia,,Java,Indonesia (Dutch East Indies)
-Java (English flag),city/part_of,Asia,,JavaEnglishflag,Indonesia (Dutch East Indies)
-Java (foreign flag),city/part_of,Asia,,Javaforeignflag,Indonesia (Dutch East Indies)
-Java & Madura Island,group,Asia,,Java_MaduraIsland,
-Java & Maluku Islands (Mollucas),group,Asia,,Java_MalukuIslandsMollucas,
+Japan Islands,locality,Asia,,JapanIslands,Japan
+Japanese China,colonial_area,Asia,,,Japan
+Japanese Colonies,colonial_area,World,,,Japan
+Japanese Oceania,colonial_area,Oceania,,,Japan
+Java,locality,Asia,,Java,Indonesia (Dutch East Indies)
+Java (English flag),locality,Asia,,JavaEnglishflag,Indonesia (Dutch East Indies)
+Java (foreign flag),locality,Asia,,Javaforeignflag,Indonesia (Dutch East Indies)
+Java & Madura,group,Asia,,Java_MaduraIsland,
+Java & Maluku (Mollucas),group,Asia,,Java_MalukuIslandsMollucas,
 Java & Sumatra,group,Asia,,Java_Sumatra,
-Jeddah,city/part_of,Africa,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd)
-Jersey,city/part_of,Europe,,,United Kingdom
-Jerusalem,city/part_of,Asia,,Jerusalem,Turkey (Ottoman Empire)
+Java & Sumatra & Sulawesi (Celebes),group,Asia,,Othercountries_SulawesiCelebes,
+Jebba,locality,Africa,,,Nigeria
+Jebel Druze,GPH_entity,Asia,6527,,
+Jebel Druze & Latakia (Alaouites) & Lebanon & Syria,group,Asia,,,
+Jeddah,locality,Africa,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+Jérémie,locality,America,,J�r�mie,Haiti
+Jersey,locality,Europe,,,Channel Is.
+Jerusalem,locality,Asia,,Jerusalem,Turkey (Ottoman Empire)
 Johore,GPH_entity,Asia,8221,Johore,
 Johore & Kedah & Kelantan & Perlis & Trengganu,group,Asia,,Johore_Kedah_Kelantan_Perlis_Trengganu,
-Jolo,city/part_of,Asia,,Jolo,Philippines
+Jolo,locality,Asia,,Jolo,Philippines
 Jordan (Transjordan),GPH_entity,Asia,663,JordanTransjordan,
 Jordan (Transjordan) & Palestine,group,Asia,,,
-Kabinda (Portuguese Congo),city/part_of,Africa,,,Angola
-Kaliningrad (Königsberg),city/part_of,Europe,,KaliningradKönigsberg,Prussia
-Kamchatka,city/part_of,Asia,,RussiaUSSR,Russia (USSR)
+Juan de Nova I.,GPH_entity,Africa,5807,,
+Juan Griego,locality,America,,,Margarita I.
+Kakinada,locality,Asia,,,India
+Kalingapatnam,locality,Asia,,,India
+Kaliningrad (Königsberg),locality,Europe,,KaliningradK�nigsberg,Prussia
+Kamchatka,locality,Asia,,RussiaUSSR,Russia (USSR)
 Kamerun,GPH_entity,Africa,470,Kamerun,
-Kanagawa,city/part_of,Asia,,Kanagawa,Japan
-Karachi,city/part_of,Asia,,Karachi,India
+Kanagawa,locality,Asia,,Kanagawa,Japan
+Karachi,locality,Asia,,Karachi,India
+Karachi & Kolkata (Calcutta) & Mumbai (Bombay),group,Asia,,,
 Karachi & Mumbai (Bombay),group,Asia,,Karachi_MumbaiBombay,
-Karaikal,city/part_of,Asia,,Karaikal,French India
-Kastellorizo,city/part_of,Europe,,,Dodecanese Is. (Aegean Is.)
+Karaikal,locality,Asia,,Karaikal,French India
+Kastellorizo,locality,Europe,,,Dodecanese Is. (Aegean Is.)
 Kedah,GPH_entity,Asia,8222,Kedah,
 Kelantan,GPH_entity,Asia,8223,Kelantan,
+Kennedy I.,locality,Oceania,,,Solomon Islands (British Solomon Islands Protectorate)
 Kenya (British East Africa Protectorate),GPH_entity,Africa,501,KenyaBritishEastAfricaProtectorate,
 Kenya (British East Africa Protectorate) & Malawi (Nyasaland) (British Central Africa Protectorate),group,Africa,,KenyaBritishEastAfricaProtectorate_MalawiNyasalandBritishCentralAfricaProtectorate,
+Kenya (British East Africa Protectorate) & Pemba Island & Zanzibar,group,Africa,,,
+Kenya (British East Africa Protectorate) & Tanzania (Tanganyika) & Uganda,group,Africa,,,
 Kenya (British East Africa Protectorate) & Uganda,group,Africa,,KenyaBritishEastAfricaProtectorate_Uganda,
 Kenya (British East Africa Protectorate) & Zanzibar,group,Africa,,KenyaBritishEastAfricaProtectorate_Zanzibar,
-Kerguelen Is.,GPH_entity,Antarctic,9973,,
+Kerguelen Is.,GPH_entity,Oceania,9973,,
 Kerguelen Is. & Madagascar (Malagasy Republic),group,World,,KerguelenIs_MadagascarMalagasyRepublic,
-Khar,city/part_of,Africa,,Khar,Somalia
+Keta,locality,Africa,,,Volta Region
+Key River,locality,America,,,Ontario (Upper Canada)
+Khar,locality,Africa,,Khar,Somalia
 Khiva,GPH_entity,Asia,7030,Khiva,
-Khorramshahr (Mohammerah),city/part_of,Asia,,KhorramshahrMohammerah,Turkey (Ottoman Empire)
-Kiauchau,GPH_entity,Asia,7220,Kiauchau,
+Khorramshahr (Mohammerah),locality,Asia,,KhorramshahrMohammerah,Turkey (Ottoman Empire)
+Kiauchau,GPH_entity,Asia,7120,Kiauchau,
 Kingdom of Sardinia,GPH_entity,Europe,324,KingdomofSardinia,
-Kingdom of Sardinia (land),city/part_of,Europe,,KingdomofSardinialand,Kingdom of Sardinia
+Kingdom of Sardinia (continental),locality,Europe,,KingdomofSardinialand,Kingdom of Sardinia
 Kingdom of Sardinia & Monaco,group,Europe,,KingdomofSardinia_Monaco,
+Kingdom of Sardinia & Papal States & Tuscany & Two Sicilies,group,Europe,,,
 Kingdom of Sardinia & Papal States & Two Sicilies,group,Europe,,KingdomofSardinia_PapalStates_TwoSicilies,
 Kingdom of Sardinia & Tuscany,group,Europe,,KingdomofSardinia_Tuscany,
+Kingdom of Sardinia & Tuscany & Two Sicilies,group,Europe,,,
 Kingdom of Sardinia & Two Sicilies,group,Europe,,KingdomofSardinia_TwoSicilies,
 Kingdom of Serbia,GPH_entity,Europe,342,KingdomofSerbia,
 Kingdom of Serbia & Montenegro,group,Europe,,KingdomofSerbia_Montenegro,
 Kingdom of Serbia & Montenegro & Romania,group,Europe,,,
+Kingston,locality,America,,,Jamaica
 Kiribati,GPH_entity,Oceania,946,Kiribati,
-Klaipėda (Memel),city/part_of,Europe,,KlaipėdaMemel,Prussia
-Kniphausen,city/part_of,Europe,,,Oldenburg
+Klaipėda (Memel),locality,Europe,,Klaip?daMemel,Prussia
+Kniphausen,locality,Europe,,,Oldenburg
 Kniphausen & Oldenburg,group,Europe,,Kniphausen_Oldenburg,
 Kokand,GPH_entity,Asia,7010,Kokand,
-Kolkata (Calcutta),city/part_of,Asia,,KolkataCalcutta,India
+Kolkata (Calcutta),locality,Asia,,KolkataCalcutta,India
 Kolkata (Calcutta) & Sri Lanka (Ceylon),group,Asia,,KolkataCalcutta_SriLankaCeylon,
-Kongpot,city/part_of,Asia,,Kongpot,
+Kongpot,locality,Asia,,Kongpot,***NA
 Kordofan,GPH_entity,Africa,6253,,
 Korea (Chosen),GPH_entity,Asia,730,KoreaChosen,
-Kos,city/part_of,Europe,,,Dodecanese Is. (Aegean Is.)
-Koszalin,city/part_of,Europe,,Koszalin,Prussia
+Kos,locality,Europe,,,Dodecanese Is. (Aegean Is.)
+Koszalin,locality,Europe,,Koszalin,Prussia
 Koszalin & Stralsund & Szczecin,group,Europe,,Koszalin_Stralsund_Szczecin,
-Kuddalore,city/part_of,Asia,,Kuddalore,India
-Kurdistan,city/part_of,Asia,,Kurdistan,Turkey (Ottoman Empire)
+Kresy,GPH_entity,Europe,3659,,
+Kribi,locality,Africa,,,Kamerun
+Kroo Coast,locality,Africa,,,Sierra Leone
+Kuddalore,locality,Asia,,Kuddalore,India
+Kurdistan,locality,Asia,,Kurdistan,Turkey (Ottoman Empire)
 Kuria Muria Is.,GPH_entity,Asia,6982,,
 Kuwait,GPH_entity,Asia,690,Kuwait,
 Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,Kuwait_OmanSultanateofMuscatandOman_UnitedArabEmiratesTrucialOman,
 Kwanchowan,GPH_entity,Asia,7110,Kwanchowan,
-Kwangtung Territory (Leased),GPH_entity,Asia,7104,KwangtungTerritoryLeased,
-Kwangtung Territory (Leased) & Manchukuo,group,Asia,,,
+Kwangtung Territory,GPH_entity,Asia,7104,,
+Kwangtung Territory & Manchukuo,group,Asia,,,
 Kyrgyzstan,GPH_entity,Asia,703,Kyrgyzstan,
-La Guaira,city/part_of,America,,,Venezuela
-Lübeck,GPH_entity,Europe,276,Lubeck,
-Lübeck & Mecklenburg Schwerin & Other countries,geographical_area,World,,Lubeck_MecklenburgSchwerin_Othercountries,
-Lüneburg,city/part_of,Europe,,,Hanover
-Labrador,city/part_of,America,,,Quebec (Lower Canada)
+La Goulette,locality,Africa,,,Tunisia (Regency of Tunis)
+La Guaira,locality,America,,,Venezuela
+Labrador,locality,America,,,Quebec (Lower Canada)
 Labuan I.,GPH_entity,Asia,8231,LabuanI.,
 Labuan I. & Straits Settlements,group,Asia,,,
+Laccadive Islands,locality,Asia,,,India
+Lacepede Is.,locality,Oceania,,,Western Australia
 Lagos,GPH_entity,Africa,4781,Lagos,
-Larnaca,city/part_of,Europe,,Larnaca,Turkey (Ottoman Empire)
-Las Palmas,city/part_of,Africa,,CanaryIs,Canary Is.
+Lagos (French produce),locality,Africa,,,Lagos
+Laos,GPH_entity,Asia,812,,
+Larnaca,locality,Europe,,Larnaca,Turkey (Ottoman Empire)
+Las Palmas,locality,Africa,,CanaryIs,Canary Is.
+Latakia (Alaouites),GPH_entity,Asia,6526,,
+Latakia (Alaouites) & Tripoli (Syria),group,Asia,,,
 Latvia,GPH_entity,Europe,367,Latvia,
 Latvia & Lithuania,group,Europe,,,
-Lauenburg,GPH_entity,Europe,2246,Lauenburg,
-Le Havre,city/part_of,Europe,,LeHavre,France
+Saxe Lauenburg,GPH_entity,Europe,2246,Lauenburg,
+Holstein & Saxe Lauenburg & Schleswig,group,Europe,,Holstein_Lauenburg_Schleswig,
+Le Havre,locality,Europe,,LeHavre,France
 Lebanon,GPH_entity,Asia,660,Lebanon,
 Lebanon & Syria,group,Asia,,Lebanon_Syria,
 Leeward Coast of Africa,geographical_area,Africa,,LeewardCoastofAfrica,
+Leeward Coast of Africa (British),geographical_area,Africa,,,
+Leeward Coast of Africa (non British),geographical_area,Africa,,,
 Leeward Is.,GPH_entity,America,1063,LeewardIs.,
-Leros,city/part_of,Europe,,,Dodecanese Is. (Aegean Is.)
-Les Cayes,city/part_of,America,,LesCayes,Haiti
+Leros,locality,Europe,,,Dodecanese Is. (Aegean Is.)
+Les Cayes,locality,America,,LesCayes,Haiti
 Lesotho (Basutoland),GPH_entity,Africa,570,LesothoBasutoland,
+Lesser Antilles,geographical_area,America,,,
 Levant,geographical_area,Asia,,Levant,
-Levant & Turkey (Ottoman Empire),geographical_area,Asia,,,
+Levant & Turkey (Ottoman Empire),group,Asia,,,
 Liberia,GPH_entity,Africa,450,Liberia,
 Libya,GPH_entity,Africa,620,LibyaTripolitaniaCyrenaicaFezzan,
+Libya & Tunisia (Regency of Tunis),group,Africa,,,
 Liechtenstein,GPH_entity,Europe,223,,
-Liepãja,city/part_of,Europe,,Liepãja,Latvia
-Lisbon,city/part_of,Europe,,Lisbon,Portugal
+Liepãja,locality,Europe,,Liep�ja,Latvia
+Lingga Is.,locality,Asia,,,Riau
+Lingga Is. & Riau,group,Asia,,,
+Lisbon,locality,Europe,,Lisbon,Portugal
 Lisbon & Porto,group,Europe,,Lisbon_Porto,
 Lithuania,GPH_entity,Europe,368,Lithuania,
 Lithuania & Memel,group,Europe,,Lithuania_Memel,
-Liverpool,city/part_of,Europe,,Liverpool,United Kingdom
-Livorno,city/part_of,Europe,,Livorno,Tuscany
+Liverpool,locality,Europe,,Liverpool,United Kingdom
+Livorno,locality,Europe,,Livorno,Tuscany
+Loanda,locality,Africa,,,Gabon
+Loango,locality,Africa,,,Congo (Brazzaville) (French Congo) (Middle Congo)
+Lokoja,locality,Africa,,,Nigeria
 Lombardy-Venetia,GPH_entity,Europe,3262,Lombardy-Venetia,
-Lombok,GPH_entity,Oceania,8542,Lombok,
-London,city/part_of,Europe,,London,United Kingdom
-Loyalty Is.,city/part_of,Oceania,,,New Caledonia and Dependencies
+Lombok,GPH_entity,Oceania,8510,Lombok,
+Lomé,locality,Africa,,,Togo (French Togoland)
+London,locality,Europe,,London,United Kingdom
+Long I.,locality,Africa,,,Seychelles
+Loos Is.,GPH_entity,Africa,4383,,
+Lord Howe I.,GPH_entity,Oceania,9007,,
+Los Testigos Is.,locality,America,,,Venezuela
+Louisiana,GPH_entity,America,1013,,
+Loyalty Is.,locality,Oceania,,,New Caledonia and Dependencies
+Luanda,locality,Africa,,,Angola
+Lübeck,GPH_entity,Europe,276,Lubeck,
+Lübeck & Mecklenburg Schwerin & World (other),group,World,,Lubeck_MecklenburgSchwerin_Othercountries,
 Lucca,GPH_entity,Europe,336,Lucca,
 Lucca & Modena & Papal States & Parma & Tuscany,group,Europe,,Lucca_Modena_PapalStates_Parma_Tuscany,
 Lucca & Monaco & Papal States,group,Europe,,Lucca_Monaco_PapalStates,
 Lucca & Papal States,group,Europe,,Lucca_PapalStates,
 Lucca & Tuscany,group,Europe,,Lucca_Tuscany,
+Lunenburg,locality,America,,,Nova Scotia
+Lüshun Port (Port Arthur),GPH_entity,Asia,7134,,
 Luxemburg,GPH_entity,Europe,212,Luxemburg,
-Málaga,city/part_of,Europe,,Málaga,Spain
 Macao,GPH_entity,Asia,721,Macao,
 Macao & People's Republic of China (China),group,Asia,,Macao_PeoplesRepublicofChinaChina,
+Machilipatnam,locality,Asia,,,India
 Macquarie I.,GPH_entity,Oceania,9006,,
 Madagascar (Malagasy Republic),GPH_entity,Africa,580,MadagascarMalagasyRepublic,
+Madagascar (Malagasy Republic) (French produce),locality,Africa,,,Madagascar (Malagasy Republic)
+Madagascar (Malagasy Republic) (other),locality,Africa,,,Madagascar (Malagasy Republic)
 Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,group,Africa,,MadagascarMalagasyRepublic_MalagasyRepublicMadagascarDependencies,
+Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.),group,Africa,,,
 Madagascar (Malagasy Republic) & Mayotte & Nossi Be,group,Africa,,MadagascarMalagasyRepublic_Mayotte_NossiBe,
 Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,group,Africa,,MadagascarMalagasyRepublic_Mayotte_NossiBe_StMariedeMadagascar,
-Madagascar (Malagasy Republic) Dependencies,city/part_of,Africa,,,Madagascar (Malagasy Republic)
+Madagascar (Malagasy Republic) & Reunion (Bourbon I.),group,Africa,,,
+Madagascar (Malagasy Republic) Dependencies,locality,Africa,,,Madagascar (Malagasy Republic)
 Madeira Isles,GPH_entity,Africa,401,MadeiraIsles,
 Madeira Isles & Portugal,group,World,,MadeiraIsles_Portugal,
-Madura Island,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Makatea Is.,city/part_of,Oceania,,,French Polynesia
-Makran,city/part_of,Asia,,,Pakistan
+Madeira Isles & Portuguese Africa,group,Africa,,,
+Madeira Isles & Tenerife,group,Africa,,,
+Madura,locality,Asia,,,Indonesia (Dutch East Indies)
+Mafia I.,GPH_entity,Africa,5109,,
+Mahé,locality,Asia,,,French India
+Majorca,locality,Europe,,,Balearic Islands
+Makatea Is.,locality,Oceania,,,French Polynesia
+Makran,locality,Asia,,,Pakistan
 Makran & Sonmiani,group,Asia,,Makran_Sonmiani,
-Malabar Coast,city/part_of,Asia,,MalabarCoast,India
+Malabar Coast,GPH_entity,Asia,7506,MalabarCoast,
+Malabar Coast & Mumbai (Bombay),group,Asia,,,
 Malacca,GPH_entity,Asia,8271,Malacca,
 Malacca & Myanmar (Burma) & Singapore,group,Asia,,Malacca_MyanmarBurma_Singapore,
 Malacca & Penang,group,Asia,,Malacca_Penang,
 Malacca & Penang & Singapore,group,Asia,,Malacca_Penang_Singapore,
+Malacca & Singapore,group,Asia,,,
+Málaga,locality,Europe,,M�laga,Spain
 Malawi (Nyasaland) (British Central Africa Protectorate),GPH_entity,Africa,553,MalawiNyasalandBritishCentralAfricaProtectorate,
 Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,group,World,,MalawiNyasalandBritishCentralAfricaProtectorate_StraitsSettlements_StraitsSettlementsDependencies,
 Malaysia (British Malaya),GPH_entity,Asia,820,MalaysiaMalaya,
-Malaysia (British Malaya) (East),city/part_of,Asia,,,Malaysia (British Malaya)
-Malaysia (British Malaya) (other),city/part_of,Asia,,,Malaysia (British Malaya)
-Malaysia (British Malaya) (West),city/part_of,Asia,,,Malaysia (British Malaya)
+Malaysia (British Malaya) (East),locality,Asia,,,Malaysia (British Malaya)
+Malaysia (British Malaya) (other),locality,Asia,,,Malaysia (British Malaya)
+Malaysia (British Malaya) (West),locality,Asia,,,Malaysia (British Malaya)
 Malaysia (British Malaya) & Sarawak,group,Asia,,,
 Malaysia (British Malaya) & Straits Settlements,group,Asia,,MalaysiaMalaya_StraitsSettlements,
 Malaysia (British Malaya) & Sumatra,group,Asia,,MalaysiaMalaya_Sumatra,
 Malden I.,GPH_entity,Oceania,9462,MaldenI.,
 Maldive Islands,GPH_entity,Asia,781,MaldiveIslands,
+Malgas I.,locality,Africa,,,South Africa
 Mali (French Sudan) (Upper Senegal and Niger),GPH_entity,Africa,432,MaliFrenchSudanUpperSenegalandNiger,
+Mali (French Sudan) (Upper Senegal and Niger) & Senegal,group,Africa,,,
 Malta,GPH_entity,Europe,338,Malta,
+Malta & Two Sicilies,group,Europe,,,
 Malta & United Kingdom,group,Europe,,Malta_UnitedKingdom,
-Maluku Islands (Mollucas),city/part_of,Asia,,MalukuIslandsMollucas,Indonesia (Dutch East Indies)
-Maluku Islands (Mollucas) & Sulawesi (Celebes),group,Asia,,MalukuIslandsMollucas_SulawesiCelebes,
+Maluku (Mollucas),locality,Asia,,MalukuIslandsMollucas,Indonesia (Dutch East Indies)
+Maluku (Mollucas) & Sulawesi (Celebes),group,Asia,,MalukuIslandsMollucas_SulawesiCelebes,
+Maluku (Mollucas) & Sunda Islands,group,Asia,,,
 Manchukuo,GPH_entity,Asia,711,,
+Manchukuo & Mongolia & People's Republic of China (China) & Tibet,group,Asia,,,
 Manchuria,GPH_entity,Asia,7111,Manchuria,
 Manchuria & Mongolia & People's Republic of China (China),group,Asia,,Manchuria_Mongolia_PeoplesRepublicofChinaChina,
 Manchuria & People's Republic of China (China),group,Asia,,Manchuria_PeoplesRepublicofChinaChina,
-Manila,city/part_of,Asia,,Manila,Philippines
-Manitoba,city/part_of,America,,Manitoba,Canada (Province of Canada)
+Mangalore,locality,Asia,,,India
+Manica Province,locality,Africa,,,Mozambique (Portuguese East Africa)
+Manica Province & Sofala Province,group,Africa,,,
+Manila,locality,Asia,,Manila,Philippines
+Manitoba,GPH_entity,America,10204,Manitoba,
 Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,group,America,,Manitoba_NorthwestTerritories_OntarioUpperCanada_QuebecLowerCanada_RupertsLand,
-Maputo Bay (Delagoa Bay),city/part_of,Africa,,MaputoBayDelagoaBay,Mozambique
-Maranhão,city/part_of,America,,Maranhão,Brazil
+Manitoba & Northwest Territories & Ontario (Upper Canada) & Quebec (Lower Canada),group,America,,,
+Manjung (Dindings),GPH_entity,Asia,8218,,
+Maputo,locality,Africa,,,Mozambique (Portuguese East Africa)
+Maputo Bay (Delagoa Bay),locality,Africa,,MaputoBayDelagoaBay,Mozambique (Portuguese East Africa)
+Maranhão,locality,America,,Maranh�o,Brazil
+Margarita I.,locality,America,,,Venezuela
 Mariana Is.,GPH_entity,Oceania,9820,MarianaIs.,
 Mariana Is. & Philippines,group,World,,MarianaIs._Philippines,
-Marie-Galante,city/part_of,America,,Marie-Galante,Guadeloupe
-Marseille,city/part_of,Europe,,Marseille,France
+Marie-Galante,locality,America,,Marie-Galante,Guadeloupe
+Marquesas Is.,GPH_entity,Oceania,9602,,
+Marseille,locality,Europe,,Marseille,France
 Marshall Is.,GPH_entity,Oceania,983,,
+Marshall Is. & Samoa,group,Oceania,,,
 Martinique,GPH_entity,America,66,Martinique,
-Massa and Carrara,city/part_of,Europe,,MassaandCarrara,Tuscany
-Massawah,city/part_of,Africa,,,Eritrea
+Massa and Carrara,locality,Europe,,MassaandCarrara,Tuscany
+Massawah,locality,Africa,,,Eritrea
 Mauritania,GPH_entity,Africa,435,,
 Mauritius,GPH_entity,Africa,590,Mauritius,
 Mauritius & Mauritius Dependencies,group,World,,,
 Mauritius & Mauritius Dependencies & Seychelles,group,World,,,
 Mauritius & Reunion (Bourbon I.),group,Africa,,Mauritius_Reunion,
-Mauritius & Reunion (Bourbon I.) & West Indies,geographical_area,World,,,
+Mauritius & Reunion (Bourbon I.) & West Indies,group,World,,,
 Mauritius & South Africa,group,Africa,,Mauritius_SouthAfrica,
-Mauritius Dependencies,city/part_of,Africa,,,Mauritius
-Mawlamyine,city/part_of,Asia,,Mawlamyine,Myanmar (Burma)
+Mauritius Dependencies,locality,Africa,,,Mauritius
+Mawlamyine,locality,Asia,,Mawlamyine,Myanmar (Burma)
 Mawlamyine & Rangoon,group,Asia,,Mawlamyine_Rangoon,
 Mayotte,GPH_entity,Africa,5812,Mayotte,
 Mayotte & Nossi Be,group,Africa,,,
 Mayotte & Nossi Be & St. Marie de Madagascar,group,Africa,,Mayotte_NossiBe_StMariedeMadagascar,
-Mazatlán,city/part_of,America,,Mazatlán,Mexico
-Mecca,city/part_of,Asia,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd)
-Mecca & Persian Gulf,geographical_area,Asia,,Mecca_PersianGulf,
+Mayumba,locality,Africa,,,Gabon
+Mazatlán,locality,America,,Mazatl�n,Mexico
+Mazeppa Bay,locality,Africa,,,Cape Colony (Cape of Good Hope)
+Mecca,locality,Asia,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+Mecca & Persian Gulf,group,Asia,,Mecca_PersianGulf,
 Mecklenburg Schwerin,GPH_entity,Europe,280,MecklenburgSchwerin,
+Mecklenburg Schwerin & Lübeck,group,Europe,,,
 Mecklenburg Schwerin & Oldenburg,group,Europe,,MecklenburgSchwerin_Oldenburg,
-Mediterranean Ports,geographical_area,Europe,,,
+Mediterranean Sea,geographical_area,World,,,
+Mediterranean Sea (Africa),geographical_area,Africa,,,
+Mediterranean Sea (Asia),geographical_area,Asia,,,
+Mediterranean Sea (Europe),geographical_area,Europe,,,
+Melanesia,geographical_area,Oceania,,,
+Melbourne,locality,Oceania,,,Victoria
 Melilla,GPH_entity,Africa,6064,Melilla,
 Memel,GPH_entity,Europe,3363,Memel,
-Mercury Islands,city/part_of,Oceania,,MercuryIslands,New Zealand
-Mexican East Coast,city/part_of,America,,MexicanEastCoast,Mexico
+Mercury Islands,locality,Oceania,,MercuryIslands,New Zealand
+Messina,locality,Europe,,,Sicily
 Mexico,GPH_entity,America,70,Mexico,
+Mexico (East),locality,America,,MexicanEastCoast,Mexico
+Mexico (other),locality,America,,,Mexico
+Mexico (West),locality,America,,,Mexico
+Mexico & Northern America (other),group,America,,,
 Mexico & Texas,group,America,,Mexico_Texas,
 Mexico & Venezuela,group,America,,Mexico_Venezuela,
-Mexico & West Indies,geographical_area,America,,,
-Middle-East,geographical_area,Asia,,,
+Mexico & West Indies,group,America,,,
+Micronesia,geographical_area,Oceania,,,
 Milan,GPH_entity,Europe,3253,,
 Milan & Papal States & Tuscany,group,Europe,,Milan_PapalStates_Tuscany,
-Mocha,city/part_of,Asia,,Mocha,Aden
+Moçâmedes,locality,Africa,,,Angola
+Mocha,locality,Asia,,Mocha,Aden
 Modena,GPH_entity,Europe,332,,
+Modena & Monaco & Parma & Tuscany,group,Europe,,,
 Modena & Parma & Tuscany,group,Europe,,Modena_Parma_Tuscany,
+Moheli,GPH_entity,Africa,5814,,
 Moldavia,GPH_entity,Europe,3361,Moldavia,
 Moldavia & Wallachia,group,Europe,,Moldavia_Wallachia,
 Mombassa,GPH_entity,Africa,5012,,
 Monaco,GPH_entity,Europe,221,Monaco,
 Mongolia,GPH_entity,Asia,712,Mongolia,
 Mongolia & People's Republic of China (China),group,Asia,,Mongolia_PeoplesRepublicofChinaChina,
+Mongolia & People's Republic of China (China) & Tibet,group,Asia,,,
+Monrovia,locality,Africa,,,Liberia
 Montenegro,GPH_entity,Europe,341,Montenegro,
-Montevideo,city/part_of,America,,Montevideo,Uruguay
+Montenegro & Turkey (Ottoman Empire),group,World,,,
+Montevideo,locality,America,,Montevideo,Uruguay
 Montserrat,GPH_entity,America,59,Montserrat,
-Morea,city/part_of,Europe,,,Greece
+Montserrat (other),locality,America,,,Montserrat
+Morant Cays,GPH_entity,America,1053,,
+Morant Cays & Pedro Bank,group,America,,,
+Morea,locality,Europe,,,Greece
 Moresnet,GPH_entity,Europe,2111,Moresnet,
 Morocco,GPH_entity,Africa,600,Morocco,
-Morocco (other),city/part_of,Africa,,Moroccoother,Morocco
+Morocco (other),locality,Africa,,Moroccoother,Morocco
 Morocco & Tangier,group,Africa,,,
-Morocco & Tripolitania,group,Africa,,,
-Morocco & Tunisia (Tunis),group,Africa,,Morocco_Tunisia (Tunis),
-Mosul,city/part_of,Asia,,Mosul,Iraq (Mesopotamia)
-Mozambique,GPH_entity,Africa,541,Mozambique,
-Mozambique & Zambia (Northern Rhodesia),group,Africa,,Mozambique_ZambiaNorthernRhodesia,
-Mozambique & Zanzibar,group,Africa,,Mozambique_Zanzibar,
-Mumbai (Bombay),city/part_of,Asia,,MumbaiBombay,India
+Morocco & Tripolitania (Regency of Tripoli),group,Africa,,,
+Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),group,Africa,,,
+Morocco & Tunisia (Regency of Tunis),group,Africa,,Morocco_Tunisia (Regency of Tunis),
+Morondava,locality,Africa,,,Madagascar (Malagasy Republic)
+Mosquito Coast,GPH_entity,America,1081,,
+Mosul,locality,Asia,,Mosul,Iraq (Mesopotamia)
+Mozambique (Portuguese East Africa),GPH_entity,Africa,541,Mozambique,
+Mozambique (Portuguese East Africa) & Portugal,group,Africa,,,
+Mozambique (Portuguese East Africa) & Zambia (Northern Rhodesia),group,Africa,,Mozambique_ZambiaNorthernRhodesia,
+Mozambique (Portuguese East Africa) & Zanzibar,group,Africa,,Mozambique_Zanzibar,
+Mthatha River,locality,Africa,,,Cape Colony (Cape of Good Hope)
+Mumbai (Bombay),locality,Asia,,MumbaiBombay,India
+Mumbai (Bombay) (other),locality,Asia,,,Mumbai (Bombay)
 Mumbai (Bombay) & Sindh,group,Asia,,MumbaiBombay_Sindh,
 Myanmar (Burma),GPH_entity,Asia,775,MyanmarBurma,
+Myanmar (Burma) & Straits Settlements,group,Asia,,,
 Myanmar (Burma) & Thailand (Siam),group,Asia,,MyanmarBurma_ThailandSiam,
-Nagapattinam,city/part_of,Asia,,Nagapattinam,India
-Nagore,city/part_of,Asia,,Nagore,India
+Nagapattinam,locality,Asia,,Nagapattinam,India
+Nagasaki,locality,Asia,,,Japan
+Nagore,locality,Asia,,Nagore,India
+Namaqualand,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Namibia (South West Africa) (German South West Africa),GPH_entity,Africa,565,NamibiaSouthWestAfricaGermanSouthWestAfrica,
-Nantes,city/part_of,Europe,,Nantes,France
-Naples,city/part_of,Europe,,Naples,Two Sicilies
-Nassau,city/part_of,America,,Nassau,Bahamas
+Namibia (South West Africa) (German South West Africa) & South Africa,group,Africa,,,
+Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
+Nantes,locality,Europe,,Nantes,France
+Naples,locality,Europe,,Naples,Two Sicilies
+Naples & Sicily,group,Europe,,,
+Nassau (Bahamas),locality,America,,Nassau,Bahamas
 Natal,GPH_entity,Africa,562,Natal,
-Natuna Islands,city/part_of,Asia,,NatunaIslands,Indonesia (Dutch East Indies)
+Natuna,locality,Asia,,NatunaIslands,Riau
 Nauru,GPH_entity,Oceania,970,Nauru,
 Nauru & New Zealand & Samoa (Western Samoa) (German Samoa),group,Oceania,,Nauru_NewZealand_SamoaWesternSamoaGermanSamoa,
 Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,Nauru_SamoaWesternSamoaGermanSamoa,
+Navassa I.,GPH_entity,America,1044,,
 Negeri Sembilan,GPH_entity,Asia,8210,NegeriSembilan,
+Negeri Sembilan & Rembau,group,Asia,,,
 Nepal,GPH_entity,Asia,790,,
 Netherlands,GPH_entity,Europe,210,Netherlands,
+Netherlands (other),locality,Europe,,,Netherlands
 Netherlands Antilles,GPH_entity,America,68,NetherlandsAntilles,
-Netherlands Antilles (other),city/part_of,America,,,Netherlands Antilles
+Netherlands Antilles (other),locality,America,,,Netherlands Antilles
+Netherlands Antilles & Surinam (Dutch Guiana),group,America,,,
 Netherlands Antilles & West Irian (Dutch New Guinea),group,World,,NetherlandsAntilles_WestIrianDutchNewGuinea,
-Netherlands Ports,city/part_of,Europe,,,Netherlands
 Nevis,GPH_entity,America,1076,Nevis,
+New Bedford,locality,America,,,United States of America
 New Brunswick,GPH_entity,America,1023,NewBrunswick,
 New Brunswick & Nova Scotia,group,America,,NewBrunswick_NovaScotia,
 New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),group,America,,NewBrunswick_NovaScotia_OntarioUpperCanada_PrinceEdwardIs._QuebecLowerCanada,
 New Brunswick & Nova Scotia & Prince Edward Is.,group,America,,NewBrunswick_NovaScotia_PrinceEdwardIs.,
-New Caledonia,city/part_of,Oceania,,,New Caledonia and Dependencies
+New Calabar (Kalabari),GPH_entity,Africa,4793,,
+New Caledonia,locality,Oceania,,,New Caledonia and Dependencies
 New Caledonia and Dependencies,GPH_entity,Oceania,930,NewCaledoniaandDependencies,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland),GPH_entity,Oceania,912,NewGuineaGermanNewGuineaKaiserWilhelmsland,
+New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,group,World,,,
-New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,city/part_of,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
-New Orleans,city/part_of,America,,NewOrleans,United States of America
+New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,locality,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
+New Iberia,locality,America,,,Louisiana
+New Orleans,locality,America,,NewOrleans,United States of America
+New Providence,locality,America,,,Bahamas
 New South Wales,GPH_entity,Oceania,901,NewSouthWales,
 New South Wales & Queensland,group,Oceania,,NewSouthWales_Queensland,
 New South Wales & South Australia & Tasmania & Victoria,group,Oceania,,NewSouthWales_SouthAustralia_Tasmania_Victoria,
+New South Wales & Tasmania,group,Oceania,,,
 New South Wales & Western Australia,group,Oceania,,NewSouthWales_WesternAustralia,
-New York,city/part_of,America,,NewYork,United States of America
+New York,locality,America,,NewYork,United States of America
 New Zealand,GPH_entity,Oceania,920,NewZealand,
-New Zealand (North Island),city/part_of,Oceania,,NewZealandNorthIsland,New Zealand
-New Zealand (South Island),city/part_of,Oceania,,NewZealandSouthIsland,New Zealand
-New Zealand & Pacific Islands,geographical_area,Oceania,,NewZealand_PacificIslands,
+New Zealand (North Island),locality,Oceania,,NewZealandNorthIsland,New Zealand
+New Zealand (South Island),locality,Oceania,,NewZealandSouthIsland,New Zealand
+New Zealand & Pacific Islands,group,Oceania,,NewZealand_PacificIslands,
 Newfoundland and Labrador (Newfoundland),GPH_entity,America,21,NewfoundlandandLabradorNewfoundland,
+Newfoundland and Labrador (Newfoundland) (other),locality,America,,,Newfoundland and Labrador (Newfoundland)
 Newfoundland and Labrador (Newfoundland) & Prince Edward Is.,group,America,,NewfoundlandandLabradorNewfoundland_PrinceEdwardIs,
 Nicaragua,GPH_entity,America,93,Nicaragua,
-Nice,city/part_of,Europe,,Nice,Kingdom of Sardinia
+Nice,locality,Europe,,Nice,Kingdom of Sardinia
+Nickerie,locality,America,,,Surinam (Dutch Guiana)
+Nicobar Is.,GPH_entity,Asia,7502,,
 Niger,GPH_entity,Africa,436,Niger,
+Niger River,geographical_area,Africa,,,
 Nigeria,GPH_entity,Africa,475,Nigeria,
-Ningbo,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Ningbo,locality,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
 Niue I.,GPH_entity,Oceania,9253,NiueI.,
 Norfolk I.,GPH_entity,Oceania,9004,,
-North American Colonies,colonial_area,America,,NorthAmericanColonies,United Kingdom
-North German Confederation,city/part_of,Europe,,NorthGermanConfederation,
-North Germany,city/part_of,Europe,,NorthGermany,Germany (Zollverein)
+North Australia,locality,Oceania,,,Australia
+North German Confederation,locality,Europe,,NorthGermanConfederation,***NA
+North Germany,locality,Europe,,NorthGermany,Germany (Zollverein)
 North Germany & Prussia,group,Europe,,NorthGermany_Prussia,
 North Macedonia (Former Yugoslav Republic of Macedonia) (Macedonia),GPH_entity,Asia,343,NorthMacedoniaFormerYugoslavRepublicofMacedoniaMacedonia,
 North Sea,geographical_area,Europe,,NorthSea,
-North Sudan (Sudan) (Anglo-Egyptian),GPH_entity,Africa,625,NorthSudanSudanAngloEgyptian,
-North-West Africa,geographical_area,Africa,,North-WestAfrica,
-North-West America (other),geographical_area,Africa,,North-WestAmericaother,
-North-West Coast,geographical_area,,,North-WestCoast,
+North Western Africa,geographical_area,Africa,,North-WestAfrica,
+North Western America,geographical_area,America,,,
+North Western America (other),locality,America,,,North Western America
+North-Western Territory,GPH_entity,America,10200,,
 Northeastern Rhodesia,GPH_entity,Africa,5518,,
 Northern Africa,geographical_area,Africa,,,
-Northern Africa (other),geographical_area,Africa,,,
+Northern Africa (other),locality,Africa,,,Northern Africa
 Northern America,geographical_area,America,,NorthernAmerica,
-Northern America (other),geographical_area,America,,,
-Northern America & Southern America,geographical_area,America,,,
+Northern America (other),locality,America,,,Northern America
+Northern America & Southern America,group,America,,,
+Northern Cook Is.,GPH_entity,Oceania,9252,,
 Northern Europe,geographical_area,Europe,,NorthernEurope,
-Northern Ireland,city/part_of,Europe,,,United Kingdom
-Northern Italy,city/part_of,Europe,,NorthernItaly,Italy
+Northern Ireland,locality,Europe,,,United Kingdom
+Northern Italy,locality,Europe,,NorthernItaly,Italy
 Northern Nigeria (British Nigeria),GPH_entity,Africa,4784,NorthernNigeriaBritishNigeria,
-Northern Russia,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Northern Russia,locality,Europe,,RussiaUSSR,Russia (USSR)
 Northwest Territories,GPH_entity,America,10201,,
 Norway,GPH_entity,Europe,385,Norway,
+Norway & Spain & Sweden & Switzerland & United States of America,group,World,,,
 Norway & Sweden,group,Europe,,Norway_Sweden,
 Nossi Be,GPH_entity,Africa,5801,NossiBe,
+Nouméa,locality,Oceania,,,New Caledonia and Dependencies
 Nova Scotia,GPH_entity,America,1022,NovaScotia,
 Obock,GPH_entity,Africa,5222,,
 Obock & Tadjoura,group,Africa,,Obock_Tadjoura,
 Oceania,geographical_area,Oceania,,Oceania,
-Oceania (other),geographical_area,Oceania,,Oceaniaother,
+Oceania (other),locality,Oceania,,Oceaniaother,Oceania
 Odessa,GPH_entity,Europe,3694,,
-Odisha,city/part_of,Asia,,,India
+Odisha,locality,Asia,,,India
+Oil Rivers Protectorate,GPH_entity,Africa,4782,,
+Old Calabar (Efik),GPH_entity,Africa,4792,,
 Oldenburg,GPH_entity,Europe,257,Oldenburg,
 Oldenburg & Prussia,group,Europe,,Oldenburg_Prussia,
+Oldenburg & Wilhelmshaven,group,Europe,,,
 Oman (Sultanate of Muscat and Oman),GPH_entity,Asia,698,OmanSultanateofMuscatandOman,
 Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oman),group,Asia,,OmanSultanateofMuscatandOman_UnitedArabEmiratesTrucialOman,
 Oman (Sultanate of Muscat and Oman) & Zanzibar,group,World,,OmanSultanateofMuscatandOman_Zanzibar,
+Onitsha,locality,Africa,,,Nigeria
 Ontario (Upper Canada),GPH_entity,America,1026,OntarioUpperCanada,
 Ontario (Upper Canada) & Quebec (Lower Canada),group,America,,OntarioUpperCanada_QuebecLowerCanada,
+Opobo,locality,Africa,,,Nigeria
 Orange Free State (Orange River Colony),GPH_entity,Africa,564,OrangeFreeStateOrangeRiverColony,
 Oregon (Oregon Country),GPH_entity,America,1016,OregonOregonCountry,
-Oslo (Christiana),city/part_of,Europe,,OsloChristiana,Norway
-Other countries,geographical_area,World,,Othercountries,
-Other countries (non British),geographical_area,World,,OthercountriesnonBritish,
-Other countries & Parma & Piacenza,geographical_area,World,,Othercountries_Parma_Piacenza,
-Other countries & Prussia,geographical_area,World,,Othercountries_Prussia,
-Other countries & Sulawesi (Celebes),geographical_area,World,,Othercountries_SulawesiCelebes,
-Other countries & Tunisia (Tunis),geographical_area,World,,Othercountries_Tunisia (Tunis),
-Other countries & West Indies,geographical_area,World,,,
-Other countries & Zimbabwe (Rhodesia) (Southern Rhodesia),geographical_area,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
+Oslo (Christiana),locality,Europe,,OsloChristiana,Norway
+Ostend,locality,Europe,,,Belgium
+Ouidah,GPH_entity,Africa,4345,,
+Oujda,locality,Africa,,,Morocco
 Pacific Islands,geographical_area,Pacific,,PacificIslands,
-Pacific Islands (other),geographical_area,Pacific,,PacificIslandsother,
-Pacific Islands & Peru,geographical_area,World,,PacificIslands_Peru,
-Pacific Islands & Vanuatu (New Hebrides),geographical_area,Oceania,,PacificIslands_VanuatuNewHebrides,
+Pacific Islands (other),locality,Pacific,,PacificIslandsother,Pacific Islands
+Pacific Islands & Peru,group,World,,PacificIslands_Peru,
+Pacific Islands & Vanuatu (New Hebrides),group,Oceania,,PacificIslands_VanuatuNewHebrides,
 Pacific Ports,geographical_area,Pacific,,,
-Padang,city/part_of,Asia,,Padang,Indonesia (Dutch East Indies)
-Pago Pago,city/part_of,Oceania,,,American Samoa
+Padang,locality,Asia,,Padang,Indonesia (Dutch East Indies)
+Pago Pago,locality,Oceania,,,American Samoa
 Pahang,GPH_entity,Asia,8203,Pahang,
 Pakistan,GPH_entity,Asia,770,,
 Palau,GPH_entity,Oceania,986,,
 Palembang,GPH_entity,Asia,8537,Palembang,
-Palermo,city/part_of,Europe,,Palermo,Sicily
+Palermo,locality,Europe,,Palermo,Sicily
 Palestine,GPH_entity,Asia,665,Palestine,
 Palestine & Syria,group,Asia,,Palestine_Syria,
 Panama,GPH_entity,America,95,Panama,
-Panama (Atlantic Coast),city/part_of,America,,,Panama
-Panama (Pacific Coast),city/part_of,America,,,Panama
+Panama (Atlantic Coast),locality,America,,,Panama
+Panama (Pacific Coast),locality,America,,,Panama
 Panama & Panama Canal Zone,group,America,,,
 Panama Canal Zone,GPH_entity,America,96,PanamaCanalZone,
 Papal States,GPH_entity,Europe,327,PapalStates,
+Papal States (Mediterranean Coast),locality,Europe,,,Papal States
+Papal States (other),locality,Europe,,,Papal States
 Papal States & Tuscany,group,Europe,,PapalStates_Tuscany,
-Papal States Mediterranean Ports,city/part_of,Europe,,,Papal States
 Papua (British New Guinea),GPH_entity,Oceania,911,Papua,
-Pará,city/part_of,America,,Pará,Brazil
+Pará,locality,America,,Par�,Brazil
 Paraguay,GPH_entity,America,150,Paraguay,
 Paraguay & Uruguay,group,America,,,
 Parma,GPH_entity,Europe,335,Parma,
-Patagonia,city/part_of,America,,Patagonia,Chile
-Patagonia (Atlantic Coast),city/part_of,America,,ArgentinaLaPlata,Argentina (La Plata)
-Patagonia (Pacific Coast),city/part_of,America,,,Chile
-Patras,city/part_of,Europe,,Patras,Greece
+Parma & Piacenza & World (other),group,World,,Othercountries_Parma_Piacenza,
+Patagonia,locality,America,,Patagonia,Chile
+Patagonia (Atlantic Coast),locality,America,,ArgentinaLaPlata,Argentina (La Plata)
+Patagonia (Pacific Coast),locality,America,,,Chile
+Patani,GPH_entity,Asia,8002,,
+Patras,locality,Europe,,Patras,Greece
 Patras & Pylos,group,Europe,,Patras_Pylos,
-Pays de Gex,city/part_of,Europe,,,France
+Pays de Gex,locality,Europe,,,France
 Pays de Gex & Savoy,group,Europe,,PaysdeGex_Savoy,
-Pemba Island,city/part_of,Africa,,,Zanzibar
+Peacock Bay,locality,Asia,,,India
+Pedro Bank,GPH_entity,America,1054,,
+Pemba Island,locality,Africa,,,Zanzibar
 Pemba Island & Zanzibar,group,Africa,,PembaIsland_Zanzibar,
 Penang,GPH_entity,Asia,8272,Penang,
+Penang & Singapore,group,Asia,,,
+Penguin Is.,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Penon de Velez,GPH_entity,Africa,6065,,
+Pensacola,locality,America,,,Florida
 People's Republic of China (China),GPH_entity,Asia,710,PeoplesRepublicofChinaChina,
-People's Republic of China (China) & East Indies & Pacific Ports,geographical_area,Asia,,,
+People's Republic of China (China) (Middle),locality,Asia,,,People's Republic of China (China)
+People's Republic of China (China) (North),locality,Asia,,,People's Republic of China (China)
+People's Republic of China (China) (other),locality,Asia,,,People's Republic of China (China)
+People's Republic of China (China) (South),locality,Asia,,,People's Republic of China (China)
+People's Republic of China (China) & East Indies & Pacific Islands,group,Asia,,,
 People's Republic of China (China) & Philippines,group,Asia,,PeoplesRepublicofChinaChina_Philippines,
 People's Republic of China (China) & Philippines & Thailand (Siam),group,Asia,,PeoplesRepublicofChinaChina_Philippines_ThailandSiam,
 Perak,GPH_entity,Asia,8201,Perak,
+Perak & Selangore,group,Asia,,,
 Perim I.,GPH_entity,Asia,6802,PerimI.,
 Perlis,GPH_entity,Asia,8224,,
-Pernambuco,city/part_of,America,,Pernambuco,Brazil
+Pernambuco,locality,America,,Pernambuco,Brazil
 Persian Gulf,geographical_area,Asia,,PersianGulf,
-Persian Gulf Ports,geographical_area,Asia,,,
 Peru,GPH_entity,America,135,Peru,
-Philadelphia,city/part_of,America,,Philadelphia,United States of America
+Peruvian Colonies,colonial_area,World,,,Peru
+Philadelphia,locality,America,,Philadelphia,United States of America
 Philippines,GPH_entity,Asia,840,Philippines,
 Philippines & Sulu Sultanate,group,Asia,,Philippines_SuluSultanate,
 Phoenix Is.,GPH_entity,Oceania,9467,,
-Phuket Province,city/part_of,Asia,,,Thailand (Siam)
+Phuket Province,locality,Asia,,,Thailand (Siam)
 Phuket Province & Thailand (Siam),group,Asia,,,
-Piedmont,city/part_of,Europe,,,Kingdom of Sardinia
+Piacenza,locality,Europe,,,Parma
+Piedmont,locality,Europe,,,Kingdom of Sardinia
 Piedmont & Sardinia,group,Europe,,Piedmont_Sardinia,
 Piedmont & Tuscany,group,Europe,,Piedmont_Tuscany,
-Piraeus,city/part_of,Europe,,Piraeus,Greece
+Piraeus,locality,Europe,,Piraeus,Greece
 Pitcairn Is.,GPH_entity,Oceania,9620,,
 Poland,GPH_entity,Europe,290,Poland,
-Poland & Russia (USSR),group,Europe,,Poland_RussiaUSSR,
-Polar countries (other),geographical_area,Arctic,,,
+Poland Free Ports,locality,Europe,,,Poland
 Polynesia,geographical_area,Oceania,,Polynesia,
-Pomerania,city/part_of,Europe,,Pomerania,Prussia
-Pondicherry,city/part_of,Asia,,Pondicherry,French India
-Pontianak,city/part_of,Asia,,Pontianak,Indonesia (Dutch East Indies)
-Port Arthur,city/part_of,Oceania,,,Tasmania
-Port Elizabeth,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
-Port Simon,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
-Port Sudan,city/part_of,Africa,,,North Sudan (Sudan) (Anglo-Egyptian)
-Port-au-Prince,city/part_of,America,,Port-au-Prince,Haiti
-Porto,city/part_of,Europe,,Porto,Portugal
+Polynesia (other),locality,Oceania,,,Polynesia
+Pomerania,locality,Europe,,Pomerania,Prussia
+Pomona I.,locality,Africa,,,Mozambique (Portuguese East Africa)
+Pondicherry,locality,Asia,,Pondicherry,French India
+Pondoland,locality,Africa,,,Cape Colony (Cape of Good Hope)
+Pontianak,GPH_entity,Asia,8524,Pontianak,
+Port Elizabeth,locality,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
+Port Medway,locality,America,,,Nova Scotia
+Port Phillip,locality,Oceania,,,Victoria
+Port Said,locality,Asia,,,Egypt Arab Republic (Egypt)
+Port Simon,locality,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
+Port Sudan,locality,Africa,,,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+Port Sudan & Suakin,group,Africa,,,
+Port-au-Prince,locality,America,,Port-au-Prince,Haiti
+Porto,locality,Europe,,Porto,Portugal
 Porto Novo,GPH_entity,Africa,4348,PortoNovo,
+Portobelo,locality,America,,,Panama
 Portugal,GPH_entity,Europe,235,Portugal,
 Portugal & Portuguese Colonies,group,World,,Portugal_PortugueseColonies,
-Portugal & Portuguese East Africa,group,World,,Portugal_PortugueseEastAfrica,
 Portugal & Spain,group,Europe,,Portugal_Spain,
 Portuguese Africa,colonial_area,Africa,,PortugueseAfrica,Portugal
-Portuguese Africa (other),colonial_area,Africa,,PortugueseAfricaother,Portugal
+Portuguese Africa (other),locality,Africa,,PortugueseAfricaother,Portuguese Africa
 Portuguese Africa & Portuguese Asia,group,World,,PortugueseAfrica_PortugueseAsia,
-"Portuguese Africa & Portuguese India (incl. Goa, Diu, Daman)",group,World,,PortugueseAfrica_PortugueseIndiainclGoaDiuDaman,
 Portuguese America,colonial_area,America,,PortugueseAmerica,Portugal
+Portuguese America (other),locality,America,,,Portuguese America
 Portuguese Asia,colonial_area,Asia,,PortugueseAsia,Portugal
-Portuguese Asia & Portuguese Oceania,group,World,,PortugueseAsia_PortugueseOceania,
+Portuguese Asia & Asia (other),group,Asia,,,
 Portuguese China,colonial_area,Asia,,,Portugal
 Portuguese Colonies,colonial_area,World,,PortugueseColonies,Portugal
-Portuguese Colonies (other),colonial_area,World,,PortugueseColoniesother,Portugal
-Portuguese East Africa,colonial_area,Africa,,PortugueseEastAfrica,Portugal
-Portuguese Equatorial West Africa,colonial_area,Africa,,,Portugal
+Portuguese Colonies (other),locality,World,,PortugueseColoniesother,Portuguese Colonies
+Portuguese Eastern Africa,colonial_area,Africa,,PortugueseEastAfrica,Portugal
+Portuguese Eastern Africa (other),locality,Africa,,,Portuguese Eastern Africa
+Portuguese Equatorial Western Africa,colonial_area,Africa,,,Portugal
 Portuguese Europe,colonial_area,Europe,,PortugueseEurope,Portugal
-"Portuguese India (incl. Goa, Diu, Daman)",GPH_entity,Asia,752,PortugueseIndiainclGoaDiuDaman,
-Portuguese Oceania,colonial_area,Oceania,,PortugueseOceania,Portugal
-Portuguese South Africa,colonial_area,Africa,,,Portugal
-Portuguese West Africa,colonial_area,Africa,,PortugueseWestAfrica,Portugal
-Primorsk (Fischhausen),city/part_of,Europe,,,Prussia
+Portuguese India,GPH_entity,Asia,752,PortugueseIndiainclGoaDiuDaman,
+Portuguese South Eastern Africa,colonial_area,Africa,,,Portugal
+Portuguese Southern Africa,colonial_area,Africa,,,Portugal
+Portuguese West Indies,colonial_area,America,,,Portugal
+Portuguese Western Africa,colonial_area,Africa,,PortugueseWestAfrica,Portugal
+Portuguese Western Africa (other),locality,Africa,,,Portuguese Western Africa
+Possession I.,locality,Oceania,,,Torres Strait Is.
+Prampram,locality,Africa,,,Ghana (Gold Coast)
+Primorsk (Fischhausen),locality,Europe,,,Prussia
 Prince Edward Is.,GPH_entity,America,1024,PrinceEdwardIs.,
 Prince Edward Is. & St. Thomas,group,America,,PrinceEdwardIs_StThomas,
+Prince of Wales Bay,locality,Oceania,,,Tasmania
+Principe,locality,Africa,,,Sao Tome-Principe
 Prussia,GPH_entity,Europe,239,Prussia,
-Prussia (by sea and river),city/part_of,Europe,,Prussiabyseaandriver,Prussia
-Prussian Ports,city/part_of,Europe,,,Prussia
+Prussia (Baltic Ports),locality,Europe,,,Prussia
+Puerto Plata,locality,America,,,Dominican Republic (Santo Domingo)
 Puerto Rico,GPH_entity,America,6,PuertoRico,
 Puerto Rico & Spanish West Indies (other),group,America,,,
+Puerto Rico & St. Croix & St. Thomas,group,America,,,
 Puerto Rico & St. Thomas,group,America,,PuertoRico_St.Thomas,
 Puerto Rico & Virgin Islands (Danish West Indies),group,America,,PuertoRico_VirginIslandsDanishWestIndies,
-Pungah,city/part_of,Asia,,Pungah,Thailand (Siam)
-Punta Arenas,city/part_of,America,,PuntaArenas,Chile
-Puntarenas,city/part_of,America,,Puntarenas,Costa Rica
-Pylos,city/part_of,Europe,,,Greece
+Pungah,locality,Asia,,Pungah,Thailand (Siam)
+Punta Arenas,locality,America,,PuntaArenas,Chile
+Puntarenas,locality,America,,Puntarenas,Costa Rica
+Pylos,locality,Europe,,,Greece
 Quebec (Lower Canada),GPH_entity,America,1025,QuebecLowerCanada,
 Queensland,GPH_entity,Oceania,905,Queensland,
-Quelimane,city/part_of,Africa,,Quelimane,Mozambique
-Ragusa,city/part_of,Europe,,,Sicily
-Rangoon,city/part_of,Asia,,Rangoon,Myanmar (Burma)
-Río de Oro,GPH_entity,Africa,6090,,
-Ras al Khaimah,GPH_entity,Asia,6967,,
-Red River,city/part_of,America,,,Manitoba
-Red Sea,geographical_area,Red Sea,,RedSea,
-Red Sea Ports in Africa,geographical_area,Africa,,,
-Red Sea Ports in Arabia,geographical_area,Asia,,,
-Redoubt Kali,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Quelimane,locality,Africa,,Quelimane,Mozambique (Portuguese East Africa)
+Ragged Island,locality,America,,,Bahamas
+Ragusa,locality,Europe,,,Sicily
+Rangoon,locality,Asia,,Rangoon,Myanmar (Burma)
+Red River,locality,America,,,Manitoba
+Red Sea,geographical_area,World,,RedSea,
+Red Sea (Africa),geographical_area,Africa,,,
+Red Sea (Arabia),geographical_area,Asia,,,
+Redonda,locality,America,,,Antigua and Barbuda (Antigua)
+Redoubt Kali,locality,Europe,,RussiaUSSR,Russia (USSR)
+Rembau,GPH_entity,Asia,8212,,
 Republic of China (Taiwan) (Formosa),GPH_entity,Asia,713,RepublicofChinaTaiwanFormosa,
 Republic of St. Mark,GPH_entity,Europe,3261,RepublicofSt.Mark,
 Republic of St. Mark & Trieste,group,Europe,,RepublicofSt.Mark_Trieste,
 Reunion (Bourbon I.),GPH_entity,Africa,585,Reunion,
-Rhine,geographical_area,Europe,,,
+Reunion (Bourbon I.) (French produce),locality,Africa,,,Reunion (Bourbon I.)
+Reunion (Bourbon I.) (other),locality,Africa,,,Reunion (Bourbon I.)
 Rhineland,GPH_entity,Europe,2556,Rhineland,
-Rhode Is.,city/part_of,America,,,United States of America
-Rhodes,city/part_of,Europe,,,Dodecanese Is. (Aegean Is.)
-Riau,GPH_entity,Asia,8544,Riau,
-Riga,city/part_of,Europe,,Riga,Latvia
-Rio de Janeiro,city/part_of,America,,RiodeJaneiro,Brazil
-R�o de la Plata United Provinces,GPH_entity,America,1160,,
-Romagna,city/part_of,Europe,,Romagna,Papal States
+Rhode Is.,locality,America,,,United States of America
+Rhodes,locality,Europe,,,Dodecanese Is. (Aegean Is.)
+Riau,GPH_entity,Asia,8532,Riau,
+Riga,locality,Europe,,Riga,Latvia
+Rio de Janeiro,locality,America,,RiodeJaneiro,Brazil
+Río de Oro,GPH_entity,Africa,6090,,
+Rio del Rey,locality,Africa,,,Kamerun
+Río Muni,GPH_entity,Africa,412,,
+Rocky Point,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
+Romagna,locality,Europe,,Romagna,Papal States
 Romania,GPH_entity,Europe,360,Romania,
-Rosetta,city/part_of,Africa,,,Egypt Arab Republic (Egypt)
+Rosetta,locality,Africa,,,Egypt Arab Republic (Egypt)
 Ross Dependency,GPH_entity,Oceania,9994,,
+Rotterdam,locality,Europe,,,Netherlands
 Ruanda-Urundi,GPH_entity,Africa,515,RuandaUrundi,
+Ruanda-Urundi & Tanzania (Tanganyika),group,Africa,,,
+Rufisque,locality,Africa,,,Senegal
 Rupert's Land,GPH_entity,America,1019,Rupert'sLand,
-Russia (Asian Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (Baltic Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (Baltic Sea) & Russia (North Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Amur River),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Asov Sea),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Baltic Sea),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Baltic Sea) & Russia (North Sea),group,Europe,,RussiaUSSR,
 Russia (Baltic Sea) & Russia (White Sea),group,Europe,,,
-Russia (Black Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (European Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (land),city/part_of,Europe,,,Russia (USSR)
-Russia (North and Pacific Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (North and South Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (North Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (Pacific Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia (railway),city/part_of,Europe,,,Russia (USSR)
-Russia (sea),city/part_of,Europe,,,Russia (USSR)
-Russia (South Ports),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Baltic Sea) & Sitka (Arkhangelsk),group,Europe,,,
+Russia (Black Sea),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (Black Sea) & Russia (Asov Sea),group,Europe,,,
+Russia (North and Pacific Ports),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (North and South Ports),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (North Ports),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (North Sea),locality,Europe,,,Russia (USSR)
+Russia (Pacific Ports),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia (South Ports),locality,Europe,,RussiaUSSR,Russia (USSR)
 Russia (USSR),GPH_entity,Europe,365,RussiaUSSR,
-Russia (USSR) & Russian Colonies,group,World,,RussiaUSSR_RussianColonies,
-Russia (White Sea),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia and Siberia (Kiakhta),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russia and Siberia (land),city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Russia (White Sea),locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia and Siberia,locality,Europe,,RussiaUSSR,Russia (USSR)
+Russia and Siberia (Kiakhta),locality,Europe,,RussiaUSSR,Russia (USSR)
 Russian America,colonial_area,America,,RussiaUSSR,Russia (USSR)
 Russian China,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian Colonies,colonial_area,World,,RussiaUSSR,Russia (USSR)
-Russian North America,colonial_area,America,,RussiaUSSR,Russia (USSR)
-Russian North-East Asia,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
-Russian Poland,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russian provinces,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
-Russian Turkestan,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Russian North Eastern Asia,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
+Russian North Western America,colonial_area,America,,RussiaUSSR,Russia (USSR)
+Russian provinces,locality,Europe,,RussiaUSSR,Russia (USSR)
+Russian Turkestan,locality,Europe,,RussiaUSSR,Russia (USSR)
 Saar,GPH_entity,Europe,256,Saar,
+Saba,GPH_entity,America,1067,,
 Sabah (North Borneo),GPH_entity,Asia,823,SabahNorthBorneo,
-Sabanilla,city/part_of,America,,ColombiaNewGranadaGranColombia,Colombia (New Granada) (Gran Colombia)
-Safi,city/part_of,Africa,,,Morocco
+Sabanilla,locality,America,,ColombiaNewGranadaGranColombia,Colombia (New Granada) (Gran Colombia)
+Safi,locality,Africa,,,Morocco
 Sahara,geographical_area,Africa,,,
-Saint John River,city/part_of,America,,SaintJohnRiver,New Brunswick
-Saint-Louis,city/part_of,Africa,,,Senegal
+Saint John (New Brunswick),locality,America,,,New Brunswick
+Saint John River,locality,America,,SaintJohnRiver,New Brunswick
+Saint Michael,locality,America,,,Barbados
+Saint-Louis (Senegal),locality,Africa,,,Senegal
+Saint-Paul and Amsterdam,locality,Oceania,,,French and Southern Antarctic Territories (F.S.A.T.)
+Salaga,locality,Africa,,,Ghana (Gold Coast)
+Saltpond,locality,Africa,,,Ghana (Gold Coast)
 Sambas,GPH_entity,Asia,8525,Sambas,
 Samoa,GPH_entity,Oceania,9900,Samoa,
 Samoa (Western Samoa) (German Samoa),GPH_entity,Oceania,990,SamoaWesternSamoaGermanSamoa,
+Samoa & Tonga (Haʻapai),group,Oceania,,,
 Samos,GPH_entity,Europe,3504,Samos,
-San Sebastián,city/part_of,Europe,,SanSebastián,Spain
-Sandwich Harbour,city/part_of,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
-Santander,city/part_of,Europe,,Santander,Spain
-Santiago de Cuba,city/part_of,America,,SantiagodeCuba,Cuba
+San Francisco,locality,America,,,United States of America
+San Juan,locality,America,,,Puerto Rico
+San Sebastián,locality,Europe,,SanSebasti�n,Spain
+Sandwich Harbour,locality,Africa,,NamibiaSouthWestAfricaGermanSouthWestAfrica,Namibia (South West Africa) (German South West Africa)
+Santa Marta,locality,America,,,Colombia (New Granada) (Gran Colombia)
+Santander,locality,Europe,,Santander,Spain
+Santiago de Cuba,locality,America,,SantiagodeCuba,Cuba
+Santos,locality,America,,,Brazil
+Sao Tome,locality,Africa,,,Sao Tome-Principe
 Sao Tome-Principe,GPH_entity,Africa,403,SaoTome-Principe,
-Saona Island,city/part_of,America,,SaonaIsland,Dominican Republic (Santo Domingo)
+Saona Island,locality,America,,SaonaIsland,Dominican Republic (Santo Domingo)
+Sapele (Nigeria),locality,Africa,,,Nigeria
 Sarawak,GPH_entity,Asia,824,Sarawak,
-Sardinia,city/part_of,Europe,,Sardinia,Kingdom of Sardinia
-Saudi Arabia (Emirate of Nejd),GPH_entity,Asia,670,SaudiArabiaEmirateofNejd,
-Saudi Arabia (Emirate of Nejd) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),group,Asia,,SaudiArabiaEmirateofNejd_YemenArabRepublicNorthYemenKingdomofYemen,
-Savoy,city/part_of,Europe,,,France
+Sardinia,locality,Europe,,Sardinia,Kingdom of Sardinia
+Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah),GPH_entity,Asia,670,SaudiArabiaEmirateofNejd,
+Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),group,Asia,,SaudiArabiaEmirateofNejd_YemenArabRepublicNorthYemenKingdomofYemen,
+Savoy,locality,Europe,,,France
 Saxe Altenburg,GPH_entity,Europe,262,,
 Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,group,Europe,,SaxeAltenburg_SaxeCoburgandGotha_SaxeMeiningen_SaxeWeimar,
 Saxe Coburg and Gotha,GPH_entity,Europe,264,,
@@ -1499,261 +1972,339 @@ Saxe Weimar,GPH_entity,Europe,261,,
 Saxony,GPH_entity,Europe,269,Saxony,
 Scandinavia,geographical_area,Europe,,Scandinavia,
 Schleswig,GPH_entity,Europe,2247,Schleswig,
-Scotland,city/part_of,Europe,,Scotland,United Kingdom
-Seal Island,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
+Schleswig-Holstein,GPH_entity,Europe,2555,,
+Scotland,locality,Europe,,Scotland,United Kingdom
+Seal Island,locality,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
+Sekondi-Takoradi,locality,Africa,,,Ghana (Gold Coast)
 Selangore,GPH_entity,Asia,8202,,
+Semarang,locality,Asia,,,Indonesia (Dutch East Indies)
 Senegal,GPH_entity,Africa,433,Senegal,
+Senegal (French produce),locality,Africa,,,Senegal
 Senegal & Senegal Dependencies,group,Africa,,,
-Senegal Dependencies,city/part_of,Africa,,,Senegal
+Senegal Dependencies,locality,Africa,,,Senegal
 Senegambia,geographical_area,Africa,,,
-Setúbal,city/part_of,Europe,,Setúbal,Portugal
+Serampore,locality,Asia,,,India
+Seremban (Songei Ujong),GPH_entity,Asia,8211,,
+Serrana Bank,GPH_entity,America,1103,,
+Setté Cama,locality,Africa,,,Gabon
+Setúbal,locality,Europe,,Set�bal,Portugal
 Seychelles,GPH_entity,Africa,591,Seychelles,
-Shangai,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
-Sharjah,GPH_entity,Asia,6963,,
-Shkodër,city/part_of,Europe,,Shkodër,Albania
-Siberia,city/part_of,Asia,,RussiaUSSR,Russia (USSR)
+Seychelles & Seychelles Dependencies,group,Africa,,,
+Seychelles Dependencies,locality,Africa,,,Seychelles
+Shangai,GPH_entity,Asia,7121,PeoplesRepublicofChinaChina,
+Shantou,locality,Asia,,,People's Republic of China (China)
+Shelburne,locality,America,,,Nova Scotia
+Shkodër,locality,Europe,,Shkod�r,Albania
+Siberia,locality,Asia,,RussiaUSSR,Russia (USSR)
 Sicily,GPH_entity,Europe,3291,Sicily,
 Sierra Leone,GPH_entity,Africa,451,SierraLeone,
+Sierra Leone (other),locality,Africa,,,Sierra Leone
 Sikkim,GPH_entity,Asia,761,,
 Sindh,GPH_entity,Asia,7693,Sindh,
 Singapore,GPH_entity,Asia,830,Singapore,
 Singapore & Straits Settlements,group,Asia,,Singapore_StraitsSettlements,
+Singora,locality,Asia,,,Thailand (Siam)
 Sint Eustatius,GPH_entity,America,1068,,
 Sint Maarten,GPH_entity,America,1073,,
+Sitka (Arkhangelsk),locality,Europe,,RussiaUSSR,Alaska
 Society Is.,GPH_entity,Oceania,9601,SocietyIs.,
 Socotra I.,GPH_entity,Asia,6800,SocotraI.,
+Sofala Province,locality,Africa,,,Mozambique (Portuguese East Africa)
 Solomon Islands (British Solomon Islands Protectorate),GPH_entity,Oceania,940,SolomonIslandsBritishSolomonIslandsProtectorate,
 Somalia,GPH_entity,Africa,520,Somalia,
-Somalia Ports,city/part_of,Africa,,,Somalia
 Somaliland Republic (British Somaliland),GPH_entity,Africa,521,SomalilandRepublicBritishSomaliland,
-Sonmiani,city/part_of,Asia,,,Pakistan
+Sombrero,locality,America,,,Anguilla
+Sonmiani,locality,Asia,,,Pakistan
 South Africa,GPH_entity,Africa,560,SouthAfrica,
-South Africa (Domestic produce),city/part_of,Africa,,,South Africa
-South Africa (Foreign produce),city/part_of,Africa,,,South Africa
-South Africa (other),city/part_of,Africa,,,South Africa
-South Africa & South West Africa,group,Africa,,,
+South Africa (other),locality,Africa,,,South Africa
+South Africa & Northeastern Rhodesia,group,Africa,,,
+South Africa & Zambia (Northern Rhodesia),group,Africa,,,
 South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,SouthAfrica_ZimbabweRhodesiaSouthernRhodesia,
+South African Customs Union,geographical_area,Africa,,,
+South African Customs Union (other),locality,Africa,,,South African Customs Union
 South Australia,GPH_entity,Oceania,903,SouthAustralia,
-South East Africa,geographical_area,Africa,,SouthEastAfrica,
-South Sea Islands,geographical_area,Pacific,,SouthSeaIslands,
-South Sea Islands & Pacific Islands,geographical_area,Pacific,,SouthSeaIslands_PacificIslands,
-South West Africa,city/part_of,Africa,,,South Africa
-South West Asia,geographical_area,Asia,,,
-South West Asia (other),geographical_area,Asia,,,
+South Coast,locality,Africa,,,Natal
+South Eastern Africa,geographical_area,Africa,,SouthEastAfrica,
+South Shetland Is.,GPH_entity,Oceania,9983,,
+South Western Africa,geographical_area,Africa,,,
+South Western Asia,geographical_area,Asia,,,
+South Western Asia (other),locality,Asia,,,South Western Asia
 Southern Africa,geographical_area,Africa,,SouthernAfrica,
-Southern Africa (other),geographical_area,Africa,,,
-Southern Africa Ports,geographical_area,Africa,,,
+Southern Africa (other),locality,Africa,,,Southern Africa
 Southern America,geographical_area,America,,SouthernAmerica,
-Southern America (other),geographical_area,America,,SouthernAmericaother,
-Southern America & United States of America,geographical_area,America,,SouthernAmerica_UnitedStatesofAmerica,
-Southern America & West Indies,geographical_area,America,,,
+Southern America (other),locality,America,,SouthernAmericaother,Southern America
+Southern America & United States of America,group,America,,SouthernAmerica_UnitedStatesofAmerica,
+Southern America & West Indies,group,America,,,
 Southern Asia,geographical_area,Asia,,,
 Southern Europe,geographical_area,Europe,,SouthernEurope,
 Southern Nigeria (Niger Coast Protectorate),GPH_entity,Africa,4783,SouthernNigeriaNigerCoastProtectorate,
-Southern Russia,city/part_of,Europe,,SouthernRussia,Russia (USSR)
-Southern Sakhalin I.,city/part_of,Asia,,,Japan
+Southern Russia,locality,Europe,,SouthernRussia,Russia (USSR)
+Southern Sakhalin I.,locality,Asia,,,Japan
 Spain,GPH_entity,Europe,230,Spain,
-Spain (Atlantic Coast),city/part_of,Europe,,,Spain
-Spain (Foreign flag),city/part_of,Europe,,,Spain
-Spain (Mediterranean Coast),city/part_of,Europe,,,Spain
-Spain (Spanish flag),city/part_of,Europe,,SpainSpanishflag,Spain
-Spain & Italy & Europe (other),geographical_area,Europe,,Spain_Italy_Europeother,
+Spain (Atlantic Coast),locality,Europe,,,Spain
+Spain (Foreign flag),locality,Europe,,,Spain
+Spain (Mediterranean Coast),locality,Europe,,,Spain
+Spain (Spanish flag),locality,Europe,,SpainSpanishflag,Spain
+Spain & Italy & Europe (other),group,Europe,,Spain_Italy_Europeother,
 Spain & Spanish Colonies,group,World,,Spain_SpanishColonies,
+Spain & Spanish Colonies (other),group,World,,,
 Spain & Spanish West Indies,group,World,,,
-Spain Ports,city/part_of,Europe,,,Spain
 Spanish Africa,colonial_area,Africa,,SpanishAfrica,Spain
-Spanish Africa (other),colonial_area,Africa,,,Spain
+Spanish Africa (other),locality,Africa,,,Spanish Africa
+Spanish Africa & Africa (other),group,Africa,,,
 Spanish America,colonial_area,America,,SpanishAmerica,Spain
-Spanish America & West Indies (other),geographical_area,America,,,
-Spanish Asia,colonial_area,Asia,,,
+Spanish America & West Indies (other),group,America,,,
+Spanish Asia,colonial_area,Asia,,,Spain
 Spanish Colonies,colonial_area,World,,SpanishColonies,Spain
-Spanish Colonies (other),colonial_area,World,,SpanishColoniesother,Spain
-Spanish East Africa,colonial_area,Africa,,SpanishEastAfrica,Spain
+Spanish Colonies (other),locality,World,,SpanishColoniesother,Spanish Colonies
 Spanish East Indies,colonial_area,Asia,,,Spain
-Spanish Equatorial West Africa,colonial_area,Africa,,,Spain
+Spanish Eastern Africa,colonial_area,Africa,,SpanishEastAfrica,Spain
 Spanish Morocco,GPH_entity,Africa,602,,
 Spanish Morocco & Tangier,group,Africa,,,
-Spanish North Africa Ports,city/part_of,Africa,,,Spain
+Spanish Northern Africa,locality,Africa,,,Spain
+Spanish Northern America,colonial_area,America,,,Spain
 Spanish Oceania,colonial_area,Oceania,,,Spain
-Spanish South Africa,colonial_area,Africa,,,
-Spanish West Africa,GPH_entity,Africa,610,SpanishWestAfrica,
+Spanish Southern Africa,colonial_area,Africa,,,Spain
+Spanish Southern America,colonial_area,America,,,Spain
+Spanish Town,locality,America,,,Jamaica
 Spanish West Indies,colonial_area,America,,,Spain
-Spanish West Indies (other),colonial_area,America,,,Spain
+Spanish West Indies (other),locality,America,,,Spanish West Indies
 Spanish West Indies (West),colonial_area,America,,,Spain
+Spanish Western Africa,colonial_area,Africa,,,Spain
 Species,,,,Species,
+Spitsbergen,locality,Europe,,,Svalbard Is.
 Sri Lanka (Ceylon),GPH_entity,Asia,780,SriLankaCeylon,
 Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,group,Asia,,,
 Sri Lanka (Ceylon) & Thailand (Siam),group,Asia,,,
-Sri Lanka (Ceylon) Dependencies,city/part_of,Asia,,,Sri Lanka (Ceylon)
+Sri Lanka (Ceylon) Dependencies,locality,Asia,,,Sri Lanka (Ceylon)
 St. Barthelemy,GPH_entity,America,1064,St.Barthelemy,
-St. Croix,city/part_of,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
-St. Croix & St. John & St. Thomas,group,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
+St. Croix,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
+St. Croix & St. John & St. Thomas,group,America,,VirginIslandsDanishWestIndies,
 St. Croix & St. Thomas,group,America,,St.Croix_St.Thomas,
-St. David,city/part_of,Asia,,St.David,Indonesia (Dutch East Indies)
-St. Helena,GPH_entity,Atlantic,4050,St.Helena,
-St. John,city/part_of,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
+St. David’s,locality,Asia,,St.David,Indonesia (Dutch East Indies)
+St. Helena,GPH_entity,Africa,4050,St.Helena,
+St. John,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
 St. Kitts,GPH_entity,America,1075,St.Kitts,
 St. Kitts-Nevis,GPH_entity,America,60,St.Kitts-Nevis,
 St. Lucia,GPH_entity,America,56,St.Lucia,
 St. Marie de Madagascar,GPH_entity,Africa,5803,St.MariedeMadagascar,
+St. Martin,GPH_entity,America,1077,,
 St. Pierre and Miquelon,GPH_entity,America,1029,St.PierreandMiquelon,
-St. Thomas,city/part_of,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
+St. Thomas,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
+St. Vincent,locality,America,,,St. Vincent and the Grenadines
 St. Vincent and the Grenadines,GPH_entity,America,57,St.VincentandtheGrenadines,
-States of America (other),geographical_area,America,,StatesofAmericaother,
+St. Vincent and the Grenadines (other),locality,America,,,St. Vincent and the Grenadines
 Straits Settlements,GPH_entity,Asia,827,StraitsSettlements,
 Straits Settlements & Straits Settlements Dependencies,group,World,,,
-Straits Settlements Dependencies,city/part_of,Asia,,,Straits Settlements
-Stralsund,city/part_of,Europe,,Stralsund,Prussia
+Straits Settlements Dependencies,locality,Asia,,,Straits Settlements
+Stralsund,locality,Europe,,Stralsund,Prussia
+Suakin,locality,Africa,,,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
+Sudan (Anglo-Egyptian Sudan) (Mahdist State),GPH_entity,Africa,625,NorthSudanSudanAngloEgyptian,
 Suez Canal Zone,GPH_entity,Africa,6514,SuezCanalZone,
-Sulawesi (Celebes),city/part_of,Asia,,SulawesiCelebes,Indonesia (Dutch East Indies)
+Sulawesi (Celebes),locality,Asia,,SulawesiCelebes,Indonesia (Dutch East Indies)
 Sulu Sultanate,GPH_entity,Asia,8401,SuluSultanate,
-Sumatra,city/part_of,Asia,,Sumatra,Indonesia (Dutch East Indies)
-Sumbawa,city/part_of,Asia,,,Indonesia (Dutch East Indies)
-Sund,city/part_of,Europe,,Sund,Denmark
-Sunda Islands,city/part_of,Asia,,SundaIslands,Indonesia (Dutch East Indies)
-Sungai Petani,city/part_of,Asia,,SungaiPetani,Malaysia (British Malaya)
+Sumatra,locality,Asia,,Sumatra,Indonesia (Dutch East Indies)
+Sumatra (East),locality,Asia,,,Sumatra
+Sumatra (West),locality,Asia,,,Sumatra
+Sumbawa,locality,Asia,,,Indonesia (Dutch East Indies)
+Sund,locality,Europe,,Sund,Denmark
+Sunda Islands,geographical_area,Asia,,SundaIslands,
+Sungai Petani,locality,Asia,,SungaiPetani,Malaysia (British Malaya)
+Surabaya,locality,Asia,,,Indonesia (Dutch East Indies)
 Surinam (Dutch Guiana),GPH_entity,America,115,Surinam (Dutch Guiana),
-Surprise Is.,city/part_of,Oceania,,,New Caledonia and Dependencies
-Svalbard Is.,GPH_entity,Arctic,3386,,
-Swan River,city/part_of,Oceania,,SwanRiver,Western Australia
+Surprise Is.,locality,Oceania,,,New Caledonia and Dependencies
+Svalbard Is.,GPH_entity,Europe,3386,,
+Swakopmund,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
+Swan Is.,GPH_entity,America,1087,,
+Swan River,locality,Oceania,,SwanRiver,Western Australia
 Sweden,GPH_entity,Europe,380,Sweden,
+Sweden (other),locality,Europe,,,Sweden
 Sweden & Swedish Colonies,group,World,,Sweden_SwedishColonies,
 Swedish America,colonial_area,America,,SwedishAmerica,Sweden
 Swedish Colonies,colonial_area,World,,,Sweden
+Swedish West Indies,colonial_area,America,,,Sweden
 Switzerland,GPH_entity,Europe,225,Switzerland,
-Switzerland (by France and Hamburg),city/part_of,Europe,,SwitzerlandbyFranceandHamburg,Switzerland
-Switzerland (by France),city/part_of,Europe,,SwitzerlandbyFrance,Switzerland
-Sydney,city/part_of,Oceania,,Sydney,New South Wales
+Switzerland (by France and Hamburg),locality,Europe,,SwitzerlandbyFranceandHamburg,Switzerland
+Switzerland (by France),locality,Europe,,SwitzerlandbyFrance,Switzerland
+Sydney,locality,Oceania,,Sydney,New South Wales
 Syria,GPH_entity,Asia,652,Syria,
-Syria (other),city/part_of,Asia,,Syriaother,Syria
+Syria (other),locality,Asia,,Syriaother,Syria
 Syria & Turkey (Ottoman Empire),group,World,,Syria_TurkeyOttomanEmpire,
-Syros,city/part_of,Europe,,Syros,Greece
-Szczecin,city/part_of,Europe,,Szczecin,Prussia
-Table Bay,city/part_of,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
-Tabriz (Tauris),city/part_of,Asia,,TabrizTauris,Iran (Persia)
-Tacna,city/part_of,America,,Tacna,Peru
+Syria & Western Anatolia,group,Asia,,,
+Syros,locality,Europe,,Syros,Greece
+Szczecin,locality,Europe,,Szczecin,Prussia
+Table Bay,locality,Africa,,CapeColonyCapeofGoodHope,Cape Colony (Cape of Good Hope)
+Tabriz (Tauris),locality,Asia,,TabrizTauris,Iran (Persia)
+Tacna,locality,America,,Tacna,Peru
 Tadjoura,GPH_entity,Africa,5221,,
-Taganrog,city/part_of,Europe,,RussiaUSSR,Russia (USSR)
+Taganrog,locality,Europe,,RussiaUSSR,Russia (USSR)
 Tahiti,GPH_entity,Oceania,9606,Tahiti,
+Tanga,locality,Africa,,,Tanzania (Tanganyika)
 Tangier,GPH_entity,Africa,601,,
-Tanintharyi Region,city/part_of,Asia,,,Myanmar (Burma)
+Tanintharyi Region,locality,Asia,,,Myanmar (Burma)
 Tanzania (Tanganyika),GPH_entity,Africa,512,,
-Tarsus,city/part_of,Asia,,Tarsus,Turkey (Ottoman Empire)
+Tarboro,locality,America,,,United States of America
+Tarsus,locality,Asia,,Tarsus,Turkey (Ottoman Empire)
 Tasmania,GPH_entity,Oceania,906,Tasmania,
-Tenerife,city/part_of,Africa,,CanaryIs,Canary Is.
-Ternate,city/part_of,Asia,,Ternate,Indonesia (Dutch East Indies)
+Tenerife,locality,Africa,,CanaryIs,Canary Is.
+Ternate,GPH_entity,Asia,8560,Ternate,
 Tetuan,GPH_entity,Africa,6030,Tetuan,
 Texas,GPH_entity,America,7,Texas,
 Thailand (Siam),GPH_entity,Asia,800,ThailandSiam,
-Thessaloniki,city/part_of,Europe,,Thessaloniki,Greece
-Thoothukudi (Tuticorin),city/part_of,Asia,,ThoothukudiTuticorin,India
+Thailand (Siam) (East),locality,Asia,,,Thailand (Siam)
+Thailand (Siam) (West),locality,Asia,,,Thailand (Siam)
+Thalassery,locality,Asia,,,India
+Thessaloniki,locality,Europe,,Thessaloniki,Greece
+Thoothukudi (Tuticorin),locality,Asia,,ThoothukudiTuticorin,India
 Thrace,geographical_area,Europe,,,
-Thursday I.,city/part_of,Oceania,,,Torres Strait Is.
+Thursday I.,locality,Oceania,,,Torres Strait Is.
 Tibet,GPH_entity,Asia,7910,,
+Tigres Bay,locality,Africa,,,Angola
+Timbuktu,locality,Africa,,,Mali (French Sudan) (Upper Senegal and Niger)
 Tobago,GPH_entity,America,1049,Tobago,
 Togo (French Togoland),GPH_entity,Africa,461,TogoFrenchTogoland,
+Togo (French Togoland) (French produce),locality,Africa,,,Togo (French Togoland)
 Tokelau Is.,GPH_entity,Oceania,9201,,
-Tonga (Ha'apai),GPH_entity,Oceania,955,TongaHaapai,
+Tonga (Haʻapai),GPH_entity,Oceania,955,TongaHaapai,
 Tonkin,GPH_entity,Asia,8153,Tonkin,
 Torres Strait Is.,GPH_entity,Oceania,9050,,
-Tortola,city/part_of,America,,,British Virgin Is.
+Tortola,locality,America,,,British Virgin Is.
 Tortola & Virgin Gorda,group,America,,,
-Trabzon,city/part_of,Asia,,Trabzon,Turkey (Ottoman Empire)
+Trabzon,locality,Asia,,Trabzon,Turkey (Ottoman Empire)
 Transatlantic Ports,geographical_area,Atlantic,,,
-Transvaal,GPH_entity,Africa,563,Transvaal,
-Trapani,city/part_of,Europe,,Trapani,Sicily
+Transvaal (South African Republic),GPH_entity,Africa,563,Transvaal,
+Trapani,locality,Europe,,Trapani,Sicily
 Trengganu,GPH_entity,Asia,8225,Trengganu,
 Trieste,GPH_entity,Europe,326,Trieste,
-Trinidad,city/part_of,America,,,Trinidad and Tobago
+Trinidad,GPH_entity,America,1048,,
+Trinidad (other),locality,America,,,Trinidad
 Trinidad and Tobago,GPH_entity,America,52,TrinidadandTobago,
-Tripolitania,GPH_entity,Africa,6203,Tripolitania,
-Tripolitania & Tunisia (Tunis),group,Africa,,Tripolitania_Tunisia (Tunis),
+Tripoli (Syria),locality,Asia,,,Lebanon
+Tripoli (Tripolitania),locality,Africa,,,Tripolitania (Regency of Tripoli)
+Tripolitania (Regency of Tripoli),GPH_entity,Africa,6203,Tripolitania,
+Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),group,Africa,,Tripolitania_Tunisia (Regency of Tunis),
 Tristan da Cunha,GPH_entity,Africa,4060,,
-Tunis,city/part_of,Africa,,Tunis,Tunisia (Tunis)
-Tunisia (Tunis),GPH_entity,Africa,616,Tunisia (Tunis),
+Tuamotu Is.,GPH_entity,Asia,9603,,
+Tunis,locality,Africa,,Tunis,Tunisia (Regency of Tunis)
+Tunisia (Regency of Tunis),GPH_entity,Africa,616,Tunisia (Regency of Tunis),
+Tunisia (Regency of Tunis) & World (other),group,World,,Othercountries_Tunisia (Regency of Tunis),
 Turkey (Ottoman Empire),GPH_entity,Asia,640,TurkeyOttomanEmpire,
-Turkey (Ottoman Empire) (other),city/part_of,Asia,,Turkeyother,Turkey (Ottoman Empire)
-Turkey (Ottoman Empire) & Middle-East,geographical_area,World,,Turkey_Middle-East,
+Turkey (Ottoman Empire) (other),locality,Asia,,Turkeyother,Turkey (Ottoman Empire)
 Turkey (Ottoman Empire) & Western Anatolia,group,Asia,,TurkeyOttomanEmpire_WesternAnatolia,
-Turkish Ports,city/part_of,Asia,,,Turkey (Ottoman Empire)
 Turks and Caicos Is.,GPH_entity,America,1032,TurksandCaicosIs.,
 Tuscany,GPH_entity,Europe,337,Tuscany,
+Tusket Is.,locality,America,,,Nova Scotia
+Tutuila,locality,Oceania,,,American Samoa
 Two Sicilies,GPH_entity,Europe,329,TwoSicilies,
 U. S. Pacific Trust Territories (South Seas Mandate),GPH_entity,Oceania,980,,
 Uganda,GPH_entity,Africa,500,Uganda,
 Ukraine,GPH_entity,Europe,369,,
+Ulu Muar,GPH_entity,Asia,8214,,
+Union Island,locality,America,,,St. Vincent and the Grenadines
 United Arab Emirates (Trucial Oman),GPH_entity,Asia,696,,
 United Kingdom,GPH_entity,Europe,200,UnitedKingdom,
-United Kingdom (other),city/part_of,Europe,,UnitedKingdomother,United Kingdom
+United Kingdom (Foreign produce),locality,Europe,,,United Kingdom
+United Kingdom (Foreign produce) (other),locality,Europe,,,United Kingdom
+United Kingdom (French produce),locality,Europe,,,United Kingdom
+United Kingdom (other),locality,Europe,,UnitedKingdomother,United Kingdom
 United States of America,GPH_entity,America,2,UnitedStatesofAmerica,
-United States of America (Atlantic Coast),city/part_of,America,,,United States of America
-United States of America (Domestic produce),city/part_of,America,,,United States of America
-United States of America (Foreign produce),city/part_of,America,,,United States of America
-United States of America (other),city/part_of,America,,UnitedStatesofAmericaother,United States of America
-United States of America (Pacific Coast),city/part_of,America,,,United States of America
-United States of Central America,GPH_entity,America,89,,
+United States of America (Atlantic Coast),locality,America,,,United States of America
+United States of America (Domestic produce),locality,America,,,United States of America
+United States of America (Foreign produce),locality,America,,,United States of America
+United States of America (other),locality,America,,UnitedStatesofAmericaother,United States of America
+United States of America (Pacific Coast),locality,America,,,United States of America
 Unknown,,,,Unknown,
+Upper Silesia,locality,Europe,,,Poland
 Uruguay,GPH_entity,America,165,Uruguay,
-USA B,city/part_of,America,,,United States of America
+Uruguay (other),locality,America,,,Uruguay
 Uzbekistan,GPH_entity,Asia,704,Uzbekistan,
-Valparaíso,city/part_of,America,,Valparaíso,Chile
+Valencia,locality,Europe,,,Spain
+Valparaíso,locality,America,,Valpara�so,Chile
 Vancouver,GPH_entity,America,1028,Vancouver,
 Vanuatu (New Hebrides),GPH_entity,Oceania,935,VanuatuNewHebrides,
+Vatican City,GPH_entity,Europe,328,,
 Venezuela,GPH_entity,America,101,Venezuela,
-Vera Cruz,city/part_of,America,,VeraCruz,Mexico
+Venice,locality,Europe,,,Italy
+Vera Cruz,locality,America,,VeraCruz,Mexico
+Veraval,locality,Asia,,,India
 Victoria,GPH_entity,Oceania,904,Victoria,
-Vietnam,GPH_entity,Asia,815,Vietnam,
-Virgin Gorda,city/part_of,America,,,British Virgin Is.
+Victoria (Cameroun),locality,Africa,,,
+Vieques (Crab Island),locality,America,,,Puerto Rico
+Virgin Gorda,locality,America,,,British Virgin Is.
 Virgin Islands (Danish West Indies),GPH_entity,America,5,VirginIslandsDanishWestIndies,
+Virgin Islands (Danish West Indies) (other),locality,America,,,Virgin Islands (Danish West Indies)
 Vladivostok,GPH_entity,Europe,7352,,
+Volta Region,locality,Africa,,,Ghana (Gold Coast)
 Wallachia,GPH_entity,Europe,3362,Wallachia,
 Wallis and Futuna Is.,GPH_entity,Oceania,9321,WallisandFutunaIs.,
 Walvis Bay,GPH_entity,Africa,5651,WalvisBay,
-Wandsbeck,city/part_of,Europe,,,Hamburg
+Wandsbeck,locality,Europe,,,Hamburg
+Warri,locality,Africa,,,Nigeria
+Waterloo Bay,locality,Africa,,,Cape Colony (Cape of Good Hope)
 Weihaiwei,GPH_entity,Asia,7105,Weihaiwei,
 West Indies,geographical_area,America,,,
+West Indies (continental),geographical_area,America,,,
 West Indies (East),geographical_area,America,,,
-West Indies (other),geographical_area,America,,,
+West Indies (other),locality,America,,,West Indies
 West Indies (West),geographical_area,America,,,
-West Indies Ports (other),geographical_area,America,,,
+West Indies & World (other),group,World,,,
 West Irian (Dutch New Guinea),GPH_entity,Oceania,851,WestIrianDutchNewGuinea,
-West Irian (Dutch New Guinea) & Dutch Oceania (other),group,Oceania,,,Netherlands
-Western Africa,geographical_area,Africa,,WestAfrica,
-Western Africa (other),geographical_area,Africa,,WestAfricaother,
-Western Africa & Africa (other),geographical_area,Africa,,WestAfrica_Africaother,
-Western Africa Ports (other),geographical_area,Africa,,,
+West Irian (Dutch New Guinea) & Dutch Oceania (other),group,Oceania,,,
+Western Africa,geographical_area,Africa,,,
+Western Africa (other),locality,Africa,,,Western Africa
 Western America,geographical_area,America,,WestAmerica,
+Western America (other),locality,America,,,Western America
 Western Anatolia,GPH_entity,Asia,6402,WesternAnatolia,
-Western Anatolia & Syria,group,Asia,,,
 Western Asia,geographical_area,Asia,,,
-Western Asia (other),geographical_area,Asia,,,
+Western Asia (other),locality,Asia,,,Western Asia
 Western Australia,GPH_entity,Oceania,902,WesternAustralia,
+Western Poland,locality,Europe,,,Poland
+Weymouth,locality,America,,,Nova Scotia
+Whydah,locality,Africa,,,Benin (Dahomey)
+Wilhelmshaven,locality,Europe,,,Oldenburg
 Windward Coast of Africa,geographical_area,Africa,,WindwardCoastofAfrica,
 Windward Is.,GPH_entity,America,1055,WindwardIs.,
+Winneba,locality,Africa,,,Ghana (Gold Coast)
 World,geographical_area,World,,World,
-World (land and river),geographical_area,World,,Worldlandandriver,
-World (other than British),geographical_area,World,,WorldotherthanBritish,
-World (other than Kingdom of Sardinia (land)),geographical_area,Europe,,WorldotherthanKingdomofSardinialand,
-World (other),geographical_area,World,,Worldother,
-World (sea),geographical_area,World,,World,
+World (other than British),locality,World,,WorldotherthanBritish,World
+World (other),locality,World,,Worldother,World
+World (other) (Foreign produce),locality,World,,,World
+World (other) (French produce),locality,World,,,World
 World (via Altona & Holstein & Schleswig),geographical_area,World,,WorldviaAltona_Holstein_Schleswig,
+World (via Altona-Kiel),geographical_area,World,,,
+World (via Altona),geographical_area,World,,,
+World (via Berlin),geographical_area,World,,,
 World (via Bremen & Lübeck),geographical_area,World,,WorldviaBremen_Lubeck,
 World (via Germany (lower Elbe)),geographical_area,World,,WorldviaGermanylowerElbe,
 World (via Germany (upper Elbe)),geographical_area,World,,WorldviaGermanyupperElbe,
-World (via Harburg & Lüneburg),geographical_area,World,,WorldviaHarburg_Lüneburg,
+World (via Harburg & Lüneburg),geographical_area,World,,WorldviaHarburg_L�neburg,
+World (via Harburg),geographical_area,World,,,
 World (via Holstein & Schleswig),geographical_area,World,,WorldviaHolstein_Schleswig,
 World (via Lübeck),geographical_area,World,,WorldviaLubeck,
+World (via Lüneburg),geographical_area,World,,,
 World (via Russia),geographical_area,World,,,
+World (via Schleswig-Holstein),locality,World,,,World
+World (via Venlo),geographical_area,World,,,
 World Federico Tena,geographical_area,World,,WorldFedericoTena,
-Xiamen,city/part_of,Asia,,PeoplesRepublicofChinaChina,People's Republic of China (China)
+Xiamen (Amoy),GPH_entity,Asia,7127,PeoplesRepublicofChinaChina,
+Yanaon,locality,Asia,,,French India
+Yarmouth,locality,America,,,Nova Scotia
 Yemen Arab Republic (North Yemen) (Kingdom of Yemen),GPH_entity,Asia,678,YemenArabRepublicNorthYemenKingdomofYemen,
-Yemen People's Republic (South Yemen),GPH_entity,Asia,680,YemenPeoplesRepublicSouthYemen,
-Yokohama,city/part_of,Asia,,Yokohama,Japan
+Yokohama,locality,Asia,,Yokohama,Japan
+Yucatán,locality,America,,,Mexico
 "Yugoslavia (Kingdom of Serbs, Croats and Slovenes)",GPH_entity,Europe,345,YugoslaviaKingdomofSerbsCroatsandSlovenes,
+Zakynthos,locality,Europe,,,Ionian Is.
+Zambezi,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Zambia (Northern Rhodesia),GPH_entity,Africa,551,ZambiaNorthernRhodesia,
 Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
 Zanzibar,GPH_entity,Africa,511,Zanzibar,
-Zeila,city/part_of,Africa,,Zeila,Somaliland Republic (British Somaliland)
+Zeila,locality,Africa,,Zeila,Somaliland Republic (British Somaliland)
 Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSouthernRhodesia,
-French South America,colonial_area,America,,,
-North-Western Territory,GPH_entity,America,10200,,
+Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
+Zululand,GPH_entity,Africa,5621,,
+French Western Africa,colonial_area,Africa,,,
+Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua & Panama,group,America,,,
+Australasia,geographical_area,Oceania,,,
+Australasia (other),locality,Oceania,,,Australasia
+Australia (other) & Polynesia,group,Oceania,,,
+Kathiawar,locality,Asia,,,India

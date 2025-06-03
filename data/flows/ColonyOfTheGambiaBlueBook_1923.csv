@@ -1,0 +1,22 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+ColonyOfTheGambiaBlueBook_1923_81,423191,1,pounds,1923,gambia,uk,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,3825,1,pounds,1923,gambia,sierra leone,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,2,1,pounds,1923,gambia,other british possessions,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,39250,1,pounds,1923,gambia,belgium,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,333394,1,pounds,1923,gambia,france,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,328,1,pounds,1923,gambia,french possessions,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,62680,1,pounds,1923,gambia,germany,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,266,1,pounds,1923,gambia,other foreign countries,exp,spe,NS,,,,,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_81,862936,1,pounds,1923,gambia,total,exp,spe,NS,,,,total_reporting,Country to which exported
+ColonyOfTheGambiaBlueBook_1923_80,438995,1,pounds,1923,gambia,uk,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,109481,1,pounds,1923,gambia,sierra leone,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,310,1,pounds,1923,gambia,other british possessions,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,10730,1,pounds,1923,gambia,belgium,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,4167,1,pounds,1923,gambia,canary islands,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,101833,1,pounds,1923,gambia,france,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,6888,1,pounds,1923,gambia,french possessions,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,54606,1,pounds,1923,gambia,germany,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,18958,1,pounds,1923,gambia,holland,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,41349,1,pounds,1923,gambia,us,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,2696,1,pounds,1923,gambia,other foreign countries,imp,gen,NS,,,,,Country of consignment
+ColonyOfTheGambiaBlueBook_1923_80,790013,1,pounds,1923,gambia,total,imp,gen,NS,,,,total_reporting,Country of origin
