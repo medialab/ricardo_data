@@ -4664,7 +4664,13 @@
         "data/flows/CyprusBlueBook_189293.csv",
         "data/flows/CyprusBlueBook_188990.csv",
         "data/flows/CyprusBlueBook_188889.csv",
-        "data/flows/CyprusBlueBook_188788.csv"
+        "data/flows/CyprusBlueBook_188788.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsDesVertragszollgebietesDerBeidenStaatenDerSterreichischenungarischenMonarchie_1917.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsDesVertragszollgebietesDerBeidenStaatenDerSterreichischenungarischenMonarchie_1912.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsDesVertragszollgebietesDerBeidenStaatenDerSterreichischenungarischenMonarchie_1907.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsDesVertragszollgebietesDerBeidenStaatenDerSterreichischenungarischenMonarchie_1902.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsDesVertragszollgebietesDerBeidenStaatenDerSterreichischenungarischenMonarchie_1897.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsDesVertragszollgebietesDerBeidenStaatenDerSterreichischenungarischenMonarchie_1894.csv"
       ]
     }
   ]
