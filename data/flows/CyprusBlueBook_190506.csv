@@ -1,0 +1,66 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+CyprusBlueBook_190506_226227,145351,1,£,1905,cyprus,united kingdom,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,1,1,£,1905,cyprus,hong kong,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,193,1,£,1905,cyprus,ceylon,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,1964,1,£,1905,cyprus,british india,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,8,1,£,1905,cyprus,sudan,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,543,1,£,1905,cyprus,malta,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,1,1,£,1905,cyprus,natal,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,3,1,£,1905,cyprus,australia,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,3,1,£,1905,cyprus,transvaal,imp,gen,,,,,,
+CyprusBlueBook_190506_226227,95012,1,£,1905,cyprus,turkey,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,74799,1,£,1905,cyprus,egypt,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,49212,1,£,1905,cyprus,austria-hungary,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,26603,1,£,1905,cyprus,france,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,15341,1,£,1905,cyprus,greece,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,39114,1,£,1905,cyprus,italy,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,16773,1,£,1905,cyprus,germany,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,3214,1,£,1905,cyprus,russia,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,3474,1,£,1905,cyprus,roumania,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,1518,1,£,1905,cyprus,sweden,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,6180,1,£,1905,cyprus,belgium,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,1628,1,£,1905,cyprus,united states,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,586,1,£,1905,cyprus,bulgaria,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,458,1,£,1905,cyprus,switzerland,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,11,1,£,1905,cyprus,tunisia,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,39,1,£,1905,cyprus,holland,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,20,1,£,1905,cyprus,portugal,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,30,1,£,1905,cyprus,denmark,imp,gen,S,,,,,
+CyprusBlueBook_190506_226227,482079,1,£,1905,cyprus,total,imp,gen,S,,,,total_reporting,"Includes specie £ 51,607"
+CyprusBlueBook_190506_226227,86774,1,£,1905,cyprus,united kingdom,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,1,1,£,1905,cyprus,ceylon,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,3,1,£,1905,cyprus,british india,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,36,1,£,1905,cyprus,sudan,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,4,1,£,1905,cyprus,malta,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,5,1,£,1905,cyprus,gibraltar,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,7,1,£,1905,cyprus,lagos,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,2,1,£,1905,cyprus,falkland islands,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,7,1,£,1905,cyprus,aden,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,2,1,£,1905,cyprus,british west africa,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,12,1,£,1905,cyprus,british guiana,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,160,1,£,1905,cyprus,natal,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,1,1,£,1905,cyprus,new zealand,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,1,1,£,1905,cyprus,australia,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,28,1,£,1905,cyprus,british south africa,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,37,1,£,1905,cyprus,transvaal,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,1,1,£,1905,cyprus,canada,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,2,1,£,1905,cyprus,jamaica,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,37675,1,£,1905,cyprus,turkey,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,168123,1,£,1905,cyprus,egypt,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,22174,1,£,1905,cyprus,austria-hungary,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,59031,1,£,1905,cyprus,france,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,4078,1,£,1905,cyprus,greece,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,11769,1,£,1905,cyprus,italy,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,976,1,£,1905,cyprus,germany,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,12,1,£,1905,cyprus,russia,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,3965,1,£,1905,cyprus,roumania,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,10449,1,£,1905,cyprus,algeria,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,2080,1,£,1905,cyprus,belgium,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,2843,1,£,1905,cyprus,united states,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,93,1,£,1905,cyprus,bulgaria,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,5475,1,£,1905,cyprus,spain,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,22,1,£,1905,cyprus,tunisia,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,8,1,£,1905,cyprus,beira,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,802,1,£,1905,cyprus,holland,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,43,1,£,1905,cyprus,delagoa bay,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190506_226227,416812,1,£,1905,cyprus,total,exp,spe,,,,,total_reporting,Produce and Manufactures of the Island

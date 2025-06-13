@@ -1,0 +1,42 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+CyprusBlueBook_189596_308309,69996,1,£,1895,cyprus,united kingdom,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,47,1,£,1895,cyprus,hong kong,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,172,1,£,1895,cyprus,ceylon,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,1493,1,£,1895,cyprus,british india,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,603,1,£,1895,cyprus,malta,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,1,1,£,1895,cyprus,natal,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,100,1,£,1895,cyprus,british burmah,imp,gen,NS,,,,,
+CyprusBlueBook_189596_308309,71031,1,£,1895,cyprus,turkey,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,59220,1,£,1895,cyprus,egypt,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,35275,1,£,1895,cyprus,austria-hungary,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,17769,1,£,1895,cyprus,france,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,8076,1,£,1895,cyprus,greece,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,2975,1,£,1895,cyprus,italy,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,2273,1,£,1895,cyprus,germany,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,2126,1,£,1895,cyprus,russia,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,148,1,£,1895,cyprus,roumania,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,901,1,£,1895,cyprus,sweden,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,3641,1,£,1895,cyprus,belgium,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,383,1,£,1895,cyprus,bulgaria,imp,gen,S,,,,,
+CyprusBlueBook_189596_308309,276230,1,£,1895,cyprus,total,imp,gen,S,,,,total_reporting,Excludes bullion £88 imported from UK; includes Specie £34162 imported from foreign countries
+CyprusBlueBook_189596_308309,70118,1,£,1895,cyprus,united kingdom,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,4,1,£,1895,cyprus,british west indies,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,12,1,£,1895,cyprus,ceylon,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,46,1,£,1895,cyprus,british india,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,718,1,£,1895,cyprus,malta,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,14,1,£,1895,cyprus,aden,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,46009,1,£,1895,cyprus,turkey,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,71201,1,£,1895,cyprus,egypt,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,10940,1,£,1895,cyprus,austria-hungary,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,42680,1,£,1895,cyprus,france,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,2222,1,£,1895,cyprus,greece,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,9647,1,£,1895,cyprus,italy,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,31,1,£,1895,cyprus,germany,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,88,1,£,1895,cyprus,russia,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,2955,1,£,1895,cyprus,roumania,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,47,1,£,1895,cyprus,belgium,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,152,1,£,1895,cyprus,holland,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,44,1,£,1895,cyprus,united states,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,416,1,£,1895,cyprus,bulgaria,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,150,1,£,1895,cyprus,tunisia,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_189596_308309,257533,1,£,1895,cyprus,total,exp,spe,,,,,total_reporting,Produce and Manufactures of the Island

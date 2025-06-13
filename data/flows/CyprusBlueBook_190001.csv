@@ -1,0 +1,50 @@
+source,flow,unit,currency,year,reporting,partner,export_import,special_general,species_bullions,transport_type,statistical_period,partner_sum,world_trade_type,notes
+CyprusBlueBook_190001_302303,78272,1,£,1900,cyprus,united kingdom,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,191,1,£,1900,cyprus,ceylon,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,2935,1,£,1900,cyprus,british india,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,313,1,£,1900,cyprus,malta,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,1,1,£,1900,cyprus,gibraltar,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,102,1,£,1900,cyprus,rangoon,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,1,1,£,1900,cyprus,australia,imp,gen,NS,,,,,
+CyprusBlueBook_190001_302303,123083,1,£,1900,cyprus,turkey,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,51299,1,£,1900,cyprus,egypt,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,43184,1,£,1900,cyprus,austria-hungary,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,20419,1,£,1900,cyprus,france,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,21128,1,£,1900,cyprus,greece,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,7179,1,£,1900,cyprus,italy,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,7385,1,£,1900,cyprus,germany,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,5239,1,£,1900,cyprus,russia,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,401,1,£,1900,cyprus,roumania,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,1812,1,£,1900,cyprus,sweden,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,3675,1,£,1900,cyprus,belgium,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,311,1,£,1900,cyprus,united states,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,331,1,£,1900,cyprus,bulgaria,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,140,1,£,1900,cyprus,switzerland,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,11,1,£,1900,cyprus,spain,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,99,1,£,1900,cyprus,holland,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,364,1,£,1900,cyprus,brazil,imp,gen,S,,,,,
+CyprusBlueBook_190001_302303,367824,1,£,1900,cyprus,total,imp,gen,S,,,,total_reporting,"Excludes bullion £4,768 imported from UK; includes speci £77,930 imported from foreign countries"
+CyprusBlueBook_190001_302303,77900,1,£,1900,cyprus,united kingdom,exp,spe,NS,,,,,
+CyprusBlueBook_190001_302303,1,1,£,1900,cyprus,hong kong,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,3,1,£,1900,cyprus,ceylon,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,423,1,£,1900,cyprus,british india,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,249,1,£,1900,cyprus,malta,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,323,1,£,1900,cyprus,gibraltar,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,1,1,£,1900,cyprus,mauritius,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,12,1,£,1900,cyprus,british guiana,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,2004,1,£,1900,cyprus,cape colony,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,39823,1,£,1900,cyprus,turkey,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,110620,1,£,1900,cyprus,egypt,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,19954,1,£,1900,cyprus,austria-hungary,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,54097,1,£,1900,cyprus,france,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,5225,1,£,1900,cyprus,greece,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,10434,1,£,1900,cyprus,italy,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,354,1,£,1900,cyprus,germany,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,748,1,£,1900,cyprus,russia,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,4444,1,£,1900,cyprus,roumania,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,49,1,£,1900,cyprus,belgium,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,2090,1,£,1900,cyprus,united states,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,403,1,£,1900,cyprus,bulgaria,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,14,1,£,1900,cyprus,beira,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,165,1,£,1900,cyprus,holland,exp,spe,,,,,,Produce and Manufactures of the Island
+CyprusBlueBook_190001_302303,329526,1,£,1900,cyprus,total,exp,spe,NS,,,,total_reporting,Produce and Manufactures of the Island
