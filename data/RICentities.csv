@@ -147,7 +147,6 @@ Antsiranana (Diego-Suarez),locality,Africa,,,Madagascar (Malagasy Republic)
 Antwerp,locality,Europe,,Antwerp,Belgium
 Arabia,geographical_area,Asia,,Arabia,
 Arabia (other),locality,Asia,,Arabiaother,Arabia
-Arabia (sea),locality,Asia,,,Arabia
 Arabia & Asian Turkey & Iran (Persia),group,Asia,,AsianTurkey_IranPersia_MiddleEast,
 Arabia & Asian Turkey & Iran (Persia) & Russian Turkestan,group,Asia,,,
 Arabia & British Asia (other) & Hong Kong & Iraq (Mesopotamia) & Portuguese Africa,group,Asia,,,
@@ -1924,7 +1923,6 @@ Russia and Siberia,locality,Europe,,RussiaUSSR,Russia (USSR)
 Russia and Siberia (Kiakhta),locality,Europe,,RussiaUSSR,Russia (USSR)
 Russian America,colonial_area,America,,RussiaUSSR,Russia (USSR)
 Russian China,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
-Russian Colonies,colonial_area,World,,RussiaUSSR,Russia (USSR)
 Russian North Eastern Asia,colonial_area,Asia,,RussiaUSSR,Russia (USSR)
 Russian North Western America,colonial_area,America,,RussiaUSSR,Russia (USSR)
 Russian provinces,locality,Europe,,RussiaUSSR,Russia (USSR)
