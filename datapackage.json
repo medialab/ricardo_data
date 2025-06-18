@@ -229,7 +229,10 @@
           {
             "name": "GPH_code",
             "type": "string",
-            "description": "GeoPolHist dataset identifier mostly compatible with Correlates Of War (COW) identifiers."
+            "description": "GeoPolHist dataset identifier mostly compatible with Correlates Of War (COW) identifiers.",
+            "constraints": {
+              "unique": true
+            }
           },
           {
             "name": "slug",
