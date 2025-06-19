@@ -2311,7 +2311,7 @@ Edirne,locality,Asia,,,Turkey (Ottoman Empire)
 Epirus,locality,Europe,,,Turkey (Ottoman Empire)
 Gulf of Thailand,geographical_area,Asia,,,
 America & Europe,geographical_area,World,,,
-Transcaucasia,geographical_area,Europe,,,
+Transcaucasia,GPH_entity,Europe,374,,
 Trinidad & United Kingdom,group,World,,,
 Denmark & St. Thomas,group,World,,,
 Moldova (Bessarabia) (Moldavian Republic),GPH_entity,Europe,359,,
@@ -2343,7 +2343,7 @@ Kunfuda,locality,Asia,,,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 Mokha,locality,Asia,,,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 Persian Golf (other),locality,Asia,,,Persian Gulf
 Omani Asia,colonial_area,Asia,,,Oman (Sultanate of Muscat and Oman)
-Batum,locality,Europe,,,Russia (Black Sea)
+Batum,GPH_entity,Europe,3374,,
 Mahé & Mauritius & Reunion (Bourbon I.),group,Africa,,,
 Ho Chi Minh City (Saigon) & Tonkin,group,Asia,,,
 Berbera & Bulhar & Djibouti (Afar and Issas) (French Somaliland) & Obock & Zeila,group,Africa,,,
