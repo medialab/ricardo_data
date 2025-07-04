@@ -1,0 +1,17 @@
+valid: false
+stats:
+  tasks: 0
+  errors: 1
+  warnings: 0
+  seconds: 0
+warnings: []
+errors:
+  - type: package-error
+    title: Package Error
+    description: A validation cannot be processed.
+    message: 'The data package has an error: cannot retrieve metadata "datapackage.json"
+      because "[Errno 2] No such file or directory: ''datapackage.json''"'
+    tags: []
+    note: 'cannot retrieve metadata "datapackage.json" because "[Errno 2] No such
+      file or directory: ''datapackage.json''"'
+tasks: []
