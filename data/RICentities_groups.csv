@@ -1972,10 +1972,10 @@ id,RICname_group,RICname_part
 1971,Samoa & Tonga (Haʻapai),Tonga (Haʻapai)
 1972,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 1973,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah) & Yemen Arab Republic (North Yemen) (Kingdom of Yemen),Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
-1974,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Altenburg
-1975,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Coburg and Gotha
-1976,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Meiningen
-1977,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar,Saxe Weimar
+1974,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar Eisenach,Saxe Altenburg
+1975,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar Eisenach,Saxe Coburg and Gotha
+1976,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar Eisenach,Saxe Meiningen
+1977,Saxe Altenburg & Saxe Coburg and Gotha & Saxe Meiningen & Saxe Weimar Eisenach,Saxe Weimar Eisenach
 1978,Senegal & Senegal Dependencies,Senegal
 1979,Senegal & Senegal Dependencies,Senegal Dependencies
 1980,Seychelles & Seychelles Dependencies,Seychelles
@@ -2048,3 +2048,89 @@ id,RICname_group,RICname_part
 2047,Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua & Panama,Panama
 2048,Australia (other) & Polynesia,Australia (other)
 2049,Australia (other) & Polynesia,Polynesia
+2050,Trinidad & United Kingdom,Trinidad
+2051,Trinidad & United Kingdom,United Kingdom
+2052,Denmark & St. Thomas,Denmark
+2053,Denmark & St. Thomas,St. Thomas
+2054,Germany (Zollverein) (other) & Hanse Towns,Germany (Zollverein) (other)
+2055,Germany (Zollverein) (other) & Hanse Towns,Hanse Towns
+2056,Aden & Egypt Arab Republic (Egypt) & Levant & Mocha & Turkey (Ottoman Empire),Aden
+2057,Aden & Egypt Arab Republic (Egypt) & Levant & Mocha & Turkey (Ottoman Empire),Egypt Arab Republic (Egypt)
+2058,Aden & Egypt Arab Republic (Egypt) & Levant & Mocha & Turkey (Ottoman Empire),Levant
+2059,Aden & Egypt Arab Republic (Egypt) & Levant & Mocha & Turkey (Ottoman Empire),Mocha
+2060,Aden & Egypt Arab Republic (Egypt) & Levant & Mocha & Turkey (Ottoman Empire),Turkey (Ottoman Empire)
+2061,Mexico & Spanish Southern America,Mexico
+2062,Mexico & Spanish Southern America,Spanish Southern America
+2063,Hawaii (Sandwich Is.) & Pacific Islands,Hawaii (Sandwich Is.)
+2064,Hawaii (Sandwich Is.) & Pacific Islands,Pacific Islands
+2065,Alderney & Guernsey & Jersey & Sark,Alderney
+2066,Alderney & Guernsey & Jersey & Sark,Guernsey
+2067,Alderney & Guernsey & Jersey & Sark,Jersey
+2068,Alderney & Guernsey & Jersey & Sark,Sark
+2069,British Africa & Ethiopia (Abyssinia) & European Africa (other) & Tripolitania (Regency of Tripoli),British Africa
+2070,British Africa & Ethiopia (Abyssinia) & European Africa (other) & Tripolitania (Regency of Tripoli),Ethiopia (Abyssinia)
+2071,British Africa & Ethiopia (Abyssinia) & European Africa (other) & Tripolitania (Regency of Tripoli),European Africa (other)
+2072,British Africa & Ethiopia (Abyssinia) & European Africa (other) & Tripolitania (Regency of Tripoli),Tripolitania (Regency of Tripoli)
+2073,America (other) & El Salvador & Honduras & Nicaragua,America (other)
+2074,America (other) & El Salvador & Honduras & Nicaragua,El Salvador
+2075,America (other) & El Salvador & Honduras & Nicaragua,Honduras
+2076,America (other) & El Salvador & Honduras & Nicaragua,Nicaragua
+2077,Persian Gulf & Red Sea,Persian Gulf
+2078,Persian Gulf & Red Sea,Red Sea
+2079,Italian Somaliland (other) & Somaliland Republic (British Somaliland) (other),Italian Somaliland (other)
+2080,Italian Somaliland (other) & Somaliland Republic (British Somaliland) (other),Somaliland Republic (British Somaliland) (other)
+2081,Mombassa & Zanzibar,Mombassa
+2082,Mombassa & Zanzibar,Zanzibar
+2083,Madagascar (Malagasy Republic) & Mozambique (Portuguese East Africa),Madagascar (Malagasy Republic)
+2084,Madagascar (Malagasy Republic) & Mozambique (Portuguese East Africa),Mozambique (Portuguese East Africa)
+2085,Mahé & Reunion (Bourbon I.),Mahé
+2086,Mahé & Reunion (Bourbon I.),Reunion (Bourbon I.)
+2087,Farasan Islands & Red Sea (other),Farasan Islands
+2088,Farasan Islands & Red Sea (other),Red Sea (other)
+2089,Mahé & Mauritius & Reunion (Bourbon I.),Mahé
+2090,Mahé & Mauritius & Reunion (Bourbon I.),Mauritius
+2091,Mahé & Mauritius & Reunion (Bourbon I.),Reunion (Bourbon I.)
+2092,Ho Chi Minh City (Saigon) & Tonkin,Ho Chi Minh City (Saigon)
+2093,Ho Chi Minh City (Saigon) & Tonkin,Tonkin
+2094,Berbera & Bulhar & Djibouti (Afar and Issas) (French Somaliland) & Obock & Zeila,Berbera
+2095,Berbera & Bulhar & Djibouti (Afar and Issas) (French Somaliland) & Obock & Zeila,Bulhar
+2096,Berbera & Bulhar & Djibouti (Afar and Issas) (French Somaliland) & Obock & Zeila,Djibouti (Afar and Issas) (French Somaliland)
+2097,Berbera & Bulhar & Djibouti (Afar and Issas) (French Somaliland) & Obock & Zeila,Obock
+2098,Berbera & Bulhar & Djibouti (Afar and Issas) (French Somaliland) & Obock & Zeila,Zeila
+2099,Mombassa & Pemba Island & Zanzibar,Mombassa
+2100,Mombassa & Pemba Island & Zanzibar,Pemba Island
+2101,Mombassa & Pemba Island & Zanzibar,Zanzibar
+2102,Egypt Arab Republic (Egypt) & Suakin,Egypt Arab Republic (Egypt)
+2103,Egypt Arab Republic (Egypt) & Suakin,Suakin
+2104,Mahé & Mauritius & Seychelles,Mahé
+2105,Mahé & Mauritius & Seychelles,Mauritius
+2106,Mahé & Mauritius & Seychelles,Seychelles
+2107,Eastern Africa (other) & Italian East Africa,Eastern Africa (other)
+2108,Eastern Africa (other) & Italian East Africa,Italian East Africa
+2109,Mombassa & Mozambique (Portuguese East Africa) & Pemba Island,Mombassa
+2110,Mombassa & Mozambique (Portuguese East Africa) & Pemba Island,Mozambique (Portuguese East Africa)
+2111,Mombassa & Mozambique (Portuguese East Africa) & Pemba Island,Pemba Island
+2112,Africa (other) & Italian Africa (other),Africa (other)
+2113,Africa (other) & Italian Africa (other),Italian Africa (other)
+2114,Algeria (Regency of Algiers) & Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),Algeria (Regency of Algiers)
+2115,Algeria (Regency of Algiers) & Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),Morocco
+2116,Algeria (Regency of Algiers) & Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),Tripolitania (Regency of Tripoli)
+2117,Algeria (Regency of Algiers) & Morocco & Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),Tunisia (Regency of Tunis)
+2118,Asian Turkey & Black Sea & Levant & Persian Gulf,Asian Turkey
+2119,Asian Turkey & Black Sea & Levant & Persian Gulf,Black Sea
+2120,Asian Turkey & Black Sea & Levant & Persian Gulf,Levant
+2121,Asian Turkey & Black Sea & Levant & Persian Gulf,Persian Gulf
+2122,Kunfuda & As-Salif,Kunfuda
+2123,Kunfuda & As-Salif,As-Salif
+2124,Berbera & Bulhar & Heis & Karam & Zeila,Berbera
+2125,Berbera & Bulhar & Heis & Karam & Zeila,Bulhar
+2126,Berbera & Bulhar & Heis & Karam & Zeila,Heis
+2127,Berbera & Bulhar & Heis & Karam & Zeila,Karam
+2128,Berbera & Bulhar & Heis & Karam & Zeila,Zeila
+2129,Asian Turkey & Persian Gulf,Asian Turkey
+2130,Asian Turkey & Persian Gulf,Persian Gulf
+2131,Egypt Arab Republic (Egypt) & Port Sudan & Suakin,Egypt Arab Republic (Egypt)
+2132,Egypt Arab Republic (Egypt) & Port Sudan & Suakin,Port Sudan
+2133,Egypt Arab Republic (Egypt) & Port Sudan & Suakin,Suakin
+2134,Mahé & Mauritius,Mahé
+2135,Mahé & Mauritius,Mauritius
