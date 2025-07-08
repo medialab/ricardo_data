@@ -636,6 +636,22 @@ def deduplicate_flows():
     print("World best guess added to flow_joined", world_best_guess_added)
     print("-------------------------------------------------------------------------")
 
+    #    CREATE WORLD FLOWS SUM
+    # We need to prepare the world view by preparing the sum of wolrd flows
+    #  """SELECT SUM(flow*Unit/ifnull(rate,1)), partner_slug,year, COUNT(*), expimp, Source
+    #                   FROM flow_joined
+    #                   WHERE (
+    #                    partner_slug like 'Worldasreported'
+    #                    OR partner_slug like 'Worldbestguess'
+    #                    OR partner_slug like 'Worldsumpartners'
+    #                    OR partner_slug like 'WorldFedericoTena')
+    #                   %s
+    #                   GROUP BY year, expimp,partner_slug
+    #                   ORDER B
+    # But we need to filter reporting which are part of other existing reporters. See https://github.com/medialab/ricardo_data/issues/81
+    
+
+
     ################################################################################
     # Create table metadata bilateral
     ################################################################################
