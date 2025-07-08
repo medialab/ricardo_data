@@ -107,3 +107,4 @@ database_scripts_old
 # binaries...
 *.xlsx
 *.zip
+/.DS_Store
