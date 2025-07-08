@@ -97,7 +97,6 @@ Ambon,locality,Asia,,AmbonIsland,Indonesia (Dutch East Indies)
 Ambriz,locality,Africa,,,Angola
 America,geographical_area,America,,America,
 America (other),locality,America,,Americaother,America
-America (other) & Europe (other),group,World,,Americaother_Europeother,
 America & Pacific Islands & West Indies (other),group,World,,,
 American America,colonial_area,America,,,United States of America
 American America & British America & Dutch America & French America,group,America,,,
@@ -256,7 +255,6 @@ Azores (Western Isles) & Cape Verde & Madeira Isles,group,Africa,,AzoresWesternI
 Azores (Western Isles) & Madeira Isles,group,Africa,,AzoresWesternIsles_MadeiraIsles,
 Azores (Western Isles) & Madeira Isles & Portugal,group,World,,AzoresWesternIsles_MadeiraIsles_Portugal,
 Azores (Western Isles) & Madeira Isles & Tenerife,group,Africa,,,
-Azores (Western Isles) & Portugal,group,World,,,
 Azores (Western Isles) & Western Africa,group,Africa,,,
 Badagry,locality,Africa,,,Nigeria
 Baden,GPH_entity,Europe,267,Baden,
@@ -270,8 +268,6 @@ Bahamas,GPH_entity,America,31,Bahamas,
 Bahamas & British West Indies,group,America,,,
 Bahamas & Turks and Caicos Is.,group,America,,Bahamas_TurksandCaicosIs.,
 Bahia,locality,America,,Bahia,Brazil
-Bahia & Pernambuco & Pará & Rio de Janeiro,group,America,,,
-Bahia & Pernambuco & Rio de Janeiro,group,America,,,
 Bahrain,GPH_entity,Asia,692,Bahrain,
 Bailul,locality,Africa,,,Eritrea
 Bakana,locality,Africa,,,Nigeria
@@ -285,7 +281,6 @@ Bali & Lombok & Sumbawa,group,Asia,,Bali_Lombok_Sumbawa,
 Balkans,geographical_area,Europe,,Balkans,
 Baltic Ports,geographical_area,Europe,,,
 Baltic Ports & Belgium & Germany (Zollverein),group,Europe,,,
-Baltimore,locality,America,,Baltimore,United States of America
 Baltiysk (Pillau),locality,Europe,,,Prussia
 Baltiysk (Pillau) & Braniewo (Braunsberg) & Kaliningrad (Königsberg) & Primorsk (Fischhausen),group,Europe,,BaltiyskPillau_BraniewoBraunsberg_KaliningradK�nigsberg_PrimorskFischhausen,
 Baluchistan (Kalat),GPH_entity,Asia,7588,,
@@ -382,7 +377,6 @@ Bolivia-Peru Confederation,GPH_entity,America,136,,
 Boma,locality,Africa,,,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
 Bonaire,GPH_entity,America,1066,,
 Bonny River,locality,Africa,,,Nigeria
-Bordeaux,locality,Europe,,Bordeaux,France
 Borneo,geographical_area,Asia,,,
 Borneo & Malaysia (British Malaya),group,Asia,,,
 Bosaso,locality,Africa,,Bosaso,Italian Somaliland
@@ -550,8 +544,6 @@ Canada (Province of Canada) & Southern America & United States of America,group,
 Canada (Province of Canada) & United States of America,group,America,,CanadaProvinceofCanada_UnitedStatesofAmerica,
 Canary Is.,GPH_entity,Africa,410,CanaryIs,
 Canary Is. (other),locality,Africa,,,Canary Is.
-Canary Is. & Cape Colony (Cape of Good Hope),group,Africa,,CanaryIs_CapeColonyCapeofGoodHope,
-Canary Is. & Cape Colony (Cape of Good Hope) & Madagascar (Malagasy Republic),group,Africa,,CanaryIs_CapeColonyCapeofGoodHope_MadagascarMalagasyRepublic,
 Canary Is. & Cape Colony (Cape of Good Hope) & Madeira Isles,group,Africa,,,
 Canary Is. & Madeira Isles,group,Africa,,CanaryIs_MadeiraIsles,
 Canary Is. & Spain,group,World,,CanaryIs_Spain,
@@ -559,7 +551,6 @@ Canary Is. & Spanish Morocco,group,Africa,,CanaryIs_SpanishMorocco,
 Canary Is. & Tenerife,group,Africa,,CanaryIs_Tenerife,
 Canary Is. & Western Africa,group,Africa,,,
 Cap-Haïtien,locality,America,,Cap-Ha�tien,Haiti
-Cap-Rouge,locality,America,,Cap-Rouge,Quebec (Lower Canada)
 Cape Breton I.,GPH_entity,America,1021,,
 Cape Breton I. & Nova Scotia,group,America,,CapeBretonI._NovaScotia,
 Cape Coast Castle,locality,Africa,,,Ghana (Gold Coast)
@@ -696,7 +687,6 @@ Costa Rica & El Salvador & Guatemala,group,America,,CostaRica_ElSalvador_Guatema
 Costa Rica & El Salvador & Guatemala & Honduras,group,America,,CostaRica_ElSalvador_Guatemala_Honduras,
 Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua,group,America,,CostaRica_ElSalvador_Guatemala_Honduras_Nicaragua,
 Costa Rica & Guatemala & Honduras,group,America,,CostaRica_Guatemala_Honduras,
-Costa Rica & Guatemala & Honduras & Nicaragua,group,America,,,
 Cotonou,GPH_entity,Africa,4347,,
 Crab I.,locality,America,,,Berbice
 Cracow (Free City of Cracow),GPH_entity,Europe,2903,CracowFreeCityofCracow,
@@ -806,7 +796,6 @@ Dominican Republic (Santo Domingo),GPH_entity,America,42,DominicanRepublicSantoD
 Dominican Republic (Santo Domingo) & Haiti,group,America,,DominicanRepublicSantoDomingo_Haiti,
 Dominican Republic (Santo Domingo) & Haiti & Puerto Rico,group,America,,,
 Douala,locality,Africa,,,Cameroun (French Cameroon)
-Dunkirk,locality,Europe,,Dunkirk,France
 Durban (Port Natal),locality,Africa,,,Natal
 Dutch Africa,colonial_area,Africa,,,Netherlands
 Dutch America,colonial_area,America,,DutchAmerica,Netherlands
@@ -1378,7 +1367,6 @@ Kuwait & Oman (Sultanate of Muscat and Oman) & United Arab Emirates (Trucial Oma
 Kwanchowan,GPH_entity,Asia,7110,Kwanchowan,
 Kwangtung Territory,GPH_entity,Asia,7104,,
 Kwangtung Territory & Manchukuo,group,Asia,,,
-Kyrgyzstan,GPH_entity,Asia,703,Kyrgyzstan,
 La Goulette,locality,Africa,,,Tunisia (Regency of Tunis)
 La Guaira,locality,America,,,Venezuela
 Labrador,GPH_entity,America,10210,,
@@ -1397,7 +1385,6 @@ Latvia,GPH_entity,Europe,367,Latvia,
 Latvia & Lithuania,group,Europe,,,
 Saxe Lauenburg,GPH_entity,Europe,2246,Lauenburg,
 Holstein & Saxe Lauenburg & Schleswig,group,Europe,,Holstein_Lauenburg_Schleswig,
-Le Havre,locality,Europe,,LeHavre,France
 Lebanon,GPH_entity,Asia,660,Lebanon,
 Lebanon & Syria,group,Asia,,Lebanon_Syria,
 Leeward Coast of Africa,geographical_area,Africa,,LeewardCoastofAfrica,
@@ -1618,7 +1605,6 @@ Namaqualand,locality,Africa,,,Namibia (South West Africa) (German South West Afr
 Namibia (South West Africa) (German South West Africa),GPH_entity,Africa,565,NamibiaSouthWestAfricaGermanSouthWestAfrica,
 Namibia (South West Africa) (German South West Africa) & South Africa,group,Africa,,,
 Namibia (South West Africa) (German South West Africa) & Zambia (Northern Rhodesia) & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
-Nantes,locality,Europe,,Nantes,France
 Naples,locality,Europe,,Naples,Two Sicilies
 Naples & Sicily,group,Europe,,,
 Nassau (Bahamas),locality,America,,Nassau,Bahamas
@@ -1651,7 +1637,6 @@ New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Sa
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,group,World,,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,locality,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 New Iberia,locality,America,,,Louisiana
-New Orleans,locality,America,,NewOrleans,United States of America
 New Providence,locality,America,,,Bahamas
 New South Wales,GPH_entity,Oceania,901,NewSouthWales,
 New South Wales & Queensland,group,Oceania,,NewSouthWales_Queensland,
@@ -1791,7 +1776,6 @@ Pernambuco,locality,America,,Pernambuco,Brazil
 Persian Gulf,geographical_area,Asia,,PersianGulf,
 Peru,GPH_entity,America,135,Peru,
 Peruvian Colonies,colonial_area,World,,,Peru
-Philadelphia,locality,America,,Philadelphia,United States of America
 Philippines,GPH_entity,Asia,840,Philippines,
 Philippines & Sulu Sultanate,group,Asia,,Philippines_SuluSultanate,
 Phoenix Is.,GPH_entity,Oceania,9467,,
@@ -2301,7 +2285,6 @@ Zimbabwe (Rhodesia) (Southern Rhodesia),GPH_entity,Africa,552,ZimbabweRhodesiaSo
 Zimbabwe (Rhodesia) (Southern Rhodesia) & World (other),group,World,,Othercountries_ZimbabweRhodesiaSouthernRhodesia,
 Zululand,GPH_entity,Africa,5621,,
 French Western Africa,colonial_area,Africa,,,France
-Costa Rica & El Salvador & Guatemala & Honduras & Nicaragua & Panama,group,America,,,
 Australasia,geographical_area,Oceania,,,
 Australasia (other),locality,Oceania,,,Australasia
 Australia (other) & Polynesia,group,Oceania,,,

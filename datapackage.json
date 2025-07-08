@@ -4,12 +4,7 @@
   "title": "RICardo, Research on International Commerce: trade between Nations from c. 1800 to 1938",
   "description": "RICardo (Research on International Commerce) is a project dedicated to trade between nations over a period spanning the beginning of the Industrial Revolution to the eve of the Second World War. It combines a historical trade database covering all of the world’s countries and a website which invites to an exploration of the history of international trade through data visualizations.",
   "version": "1.0",
-  "keywords": [
-    "trade",
-    "history",
-    "economy",
-    "19th century"
-  ],
+  "keywords": ["trade", "history", "economy", "19th century"],
   "created": "2017-12-05T10:03:50.52Z",
   "licenses": [
     {
@@ -496,16 +491,10 @@
         ],
         "foreignKeys": [
           {
-            "fields": [
-              "modified_currency",
-              "year"
-            ],
+            "fields": ["modified_currency", "year"],
             "reference": {
               "resource": "exchange_rates",
-              "fields": [
-                "modified_currency",
-                "year"
-              ]
+              "fields": ["modified_currency", "year"]
             }
           }
         ]
@@ -536,13 +525,7 @@
             "type": "string",
             "description": "translated export/import",
             "constraints": {
-              "enum": [
-                "Exp",
-                "Exp+Imp",
-                "Imp",
-                "Re-exp",
-                "Re-imp"
-              ],
+              "enum": ["Exp", "Exp+Imp", "Imp", "Re-exp", "Re-imp"],
               "required": true
             }
           },
@@ -576,10 +559,7 @@
       "title": "Trade flows transcribed from various international trade statistics volumes",
       "format": "csv",
       "schema": {
-        "missingValues": [
-          "",
-          "?"
-        ],
+        "missingValues": ["", "?"],
         "fields": [
           {
             "name": "source",
@@ -651,10 +631,7 @@
             "type": "string",
             "description": "Precise wether this trade flow is a monatory flow.",
             "constraints": {
-              "enum": [
-                "S",
-                "NS"
-              ]
+              "enum": ["S", "NS"]
             }
           },
           {
@@ -688,9 +665,7 @@
             "type": "string",
             "description": "When '1', indicates trade flows which are subtotals calculated in the source (this field should be a boolean...).",
             "constraints": {
-              "enum": [
-                "1"
-              ]
+              "enum": ["1"]
             }
           },
           {
@@ -735,31 +710,17 @@
             }
           },
           {
-            "fields": [
-              "currency",
-              "year",
-              "reporting"
-            ],
+            "fields": ["currency", "year", "reporting"],
             "reference": {
               "resource": "currencies",
-              "fields": [
-                "currency",
-                "year",
-                "reporting"
-              ]
+              "fields": ["currency", "year", "reporting"]
             }
           },
           {
-            "fields": [
-              "export_import",
-              "special_general"
-            ],
+            "fields": ["export_import", "special_general"],
             "reference": {
               "resource": "expimp_spegen",
-              "fields": [
-                "export_import",
-                "special_general"
-              ]
+              "fields": ["export_import", "special_general"]
             }
           }
         ]
@@ -1105,7 +1066,6 @@
         "data/flows/AnnalesDuCommerceExtrieurFaitsCommerciaux3eSrieAvisDivers_Toscane_Fc4.csv",
         "data/flows/AnnalesDuCommerceExtrieurFaitsCommerciaux3eSrieAvisDivers_Toscane_Fc5.csv",
         "data/flows/AnnalesDuCommerceExtrieurFaitsCommerciaux3eSrieAvisDivers_Toscane_Fc9.csv",
-        "data/flows/AnnalesDuCommerceExtrieurFaitsCommerciaux3eSrieAvisDivers_Vnzula_Fc3.csv",
         "data/flows/AnnuaireDuCommerceExtrieurDeLaRpubliquePolonaise_192223.csv",
         "data/flows/AnnuaireDuCommerceExtrieurDeLaRpubliquePolonaise_192425.csv",
         "data/flows/AnnuaireDuCommerceExtrieurDeLaRpubliquePolonaise_192627.csv",
@@ -2681,36 +2641,6 @@
         "data/flows/JoustelaKE_SuomenVenajanKauppaAutonomianAjanAlkupuoliskollaVv180965DerHandelFinnlandsMitRusslandIj18091865_Vol62.csv",
         "data/flows/KimNNKjPark_KyongJeHakYonGu_Vol573.csv",
         "data/flows/LeCommerceExterieurDeLegypte_18741878.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1832.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1833.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1834.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1835.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1836.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1837.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1838.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1839.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1840.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1841.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1842.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1843.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1844.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1845.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1846.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1847.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1848.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1849.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1851.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1852.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1853.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1854.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1855.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1856.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1857.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1858.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1859.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1860.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1861.csv",
-        "data/flows/LeCommerceExterieurNationalDansSesAspectsDiversRussie_1862.csv",
         "data/flows/LeCommerceExtrieurDeLegypte_18741878.csv",
         "data/flows/LeCommerceExtrieurDeLegypte_1880.csv",
         "data/flows/LeCommerceExtrieurDeLegypte_1899.csv",

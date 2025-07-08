@@ -3,7 +3,7 @@ stats:
   tasks: 9
   errors: 0
   warnings: 0
-  seconds: 64.35
+  seconds: 64.416
 warnings: []
 errors: []
 tasks:
@@ -29,7 +29,7 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.162
+      seconds: 0.159
       md5: 8f7e7bd9b8ced47127f23bb0f13d7e81
       sha256: 0794868df93218834b2611b353dd2c04008ccaa82755ff2e55711824c8c660cb
       bytes: 1126435
@@ -52,11 +52,11 @@ tasks:
       errors: 0
       warnings: 0
       seconds: 0.085
-      md5: da470d0f4ff4bf21c9403a47da88b31a
-      sha256: 73432677d30bdd59b1a48343528a84fec9e2396193d8075bd7841ab427e8b2d1
-      bytes: 144764
+      md5: 0152f03b6053c9e2c35669c00b112ef3
+      sha256: ee2d376e6021c1c80623f48aeca09ba708a6bfd95986eced7bf3980f9bff641a
+      bytes: 143653
       fields: 6
-      rows: 2371
+      rows: 2354
     warnings: []
     errors: []
   - name: ricentities_parents
@@ -73,12 +73,12 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.043
-      md5: da470d0f4ff4bf21c9403a47da88b31a
-      sha256: 73432677d30bdd59b1a48343528a84fec9e2396193d8075bd7841ab427e8b2d1
-      bytes: 144764
+      seconds: 0.045
+      md5: 0152f03b6053c9e2c35669c00b112ef3
+      sha256: ee2d376e6021c1c80623f48aeca09ba708a6bfd95986eced7bf3980f9bff641a
+      bytes: 143653
       fields: 6
-      rows: 2371
+      rows: 2354
     warnings: []
     errors: []
   - name: entity_names
@@ -91,12 +91,12 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.192
-      md5: d9004bef1862bdaf26c67d44082781f5
-      sha256: d4bf482f1fbc0a3c0afd66eacefa219c081c28c107f5df57f61695dc82405112
-      bytes: 443862
+      seconds: 0.21
+      md5: 1bc35ca428fd69d8daabf17999934a31
+      sha256: 85d98c1897643e2fe859a6de4de1ac7ba76fc8f7be641d204660d7717e38250d
+      bytes: 440557
       fields: 2
-      rows: 9932
+      rows: 9852
     warnings: []
     errors: []
   - name: ricentities_groups
@@ -110,12 +110,12 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.081
-      md5: deda24b9dd8a41b7cae12206338d00e0
-      sha256: 10f4ef31b8dfa341f94c4408f14ff3982004cf70ef7048ef4a10907d1af33e29
-      bytes: 139057
+      seconds: 0.085
+      md5: 6d79f7c79cd8e2930f925cd1df1ee16b
+      sha256: c97de77c585846133dd200b6496aa559ebd709a3f0064c4b3a941a70119102a0
+      bytes: 137212
       fields: 3
-      rows: 2135
+      rows: 2109
     warnings: []
     errors: []
   - name: exchange_rates
@@ -131,7 +131,7 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.213
+      seconds: 0.217
       md5: d0fd8772a2430be3455dbf8261980d79
       sha256: 12c5d8c9521854723c00e21c0359c2c63c3dcfadd7adabe10aa4b24932175118
       bytes: 905911
@@ -151,10 +151,10 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.721
-      md5: 4761f9ed8965ea960a319df6ca646e93
-      sha256: e61eb8cf5c92f826d205837bd7855d5351aa4f10babcddc1cb0be409add98c75
-      bytes: 1601026
+      seconds: 0.747
+      md5: 5e85d7f03fb04a98c346bfdb3f10b18a
+      sha256: aa23c85fb1e238b559046fba2dcff39edbda073f627cde9ba54b7697c0abfa96
+      bytes: 1601031
       fields: 4
       rows: 37635
     warnings: []
@@ -171,7 +171,7 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 0.004
+      seconds: 0.005
       md5: 225314148cfa2ac151a99bfa893cc914
       sha256: 053a731735a8252ad35e5c02102f5928ec24231f6bf5d27cb86befafdab86840
       bytes: 3371
@@ -202,11 +202,11 @@ tasks:
     stats:
       errors: 0
       warnings: 0
-      seconds: 62.826
-      md5: 7356f9b60735c6dbc5dd37928b3c3a06
-      sha256: 9ff2090336d917466f456acd1ef8343cc5b2854db6dc8c399488e93dffd1a473
-      bytes: 92849182
+      seconds: 62.839
+      md5: 8fbaccaac45e8e6f2ce5c7c22f1d081e
+      sha256: 9532fae66d436149462b450a6781159e0932458d6ca0dc7056db404aca27fb5c
+      bytes: 92626124
       fields: 15
-      rows: 674947
+      rows: 673088
     warnings: []
     errors: []
