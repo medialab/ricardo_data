@@ -1388,8 +1388,8 @@ Holstein & Saxe Lauenburg & Schleswig,group,Europe,,Holstein_Lauenburg_Schleswig
 Lebanon,GPH_entity,Asia,660,Lebanon,
 Lebanon & Syria,group,Asia,,Lebanon_Syria,
 Leeward Coast of Africa,geographical_area,Africa,,LeewardCoastofAfrica,
-Leeward Coast of Africa (British),geographical_area,Africa,,,
-Leeward Coast of Africa (non British),geographical_area,Africa,,,
+Leeward Coast of Africa (British),colonial_area,Africa,,,United Kingdom
+Leeward Coast of Africa (non British),locality,Africa,,,Leeward Coast of Africa
 Leeward Is.,GPH_entity,America,1063,LeewardIs.,
 Leros,locality,Europe,,,Dodecanese Is. (Aegean Is.)
 Les Cayes,locality,America,,LesCayes,Haiti
