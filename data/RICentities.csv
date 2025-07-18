@@ -636,7 +636,7 @@ Christmas I. & Cocos (Keeling) Is.,group,Oceania,,,
 Cilicia,GPH_entity,Asia,6401,,
 Civitavecchia,locality,Europe,,Civitavecchia,Papal States
 Clarke Is.,locality,Oceania,,,New South Wales
-Clipperton I.,GPH_entity,America,9610,ClippertonI.,
+Clipperton I.,GPH_entity,Oceania,9610,ClippertonI.,
 Cochin China,GPH_entity,Asia,8151,CochinChina,
 Cochin China & French India,group,Asia,,,
 Cochin China & Java & Philippines & Thailand (Siam),group,Asia,,CochinChina_IndonesiaDutchEastIndies_Philippines_ThailandSiam,
@@ -680,7 +680,7 @@ Corisco I.,GPH_entity,Africa,4112,,
 Cork,locality,Europe,,Cork,Ireland
 Coromandel Coast Posts,GPH_entity,Asia,7503,CoromandelCoastPosts,
 Coromandel Coast Posts & Malabar Coast,group,Asia,,CoromandelCoastPosts_MalabarCoast,
-Corps Expeditionnaire d'Orient (Gallipoli and Dardanelles),geographical_area,Asia,,,
+Corps Expeditionnaire d'Orient (Gallipoli and Dardanelles),locality,Europe,,,Greece
 Corsica,locality,Europe,,,France
 Costa Rica,GPH_entity,America,94,CostaRica,
 Costa Rica & El Salvador & Guatemala,group,America,,CostaRica_ElSalvador_Guatemala,
@@ -732,7 +732,7 @@ Czechoslovakia,GPH_entity,Europe,315,Czechoslovakia,
 Czechoslovakia & Hungary,group,Europe,,,
 Dakar,locality,Africa,,,Senegal
 Dalian,GPH_entity,Asia,7132,,
-Dalian & Korea (Chosen) & Vladivostok,group,World,,Dalny_KoreaChosen_Vladivostok,
+Dalian & Korea (Chosen) & Vladivostok,group,Asia,,Dalny_KoreaChosen_Vladivostok,
 Dalmatia,locality,Europe,,,Austria-Hungary (Austrian Empire)
 Damaraland,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Damascus,GPH_entity,Asia,6524,,
@@ -915,7 +915,7 @@ Falkland Is. & Patagonia,group,America,,,
 Falkland Is. & Uruguay,group,America,,FalklandIs._Uruguay,
 Falkland Is. Dependencies,locality,America,,,Falkland Is.
 Fanning I.,GPH_entity,Oceania,9453,,
-Far Eastern Republic,GPH_entity,Europe,735,,
+Far Eastern Republic,GPH_entity,Asia,735,,
 Federated Malay States,GPH_entity,Asia,821,FederatedMalayStates,
 Federated Malay States & Straits Settlements,group,Asia,,,
 Federated States of Micronesia,GPH_entity,Oceania,987,,
@@ -1388,8 +1388,8 @@ Holstein & Saxe Lauenburg & Schleswig,group,Europe,,Holstein_Lauenburg_Schleswig
 Lebanon,GPH_entity,Asia,660,Lebanon,
 Lebanon & Syria,group,Asia,,Lebanon_Syria,
 Leeward Coast of Africa,geographical_area,Africa,,LeewardCoastofAfrica,
-Leeward Coast of Africa (British),geographical_area,Africa,,,
-Leeward Coast of Africa (non British),geographical_area,Africa,,,
+Leeward Coast of Africa (British),colonial_area,Africa,,,United Kingdom
+Leeward Coast of Africa (non British),locality,Africa,,,Leeward Coast of Africa
 Leeward Is.,GPH_entity,America,1063,LeewardIs.,
 Leros,locality,Europe,,,Dodecanese Is. (Aegean Is.)
 Les Cayes,locality,America,,LesCayes,Haiti
@@ -1414,7 +1414,7 @@ Loanda,locality,Africa,,,Gabon
 Loango,GPH_entity,Africa,4842,,
 Lokoja,locality,Africa,,,Nigeria
 Lombardy-Venetia,GPH_entity,Europe,3262,Lombardy-Venetia,
-Lombok,GPH_entity,Oceania,8510,Lombok,
+Lombok,GPH_entity,Asia,8510,Lombok,
 Lomé,locality,Africa,,,Togo (French Togoland)
 London,locality,Europe,,London,United Kingdom
 Long I.,locality,Africa,,,Seychelles
@@ -1665,7 +1665,7 @@ North Australia,locality,Oceania,,,Australia
 North German Confederation,locality,Europe,,NorthGermanConfederation,***NA
 North Germany,locality,Europe,,NorthGermany,Germany (Zollverein)
 North Germany & Prussia,group,Europe,,NorthGermany_Prussia,
-North Macedonia (Former Yugoslav Republic of Macedonia) (Macedonia),GPH_entity,Asia,343,NorthMacedoniaFormerYugoslavRepublicofMacedoniaMacedonia,
+North Macedonia (Former Yugoslav Republic of Macedonia) (Macedonia),GPH_entity,Europe,343,NorthMacedoniaFormerYugoslavRepublicofMacedoniaMacedonia,
 North Sea,geographical_area,Europe,,NorthSea,
 North Western Africa,geographical_area,Africa,,North-WestAfrica,
 North Western America,geographical_area,America,,,
@@ -2166,7 +2166,7 @@ Tripoli (Tripolitania),locality,Africa,,,Tripolitania (Regency of Tripoli)
 Tripolitania (Regency of Tripoli),GPH_entity,Africa,6203,Tripolitania,
 Tripolitania (Regency of Tripoli) & Tunisia (Regency of Tunis),group,Africa,,Tripolitania_Tunisia (Regency of Tunis),
 Tristan da Cunha,GPH_entity,Africa,4060,,
-Tuamotu Is.,GPH_entity,Asia,9603,,
+Tuamotu Is.,GPH_entity,Oceania,9603,,
 Tunis,locality,Africa,,Tunis,Tunisia (Regency of Tunis)
 Tunisia (Regency of Tunis),GPH_entity,Africa,616,Tunisia (Regency of Tunis),
 Tunisia (Regency of Tunis) & World (other),group,World,,Othercountries_Tunisia (Regency of Tunis),
@@ -2215,7 +2215,7 @@ Vieques (Crab Island),locality,America,,,Puerto Rico
 Virgin Gorda,locality,America,,,British Virgin Is.
 Virgin Islands (Danish West Indies),GPH_entity,America,5,VirginIslandsDanishWestIndies,
 Virgin Islands (Danish West Indies) (other),locality,America,,,Virgin Islands (Danish West Indies)
-Vladivostok,GPH_entity,Europe,7352,,
+Vladivostok,GPH_entity,Asia,7352,,
 Volta Region,locality,Africa,,,Ghana (Gold Coast)
 Wallachia,GPH_entity,Europe,3362,Wallachia,
 Wallis and Futuna Is.,GPH_entity,Oceania,9321,WallisandFutunaIs.,
@@ -2230,8 +2230,8 @@ West Indies (East),geographical_area,America,,,
 West Indies (other),locality,America,,,West Indies
 West Indies (West),geographical_area,America,,,
 West Indies & World (other),group,World,,,
-West Irian (Dutch New Guinea),GPH_entity,Oceania,851,WestIrianDutchNewGuinea,
-West Irian (Dutch New Guinea) & Dutch Oceania (other),group,Oceania,,,
+West Irian (Dutch New Guinea),GPH_entity,Asia,851,WestIrianDutchNewGuinea,
+West Irian (Dutch New Guinea) & Dutch Oceania (other),group,World,,,
 Western Africa,geographical_area,Africa,,,
 Western Africa (other),locality,Africa,,,Western Africa
 Western America,geographical_area,America,,WestAmerica,
@@ -2353,3 +2353,4 @@ Sark,locality,Europe,,,Channel Is.
 Red Sea (other),locality,World,,,Red Sea
 Italian Somaliland (other),locality,Africa,,,Italian Somaliland
 Farasan Islands,locality,Asia,,,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
+French East Indies,colonial_area,Asia,,,France
