@@ -99,7 +99,7 @@ data/*.ods
 data/flows.csv
 database_scripts/data*
 database_scripts/out_data
-database_scripts/*.csv
+database_scripts/RICardo_trade_flows_deduplicated.csv
 database_scripts/*.json
 data_old
 #deprecated
