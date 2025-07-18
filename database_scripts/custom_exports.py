@@ -251,7 +251,7 @@ if __name__ == '__main__':
     config = json.load(c)
     conn = sqlite3.connect('../sqlite_data/%s'%config['sqlite_viz'])
     cursor = conn.cursor()
-    export_RICentities_FT_comparision(cursor, 'out_data/RICentities_FT_flow_joined.csv')
-    export_RICentities_FT_comparision(cursor, 'out_data/RICentities_FT_flow_aggregated.csv', 'flow_aggregated')
+    export_sources_csv(cursor, "./RICardo_sources.csv")
+    export_RICentities_csv(cursor, "./RICardo_RICentities.csv")
 
 
