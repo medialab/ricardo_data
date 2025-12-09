@@ -1422,7 +1422,7 @@ Loos Is.,GPH_entity,Africa,4383,,
 Lord Howe I.,GPH_entity,Oceania,9007,,
 Los Testigos Is.,locality,America,,,Venezuela
 Louisiana,GPH_entity,America,1013,,
-Loyalty Is.,locality,Oceania,,,New Caledonia and Dependencies
+Loyalty Is.,locality,Oceania,,,New Caledonia
 Luanda,locality,Africa,,,Angola
 Lübeck,GPH_entity,Europe,276,Lubeck,
 Lübeck & Mecklenburg Schwerin & World (other),group,World,,Lubeck_MecklenburgSchwerin_Othercountries,
@@ -1630,8 +1630,7 @@ New Brunswick & Nova Scotia,group,America,,NewBrunswick_NovaScotia,
 New Brunswick & Nova Scotia & Ontario (Upper Canada) & Prince Edward Is. & Quebec (Lower Canada),group,America,,NewBrunswick_NovaScotia_OntarioUpperCanada_PrinceEdwardIs._QuebecLowerCanada,
 New Brunswick & Nova Scotia & Prince Edward Is.,group,America,,NewBrunswick_NovaScotia_PrinceEdwardIs.,
 New Calabar (Kalabari),GPH_entity,Africa,4793,,
-New Caledonia,locality,Oceania,,,New Caledonia and Dependencies
-New Caledonia and Dependencies,GPH_entity,Oceania,930,NewCaledoniaandDependencies,
+New Caledonia,GPH_entity,Oceania,930,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland),GPH_entity,Oceania,912,NewGuineaGermanNewGuineaKaiserWilhelmsland,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,group,World,,,
@@ -1688,7 +1687,7 @@ Norway,GPH_entity,Europe,385,Norway,
 Norway & Spain & Sweden & Switzerland & United States of America,group,World,,,
 Norway & Sweden,group,Europe,,Norway_Sweden,
 Nossi Be,GPH_entity,Africa,5801,NossiBe,
-Nouméa,locality,Oceania,,,New Caledonia and Dependencies
+Nouméa,locality,Oceania,,,New Caledonia
 Nova Scotia,GPH_entity,America,1022,NovaScotia,
 Obock,GPH_entity,Africa,5222,,
 Obock & Tadjoura,group,Africa,,Obock_Tadjoura,
@@ -2094,7 +2093,7 @@ Sunda Islands,geographical_area,Asia,,SundaIslands,
 Sungai Petani,locality,Asia,,SungaiPetani,Malaysia (British Malaya)
 Surabaya,locality,Asia,,,Indonesia (Dutch East Indies)
 Surinam (Dutch Guiana),GPH_entity,America,115,Surinam (Dutch Guiana),
-Surprise Is.,locality,Oceania,,,New Caledonia and Dependencies
+Surprise Is.,locality,Oceania,,,New Caledonia
 Svalbard Is.,GPH_entity,Europe,3386,,
 Swakopmund,locality,Africa,,,Namibia (South West Africa) (German South West Africa)
 Swan Is.,GPH_entity,America,1087,,
