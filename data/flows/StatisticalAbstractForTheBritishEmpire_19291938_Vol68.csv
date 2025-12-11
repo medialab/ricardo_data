@@ -737,8 +737,8 @@ StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1625,1000,livre sterling,1
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,198,1000,livre sterling,1938,newfoundland,brazil,exp,?,NS,,Years ended 30th June,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,6909,1000,livre sterling,1938,newfoundland,monde,exp,?,NS,,Years ended 30th June,,total_reporting,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,3594,1000,livre sterling,1937,burma,united kingdom,imp,?,NS,sea,Years ended 31st March,,,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,8025,1000,livre sterling,1937,burma,british india: indian merchandise,imp,?,NS,sea,Years ended 31st March,,,Indian merchandise
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,754,1000,livre sterling,1937,burma,british india: other,imp,?,NS,sea,Years ended 31st March,,,non indian merchandise
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,8025,1000,livre sterling,1937,burma,british india,imp,indian merchandise,NS,sea,Years ended 31st March,,,Indian merchandise
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,754,1000,livre sterling,1937,burma,british india,re-imp,other merchandise,NS,sea,Years ended 31st March,,,non indian merchandise
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,461,1000,livre sterling,1937,burma,british malaya,imp,?,NS,sea,Years ended 31st March,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,207,1000,livre sterling,1937,burma,hong kong,imp,?,NS,sea,Years ended 31st March,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,236,1000,livre sterling,1937,burma,other british countries,imp,?,NS,sea,Years ended 31st March,,,
@@ -749,8 +749,8 @@ StatisticalAbstractForTheBritishEmpire_19291938_Vol68,347,1000,livre sterling,19
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1569,1000,livre sterling,1937,burma,japan,imp,?,NS,sea,Years ended 31st March,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,775,1000,livre sterling,1937,burma,united states,imp,?,NS,sea,Years ended 31st March,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,2932,1000,livre sterling,1938,burma,united kingdom,imp,?,NS,sea,Years ended 31st March,,,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,7655,1000,livre sterling,1938,burma,british india: indian merchandise,imp,?,NS,sea,Years ended 31st March,,,Indian merchandise
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,734,1000,livre sterling,1938,burma,british india: other,imp,?,NS,sea,Years ended 31st March,,,non indian merchandise
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,7655,1000,livre sterling,1938,burma,british india,imp,indian merchandise,NS,sea,Years ended 31st March,,,Indian merchandise
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,734,1000,livre sterling,1938,burma,british india,re-imp,other merchandise,NS,sea,Years ended 31st March,,,non indian merchandise
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,482,1000,livre sterling,1938,burma,british malaya,imp,?,NS,sea,Years ended 31st March,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,228,1000,livre sterling,1938,burma,hong kong,imp,?,NS,sea,Years ended 31st March,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,172,1000,livre sterling,1938,burma,other british countries,imp,?,NS,sea,Years ended 31st March,,,
@@ -5714,32 +5714,32 @@ StatisticalAbstractForTheBritishEmpire_19291938_Vol68,82,1000,livre sterling,193
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,102,1000,livre sterling,1938,palestine,egypt,exp,?,NS,,,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,413,1000,livre sterling,1938,palestine,syria,exp,?,NS,,,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,5020,1000,livre sterling,1938,palestine,monde,exp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,587,1000,livre sterling,1930,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,492,1000,livre sterling,1930,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,587,1000,livre sterling,1930,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,492,1000,livre sterling,1930,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,2099,1000,livre sterling,1930,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,685,1000,livre sterling,1931,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,578,1000,livre sterling,1931,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,685,1000,livre sterling,1931,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,578,1000,livre sterling,1931,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1715,1000,livre sterling,1931,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,554,1000,livre sterling,1932,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,377,1000,livre sterling,1932,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,554,1000,livre sterling,1932,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,377,1000,livre sterling,1932,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1210,1000,livre sterling,1932,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,474,1000,livre sterling,1933,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,298,1000,livre sterling,1933,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,474,1000,livre sterling,1933,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,298,1000,livre sterling,1933,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1037,1000,livre sterling,1933,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,551,1000,livre sterling,1934,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,362,1000,livre sterling,1934,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,551,1000,livre sterling,1934,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,362,1000,livre sterling,1934,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1256,1000,livre sterling,1934,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,595,1000,livre sterling,1935,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,445,1000,livre sterling,1935,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,595,1000,livre sterling,1935,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,445,1000,livre sterling,1935,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1486,1000,livre sterling,1935,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,726,1000,livre sterling,1936,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,534,1000,livre sterling,1936,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,726,1000,livre sterling,1936,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,534,1000,livre sterling,1936,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1941,1000,livre sterling,1936,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,935,1000,livre sterling,1937,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,641,1000,livre sterling,1937,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,935,1000,livre sterling,1937,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,641,1000,livre sterling,1937,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,2459,1000,livre sterling,1937,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,946,1000,livre sterling,1938,territory of south-west africa,union of south africa: south african produce,imp,?,NS,,,,,South African Produce
-StatisticalAbstractForTheBritishEmpire_19291938_Vol68,566,1000,livre sterling,1938,territory of south-west africa,union of south africa: not south african produce,imp,?,NS,,,,,non South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,946,1000,livre sterling,1938,territory of south-west africa,union of south africa,imp,south african produce,NS,,,,,South African Produce
+StatisticalAbstractForTheBritishEmpire_19291938_Vol68,566,1000,livre sterling,1938,territory of south-west africa,union of south africa,re-imp,not south african produce,NS,,,,,non South African Produce
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,2417,1000,livre sterling,1938,territory of south-west africa,monde,imp,?,NS,,,,total_reporting,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,1257,1000,livre sterling,1930,territory of south-west africa,united kingdom,exp,?,NS,,,,,
 StatisticalAbstractForTheBritishEmpire_19291938_Vol68,306,1000,livre sterling,1930,territory of south-west africa,union of south africa,exp,?,NS,,,,,

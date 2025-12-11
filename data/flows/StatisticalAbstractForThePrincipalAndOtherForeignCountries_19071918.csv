@@ -5989,8 +5989,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,83701,1000,g
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,18756,1000,gulden,1906,netherlands east indies,australia,exp,private account (merchandise),S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,5845,1000,gulden,1906,netherlands east indies,united states,exp,private account (merchandise),S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,308780,1000,gulden,1906,netherlands east indies,total merchandise,exp,private account (merchandise),,,,,total_reporting,Total= 307780 buit in book Total= 308780
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25320,1000,dollars,1907,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,366,1000,dollars,1907,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25320,1000,dollars,1907,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,366,1000,dollars,1907,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,49,1000,dollars,1907,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,252,1000,dollars,1907,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,100,1000,dollars,1907,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6002,8 +6002,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,59,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,103,1000,dollars,1907,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,152,1000,dollars,1907,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,29267,1000,dollars,1907,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22360,1000,dollars,1908,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,317,1000,dollars,1908,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22360,1000,dollars,1908,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,317,1000,dollars,1908,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,59,1000,dollars,1908,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,310,1000,dollars,1908,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,130,1000,dollars,1908,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6015,8 +6015,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,55,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,184,1000,dollars,1908,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,142,1000,dollars,1908,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25826,1000,dollars,1908,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,23272,1000,dollars,1909,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,346,1000,dollars,1909,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,23272,1000,dollars,1909,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,346,1000,dollars,1909,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,48,1000,dollars,1909,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,251,1000,dollars,1909,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,123,1000,dollars,1909,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6028,8 +6028,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,19,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,127,1000,dollars,1909,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,115,1000,dollars,1909,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26544,1000,dollars,1909,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26478,1000,dollars,1910,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,620,1000,dollars,1910,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26478,1000,dollars,1910,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,620,1000,dollars,1910,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,67,1000,dollars,1910,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,494,1000,dollars,1910,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,164,1000,dollars,1910,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6041,8 +6041,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,199,1000,dollars,1910,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,109,1000,dollars,1910,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30635,1000,dollars,1910,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33774,1000,dollars,1911,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,898,1000,dollars,1911,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33774,1000,dollars,1911,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,898,1000,dollars,1911,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,109,1000,dollars,1911,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,587,1000,dollars,1911,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,253,1000,dollars,1911,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6054,8 +6054,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,129,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,187,1000,dollars,1911,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,127,1000,dollars,1911,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,38787,1000,dollars,1911,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,37425,1000,dollars,1912,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1046,1000,dollars,1912,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,37425,1000,dollars,1912,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1046,1000,dollars,1912,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,98,1000,dollars,1912,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,602,1000,dollars,1912,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,218,1000,dollars,1912,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6067,8 +6067,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,90,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,149,1000,dollars,1912,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,296,1000,dollars,1912,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,42973,1000,dollars,1912,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,32223,1000,dollars,1913,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,932,1000,dollars,1913,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,32223,1000,dollars,1913,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,932,1000,dollars,1913,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,111,1000,dollars,1913,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,326,1000,dollars,1913,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,238,1000,dollars,1913,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6080,8 +6080,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,87,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43,1000,dollars,1913,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,242,1000,dollars,1913,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,36900,1000,dollars,1913,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,31755,1000,dollars,1914,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,813,1000,dollars,1914,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,31755,1000,dollars,1914,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,813,1000,dollars,1914,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,122,1000,dollars,1914,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,336,1000,dollars,1914,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,234,1000,dollars,1914,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6093,8 +6093,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,82,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dollars,1914,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,394,1000,dollars,1914,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,36407,1000,dollars,1914,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30150,1000,dollars,1915,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,780,1000,dollars,1915,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30150,1000,dollars,1915,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,780,1000,dollars,1915,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,90,1000,dollars,1915,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,139,1000,dollars,1915,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,159,1000,dollars,1915,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6106,8 +6106,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,70,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,28,1000,dollars,1915,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,206,1000,dollars,1915,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33884,1000,dollars,1915,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34928,1000,dollars,1916,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,965,1000,dollars,1916,porto rico,united states (foreign merchandise),imp,gen,NS,,,,,Non U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34928,1000,dollars,1916,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,965,1000,dollars,1916,porto rico,united states,re-imp,foreign merchandise,NS,,,,,Non U.S. merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,81,1000,dollars,1916,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,dollars,1916,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24,1000,dollars,1916,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6119,7 +6119,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,36,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dollars,1916,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,197,1000,dollars,1916,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,38951,1000,dollars,1916,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,48134,1000,dollars,1917,porto rico,united states (domestic merchandise),imp,gen,NS,,,,,U.S. merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,48134,1000,dollars,1917,porto rico,united states,imp,spe,NS,,,,,domestic merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,85,1000,dollars,1917,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1917,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dollars,1917,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6131,7 +6131,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,15,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,32,1000,dollars,1917,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,447,1000,dollars,1917,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,53545,1000,dollars,1917,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,58946,1000,dollars,1918,porto rico,united states (domestic& foreign merchandise),imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,58946,1000,dollars,1918,porto rico,united states,imp,gen,NS,,,,,domestic and foreign merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,54,1000,dollars,1918,porto rico,denmark,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1918,porto rico,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,dollars,1918,porto rico,netherlands,imp,gen,NS,,,,,
@@ -6143,7 +6143,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollar
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,81,1000,dollars,1918,porto rico,uruguay,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,471,1000,dollars,1918,porto rico,british india,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,63389,1000,dollars,1918,porto rico,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22065,1000,dollars,1907,porto rico,united states (porto rican merchandise & united states produce returned),exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22065,1000,dollars,1907,porto rico,united states,exp,gen,NS,,,,,Porto Rican merchandise & united states produce returned
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,129,1000,dollars,1907,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33,1000,dollars,1907,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,975,1000,dollars,1907,porto rico,france,exp,gen,NS,,,,,
@@ -6153,8 +6153,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,528,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1910,1000,dollars,1907,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,42,1000,dollars,1907,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26996,1000,dollars,1907,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25886,1000,dollars,1908,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,5,1000,dollars,1908,porto rico,united states (foreign merchandise),exp,gen,NS,,,,,Non Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25886,1000,dollars,1908,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,5,1000,dollars,1908,porto rico,united states,re-exp,foreign merchandise,NS,,,,,Non Porto Rican merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,553,1000,dollars,1908,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,18,1000,dollars,1908,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,677,1000,dollars,1908,porto rico,france,exp,gen,NS,,,,,
@@ -6164,8 +6164,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,627,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1484,1000,dollars,1908,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,48,1000,dollars,1908,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30644,1000,dollars,1908,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26110,1000,dollars,1909,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,281,1000,dollars,1909,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26110,1000,dollars,1909,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,281,1000,dollars,1909,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,106,1000,dollars,1909,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41,1000,dollars,1909,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,547,1000,dollars,1909,porto rico,france,exp,gen,NS,,,,,
@@ -6175,8 +6175,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,446,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1433,1000,dollars,1909,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,97,1000,dollars,1909,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30391,1000,dollars,1909,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,31848,1000,dollars,1910,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,248,1000,dollars,1910,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,31848,1000,dollars,1910,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,248,1000,dollars,1910,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,260,1000,dollars,1910,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,13,1000,dollars,1910,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,584,1000,dollars,1910,porto rico,france,exp,gen,NS,,,,,
@@ -6186,8 +6186,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,834,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2470,1000,dollars,1910,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,88,1000,dollars,1910,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,37961,1000,dollars,1910,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34451,1000,dollars,1911,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,313,1000,dollars,1911,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34451,1000,dollars,1911,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,313,1000,dollars,1911,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,67,1000,dollars,1911,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,14,1000,dollars,1911,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,366,1000,dollars,1911,porto rico,france,exp,gen,NS,,,,,
@@ -6197,8 +6197,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,369,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2990,1000,dollars,1911,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60,1000,dollars,1911,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,39918,1000,dollars,1911,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,42546,1000,dollars,1912,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,327,1000,dollars,1912,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,42546,1000,dollars,1912,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,327,1000,dollars,1912,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,90,1000,dollars,1912,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,16,1000,dollars,1912,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,423,1000,dollars,1912,porto rico,france,exp,gen,NS,,,,,
@@ -6208,8 +6208,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,749,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3638,1000,dollars,1912,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,61,1000,dollars,1912,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,49705,1000,dollars,1912,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40024,1000,dollars,1913,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,506,1000,dollars,1913,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40024,1000,dollars,1913,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,506,1000,dollars,1913,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,112,1000,dollars,1913,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,dollars,1913,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1259,1000,dollars,1913,porto rico,france,exp,gen,NS,,,,,
@@ -6219,8 +6219,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,808,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3800,1000,dollars,1913,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,28,1000,dollars,1913,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,49104,1000,dollars,1913,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34028,1000,dollars,1914,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,395,1000,dollars,1914,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34028,1000,dollars,1914,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,395,1000,dollars,1914,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,496,1000,dollars,1914,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,80,1000,dollars,1914,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,843,1000,dollars,1914,porto rico,france,exp,gen,NS,,,,,
@@ -6230,8 +6230,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1602,1000,do
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3089,1000,dollars,1914,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,51,1000,dollars,1914,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43103,1000,dollars,1914,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41950,1000,dollars,1915,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,356,1000,dollars,1915,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41950,1000,dollars,1915,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,356,1000,dollars,1915,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21,1000,dollars,1915,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6,1000,dollars,1915,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,816,1000,dollars,1915,porto rico,france,exp,gen,NS,,,,,
@@ -6241,8 +6241,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2791,1000,dollars,1915,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,224,1000,dollars,1915,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,49357,1000,dollars,1915,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60097,1000,dollars,1916,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,810,1000,dollars,1916,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60097,1000,dollars,1916,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,810,1000,dollars,1916,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1916,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,34,1000,dollars,1916,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,276,1000,dollars,1916,porto rico,france,exp,gen,NS,,,,,
@@ -6252,8 +6252,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollar
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2781,1000,dollars,1916,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,277,1000,dollars,1916,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,66588,1000,dollars,1916,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,72084,1000,dollars,1917,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,978,1000,dollars,1917,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,72084,1000,dollars,1917,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,978,1000,dollars,1917,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1917,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,54,1000,dollars,1917,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,567,1000,dollars,1917,porto rico,france,exp,gen,NS,,,,,
@@ -6263,8 +6263,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollar
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3561,1000,dollars,1917,porto rico,cuba,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1257,1000,dollars,1917,porto rico,san domingo,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,80971,1000,dollars,1917,porto rico,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,63776,1000,dollars,1918,porto rico,united states (porto rican merchandise),exp,spe,NS,,,,,Porto Rican merchandise
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1278,1000,dollars,1918,porto rico,united states (united states produce returned),exp,gen,NS,,,,,United States produce returned
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,63776,1000,dollars,1918,porto rico,united states,exp,spe,NS,,,,,Porto Rican merchandise
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1278,1000,dollars,1918,porto rico,united states,re-exp,united states produce returned to usa,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1918,porto rico,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,156,1000,dollars,1918,porto rico,united kingdom,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,230,1000,dollars,1918,porto rico,france,exp,gen,NS,,,,,
@@ -22846,13 +22846,13 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1124,1000,fr
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2243,1000,francs,1918,tunisia,tripoli,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1774,1000,francs,1918,tunisia,egypt,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,129548,1000,francs,1918,tunisia,total,exp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,101103,1000,francs,1912,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,59,1000,francs,1912,french indo-china,french colonies (foreign produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,101103,1000,francs,1912,french indo-china,france and french colonies,imp,french produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,59,1000,francs,1912,french indo-china,french colonies,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2347,1000,francs,1912,french indo-china,netherlands east indies,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,56,1000,francs,1912,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,107486,1000,francs,1913,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,80,1000,francs,1913,french indo-china,france (foreign produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,72,1000,francs,1913,french indo-china,french colonies (foreign produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,107486,1000,francs,1913,french indo-china,france and french colonies,imp,french produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,80,1000,francs,1913,french indo-china,france,re-imp,foreign merchandise,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,72,1000,francs,1913,french indo-china,french colonies,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2742,1000,francs,1913,french indo-china,germany,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,215,1000,francs,1913,french indo-china,netherlands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,535,1000,francs,1913,french indo-china,belgium,imp,spe (merchandise only),NS,,,,,
@@ -22872,12 +22872,12 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,64890,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,51,1000,francs,1913,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,291,1000,francs,1913,french indo-china,australia,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,234762,1000,francs,1913,french indo-china,total,imp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,89869,1000,francs,1914,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,89869,1000,francs,1914,french indo-china,france and french colonies,imp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3104,1000,francs,1914,french indo-china,netherlands east indies,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,61,1000,francs,1914,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,47019,1000,francs,1915,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,28,1000,francs,1915,french indo-china,france (foreign produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,35,1000,francs,1915,french indo-china,french colonies (foreign produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,47019,1000,francs,1915,french indo-china,france and french colonies,imp,french produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,28,1000,francs,1915,french indo-china,france,re-imp,foreign merchandise,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,35,1000,francs,1915,french indo-china,french colonies,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,155,1000,francs,1915,french indo-china,germany,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,64,1000,francs,1915,french indo-china,netherlands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,8,1000,francs,1915,french indo-china,belgium,imp,spe (merchandise only),NS,,,,,
@@ -22897,9 +22897,9 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,55330,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,52,1000,francs,1915,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,13,1000,francs,1915,french indo-china,australia,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,162095,1000,francs,1915,french indo-china,total,imp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,62841,1000,francs,1916,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,francs,1916,french indo-china,france (foreign produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,93,1000,francs,1916,french indo-china,french colonies (foreign produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,62841,1000,francs,1916,french indo-china,france and french colonies,imp,french produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,francs,1916,french indo-china,france,re-imp,foreign merchandise,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,93,1000,francs,1916,french indo-china,french colonies,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1916,french indo-china,germany,imp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,153,1000,francs,1916,french indo-china,netherlands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6,1000,francs,1916,french indo-china,belgium,imp,spe (merchandise only),NS,,,,,
@@ -22919,9 +22919,9 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,76970,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,246,1000,francs,1916,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33,1000,francs,1916,french indo-china,australia,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,234332,1000,francs,1916,french indo-china,total,imp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60561,1000,francs,1917,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,55,1000,francs,1917,french indo-china,france (foreign produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,francs,1917,french indo-china,french colonies (foreign produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60561,1000,francs,1917,french indo-china,france and french colonies,imp,french produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,55,1000,francs,1917,french indo-china,france,re-imp,foreign merchandise,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,francs,1917,french indo-china,french colonies,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1917,french indo-china,germany,imp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,465,1000,francs,1917,french indo-china,netherlands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1917,french indo-china,belgium,imp,spe (merchandise only),NS,,,,,Pas de données
@@ -22941,9 +22941,9 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,77571,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1457,1000,francs,1917,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,162,1000,francs,1917,french indo-china,australia,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,244371,1000,francs,1917,french indo-china,total,imp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33214,1000,francs,1918,french indo-china,france and french colonies (french produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,francs,1918,french indo-china,france (foreign produce),imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,francs,1918,french indo-china,french colonies (foreign produce),imp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,33214,1000,francs,1918,french indo-china,france and french colonies,imp,french produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,francs,1918,french indo-china,france,re-imp,foreign merchandise,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,francs,1918,french indo-china,french colonies,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1918,french indo-china,germany,imp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22,1000,francs,1918,french indo-china,netherlands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1918,french indo-china,belgium,imp,spe (merchandise only),NS,,,,,Pas de données
@@ -22962,11 +22962,11 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,8917,1000,fr
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,97486,1000,francs,1918,french indo-china,hong kong,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3573,1000,francs,1918,french indo-china,philippine islands,imp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,259,1000,francs,1918,french indo-china,australia,imp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,49284,1000,francs,1912,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,49284,1000,francs,1912,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1843,1000,francs,1912,french indo-china,siam,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,888,1000,francs,1912,french indo-china,netherlands east indies,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22666,1000,francs,1912,french indo-china,philippine islands,exp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,80614,1000,francs,1913,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,80614,1000,francs,1913,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4416,1000,francs,1913,french indo-china,germany,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1803,1000,francs,1913,french indo-china,belgium,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6211,1000,francs,1913,french indo-china,united kingdom,exp,spe (merchandise only),NS,,,,,
@@ -22980,10 +22980,10 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,17319,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,93360,1000,francs,1913,french indo-china,hong kong,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,8839,1000,francs,1913,french indo-china,philippine islands,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,285459,1000,francs,1913,french indo-china,total,exp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,77839,1000,francs,1914,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,77839,1000,francs,1914,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,23451,1000,francs,1914,french indo-china,netherlands east indies,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,9439,1000,francs,1914,french indo-china,philippine islands,exp,spe (merchandise only),NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60652,1000,francs,1915,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60652,1000,francs,1915,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1915,french indo-china,germany,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1915,french indo-china,belgium,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,5364,1000,francs,1915,french indo-china,united kingdom,exp,spe (merchandise only),NS,,,,,
@@ -22997,7 +22997,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3744,1000,fr
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,112343,1000,francs,1915,french indo-china,hong kong,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,17450,1000,francs,1915,french indo-china,philippine islands,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,286239,1000,francs,1915,french indo-china,total,exp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,67647,1000,francs,1916,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,67647,1000,francs,1916,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1916,french indo-china,germany,exp,spe (merchandise only),NS,,,,,Moins de 500 Francs
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1916,french indo-china,belgium,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2315,1000,francs,1916,french indo-china,united kingdom,exp,spe (merchandise only),NS,,,,,
@@ -23011,7 +23011,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,11657,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,127515,1000,francs,1916,french indo-china,hong kong,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,19722,1000,francs,1916,french indo-china,philippine islands,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,297748,1000,francs,1916,french indo-china,total,exp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,57552,1000,francs,1917,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,57552,1000,francs,1917,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1917,french indo-china,germany,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1917,french indo-china,belgium,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,430,1000,francs,1917,french indo-china,united kingdom,exp,spe (merchandise only),NS,,,,,
@@ -23025,7 +23025,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24996,1000,f
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,133134,1000,francs,1917,french indo-china,hong kong,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,23261,1000,francs,1917,french indo-china,philippine islands,exp,spe (merchandise only),NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,316581,1000,francs,1917,french indo-china,total,exp,spe (merchandise only),NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21658,1000,francs,1918,french indo-china,france and french colonies (french produce),exp,spe (merchandise only),NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21658,1000,francs,1918,french indo-china,france and french colonies,exp,french produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1918,french indo-china,germany,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1918,french indo-china,belgium,exp,spe (merchandise only),NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,francs,1918,french indo-china,united kingdom,exp,spe (merchandise only),NS,,,,,Less than 500 Francs
@@ -23653,55 +23653,55 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4057,1000,fr
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,79832,1000,francs,1918,algeria,morocco,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3040,1000,francs,1918,algeria,united states,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,860071,1000,francs,1918,algeria,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20180,1000,dollars,1913,alaska,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20180,1000,dollars,1913,alaska,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,801,1000,dollars,1913,alaska,canada,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,114,1000,dollars,1913,alaska,"russia, asiatic",imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21810,1000,dollars,1913,alaska,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21930,1000,dollars,1914,alaska,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21930,1000,dollars,1914,alaska,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,373,1000,dollars,1914,alaska,canada,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,166,1000,dollars,1914,alaska,"russia, asiatic",imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,23029,1000,dollars,1914,alaska,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20793,1000,dollars,1915,alaska,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20793,1000,dollars,1915,alaska,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,375,1000,dollars,1915,alaska,canada,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,246,1000,dollars,1915,alaska,"russia, asiatic",imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21901,1000,dollars,1915,alaska,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26502,1000,dollars,1916,alaska,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,26502,1000,dollars,1916,alaska,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,940,1000,dollars,1916,alaska,canada,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,85,1000,dollars,1916,alaska,"russia, asiatic",imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,28153,1000,dollars,1916,alaska,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,38428,1000,dollars,1917,alaska,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,38428,1000,dollars,1917,alaska,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1319,1000,dollars,1917,alaska,canada,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,151,1000,dollars,1917,alaska,"russia, asiatic",imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40462,1000,dollars,1917,alaska,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,44280,1000,dollars,1918,alaska,"united states merchandise, foreign merchandise from the usa",imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,44280,1000,dollars,1918,alaska,united states,imp,gen,NS,,,,,domestic and foreign merchandise
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,850,1000,dollars,1918,alaska,canada,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,118,1000,dollars,1918,alaska,"russia, asiatic",imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,45248,1000,dollars,1918,alaska,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1009,1000,dollars,1913,alaska,united states produce returned to usa,exp,gen,S,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1009,1000,dollars,1913,alaska,united states,re-exp,united states produce returned to usa,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1303,1000,dollars,1913,alaska,canada,exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,54,1000,dollars,1913,alaska,"russia, asiatic",exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40689,1000,dollars,1913,alaska,total,exp,gen,S,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1085,1000,dollars,1914,alaska,united states produce returned to usa,exp,gen,S,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1085,1000,dollars,1914,alaska,united states,re-exp,united states produce returned to usa,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1068,1000,dollars,1914,alaska,canada,exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,31,1000,dollars,1914,alaska,"russia, asiatic",exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,35233,1000,dollars,1914,alaska,total,exp,gen,S,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1238,1000,dollars,1915,alaska,united states produce returned to usa,exp,gen,S,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1238,1000,dollars,1915,alaska,united states,re-exp,united states produce returned to usa,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,973,1000,dollars,1915,alaska,canada,exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,28,1000,dollars,1915,alaska,"russia, asiatic",exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43792,1000,dollars,1915,alaska,total,exp,gen,S,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1345,1000,dollars,1916,alaska,united states produce returned to usa,exp,gen,S,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1345,1000,dollars,1916,alaska,united states,re-exp,united states produce returned to usa,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1373,1000,dollars,1916,alaska,canada,exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,11,1000,dollars,1916,alaska,"russia, asiatic",exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,67057,1000,dollars,1916,alaska,total,exp,gen,S,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1561,1000,dollars,1917,alaska,united states produce returned to usa,exp,gen,S,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1561,1000,dollars,1917,alaska,united states,re-exp,united states produce returned to usa,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2467,1000,dollars,1917,alaska,canada,exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,8,1000,dollars,1917,alaska,"russia, asiatic",exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,78658,1000,dollars,1917,alaska,total,exp,gen,S,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2420,1000,dollars,1918,alaska,united states produce returned to usa,exp,gen,S,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2420,1000,dollars,1918,alaska,united states,re-exp,united states produce returned to usa,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2441,1000,dollars,1918,alaska,canada,exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,22,1000,dollars,1918,alaska,"russia, asiatic",exp,gen,S,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,86475,1000,dollars,1918,alaska,total,exp,gen,S,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,14124,1000,dollars,1907,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,14124,1000,dollars,1907,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,349,1000,dollars,1907,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,483,1000,dollars,1907,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,326,1000,dollars,1907,hawaii,chile,imp,gen,NS,,,,,
@@ -23712,7 +23712,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,658,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,304,1000,dollars,1907,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6,1000,dollars,1907,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,18587,1000,dollars,1907,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,14639,1000,dollars,1908,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,14639,1000,dollars,1908,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,310,1000,dollars,1908,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,481,1000,dollars,1908,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,491,1000,dollars,1908,hawaii,chile,imp,gen,NS,,,,,
@@ -23723,7 +23723,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,699,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,349,1000,dollars,1908,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,dollars,1908,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,19721,1000,dollars,1908,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,17193,1000,dollars,1909,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,17193,1000,dollars,1909,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,272,1000,dollars,1909,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,303,1000,dollars,1909,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,385,1000,dollars,1909,hawaii,chile,imp,gen,NS,,,,,
@@ -23734,7 +23734,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,600,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,316,1000,dollars,1909,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,12,1000,dollars,1909,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21814,1000,dollars,1909,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20289,1000,dollars,1910,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20289,1000,dollars,1910,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,313,1000,dollars,1910,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,456,1000,dollars,1910,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,569,1000,dollars,1910,hawaii,chile,imp,gen,NS,,,,,
@@ -23745,7 +23745,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,519,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,277,1000,dollars,1910,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2,1000,dollars,1910,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25166,1000,dollars,1910,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21677,1000,dollars,1911,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,21677,1000,dollars,1911,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,591,1000,dollars,1911,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,566,1000,dollars,1911,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,532,1000,dollars,1911,hawaii,chile,imp,gen,NS,,,,,
@@ -23756,7 +23756,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,553,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,294,1000,dollars,1911,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,dollars,1911,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,27116,1000,dollars,1911,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24419,1000,dollars,1912,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24419,1000,dollars,1912,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,370,1000,dollars,1912,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,712,1000,dollars,1912,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,591,1000,dollars,1912,hawaii,chile,imp,gen,NS,,,,,
@@ -23767,7 +23767,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,623,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,330,1000,dollars,1912,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2,1000,dollars,1912,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30251,1000,dollars,1912,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30412,1000,dollars,1913,hawaii,united states merchandise,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30412,1000,dollars,1913,hawaii,united states,imp,united states produce,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,425,1000,dollars,1913,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,798,1000,dollars,1913,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,710,1000,dollars,1913,hawaii,chile,imp,gen,NS,,,,,
@@ -23778,8 +23778,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,844,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,467,1000,dollars,1913,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6,1000,dollars,1913,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,37520,1000,dollars,1913,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25571,1000,dollars,1914,hawaii,united states merchandise,imp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,202,1000,dollars,1914,hawaii,foreign merchandise from the united states,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,25571,1000,dollars,1914,hawaii,united states,imp,united states produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,202,1000,dollars,1914,hawaii,united states,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,696,1000,dollars,1914,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,468,1000,dollars,1914,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,332,1000,dollars,1914,hawaii,chile,imp,gen,NS,,,,,
@@ -23790,8 +23790,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,950,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,569,1000,dollars,1914,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,46,1000,dollars,1914,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,32056,1000,dollars,1914,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24601,1000,dollars,1915,hawaii,united states merchandise,imp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,404,1000,dollars,1915,hawaii,foreign merchandise from the united states,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24601,1000,dollars,1915,hawaii,united states,imp,united states produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,404,1000,dollars,1915,hawaii,united states,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,230,1000,dollars,1915,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,361,1000,dollars,1915,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,465,1000,dollars,1915,hawaii,chile,imp,gen,NS,,,,,
@@ -23802,8 +23802,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,596,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,777,1000,dollars,1915,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,85,1000,dollars,1915,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30721,1000,dollars,1915,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30825,1000,dollars,1916,hawaii,united states merchandise,imp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,302,1000,dollars,1916,hawaii,foreign merchandise from the united states,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,30825,1000,dollars,1916,hawaii,united states,imp,united states produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,302,1000,dollars,1916,hawaii,united states,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1916,hawaii,germany,imp,gen,NS,,,,,Less than 500 Dollars
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,73,1000,dollars,1916,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,681,1000,dollars,1916,hawaii,chile,imp,gen,NS,,,,,
@@ -23814,8 +23814,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1184,1000,do
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,255,1000,dollars,1916,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,57,1000,dollars,1916,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,37196,1000,dollars,1916,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,44023,1000,dollars,1917,hawaii,united states merchandise,imp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,307,1000,dollars,1917,hawaii,foreign merchandise from the united states,imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,44023,1000,dollars,1917,hawaii,united states,imp,united states produce,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,307,1000,dollars,1917,hawaii,united states,re-imp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3,1000,dollars,1917,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,87,1000,dollars,1917,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,899,1000,dollars,1917,hawaii,chile,imp,gen,NS,,,,,
@@ -23826,7 +23826,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1130,1000,do
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,165,1000,dollars,1917,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,36,1000,dollars,1917,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,50813,1000,dollars,1917,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43647,1000,dollars,1918,hawaii,"united states merchandise, foreign merchandise from the united states",imp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43647,1000,dollars,1918,hawaii,united states,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6,1000,dollars,1918,hawaii,germany,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,69,1000,dollars,1918,hawaii,united kingdom,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1001,1000,dollars,1918,hawaii,chile,imp,gen,NS,,,,,
@@ -23837,7 +23837,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,844,1000,dol
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,118,1000,dollars,1918,hawaii,australia and tasmania,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,9,1000,dollars,1918,hawaii,new zealand,imp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,50454,1000,dollars,1918,hawaii,total,imp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,29055,1000,dollars,1907,hawaii,"hawaiian merchandise to the usa, u.s produce returned to the usa",exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,29055,1000,dollars,1907,hawaii,hawaii,exp,gen,NS,,,,,hawaiian merchandise to the usa + u.s produce returned to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1907,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1907,hawaii,germany,exp,gen,NS,,,,,Moins de 500 Dollars
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,44,1000,dollars,1907,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23848,7 +23848,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1907,hawaii,philippine islands,exp,gen,NS,,,,,Moins de 500 Dollars
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,10,1000,dollars,1907,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,29302,1000,dollars,1907,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41595,1000,dollars,1908,hawaii,"hawaiian merchandise to the usa, u.s produce returned to the usa",exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41595,1000,dollars,1908,hawaii,hawaii,exp,gen,NS,,,,,hawaiian merchandise to the usa + u.s produce returned to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1908,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,10,1000,dollars,1908,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2,1000,dollars,1908,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23859,7 +23859,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,9,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,2,1000,dollars,1908,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3,1000,dollars,1908,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,42238,1000,dollars,1908,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,39935,1000,dollars,1909,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,39935,1000,dollars,1909,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1909,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dollars,1909,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3,1000,dollars,1909,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23870,7 +23870,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dollars,1909,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,dollars,1909,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40517,1000,dollars,1909,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,45441,1000,dollars,1910,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,45441,1000,dollars,1910,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1910,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,19,1000,dollars,1910,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,1,1000,dollars,1910,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23881,7 +23881,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,5,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,19,1000,dollars,1910,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,16,1000,dollars,1910,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,46490,1000,dollars,1910,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40312,1000,dollars,1911,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,40312,1000,dollars,1911,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1911,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41,1000,dollars,1911,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,46,1000,dollars,1911,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23892,7 +23892,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,20,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,298,1000,dollars,1911,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,dollars,1911,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41938,1000,dollars,1911,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,53989,1000,dollars,1912,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,53989,1000,dollars,1912,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1912,hawaii,norway,exp,gen,NS,,,,,Moins de 500 Dollars
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,110,1000,dollars,1912,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,87,1000,dollars,1912,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23903,7 +23903,7 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,54,1000,dollars,1912,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,8,1000,dollars,1912,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,55449,1000,dollars,1912,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41661,1000,dollars,1913,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41661,1000,dollars,1913,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,11,1000,dollars,1913,hawaii,norway,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,98,1000,dollars,1913,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,144,1000,dollars,1913,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23914,8 +23914,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,265,1000,dollars,1913,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,15,1000,dollars,1913,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,43472,1000,dollars,1913,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,39539,1000,dollars,1914,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,50,1000,dollars,1914,hawaii,foreign merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,39539,1000,dollars,1914,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,50,1000,dollars,1914,hawaii,united states,re-exp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1914,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,119,1000,dollars,1914,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,70,1000,dollars,1914,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23926,8 +23926,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,24,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,518,1000,dollars,1914,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,3,1000,dollars,1914,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,41594,1000,dollars,1914,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60611,1000,dollars,1915,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,256,1000,dollars,1915,hawaii,foreign merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,60611,1000,dollars,1915,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,256,1000,dollars,1915,hawaii,united states,re-exp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1915,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,6,1000,dollars,1915,hawaii,germany,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,116,1000,dollars,1915,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23938,8 +23938,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,5,1000,dolla
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,179,1000,dollars,1915,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,4,1000,dollars,1915,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,62465,1000,dollars,1915,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,62704,1000,dollars,1916,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,48,1000,dollars,1916,hawaii,foreign merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,62704,1000,dollars,1916,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,48,1000,dollars,1916,hawaii,united states,re-exp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1916,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1916,hawaii,germany,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1916,hawaii,united kingdom,exp,gen,NS,,,,,Moins de 500 Dollars
@@ -23950,8 +23950,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,16,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,66,1000,dollars,1916,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,11,1000,dollars,1916,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,64665,1000,dollars,1916,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,72615,1000,dollars,1917,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,112,1000,dollars,1917,hawaii,foreign merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,72615,1000,dollars,1917,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,112,1000,dollars,1917,hawaii,united states,re-exp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1917,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1917,hawaii,germany,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,dollars,1917,hawaii,united kingdom,exp,gen,NS,,,,,
@@ -23962,8 +23962,8 @@ StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,10,1000,doll
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,202,1000,dollars,1917,hawaii,philippine islands,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,7,1000,dollars,1917,hawaii,australia and tasmania,exp,gen,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,75402,1000,dollars,1917,hawaii,total,exp,gen,NS,,,,total_reporting,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,75178,1000,dollars,1918,hawaii,hawaiian merchandise to the usa,exp,gen,NS,,,,,
-StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,132,1000,dollars,1918,hawaii,foreign merchandise to the usa,exp,gen,NS,,,,,
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,75178,1000,dollars,1918,hawaii,united states,exp,spe,NS,,,,,hawaiian merchandise to the usa
+StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,132,1000,dollars,1918,hawaii,united states,re-exp,foreign merchandise,NS,,,,,
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1918,hawaii,norway,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1918,hawaii,germany,exp,gen,NS,,,,,Pas de données
 StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918,,1000,dollars,1918,hawaii,united kingdom,exp,gen,NS,,,,,Moins de 500 Dollars

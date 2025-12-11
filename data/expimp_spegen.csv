@@ -91,7 +91,7 @@ imp,?,Imp,
 imp,,Imp,
 Imp,,Imp,
 uitvoer,gen,Exp,Gen
-re-exp,gen,Re-exp,Gen
+re-exp,gen,Re-exp,Gen-Spe
 uitvoer uit het vrije verkeer,spe,Exp,Spe
 invoer tot verbruik,spe,Imp,Spe
 Imp,Spe,Imp,Spe
@@ -99,7 +99,7 @@ Exp,Spe,Exp,Spe
 Imp,Gen,Imp,Gen
 Exp,Gen,Exp,Gen
 Re-exp,Gen-Spe,Re-exp,Gen-Spe
-Re-exp,Gen,Re-exp,Gen
+Re-exp,Gen,Re-exp,Gen-Spe
 Imp,gen,Imp,Gen
 Imp,?,Imp,
 Exp,spe,Exp,Spe
@@ -107,11 +107,25 @@ Exp,?,Exp,
 Exp,gen,Exp,Gen
 exp,uitvoer uit het vrije verkeer,Exp,Spe
 ,,Imp,
-re-exp,,Re-exp,
-re-exp,spe,Re-exp,
+re-exp,,Re-exp,Gen-Spe
+re-exp,spe,Re-exp,Gen-Spe
 uitvoer uit her vrije verkeer ,spe,Exp,Spe
 uitvoer huit het vrije verkeer ,spe,Exp,Spe
 uitvoer uit her vrije verkeer,spe,Exp,Spe
 uitvoer huit het vrije verkeer,spe,Exp,Spe
 exp,spe (uitvoer uit het vrije verkeer),Exp,Spe
 Imp,spe,Imp,Spe
+re-imp,marchandises étrangères,Re-imp,Gen-Spe
+imp,marchandises étrangères,Imp,Spe
+imp,marchandises françaises,Imp,Spe
+re-imp,marchandises françaises,Re-imp,Gen-Spe
+imp,indian merchandise,Imp,Spe
+re-imp,other merchandise,Re-imp,Gen-Spe
+re-imp,not south african produce,Re-imp,Gen-Spe
+imp,south african produce,Imp,Spe
+re-imp,foreign produce,Re-imp,Gen-Spe
+imp,french produce,Imp,Spe
+imp,united states produce,Imp,Spe
+re-exp,united states produce returned to usa,Re-exp,Gen-Spe
+re-exp,foreign merchandise,Re-exp,Gen-Spe
+re-imp,foreign merchandise,Re-imp,Gen-Spe
