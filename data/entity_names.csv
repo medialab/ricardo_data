@@ -2195,9 +2195,10 @@ colonies françaises,French Colonies
 colonies françaises (marchandises étrangères),French Colonies (Foreign produce)
 colonies françaises (marchandises françaises),French Colonies (French produce)
 colonies françaises (sauf algérie),French Colonies (other)
-colonies françaises d'europe (marchandises étrangères),French Europe (Foreign produce)
+colonies françaises d'europe,French Europe
 colonies françaises de l'afrique de l'est,French Eastern Africa
 colonies françaises de l'afrique de l'ouest,French West Africa
+colonies françaises de la côte occidentale d'afrique,French Western Africa
 colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French Western Africa (Foreign produce)
 colonies françaises de la côte occidentale d'afrique (marchandises françaises),French Western Africa (French produce)
 colonies hollandaises,Dutch Colonies
@@ -3346,6 +3347,7 @@ france et algerie,Algeria (Regency of Algiers) & France
 france et algérie,Algeria (Regency of Algiers) & France
 france et colonies,France & French Colonies
 france et dépendances,France & French Colonies
+france et des colonies françaises,France & French Colonies
 france et des colonies françaises (marchandises françaises),France (French produce) & French Colonies (French produce)
 france et poss. fr. en méd.,France & French Mediterranean Sea
 france et possessions,France & French Colonies
@@ -9851,3 +9853,5 @@ konfidah and salif (arabia),Kunfuda & As-Salif
 mauritius and mahé,Mahé & Mauritius
 modi,Unknown
 possesões portugueza da asia,Portuguese Asia
+angleterre (autre),United Kingdom (other)
+france (autre),France (other)

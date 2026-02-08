@@ -1,0 +1,47 @@
+year,reporting,partner,expimp,GROUP_CONCAT(original_partner),GROUP_CONCAT(source),GROUP_CONCAT(spegen),GROUP_CONCAT(species_bullions),GROUP_CONCAT(transport_type),nb_dup
+1889,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1889_Ivvii,StatistiquesColoniales_1905_Vol2",,,,2
+1889,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1889_Ivvii,StatistiquesColoniales_1905_Vol2",,,,2
+1890,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1890_Ivvii,StatistiquesColoniales_1905_Vol2",,,,2
+1890,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1890_Ivvii,StatistiquesColoniales_1905_Vol2",,,,2
+1891,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1891_Ivvii,StatistiquesColoniales_1905_Vol2",,,,2
+1891,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1891_Ivvii,StatistiquesColoniales_1905_Vol2",,,,2
+1892,New Caledonia,World as reported,Exp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1892,New Caledonia,World as reported,Imp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1893,New Caledonia,World as reported,Exp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1893,New Caledonia,World as reported,Imp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1894,New Caledonia,World as reported,Exp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1894,New Caledonia,World as reported,Imp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1895,New Caledonia,World as reported,Exp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1895,New Caledonia,World as reported,Imp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_18921895_Vixiii",,,,2
+1896,Madagascar (Malagasy Republic),France,Exp,"france,france","FranceStatistiquesColonialesCommerce_1896_660661,FranceStatistiquesColonialesCommerce_1896_662663",Spe,,,2
+1896,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1896_316317,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1896,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1896_302303,StatistiquesColoniales_1905_Vol2",,NS,,2
+1897,New Caledonia,World as reported,Exp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_1897_340341",Spe,,,2
+1897,New Caledonia,World as reported,Imp,"world,total","StatistiquesColoniales_1905_Vol2,FranceStatistiquesColonialesCommerce_1897_326327",,NS,,2
+1898,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1898_402403,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1898,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1898_376377,StatistiquesColoniales_1905_Vol2",,,,2
+1899,New Caledonia,France,Exp,"france,france","FranceStatistiquesColonialesCommerce_1899_362363,FranceStatistiquesColonialesCommerce_1899_392393","Spe,Spe",,,2
+1899,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1899_392393,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1899,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1899_362363,StatistiquesColoniales_1905_Vol2",,,,2
+1900,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1900_390391,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1900,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1900_350351,StatistiquesColoniales_1905_Vol2",,,,2
+1901,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1901_976977,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1901,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1901_946947,StatistiquesColoniales_1905_Vol2",,,,2
+1902,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1902_972973,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1902,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1902_942943,StatistiquesColoniales_1905_Vol2",,,,2
+1903,Benin (Dahomey),France,Imp,"france,france","FranceStatistiquesColonialesCommerce_1903_168169,FranceStatistiquesColonialesCommerce_1903_168169",Spe,,,2
+1903,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1903_10081009,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1903,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1903_978979,StatistiquesColoniales_1905_Vol2",,,,2
+1904,French India,France,Imp,"france,france","FranceStatistiquesColonialesCommerce_1904_688689,FranceStatistiquesColonialesCommerce_1904_688689",Spe,,,2
+1904,French India,French Colonies,Imp,"colonies françaises,colonies françaises","FranceStatistiquesColonialesCommerce_1904_688689,FranceStatistiquesColonialesCommerce_1904_688689",Spe,,,2
+1904,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesCommerce_1904_12381239,StatistiquesColoniales_1905_Vol2",Spe,,,2
+1904,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesCommerce_1904_12081209,StatistiquesColoniales_1905_Vol2",,,,2
+1905,New Caledonia,World as reported,Exp,"total,world","FranceStatistiquesColonialesStatistiquesGnrales_ColoniesDafrique_1905_I_8687,StatistiquesColoniales_1905_Vol2",Gen,,,2
+1905,New Caledonia,World as reported,Imp,"total,world","FranceStatistiquesColonialesStatistiquesGnrales_ColoniesDafrique_1905_I_8283,StatistiquesColoniales_1905_Vol2",Gen,,,2
+1909,French Indochina,French Colonies,Re-imp,"colonies françaises,french colonies","StatistiquesDuCommerceDesColoniesFranaises_1909_I_2029,StatisticalAbstractForThePrincipalAndOtherForeignCountries_19011912_Vol39","Gen-Spe,Gen-Spe",NS,,2
+1910,French Indochina,French Colonies,Re-imp,"colonies françaises,french colonies","StatistiquesDuCommerceDesColoniesFranaises_1910_I_2033,StatisticalAbstractForThePrincipalAndOtherForeignCountries_19011912_Vol39","Gen-Spe,Gen-Spe",NS,,2
+1912,French Indochina,French Colonies,Re-imp,"colonies françaises,french colonies","StatistiquesDuCommerceDesColoniesFranaises_1912_I_2033,StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918","Gen-Spe,Gen-Spe",NS,,2
+1921,Benin (Dahomey),French Colonies,Imp,"colonies françaises,colonies françaises","RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685",Spe,,,2
+1921,French Guiana,French Colonies,Imp,"colonies françaises,colonies françaises","RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685,RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1921_7685",Spe,,,2
+1925,Martinique,French Colonies,Imp,"colonies françaises,colonies françaises","RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1925_8493,RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1925_8493",Spe,,,2
+1927,French India,French Colonies,Imp,"colonies françaises,colonies françaises","RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1927_8897,RenseignementsGnrauxSurLeCommerceDesColoniesFranaises_1927_8897",Spe,,,2

@@ -129,3 +129,6 @@ imp,united states produce,Imp,Spe
 re-exp,united states produce returned to usa,Re-exp,Gen-Spe
 re-exp,foreign merchandise,Re-exp,Gen-Spe
 re-imp,foreign merchandise,Re-imp,Gen-Spe
+exp,marchandises françaises,Exp,Spe
+exp,french produce,Exp,Spe
+re-imp,,Re-imp,Gen-Spe

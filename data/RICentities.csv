@@ -982,7 +982,7 @@ French Entrepôts,locality,Europe,,,France
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
 French Equatorial Africa & French West Africa,group,Africa,,,
 French Equatorial Western Africa,colonial_area,Africa,,,France
-French Europe (Foreign produce),colonial_area,Europe,,,France
+French Europe,colonial_area,Europe,,,France
 French Guiana,GPH_entity,America,120,FrenchGuyana,
 French Guiana & French West Indies,group,America,,,
 French Guiana & Guadeloupe & Martinique,group,America,,,
