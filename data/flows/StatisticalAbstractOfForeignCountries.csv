@@ -700,8 +700,8 @@ StatisticalAbstractOfForeignCountries,58085.0,1000,$,1869,brazil,monde,imp,gen,S
 StatisticalAbstractOfForeignCountries,55602.0,1000,$,1871,brazil,monde,imp,gen,S,,30th June,,total_estimated,"Data taken from the official ""Bulletin Commémoratif de l'Exposition nationale de 1908"". The original figures, expressed in terms of milreis, have been converted to US dollars on the basis of the rates of exchange on London given in the preceding publicati"
 StatisticalAbstractOfForeignCountries,73250.0,1000,$,1872,brazil,monde,imp,gen,S,,30th June,,total_estimated,"Data taken from the official ""Bulletin Commémoratif de l'Exposition nationale de 1908"". The original figures, expressed in terms of milreis, have been converted to US dollars on the basis of the rates of exchange on London given in the preceding publicati"
 StatisticalAbstractOfForeignCountries,88101.0,1000,$,1874,brazil,monde,imp,gen,S,,30th June,,total_estimated,"Data taken from the official ""Bulletin Commémoratif de l'Exposition nationale de 1908"". The original figures, expressed in terms of milreis, have been converted to US dollars on the basis of the rates of exchange on London given in the preceding publicati"
-StatisticalAbstractOfForeignCountries,21635.0,1000,dollars,1871,norway,monde,exp,gen,,,,,,
-StatisticalAbstractOfForeignCountries,27338.0,1000,dollars,1871,norway,monde,imp,gen,,,,,,
+StatisticalAbstractOfForeignCountries,21635.0,1000,dollars,1871,norway,monde,exp,gen,,,,,total_estimated,
+StatisticalAbstractOfForeignCountries,27338.0,1000,dollars,1871,norway,monde,imp,gen,,,,,total_estimated,
 StatisticalAbstractOfForeignCountries,21274.0,1000,dollars,1871,norway,monde,exp,spe,,,,,total_estimated,Domestic exports
 StatisticalAbstractOfForeignCountries,26977.0,1000,dollars,1871,norway,monde,imp,spe,,,,,total_estimated,General imports less foreign exports.
 StatisticalAbstractOfForeignCountries,1146.0,1000,us dollar,1894,korea,world,exp,spe,S,,,,total_reporting,
