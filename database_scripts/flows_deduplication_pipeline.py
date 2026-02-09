@@ -353,6 +353,31 @@ def deduplicate_flows():
     sub_c.close()
 
     ################################################################################
+    # Duplicates exceptions
+    ################################################################################
+
+    # some total flows from StatistiquesColoniales_1905_Vol2 about nouvelle calédonie are the same as the ones from FranceStatistiquesColonialesCommerce
+    c.execute(
+        """
+        DELETE from flow_joined
+        WHERE original_reporting='nouvelle calédonie' AND original_partner = 'world' AND source= 'StatistiquesColoniales_1905_Vol2' 
+            AND year <= 1905 AND year >= 1889
+        """
+    )
+    c.execute(
+        """
+        DELETE from flow_joined
+        WHERE reporting='French Indochina' AND partner = 'French Colonies' 
+            AND expimp = "Re-imp" AND spegen= "Gen-Spe" 
+            AND source IN ('StatisticalAbstractForThePrincipalAndOtherForeignCountries_19071918', 'StatisticalAbstractForThePrincipalAndOtherForeignCountries_19011912_Vol39') 
+            AND year IN (1909, 1910, 1912)
+        """
+    )
+
+    
+
+
+    ################################################################################
     # merge duplicates from land and sea
     ################################################################################
 

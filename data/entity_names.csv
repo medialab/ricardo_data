@@ -324,8 +324,6 @@ allemagne (empire),Germany (Zollverein)
 allemagne (empire)*,Germany (Zollverein)
 allemagne (etats d'),Germany (Zollverein)
 allemagne (hanovre),Hanover
-allemagne (marchandises étrangères),Germany (Zollverein)
-allemagne (marchandises françaises),Germany (Zollverein) (French produce)
 "allemagne (prusse, brême, hambourg)",Bremen & Hamburg & Prussia
 "allemagne (prusse,hanovre,brême,hambourg,saxe,danemarck)",Germany (Zollverein)
 allemagne (prusse),Prussia
@@ -489,9 +487,6 @@ angleterre (londres et malte),Malta & United Kingdom
 angleterre (londres et malte)**,Malta & United Kingdom
 angleterre (londres),London
 angleterre (londres)**,London
-angleterre (marchandises étrangères),United Kingdom (Foreign produce)
-angleterre (marchandises étrangères) (autre),United Kingdom (Foreign produce) (other)
-angleterre (marchandises françaises),United Kingdom (French produce)
 angleterre (non compris ses compositions dans la méditerranée),United Kingdom
 angleterre (non compris ses possessions dans la méditerranée),United Kingdom
 angleterre et colonies,British Colonies & United Kingdom
@@ -826,8 +821,6 @@ australie,Australia
 australië,Australia
 australië (gemeenebest),Australia
 australie (hormis la nouvelle-zélande),Australia
-australie (marchandises étrangères),Australia
-australie (marchandises françaises),Australia (French produce)
 australie (victoria),Victoria
 australie a oceanie,Australia & Oceania
 australie anglaise,Australia & New Zealand
@@ -929,8 +922,6 @@ autres colonies anglaises,British Colonies (other)
 autres colonies britanniques,British Colonies (other)
 autres colonies espagnoles,Spanish Colonies (other)
 autres colonies françaises,French Colonies (other)
-autres colonies françaises (marchandises étrangères),French Colonies (other) (Foreign produce)
-autres colonies françaises (marchandises françaises),French colonies (other) (French produce)
 "autres colonies portugaises (cap vert, sao thome, inde portugaise, macao, timor)",Cape Verde & East Timor (Portuguese Timor) & Macao & Portuguese India & Sao Tome-Principe
 autres contrées,World (other)
 autres contrées (principalement suède),Sweden
@@ -949,8 +940,6 @@ autres indes orientales britanniques,British East Indies (other)
 autres parties du monde,World (other)
 autres pays,World (other)
 autres pays (afrique),Africa (other)
-autres pays (marchandises étrangères),World (other) (Foreign produce)
-autres pays (marchandises françaises),World (other) (French produce)
 autres pays (principalement d'europe),Europe (other)
 autres pays afrique,Africa (other)
 autres pays d'afrique,Africa (other)
@@ -1530,8 +1519,6 @@ british india and ceylon,India & Sri Lanka (Ceylon)
 "british india, via : burmah",Myanmar (Burma)
 "british india, via : eastern bengal and assam",Assam & Bengal
 "british india, via : madras",Chennai (Madras)
-british india: indian merchandise,India (Domestic produce)
-british india: other,India (Foreign produce)
 british indien,India
 british islands,British West Indies
 british kaffraria,British Kaffraria
@@ -2169,8 +2156,6 @@ colonies am. nord,British Northern America
 colonies américaines,American Colonies
 colonies anglaises,British Colonies
 colonies anglaises (autre),British Colonies (other)
-colonies anglaises (marchandises étrangères),British Colonies (Foreign produce)
-colonies anglaises (marchandises françaises),British Colonies (French produce)
 colonies anglaises d'amérique,British America
 colonies anglaises de la côte d'afrique,British Africa (other)
 colonies anglaises de la côte occidentale d'afrique,British Western Africa
@@ -2192,15 +2177,11 @@ colonies espagnoles en amérique,Spanish America
 colonies espagnoles et danoises d'amérique,Danish America & Spanish America
 colonies européennes d'amérique,European America
 colonies françaises,French Colonies
-colonies françaises (marchandises étrangères),French Colonies (Foreign produce)
-colonies françaises (marchandises françaises),French Colonies (French produce)
 colonies françaises (sauf algérie),French Colonies (other)
 colonies françaises d'europe,French Europe
 colonies françaises de l'afrique de l'est,French Eastern Africa
 colonies françaises de l'afrique de l'ouest,French West Africa
 colonies françaises de la côte occidentale d'afrique,French Western Africa
-colonies françaises de la côte occidentale d'afrique (marchandises étrangères),French Western Africa (Foreign produce)
-colonies françaises de la côte occidentale d'afrique (marchandises françaises),French Western Africa (French produce)
 colonies hollandaises,Dutch Colonies
 colonies hollandaises (autre),Dutch Colonies (other)
 colonies hollandaises en amérique,Netherlands Antilles
@@ -2895,7 +2876,6 @@ egypte et régences barbaresques,Barbary Coast & Egypt Arab Republic (Egypt)
 egypte et soudan anglo-egyptien,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypte et syrie,Egypt Arab Republic (Egypt) & Syria
 égypte et syrie,Egypt Arab Republic (Egypt) & Syria
-egypte et syrie (alexandrie),Alexandria & Egypt Arab Republic (Egypt)
 egypte et syrie (beyrout),Beirut & Egypt Arab Republic (Egypt)
 egypte et syrie (candie),Crete & Egypt Arab Republic (Egypt)
 egypte et syrie (egypte),Egypt Arab Republic (Egypt)
@@ -3184,8 +3164,6 @@ ethiopie ou abyssinie,Ethiopia (Abyssinia)
 "ethiopië, enz.",Ethiopia (Abyssinia)
 etiopia,Ethiopia (Abyssinia)
 etranger,World (other)
-etranger (marchandises étrangères),World (other) (Foreign produce)
-etranger (marchandises françaises),World (other) (French produce)
 eu da america do norte,United States of America
 eu do brasil,Brazil
 europa - possessoes britannicas,British Europe
@@ -3286,8 +3264,6 @@ foreign countries (other),World (other)
 foreign countries not separately distinguished,World (other)
 foreign countries. other ports,World (other)
 foreign east africa,Eastern Africa (other)
-foreign merchandise from the united states,United States of America (Foreign produce)
-foreign merchandise to the usa,United States of America (Foreign produce)
 foreign new guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 foreign pacific islands,Pacific Islands (other)
 foreign possessions in india,French India
@@ -3329,18 +3305,12 @@ frança,France
 frança e suas possesões,France & French Colonies
 françaises indochine,French Indochina
 france,France
-france (foreign produce),France (Foreign produce)
-france (french produce),France (French produce)
-france (marchandises étrangères),France (Foreign produce)
-france (marchandises étrangères) (autre),France (Foreign produce) (other)
-france (marchandises françaises),France (French produce)
 france (mer),France
 france & holland & portugal & united states,France & Netherlands & Portugal & United States of America
 france and algeria,Algeria (Regency of Algiers) & France
 france and colonies,France & French Colonies
 france and dependencies,France & French Colonies
 france and french colonies,France & French Colonies
-france and french colonies (french produce),France (French produce) & French Colonies (French produce)
 france and french medit. possessions,France & French Mediterranean Sea
 france et alger,Algeria (Regency of Algiers) & France
 france et algerie,Algeria (Regency of Algiers) & France
@@ -3348,7 +3318,6 @@ france et algérie,Algeria (Regency of Algiers) & France
 france et colonies,France & French Colonies
 france et dépendances,France & French Colonies
 france et des colonies françaises,France & French Colonies
-france et des colonies françaises (marchandises françaises),France (French produce) & French Colonies (French produce)
 france et poss. fr. en méd.,France & French Mediterranean Sea
 france et possessions,France & French Colonies
 france et possessions françaises (méditerrannée),France & French Mediterranean Sea
@@ -3471,8 +3440,6 @@ french central america,French Central America
 french china,French China
 french cochin-china,Cochin China
 french colonies,French Colonies
-french colonies (foreign produce),French Colonies (Foreign produce)
-french colonies (french produce),French Colonies (French produce)
 french congo,Congo (Brazzaville) (French Congo) (Middle Congo)
 french east africa,French Eastern Africa
 french east africa (france),French Eastern Africa
@@ -4045,8 +4012,6 @@ hawaíi,Hawaii (Sandwich Is.)
 hawaii (pacific islands - foreign),Hawaii (Sandwich Is.)
 hawaii (united states of america),Hawaii (Sandwich Is.)
 hawaiian islands,Hawaii (Sandwich Is.)
-hawaiian merchandise to the usa,United States of America
-"hawaiian merchandise to the usa, u.s produce returned to the usa",United States of America
 hawaiische inseln,Hawaii (Sandwich Is.)
 haway,Hawaii (Sandwich Is.)
 hayti,Haiti
@@ -4513,7 +4478,6 @@ indochina franceza,French Indochina
 indochina inglesia,British Indochina
 indochine,French Indochina
 "indochine (cochinchine, annam, tonkin)",Annam & Cochin China & Tonkin
-indochine (marchandises françaises),French Indochina (French produce)
 indochine anglaise,British Indochina
 indochine fr.,French Indochina
 indochine francaise,French Indochina
@@ -5060,8 +5024,6 @@ lacepede islands,Lacepede Is.
 ladrone island,Mariana Is.
 ladrone islands,Mariana Is.
 lagos,Lagos
-lagos (marchandises étrangères),Lagos
-lagos (marchandises françaises),Lagos (French produce)
 lagos (west africa),Lagos
 laguira,La Guaira
 land uopgivet,Unknown
@@ -5193,7 +5155,6 @@ machukuo,Manchukuo
 macquarie island,Macquarie I.
 madagascar,Madagascar (Malagasy Republic)
 madagascar (france),Madagascar (Malagasy Republic)
-madagascar (marchandises françaises),Madagascar (Malagasy Republic) (French produce)
 madagascar & mayotte & nossi-bé,Madagascar (Malagasy Republic) & Mayotte & Nossi Be
 madagascar & reunion,Madagascar (Malagasy Republic) & Reunion (Bourbon I.)
 madagascar and comore island,Comoros
@@ -7086,8 +7047,6 @@ possessions anglaises amer. nord,British Northern America
 possessions anglaises an afrique,British Africa
 possessions anglaises d'afrique,British Africa
 possessions anglaises d'amérique,British America
-possessions anglaises d'amérique (marchandises étrangères),British America
-possessions anglaises d'amérique (marchandises françaises),British America (French produce)
 possessions anglaises d'asie,British Asia
 possessions anglaises d'australie,Australia
 possessions anglaises dans l'atlantique sud,British South Atlantic
@@ -7416,7 +7375,6 @@ resto de asia,Asia (other)
 reunion,Reunion (Bourbon I.)
 réunion,Reunion (Bourbon I.)
 reunion (bourbon) (france),Reunion (Bourbon I.)
-réunion (marchandises françaises),Reunion (Bourbon I.) (French produce)
 reunion (other),Reunion (Bourbon I.) (other)
 reunion island,Reunion (Bourbon I.)
 reunion isles,Reunion (Bourbon I.)
@@ -7857,7 +7815,6 @@ selangor,Selangore
 senegal,Senegal
 sénégal,Senegal
 sénégal (gorée),Goree
-sénégal (marchandises françaises),Senegal (French produce)
 sénégal (saint-louis),Saint-Louis (Senegal)
 senegal (st. louis),Saint-Louis (Senegal)
 senegal and west coast of africa (excluding french congo),French Western Africa & Senegal
@@ -8656,12 +8613,8 @@ togo (deutsch),German Togoland
 togo (french togoland),Togo (French Togoland)
 togo (german west africa),German Togoland
 togo (mandat français),Togo (French Togoland)
-togo (marchandises étrangères),Togo (French Togoland)
-togo (marchandises françaises),Togo (French Togoland) (French produce)
 togo (territoire à mandat),Togo (French Togoland)
 togo et autres pays,Togo (French Togoland)
-togo et autres pays (marchandises étrangères),Togo (French Togoland)
-togo et autres pays (marchandises françaises),Togo (French Togoland) (French produce)
 togo et cameroun,Cameroun (French Cameroon) & Togo (French Togoland)
 "togo, francijas mandat",Togo (French Togoland)
 "togo, pod mandatem brytyjskim",British Togoland
@@ -9114,8 +9067,6 @@ union of south africa & northern rhodesia,South Africa & Zambia (Northern Rhodes
 union of south africa + bechuanaland,Botswana (Bechuanaland) & South Africa
 union of south africa + southern rhodesia,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia)
 union of south africa and rhodesia,South Africa & Zimbabwe (Rhodesia) (Southern Rhodesia)
-union of south africa: not south african produce,South Africa (other)
-union of south africa: south african produce,South Africa
 union of soviet socialist reps.,Russia (USSR)
 unión soviética,Russia (USSR)
 union sud africaine,South Africa
@@ -9146,22 +9097,13 @@ united states : california,California (Great Bear Republic)
 united states : ports on the atlantic,United States of America (Atlantic Coast)
 "united states (""etats de l'amérique"")",United States of America
 united states (atlantic ports),United States of America (Atlantic Coast)
-united states (domestic merchandise),United States of America (Domestic produce)
-united states (domestic& foreign merchandise),United States of America
-united states (foreign merchandise),United States of America (Foreign produce)
 united states (including california),United States of America
-united states (porto rican merchandise & united states produce returned),United States of America (other)
-united states (porto rican merchandise),United States of America (other)
-united states (united states produce returned),United States of America
 united states and british north america,British Northern America & United States of America
 united states and canada,Canada (Province of Canada) & United States of America
 united states and posessions,American Colonies & United States of America
 united states and possessions,American Colonies & United States of America
 united states and south america,Southern America & United States of America
 united states california,California (Great Bear Republic)
-united states merchandise,United States of America
-"united states merchandise, foreign merchandise from the united states",United States of America (Foreign produce)
-"united states merchandise, foreign merchandise from the usa",United States of America (Foreign produce)
 united states of america,United States of America
 united states of america : cuba‡,Cuba
 united states of america : on the atlantic,United States of America (Atlantic Coast)
@@ -9182,7 +9124,6 @@ united states of colombia,Colombia (New Granada) (Gran Colombia)
 united states of colombia (new granada),Colombia (New Granada) (Gran Colombia)
 united states of columbia,Colombia (New Granada) (Gran Colombia)
 united states ports,United States of America (other)
-united states produce returned to usa,United States of America
 united states virgin islands,Virgin Islands (Danish West Indies)
 united states west indies,American West Indies
 "united states, canada, central america and central america",Canada (Province of Canada) & Central America & United States of America

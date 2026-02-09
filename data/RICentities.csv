@@ -67,7 +67,6 @@ Alexander Bay,locality,Africa,,,Orange Free State (Orange River Colony)
 Alexandretta,locality,Asia,,,Turkey (Ottoman Empire)
 Alexandria,locality,Africa,,Alexandria,Egypt Arab Republic (Egypt)
 Alexandria & Damietta & Jeddah & Rosetta,group,Africa,,Alexandria_Damietta_Jeddah_Rosetta,
-Alexandria & Egypt Arab Republic (Egypt),group,Africa,,Alexandria_EgyptArabRepublicEgypt,
 Alexandria & Suez Canal Zone,group,Africa,,Alexandria_SuezCanalZone,
 Algarve,locality,Europe,,Algarve,Portugal
 Algeria (Regency of Algiers),GPH_entity,Africa,615,Algeria (Regency of Algiers),
@@ -211,7 +210,6 @@ Atlantic Ocean,geographical_area,Atlantic,,AtlanticOcean,
 Auckland Is.,GPH_entity,Oceania,9205,,
 Auckland Is. & Fiji,group,Oceania,,,
 Australia,GPH_entity,Oceania,900,Australia,
-Australia (French produce),locality,Oceania,,,Australia
 Australia (other),locality,Oceania,,Australiaother,Australia
 Australia (other) & Christmas I.,group,Oceania,,,
 Australia & British Oceania & Tasmania,group,Oceania,,,
@@ -411,7 +409,6 @@ British Africa (other),locality,America,,BritishAfricaother,British Africa
 British Africa (other) & Portuguese Africa & Zimbabwe (Rhodesia) (Southern Rhodesia),group,Africa,,,
 British America,colonial_area,America,,BritishAmerica,United Kingdom
 British America (Atlantic),colonial_area,America,,BritishAmericaAtlantic,United Kingdom
-British America (French produce),locality,America,,,British America
 British America (other),locality,America,,BritishAmericaother,British America
 British America (other) & Canada (Province of Canada),group,America,,,
 British America (Pacific),colonial_area,America,,BritishAmericaPacific,United Kingdom
@@ -434,8 +431,6 @@ British Central Africa,colonial_area,Africa,,,United Kingdom
 British Central America,colonial_area,America,,,United Kingdom
 British China,colonial_area,Asia,,BritishChina,United Kingdom
 British Colonies,colonial_area,World,,BritishColonies,United Kingdom
-British Colonies (Foreign produce),locality,World,,,British Colonies
-British Colonies (French produce),locality,World,,,British Colonies
 British Colonies (other),locality,World,,BritishColoniesother,British Colonies
 British Colonies & United Kingdom,group,World,,BritishColonies_UnitedKingdom,
 British Columbia,GPH_entity,America,1027,BritishColumbia,
@@ -940,10 +935,7 @@ Forçados River,locality,Africa,,,Nigeria
 Fort St. George,locality,Asia,,FortSt.George,India
 France,GPH_entity,Europe,220,France,
 France (Atlantic Coast),locality,Europe,,,France
-France (Foreign produce),locality,Europe,,,France
-France (Foreign produce) (other),locality,Europe,,,France
 France (French produce),locality,Europe,,FranceFrenchproduce,France
-France (French produce) & French Colonies (French produce),group,World,,FranceFrenchproduce_FrenchcoloniesFrenchproduce,
 France (Mediterranean Coast),locality,Europe,,,France
 France (other),locality,Europe,,,France
 France & French Africa,group,World,,,
@@ -972,11 +964,8 @@ French Asia & French Polynesia,group,World,,FrenchAsia_FrenchOceania,
 French Central America,colonial_area,America,,,France
 French China,colonial_area,Asia,,FrenchChina,France
 French Colonies,colonial_area,World,,FrenchColonies,France
-French Colonies (Foreign produce),locality,World,,,French Colonies
 French Colonies (French produce),locality,World,,FrenchColoniesFrenchproduce,French Colonies
 French Colonies (other),locality,World,,FrenchColoniesother,French Colonies
-French Colonies (other) (Foreign produce),locality,World,,,French Colonies
-French colonies (other) (French produce),locality,World,,,French Colonies
 French Eastern Africa,colonial_area,Africa,,,France
 French Entrepôts,locality,Europe,,,France
 French Equatorial Africa,GPH_entity,Africa,480,FrenchEquatorialAfrica,
@@ -991,7 +980,6 @@ French India,GPH_entity,Asia,751,FrenchIndia,
 French India & French Indochina,group,Asia,,,
 French India & India & Portuguese India,group,Asia,,FrenchIndia_India_PortugueseIndiainclGoaDiuDaman,
 French Indochina,GPH_entity,Asia,810,FrenchIndochina,
-French Indochina (French produce),locality,Asia,,,French Indochina
 French Indochina & Japan & People's Republic of China (China),group,Asia,,FrenchIndochina_Japan_PeoplesRepublicofChinaChina,
 French Indochina & People's Republic of China (China),group,Asia,,FrenchIndochina_PeoplesRepublicofChinaChina,
 French Indochina & People's Republic of China (China) & Philippines & Thailand (Siam),group,Asia,,,
@@ -1006,8 +994,6 @@ French Polynesia,GPH_entity,Oceania,960,,
 French Southern Africa,colonial_area,Africa,,,France
 French Southern America,colonial_area,America,,,France
 French West Africa,GPH_entity,Africa,430,FrenchWestAfrica,
-French Western Africa (Foreign produce),locality,Africa,,,French West Africa
-French Western Africa (French produce),locality,Africa,,,French West Africa
 French Western Africa (other),locality,Africa,,,French West Africa
 French Western Africa & Senegal,group,Africa,,FrenchWestAfrica_Senegal,
 French West Africa & Togo (French Togoland),group,Africa,,,
@@ -1054,7 +1040,6 @@ German West Indies,colonial_area,America,,,Germany (Zollverein)
 German Western Africa,colonial_area,Africa,,GermanWestAfrica,Germany (Zollverein)
 Germany (Zollverein),GPH_entity,Europe,255,GermanyZollverein,
 Germany (Zollverein) (Baltic Sea),locality,Europe,,,Germany (Zollverein)
-Germany (Zollverein) (French produce),locality,Europe,,,Germany (Zollverein)
 Germany (Zollverein) (North Sea),locality,Europe,,,Germany (Zollverein)
 Germany (Zollverein) (other),locality,Europe,,"GermanyZollverein,other",Germany (Zollverein)
 Germany (Zollverein) (other) & Prussia,group,Europe,,Germanyother_Prussia,
@@ -1192,8 +1177,6 @@ Inagua & Nassau (Bahamas) & Turks and Caicos Is.,group,America,,,
 Independent Somali Ports,geographical_area,Africa,,,
 India,GPH_entity,Asia,750,India,
 India (Coast),locality,Asia,,,India
-India (Domestic produce),locality,Asia,,,India
-India (Foreign produce),locality,Asia,,,India
 India (other),locality,Asia,,Indiaother,India
 India & Japan & People's Republic of China (China),group,Asia,,India_Japan_PeoplesRepublicofChinaChina,
 India & Malaysia (British Malaya),group,Asia,,,
@@ -1375,7 +1358,6 @@ Labuan I. & Straits Settlements,group,Asia,,,
 Laccadive Islands,locality,Asia,,,India
 Lacepede Is.,locality,Oceania,,,Western Australia
 Lagos,GPH_entity,Africa,4781,Lagos,
-Lagos (French produce),locality,Africa,,,Lagos
 Laos,GPH_entity,Asia,812,,
 Larnaca,locality,Europe,,Larnaca,Turkey (Ottoman Empire)
 Las Palmas,locality,Africa,,CanaryIs,Canary Is.
@@ -1439,7 +1421,6 @@ Macao & People's Republic of China (China),group,Asia,,Macao_PeoplesRepublicofCh
 Machilipatnam,locality,Asia,,,India
 Macquarie I.,GPH_entity,Oceania,9006,,
 Madagascar (Malagasy Republic),GPH_entity,Africa,580,MadagascarMalagasyRepublic,
-Madagascar (Malagasy Republic) (French produce),locality,Africa,,,Madagascar (Malagasy Republic)
 Madagascar (Malagasy Republic) (other),locality,Africa,,,Madagascar (Malagasy Republic)
 Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,group,Africa,,MadagascarMalagasyRepublic_MalagasyRepublicMadagascarDependencies,
 Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.),group,Africa,,,
@@ -1865,7 +1846,6 @@ Republic of China (Taiwan) (Formosa),GPH_entity,Asia,713,RepublicofChinaTaiwanFo
 Republic of St. Mark,GPH_entity,Europe,3261,RepublicofSt.Mark,
 Republic of St. Mark & Trieste,group,Europe,,RepublicofSt.Mark_Trieste,
 Reunion (Bourbon I.),GPH_entity,Africa,585,Reunion,
-Reunion (Bourbon I.) (French produce),locality,Africa,,,Reunion (Bourbon I.)
 Reunion (Bourbon I.) (other),locality,Africa,,,Reunion (Bourbon I.)
 Rhineland,GPH_entity,Europe,2556,Rhineland,
 Rhode Is.,locality,America,,,United States of America
@@ -1960,7 +1940,6 @@ Sekondi-Takoradi,locality,Africa,,,Ghana (Gold Coast)
 Selangore,GPH_entity,Asia,8202,,
 Semarang,locality,Asia,,,Indonesia (Dutch East Indies)
 Senegal,GPH_entity,Africa,433,Senegal,
-Senegal (French produce),locality,Africa,,,Senegal
 Senegal & Senegal Dependencies,group,Africa,,,
 Senegal Dependencies,locality,Africa,,,Senegal
 Senegambia,geographical_area,Africa,,,
@@ -2144,7 +2123,6 @@ Tigres Bay,locality,Africa,,,Angola
 Timbuktu,locality,Africa,,,Mali (French Sudan) (Upper Senegal and Niger)
 Tobago,GPH_entity,America,1049,Tobago,
 Togo (French Togoland),GPH_entity,Africa,461,TogoFrenchTogoland,
-Togo (French Togoland) (French produce),locality,Africa,,,Togo (French Togoland)
 Tokelau Is.,GPH_entity,Oceania,9201,,
 Tonga (Haʻapai),GPH_entity,Oceania,955,TongaHaapai,
 Tonkin,GPH_entity,Asia,8153,Tonkin,
@@ -2184,14 +2162,9 @@ Ulu Muar,GPH_entity,Asia,8214,,
 Union Island,locality,America,,,St. Vincent and the Grenadines
 United Arab Emirates (Trucial Oman),GPH_entity,Asia,696,,
 United Kingdom,GPH_entity,Europe,200,UnitedKingdom,
-United Kingdom (Foreign produce),locality,Europe,,,United Kingdom
-United Kingdom (Foreign produce) (other),locality,Europe,,,United Kingdom
-United Kingdom (French produce),locality,Europe,,,United Kingdom
 United Kingdom (other),locality,Europe,,UnitedKingdomother,United Kingdom
 United States of America,GPH_entity,America,2,UnitedStatesofAmerica,
 United States of America (Atlantic Coast),locality,America,,,United States of America
-United States of America (Domestic produce),locality,America,,,United States of America
-United States of America (Foreign produce),locality,America,,,United States of America
 United States of America (other),locality,America,,UnitedStatesofAmericaother,United States of America
 United States of America (Pacific Coast),locality,America,,,United States of America
 Unknown,,,,Unknown,
@@ -2249,8 +2222,6 @@ Winneba,locality,Africa,,,Ghana (Gold Coast)
 World,geographical_area,World,,World,
 World (other than British),locality,World,,WorldotherthanBritish,World
 World (other),locality,World,,Worldother,World
-World (other) (Foreign produce),locality,World,,,World
-World (other) (French produce),locality,World,,,World
 World (via Altona & Holstein & Schleswig),geographical_area,World,,WorldviaAltona_Holstein_Schleswig,
 World (via Altona-Kiel),geographical_area,World,,,
 World (via Altona),geographical_area,World,,,
