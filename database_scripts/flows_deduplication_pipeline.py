@@ -122,7 +122,7 @@ def deduplicate_flows():
                     ON f.export_import IS eisg.export_import AND f.special_general IS eisg.special_general
             LEFT OUTER JOIN sources as s
                     ON s.slug=f.source
-            WHERE expimp != "Re-exp"
+            WHERE expimp != "Re-exp" and expimp != "Re-imp"
                 and partner is not null
                 and partner != "***NA"
                 and partner_sum is null
