@@ -33,8 +33,8 @@ addidomey,Adidome
 adelaide,Adelaide
 aden,Aden
 aden (arabia),Aden
-aden and dependencies,Aden & Aden Dependencies
-aden and dpendencies,Aden & Aden Dependencies
+aden and dependencies,Aden
+aden and dpendencies,Aden
 aden and mauritius,Aden & Mauritius
 aden e stabilimenti dello stretto,Aden & Straits Settlements
 aden et colonies anglaises,Aden & British Colonies (other)
@@ -998,10 +998,10 @@ autriche (venise),Republic of St. Mark
 autriche et allemagne,Austria & Germany (Zollverein)
 autriche et autres etats allemands,Austria-Hungary (Austrian Empire) & Germany (Zollverein)
 autriche et cracovie,Austria-Hungary (Austrian Empire) & Cracow (Free City of Cracow)
-autriche et dépendances,Austria-Hungary (Austrian Empire) & Austrian Dependencies
+autriche et dépendances,Austria-Hungary (Austrian Empire)
 autriche et lombardie,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
 autriche et royaume lombard vénitien,Austria-Hungary (Austrian Empire) & Lombardy-Venetia
-autriche et ses dépendances,Austria-Hungary (Austrian Empire) & Austrian Dependencies
+autriche et ses dépendances,Austria-Hungary (Austrian Empire)
 autriche hongrie,Austria-Hungary (Austrian Empire)
 autriche-hongrie,Austria-Hungary (Austrian Empire)
 "autriche-hongrie (fiume, trieste)",Fiume & Trieste
@@ -1911,7 +1911,7 @@ célèbres et autres îles orientales,Java & Sumatra & Sulawesi (Celebes)
 célères,Sulawesi (Celebes)
 celkem,World
 celyon,Sri Lanka (Ceylon)
-celyon and dependencies,Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies
+celyon and dependencies,Sri Lanka (Ceylon)
 centraal amerika,Central America
 central africa,Central Africa
 central america,Central America
@@ -1947,7 +1947,7 @@ ceylao,Sri Lanka (Ceylon)
 ceylon,Sri Lanka (Ceylon)
 ceylon (sri lanka),Sri Lanka (Ceylon)
 ceylon and british india,India & Sri Lanka (Ceylon)
-ceylon and dependencies,Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies
+ceylon and dependencies,Sri Lanka (Ceylon)
 ceylon b. w. i.,Sri Lanka (Ceylon)
 "ceylon,siam",Sri Lanka (Ceylon) & Thailand (Siam)
 ceyman,Sri Lanka (Ceylon)
@@ -2869,9 +2869,9 @@ egypte (tarsous),Tarsus
 egypte (tripoli),Tripoli (Syria)
 egypte en egyptisch deel van soedan,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypte et candie,Crete & Egypt Arab Republic (Egypt)
-egypte et dépandances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
-egypte et dépendances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
-égypte et dépendances,Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies
+egypte et dépandances,Egypt Arab Republic (Egypt)
+egypte et dépendances,Egypt Arab Republic (Egypt)
+égypte et dépendances,Egypt Arab Republic (Egypt)
 egypte et régences barbaresques,Barbary Coast & Egypt Arab Republic (Egypt)
 egypte et soudan anglo-egyptien,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypte et syrie,Egypt Arab Republic (Egypt) & Syria
@@ -3128,8 +3128,8 @@ etats sardes- gênes,Genoa
 "etats sardes, etats romains et deux-siciles",Kingdom of Sardinia & Papal States & Two Sicilies
 etats sardes**,Kingdom of Sardinia
 etats turcs,Turkey (Ottoman Empire)
-etats turcs (y compris egypte et dépendances),Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire)
-etats turcs (y compris l'egypte et ses dépendances),Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire)
+etats turcs (y compris egypte et dépendances),Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
+etats turcs (y compris l'egypte et ses dépendances),Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
 etats unis,United States of America
 etats_unis,United States of America
 etats-barbaresques et côte d'afrique,Africa Coast & Barbary Coast
@@ -3196,7 +3196,7 @@ falkland,Falkland Is.
 falkland (iles),Falkland Is.
 falkland is.,Falkland Is.
 falkland islands,Falkland Is.
-falkland islands and dependencies,Falkland Is. & Falkland Is. Dependencies
+falkland islands and dependencies,Falkland Is.
 falkland isles,Falkland Is.
 falklandøiene,Falkland Is.
 falklandsöarna,Falkland Is.
@@ -3571,7 +3571,7 @@ german eastern africa,German East Africa
 german empire,Germany (Zollverein)
 german leased territory,German China
 german new guinea,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
-german new guinea (and dependencies),New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies
+german new guinea (and dependencies),New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 german new guinea (germanay),New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 german oceania,German Oceania
 german pessissions in eastern africa,German East Africa
@@ -3825,7 +3825,7 @@ guadalupe,Guadeloupe
 guadalupe (french colonies),Guadeloupe
 guadeloupe,Guadeloupe
 guadeloupe (la),Guadeloupe
-guadeloupe et dépendances,Guadeloupe & Guadeloupe Dependencies
+guadeloupe et dépendances,Guadeloupe
 guadeloupe et martinique,Guadeloupe & Martinique
 guadelupe,Guadeloupe
 guam,Guam
@@ -4710,8 +4710,8 @@ jamaica,Jamaica
 jamaica (british west india islands),Jamaica
 jamaica (british west indies),Jamaica
 jamaica (west india islands),Jamaica
-jamaica and dependencies,Jamaica & Jamaica Dependencies
-jamaica and dependencies and trinidad and tobago and other british west indian islands,British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago
+jamaica and dependencies,Jamaica
+jamaica and dependencies and trinidad and tobago and other british west indian islands,British West Indies (other) & Jamaica & Trinidad and Tobago
 jamaica und curaçao,Curacao & Jamaica
 "jamaica, trinidad und curaçao",Curacao & Jamaica & Trinidad and Tobago
 jamaika,Jamaica
@@ -5159,12 +5159,12 @@ madagascar & mayotte & nossi-bé,Madagascar (Malagasy Republic) & Mayotte & Noss
 madagascar & reunion,Madagascar (Malagasy Republic) & Reunion (Bourbon I.)
 madagascar and comore island,Comoros
 madagascar and comoro islands,Comoros & Madagascar (Malagasy Republic)
-madagascar and dependencies,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies
+madagascar and dependencies,Madagascar (Malagasy Republic)
 madagascar and kerguelon,Kerguelen Is. & Madagascar (Malagasy Republic)
 madagascar en reunion,Madagascar (Malagasy Republic) & Reunion (Bourbon I.)
-madagascar et dépendances,Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies
-madagascar et dépendances (mayotte compris),Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies
-madagascar et dépendances (y compris mayotte),Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies
+madagascar et dépendances,Madagascar (Malagasy Republic)
+madagascar et dépendances (mayotte compris),Madagascar (Malagasy Republic) & Mayotte
+madagascar et dépendances (y compris mayotte),Madagascar (Malagasy Republic) & Mayotte
 "madagascar, enz.",Madagascar (Malagasy Republic)
 "madagascar, native states",Madagascar (Malagasy Republic) (other)
 madagascar:native territory,Madagascar (Malagasy Republic) (other)
@@ -5378,15 +5378,15 @@ mauricija sala,Mauritius
 mauricio,Mauritius
 mauricios,Mauritius
 mauricius,Mauritius
-mauricius and dependencies,Mauritius & Mauritius Dependencies
-"mauricius and dependencies, seychelles islands",Mauritius & Mauritius Dependencies & Seychelles
+mauricius and dependencies,Mauritius
+"mauricius and dependencies, seychelles islands",Mauritius & Seychelles
 mauritania,Mauritania
 mauritanie,Mauritania
 mauritanija,Mauritania
 mauritius,Mauritius
 mauritius and bourbon,Mauritius & Reunion (Bourbon I.)
-mauritius and dependencies,Mauritius & Mauritius Dependencies
-mauritius and dependencies and seychelles,Mauritius & Mauritius Dependencies & Seychelles
+mauritius and dependencies,Mauritius
+mauritius and dependencies and seychelles,Mauritius & Seychelles
 mauritius c.a.,Mauritius
 mayotte,Mayotte
 mayotte & nossi-bé,Mayotte & Nossi Be
@@ -7818,7 +7818,7 @@ sénégal (gorée),Goree
 sénégal (saint-louis),Saint-Louis (Senegal)
 senegal (st. louis),Saint-Louis (Senegal)
 senegal and west coast of africa (excluding french congo),French Western Africa & Senegal
-sénégal et dépendances,Senegal & Senegal Dependencies
+sénégal et dépendances,Senegal
 sénégal et établissement français du golfe de guinée,Assinie & Grand-Bassam & Senegal
 senégal et établissements français de la côte occidentale d'afrique,French Western Africa & Senegal
 sénégal et etablissements français de la côte occidentale d'afrique,French Western Africa & Senegal
@@ -7868,7 +7868,7 @@ severni britska amerika,British Northern America
 seychelle,Seychelles
 seychelles,Seychelles
 seychelles (iles),Seychelles
-seychelles and dependencies,Seychelles & Seychelles Dependencies
+seychelles and dependencies,Seychelles
 seychelles islands,Seychelles
 seylan,Sri Lanka (Ceylon)
 shang haï,Shangai
@@ -8308,15 +8308,15 @@ straits settlements,Straits Settlements
 straits settlements (british east indies),Straits Settlements
 straits settlements (including malaya),Malaysia (British Malaya) & Straits Settlements
 "straits settlements (singapore, etc.)",Straits Settlements
-straits settlements and dependencies,Straits Settlements & Straits Settlements Dependencies
-straits settlements and dependencies (including labuan),Straits Settlements & Straits Settlements Dependencies
-"straits settlements and dependencies, british central africa protectorate",Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies
-"straits settlements and dependencies, including labuan",Straits Settlements & Straits Settlements Dependencies
+straits settlements and dependencies,Straits Settlements
+straits settlements and dependencies (including labuan),Straits Settlements
+"straits settlements and dependencies, british central africa protectorate",Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements
+"straits settlements and dependencies, including labuan",Straits Settlements
 straits settlements and federated malay states,Federated Malay States & Straits Settlements
 straits settlements and fms,Federated Malay States & Straits Settlements
 straits settlements and labuan,Labuan I. & Straits Settlements
-straits settlements og britiske bes. blandt de indiske øer,Straits Settlements & Straits Settlements Dependencies
-straits settlements og britiske besidd. blandt de indiske øer,Straits Settlements & Straits Settlements Dependencies
+straits settlements og britiske bes. blandt de indiske øer,Straits Settlements
+straits settlements og britiske besidd. blandt de indiske øer,Straits Settlements
 "straits settlements, british india",India & Straits Settlements
 straits settlments,Straits Settlements
 straits-settlements,Straits Settlements
@@ -8899,7 +8899,7 @@ turquie (alep-alexandrette),Aleppo & Alexandretta
 turquie (alep),Aleppo
 turquie (anatolie),Western Anatolia
 turquie (autres ports),Turkey (Ottoman Empire) (other)
-turquie (avec egypte et dépendances),Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire)
+turquie (avec egypte et dépendances),Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire)
 turquie (bagdad),Baghdad
 turquie (barbarie),Barbary Coast
 turquie (bassorah),Basra
