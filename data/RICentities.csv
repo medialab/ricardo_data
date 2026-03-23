@@ -8,7 +8,6 @@ Adana & Tarsus,group,Asia,,,
 Addah,locality,Africa,,,Ivory Coast
 Adelaide,locality,Oceania,,,South Australia
 Aden,GPH_entity,Asia,681,Aden,
-Aden & Aden Dependencies,group,Asia,,,
 Aden & Algeria (Regency of Algiers) & Asian Turkey & Egypt Arab Republic (Egypt) & Iran (Persia),group,World,,Aden_Algeria (Regency of Algiers)_AsianTurkey_EgyptArabRepublicEgypt_IranPersia,
 Aden & Algeria (Regency of Algiers) & Turkey (Ottoman Empire) & Egypt Arab Republic (Egypt) & Iran (Persia) & Morocco,group,World,,Aden_Algeria (Regency of Algiers)_AsianTurkey_EgyptArabRepublicEgypt_IranPersia_Morocco,
 Aden & Arabia,group,Asia,,,
@@ -236,7 +235,6 @@ Austria & Czechoslovakia & Hungary,group,Europe,,,
 Austria & Germany (Zollverein),group,Europe,,Austria_GermanyZollverein,
 Austria-Hungary (Austrian Empire),GPH_entity,Europe,300,Austria-Hungary,
 Austria-Hungary (Austrian Empire) (Adriatic),locality,Europe,,,Austria-Hungary (Austrian Empire)
-Austria-Hungary (Austrian Empire) & Austrian Dependencies,group,World,,,
 Austria-Hungary (Austrian Empire) & Bosnia-Herzegovina,group,Europe,,,
 Austria-Hungary (Austrian Empire) & Cracow (Free City of Cracow),group,Europe,,Austria_CracowFreeCityofCracow,
 Austria-Hungary (Austrian Empire) & Germany (Zollverein),group,Europe,,,
@@ -482,7 +480,7 @@ British Togoland & Togo (French Togoland),group,Africa,,,
 British Virgin Is.,GPH_entity,America,1061,,
 British West Indies,colonial_area,America,,,United Kingdom
 British West Indies (other),locality,America,,,British West Indies
-British West Indies (other) & Jamaica & Jamaica Dependencies & Trinidad and Tobago,group,America,,,
+British West Indies (other) & Jamaica & Trinidad and Tobago,group,America,,,
 British West Indies & Guyana (British Guiana),group,America,,,
 British West Indies & Swedish West Indies,group,America,,,
 British West Indies & United Kingdom,group,World,,,
@@ -851,8 +849,6 @@ Ecuador & Guatemala,group,America,,Ecuador_Guatemala,
 Ecuador & Peru,group,America,,Ecuador_Peru,
 Egypt Arab Republic (Egypt),GPH_entity,Africa,651,EgyptArabRepublicEgypt,
 Egypt Arab Republic (Egypt) (other),locality,Africa,,,Egypt Arab Republic (Egypt)
-Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies,group,World,,EgyptArabRepublicEgypt_Othercountries,
-Egypt Arab Republic (Egypt) & Egypt Arab Republic (Egypt) Dependencies & Turkey (Ottoman Empire),group,World,,,
 Egypt Arab Republic (Egypt) & Greece & Turkey (Ottoman Empire),group,World,,EgyptArabRepublicEgypt_Greece_TurkeyOttomanEmpire,
 Egypt Arab Republic (Egypt) & Indian Transit,group,World,,EgyptArabRepublicEgypt_IndianTransit,
 Egypt Arab Republic (Egypt) & Levant & Turkey (Ottoman Empire),group,Asia,,,
@@ -904,7 +900,6 @@ Faeroe Is. & Greenland,group,World,,FaeroeIs._Greenland,
 Faeroe Is. & Greenland & Iceland,group,World,,FaeroeIs._Greenland_Iceland,
 Faeroe Is. & Iceland,group,Europe,,FaeroeIs._Iceland,
 Falkland Is.,GPH_entity,America,1163,FalklandIs.,
-Falkland Is. & Falkland Is. Dependencies,group,World,,,
 Falkland Is. & Guyana (British Guiana),group,America,,FalklandIs_GuyanaBrGuiana,
 Falkland Is. & Patagonia,group,America,,,
 Falkland Is. & Uruguay,group,America,,FalklandIs._Uruguay,
@@ -935,7 +930,6 @@ Forçados River,locality,Africa,,,Nigeria
 Fort St. George,locality,Asia,,FortSt.George,India
 France,GPH_entity,Europe,220,France,
 France (Atlantic Coast),locality,Europe,,,France
-France (French produce),locality,Europe,,FranceFrenchproduce,France
 France (Mediterranean Coast),locality,Europe,,,France
 France (other),locality,Europe,,,France
 France & French Africa,group,World,,,
@@ -964,7 +958,6 @@ French Asia & French Polynesia,group,World,,FrenchAsia_FrenchOceania,
 French Central America,colonial_area,America,,,France
 French China,colonial_area,Asia,,FrenchChina,France
 French Colonies,colonial_area,World,,FrenchColonies,France
-French Colonies (French produce),locality,World,,FrenchColoniesFrenchproduce,French Colonies
 French Colonies (other),locality,World,,FrenchColoniesother,French Colonies
 French Eastern Africa,colonial_area,Africa,,,France
 French Entrepôts,locality,Europe,,,France
@@ -1095,7 +1088,6 @@ Greenland & Svalbard Is.,group,World,,Greenland_SvalbardIs.,
 Grenada,GPH_entity,America,55,Grenada,
 Grenadines,locality,America,,,St. Vincent and the Grenadines
 Guadeloupe,GPH_entity,America,65,Guadeloupe,
-Guadeloupe & Guadeloupe Dependencies,group,America,,,
 Guadeloupe & Martinique,group,America,,Guadeloupe_Martinique,
 Guadeloupe & Martinique & Reunion (Bourbon I.),group,World,,Guadeloupe_Martinique_Reunion,
 Guadeloupe Dependencies,locality,America,,,Guadeloupe
@@ -1250,7 +1242,6 @@ Jakarta (Batavia) & Java & Sumatra,group,Asia,,JakartaBatavia_Java_Sumatra,
 Jakarta (Batavia) & People's Republic of China (China),group,Asia,,,
 Jakarta (Batavia) & Singapore,group,Asia,,JakartaBatavia_Singapore,
 Jamaica,GPH_entity,America,51,Jamaica,
-Jamaica & Jamaica Dependencies,group,World,,,
 Jamaica Dependencies,locality,America,,,Jamaica
 Japan,GPH_entity,Asia,740,Japan,
 Japan & Japanese China & Republic of China (Taiwan) (Formosa),group,Asia,,,
@@ -1422,12 +1413,11 @@ Machilipatnam,locality,Asia,,,India
 Macquarie I.,GPH_entity,Oceania,9006,,
 Madagascar (Malagasy Republic),GPH_entity,Africa,580,MadagascarMalagasyRepublic,
 Madagascar (Malagasy Republic) (other),locality,Africa,,,Madagascar (Malagasy Republic)
-Madagascar (Malagasy Republic) & Madagascar (Malagasy Republic) Dependencies,group,Africa,,MadagascarMalagasyRepublic_MalagasyRepublicMadagascarDependencies,
+Madagascar (Malagasy Republic) & Mayotte,group,Africa,,MadagascarMalagasyRepublic_MalagasyRepublicMadagascarDependencies,
 Madagascar (Malagasy Republic) & Mauritius & Reunion (Bourbon I.),group,Africa,,,
 Madagascar (Malagasy Republic) & Mayotte & Nossi Be,group,Africa,,MadagascarMalagasyRepublic_Mayotte_NossiBe,
 Madagascar (Malagasy Republic) & Mayotte & Nossi Be & St. Marie de Madagascar,group,Africa,,MadagascarMalagasyRepublic_Mayotte_NossiBe_StMariedeMadagascar,
 Madagascar (Malagasy Republic) & Reunion (Bourbon I.),group,Africa,,,
-Madagascar (Malagasy Republic) Dependencies,locality,Africa,,,Madagascar (Malagasy Republic)
 Madeira Isles,GPH_entity,Africa,401,MadeiraIsles,
 Madeira Isles & Portugal,group,World,,MadeiraIsles_Portugal,
 Madeira Isles & Portuguese Africa,group,Africa,,,
@@ -1448,7 +1438,7 @@ Malacca & Penang & Singapore,group,Asia,,Malacca_Penang_Singapore,
 Malacca & Singapore,group,Asia,,,
 Málaga,locality,Europe,,M�laga,Spain
 Malawi (Nyasaland) (British Central Africa Protectorate),GPH_entity,Africa,553,MalawiNyasalandBritishCentralAfricaProtectorate,
-Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements & Straits Settlements Dependencies,group,World,,MalawiNyasalandBritishCentralAfricaProtectorate_StraitsSettlements_StraitsSettlementsDependencies,
+Malawi (Nyasaland) (British Central Africa Protectorate) & Straits Settlements,group,World,,,
 Malaysia (British Malaya),GPH_entity,Asia,820,MalaysiaMalaya,
 Malaysia (British Malaya) (East),locality,Asia,,,Malaysia (British Malaya)
 Malaysia (British Malaya) (other),locality,Asia,,,Malaysia (British Malaya)
@@ -1496,8 +1486,7 @@ Massa and Carrara,locality,Europe,,MassaandCarrara,Tuscany
 Massawah,locality,Africa,,,Eritrea
 Mauritania,GPH_entity,Africa,435,,
 Mauritius,GPH_entity,Africa,590,Mauritius,
-Mauritius & Mauritius Dependencies,group,World,,,
-Mauritius & Mauritius Dependencies & Seychelles,group,World,,,
+Mauritius & Seychelles,group,World,,,
 Mauritius & Reunion (Bourbon I.),group,Africa,,Mauritius_Reunion,
 Mauritius & Reunion (Bourbon I.) & West Indies,group,World,,,
 Mauritius & South Africa,group,Africa,,Mauritius_SouthAfrica,
@@ -1614,7 +1603,6 @@ New Calabar (Kalabari),GPH_entity,Africa,4793,,
 New Caledonia,GPH_entity,Oceania,930,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland),GPH_entity,Oceania,912,NewGuineaGermanNewGuineaKaiserWilhelmsland,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,,
-New Guinea (German New Guinea) (Kaiser Wilhelmsland) & New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,group,World,,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,locality,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 New Iberia,locality,America,,,Louisiana
 New Providence,locality,America,,,Bahamas
@@ -1940,7 +1928,6 @@ Sekondi-Takoradi,locality,Africa,,,Ghana (Gold Coast)
 Selangore,GPH_entity,Asia,8202,,
 Semarang,locality,Asia,,,Indonesia (Dutch East Indies)
 Senegal,GPH_entity,Africa,433,Senegal,
-Senegal & Senegal Dependencies,group,Africa,,,
 Senegal Dependencies,locality,Africa,,,Senegal
 Senegambia,geographical_area,Africa,,,
 Serampore,locality,Asia,,,India
@@ -1949,7 +1936,6 @@ Serrana Bank,GPH_entity,America,1103,,
 Setté Cama,locality,Africa,,,Gabon
 Setúbal,locality,Europe,,Set�bal,Portugal
 Seychelles,GPH_entity,Africa,591,Seychelles,
-Seychelles & Seychelles Dependencies,group,Africa,,,
 Seychelles Dependencies,locality,Africa,,,Seychelles
 Shangai,GPH_entity,Asia,7121,PeoplesRepublicofChinaChina,
 Shantou,locality,Asia,,,People's Republic of China (China)
@@ -2034,7 +2020,6 @@ Spanish Western Africa,colonial_area,Africa,,,Spain
 Species,,,,Species,
 Spitsbergen,locality,Europe,,,Svalbard Is.
 Sri Lanka (Ceylon),GPH_entity,Asia,780,SriLankaCeylon,
-Sri Lanka (Ceylon) & Sri Lanka (Ceylon) Dependencies,group,Asia,,,
 Sri Lanka (Ceylon) & Thailand (Siam),group,Asia,,,
 Sri Lanka (Ceylon) Dependencies,locality,Asia,,,Sri Lanka (Ceylon)
 St. Barthelemy,GPH_entity,America,1064,St.Barthelemy,
@@ -2054,7 +2039,6 @@ St. Thomas,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danis
 St. Vincent and the Grenadines,GPH_entity,America,57,St.VincentandtheGrenadines,
 St. Vincent and the Grenadines (other),locality,America,,,St. Vincent and the Grenadines
 Straits Settlements,GPH_entity,Asia,827,StraitsSettlements,
-Straits Settlements & Straits Settlements Dependencies,group,World,,,
 Straits Settlements Dependencies,locality,Asia,,,Straits Settlements
 Stralsund,locality,Europe,,Stralsund,Prussia
 Suakin,locality,Africa,,,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
