@@ -4660,7 +4660,9 @@
         "data/flows/TradeAndNavigationReportOfAden_191819.csv",
         "data/flows/TradeAndNavigationReportOfAden_191314.csv",
         "data/flows/TradeAndNavigationReportOfAden_190809.csv",
-        "data/flows/SummaryOfTheCommerceOfTheDominicanRepublic_1910.csv"
+        "data/flows/SummaryOfTheCommerceOfTheDominicanRepublic_1910.csv",
+        "data/flows/RepblicaDePanamBoletinDeEstadistica_1915_2es.csv",
+        "data/flows/RepblicaDePanamBoletinDeEstadistica_1910.csv"
       ]
     }
   ]
