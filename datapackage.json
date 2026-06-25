@@ -4665,7 +4665,10 @@
         "data/flows/RepblicaDePanamBoletinDeEstadistica_1910.csv",
         "data/flows/ComercioEspecialDeBolivia_1913.csv",
         "data/flows/ComercioEspecialDeBolivia_1912.csv",
-        "data/flows/ComercioEspecialDeBolivia_19101911.csv"
+        "data/flows/ComercioEspecialDeBolivia_19101911.csv",
+        "data/flows/RegistroEstadsticoDeBuenosAires_1863_Vol2.csv",
+        "data/flows/RegistroEstadsticoDeBuenosAires_1862_Vol2.csv",
+        "data/flows/RegistroEstadsticoDeBuenosAires_1857_Vol2.csv"
       ]
     }
   ]
