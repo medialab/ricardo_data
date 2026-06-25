@@ -4668,7 +4668,11 @@
         "data/flows/ComercioEspecialDeBolivia_19101911.csv",
         "data/flows/RegistroEstadsticoDeBuenosAires_1863_Vol2.csv",
         "data/flows/RegistroEstadsticoDeBuenosAires_1862_Vol2.csv",
-        "data/flows/RegistroEstadsticoDeBuenosAires_1857_Vol2.csv"
+        "data/flows/RegistroEstadsticoDeBuenosAires_1857_Vol2.csv",
+        "data/flows/TerritoireDuCamerounStatistiquesCommerciales_193619371938.csv",
+        "data/flows/TerritoireDuCamerounStatistiquesCommerciales_193519361937.csv",
+        "data/flows/TerritoireDuCamerounStatistiquesCommerciales_193319341935.csv",
+        "data/flows/TerritoireDuCamerounStatistiquesCommerciales_193219331934.csv"
       ]
     }
   ]
