@@ -4675,7 +4675,10 @@
         "data/flows/TerritoireDuCamerounStatistiquesCommerciales_193219331934.csv",
         "data/flows/AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_1911.csv",
         "data/flows/AnnuaireStatistiqueDeLaBelgiqueEtDuCongoBelge_19151919.csv",
-        "data/flows/StatistiqueDuCommerceExtrieurDuCongoBelge_1915.csv"
+        "data/flows/StatistiqueDuCommerceExtrieurDuCongoBelge_1915.csv",
+        "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special.csv",
+        "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special.csv",
+        "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special.csv"
       ]
     }
   ]
