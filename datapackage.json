@@ -4678,7 +4678,9 @@
         "data/flows/StatistiqueDuCommerceExtrieurDuCongoBelge_1915.csv",
         "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special.csv",
         "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special.csv",
-        "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special.csv"
+        "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special.csv",
+        "data/flows/RapportSurLaNavigationEtLeMouvementCommercialDeLindochine_1923.csv",
+        "data/flows/RapportSurLaNavigationEtLeMouvementCommercialDeLindochine_1921.csv"
       ]
     }
   ]
