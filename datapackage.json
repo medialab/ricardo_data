@@ -4680,7 +4680,13 @@
         "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special.csv",
         "data/flows/BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special.csv",
         "data/flows/RapportSurLaNavigationEtLeMouvementCommercialDeLindochine_1923.csv",
-        "data/flows/RapportSurLaNavigationEtLeMouvementCommercialDeLindochine_1921.csv"
+        "data/flows/RapportSurLaNavigationEtLeMouvementCommercialDeLindochine_1921.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1924.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1925.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1926.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1927.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1928.csv",
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1929.csv"
       ]
     }
   ]
