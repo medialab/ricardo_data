@@ -2264,7 +2264,7 @@ Khartoum,locality,Africa,,,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 European Africa (other),colonial_area,Africa,,,Europe
 British Africa & Ethiopia (Abyssinia) & European Africa (other) & Tripolitania (Regency of Tripoli),group,Africa,,,
 America (other) & El Salvador & Honduras & Nicaragua,group,America,,,
-Gulf of Kutch,locality,Asia,,,India
+Kutch,GPH_entity,Asia,7695,,
 Persian Gulf & Red Sea,group,Asia,,,
 Danakil Desert,locality,Africa,,,Ethiopia (Abyssinia)
 Italian Somaliland (other) & Somaliland Republic (British Somaliland) (other),group,Africa,,,
