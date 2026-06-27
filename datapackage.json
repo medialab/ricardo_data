@@ -4686,7 +4686,11 @@
         "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1926.csv",
         "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1927.csv",
         "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1928.csv",
-        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1929.csv"
+        "data/flows/StatistikDesAuswrtigenHandelsSterreichs_1929.csv",
+        "data/flows/TablesOfTheRevenuePopulationCommerceOfTheUnitedKingdomAndItsDependencies_1835.csv",
+        "data/flows/TablesOfTheRevenuePopulationCommerceOfTheUnitedKingdomAndItsDependencies_1838.csv",
+        "data/flows/TablesOfTheRevenuePopulationCommerceOfTheUnitedKingdomAndItsDependencies_1843.csv",
+        "data/flows/TablesOfTheRevenuePopulationCommerceOfTheUnitedKingdomAndItsDependencies_1844.csv"
       ]
     }
   ]

@@ -2264,7 +2264,7 @@ Khartoum,locality,Africa,,,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 European Africa (other),colonial_area,Africa,,,Europe
 British Africa & Ethiopia (Abyssinia) & European Africa (other) & Tripolitania (Regency of Tripoli),group,Africa,,,
 America (other) & El Salvador & Honduras & Nicaragua,group,America,,,
-Kutch,GPH_entity,Asia,7695,,
+Gulf of Kutch,locality,Asia,,,India
 Persian Gulf & Red Sea,group,Asia,,,
 Danakil Desert,locality,Africa,,,Ethiopia (Abyssinia)
 Italian Somaliland (other) & Somaliland Republic (British Somaliland) (other),group,Africa,,,
@@ -2307,3 +2307,25 @@ Red Sea (other),locality,World,,,Red Sea
 Italian Somaliland (other),locality,Africa,,,Italian Somaliland
 Farasan Islands,locality,Asia,,,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 French East Indies,colonial_area,Asia,,,France
+Tranquebar,GPH_entity,Asia,7504,,
+Travancore,GPH_entity,Asia,7566,,
+Kutch & Sindh,group,Asia,,,
+Sadras,locality,Asia,,,India
+Belgium & Central Europe & Netherlands,group,Europe,,,
+Eastern Europe,geographical_area,Europe,,,
+Belgium & Germany (Zollverein) & Netherlands & Russia (USSR),group,Europe,,,
+Europe & United States of America,group,World,,,
+East Indian Archipelago,geographical_area,Asia,,,
+Bengal & Coromandel Coast Posts & Malabar Coast,group,Asia,,,
+Guernsey & Jersey,group,Europe,,,
+Indian Ocean Islands (other) & Java,group,Asia,,,
+Port Essington,locality,Oceania,,,New South Wales
+Cape Colony (Cape of Good Hope) & Madeira Isles & St. Helena,group,Africa,,,
+Greece & Morea & Turkey (Ottoman Empire),group,World,,,
+New South Wales & Swan River & Tasmania,group,Oceania,,,
+Alderney & Guernsey & Isle of Man & Jersey,group,Europe,,,
+Stockholm,locality,Europe,,,Sweden
+Cape Colony (Cape of Good Hope) & St. Helena,group,Africa,,,
+Sumba,locality,Asia,,,Indonesia (Dutch East Indies)
+Portendick,locality,Africa,,,Mauritania
+Eastern Asia (other) & Penang,group,Asia,,,
