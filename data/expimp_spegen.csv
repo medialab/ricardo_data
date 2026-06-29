@@ -109,8 +109,8 @@ exp,uitvoer uit het vrije verkeer,Exp,Spe
 ,,Imp,
 re-exp,,Re-exp,Gen-Spe
 re-exp,spe,Re-exp,Gen-Spe
-uitvoer uit her vrije verkeer ,spe,Exp,Spe
-uitvoer huit het vrije verkeer ,spe,Exp,Spe
+"uitvoer uit her vrije verkeer ",spe,Exp,Spe
+"uitvoer huit het vrije verkeer ",spe,Exp,Spe
 uitvoer uit her vrije verkeer,spe,Exp,Spe
 uitvoer huit het vrije verkeer,spe,Exp,Spe
 exp,spe (uitvoer uit het vrije verkeer),Exp,Spe
@@ -132,3 +132,5 @@ re-imp,foreign merchandise,Re-imp,Gen-Spe
 re-exp,marchandises françaises,Re-exp,Gen-Spe
 re-exp,french produce,Re-exp,Gen-Spe
 re-imp,,Re-imp,Gen-Spe
+imp,,Imp,
+exp,,Exp,
