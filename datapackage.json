@@ -4712,7 +4712,18 @@
         "data/flows/CommerceExtrieurDeLestonie_1926.csv",
         "data/flows/CommerceExtrieurDeLestonie_1925.csv",
         "data/flows/CommerceExtrieurDeLestonie_1924.csv",
-        "data/flows/CommerceExtrieurDeLestonie_1923.csv"
+        "data/flows/CommerceExtrieurDeLestonie_1923.csv",
+        "data/flows/StatistiqueDuCommerceDeLiranAvecLesPaysTrangers_19371938.csv",
+        "data/flows/StatistiqueDuCommerceDeLiranAvecLesPaysTrangers_19361937.csv",
+        "data/flows/TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19351936.csv",
+        "data/flows/TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19341935.csv",
+        "data/flows/StatistiqueCommercialeDeLiranTableauGnralDuCommerceAvecLesPaysTrangers_19331934.csv",
+        "data/flows/StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19321933.csv",
+        "data/flows/StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19311932.csv",
+        "data/flows/StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931.csv",
+        "data/flows/StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926.csv",
+        "data/flows/StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918.csv",
+        "data/flows/StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19071908.csv"
       ]
     }
   ]
