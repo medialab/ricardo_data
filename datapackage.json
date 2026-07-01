@@ -4745,7 +4745,19 @@
         "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1913.csv",
         "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1912.csv",
         "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_1909.csv",
-        "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_19051906.csv"
+        "data/flows/StatistiquesDuMouvementMaritimeEtCommercialDuMaroc_19051906.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1907.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1906.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1904.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1902.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1901.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1900.csv",
+        "data/flows/ImportaconYExportaconDeLaRepblicaMexicana_1899.csv",
+        "data/flows/RepblicaMexicanaComercioExterior_18971898.csv",
+        "data/flows/RepblicaMexicanaExportacines_18921893.csv",
+        "data/flows/RepblicaMexicanaImportacines_18891890.csv",
+        "data/flows/RepblicaMexicanaNoticiaDeLaExportacinDeMercancas_18791880.csv",
+        "data/flows/RepblicaMexicanaNoticiaDeLaImportacinYExportacinDeMercancas_18721875.csv"
       ]
     }
   ]
