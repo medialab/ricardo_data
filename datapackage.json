@@ -4757,7 +4757,14 @@
         "data/flows/RepblicaMexicanaExportacines_18921893.csv",
         "data/flows/RepblicaMexicanaImportacines_18891890.csv",
         "data/flows/RepblicaMexicanaNoticiaDeLaExportacinDeMercancas_18791880.csv",
-        "data/flows/RepblicaMexicanaNoticiaDeLaImportacinYExportacinDeMercancas_18721875.csv"
+        "data/flows/RepblicaMexicanaNoticiaDeLaImportacinYExportacinDeMercancas_18721875.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1938.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1937.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1934.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1935.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1929.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1908.csv",
+        "data/flows/ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1907.csv"
       ]
     }
   ]
