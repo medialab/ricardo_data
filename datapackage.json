@@ -4777,7 +4777,10 @@
         "data/flows/TheSeychellesBlueBook_1921.csv",
         "data/flows/StatistiqueDuCommerceExtrieurDesEtatsDuLevantSousMandatFranais_1936.csv",
         "data/flows/StatistiqueDuCommerceExtrieurDesEtatsDuLevantSousMandatFranais_1930.csv",
-        "data/flows/StatistiqueDuCommerceExtrieurDesEtatsDuLevantSousMandatFranais_1929.csv"
+        "data/flows/StatistiqueDuCommerceExtrieurDesEtatsDuLevantSousMandatFranais_1929.csv",
+        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1908.csv",
+        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1906.csv",
+        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1905.csv"
       ]
     }
   ]
