@@ -4780,7 +4780,9 @@
         "data/flows/StatistiqueDuCommerceExtrieurDesEtatsDuLevantSousMandatFranais_1929.csv",
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1908.csv",
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1906.csv",
-        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1905.csv"
+        "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1905.csv",
+        "data/flows/RibeiroSalgadoF_AEvoluoDoComrcioEspecialUltramarino.csv",
+        "data/flows/RibeiroSalgadoF_AEvoluoDoComrcioEspecialUltramarino_1939.csv"
       ]
     }
   ]
