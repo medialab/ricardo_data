@@ -6595,19 +6595,19 @@ year,modified_currency,rate_to_pounds,source,notes
 1938,palestine pound,1,StatisticalAbstractForTheBritishEmpire_19291938_Vol68,
 1924,egyptian pound,0.97,StatisticalYearbookOfTheLeagueOfNations,Use exchange rate in 1926.
 1925,egyptian pound,0.97,StatisticalYearbookOfTheLeagueOfNations,Use exchange rate in 1926.
-1915,angolan escudo,6.746,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1916,angolan escudo,7.032,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1917,angolan escudo,7.726,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1918,angolan escudo,7.901,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1919,angolan escudo,8.196,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1920,angolan escudo,18.329,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1921,angolan escudo,39.384,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1922,angolan escudo,65.084,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1923,angolan escudo,109.714,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1924,angolan escudo,130.324483776,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1925,angolan escudo,95.8134920635,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1926,angolan escudo,94.6978557505,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
-1927,angolan escudo,96.6401590457,ValérioNEd_PortugueseHistoricalStatistics_745,1 angolan escudo = 1 portuguese escudo
+1915,angolan escudo,6.746,,1 angolan escudo = 1 portuguese escudo
+1916,angolan escudo,7.032,,1 angolan escudo = 1 portuguese escudo
+1917,angolan escudo,7.726,,1 angolan escudo = 1 portuguese escudo
+1918,angolan escudo,7.901,,1 angolan escudo = 1 portuguese escudo
+1919,angolan escudo,8.196,,1 angolan escudo = 1 portuguese escudo
+1920,angolan escudo,18.329,,1 angolan escudo = 1 portuguese escudo
+1921,angolan escudo,39.384,,1 angolan escudo = 1 portuguese escudo
+1922,angolan escudo,65.084,,1 angolan escudo = 1 portuguese escudo
+1923,angolan escudo,109.714,,1 angolan escudo = 1 portuguese escudo
+1924,angolan escudo,130.324483776,,1 angolan escudo = 1 portuguese escudo
+1925,angolan escudo,95.8134920635,,1 angolan escudo = 1 portuguese escudo
+1926,angolan escudo,94.6978557505,,1 angolan escudo = 1 portuguese escudo
+1927,angolan escudo,96.6401590457,,1 angolan escudo = 1 portuguese escudo
 1928,angolan angolar,108.859060403,AnnuaireStatistiqueDeLaFrance,
 1929,angolan angolar,108.589128984,AnnuaireStatistiqueDeLaFrance,
 1930,angolan angolar,108.163004941,AnnuaireStatistiqueDeLaFrance,
@@ -7850,3 +7850,13 @@ year,modified_currency,rate_to_pounds,source,notes
 1917,mexican peso,9.270873,FedericoGAndTenajunguitoA_WorldTrade18001938ANewSynthesisRevistaDeHistoriaEconómicajournalOfIberianAndLatinAmericaEconomicHistoryVol37N1,
 1918,mexican peso,8.7939462,FedericoGAndTenajunguitoA_WorldTrade18001938ANewSynthesisRevistaDeHistoriaEconómicajournalOfIberianAndLatinAmericaEconomicHistoryVol37N1,
 1919,mexican peso,9.660201,FedericoGAndTenajunguitoA_WorldTrade18001938ANewSynthesisRevistaDeHistoriaEconómicajournalOfIberianAndLatinAmericaEconomicHistoryVol37N1,
+1929,angolan escudo,108.25,,1 angolan escudo = 1 portuguese escudo
+1930,angolan escudo,108.25,,1 angolan escudo = 1 portuguese escudo
+1931,angolan escudo,109.369,,1 angolan escudo = 1 portuguese escudo
+1932,angolan escudo,110.061,,1 angolan escudo = 1 portuguese escudo
+1933,angolan escudo,109.103,,1 angolan escudo = 1 portuguese escudo
+1934,angolan escudo,110.453,,1 angolan escudo = 1 portuguese escudo
+1935,angolan escudo,110.363,,1 angolan escudo = 1 portuguese escudo
+1936,angolan escudo,110.377,,1 angolan escudo = 1 portuguese escudo
+1937,angolan escudo,110.375,,1 angolan escudo = 1 portuguese escudo
+1938,angolan escudo,110.385,,1 angolan escudo = 1 portuguese escudo
