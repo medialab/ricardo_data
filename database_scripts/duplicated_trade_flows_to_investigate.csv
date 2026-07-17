@@ -1,0 +1,195 @@
+year,reporting,partner,expimp,GROUP_CONCAT(original_partner),GROUP_CONCAT(source),GROUP_CONCAT(spegen),GROUP_CONCAT(species_bullions),GROUP_CONCAT(transport_type),nb_dup
+1898,Mexico,India,Imp,"india,indostan","ImportaconYExportaconDeLaRepblicaMexicana_1899_197198,ImportaconYExportaconDeLaRepblicaMexicana_1899_197198",,,,2
+1899,Mexico,India,Imp,"india,indostan","ImportaconYExportaconDeLaRepblicaMexicana_1899_197198,ImportaconYExportaconDeLaRepblicaMexicana_1899_197198",,,,2
+1899,Mexico,Senegal,Imp,"senegal,senegambia","ImportaconYExportaconDeLaRepblicaMexicana_1899_197198,ImportaconYExportaconDeLaRepblicaMexicana_1899_197198",,,,2
+1907,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1907,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1908,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1908,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1909,Dominican Republic (Santo Domingo),World as reported,Exp,"total,total","SummaryOfTheCommerceOfTheDominicanRepublic_1910_29,ReportOfTheFiscalPerioddominicanCustomsReceivership_1937_121",,,,2
+1909,Dominican Republic (Santo Domingo),World as reported,Imp,"total,total","SummaryOfTheCommerceOfTheDominicanRepublic_1910_24,ReportOfTheFiscalPerioddominicanCustomsReceivership_1937_121",,NS,,2
+1909,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1909,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1910,Dominican Republic (Santo Domingo),World as reported,Exp,"total,total","SummaryOfTheCommerceOfTheDominicanRepublic_1910_29,ReportOfTheFiscalPerioddominicanCustomsReceivership_1937_121",,,,2
+1910,Dominican Republic (Santo Domingo),World as reported,Imp,"total,total","SummaryOfTheCommerceOfTheDominicanRepublic_1910_24,ReportOfTheFiscalPerioddominicanCustomsReceivership_1937_121",,NS,,2
+1910,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1910,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1911,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1911,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1912,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1912,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1913,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1913,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19171918_Iv2iv3",,,,2
+1914,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1914,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1915,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1915,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1916,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1916,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1917,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1917,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1918,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1918,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1919,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1919,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1920,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1920,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19251926_Iv2iv3",,,,2
+1921,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1921,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1922,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1922,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1923,Estonia,Belgium,Exp,"belgia,belgique","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Belgium,Imp,"belgia,belgique","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Danzig (Free City of Danzig),Exp,"danzig,dantzig","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Danzig (Free City of Danzig),Imp,"danzig,dantzig","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Denmark,Exp,"daani,danemark","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Denmark,Imp,"daani,danemark","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Finland,Exp,"soome,finlande","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Finland,Imp,"soome,finlande","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,France,Exp,"prantsuse,france","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,France,Imp,"prantsuse,france","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Germany (Zollverein),Exp,"saksa,allemagne","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Germany (Zollverein),Imp,"saksa,allemagne","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Latvia,Exp,"lati,lettonie","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Latvia,Imp,"lati,lettonie","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Lithuania,Exp,"leedu,lithuanie","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Lithuania,Imp,"leedu,lithuanie","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Netherlands,Exp,"hollandi,pays-bas","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Netherlands,Imp,"hollandi,pays-bas","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Norway,Exp,"norra,norvège","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Norway,Imp,"norra,norvège","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,Sweden,Exp,"rootsi,suède","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,Sweden,Imp,"rootsi,suède","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,United Kingdom,Exp,"inglise,angleterre","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,United Kingdom,Imp,"inglise,angleterre","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,United States of America,Exp,"uhisriigid,etats-unis d’amérique","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,United States of America,Imp,"uhisriigid,etats-unis d’amérique","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,World (other),Exp,"muud maad,autres pays","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,World (other),Imp,"muud maad,autres pays","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Estonia,World as reported,Exp,"total,total","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_17",,,,2
+1923,Estonia,World as reported,Imp,"total,total","GowaJRHicks20132017,CommerceExtrieurDeLestonie_1923_12",,,,2
+1923,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1923,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1924,El Salvador,Chile,Exp,"chile,chile","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Chile,Imp,"chile,chile","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Cuba,Exp,"cuba,cuba","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Cuba,Imp,"cuba,cuba","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Denmark,Exp,"dinamarca,denmark","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Denmark,Imp,"dinamarca,denmark","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,France,Exp,"francia,france","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,France,Imp,"francia,france","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Germany (Zollverein),Exp,"alemania,germany","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Germany (Zollverein),Imp,"alemania,germany","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Italy,Exp,"italia,italy","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Italy,Imp,"italia,italy","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Netherlands,Exp,"holanda,netherlands","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Netherlands,Imp,"holanda,netherlands","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Norway,Exp,"noruega,norway","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Norway,Imp,"noruega,norway","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Panama,Exp,"panamá,panama","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Panama,Imp,"panamá,panama","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Spain,Exp,"españa,spain","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Spain,Imp,"españa,spain","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Sweden,Exp,"suecia,sweden","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,Sweden,Imp,"suecia,sweden","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,United Kingdom,Exp,"gran bretaña,united kingdom","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,United Kingdom,Imp,"inglaterra,united kingdom","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,United States of America,Exp,"estados unidos,united states of america","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,United States of America,Imp,"estados unidos,united states of america","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,World as reported,Exp,"total,world","EstadisticaDeElSalvadorEstadisticaComercial_1924_20,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,El Salvador,World as reported,Imp,"total,world","EstadisticaDeElSalvadorEstadisticaComercial_1924_28,MémorandumSurLeCommerceInternationalEtSurLesBalancesDesPaiements_19121926_Vol2",Gen,S,,2
+1924,Estonia,Belgium,Exp,"belgique,belgia","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Belgium,Imp,"belgique,belgia","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Czechoslovakia,Exp,"tchécoslovaquie,tshehho-slovak","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Czechoslovakia,Imp,"tchécoslovaquie,tshehho-slovak","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Danzig (Free City of Danzig),Exp,"dantzig,danzig","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Danzig (Free City of Danzig),Imp,"dantzig,danzig","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Denmark,Exp,"danemark,daani","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Denmark,Imp,"danemark,daani","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Finland,Exp,"finlande,soome","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Finland,Imp,"finlande,soome","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,France,Exp,"france,prantsuse","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,France,Imp,"france,prantsuse","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Germany (Zollverein),Exp,"allemagne,saksa","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Germany (Zollverein),Imp,"allemagne,saksa","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Latvia,Exp,"lettonie,lati","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Latvia,Imp,"lettonie,lati","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Lithuania,Exp,"lithuanie,leedu","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Netherlands,Exp,"pays-bas,hollandi","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Netherlands,Imp,"pays-bas,hollandi","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Norway,Exp,"norvège,norra","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Norway,Imp,"norvège,norra","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Poland,Imp,"pologne,poola","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,Sweden,Exp,"suède,rootsi","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,Sweden,Imp,"suède,rootsi","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,United Kingdom,Exp,"angleterre,inglise","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,United Kingdom,Imp,"angleterre,inglise","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,United States of America,Exp,"etats-unis d’amérique,uhisriigid","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,United States of America,Imp,"etats-unis d’amérique,uhisriigid","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,World (other),Exp,"autres pays,muud maad","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,World (other),Imp,"autres pays,muud maad","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Estonia,World as reported,Exp,"total,total","CommerceExtrieurDeLestonie_1924_19,GowaJRHicks20132017",,,,2
+1924,Estonia,World as reported,Imp,"total,total","CommerceExtrieurDeLestonie_1924_13,GowaJRHicks20132017",,,,2
+1924,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1924,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1925,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1925,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1926,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1926,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1927,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1927,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1928,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1928,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1929,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1929,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1930,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1930,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"mascate,oman","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19301931_Iv2iv6",,,,2
+1931,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19311932_5,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19311932_5",,,,2
+1931,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"oman,mascate","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19311932_5,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19311932_5",,,,2
+1932,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19321933_89,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19321933_89",,,,2
+1932,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"oman,mascate","StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19321933_89,StatistiqueCommercialeDeLaPerseTableauGnralDuCommerceAvecLesPaysTrangers_19321933_89",,,,2
+1933,French West Africa,Belgium,Imp,"belgique,belgique","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,French West Africa,Germany (Zollverein),Imp,"allemagne,allemagne","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,French West Africa,Japan,Imp,"japon,japon","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,French West Africa,Netherlands,Imp,"hollande,pays-bas","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,French West Africa,United Kingdom,Imp,"angleterre,angleterre","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,French West Africa,United States of America,Imp,"etats-unis,etats-unis","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,French West Africa,World as reported,Imp,"total,monde","BulletinMensuelDeLagenceConomiqueDeLaof_1935_Special_4,AnnuaireStatistiqueDeLaFrance_1936",Spe,,,2
+1933,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","StatistiqueCommercialeDeLiranTableauGnralDuCommerceAvecLesPaysTrangers_19331934_89,StatistiqueCommercialeDeLiranTableauGnralDuCommerceAvecLesPaysTrangers_19331934_89",,,,2
+1933,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"oman,mascate","StatistiqueCommercialeDeLiranTableauGnralDuCommerceAvecLesPaysTrangers_19331934_89,StatistiqueCommercialeDeLiranTableauGnralDuCommerceAvecLesPaysTrangers_19331934_89",,,,2
+1934,French West Africa,Belgium,Imp,"belgique,belgique","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,France,Imp,"france,france","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,French Colonies,Imp,"colonies françaises,colonies françaises","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,Germany (Zollverein),Imp,"allemagne,allemagne","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,Japan,Imp,"japon,japon","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,Netherlands,Imp,"pays-bas,hollande","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,United Kingdom,Imp,"angleterre,angleterre","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,United States of America,Imp,"etats-unis,etats-unis","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,French West Africa,World as reported,Imp,"monde,total","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1934,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19341935,TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19341935",,,,2
+1934,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"oman,mascate","TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19341935,TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19341935",,,,2
+1935,French West Africa,Belgium,Imp,"belgique,belgique","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,France,Imp,"france,france","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,French Colonies,Imp,"colonies françaises,colonies françaises","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,Germany (Zollverein),Imp,"allemagne,allemagne","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,Japan,Imp,"japon,japon","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,Netherlands,Imp,"pays-bas,hollande","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,United Kingdom,Imp,"angleterre,angleterre","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,United States of America,Imp,"etats-unis,etats-unis","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,French West Africa,World as reported,Imp,"monde,total","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1936_Special_45",Spe,,,2
+1935,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19351936_89,TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19351936_89",,,,2
+1935,Iran (Persia),Oman (Sultanate of Muscat and Oman),Imp,"oman,mascate","TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19351936_89,TableauGnralDesImportationsEtDesExportationsDeLiranAvecLesPaysTrangers_19351936_89",,,,2
+1936,French West Africa,Belgium,Imp,"belgique,belgique","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,France,Imp,"france,france","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,French Colonies,Imp,"colonies françaises,colonies françaises","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,Germany (Zollverein),Imp,"allemagne,allemagne","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,Japan,Imp,"japon,japon","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,Netherlands,Imp,"pays-bas,hollande","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,United Kingdom,Imp,"angleterre,angleterre","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,United States of America,Imp,"etats-unis,etats-unis","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,French West Africa,World as reported,Imp,"monde,total","AnnuaireStatistiqueDeLaFrance_1936,BulletinMensuelDeLagenceConomiqueDeLaof_1938_Special_45",Spe,,,2
+1936,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","StatistiqueDuCommerceDeLiranAvecLesPaysTrangers_19361937_5758,StatistiqueDuCommerceDeLiranAvecLesPaysTrangers_19361937_5758",,,,2
+1937,Iran (Persia),Oman (Sultanate of Muscat and Oman),Exp,"oman,mascate","StatistiqueDuCommerceDeLiranAvecLesPaysTrangers_19371938_4546,StatistiqueDuCommerceDeLiranAvecLesPaysTrangers_19371938_4546",,,,2
+1937,Mozambique (Portuguese East Africa),India,Imp,"india-britânica,índia","ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1938_45,ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1937_9","Spe,Spe","S,S",,2
+1938,Mozambique (Portuguese East Africa),India,Exp,"india-britânica,índia","ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1938_45,ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1938_9","Spe,Spe","S,S",,2
+1938,Mozambique (Portuguese East Africa),India,Imp,"índia-britânica,índia","ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1938_45,ColniaDeMoambiqueEstatsticaDoComrcioExternoEDaNavegao_1938_9","Spe,Spe","S,S",,2
