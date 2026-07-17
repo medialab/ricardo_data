@@ -545,7 +545,8 @@
               ]
             }
           }
-        ]
+        ],
+        "primaryKey": ["export_import", "special_general"]
       }
     },
     {
