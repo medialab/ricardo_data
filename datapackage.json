@@ -4745,7 +4745,9 @@
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1906.csv",
         "data/flows/DocumentsStatistiquesSurLeCommerceDeLaTunisie_1905.csv",
         "data/flows/RibeiroSalgadoF_AEvoluoDoComrcioEspecialUltramarino.csv",
-        "data/flows/RibeiroSalgadoF_AEvoluoDoComrcioEspecialUltramarino_1939.csv"
+        "data/flows/RibeiroSalgadoF_AEvoluoDoComrcioEspecialUltramarino_1939.csv",
+        "data/flows/EstadisticaDeElSalvadorEstadisticaComercial_1924.csv",
+        "data/flows/AbstractOfReportsOfTradeOfVariousCountries.csv"
       ]
     }
   ]
