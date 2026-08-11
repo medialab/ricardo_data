@@ -83,6 +83,15 @@ def control_flow_files():
                 f for f in filenames if f not in sources_filenames
             ]
             deprecated_file_in_datapackage = [f for f in flows_resource.extrapaths if f.split('/')[-1] not in filenames]
+
+            empty_files:list[str] = []
+            for f in filenames:
+                with open(os.path.join(DATAPACKAGE_ROOT_DIR, "data", "flows", f), "r") as file:
+                    num_lines = sum(1 for _ in file)
+                    if num_lines <= 1:
+                        empty_files.append(f)
+
+
             print("missing in datapackage")
             print(len(missing_file_in_datapackage))
             print(missing_file_in_datapackage)
@@ -91,6 +100,8 @@ def control_flow_files():
             print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
             print(f"{len(deprecated_file_in_datapackage)} deprecated file in datapackage")
             print(deprecated_file_in_datapackage)
+            print(f"empty source files {len(empty_files)}")
+            print('\n'.join(empty_files))
 
 
 def homogenize_partners():
