@@ -661,7 +661,6 @@ aracan,Arakan
 archangel,Sitka (Arkhangelsk)
 archipel,Archipelago
 archipel indien,Indonesia (Dutch East Indies) (other)
-archipel oriental,Indonesia (Dutch East Indies) (other)
 archipel soude,Sunda Islands
 arctic region,Arctic
 arctic regions,Arctic
@@ -1147,7 +1146,6 @@ belgica,Belgium
 bélgica,Belgium
 bélgica (inclus. luxemburgo),Belgium & Luxemburg
 bélgica y luxemburgo,Belgium & Luxemburg
-belgica-luxemburgo,Belgium & Luxemburg
 bélgica-luxemburgo,Belgium & Luxemburg
 belgicke drzavy v africe,Belgian Africa
 belğické kongo,Democratic Republic of the Congo (Zaire) (Kinshasa) (Belgian Congo) (Congo Free State)
@@ -1209,7 +1207,6 @@ bengal (britsh india),Bengal
 bengal and pegu (britsh india),Bago (Pegu) & Bengal
 "bengal, bombay, burma, madras",Bengal & Chennai (Madras) & Mumbai (Bombay) & Myanmar (Burma)
 bengale,Bengal
-bengale (côte de coromandel et malabar),Coromandel Coast Posts & Malabar Coast
 "bengale, ceylan",Bengal & Sri Lanka (Ceylon)
 bengasi,Benghazi
 benguella,Benguela
@@ -2033,7 +2030,6 @@ chine et japon,Japan & People's Republic of China (China)
 chine et macao,Macao & People's Republic of China (China)
 chine et mandchourie,Manchuria & People's Republic of China (China)
 chine et philippines,People's Republic of China (China) & Philippines
-"chine, cochinchine et macao",Cochin China & Macao & People's Republic of China (China)
 "chine, cochinchine et océanie",Cochin China & Oceania & People's Republic of China (China)
 "chine, hong kong",Hong Kong & People's Republic of China (China)
 "chine, hong-kong et pack-koï",Hong Kong & People's Republic of China (China)
@@ -2877,11 +2873,9 @@ egypte et régences barbaresques,Barbary Coast & Egypt Arab Republic (Egypt)
 egypte et soudan anglo-egyptien,Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 egypte et syrie,Egypt Arab Republic (Egypt) & Syria
 égypte et syrie,Egypt Arab Republic (Egypt) & Syria
-egypte et syrie (beyrout),Beirut & Egypt Arab Republic (Egypt)
 egypte et syrie (candie),Crete & Egypt Arab Republic (Egypt)
 egypte et syrie (egypte),Egypt Arab Republic (Egypt)
 egypte et syrie (syrie),Syria
-egypte et syrie et caramanie (beyrout),Beirut & Egypt Arab Republic (Egypt) & Syria
 egypte-alexandrie,Alexandria
 "egypte, enz.",Egypt Arab Republic (Egypt)
 egypte**,Egypt Arab Republic (Egypt)
@@ -3015,7 +3009,6 @@ espana y colonias,Spain & Spanish Colonies
 espana y sus colonias,Spain & Spanish Colonies
 españa y sus colonias,Spain & Spanish Colonies
 espanha,Spain
-espanha possessoes,Spanish Colonies
 est africain anglais,British Eastern Africa
 est. de los estrechos,Straits Settlements
 estabelecimentos do estreito,Straits Settlements
@@ -3165,8 +3158,6 @@ ethiopie ou abyssinie,Ethiopia (Abyssinia)
 "ethiopië, enz.",Ethiopia (Abyssinia)
 etiopia,Ethiopia (Abyssinia)
 etranger,World (other)
-eu da america do norte,United States of America
-eu do brasil,Brazil
 europa - possessoes britannicas,British Europe
 europæisk rusland,European Russia
 europæisk tyrki,European Turkey
@@ -3301,7 +3292,6 @@ franc: guadalupe,Guadeloupe
 franc: guayane,French Guiana
 franc: martinica,Martinique
 franc. džr. v asii,French Asia
-franca,France
 frança,France
 frança e suas possesões,France & French Colonies
 françaises indochine,French Indochina
@@ -3668,7 +3658,6 @@ goldkuste,Ghana (Gold Coast)
 golfe arabique,Persian Gulf
 golfe de guinée et congo,Assinie & Congo (Brazzaville) (French Congo) (Middle Congo) & Grand-Bassam
 golfe persique,Persian Gulf
-golfe persique et la mecque,Mecca & Persian Gulf
 "golfe persique, bengale, inde",Bengal & India & Persian Gulf
 gopaalpore,Gopalpur
 gorda cay,Gorda Cay
@@ -4352,7 +4341,6 @@ indes ocidentales néerlandaises,Netherlands Antilles
 indes orient,East Indies
 "indes orient., maurice, le cap",Cape Colony (Cape of Good Hope) & East Indies & Mauritius
 indes orientales,East Indies
-"indes orientales (bengale, côtes de coromandel et de malabar)",Coromandel Coast Posts & Malabar Coast
 indes orientales (compagnie des),East India Company
 indes orientales (java),Java
 indes orientales (possessions anglaises),British East Indies
@@ -4370,7 +4358,6 @@ indes orientales étrangères,East Indies (other)
 indes orientales françaises,French India
 indes orientales hollandaises,Indonesia (Dutch East Indies)
 indes orientales hollandaises (batavia),Jakarta (Batavia)
-indes orientales hollandaises (java et madura),Java & Madura
 indes orientales néerlandaises,Indonesia (Dutch East Indies)
 indes orientales néerlandaises (java et madura),Java & Madura
 indes orientales néerlandaises (java),Java
@@ -4422,7 +4409,6 @@ india holandesa,Indonesia (Dutch East Indies)
 india inglesa,India
 india portuguesa,Portuguese India
 india portugueza,Portuguese India
-india-britanica,India
 "india, aden, and ceylon",Aden & India & Sri Lanka (Ceylon)
 "india, british",India
 "india, china and japan",India & Japan & People's Republic of China (China)
@@ -4634,7 +4620,6 @@ itali,Italy
 italia,Italy
 itália,Italy
 ítalía,Italy
-italia possessoes,Italian Colonies
 italia somalia,Italian Somaliland
 italian aegean islands,Dodecanese Is. (Aegean Is.)
 italian africa,Italian Africa
@@ -4785,7 +4770,6 @@ java and sumatra,Java & Sumatra
 java en verdere nederl. o-i bezittingen,Dutch Asia (other) & Java
 java et bornéo,Dutch Borneo & Java
 java et bornéo néerlandais,Dutch Borneo & Java
-java et madura,Java & Madura
 java et moluques,Java & Maluku (Mollucas)
 java et sumatra,Java & Sumatra
 java islands,Java
@@ -5274,7 +5258,6 @@ mandżuria,Manchuria
 mandzurija,Manchuria
 mandzusko,Manchukuo
 mangalore,Mangalore
-manica e sofala,Manica Province & Sofala Province
 manila,Manila
 manilla,Manila
 manilla and philippines islands,Philippines
@@ -5788,7 +5771,6 @@ newfoundland and labrador,Newfoundland and Labrador (Newfoundland)
 newfoundland_preferential,Newfoundland and Labrador (Newfoundland) (other)
 nezinamas valstis,World (other)
 niassaland brytyjski,Malawi (Nyasaland) (British Central Africa Protectorate)
-niassalandia,Malawi (Nyasaland) (British Central Africa Protectorate)
 nicaragua,Nicaragua
 nicaragua**,Nicaragua
 nicaraguay,Nicaragua
@@ -5949,7 +5931,6 @@ nouvelle galles du sud,New South Wales
 nouvelle grenade,Colombia (New Granada) (Gran Colombia)
 nouvelle grenade et vénézuela,Colombia (New Granada) (Gran Colombia) & Venezuela
 nouvelle guinée,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
-nouvelle hollande,Western Australia
 nouvelle hollande-nouvelle-galles du sud,New South Wales & Western Australia
 nouvelle zelande,New Zealand
 nouvelle zélande,New Zealand
@@ -7025,7 +7006,6 @@ poss. belges en afrique,Belgian Africa
 poss. brit. afrique occ. et or.,British Africa
 poss. esp en afrique,Spanish Africa
 poss. esp. en afrique,Spanish Africa
-poss. holland. en amérique,Dutch America
 poss. hollandaises en amérique,Netherlands Antilles
 poss. ital. en afrique,Italian Africa
 poss. ital. en asie,Italian Asia
@@ -7132,16 +7112,6 @@ possessions portuguaises d'asie,Portuguese Asia
 possessions portuguaises d'asie et d'afrique,Portuguese Africa & Portuguese Asia
 possessions suédoises en amérique,Swedish America
 possessiosn espagne,Spanish Colonies
-possessoes britanicas (outras),British Colonies (other)
-possessoes francas da africa,French Africa
-possessoes francas da asia,French Asia
-possessoes holandas da america,Dutch America
-possessoes holandas da oceania,Dutch Oceania
-possessoes inglesas da africa,British Africa
-possessoes inglesas da america,British America
-possessoes inglesas da asia,British Asia
-possessoes inglesas da oceania,British Oceania
-possessoes portuguesas,Portuguese Colonies
 possessões portuguezas da africa,Portuguese Africa
 possessões portuguezas da asia,Portuguese Asia
 possesssions hollandaises en amérique,Netherlands Antilles
@@ -7175,13 +7145,11 @@ principautés danubiennes,Moldavia & Wallachia
 principe,Principe
 procedencias e destinos diversos,World (other)
 procedências e destinos nõ mencionados,Unknown
-procedencias ignoradas,World (other)
 procedencias não mencionadas,Unknown
 "procedencias não mencionadas (fazendas demoradas, arrojos do mar, etc.)",Unknown
 "procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes e avioes)",Unknown
 "procedènias e destinos náo mencionados (fazendas demoradas, arrojos do mar, arrestos e mantimentos ou gastos de embarcaçoes)",Unknown
 protected malay states,Johore & Kedah & Kelantan & Perlis & Trengganu
-protectorat de la république française au maroc,Morocco
 protectorate of northern nigeria,Northern Nigeria (British Nigeria)
 protectorate of south-west africa,Namibia (South West Africa) (German South West Africa)
 protectorate of southern nigeria,Southern Nigeria (Niger Coast Protectorate)
@@ -7424,7 +7392,6 @@ rivières du sud du sénégal,Guinea (French Guinea) (Rivieres du Sud)
 rjeka,Fiume
 ródes,Rhodes
 rodésia,Zimbabwe (Rhodesia) (Southern Rhodesia)
-rodesias,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rodesie du n-ouest,Barotseland_North_Western Rhodesia (Northwestern Rhodesia)
 rodessie meridional,Zimbabwe (Rhodesia) (Southern Rhodesia)
 rodezija,Zimbabwe (Rhodesia) (Southern Rhodesia)
@@ -7443,7 +7410,6 @@ románia,Romania
 romanie,Romania
 româniei,Romania
 romanya,Romania
-romenia,Romania
 roménia,Romania
 rootsi,Sweden
 ross sea,Ross Dependency
@@ -7749,7 +7715,6 @@ sao salvador,El Salvador
 sao thome et principe,Sao Tome-Principe
 sao thome i principe,Sao Tome-Principe
 "sao thomé, principe",Sao Tome-Principe
-sao tome e principe,Sao Tome-Principe
 são-domingos,Dominican Republic (Santo Domingo)
 saona (colonie dominicaine),Saona Island
 sapelli,Sapele (Nigeria)
@@ -8325,7 +8290,6 @@ stredoamericke republiky,Central America
 strefa kanalu panamskiego,Panama Canal Zone
 striats settlements,Straits Settlements
 suakin and port sudan,Port Sudan & Suakin
-suazilandie e zululandia,Eswatini (Swaziland) & Zululand
 sud africa,South Africa
 sud de l'europe,Southern Europe
 sud-africa,South Africa
@@ -8359,7 +8323,6 @@ suecia e norwega,Norway & Sweden
 suecia i noruega,Norway & Sweden
 suecia y norega,Norway & Sweden
 suecia y noruega,Norway & Sweden
-suecie,Sweden
 suede,Sweden
 suéde,Sweden
 suède,Sweden
@@ -8379,7 +8342,6 @@ suedie,Sweden
 sueica,Sweden
 suez,Suez Canal Zone
 suez and alexandria,Alexandria & Suez Canal Zone
-suica,Switzerland
 suiça,Switzerland
 suíça,Switzerland
 suissa,Switzerland
@@ -9170,7 +9132,6 @@ us foreign possession in china (total),American China
 us of america,United States of America
 us of america and hawaii,Hawaii (Sandwich Is.) & United States of America
 us pacific territory and possessions,American Oceania
-us posessoes,American Colonies
 us virgin islands,Virgin Islands (Danish West Indies)
 us west indies,American West Indies
 usa,United States of America
@@ -9210,7 +9171,6 @@ västindiska öarna,West Indies
 västindiska öarna.,West Indies
 vatikano vaistybe,Vatican City
 velika britanija,United Kingdom
-vendidas em leilao,***NA
 vene,Russia (USSR)
 venecuela,Venezuela
 venedig,Republic of St. Mark
@@ -9938,7 +9898,7 @@ formose,Republic of China (Taiwan) (Formosa)
 japon et corée et formose,Japan & Korea (Chosen) & Republic of China (Taiwan) (Formosa)
 indes néerlandaises (java),Java
 koveit,Kuwait
-chine et mongolie et thibet et wei-hai-wei,Mongolia & People's Republic of China & Tibet & Weihaiwei
+chine et mongolie et thibet et wei-hai-wei,Mongolia & People's Republic of China (China) & Tibet & Weihaiwei
 danemark et iles feroe,Denmark & Faeroe Is.
 hedjaz et nadjd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
 macao portugal,Macao
@@ -9978,7 +9938,6 @@ holanda e possessóes,Dutch Colonies & Netherlands
 urss (rússia),Russia (USSR)
 origens ignoradas,***NA
 possessóes portuguesas (outras),Portuguese Colonies (other)
-índia,India
 índia-britânica,India
 suazilândia e zululândia,Eswatini (Swaziland) & Zululand
 destinos diversos,World (other)

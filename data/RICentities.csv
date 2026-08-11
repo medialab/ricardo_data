@@ -23,7 +23,6 @@ Aden & Mauritius,group,World,,,
 Aden & Perim I.,group,Asia,,,
 Aden & Straits Settlements,group,Asia,,,
 Aden & World (other),group,World,,,
-Aden Dependencies,locality,Asia,,,Aden
 Aden Protectorate,GPH_entity,Asia,682,,
 Adidome,locality,Africa,,,Volta Region
 Adriatic Ports,geographical_area,Europe,,,
@@ -242,7 +241,6 @@ Austria-Hungary (Austrian Empire) & Italy,group,Europe,,Austria-Hungary_Italy,
 Austria-Hungary (Austrian Empire) & Lombardy-Venetia,group,Europe,,Austria-Hungary_Lombardy-Venetia,
 Austria-Hungary (Austrian Empire) & Saxony,group,Europe,,,
 Austria-Hungary (Austrian Empire) & Trieste,group,Europe,,,
-Austrian Dependencies,locality,Europe,,,Austria-Hungary (Austrian Empire)
 Axim,locality,Africa,,,Ghana (Gold Coast)
 Azores (Western Isles),GPH_entity,Africa,400,AzoresWesternIsles,
 Azores (Western Isles) & Canary Is.,group,Africa,,AzoresWesternIsles_CanaryIs,
@@ -306,8 +304,6 @@ Bavaria & Frankfurt & Saxony,group,Europe,,Bavaria_Frankfurt_Saxony,
 Bavaria & Saxony,group,Europe,,Bavaria_Saxony,
 Beira,locality,Africa,,Beira,Mozambique (Portuguese East Africa)
 Beirut,locality,Asia,,Beirut,Lebanon
-Beirut & Egypt Arab Republic (Egypt),group,World,,Beirut_EgyptArabRepublicEgypt,
-Beirut & Egypt Arab Republic (Egypt) & Syria,group,World,,Beirut_EgyptArabRepublicEgypt_Syria,
 Belgian Africa,colonial_area,Africa,,,Belgium
 Belgian Colonies,colonial_area,World,,,Belgium
 Belgian Colonies (other),locality,World,,,Belgian Colonies
@@ -633,7 +629,6 @@ Clipperton I.,GPH_entity,Oceania,9610,ClippertonI.,
 Cochin China,GPH_entity,Asia,8151,CochinChina,
 Cochin China & French India,group,Asia,,,
 Cochin China & Java & Philippines & Thailand (Siam),group,Asia,,CochinChina_IndonesiaDutchEastIndies_Philippines_ThailandSiam,
-Cochin China & Macao & People's Republic of China (China),group,Asia,,CochinChina_Macao_PeoplesRepublicofChinaChina,
 Cochin China & Oceania & People's Republic of China (China),group,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina,
 Cochin China & Oceania & People's Republic of China (China) & Philippines,group,World,,CochinChina_Oceania_PeoplesRepublicofChinaChina_Philippines,
 Cochin China & People's Republic of China (China),group,Asia,,CochinChina_PeoplesRepublicofChinaChina,
@@ -672,7 +667,6 @@ Coringa (India),locality,Asia,,,India
 Corisco I.,GPH_entity,Africa,4112,,
 Cork,locality,Europe,,Cork,Ireland
 Coromandel Coast Posts,GPH_entity,Asia,7503,CoromandelCoastPosts,
-Coromandel Coast Posts & Malabar Coast,group,Asia,,CoromandelCoastPosts_MalabarCoast,
 Corps Expeditionnaire d'Orient (Gallipoli and Dardanelles),locality,Europe,,,Greece
 Corsica,locality,Europe,,,France
 Costa Rica,GPH_entity,America,94,CostaRica,
@@ -857,7 +851,6 @@ Egypt Arab Republic (Egypt) & Sudan (Anglo-Egyptian Sudan) (Mahdist State),group
 Egypt Arab Republic (Egypt) & Syria,group,World,,EgyptArabRepublicEgypt_Syria,
 Egypt Arab Republic (Egypt) & Tripolitania (Regency of Tripoli),group,Africa,,,
 Egypt Arab Republic (Egypt) & Turkey (Ottoman Empire),group,World,,EgyptArabRepublicEgypt_TurkeyOttomanEmpire,
-Egypt Arab Republic (Egypt) Dependencies,locality,Africa,,,Egypt Arab Republic (Egypt)
 El Jadida (Mazaghan),locality,Africa,,,Morocco
 El Salvador,GPH_entity,America,92,ElSalvador,
 El Salvador & Honduras & Nicaragua,group,America,,,
@@ -903,7 +896,6 @@ Falkland Is.,GPH_entity,America,1163,FalklandIs.,
 Falkland Is. & Guyana (British Guiana),group,America,,FalklandIs_GuyanaBrGuiana,
 Falkland Is. & Patagonia,group,America,,,
 Falkland Is. & Uruguay,group,America,,FalklandIs._Uruguay,
-Falkland Is. Dependencies,locality,America,,,Falkland Is.
 Fanning I.,GPH_entity,Oceania,9453,,
 Far Eastern Republic,GPH_entity,Asia,735,,
 Federated Malay States,GPH_entity,Asia,821,FederatedMalayStates,
@@ -1090,7 +1082,6 @@ Grenadines,locality,America,,,St. Vincent and the Grenadines
 Guadeloupe,GPH_entity,America,65,Guadeloupe,
 Guadeloupe & Martinique,group,America,,Guadeloupe_Martinique,
 Guadeloupe & Martinique & Reunion (Bourbon I.),group,World,,Guadeloupe_Martinique_Reunion,
-Guadeloupe Dependencies,locality,America,,,Guadeloupe
 Guam,GPH_entity,Oceania,985,Guam,
 Guam & Philippines,group,World,,Guam_Philippines,
 Guangzhou (Canton),GPH_entity,Asia,7124,PeoplesRepublicofChinaChina,
@@ -1242,7 +1233,6 @@ Jakarta (Batavia) & Java & Sumatra,group,Asia,,JakartaBatavia_Java_Sumatra,
 Jakarta (Batavia) & People's Republic of China (China),group,Asia,,,
 Jakarta (Batavia) & Singapore,group,Asia,,JakartaBatavia_Singapore,
 Jamaica,GPH_entity,America,51,Jamaica,
-Jamaica Dependencies,locality,America,,,Jamaica
 Japan,GPH_entity,Asia,740,Japan,
 Japan & Japanese China & Republic of China (Taiwan) (Formosa),group,Asia,,,
 Japan & Korea (Chosen),group,Asia,,,
@@ -1464,7 +1454,6 @@ Manchuria & Mongolia & People's Republic of China (China),group,Asia,,Manchuria_
 Manchuria & People's Republic of China (China),group,Asia,,Manchuria_PeoplesRepublicofChinaChina,
 Mangalore,locality,Asia,,,India
 Manica Province,locality,Africa,,,Mozambique (Portuguese East Africa)
-Manica Province & Sofala Province,group,Africa,,,
 Manila,locality,Asia,,Manila,Philippines
 Manitoba,GPH_entity,America,10204,Manitoba,
 Manitoba & North-Western Territory & Ontario (Upper Canada) & Quebec (Lower Canada) & Rupert's Land,group,America,,Manitoba_NorthwestTerritories_OntarioUpperCanada_QuebecLowerCanada_RupertsLand,
@@ -1500,7 +1489,6 @@ Mayumba,locality,Africa,,,Gabon
 Mazatlán,locality,America,,Mazatl�n,Mexico
 Mazeppa Bay,locality,Africa,,,Cape Colony (Cape of Good Hope)
 Mecca,locality,Asia,,SaudiArabiaEmirateofNejd,Saudi Arabia (Emirate of Nejd) (Emirate of Diriyah)
-Mecca & Persian Gulf,group,Asia,,Mecca_PersianGulf,
 Mecklenburg Schwerin,GPH_entity,Europe,280,MecklenburgSchwerin,
 Mecklenburg Schwerin & Lübeck,group,Europe,,,
 Mecklenburg Schwerin & Oldenburg,group,Europe,,MecklenburgSchwerin_Oldenburg,
@@ -1603,7 +1591,6 @@ New Calabar (Kalabari),GPH_entity,Africa,4793,,
 New Caledonia,GPH_entity,Oceania,930,,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland),GPH_entity,Oceania,912,NewGuineaGermanNewGuineaKaiserWilhelmsland,
 New Guinea (German New Guinea) (Kaiser Wilhelmsland) & Nauru & Samoa (Western Samoa) (German Samoa),group,Oceania,,,
-New Guinea (German New Guinea) (Kaiser Wilhelmsland) Dependencies,locality,Oceania,,,New Guinea (German New Guinea) (Kaiser Wilhelmsland)
 New Iberia,locality,America,,,Louisiana
 New Providence,locality,America,,,Bahamas
 New South Wales,GPH_entity,Oceania,901,NewSouthWales,
@@ -1928,15 +1915,12 @@ Sekondi-Takoradi,locality,Africa,,,Ghana (Gold Coast)
 Selangore,GPH_entity,Asia,8202,,
 Semarang,locality,Asia,,,Indonesia (Dutch East Indies)
 Senegal,GPH_entity,Africa,433,Senegal,
-Senegal Dependencies,locality,Africa,,,Senegal
-Senegambia,geographical_area,Africa,,,
 Serampore,locality,Asia,,,India
 Seremban (Songei Ujong),GPH_entity,Asia,8211,,
 Serrana Bank,GPH_entity,America,1103,,
 Setté Cama,locality,Africa,,,Gabon
 Setúbal,locality,Europe,,Set�bal,Portugal
 Seychelles,GPH_entity,Africa,591,Seychelles,
-Seychelles Dependencies,locality,Africa,,,Seychelles
 Shangai,GPH_entity,Asia,7121,PeoplesRepublicofChinaChina,
 Shantou,locality,Asia,,,People's Republic of China (China)
 Shelburne,locality,America,,,Nova Scotia
@@ -2021,7 +2005,6 @@ Species,,,,Species,
 Spitsbergen,locality,Europe,,,Svalbard Is.
 Sri Lanka (Ceylon),GPH_entity,Asia,780,SriLankaCeylon,
 Sri Lanka (Ceylon) & Thailand (Siam),group,Asia,,,
-Sri Lanka (Ceylon) Dependencies,locality,Asia,,,Sri Lanka (Ceylon)
 St. Barthelemy,GPH_entity,America,1064,St.Barthelemy,
 St. Croix,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danish West Indies)
 St. Croix & St. John & St. Thomas,group,America,,VirginIslandsDanishWestIndies,
@@ -2039,7 +2022,6 @@ St. Thomas,locality,America,,VirginIslandsDanishWestIndies,Virgin Islands (Danis
 St. Vincent and the Grenadines,GPH_entity,America,57,St.VincentandtheGrenadines,
 St. Vincent and the Grenadines (other),locality,America,,,St. Vincent and the Grenadines
 Straits Settlements,GPH_entity,Asia,827,StraitsSettlements,
-Straits Settlements Dependencies,locality,Asia,,,Straits Settlements
 Stralsund,locality,Europe,,Stralsund,Prussia
 Suakin,locality,Africa,,,Sudan (Anglo-Egyptian Sudan) (Mahdist State)
 Sudan (Anglo-Egyptian Sudan) (Mahdist State),GPH_entity,Africa,625,NorthSudanSudanAngloEgyptian,
@@ -2331,7 +2313,7 @@ Portendick,locality,Africa,,,Mauritania
 Eastern Asia (other) & Penang,group,Asia,,,
 Lamu,locality,Africa,,,Italian Somaliland
 British Oceania (other) & Pitcairn Is.,group,Oceania,,,
-Mongolia & People's Republic of China & Tibet & Weihaiwei,group,Asia,,,
+Mongolia & People's Republic of China (China) & Tibet & Weihaiwei,group,Asia,,,
 Hainan & Macao & People's Republic of China (China),group,Asia,,,
 British Colonies (other) & United Kingdom,group,World,,,
 Austria & Hungary,group,Europe,,,
@@ -2351,3 +2333,5 @@ Inhamissengo,locality,Africa,,,Mozambique (Portuguese East Africa)
 Al Mudi,locality,Asia,,,Yemen Arab Republic (North Yemen) (Kingdom of Yemen)
 Ouémé River,locality,Africa,,,Benin (Dahomey)
 Kutch (other),locality,Asia,,,Kutch
+Hainan,locality,Asia,,,People's Republic of China (China)
+Central Europe,geographical_area,Europe,,,
