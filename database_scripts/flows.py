@@ -1,8 +1,9 @@
 #!/usr/bin/python3
-import os
-import csv
 import argparse
+import csv
+import os
 import subprocess
+
 from desaggregate_groups_blur_ratio_method import flow_disaggregate_groups
 from flows_deduplication_pipeline import deduplicate_flows
 from utils import source_filename
@@ -13,17 +14,15 @@ DATAPACKAGE_ROOT_DIR = "../"
 
 
 def aggregate_flows_from_datapackage():
-    from datapackage import Package
+    from frictionless import Package
 
-    ricardo_package = Package(
-        os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
-        DATAPACKAGE_ROOT_DIR,
-        strict=True,
+    ricardo_package = Package( "datapackage.json",
+        basepath=DATAPACKAGE_ROOT_DIR
     )
     flows_resource = ricardo_package.get_resource("flows")
     # data validation should be done elsewhere
-    flows = flows_resource.iter(keyed=True, cast=False)
-    flows_headers = [f["name"] for f in flows_resource.descriptor["schema"]["fields"]]
+    flows = flows_resource.read_rows()
+    flows_headers = [f.name for f in flows_resource.schema.fields]
     with open(
         os.path.join(DATAPACKAGE_ROOT_DIR, "data", "flows.csv"), "w", encoding="utf8"
     ) as flows_f:
@@ -60,17 +59,16 @@ def aggregate_flows_from_csv_files():
 
 def control_flow_files():
     with open("../data/sources.csv", "r") as sf:
-        from datapackage import Package
+        from frictionless import Package
 
         sources = csv.DictReader(sf)
         sources_filenames = [f"{source_filename(s)}.csv" for s in sources]
 
-        ricardo_package = Package(
-            os.path.join(DATAPACKAGE_ROOT_DIR, "datapackage.json"),
-            DATAPACKAGE_ROOT_DIR,
-            strict=True,
+        ricardo_package = Package( "datapackage.json",
+            basepath=DATAPACKAGE_ROOT_DIR
         )
         flows_resource = ricardo_package.get_resource("flows")
+
 
         for dirpath, dirnames, filenames in os.walk(
             os.path.join(DATAPACKAGE_ROOT_DIR, "data", "flows")
@@ -79,19 +77,31 @@ def control_flow_files():
             missing_file_in_datapackage = [
                 f
                 for f in filenames
-                if f"data/flows/{f}" not in flows_resource.descriptor["path"]
+                if f"data/flows/{f}" not in flows_resource.extrapaths
             ]
             missing_file_in_sources = [
                 f for f in filenames if f not in sources_filenames
             ]
-            deprecated_file_in_datapackage = [f for f in flows_resource.descriptor["path"] if f.split('/')[-1] not in filenames]
+            deprecated_file_in_datapackage = [f for f in flows_resource.extrapaths if f.split('/')[-1] not in filenames]
+
+            empty_files:list[str] = []
+            for f in filenames:
+                with open(os.path.join(DATAPACKAGE_ROOT_DIR, "data", "flows", f), "r") as file:
+                    num_lines = sum(1 for _ in file)
+                    if num_lines <= 1:
+                        empty_files.append(f)
+
+
             print("missing in datapackage")
             print(len(missing_file_in_datapackage))
+            print(missing_file_in_datapackage)
             print("missing in sources")
             print(len(missing_file_in_sources))
             print(f"missing {len(missing_file_in_datapackage)} on {len(filenames)}")
             print(f"{len(deprecated_file_in_datapackage)} deprecated file in datapackage")
             print(deprecated_file_in_datapackage)
+            print(f"empty source files {len(empty_files)}")
+            print('\n'.join(empty_files))
 
 
 def homogenize_partners():
